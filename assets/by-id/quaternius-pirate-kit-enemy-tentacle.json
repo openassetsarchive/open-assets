@@ -1,0 +1,103 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T01:16:09.455Z",
+  "pack": {
+    "id": "quaternius-pirate-kit",
+    "name": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit"
+    ]
+  },
+  "asset": {
+    "id": "quaternius-pirate-kit-enemy-tentacle",
+    "name": "Enemy Tentacle",
+    "description": "Pirate enemy model (Enemy Tentacle).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-enemy-tentacle.gltf",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "enemy",
+      "animated"
+    ],
+    "aliases": [
+      "foe",
+      "hostile"
+    ],
+    "geometry": {
+      "bounds": {
+        "min": [
+          -0.423315,
+          0.005519,
+          -0.352253
+        ],
+        "max": [
+          0.423315,
+          6.072241,
+          0.31986
+        ],
+        "size": [
+          0.846631,
+          6.066722,
+          0.672113
+        ],
+        "center": [
+          0,
+          3.03888,
+          -0.016196
+        ],
+        "diagonal": 6.162275
+      },
+      "triangleCount": 3874,
+      "drawCallCount": 1,
+      "renderVertexCount": 11622,
+      "uploadVertexCount": 3624,
+      "meshCount": 1,
+      "primitiveCount": 1
+    },
+    "materials": {
+      "count": 1,
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "doubleSidedCount": 1
+    },
+    "textures": {
+      "count": 1,
+      "embeddedCount": 1,
+      "externalCount": 0,
+      "maxResolution": [
+        32,
+        32
+      ]
+    },
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rig": {
+      "rigged": false,
+      "skinCount": 0,
+      "jointCountTotal": 0,
+      "skeletonRoots": [],
+      "hasInverseBindMatrices": false
+    },
+    "compatibility": {
+      "requiredExtensions": [],
+      "usedExtensions": [],
+      "dependencyMode": "standalone"
+    },
+    "quality": {
+      "warningCount": 0,
+      "errorCount": 0
+    }
+  }
+}

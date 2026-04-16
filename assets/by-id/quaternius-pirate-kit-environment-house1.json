@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T01:16:09.455Z",
+  "pack": {
+    "id": "quaternius-pirate-kit",
+    "name": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit"
+    ]
+  },
+  "asset": {
+    "id": "quaternius-pirate-kit-environment-house1",
+    "name": "Environment House1",
+    "description": "Pirate environment model (Environment House1).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-environment-house1.gltf",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "geometry": {
+      "bounds": {
+        "min": [
+          -7.812669,
+          -0.0354,
+          -2.297413
+        ],
+        "max": [
+          5.729738,
+          6.738661,
+          2.297413
+        ],
+        "size": [
+          13.542408,
+          6.774061,
+          4.594827
+        ],
+        "center": [
+          -1.041466,
+          3.351631,
+          0
+        ],
+        "diagonal": 15.823942
+      },
+      "triangleCount": 11878,
+      "drawCallCount": 2,
+      "renderVertexCount": 35634,
+      "uploadVertexCount": 15168,
+      "meshCount": 1,
+      "primitiveCount": 2
+    },
+    "materials": {
+      "count": 2,
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "doubleSidedCount": 2
+    },
+    "textures": {
+      "count": 1,
+      "embeddedCount": 1,
+      "externalCount": 0,
+      "maxResolution": [
+        32,
+        32
+      ]
+    },
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rig": {
+      "rigged": false,
+      "skinCount": 0,
+      "jointCountTotal": 0,
+      "skeletonRoots": [],
+      "hasInverseBindMatrices": false
+    },
+    "compatibility": {
+      "requiredExtensions": [],
+      "usedExtensions": [],
+      "dependencyMode": "standalone"
+    },
+    "quality": {
+      "warningCount": 0,
+      "errorCount": 0
+    }
+  }
+}

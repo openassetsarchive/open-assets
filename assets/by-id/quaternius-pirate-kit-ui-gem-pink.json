@@ -1,0 +1,100 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T01:16:09.455Z",
+  "pack": {
+    "id": "quaternius-pirate-kit",
+    "name": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit"
+    ]
+  },
+  "asset": {
+    "id": "quaternius-pirate-kit-ui-gem-pink",
+    "name": "UI Gem Pink",
+    "description": "Pirate UI model (UI Gem Pink).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-ui-gem-pink.gltf",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "ui",
+      "icon"
+    ],
+    "aliases": [],
+    "geometry": {
+      "bounds": {
+        "min": [
+          -0.211444,
+          -0.362564,
+          -0.211444
+        ],
+        "max": [
+          0.211444,
+          0.362564,
+          0.211444
+        ],
+        "size": [
+          0.422888,
+          0.725128,
+          0.422888
+        ],
+        "center": [
+          0,
+          0,
+          0
+        ],
+        "diagonal": 0.939936
+      },
+      "triangleCount": 44,
+      "drawCallCount": 1,
+      "renderVertexCount": 132,
+      "uploadVertexCount": 80,
+      "meshCount": 1,
+      "primitiveCount": 1
+    },
+    "materials": {
+      "count": 1,
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "doubleSidedCount": 1
+    },
+    "textures": {
+      "count": 1,
+      "embeddedCount": 1,
+      "externalCount": 0,
+      "maxResolution": [
+        32,
+        32
+      ]
+    },
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rig": {
+      "rigged": false,
+      "skinCount": 0,
+      "jointCountTotal": 0,
+      "skeletonRoots": [],
+      "hasInverseBindMatrices": false
+    },
+    "compatibility": {
+      "requiredExtensions": [],
+      "usedExtensions": [],
+      "dependencyMode": "standalone"
+    },
+    "quality": {
+      "warningCount": 0,
+      "errorCount": 0
+    }
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T01:16:09.455Z",
+  "pack": {
+    "id": "quaternius-pirate-kit",
+    "name": "Quaternius Pirate Kit",
+    "creator": "Quaternius",
+    "license": "CC0",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit"
+    ]
+  },
+  "asset": {
+    "id": "quaternius-pirate-kit-ship-small",
+    "name": "Ship Small",
+    "description": "Pirate ship model (Ship Small).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "Ship_Small.gltf",
+    "fileName": "Ship_Small.gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-ship-small.gltf",
+    "file": {
+      "primaryBytes": 317113,
+      "totalBytes": 317113,
+      "primarySha256": "c2596ed1eec90c9b0338109f5e66a88755db92f37c5473937fe5f463365a726f",
+      "bundleSha256": "1414fbe5a4aaf8ee1d55c6af9608fc4c216f04e6e2298bca5113c1ee85f7aaf5",
+      "resourceCount": 1
+    },
+    "geometry": {
+      "bounds": {
+        "min": [
+          -2.874652,
+          -0.01184,
+          -1.800599
+        ],
+        "max": [
+          2.274452,
+          1.980254,
+          1.800599
+        ],
+        "size": [
+          5.149104,
+          1.992094,
+          3.601198
+        ],
+        "center": [
+          -0.3001,
+          0.984207,
+          0
+        ],
+        "diagonal": 6.591687
+      },
+      "triangleCount": 5578,
+      "drawCallCount": 1,
+      "renderVertexCount": 16734,
+      "uploadVertexCount": 6215,
+      "uploadNaiveVertexCount": 6215,
+      "meshCount": 1,
+      "primitiveCount": 1,
+      "morphTargetCount": 0
+    },
+    "structure": {
+      "sceneCount": 1,
+      "defaultScene": "Scene",
+      "nodeCount": 1,
+      "materialCount": 1,
+      "textureCount": 1,
+      "skinCount": 0,
+      "animationCount": 0,
+      "meshInstanceCount": 1
+    },
+    "sceneNames": [
+      "Scene"
+    ],
+    "materials": [
+      {
+        "name": "Atlas",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true,
+        "textureSlots": [
+          "baseColorTexture"
+        ],
+        "instances": 1
+      }
+    ],
+    "textures": [
+      {
+        "name": "Atlas_Pirate",
+        "uri": null,
+        "mimeType": "image/png",
+        "width": 32,
+        "height": 32,
+        "byteSize": 3207,
+        "gpuByteSize": 5460,
+        "compression": "",
+        "slots": [
+          "baseColorTexture"
+        ],
+        "embedded": true
+      }
+    ],
+    "animations": [],
+    "skins": [],
+    "meshes": [
+      {
+        "name": "Cube.320",
+        "primitiveCount": 1,
+        "triangleCount": 5578,
+        "renderVertexCount": 16734,
+        "uploadVertexCount": 6215,
+        "uploadNaiveVertexCount": 6215,
+        "attributes": [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ],
+        "materials": [
+          "Atlas"
+        ],
+        "modes": [
+          "4"
+        ],
+        "morphTargetCount": 0
+      }
+    ],
+    "resources": [
+      {
+        "kind": "model",
+        "uri": "Ship_Small.gltf",
+        "relativePath": "Ship_Small.gltf",
+        "bytes": 317113,
+        "sha256": "c2596ed1eec90c9b0338109f5e66a88755db92f37c5473937fe5f463365a726f",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      }
+    ],
+    "source": {
+      "inputRoot": "/Users/me/dev/open-assets/packs/quaternius-pirate-kit/source",
+      "absolutePath": "/Users/me/dev/open-assets/packs/quaternius-pirate-kit/source/Ship_Small.gltf"
+    },
+    "metadata": {
+      "assetVersion": "2.0",
+      "generator": "glTF-Transform v4.3.0",
+      "copyright": null,
+      "extensions": {
+        "used": [],
+        "required": []
+      }
+    },
+    "search": {
+      "tags": [
+        "pirate",
+        "low-poly",
+        "stylized",
+        "quaternius",
+        "kit",
+        "ship",
+        "vehicle"
+      ],
+      "aliases": [
+        "boat",
+        "small ship"
+      ],
+      "tokens": [
+        "boat",
+        "characters",
+        "docks",
+        "environment",
+        "islands",
+        "kit",
+        "palm",
+        "pirate",
+        "poly",
+        "props",
+        "quaternius",
+        "ship",
+        "ships",
+        "small",
+        "stylized",
+        "trees",
+        "ui",
+        "vehicle",
+        "weapons"
+      ]
+    },
+    "warnings": [],
+    "errors": []
+  }
+}

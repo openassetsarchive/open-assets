@@ -1,0 +1,100 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T01:16:09.455Z",
+  "pack": {
+    "id": "quaternius-pirate-kit",
+    "name": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit"
+    ]
+  },
+  "asset": {
+    "id": "quaternius-pirate-kit-ui-chickenleg",
+    "name": "UI Chicken Leg",
+    "description": "Pirate UI model (UI Chicken Leg).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-ui-chickenleg.gltf",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "ui",
+      "icon"
+    ],
+    "aliases": [],
+    "geometry": {
+      "bounds": {
+        "min": [
+          -0.273427,
+          -0.265532,
+          -0.254269
+        ],
+        "max": [
+          0.230695,
+          0.234176,
+          0.284686
+        ],
+        "size": [
+          0.504122,
+          0.499709,
+          0.538955
+        ],
+        "center": [
+          -0.021366,
+          -0.015678,
+          0.015209
+        ],
+        "diagonal": 0.891246
+      },
+      "triangleCount": 620,
+      "drawCallCount": 1,
+      "renderVertexCount": 1860,
+      "uploadVertexCount": 385,
+      "meshCount": 1,
+      "primitiveCount": 1
+    },
+    "materials": {
+      "count": 1,
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "doubleSidedCount": 1
+    },
+    "textures": {
+      "count": 1,
+      "embeddedCount": 1,
+      "externalCount": 0,
+      "maxResolution": [
+        32,
+        32
+      ]
+    },
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rig": {
+      "rigged": false,
+      "skinCount": 0,
+      "jointCountTotal": 0,
+      "skeletonRoots": [],
+      "hasInverseBindMatrices": false
+    },
+    "compatibility": {
+      "requiredExtensions": [],
+      "usedExtensions": [],
+      "dependencyMode": "standalone"
+    },
+    "quality": {
+      "warningCount": 0,
+      "errorCount": 0
+    }
+  }
+}

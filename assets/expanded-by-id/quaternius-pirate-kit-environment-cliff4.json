@@ -1,0 +1,187 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T01:16:09.455Z",
+  "pack": {
+    "id": "quaternius-pirate-kit",
+    "name": "Quaternius Pirate Kit",
+    "creator": "Quaternius",
+    "license": "CC0",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit"
+    ]
+  },
+  "asset": {
+    "id": "quaternius-pirate-kit-environment-cliff4",
+    "name": "Environment Cliff4",
+    "description": "Pirate environment model (Environment Cliff4).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "Environment_Cliff4.gltf",
+    "fileName": "Environment_Cliff4.gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-environment-cliff4.gltf",
+    "file": {
+      "primaryBytes": 743217,
+      "totalBytes": 743217,
+      "primarySha256": "4f8722d63f775ee923626b6601a8493d36ad5350d085c7922ed929b9960dc1ca",
+      "bundleSha256": "81321ad0ee026834172bdb2ab0dfeb7ea0d8c6e0e790d87833e0129b77b31b7b",
+      "resourceCount": 1
+    },
+    "geometry": {
+      "bounds": {
+        "min": [
+          -3.374406,
+          -0.255123,
+          -3.702242
+        ],
+        "max": [
+          4.001304,
+          5.270463,
+          3.414372
+        ],
+        "size": [
+          7.37571,
+          5.525586,
+          7.116614
+        ],
+        "center": [
+          0.313449,
+          2.50767,
+          -0.143935
+        ],
+        "diagonal": 11.643857
+      },
+      "triangleCount": 23714,
+      "drawCallCount": 1,
+      "renderVertexCount": 71142,
+      "uploadVertexCount": 12801,
+      "uploadNaiveVertexCount": 12801,
+      "meshCount": 1,
+      "primitiveCount": 1,
+      "morphTargetCount": 0
+    },
+    "structure": {
+      "sceneCount": 1,
+      "defaultScene": "Scene",
+      "nodeCount": 1,
+      "materialCount": 1,
+      "textureCount": 1,
+      "skinCount": 0,
+      "animationCount": 0,
+      "meshInstanceCount": 1
+    },
+    "sceneNames": [
+      "Scene"
+    ],
+    "materials": [
+      {
+        "name": "Atlas",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true,
+        "textureSlots": [
+          "baseColorTexture"
+        ],
+        "instances": 1
+      }
+    ],
+    "textures": [
+      {
+        "name": "Atlas_Pirate",
+        "uri": null,
+        "mimeType": "image/png",
+        "width": 32,
+        "height": 32,
+        "byteSize": 3207,
+        "gpuByteSize": 5460,
+        "compression": "",
+        "slots": [
+          "baseColorTexture"
+        ],
+        "embedded": true
+      }
+    ],
+    "animations": [],
+    "skins": [],
+    "meshes": [
+      {
+        "name": "mesh.002",
+        "primitiveCount": 1,
+        "triangleCount": 23714,
+        "renderVertexCount": 71142,
+        "uploadVertexCount": 12801,
+        "uploadNaiveVertexCount": 12801,
+        "attributes": [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ],
+        "materials": [
+          "Atlas"
+        ],
+        "modes": [
+          "4"
+        ],
+        "morphTargetCount": 0
+      }
+    ],
+    "resources": [
+      {
+        "kind": "model",
+        "uri": "Environment_Cliff4.gltf",
+        "relativePath": "Environment_Cliff4.gltf",
+        "bytes": 743217,
+        "sha256": "4f8722d63f775ee923626b6601a8493d36ad5350d085c7922ed929b9960dc1ca",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      }
+    ],
+    "source": {
+      "inputRoot": "/Users/me/dev/open-assets/packs/quaternius-pirate-kit/source",
+      "absolutePath": "/Users/me/dev/open-assets/packs/quaternius-pirate-kit/source/Environment_Cliff4.gltf"
+    },
+    "metadata": {
+      "assetVersion": "2.0",
+      "generator": "glTF-Transform v4.3.0",
+      "copyright": null,
+      "extensions": {
+        "used": [],
+        "required": []
+      }
+    },
+    "search": {
+      "tags": [
+        "pirate",
+        "low-poly",
+        "stylized",
+        "quaternius",
+        "kit",
+        "environment"
+      ],
+      "aliases": [],
+      "tokens": [
+        "characters",
+        "cliff4",
+        "docks",
+        "environment",
+        "islands",
+        "kit",
+        "palm",
+        "pirate",
+        "poly",
+        "props",
+        "quaternius",
+        "ships",
+        "stylized",
+        "trees",
+        "ui",
+        "weapons"
+      ]
+    },
+    "warnings": [],
+    "errors": []
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T01:16:09.455Z",
+  "pack": {
+    "id": "quaternius-pirate-kit",
+    "name": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit"
+    ]
+  },
+  "asset": {
+    "id": "quaternius-pirate-kit-ui-gem-green",
+    "name": "UI Gem Green",
+    "description": "Pirate UI model (UI Gem Green).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-ui-gem-green.gltf",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "ui",
+      "icon"
+    ],
+    "aliases": [],
+    "geometry": {
+      "bounds": {
+        "min": [
+          -0.280086,
+          -0.364698,
+          -0.280086
+        ],
+        "max": [
+          0.280086,
+          0.200995,
+          0.280086
+        ],
+        "size": [
+          0.560172,
+          0.565693,
+          0.560172
+        ],
+        "center": [
+          0,
+          -0.081851,
+          0
+        ],
+        "diagonal": 0.973444
+      },
+      "triangleCount": 62,
+      "drawCallCount": 1,
+      "renderVertexCount": 186,
+      "uploadVertexCount": 112,
+      "meshCount": 1,
+      "primitiveCount": 1
+    },
+    "materials": {
+      "count": 1,
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "doubleSidedCount": 1
+    },
+    "textures": {
+      "count": 1,
+      "embeddedCount": 1,
+      "externalCount": 0,
+      "maxResolution": [
+        32,
+        32
+      ]
+    },
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rig": {
+      "rigged": false,
+      "skinCount": 0,
+      "jointCountTotal": 0,
+      "skeletonRoots": [],
+      "hasInverseBindMatrices": false
+    },
+    "compatibility": {
+      "requiredExtensions": [],
+      "usedExtensions": [],
+      "dependencyMode": "standalone"
+    },
+    "quality": {
+      "warningCount": 0,
+      "errorCount": 0
+    }
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T01:16:09.455Z",
+  "pack": {
+    "id": "quaternius-pirate-kit",
+    "name": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit"
+    ]
+  },
+  "asset": {
+    "id": "quaternius-pirate-kit-characters-mako",
+    "name": "Characters Mako",
+    "description": "Pirate character model (Characters Mako).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-characters-mako.gltf",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "character",
+      "animated"
+    ],
+    "aliases": [
+      "npc",
+      "pirate character"
+    ],
+    "geometry": {
+      "bounds": {
+        "min": [
+          -1.226991,
+          -0.001581,
+          -0.38986
+        ],
+        "max": [
+          1.226991,
+          1.592646,
+          1.048246
+        ],
+        "size": [
+          2.453982,
+          1.594228,
+          1.438106
+        ],
+        "center": [
+          0,
+          0.795533,
+          0.329193
+        ],
+        "diagonal": 3.260634
+      },
+      "triangleCount": 13172,
+      "drawCallCount": 2,
+      "renderVertexCount": 39516,
+      "uploadVertexCount": 11027,
+      "meshCount": 2,
+      "primitiveCount": 2
+    },
+    "materials": {
+      "count": 1,
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "doubleSidedCount": 1
+    },
+    "textures": {
+      "count": 1,
+      "embeddedCount": 1,
+      "externalCount": 0,
+      "maxResolution": [
+        1024,
+        1024
+      ]
+    },
+    "animated": true,
+    "animationCount": 14,
+    "animations": [
+      {
+        "name": "Death",
+        "durationSec": 0.767,
+        "keyframes": 608,
+        "targetPaths": [
+          "rotation",
+          "translation"
+        ],
+        "interpolations": [
+          "LINEAR"
+        ]
+      },
+      {
+        "name": "Duck",
+        "durationSec": 1.667,
+        "keyframes": 952,
+        "targetPaths": [
+          "rotation",
+          "translation"
+        ],
+        "interpolations": [
+          "LINEAR"
+        ]
+      },
+      {
+        "name": "HitReact",
+        "durationSec": 0.6,
+        "keyframes": 406,
+        "targetPaths": [
+          "rotation",
+          "translation"
+        ],
+        "interpolations": [
+          "LINEAR"
+        ]
+      },
+      {
+        "name": "Idle",
+        "durationSec": 1,
+        "keyframes": 545,
+        "targetPaths": [
+          "rotation",
+          "translation"
+        ],
+        "interpolations": [
+          "LINEAR"
+        ]
+      },
+      {
+        "name": "Jump",
+        "durationSec": 0.367,
+        "keyframes": 328,
+        "targetPaths": [
+          "rotation",
+          "translation"
+        ],
+        "interpolations": [
+          "LINEAR"
+        ]
+      },
+      {
+        "name": "Jump_Idle",
+        "durationSec": 0.5,
+        "keyframes": 336,
+        "targetPaths": [
+          "rotation",
+          "translation"
+        ],
+        "interpolations": [
+          "LINEAR"
+        ]
+      },
+      {
+        "name": "Jump_Land",
+        "durationSec": 0.367,
+        "keyframes": 328,
+        "targetPaths": [
+          "rotation",
+          "translation"
+        ],
+        "interpolations": [
+          "LINEAR"
+        ]
+      },
+      {
+        "name": "No",
+        "durationSec": 1.667,
+        "keyframes": 805,
+        "targetPaths": [
+          "rotation",
+          "translation"
+        ],
+        "interpolations": [
+          "LINEAR"
+        ]
+      },
+      {
+        "name": "Punch",
+        "durationSec": 0.767,
+        "keyframes": 520,
+        "targetPaths": [
+          "rotation",
+          "translation"
+        ],
+        "interpolations": [
+          "LINEAR"
+        ]
+      },
+      {
+        "name": "Run",
+        "durationSec": 0.733,
+        "keyframes": 584,
+        "targetPaths": [
+          "rotation",
+          "translation"
+        ],
+        "interpolations": [
+          "LINEAR"
+        ]
+      },
+      {
+        "name": "Sword",
+        "durationSec": 0.867,
+        "keyframes": 668,
+        "targetPaths": [
+          "rotation",
+          "translation"
+        ],
+        "interpolations": [
+          "LINEAR"
+        ]
+      },
+      {
+        "name": "Walk",
+        "durationSec": 1,
+        "keyframes": 628,
+        "targetPaths": [
+          "rotation",
+          "translation"
+        ],
+        "interpolations": [
+          "LINEAR"
+        ]
+      },
+      {
+        "name": "Wave",
+        "durationSec": 1.667,
+        "keyframes": 854,
+        "targetPaths": [
+          "rotation",
+          "translation"
+        ],
+        "interpolations": [
+          "LINEAR"
+        ]
+      },
+      {
+        "name": "Yes",
+        "durationSec": 1.667,
+        "keyframes": 805,
+        "targetPaths": [
+          "rotation",
+          "translation"
+        ],
+        "interpolations": [
+          "LINEAR"
+        ]
+      }
+    ],
+    "rig": {
+      "rigged": true,
+      "skinCount": 1,
+      "jointCountTotal": 43,
+      "skeletonRoots": [],
+      "hasInverseBindMatrices": true
+    },
+    "compatibility": {
+      "requiredExtensions": [],
+      "usedExtensions": [],
+      "dependencyMode": "standalone"
+    },
+    "quality": {
+      "warningCount": 0,
+      "errorCount": 0
+    }
+  }
+}

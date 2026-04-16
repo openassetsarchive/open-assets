@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T01:16:09.455Z",
+  "pack": {
+    "id": "quaternius-pirate-kit",
+    "name": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit"
+    ]
+  },
+  "asset": {
+    "id": "quaternius-pirate-kit-environment-rock-5",
+    "name": "Environment Rock 5",
+    "description": "Pirate environment model (Environment Rock 5).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-environment-rock-5.gltf",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "geometry": {
+      "bounds": {
+        "min": [
+          -0.308656,
+          -0.295634,
+          -0.293654
+        ],
+        "max": [
+          0.29667,
+          0.308988,
+          0.291984
+        ],
+        "size": [
+          0.605326,
+          0.604623,
+          0.585637
+        ],
+        "center": [
+          -0.005993,
+          0.006677,
+          -0.000835
+        ],
+        "diagonal": 1.036803
+      },
+      "triangleCount": 716,
+      "drawCallCount": 1,
+      "renderVertexCount": 2148,
+      "uploadVertexCount": 390,
+      "meshCount": 1,
+      "primitiveCount": 1
+    },
+    "materials": {
+      "count": 1,
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "doubleSidedCount": 1
+    },
+    "textures": {
+      "count": 1,
+      "embeddedCount": 1,
+      "externalCount": 0,
+      "maxResolution": [
+        32,
+        32
+      ]
+    },
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rig": {
+      "rigged": false,
+      "skinCount": 0,
+      "jointCountTotal": 0,
+      "skeletonRoots": [],
+      "hasInverseBindMatrices": false
+    },
+    "compatibility": {
+      "requiredExtensions": [],
+      "usedExtensions": [],
+      "dependencyMode": "standalone"
+    },
+    "quality": {
+      "warningCount": 0,
+      "errorCount": 0
+    }
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T01:16:09.455Z",
+  "pack": {
+    "id": "quaternius-pirate-kit",
+    "name": "Quaternius Pirate Kit",
+    "creator": "Quaternius",
+    "license": "CC0",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit"
+    ]
+  },
+  "asset": {
+    "id": "quaternius-pirate-kit-prop-bomb",
+    "name": "Prop Bomb",
+    "description": "Pirate prop model (Prop Bomb).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "Prop_Bomb.gltf",
+    "fileName": "Prop_Bomb.gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-prop-bomb.gltf",
+    "file": {
+      "primaryBytes": 31449,
+      "totalBytes": 31449,
+      "primarySha256": "51662694cfca79d985a87cea767cac7f00eff6259752d7b54064d9bb078ef5ba",
+      "bundleSha256": "7277476dea50bee0e83e1485c37a7fc0c3a448d01efdd0282ce479dfd52c6e85",
+      "resourceCount": 1
+    },
+    "geometry": {
+      "bounds": {
+        "min": [
+          -0.210356,
+          -0.216896,
+          -0.213601
+        ],
+        "max": [
+          0.245672,
+          0.478482,
+          0.213601
+        ],
+        "size": [
+          0.456029,
+          0.695378,
+          0.427202
+        ],
+        "center": [
+          0.017658,
+          0.130793,
+          0
+        ],
+        "diagonal": 0.934888
+      },
+      "triangleCount": 686,
+      "drawCallCount": 1,
+      "renderVertexCount": 2058,
+      "uploadVertexCount": 437,
+      "uploadNaiveVertexCount": 437,
+      "meshCount": 1,
+      "primitiveCount": 1,
+      "morphTargetCount": 0
+    },
+    "structure": {
+      "sceneCount": 1,
+      "defaultScene": "Scene",
+      "nodeCount": 1,
+      "materialCount": 1,
+      "textureCount": 1,
+      "skinCount": 0,
+      "animationCount": 0,
+      "meshInstanceCount": 1
+    },
+    "sceneNames": [
+      "Scene"
+    ],
+    "materials": [
+      {
+        "name": "Atlas",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true,
+        "textureSlots": [
+          "baseColorTexture"
+        ],
+        "instances": 1
+      }
+    ],
+    "textures": [
+      {
+        "name": "Atlas_Pirate",
+        "uri": null,
+        "mimeType": "image/png",
+        "width": 32,
+        "height": 32,
+        "byteSize": 3207,
+        "gpuByteSize": 5460,
+        "compression": "",
+        "slots": [
+          "baseColorTexture"
+        ],
+        "embedded": true
+      }
+    ],
+    "animations": [],
+    "skins": [],
+    "meshes": [
+      {
+        "name": "CUBezierCurve.001",
+        "primitiveCount": 1,
+        "triangleCount": 686,
+        "renderVertexCount": 2058,
+        "uploadVertexCount": 437,
+        "uploadNaiveVertexCount": 437,
+        "attributes": [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ],
+        "materials": [
+          "Atlas"
+        ],
+        "modes": [
+          "4"
+        ],
+        "morphTargetCount": 0
+      }
+    ],
+    "resources": [
+      {
+        "kind": "model",
+        "uri": "Prop_Bomb.gltf",
+        "relativePath": "Prop_Bomb.gltf",
+        "bytes": 31449,
+        "sha256": "51662694cfca79d985a87cea767cac7f00eff6259752d7b54064d9bb078ef5ba",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      }
+    ],
+    "source": {
+      "inputRoot": "/Users/me/dev/open-assets/packs/quaternius-pirate-kit/source",
+      "absolutePath": "/Users/me/dev/open-assets/packs/quaternius-pirate-kit/source/Prop_Bomb.gltf"
+    },
+    "metadata": {
+      "assetVersion": "2.0",
+      "generator": "glTF-Transform v4.3.0",
+      "copyright": null,
+      "extensions": {
+        "used": [],
+        "required": []
+      }
+    },
+    "search": {
+      "tags": [
+        "pirate",
+        "low-poly",
+        "stylized",
+        "quaternius",
+        "kit",
+        "prop"
+      ],
+      "aliases": [],
+      "tokens": [
+        "bomb",
+        "characters",
+        "docks",
+        "environment",
+        "islands",
+        "kit",
+        "palm",
+        "pirate",
+        "poly",
+        "prop",
+        "props",
+        "quaternius",
+        "ships",
+        "stylized",
+        "trees",
+        "ui",
+        "weapons"
+      ]
+    },
+    "warnings": [],
+    "errors": []
+  }
+}

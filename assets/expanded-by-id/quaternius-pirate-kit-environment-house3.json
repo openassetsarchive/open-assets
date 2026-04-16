@@ -1,0 +1,196 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T01:16:09.455Z",
+  "pack": {
+    "id": "quaternius-pirate-kit",
+    "name": "Quaternius Pirate Kit",
+    "creator": "Quaternius",
+    "license": "CC0",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit"
+    ]
+  },
+  "asset": {
+    "id": "quaternius-pirate-kit-environment-house3",
+    "name": "Environment House3",
+    "description": "Pirate environment model (Environment House3).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "Environment_House3.gltf",
+    "fileName": "Environment_House3.gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-environment-house3.gltf",
+    "file": {
+      "primaryBytes": 798598,
+      "totalBytes": 798598,
+      "primarySha256": "d4da178f124de86a7c21a66e009689dff7ad1b9a19c7a70777782343ca2511a2",
+      "bundleSha256": "d83e8cb0f71fe806c000e19959ac5810b88d6f31741de5c9676a9b8b9e4dfeb6",
+      "resourceCount": 1
+    },
+    "geometry": {
+      "bounds": {
+        "min": [
+          -4.22828,
+          0.000167,
+          -1.888923
+        ],
+        "max": [
+          4.22828,
+          10.642902,
+          1.888923
+        ],
+        "size": [
+          8.45656,
+          10.642735,
+          3.777847
+        ],
+        "center": [
+          0,
+          5.321535,
+          0
+        ],
+        "diagonal": 14.108627
+      },
+      "triangleCount": 9172,
+      "drawCallCount": 2,
+      "renderVertexCount": 27516,
+      "uploadVertexCount": 13414,
+      "uploadNaiveVertexCount": 13414,
+      "meshCount": 1,
+      "primitiveCount": 2,
+      "morphTargetCount": 0
+    },
+    "structure": {
+      "sceneCount": 1,
+      "defaultScene": "Scene",
+      "nodeCount": 1,
+      "materialCount": 2,
+      "textureCount": 1,
+      "skinCount": 0,
+      "animationCount": 0,
+      "meshInstanceCount": 1
+    },
+    "sceneNames": [
+      "Scene"
+    ],
+    "materials": [
+      {
+        "name": "Atlas",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true,
+        "textureSlots": [
+          "baseColorTexture"
+        ],
+        "instances": 1
+      },
+      {
+        "name": "Window",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true,
+        "textureSlots": [],
+        "instances": 1
+      }
+    ],
+    "textures": [
+      {
+        "name": "Atlas_Pirate",
+        "uri": null,
+        "mimeType": "image/png",
+        "width": 32,
+        "height": 32,
+        "byteSize": 3207,
+        "gpuByteSize": 5460,
+        "compression": "",
+        "slots": [
+          "baseColorTexture"
+        ],
+        "embedded": true
+      }
+    ],
+    "animations": [],
+    "skins": [],
+    "meshes": [
+      {
+        "name": "Cube.353",
+        "primitiveCount": 2,
+        "triangleCount": 9172,
+        "renderVertexCount": 27516,
+        "uploadVertexCount": 13414,
+        "uploadNaiveVertexCount": 13414,
+        "attributes": [
+          "COLOR_0",
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ],
+        "materials": [
+          "Atlas",
+          "Window"
+        ],
+        "modes": [
+          "4"
+        ],
+        "morphTargetCount": 0
+      }
+    ],
+    "resources": [
+      {
+        "kind": "model",
+        "uri": "Environment_House3.gltf",
+        "relativePath": "Environment_House3.gltf",
+        "bytes": 798598,
+        "sha256": "d4da178f124de86a7c21a66e009689dff7ad1b9a19c7a70777782343ca2511a2",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      }
+    ],
+    "source": {
+      "inputRoot": "/Users/me/dev/open-assets/packs/quaternius-pirate-kit/source",
+      "absolutePath": "/Users/me/dev/open-assets/packs/quaternius-pirate-kit/source/Environment_House3.gltf"
+    },
+    "metadata": {
+      "assetVersion": "2.0",
+      "generator": "glTF-Transform v4.3.0",
+      "copyright": null,
+      "extensions": {
+        "used": [],
+        "required": []
+      }
+    },
+    "search": {
+      "tags": [
+        "pirate",
+        "low-poly",
+        "stylized",
+        "quaternius",
+        "kit",
+        "environment"
+      ],
+      "aliases": [],
+      "tokens": [
+        "characters",
+        "docks",
+        "environment",
+        "house3",
+        "islands",
+        "kit",
+        "palm",
+        "pirate",
+        "poly",
+        "props",
+        "quaternius",
+        "ships",
+        "stylized",
+        "trees",
+        "ui",
+        "weapons"
+      ]
+    },
+    "warnings": [],
+    "errors": []
+  }
+}

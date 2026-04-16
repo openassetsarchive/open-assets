@@ -1,0 +1,340 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T01:16:09.455Z",
+  "pack": {
+    "id": "quaternius-pirate-kit",
+    "name": "Quaternius Pirate Kit",
+    "creator": "Quaternius",
+    "license": "CC0",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit"
+    ]
+  },
+  "asset": {
+    "id": "quaternius-pirate-kit-characters-tentacle",
+    "name": "Characters Tentacle",
+    "description": "Pirate character model (Characters Tentacle).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "Characters_Tentacle.gltf",
+    "fileName": "Characters_Tentacle.gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-characters-tentacle.gltf",
+    "file": {
+      "primaryBytes": 460501,
+      "totalBytes": 460501,
+      "primarySha256": "2f9215484538bc93a671d328c4a77005b8b14717fac98371d640655eb3da3918",
+      "bundleSha256": "f6e6e0345b8e7da0deaa906f8ce50a369e3279d174363d4ac001b17253881ddd",
+      "resourceCount": 1
+    },
+    "geometry": {
+      "bounds": {
+        "min": [
+          -1.374063,
+          0.017913,
+          -1.143397
+        ],
+        "max": [
+          1.374063,
+          19.710228,
+          1.038252
+        ],
+        "size": [
+          2.748126,
+          19.692315,
+          2.181649
+        ],
+        "center": [
+          0,
+          9.86407,
+          -0.052572
+        ],
+        "diagonal": 20.002476
+      },
+      "triangleCount": 3874,
+      "drawCallCount": 1,
+      "renderVertexCount": 11622,
+      "uploadVertexCount": 3624,
+      "uploadNaiveVertexCount": 3624,
+      "meshCount": 1,
+      "primitiveCount": 1,
+      "morphTargetCount": 0
+    },
+    "structure": {
+      "sceneCount": 1,
+      "defaultScene": "Scene",
+      "nodeCount": 20,
+      "materialCount": 1,
+      "textureCount": 1,
+      "skinCount": 1,
+      "animationCount": 4,
+      "meshInstanceCount": 1
+    },
+    "sceneNames": [
+      "Scene"
+    ],
+    "materials": [
+      {
+        "name": "Atlas",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true,
+        "textureSlots": [
+          "baseColorTexture"
+        ],
+        "instances": 1
+      }
+    ],
+    "textures": [
+      {
+        "name": "Atlas_Pirate",
+        "uri": null,
+        "mimeType": "image/png",
+        "width": 32,
+        "height": 32,
+        "byteSize": 3207,
+        "gpuByteSize": 5460,
+        "compression": "",
+        "slots": [
+          "baseColorTexture"
+        ],
+        "embedded": true
+      }
+    ],
+    "animations": [
+      {
+        "name": "Tentacle_Attack",
+        "channels": 34,
+        "samplers": 34,
+        "keyframes": 432,
+        "durationSec": 0.9,
+        "targetPaths": [
+          "rotation",
+          "translation"
+        ],
+        "targetNodes": [
+          "IK",
+          "Rotation",
+          "Tentacle1",
+          "Tentacle10",
+          "Tentacle11",
+          "Tentacle12",
+          "Tentacle13",
+          "Tentacle14",
+          "Tentacle15",
+          "Tentacle2",
+          "Tentacle3",
+          "Tentacle4",
+          "Tentacle5",
+          "Tentacle6",
+          "Tentacle7",
+          "Tentacle8",
+          "Tentacle9"
+        ],
+        "interpolations": [
+          "LINEAR"
+        ],
+        "byteSize": 6792
+      },
+      {
+        "name": "Tentacle_Attack2",
+        "channels": 34,
+        "samplers": 34,
+        "keyframes": 532,
+        "durationSec": 1,
+        "targetPaths": [
+          "rotation",
+          "translation"
+        ],
+        "targetNodes": [
+          "IK",
+          "Rotation",
+          "Tentacle1",
+          "Tentacle10",
+          "Tentacle11",
+          "Tentacle12",
+          "Tentacle13",
+          "Tentacle14",
+          "Tentacle15",
+          "Tentacle2",
+          "Tentacle3",
+          "Tentacle4",
+          "Tentacle5",
+          "Tentacle6",
+          "Tentacle7",
+          "Tentacle8",
+          "Tentacle9"
+        ],
+        "interpolations": [
+          "LINEAR"
+        ],
+        "byteSize": 8392
+      },
+      {
+        "name": "Tentacle_Idle",
+        "channels": 34,
+        "samplers": 34,
+        "keyframes": 1751,
+        "durationSec": 3.333,
+        "targetPaths": [
+          "rotation",
+          "translation"
+        ],
+        "targetNodes": [
+          "IK",
+          "Rotation",
+          "Tentacle1",
+          "Tentacle10",
+          "Tentacle11",
+          "Tentacle12",
+          "Tentacle13",
+          "Tentacle14",
+          "Tentacle15",
+          "Tentacle2",
+          "Tentacle3",
+          "Tentacle4",
+          "Tentacle5",
+          "Tentacle6",
+          "Tentacle7",
+          "Tentacle8",
+          "Tentacle9"
+        ],
+        "interpolations": [
+          "LINEAR"
+        ],
+        "byteSize": 27896
+      },
+      {
+        "name": "Tentacle_Poke",
+        "channels": 34,
+        "samplers": 34,
+        "keyframes": 614,
+        "durationSec": 1.333,
+        "targetPaths": [
+          "rotation",
+          "translation"
+        ],
+        "targetNodes": [
+          "IK",
+          "Rotation",
+          "Tentacle1",
+          "Tentacle10",
+          "Tentacle11",
+          "Tentacle12",
+          "Tentacle13",
+          "Tentacle14",
+          "Tentacle15",
+          "Tentacle2",
+          "Tentacle3",
+          "Tentacle4",
+          "Tentacle5",
+          "Tentacle6",
+          "Tentacle7",
+          "Tentacle8",
+          "Tentacle9"
+        ],
+        "interpolations": [
+          "LINEAR"
+        ],
+        "byteSize": 9704
+      }
+    ],
+    "skins": [
+      {
+        "name": "TentacleArmature",
+        "jointCount": 18,
+        "skeletonRoot": null,
+        "hasInverseBindMatrices": true
+      }
+    ],
+    "meshes": [
+      {
+        "name": "Cube.011",
+        "primitiveCount": 1,
+        "triangleCount": 3874,
+        "renderVertexCount": 11622,
+        "uploadVertexCount": 3624,
+        "uploadNaiveVertexCount": 3624,
+        "attributes": [
+          "JOINTS_0",
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0",
+          "WEIGHTS_0"
+        ],
+        "materials": [
+          "Atlas"
+        ],
+        "modes": [
+          "4"
+        ],
+        "morphTargetCount": 0
+      }
+    ],
+    "resources": [
+      {
+        "kind": "model",
+        "uri": "Characters_Tentacle.gltf",
+        "relativePath": "Characters_Tentacle.gltf",
+        "bytes": 460501,
+        "sha256": "2f9215484538bc93a671d328c4a77005b8b14717fac98371d640655eb3da3918",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      }
+    ],
+    "source": {
+      "inputRoot": "/Users/me/dev/open-assets/packs/quaternius-pirate-kit/source",
+      "absolutePath": "/Users/me/dev/open-assets/packs/quaternius-pirate-kit/source/Characters_Tentacle.gltf"
+    },
+    "metadata": {
+      "assetVersion": "2.0",
+      "generator": "glTF-Transform v4.3.0",
+      "copyright": null,
+      "extensions": {
+        "used": [],
+        "required": []
+      }
+    },
+    "search": {
+      "tags": [
+        "pirate",
+        "low-poly",
+        "stylized",
+        "quaternius",
+        "kit",
+        "character",
+        "animated"
+      ],
+      "aliases": [
+        "npc",
+        "pirate character"
+      ],
+      "tokens": [
+        "animated",
+        "character",
+        "characters",
+        "docks",
+        "environment",
+        "islands",
+        "kit",
+        "npc",
+        "palm",
+        "pirate",
+        "poly",
+        "props",
+        "quaternius",
+        "ships",
+        "stylized",
+        "tentacle",
+        "trees",
+        "ui",
+        "weapons"
+      ]
+    },
+    "warnings": [],
+    "errors": []
+  }
+}

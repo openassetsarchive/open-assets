@@ -1,0 +1,189 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T01:16:09.455Z",
+  "pack": {
+    "id": "quaternius-pirate-kit",
+    "name": "Quaternius Pirate Kit",
+    "creator": "Quaternius",
+    "license": "CC0",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit"
+    ]
+  },
+  "asset": {
+    "id": "quaternius-pirate-kit-ui-gold",
+    "name": "UI Gold",
+    "description": "Pirate UI model (UI Gold).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "UI_Gold.gltf",
+    "fileName": "UI_Gold.gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-ui-gold.gltf",
+    "file": {
+      "primaryBytes": 52784,
+      "totalBytes": 52784,
+      "primarySha256": "401f25cf0bb10d5b1b99259473f70165b09bdcd0fb1158090efd715db9d6c75a",
+      "bundleSha256": "1b9f7a3c0fc1ca4224a8075758c3f1a4b93943370fd186e9db8f123a82d06272",
+      "resourceCount": 1
+    },
+    "geometry": {
+      "bounds": {
+        "min": [
+          -0.247295,
+          -0.206268,
+          -0.181677
+        ],
+        "max": [
+          0.152317,
+          0.210557,
+          0.232268
+        ],
+        "size": [
+          0.399612,
+          0.416825,
+          0.413945
+        ],
+        "center": [
+          -0.047489,
+          0.002145,
+          0.025295
+        ],
+        "diagonal": 0.710481
+      },
+      "triangleCount": 1130,
+      "drawCallCount": 1,
+      "renderVertexCount": 3390,
+      "uploadVertexCount": 854,
+      "uploadNaiveVertexCount": 854,
+      "meshCount": 1,
+      "primitiveCount": 1,
+      "morphTargetCount": 0
+    },
+    "structure": {
+      "sceneCount": 1,
+      "defaultScene": "Scene",
+      "nodeCount": 1,
+      "materialCount": 1,
+      "textureCount": 1,
+      "skinCount": 0,
+      "animationCount": 0,
+      "meshInstanceCount": 1
+    },
+    "sceneNames": [
+      "Scene"
+    ],
+    "materials": [
+      {
+        "name": "Atlas",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true,
+        "textureSlots": [
+          "baseColorTexture"
+        ],
+        "instances": 1
+      }
+    ],
+    "textures": [
+      {
+        "name": "Atlas_Pirate",
+        "uri": null,
+        "mimeType": "image/png",
+        "width": 32,
+        "height": 32,
+        "byteSize": 3207,
+        "gpuByteSize": 5460,
+        "compression": "",
+        "slots": [
+          "baseColorTexture"
+        ],
+        "embedded": true
+      }
+    ],
+    "animations": [],
+    "skins": [],
+    "meshes": [
+      {
+        "name": "Cube.296",
+        "primitiveCount": 1,
+        "triangleCount": 1130,
+        "renderVertexCount": 3390,
+        "uploadVertexCount": 854,
+        "uploadNaiveVertexCount": 854,
+        "attributes": [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ],
+        "materials": [
+          "Atlas"
+        ],
+        "modes": [
+          "4"
+        ],
+        "morphTargetCount": 0
+      }
+    ],
+    "resources": [
+      {
+        "kind": "model",
+        "uri": "UI_Gold.gltf",
+        "relativePath": "UI_Gold.gltf",
+        "bytes": 52784,
+        "sha256": "401f25cf0bb10d5b1b99259473f70165b09bdcd0fb1158090efd715db9d6c75a",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      }
+    ],
+    "source": {
+      "inputRoot": "/Users/me/dev/open-assets/packs/quaternius-pirate-kit/source",
+      "absolutePath": "/Users/me/dev/open-assets/packs/quaternius-pirate-kit/source/UI_Gold.gltf"
+    },
+    "metadata": {
+      "assetVersion": "2.0",
+      "generator": "glTF-Transform v4.3.0",
+      "copyright": null,
+      "extensions": {
+        "used": [],
+        "required": []
+      }
+    },
+    "search": {
+      "tags": [
+        "pirate",
+        "low-poly",
+        "stylized",
+        "quaternius",
+        "kit",
+        "ui",
+        "icon"
+      ],
+      "aliases": [],
+      "tokens": [
+        "characters",
+        "docks",
+        "environment",
+        "gold",
+        "icon",
+        "islands",
+        "kit",
+        "palm",
+        "pirate",
+        "poly",
+        "props",
+        "quaternius",
+        "ships",
+        "stylized",
+        "trees",
+        "ui",
+        "weapons"
+      ]
+    },
+    "warnings": [],
+    "errors": []
+  }
+}

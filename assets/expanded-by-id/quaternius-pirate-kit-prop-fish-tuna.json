@@ -1,0 +1,191 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T01:16:09.455Z",
+  "pack": {
+    "id": "quaternius-pirate-kit",
+    "name": "Quaternius Pirate Kit",
+    "creator": "Quaternius",
+    "license": "CC0",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit"
+    ]
+  },
+  "asset": {
+    "id": "quaternius-pirate-kit-prop-fish-tuna",
+    "name": "Prop Fish Tuna",
+    "description": "Pirate prop model (Prop Fish Tuna).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "Prop_Fish_Tuna.gltf",
+    "fileName": "Prop_Fish_Tuna.gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-prop-fish-tuna.gltf",
+    "file": {
+      "primaryBytes": 71652,
+      "totalBytes": 71652,
+      "primarySha256": "148d38cabae94f3d9507234155f75d269c5a276b4a67e8ed01333f476ea8b742",
+      "bundleSha256": "d5f0e31c4b36f71b32c5afe43d26790c5ff941a82664597a4ce1f459c329e2ee",
+      "resourceCount": 1
+    },
+    "geometry": {
+      "bounds": {
+        "min": [
+          -0.651386,
+          -0.468683,
+          -0.118354
+        ],
+        "max": [
+          1.47748,
+          0.507231,
+          0.118354
+        ],
+        "size": [
+          2.128866,
+          0.975914,
+          0.236707
+        ],
+        "center": [
+          0.413047,
+          0.019274,
+          0
+        ],
+        "diagonal": 2.353829
+      },
+      "triangleCount": 1040,
+      "drawCallCount": 1,
+      "renderVertexCount": 3120,
+      "uploadVertexCount": 866,
+      "uploadNaiveVertexCount": 866,
+      "meshCount": 1,
+      "primitiveCount": 1,
+      "morphTargetCount": 0
+    },
+    "structure": {
+      "sceneCount": 1,
+      "defaultScene": "Scene",
+      "nodeCount": 1,
+      "materialCount": 1,
+      "textureCount": 1,
+      "skinCount": 0,
+      "animationCount": 0,
+      "meshInstanceCount": 1
+    },
+    "sceneNames": [
+      "Scene"
+    ],
+    "materials": [
+      {
+        "name": "Atlas",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true,
+        "textureSlots": [
+          "baseColorTexture"
+        ],
+        "instances": 1
+      }
+    ],
+    "textures": [
+      {
+        "name": "Atlas_Pirate",
+        "uri": null,
+        "mimeType": "image/png",
+        "width": 32,
+        "height": 32,
+        "byteSize": 3207,
+        "gpuByteSize": 5460,
+        "compression": "",
+        "slots": [
+          "baseColorTexture"
+        ],
+        "embedded": true
+      }
+    ],
+    "animations": [],
+    "skins": [],
+    "meshes": [
+      {
+        "name": "Cube.029",
+        "primitiveCount": 1,
+        "triangleCount": 1040,
+        "renderVertexCount": 3120,
+        "uploadVertexCount": 866,
+        "uploadNaiveVertexCount": 866,
+        "attributes": [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0",
+          "TEXCOORD_1",
+          "TEXCOORD_2"
+        ],
+        "materials": [
+          "Atlas"
+        ],
+        "modes": [
+          "4"
+        ],
+        "morphTargetCount": 0
+      }
+    ],
+    "resources": [
+      {
+        "kind": "model",
+        "uri": "Prop_Fish_Tuna.gltf",
+        "relativePath": "Prop_Fish_Tuna.gltf",
+        "bytes": 71652,
+        "sha256": "148d38cabae94f3d9507234155f75d269c5a276b4a67e8ed01333f476ea8b742",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      }
+    ],
+    "source": {
+      "inputRoot": "/Users/me/dev/open-assets/packs/quaternius-pirate-kit/source",
+      "absolutePath": "/Users/me/dev/open-assets/packs/quaternius-pirate-kit/source/Prop_Fish_Tuna.gltf"
+    },
+    "metadata": {
+      "assetVersion": "2.0",
+      "generator": "glTF-Transform v4.3.0",
+      "copyright": null,
+      "extensions": {
+        "used": [],
+        "required": []
+      }
+    },
+    "search": {
+      "tags": [
+        "pirate",
+        "low-poly",
+        "stylized",
+        "quaternius",
+        "kit",
+        "prop"
+      ],
+      "aliases": [],
+      "tokens": [
+        "characters",
+        "docks",
+        "environment",
+        "fish",
+        "islands",
+        "kit",
+        "palm",
+        "pirate",
+        "poly",
+        "prop",
+        "props",
+        "quaternius",
+        "ships",
+        "stylized",
+        "trees",
+        "tuna",
+        "ui",
+        "weapons"
+      ]
+    },
+    "warnings": [],
+    "errors": []
+  }
+}

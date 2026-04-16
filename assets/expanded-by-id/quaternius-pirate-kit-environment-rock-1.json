@@ -1,0 +1,187 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T01:16:09.455Z",
+  "pack": {
+    "id": "quaternius-pirate-kit",
+    "name": "Quaternius Pirate Kit",
+    "creator": "Quaternius",
+    "license": "CC0",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit"
+    ]
+  },
+  "asset": {
+    "id": "quaternius-pirate-kit-environment-rock-1",
+    "name": "Environment Rock 1",
+    "description": "Pirate environment model (Environment Rock 1).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "Environment_Rock_1.gltf",
+    "fileName": "Environment_Rock_1.gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-environment-rock-1.gltf",
+    "file": {
+      "primaryBytes": 30464,
+      "totalBytes": 30464,
+      "primarySha256": "57e7bb033b0db4842d1cadda86af1f3604d5504b9547fc0397001e352c89461b",
+      "bundleSha256": "aeb0fceee348f174ee27b84baed5dcaa67800343cf84fdb8091b51602ffde300",
+      "resourceCount": 1
+    },
+    "geometry": {
+      "bounds": {
+        "min": [
+          -0.349161,
+          -0.241231,
+          -0.323001
+        ],
+        "max": [
+          0.338898,
+          0.34592,
+          0.334417
+        ],
+        "size": [
+          0.688059,
+          0.58715,
+          0.657419
+        ],
+        "center": [
+          -0.005131,
+          0.052345,
+          0.005708
+        ],
+        "diagonal": 1.118199
+      },
+      "triangleCount": 766,
+      "drawCallCount": 1,
+      "renderVertexCount": 2298,
+      "uploadVertexCount": 399,
+      "uploadNaiveVertexCount": 399,
+      "meshCount": 1,
+      "primitiveCount": 1,
+      "morphTargetCount": 0
+    },
+    "structure": {
+      "sceneCount": 1,
+      "defaultScene": "Scene",
+      "nodeCount": 1,
+      "materialCount": 1,
+      "textureCount": 1,
+      "skinCount": 0,
+      "animationCount": 0,
+      "meshInstanceCount": 1
+    },
+    "sceneNames": [
+      "Scene"
+    ],
+    "materials": [
+      {
+        "name": "Atlas",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true,
+        "textureSlots": [
+          "baseColorTexture"
+        ],
+        "instances": 1
+      }
+    ],
+    "textures": [
+      {
+        "name": "Atlas_Pirate",
+        "uri": null,
+        "mimeType": "image/png",
+        "width": 32,
+        "height": 32,
+        "byteSize": 3207,
+        "gpuByteSize": 5460,
+        "compression": "",
+        "slots": [
+          "baseColorTexture"
+        ],
+        "embedded": true
+      }
+    ],
+    "animations": [],
+    "skins": [],
+    "meshes": [
+      {
+        "name": "Cube.289",
+        "primitiveCount": 1,
+        "triangleCount": 766,
+        "renderVertexCount": 2298,
+        "uploadVertexCount": 399,
+        "uploadNaiveVertexCount": 399,
+        "attributes": [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ],
+        "materials": [
+          "Atlas"
+        ],
+        "modes": [
+          "4"
+        ],
+        "morphTargetCount": 0
+      }
+    ],
+    "resources": [
+      {
+        "kind": "model",
+        "uri": "Environment_Rock_1.gltf",
+        "relativePath": "Environment_Rock_1.gltf",
+        "bytes": 30464,
+        "sha256": "57e7bb033b0db4842d1cadda86af1f3604d5504b9547fc0397001e352c89461b",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      }
+    ],
+    "source": {
+      "inputRoot": "/Users/me/dev/open-assets/packs/quaternius-pirate-kit/source",
+      "absolutePath": "/Users/me/dev/open-assets/packs/quaternius-pirate-kit/source/Environment_Rock_1.gltf"
+    },
+    "metadata": {
+      "assetVersion": "2.0",
+      "generator": "glTF-Transform v4.3.0",
+      "copyright": null,
+      "extensions": {
+        "used": [],
+        "required": []
+      }
+    },
+    "search": {
+      "tags": [
+        "pirate",
+        "low-poly",
+        "stylized",
+        "quaternius",
+        "kit",
+        "environment"
+      ],
+      "aliases": [],
+      "tokens": [
+        "characters",
+        "docks",
+        "environment",
+        "islands",
+        "kit",
+        "palm",
+        "pirate",
+        "poly",
+        "props",
+        "quaternius",
+        "rock",
+        "ships",
+        "stylized",
+        "trees",
+        "ui",
+        "weapons"
+      ]
+    },
+    "warnings": [],
+    "errors": []
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T01:16:09.455Z",
+  "pack": {
+    "id": "quaternius-pirate-kit",
+    "name": "Quaternius Pirate Kit",
+    "creator": "Quaternius",
+    "license": "CC0",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit"
+    ]
+  },
+  "asset": {
+    "id": "quaternius-pirate-kit-prop-skull",
+    "name": "Prop Skull",
+    "description": "Pirate prop model (Prop Skull).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "Prop_Skull.gltf",
+    "fileName": "Prop_Skull.gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-prop-skull.gltf",
+    "file": {
+      "primaryBytes": 41597,
+      "totalBytes": 41597,
+      "primarySha256": "b1d1eb216788879fd0f6617f3dc65ace5d8343753b17f2e0b96f6d209ba782b2",
+      "bundleSha256": "f691327fc8991aa27cfd070b8e306348587a9e0feda3e32941ad87b21c3d692e",
+      "resourceCount": 1
+    },
+    "geometry": {
+      "bounds": {
+        "min": [
+          -0.241895,
+          -0.252696,
+          -0.230315
+        ],
+        "max": [
+          0.241895,
+          0.231856,
+          0.245853
+        ],
+        "size": [
+          0.48379,
+          0.484553,
+          0.476168
+        ],
+        "center": [
+          0,
+          -0.01042,
+          0.007769
+        ],
+        "diagonal": 0.834014
+      },
+      "triangleCount": 734,
+      "drawCallCount": 1,
+      "renderVertexCount": 2202,
+      "uploadVertexCount": 666,
+      "uploadNaiveVertexCount": 666,
+      "meshCount": 1,
+      "primitiveCount": 1,
+      "morphTargetCount": 0
+    },
+    "structure": {
+      "sceneCount": 1,
+      "defaultScene": "Scene",
+      "nodeCount": 1,
+      "materialCount": 1,
+      "textureCount": 1,
+      "skinCount": 0,
+      "animationCount": 0,
+      "meshInstanceCount": 1
+    },
+    "sceneNames": [
+      "Scene"
+    ],
+    "materials": [
+      {
+        "name": "Atlas",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true,
+        "textureSlots": [
+          "baseColorTexture"
+        ],
+        "instances": 1
+      }
+    ],
+    "textures": [
+      {
+        "name": "Atlas_Pirate",
+        "uri": null,
+        "mimeType": "image/png",
+        "width": 32,
+        "height": 32,
+        "byteSize": 3207,
+        "gpuByteSize": 5460,
+        "compression": "",
+        "slots": [
+          "baseColorTexture"
+        ],
+        "embedded": true
+      }
+    ],
+    "animations": [],
+    "skins": [],
+    "meshes": [
+      {
+        "name": "Cube.010",
+        "primitiveCount": 1,
+        "triangleCount": 734,
+        "renderVertexCount": 2202,
+        "uploadVertexCount": 666,
+        "uploadNaiveVertexCount": 666,
+        "attributes": [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ],
+        "materials": [
+          "Atlas"
+        ],
+        "modes": [
+          "4"
+        ],
+        "morphTargetCount": 0
+      }
+    ],
+    "resources": [
+      {
+        "kind": "model",
+        "uri": "Prop_Skull.gltf",
+        "relativePath": "Prop_Skull.gltf",
+        "bytes": 41597,
+        "sha256": "b1d1eb216788879fd0f6617f3dc65ace5d8343753b17f2e0b96f6d209ba782b2",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      }
+    ],
+    "source": {
+      "inputRoot": "/Users/me/dev/open-assets/packs/quaternius-pirate-kit/source",
+      "absolutePath": "/Users/me/dev/open-assets/packs/quaternius-pirate-kit/source/Prop_Skull.gltf"
+    },
+    "metadata": {
+      "assetVersion": "2.0",
+      "generator": "glTF-Transform v4.3.0",
+      "copyright": null,
+      "extensions": {
+        "used": [],
+        "required": []
+      }
+    },
+    "search": {
+      "tags": [
+        "pirate",
+        "low-poly",
+        "stylized",
+        "quaternius",
+        "kit",
+        "prop"
+      ],
+      "aliases": [],
+      "tokens": [
+        "characters",
+        "docks",
+        "environment",
+        "islands",
+        "kit",
+        "palm",
+        "pirate",
+        "poly",
+        "prop",
+        "props",
+        "quaternius",
+        "ships",
+        "skull",
+        "stylized",
+        "trees",
+        "ui",
+        "weapons"
+      ]
+    },
+    "warnings": [],
+    "errors": []
+  }
+}

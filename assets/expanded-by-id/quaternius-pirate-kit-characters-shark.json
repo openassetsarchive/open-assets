@@ -1,0 +1,316 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T01:16:09.455Z",
+  "pack": {
+    "id": "quaternius-pirate-kit",
+    "name": "Quaternius Pirate Kit",
+    "creator": "Quaternius",
+    "license": "CC0",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit"
+    ]
+  },
+  "asset": {
+    "id": "quaternius-pirate-kit-characters-shark",
+    "name": "Characters Shark",
+    "description": "Pirate character model (Characters Shark).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "Characters_Shark.gltf",
+    "fileName": "Characters_Shark.gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-characters-shark.gltf",
+    "file": {
+      "primaryBytes": 701731,
+      "totalBytes": 701731,
+      "primarySha256": "1f62e757f280be1337f0ea2d0ac65d54cc448ecc20d5ed052e8012d62de4b9eb",
+      "bundleSha256": "862d92c6ce61eb082fb0b903ee1d88f06dce8796bab5f1b86cd5976a75116ca6",
+      "resourceCount": 1
+    },
+    "geometry": {
+      "bounds": {
+        "min": [
+          -1.149585,
+          -0.724395,
+          -2.819895
+        ],
+        "max": [
+          1.149585,
+          1.288949,
+          2.813958
+        ],
+        "size": [
+          2.29917,
+          2.013343,
+          5.633853
+        ],
+        "center": [
+          0,
+          0.282277,
+          -0.002968
+        ],
+        "diagonal": 6.409371
+      },
+      "triangleCount": 6604,
+      "drawCallCount": 2,
+      "renderVertexCount": 19812,
+      "uploadVertexCount": 7796,
+      "uploadNaiveVertexCount": 7796,
+      "meshCount": 2,
+      "primitiveCount": 2,
+      "morphTargetCount": 0
+    },
+    "structure": {
+      "sceneCount": 1,
+      "defaultScene": "Scene",
+      "nodeCount": 17,
+      "materialCount": 1,
+      "textureCount": 1,
+      "skinCount": 1,
+      "animationCount": 3,
+      "meshInstanceCount": 2
+    },
+    "sceneNames": [
+      "Scene"
+    ],
+    "materials": [
+      {
+        "name": "Atlas",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true,
+        "textureSlots": [
+          "baseColorTexture"
+        ],
+        "instances": 2
+      }
+    ],
+    "textures": [
+      {
+        "name": "Atlas_Pirate",
+        "uri": null,
+        "mimeType": "image/png",
+        "width": 1024,
+        "height": 1024,
+        "byteSize": 9014,
+        "gpuByteSize": 5592404,
+        "compression": "",
+        "slots": [
+          "baseColorTexture"
+        ],
+        "embedded": true
+      }
+    ],
+    "animations": [
+      {
+        "name": "Swim",
+        "channels": 26,
+        "samplers": 26,
+        "keyframes": 520,
+        "durationSec": 1.333,
+        "targetPaths": [
+          "rotation",
+          "translation"
+        ],
+        "targetNodes": [
+          "Abdomen",
+          "Center",
+          "Fin1.L",
+          "Fin1.R",
+          "Fin2.L",
+          "Fin2.R",
+          "Head",
+          "LowerJaw",
+          "Neck",
+          "Tail1",
+          "Tail2",
+          "Tail3",
+          "Tail4"
+        ],
+        "interpolations": [
+          "LINEAR"
+        ],
+        "byteSize": 8388
+      },
+      {
+        "name": "Swim_Bite",
+        "channels": 26,
+        "samplers": 26,
+        "keyframes": 500,
+        "durationSec": 1.1,
+        "targetPaths": [
+          "rotation",
+          "translation"
+        ],
+        "targetNodes": [
+          "Abdomen",
+          "Center",
+          "Fin1.L",
+          "Fin1.R",
+          "Fin2.L",
+          "Fin2.R",
+          "Head",
+          "LowerJaw",
+          "Neck",
+          "Tail1",
+          "Tail2",
+          "Tail3",
+          "Tail4"
+        ],
+        "interpolations": [
+          "LINEAR"
+        ],
+        "byteSize": 7912
+      },
+      {
+        "name": "Swim_Fast",
+        "channels": 26,
+        "samplers": 26,
+        "keyframes": 400,
+        "durationSec": 1,
+        "targetPaths": [
+          "rotation",
+          "translation"
+        ],
+        "targetNodes": [
+          "Abdomen",
+          "Center",
+          "Fin1.L",
+          "Fin1.R",
+          "Fin2.L",
+          "Fin2.R",
+          "Head",
+          "LowerJaw",
+          "Neck",
+          "Tail1",
+          "Tail2",
+          "Tail3",
+          "Tail4"
+        ],
+        "interpolations": [
+          "LINEAR"
+        ],
+        "byteSize": 6428
+      }
+    ],
+    "skins": [
+      {
+        "name": "SharkArmature",
+        "jointCount": 14,
+        "skeletonRoot": null,
+        "hasInverseBindMatrices": true
+      }
+    ],
+    "meshes": [
+      {
+        "name": "Cylinder.002",
+        "primitiveCount": 1,
+        "triangleCount": 3556,
+        "renderVertexCount": 10668,
+        "uploadVertexCount": 2668,
+        "uploadNaiveVertexCount": 2668,
+        "attributes": [
+          "JOINTS_0",
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0",
+          "WEIGHTS_0"
+        ],
+        "materials": [
+          "Atlas"
+        ],
+        "modes": [
+          "4"
+        ],
+        "morphTargetCount": 0
+      },
+      {
+        "name": "Cylinder.004",
+        "primitiveCount": 1,
+        "triangleCount": 3048,
+        "renderVertexCount": 9144,
+        "uploadVertexCount": 5128,
+        "uploadNaiveVertexCount": 5128,
+        "attributes": [
+          "JOINTS_0",
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0",
+          "WEIGHTS_0"
+        ],
+        "materials": [
+          "Atlas"
+        ],
+        "modes": [
+          "4"
+        ],
+        "morphTargetCount": 0
+      }
+    ],
+    "resources": [
+      {
+        "kind": "model",
+        "uri": "Characters_Shark.gltf",
+        "relativePath": "Characters_Shark.gltf",
+        "bytes": 701731,
+        "sha256": "1f62e757f280be1337f0ea2d0ac65d54cc448ecc20d5ed052e8012d62de4b9eb",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      }
+    ],
+    "source": {
+      "inputRoot": "/Users/me/dev/open-assets/packs/quaternius-pirate-kit/source",
+      "absolutePath": "/Users/me/dev/open-assets/packs/quaternius-pirate-kit/source/Characters_Shark.gltf"
+    },
+    "metadata": {
+      "assetVersion": "2.0",
+      "generator": "glTF-Transform v4.3.0",
+      "copyright": null,
+      "extensions": {
+        "used": [],
+        "required": []
+      }
+    },
+    "search": {
+      "tags": [
+        "pirate",
+        "low-poly",
+        "stylized",
+        "quaternius",
+        "kit",
+        "character",
+        "animated"
+      ],
+      "aliases": [
+        "npc",
+        "pirate character"
+      ],
+      "tokens": [
+        "animated",
+        "character",
+        "characters",
+        "docks",
+        "environment",
+        "islands",
+        "kit",
+        "npc",
+        "palm",
+        "pirate",
+        "poly",
+        "props",
+        "quaternius",
+        "shark",
+        "ships",
+        "stylized",
+        "trees",
+        "ui",
+        "weapons"
+      ]
+    },
+    "warnings": [],
+    "errors": []
+  }
+}

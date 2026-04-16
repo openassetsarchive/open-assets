@@ -1,0 +1,195 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T01:16:09.455Z",
+  "pack": {
+    "id": "quaternius-pirate-kit",
+    "name": "Quaternius Pirate Kit",
+    "creator": "Quaternius",
+    "license": "CC0",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit"
+    ]
+  },
+  "asset": {
+    "id": "quaternius-pirate-kit-enemy-tentacle",
+    "name": "Enemy Tentacle",
+    "description": "Pirate enemy model (Enemy Tentacle).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "Enemy_Tentacle.gltf",
+    "fileName": "Enemy_Tentacle.gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-enemy-tentacle.gltf",
+    "file": {
+      "primaryBytes": 192936,
+      "totalBytes": 192936,
+      "primarySha256": "d3c3ec81b0a1315f38a0d90cc747eb3578a064ebd611b3bb3e69e4075e1ea3d5",
+      "bundleSha256": "76d7e5a82abd4c4c1e5df71bb2e276c00b6d985fef00ed41d6109e06328a0685",
+      "resourceCount": 1
+    },
+    "geometry": {
+      "bounds": {
+        "min": [
+          -0.423315,
+          0.005519,
+          -0.352253
+        ],
+        "max": [
+          0.423315,
+          6.072241,
+          0.31986
+        ],
+        "size": [
+          0.846631,
+          6.066722,
+          0.672113
+        ],
+        "center": [
+          0,
+          3.03888,
+          -0.016196
+        ],
+        "diagonal": 6.162275
+      },
+      "triangleCount": 3874,
+      "drawCallCount": 1,
+      "renderVertexCount": 11622,
+      "uploadVertexCount": 3624,
+      "uploadNaiveVertexCount": 3624,
+      "meshCount": 1,
+      "primitiveCount": 1,
+      "morphTargetCount": 0
+    },
+    "structure": {
+      "sceneCount": 1,
+      "defaultScene": "Scene",
+      "nodeCount": 1,
+      "materialCount": 1,
+      "textureCount": 1,
+      "skinCount": 0,
+      "animationCount": 0,
+      "meshInstanceCount": 1
+    },
+    "sceneNames": [
+      "Scene"
+    ],
+    "materials": [
+      {
+        "name": "Atlas",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true,
+        "textureSlots": [
+          "baseColorTexture"
+        ],
+        "instances": 1
+      }
+    ],
+    "textures": [
+      {
+        "name": "Atlas_Pirate",
+        "uri": null,
+        "mimeType": "image/png",
+        "width": 32,
+        "height": 32,
+        "byteSize": 3207,
+        "gpuByteSize": 5460,
+        "compression": "",
+        "slots": [
+          "baseColorTexture"
+        ],
+        "embedded": true
+      }
+    ],
+    "animations": [],
+    "skins": [],
+    "meshes": [
+      {
+        "name": "Cube.011",
+        "primitiveCount": 1,
+        "triangleCount": 3874,
+        "renderVertexCount": 11622,
+        "uploadVertexCount": 3624,
+        "uploadNaiveVertexCount": 3624,
+        "attributes": [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ],
+        "materials": [
+          "Atlas"
+        ],
+        "modes": [
+          "4"
+        ],
+        "morphTargetCount": 0
+      }
+    ],
+    "resources": [
+      {
+        "kind": "model",
+        "uri": "Enemy_Tentacle.gltf",
+        "relativePath": "Enemy_Tentacle.gltf",
+        "bytes": 192936,
+        "sha256": "d3c3ec81b0a1315f38a0d90cc747eb3578a064ebd611b3bb3e69e4075e1ea3d5",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      }
+    ],
+    "source": {
+      "inputRoot": "/Users/me/dev/open-assets/packs/quaternius-pirate-kit/source",
+      "absolutePath": "/Users/me/dev/open-assets/packs/quaternius-pirate-kit/source/Enemy_Tentacle.gltf"
+    },
+    "metadata": {
+      "assetVersion": "2.0",
+      "generator": "glTF-Transform v4.3.0",
+      "copyright": null,
+      "extensions": {
+        "used": [],
+        "required": []
+      }
+    },
+    "search": {
+      "tags": [
+        "pirate",
+        "low-poly",
+        "stylized",
+        "quaternius",
+        "kit",
+        "enemy",
+        "animated"
+      ],
+      "aliases": [
+        "foe",
+        "hostile"
+      ],
+      "tokens": [
+        "animated",
+        "characters",
+        "docks",
+        "enemy",
+        "environment",
+        "foe",
+        "hostile",
+        "islands",
+        "kit",
+        "palm",
+        "pirate",
+        "poly",
+        "props",
+        "quaternius",
+        "ships",
+        "stylized",
+        "tentacle",
+        "trees",
+        "ui",
+        "weapons"
+      ]
+    },
+    "warnings": [],
+    "errors": []
+  }
+}

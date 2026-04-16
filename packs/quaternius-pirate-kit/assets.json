@@ -1,0 +1,3604 @@
+[
+  {
+    "id": "quaternius-pirate-kit-characters-anne",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Characters Anne",
+    "description": "Pirate character model (Characters Anne).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-characters-anne.gltf",
+    "bounds": {
+      "size": [
+        1.918762,
+        1.641953,
+        1.377362
+      ],
+      "diagonal": 2.876593
+    },
+    "triangleCount": 12368,
+    "drawCallCount": 2,
+    "renderVertexCount": 37104,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": true,
+    "animationCount": 14,
+    "animations": [
+      {
+        "name": "Death",
+        "durationSec": 0.767
+      },
+      {
+        "name": "Duck",
+        "durationSec": 1.667
+      },
+      {
+        "name": "HitReact",
+        "durationSec": 0.6
+      },
+      {
+        "name": "Idle",
+        "durationSec": 1
+      },
+      {
+        "name": "Jump",
+        "durationSec": 0.367
+      },
+      {
+        "name": "Jump_Idle",
+        "durationSec": 0.5
+      },
+      {
+        "name": "Jump_Land",
+        "durationSec": 0.367
+      },
+      {
+        "name": "No",
+        "durationSec": 1.667
+      },
+      {
+        "name": "Punch",
+        "durationSec": 0.767
+      },
+      {
+        "name": "Run",
+        "durationSec": 0.733
+      },
+      {
+        "name": "Sword",
+        "durationSec": 0.867
+      },
+      {
+        "name": "Walk",
+        "durationSec": 1
+      },
+      {
+        "name": "Wave",
+        "durationSec": 1.667
+      },
+      {
+        "name": "Yes",
+        "durationSec": 1.667
+      }
+    ],
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 43,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "character",
+      "animated"
+    ],
+    "aliases": [
+      "npc",
+      "pirate character"
+    ],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-characters-captain-barbarossa",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Characters Captain Barbarossa",
+    "description": "Pirate character model (Characters Captain Barbarossa).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-characters-captain-barbarossa.gltf",
+    "bounds": {
+      "size": [
+        1.967891,
+        1.745976,
+        1.454757
+      ],
+      "diagonal": 3.006217
+    },
+    "triangleCount": 10576,
+    "drawCallCount": 3,
+    "renderVertexCount": 31728,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": true,
+    "animationCount": 14,
+    "animations": [
+      {
+        "name": "Death",
+        "durationSec": 0.767
+      },
+      {
+        "name": "Duck",
+        "durationSec": 1.667
+      },
+      {
+        "name": "HitReact",
+        "durationSec": 0.6
+      },
+      {
+        "name": "Idle",
+        "durationSec": 1
+      },
+      {
+        "name": "Jump",
+        "durationSec": 0.367
+      },
+      {
+        "name": "Jump_Idle",
+        "durationSec": 0.5
+      },
+      {
+        "name": "Jump_Land",
+        "durationSec": 0.367
+      },
+      {
+        "name": "No",
+        "durationSec": 1.667
+      },
+      {
+        "name": "Punch",
+        "durationSec": 0.767
+      },
+      {
+        "name": "Run",
+        "durationSec": 0.733
+      },
+      {
+        "name": "Sword",
+        "durationSec": 0.867
+      },
+      {
+        "name": "Walk",
+        "durationSec": 1
+      },
+      {
+        "name": "Wave",
+        "durationSec": 1.533
+      },
+      {
+        "name": "Yes",
+        "durationSec": 1.667
+      }
+    ],
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 33,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "character",
+      "animated"
+    ],
+    "aliases": [
+      "npc",
+      "pirate character",
+      "captain",
+      "barbarossa"
+    ],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-characters-henry",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Characters Henry",
+    "description": "Pirate character model (Characters Henry).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-characters-henry.gltf",
+    "bounds": {
+      "size": [
+        1.918762,
+        1.56914,
+        1.471126
+      ],
+      "diagonal": 2.882371
+    },
+    "triangleCount": 11062,
+    "drawCallCount": 2,
+    "renderVertexCount": 33186,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": true,
+    "animationCount": 14,
+    "animations": [
+      {
+        "name": "Death",
+        "durationSec": 0.767
+      },
+      {
+        "name": "Duck",
+        "durationSec": 1.667
+      },
+      {
+        "name": "HitReact",
+        "durationSec": 0.6
+      },
+      {
+        "name": "Idle",
+        "durationSec": 1
+      },
+      {
+        "name": "Jump",
+        "durationSec": 0.367
+      },
+      {
+        "name": "Jump_Idle",
+        "durationSec": 0.5
+      },
+      {
+        "name": "Jump_Land",
+        "durationSec": 0.367
+      },
+      {
+        "name": "No",
+        "durationSec": 1.667
+      },
+      {
+        "name": "Punch",
+        "durationSec": 0.767
+      },
+      {
+        "name": "Run",
+        "durationSec": 0.733
+      },
+      {
+        "name": "Sword",
+        "durationSec": 0.867
+      },
+      {
+        "name": "Walk",
+        "durationSec": 1
+      },
+      {
+        "name": "Wave",
+        "durationSec": 1.667
+      },
+      {
+        "name": "Yes",
+        "durationSec": 1.667
+      }
+    ],
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 43,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "character",
+      "animated"
+    ],
+    "aliases": [
+      "npc",
+      "pirate character"
+    ],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-characters-mako",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Characters Mako",
+    "description": "Pirate character model (Characters Mako).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-characters-mako.gltf",
+    "bounds": {
+      "size": [
+        2.453982,
+        1.594228,
+        1.438106
+      ],
+      "diagonal": 3.260634
+    },
+    "triangleCount": 13172,
+    "drawCallCount": 2,
+    "renderVertexCount": 39516,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": true,
+    "animationCount": 14,
+    "animations": [
+      {
+        "name": "Death",
+        "durationSec": 0.767
+      },
+      {
+        "name": "Duck",
+        "durationSec": 1.667
+      },
+      {
+        "name": "HitReact",
+        "durationSec": 0.6
+      },
+      {
+        "name": "Idle",
+        "durationSec": 1
+      },
+      {
+        "name": "Jump",
+        "durationSec": 0.367
+      },
+      {
+        "name": "Jump_Idle",
+        "durationSec": 0.5
+      },
+      {
+        "name": "Jump_Land",
+        "durationSec": 0.367
+      },
+      {
+        "name": "No",
+        "durationSec": 1.667
+      },
+      {
+        "name": "Punch",
+        "durationSec": 0.767
+      },
+      {
+        "name": "Run",
+        "durationSec": 0.733
+      },
+      {
+        "name": "Sword",
+        "durationSec": 0.867
+      },
+      {
+        "name": "Walk",
+        "durationSec": 1
+      },
+      {
+        "name": "Wave",
+        "durationSec": 1.667
+      },
+      {
+        "name": "Yes",
+        "durationSec": 1.667
+      }
+    ],
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 43,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "character",
+      "animated"
+    ],
+    "aliases": [
+      "npc",
+      "pirate character"
+    ],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-characters-shark",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Characters Shark",
+    "description": "Pirate character model (Characters Shark).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-characters-shark.gltf",
+    "bounds": {
+      "size": [
+        2.29917,
+        2.013343,
+        5.633853
+      ],
+      "diagonal": 6.409371
+    },
+    "triangleCount": 6604,
+    "drawCallCount": 2,
+    "renderVertexCount": 19812,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": true,
+    "animationCount": 3,
+    "animations": [
+      {
+        "name": "Swim",
+        "durationSec": 1.333
+      },
+      {
+        "name": "Swim_Bite",
+        "durationSec": 1.1
+      },
+      {
+        "name": "Swim_Fast",
+        "durationSec": 1
+      }
+    ],
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 14,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "character",
+      "animated"
+    ],
+    "aliases": [
+      "npc",
+      "pirate character"
+    ],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-characters-sharky",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Characters Sharky",
+    "description": "Pirate character model (Characters Sharky).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-characters-sharky.gltf",
+    "bounds": {
+      "size": [
+        1.918762,
+        1.558393,
+        1.626799
+      ],
+      "diagonal": 2.959175
+    },
+    "triangleCount": 14594,
+    "drawCallCount": 3,
+    "renderVertexCount": 43782,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": true,
+    "animationCount": 14,
+    "animations": [
+      {
+        "name": "Death",
+        "durationSec": 0.767
+      },
+      {
+        "name": "Duck",
+        "durationSec": 1.667
+      },
+      {
+        "name": "HitReact",
+        "durationSec": 0.6
+      },
+      {
+        "name": "Idle",
+        "durationSec": 1
+      },
+      {
+        "name": "Jump",
+        "durationSec": 0.367
+      },
+      {
+        "name": "Jump_Idle",
+        "durationSec": 0.5
+      },
+      {
+        "name": "Jump_Land",
+        "durationSec": 0.367
+      },
+      {
+        "name": "No",
+        "durationSec": 1.667
+      },
+      {
+        "name": "Punch",
+        "durationSec": 0.767
+      },
+      {
+        "name": "Run",
+        "durationSec": 0.733
+      },
+      {
+        "name": "Sword",
+        "durationSec": 0.867
+      },
+      {
+        "name": "Walk",
+        "durationSec": 1
+      },
+      {
+        "name": "Wave",
+        "durationSec": 1.667
+      },
+      {
+        "name": "Yes",
+        "durationSec": 1.667
+      }
+    ],
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 43,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "character",
+      "animated"
+    ],
+    "aliases": [
+      "npc",
+      "pirate character"
+    ],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-characters-skeleton",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Characters Skeleton",
+    "description": "Pirate character model (Characters Skeleton).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-characters-skeleton.gltf",
+    "bounds": {
+      "size": [
+        1.908937,
+        1.495308,
+        1.202412
+      ],
+      "diagonal": 2.706618
+    },
+    "triangleCount": 14260,
+    "drawCallCount": 2,
+    "renderVertexCount": 42780,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": true,
+    "animationCount": 15,
+    "animations": [
+      {
+        "name": "Death",
+        "durationSec": 0.767
+      },
+      {
+        "name": "Duck",
+        "durationSec": 1.667
+      },
+      {
+        "name": "HitReact",
+        "durationSec": 0.6
+      },
+      {
+        "name": "Idle",
+        "durationSec": 1
+      },
+      {
+        "name": "Jump",
+        "durationSec": 0.367
+      },
+      {
+        "name": "Jump_Idle",
+        "durationSec": 0.5
+      },
+      {
+        "name": "Jump_Idlea",
+        "durationSec": 0.5
+      },
+      {
+        "name": "Jump_Land",
+        "durationSec": 0.367
+      },
+      {
+        "name": "No",
+        "durationSec": 1.667
+      },
+      {
+        "name": "Punch",
+        "durationSec": 0.767
+      },
+      {
+        "name": "Run",
+        "durationSec": 0.733
+      },
+      {
+        "name": "Sword",
+        "durationSec": 0.867
+      },
+      {
+        "name": "Walk",
+        "durationSec": 1
+      },
+      {
+        "name": "Wave",
+        "durationSec": 1.667
+      },
+      {
+        "name": "Yes",
+        "durationSec": 1.667
+      }
+    ],
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 43,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "character",
+      "animated"
+    ],
+    "aliases": [
+      "npc",
+      "pirate character"
+    ],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-characters-skeleton-headless",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Characters Skeleton Headless",
+    "description": "Pirate character model (Characters Skeleton Headless).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-characters-skeleton-headless.gltf",
+    "bounds": {
+      "size": [
+        1.908937,
+        1.081453,
+        1.003857
+      ],
+      "diagonal": 2.412739
+    },
+    "triangleCount": 11668,
+    "drawCallCount": 2,
+    "renderVertexCount": 35004,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": true,
+    "animationCount": 15,
+    "animations": [
+      {
+        "name": "Death",
+        "durationSec": 0.767
+      },
+      {
+        "name": "Duck",
+        "durationSec": 1.667
+      },
+      {
+        "name": "HitReact",
+        "durationSec": 0.6
+      },
+      {
+        "name": "Idle",
+        "durationSec": 1
+      },
+      {
+        "name": "Jump",
+        "durationSec": 0.367
+      },
+      {
+        "name": "Jump_Idle",
+        "durationSec": 0.5
+      },
+      {
+        "name": "Jump_Idlea",
+        "durationSec": 0.5
+      },
+      {
+        "name": "Jump_Land",
+        "durationSec": 0.367
+      },
+      {
+        "name": "No",
+        "durationSec": 1.667
+      },
+      {
+        "name": "Punch",
+        "durationSec": 0.767
+      },
+      {
+        "name": "Run",
+        "durationSec": 0.733
+      },
+      {
+        "name": "Sword",
+        "durationSec": 0.867
+      },
+      {
+        "name": "Walk",
+        "durationSec": 1
+      },
+      {
+        "name": "Wave",
+        "durationSec": 1.667
+      },
+      {
+        "name": "Yes",
+        "durationSec": 1.667
+      }
+    ],
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 43,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "character",
+      "animated"
+    ],
+    "aliases": [
+      "npc",
+      "pirate character",
+      "headless skeleton"
+    ],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-characters-tentacle",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Characters Tentacle",
+    "description": "Pirate character model (Characters Tentacle).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-characters-tentacle.gltf",
+    "bounds": {
+      "size": [
+        2.748126,
+        19.692315,
+        2.181649
+      ],
+      "diagonal": 20.002476
+    },
+    "triangleCount": 3874,
+    "drawCallCount": 1,
+    "renderVertexCount": 11622,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": true,
+    "animationCount": 4,
+    "animations": [
+      {
+        "name": "Tentacle_Attack",
+        "durationSec": 0.9
+      },
+      {
+        "name": "Tentacle_Attack2",
+        "durationSec": 1
+      },
+      {
+        "name": "Tentacle_Idle",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Tentacle_Poke",
+        "durationSec": 1.333
+      }
+    ],
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 18,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "character",
+      "animated"
+    ],
+    "aliases": [
+      "npc",
+      "pirate character"
+    ],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-enemy-tentacle",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Enemy Tentacle",
+    "description": "Pirate enemy model (Enemy Tentacle).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-enemy-tentacle.gltf",
+    "bounds": {
+      "size": [
+        0.846631,
+        6.066722,
+        0.672113
+      ],
+      "diagonal": 6.162275
+    },
+    "triangleCount": 3874,
+    "drawCallCount": 1,
+    "renderVertexCount": 11622,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "enemy",
+      "animated"
+    ],
+    "aliases": [
+      "foe",
+      "hostile"
+    ],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-environment-cliff1",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Environment Cliff1",
+    "description": "Pirate environment model (Environment Cliff1).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-environment-cliff1.gltf",
+    "bounds": {
+      "size": [
+        5.625427,
+        2.96402,
+        5.408216
+      ],
+      "diagonal": 8.347434
+    },
+    "triangleCount": 8596,
+    "drawCallCount": 1,
+    "renderVertexCount": 25788,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-environment-cliff2",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Environment Cliff2",
+    "description": "Pirate environment model (Environment Cliff2).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-environment-cliff2.gltf",
+    "bounds": {
+      "size": [
+        8.004135,
+        6.912537,
+        7.109903
+      ],
+      "diagonal": 12.743629
+    },
+    "triangleCount": 19144,
+    "drawCallCount": 1,
+    "renderVertexCount": 57432,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-environment-cliff3",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Environment Cliff3",
+    "description": "Pirate environment model (Environment Cliff3).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-environment-cliff3.gltf",
+    "bounds": {
+      "size": [
+        6.855792,
+        6.172001,
+        5.946028
+      ],
+      "diagonal": 10.975005
+    },
+    "triangleCount": 19962,
+    "drawCallCount": 1,
+    "renderVertexCount": 59886,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-environment-cliff4",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Environment Cliff4",
+    "description": "Pirate environment model (Environment Cliff4).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-environment-cliff4.gltf",
+    "bounds": {
+      "size": [
+        7.37571,
+        5.525586,
+        7.116614
+      ],
+      "diagonal": 11.643857
+    },
+    "triangleCount": 23714,
+    "drawCallCount": 1,
+    "renderVertexCount": 71142,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-environment-dock",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Environment Dock",
+    "description": "Pirate environment model (Environment Dock).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-environment-dock.gltf",
+    "bounds": {
+      "size": [
+        2.184204,
+        3.012688,
+        2.656811
+      ],
+      "diagonal": 4.572273
+    },
+    "triangleCount": 1912,
+    "drawCallCount": 1,
+    "renderVertexCount": 5736,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-environment-dock-broken",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Environment Dock Broken",
+    "description": "Pirate environment model (Environment Dock Broken).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-environment-dock-broken.gltf",
+    "bounds": {
+      "size": [
+        2.384574,
+        3.012688,
+        2.656811
+      ],
+      "diagonal": 4.671309
+    },
+    "triangleCount": 2052,
+    "drawCallCount": 1,
+    "renderVertexCount": 6156,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-environment-dock-pole",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Environment Dock Pole",
+    "description": "Pirate environment model (Environment Dock Pole).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-environment-dock-pole.gltf",
+    "bounds": {
+      "size": [
+        0.366549,
+        3.012688,
+        0.375978
+      ],
+      "diagonal": 3.058105
+    },
+    "triangleCount": 524,
+    "drawCallCount": 1,
+    "renderVertexCount": 1572,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-environment-house1",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Environment House1",
+    "description": "Pirate environment model (Environment House1).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-environment-house1.gltf",
+    "bounds": {
+      "size": [
+        13.542408,
+        6.774061,
+        4.594827
+      ],
+      "diagonal": 15.823942
+    },
+    "triangleCount": 11878,
+    "drawCallCount": 2,
+    "renderVertexCount": 35634,
+    "materialCount": 2,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-environment-house2",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Environment House2",
+    "description": "Pirate environment model (Environment House2).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-environment-house2.gltf",
+    "bounds": {
+      "size": [
+        3.772782,
+        9.376301,
+        3.741953
+      ],
+      "diagonal": 10.777343
+    },
+    "triangleCount": 4958,
+    "drawCallCount": 2,
+    "renderVertexCount": 14874,
+    "materialCount": 2,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-environment-house3",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Environment House3",
+    "description": "Pirate environment model (Environment House3).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-environment-house3.gltf",
+    "bounds": {
+      "size": [
+        8.45656,
+        10.642735,
+        3.777847
+      ],
+      "diagonal": 14.108627
+    },
+    "triangleCount": 9172,
+    "drawCallCount": 2,
+    "renderVertexCount": 27516,
+    "materialCount": 2,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-environment-largebones",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Environment Large Bones",
+    "description": "Pirate environment model (Environment Large Bones).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-environment-largebones.gltf",
+    "bounds": {
+      "size": [
+        6.50374,
+        3.431496,
+        6.619738
+      ],
+      "diagonal": 9.894177
+    },
+    "triangleCount": 1680,
+    "drawCallCount": 1,
+    "renderVertexCount": 5040,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-environment-palmtree-1",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Environment Palm Tree 1",
+    "description": "Pirate environment model (Environment Palm Tree 1).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-environment-palmtree-1.gltf",
+    "bounds": {
+      "size": [
+        2.609686,
+        3.587359,
+        2.518194
+      ],
+      "diagonal": 5.101069
+    },
+    "triangleCount": 3208,
+    "drawCallCount": 1,
+    "renderVertexCount": 9624,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-environment-palmtree-2",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Environment Palm Tree 2",
+    "description": "Pirate environment model (Environment Palm Tree 2).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-environment-palmtree-2.gltf",
+    "bounds": {
+      "size": [
+        2.636272,
+        2.685272,
+        2.577662
+      ],
+      "diagonal": 4.561245
+    },
+    "triangleCount": 2924,
+    "drawCallCount": 1,
+    "renderVertexCount": 8772,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-environment-palmtree-3",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Environment Palm Tree 3",
+    "description": "Pirate environment model (Environment Palm Tree 3).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-environment-palmtree-3.gltf",
+    "bounds": {
+      "size": [
+        2.862755,
+        2.688739,
+        2.753415
+      ],
+      "diagonal": 4.796455
+    },
+    "triangleCount": 3134,
+    "drawCallCount": 1,
+    "renderVertexCount": 9402,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-environment-rock-1",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Environment Rock 1",
+    "description": "Pirate environment model (Environment Rock 1).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-environment-rock-1.gltf",
+    "bounds": {
+      "size": [
+        0.688059,
+        0.58715,
+        0.657419
+      ],
+      "diagonal": 1.118199
+    },
+    "triangleCount": 766,
+    "drawCallCount": 1,
+    "renderVertexCount": 2298,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-environment-rock-2",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Environment Rock 2",
+    "description": "Pirate environment model (Environment Rock 2).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-environment-rock-2.gltf",
+    "bounds": {
+      "size": [
+        0.78319,
+        1.049589,
+        0.758515
+      ],
+      "diagonal": 1.513397
+    },
+    "triangleCount": 3072,
+    "drawCallCount": 1,
+    "renderVertexCount": 9216,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-environment-rock-3",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Environment Rock 3",
+    "description": "Pirate environment model (Environment Rock 3).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-environment-rock-3.gltf",
+    "bounds": {
+      "size": [
+        0.769953,
+        0.611733,
+        0.583931
+      ],
+      "diagonal": 1.143687
+    },
+    "triangleCount": 712,
+    "drawCallCount": 1,
+    "renderVertexCount": 2136,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-environment-rock-4",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Environment Rock 4",
+    "description": "Pirate environment model (Environment Rock 4).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-environment-rock-4.gltf",
+    "bounds": {
+      "size": [
+        0.762769,
+        0.711406,
+        0.745992
+      ],
+      "diagonal": 1.282349
+    },
+    "triangleCount": 712,
+    "drawCallCount": 1,
+    "renderVertexCount": 2136,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-environment-rock-5",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Environment Rock 5",
+    "description": "Pirate environment model (Environment Rock 5).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-environment-rock-5.gltf",
+    "bounds": {
+      "size": [
+        0.605326,
+        0.604623,
+        0.585637
+      ],
+      "diagonal": 1.036803
+    },
+    "triangleCount": 716,
+    "drawCallCount": 1,
+    "renderVertexCount": 2148,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-environment-sawmill",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Environment Sawmill",
+    "description": "Pirate environment model (Environment Sawmill).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-environment-sawmill.gltf",
+    "bounds": {
+      "size": [
+        2.067827,
+        0.593404,
+        2.064797
+      ],
+      "diagonal": 2.98185
+    },
+    "triangleCount": 830,
+    "drawCallCount": 1,
+    "renderVertexCount": 2490,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-environment-skulls",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Environment Skulls",
+    "description": "Pirate environment model (Environment Skulls).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-environment-skulls.gltf",
+    "bounds": {
+      "size": [
+        4.137912,
+        3.809133,
+        4.438681
+      ],
+      "diagonal": 7.164754
+    },
+    "triangleCount": 3132,
+    "drawCallCount": 1,
+    "renderVertexCount": 9396,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-prop-anchor",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Prop Anchor",
+    "description": "Pirate prop model (Prop Anchor).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-prop-anchor.gltf",
+    "bounds": {
+      "size": [
+        0.780683,
+        0.093172,
+        0.950734
+      ],
+      "diagonal": 1.233711
+    },
+    "triangleCount": 544,
+    "drawCallCount": 1,
+    "renderVertexCount": 1632,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "prop"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-prop-barrel",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Prop Barrel",
+    "description": "Pirate prop model (Prop Barrel).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-prop-barrel.gltf",
+    "bounds": {
+      "size": [
+        0.71469,
+        0.659911,
+        0.71469
+      ],
+      "diagonal": 1.207081
+    },
+    "triangleCount": 640,
+    "drawCallCount": 1,
+    "renderVertexCount": 1920,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "prop"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-prop-bomb",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Prop Bomb",
+    "description": "Pirate prop model (Prop Bomb).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-prop-bomb.gltf",
+    "bounds": {
+      "size": [
+        0.456029,
+        0.695378,
+        0.427202
+      ],
+      "diagonal": 0.934888
+    },
+    "triangleCount": 686,
+    "drawCallCount": 1,
+    "renderVertexCount": 2058,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "prop"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-prop-bottle-1",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Prop Bottle 1",
+    "description": "Pirate prop model (Prop Bottle 1).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-prop-bottle-1.gltf",
+    "bounds": {
+      "size": [
+        0.234428,
+        0.86314,
+        0.234428
+      ],
+      "diagonal": 0.92462
+    },
+    "triangleCount": 204,
+    "drawCallCount": 1,
+    "renderVertexCount": 612,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "prop"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-prop-bottle-2",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Prop Bottle 2",
+    "description": "Pirate prop model (Prop Bottle 2).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-prop-bottle-2.gltf",
+    "bounds": {
+      "size": [
+        0.307868,
+        0.465883,
+        0.307868
+      ],
+      "diagonal": 0.637662
+    },
+    "triangleCount": 204,
+    "drawCallCount": 1,
+    "renderVertexCount": 612,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "prop"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-prop-bucket",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Prop Bucket",
+    "description": "Pirate prop model (Prop Bucket).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-prop-bucket.gltf",
+    "bounds": {
+      "size": [
+        0.759609,
+        0.679494,
+        0.71469
+      ],
+      "diagonal": 1.244789
+    },
+    "triangleCount": 532,
+    "drawCallCount": 1,
+    "renderVertexCount": 1596,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "prop"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-prop-bucket-fishes",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Prop Bucket Fishes",
+    "description": "Pirate prop model (Prop Bucket Fishes).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-prop-bucket-fishes.gltf",
+    "bounds": {
+      "size": [
+        0.859786,
+        0.680758,
+        1.152993
+      ],
+      "diagonal": 1.591244
+    },
+    "triangleCount": 3860,
+    "drawCallCount": 1,
+    "renderVertexCount": 11580,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "prop"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-prop-cannon",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Prop Cannon",
+    "description": "Pirate prop model (Prop Cannon).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-prop-cannon.gltf",
+    "bounds": {
+      "size": [
+        1.482677,
+        1.129713,
+        1.039032
+      ],
+      "diagonal": 2.13405
+    },
+    "triangleCount": 2362,
+    "drawCallCount": 1,
+    "renderVertexCount": 7086,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "prop"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-prop-cannonball",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Prop Cannon Ball",
+    "description": "Pirate prop model (Prop Cannon Ball).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-prop-cannonball.gltf",
+    "bounds": {
+      "size": [
+        0.404251,
+        0.406209,
+        0.390322
+      ],
+      "diagonal": 0.69338
+    },
+    "triangleCount": 716,
+    "drawCallCount": 1,
+    "renderVertexCount": 2148,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "prop"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-prop-chest-closed",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Prop Chest Closed",
+    "description": "Pirate prop model (Prop Chest Closed).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-prop-chest-closed.gltf",
+    "bounds": {
+      "size": [
+        1.394787,
+        0.88125,
+        0.887421
+      ],
+      "diagonal": 1.873379
+    },
+    "triangleCount": 1636,
+    "drawCallCount": 1,
+    "renderVertexCount": 4908,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "prop"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-prop-chest-gold",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Prop Chest Gold",
+    "description": "Pirate prop model (Prop Chest Gold).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-prop-chest-gold.gltf",
+    "bounds": {
+      "size": [
+        1.817041,
+        1.28501,
+        1.588316
+      ],
+      "diagonal": 2.734161
+    },
+    "triangleCount": 7368,
+    "drawCallCount": 1,
+    "renderVertexCount": 22104,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "prop"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-prop-coins",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Prop Coins",
+    "description": "Pirate prop model (Prop Coins).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-prop-coins.gltf",
+    "bounds": {
+      "size": [
+        0.456686,
+        0.343898,
+        0.635379
+      ],
+      "diagonal": 0.854713
+    },
+    "triangleCount": 2024,
+    "drawCallCount": 1,
+    "renderVertexCount": 6072,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "prop"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-prop-fish-mackerel",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Prop Fish Mackerel",
+    "description": "Pirate prop model (Prop Fish Mackerel).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-prop-fish-mackerel.gltf",
+    "bounds": {
+      "size": [
+        1.56423,
+        0.629436,
+        0.249447
+      ],
+      "diagonal": 1.704473
+    },
+    "triangleCount": 888,
+    "drawCallCount": 1,
+    "renderVertexCount": 2664,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "prop"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-prop-fish-tuna",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Prop Fish Tuna",
+    "description": "Pirate prop model (Prop Fish Tuna).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-prop-fish-tuna.gltf",
+    "bounds": {
+      "size": [
+        2.128866,
+        0.975914,
+        0.236707
+      ],
+      "diagonal": 2.353829
+    },
+    "triangleCount": 1040,
+    "drawCallCount": 1,
+    "renderVertexCount": 3120,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "prop"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-prop-goldbag",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Prop Gold Bag",
+    "description": "Pirate prop model (Prop Gold Bag).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-prop-goldbag.gltf",
+    "bounds": {
+      "size": [
+        0.666075,
+        0.615267,
+        0.518702
+      ],
+      "diagonal": 1.044634
+    },
+    "triangleCount": 3954,
+    "drawCallCount": 1,
+    "renderVertexCount": 11862,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "prop"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-prop-skull",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Prop Skull",
+    "description": "Pirate prop model (Prop Skull).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-prop-skull.gltf",
+    "bounds": {
+      "size": [
+        0.48379,
+        0.484553,
+        0.476168
+      ],
+      "diagonal": 0.834014
+    },
+    "triangleCount": 734,
+    "drawCallCount": 1,
+    "renderVertexCount": 2202,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "prop"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-ship-large",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Ship Large",
+    "description": "Pirate ship model (Ship Large).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-ship-large.gltf",
+    "bounds": {
+      "size": [
+        15.432957,
+        11.479032,
+        5.300582
+      ],
+      "diagonal": 19.950952
+    },
+    "triangleCount": 20636,
+    "drawCallCount": 1,
+    "renderVertexCount": 61908,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "ship",
+      "vehicle"
+    ],
+    "aliases": [
+      "boat",
+      "large ship",
+      "pirate ship"
+    ],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-ship-small",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Ship Small",
+    "description": "Pirate ship model (Ship Small).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-ship-small.gltf",
+    "bounds": {
+      "size": [
+        5.149104,
+        1.992094,
+        3.601198
+      ],
+      "diagonal": 6.591687
+    },
+    "triangleCount": 5578,
+    "drawCallCount": 1,
+    "renderVertexCount": 16734,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "ship",
+      "vehicle"
+    ],
+    "aliases": [
+      "boat",
+      "small ship"
+    ],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-ui-chickenleg",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "UI Chicken Leg",
+    "description": "Pirate UI model (UI Chicken Leg).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-ui-chickenleg.gltf",
+    "bounds": {
+      "size": [
+        0.504122,
+        0.499709,
+        0.538955
+      ],
+      "diagonal": 0.891246
+    },
+    "triangleCount": 620,
+    "drawCallCount": 1,
+    "renderVertexCount": 1860,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "ui",
+      "icon"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-ui-gem-blue",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "UI Gem Blue",
+    "description": "Pirate UI model (UI Gem Blue).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-ui-gem-blue.gltf",
+    "bounds": {
+      "size": [
+        0.369003,
+        0.789172,
+        0.260763
+      ],
+      "diagonal": 0.90937
+    },
+    "triangleCount": 44,
+    "drawCallCount": 1,
+    "renderVertexCount": 132,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "ui",
+      "icon"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-ui-gem-green",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "UI Gem Green",
+    "description": "Pirate UI model (UI Gem Green).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-ui-gem-green.gltf",
+    "bounds": {
+      "size": [
+        0.560172,
+        0.565693,
+        0.560172
+      ],
+      "diagonal": 0.973444
+    },
+    "triangleCount": 62,
+    "drawCallCount": 1,
+    "renderVertexCount": 186,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "ui",
+      "icon"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-ui-gem-pink",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "UI Gem Pink",
+    "description": "Pirate UI model (UI Gem Pink).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-ui-gem-pink.gltf",
+    "bounds": {
+      "size": [
+        0.422888,
+        0.725128,
+        0.422888
+      ],
+      "diagonal": 0.939936
+    },
+    "triangleCount": 44,
+    "drawCallCount": 1,
+    "renderVertexCount": 132,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "ui",
+      "icon"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-ui-gold",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "UI Gold",
+    "description": "Pirate UI model (UI Gold).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-ui-gold.gltf",
+    "bounds": {
+      "size": [
+        0.399612,
+        0.416825,
+        0.413945
+      ],
+      "diagonal": 0.710481
+    },
+    "triangleCount": 1130,
+    "drawCallCount": 1,
+    "renderVertexCount": 3390,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "ui",
+      "icon"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-ui-paper",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "UI Paper",
+    "description": "Pirate UI model (UI Paper).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-ui-paper.gltf",
+    "bounds": {
+      "size": [
+        0.509636,
+        0.515617,
+        0.306489
+      ],
+      "diagonal": 0.7871
+    },
+    "triangleCount": 304,
+    "drawCallCount": 1,
+    "renderVertexCount": 912,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "ui",
+      "icon"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-ui-red-dash",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "UI Red Dash",
+    "description": "Pirate UI model (UI Red Dash).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-ui-red-dash.gltf",
+    "bounds": {
+      "size": [
+        0.367186,
+        0.106372,
+        0.229358
+      ],
+      "diagonal": 0.445809
+    },
+    "triangleCount": 56,
+    "drawCallCount": 1,
+    "renderVertexCount": 168,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "ui",
+      "icon"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-ui-red-x",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "UI Red X",
+    "description": "Pirate UI model (UI Red X).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-ui-red-x.gltf",
+    "bounds": {
+      "size": [
+        1.095809,
+        0.106372,
+        1.114404
+      ],
+      "diagonal": 1.566528
+    },
+    "triangleCount": 312,
+    "drawCallCount": 1,
+    "renderVertexCount": 936,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "ui",
+      "icon"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-ui-rocks",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "UI Rocks",
+    "description": "Pirate UI model (UI Rocks).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-ui-rocks.gltf",
+    "bounds": {
+      "size": [
+        0.407259,
+        0.413085,
+        0.285508
+      ],
+      "diagonal": 0.64654
+    },
+    "triangleCount": 626,
+    "drawCallCount": 1,
+    "renderVertexCount": 1878,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "ui",
+      "icon"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-ui-swords",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "UI Swords",
+    "description": "Pirate UI model (UI Swords).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-ui-swords.gltf",
+    "bounds": {
+      "size": [
+        0.50667,
+        0.465468,
+        0.077567
+      ],
+      "diagonal": 0.692381
+    },
+    "triangleCount": 732,
+    "drawCallCount": 1,
+    "renderVertexCount": 2196,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "ui",
+      "icon"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-ui-wheat",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "UI Wheat",
+    "description": "Pirate UI model (UI Wheat).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-ui-wheat.gltf",
+    "bounds": {
+      "size": [
+        0.506477,
+        0.500827,
+        0.106648
+      ],
+      "diagonal": 0.720222
+    },
+    "triangleCount": 306,
+    "drawCallCount": 1,
+    "renderVertexCount": 918,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "ui",
+      "icon"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-ui-wood",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "UI Wood",
+    "description": "Pirate UI model (UI Wood).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-ui-wood.gltf",
+    "bounds": {
+      "size": [
+        0.558087,
+        0.467819,
+        0.533772
+      ],
+      "diagonal": 0.902899
+    },
+    "triangleCount": 420,
+    "drawCallCount": 1,
+    "renderVertexCount": 1260,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "ui",
+      "icon"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-weapon-axe",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Weapon Axe",
+    "description": "Pirate weapon model (Weapon Axe).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-weapon-axe.gltf",
+    "bounds": {
+      "size": [
+        0.446711,
+        1.046581,
+        0.124719
+      ],
+      "diagonal": 1.144743
+    },
+    "triangleCount": 1174,
+    "drawCallCount": 1,
+    "renderVertexCount": 3522,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "weapon"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-weapon-axerifle",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Weapon Axe Rifle",
+    "description": "Pirate weapon model (Weapon Axe Rifle).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-weapon-axerifle.gltf",
+    "bounds": {
+      "size": [
+        2.320469,
+        0.632834,
+        0.282211
+      ],
+      "diagonal": 2.421714
+    },
+    "triangleCount": 1408,
+    "drawCallCount": 1,
+    "renderVertexCount": 4224,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "weapon"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-weapon-cutlass",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Weapon Cutlass",
+    "description": "Pirate weapon model (Weapon Cutlass).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-weapon-cutlass.gltf",
+    "bounds": {
+      "size": [
+        0.409848,
+        1.194022,
+        0.106822
+      ],
+      "diagonal": 1.266915
+    },
+    "triangleCount": 566,
+    "drawCallCount": 1,
+    "renderVertexCount": 1698,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "weapon"
+    ],
+    "aliases": [
+      "saber",
+      "sword"
+    ],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-weapon-dagger",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Weapon Dagger",
+    "description": "Pirate weapon model (Weapon Dagger).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-weapon-dagger.gltf",
+    "bounds": {
+      "size": [
+        0.202786,
+        1.318441,
+        0.202786
+      ],
+      "diagonal": 1.34927
+    },
+    "triangleCount": 494,
+    "drawCallCount": 1,
+    "renderVertexCount": 1482,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "weapon"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-weapon-doubleaxe",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Weapon Double Axe",
+    "description": "Pirate weapon model (Weapon Double Axe).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-weapon-doubleaxe.gltf",
+    "bounds": {
+      "size": [
+        0.662788,
+        1.007686,
+        0.124719
+      ],
+      "diagonal": 1.212549
+    },
+    "triangleCount": 1436,
+    "drawCallCount": 1,
+    "renderVertexCount": 4308,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "weapon"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-weapon-doubleshotgun",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Weapon Double Shotgun",
+    "description": "Pirate weapon model (Weapon Double Shotgun).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-weapon-doubleshotgun.gltf",
+    "bounds": {
+      "size": [
+        1.57798,
+        0.698698,
+        0.380215
+      ],
+      "diagonal": 1.767134
+    },
+    "triangleCount": 1682,
+    "drawCallCount": 1,
+    "renderVertexCount": 5046,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "weapon"
+    ],
+    "aliases": [
+      "shotgun"
+    ],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-weapon-lute",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Weapon Lute",
+    "description": "Pirate weapon model (Weapon Lute).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-weapon-lute.gltf",
+    "bounds": {
+      "size": [
+        0.498678,
+        1.333648,
+        0.309568
+      ],
+      "diagonal": 1.457097
+    },
+    "triangleCount": 710,
+    "drawCallCount": 1,
+    "renderVertexCount": 2130,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "weapon"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-weapon-pistol",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Weapon Pistol",
+    "description": "Pirate weapon model (Weapon Pistol).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-weapon-pistol.gltf",
+    "bounds": {
+      "size": [
+        1.243632,
+        0.645056,
+        0.334141
+      ],
+      "diagonal": 1.440267
+    },
+    "triangleCount": 1394,
+    "drawCallCount": 1,
+    "renderVertexCount": 4182,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "weapon"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-weapon-rifle",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Weapon Rifle",
+    "description": "Pirate weapon model (Weapon Rifle).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-weapon-rifle.gltf",
+    "bounds": {
+      "size": [
+        2.898108,
+        0.685645,
+        0.284925
+      ],
+      "diagonal": 2.991709
+    },
+    "triangleCount": 1534,
+    "drawCallCount": 1,
+    "renderVertexCount": 4602,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "weapon"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-weapon-sword-1",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Weapon Sword 1",
+    "description": "Pirate weapon model (Weapon Sword 1).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-weapon-sword-1.gltf",
+    "bounds": {
+      "size": [
+        0.275256,
+        1.368631,
+        0.136696
+      ],
+      "diagonal": 1.402713
+    },
+    "triangleCount": 570,
+    "drawCallCount": 1,
+    "renderVertexCount": 1710,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "weapon"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-pirate-kit-weapon-sword-2",
+    "packId": "quaternius-pirate-kit",
+    "packName": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "name": "Weapon Sword 2",
+    "description": "Pirate weapon model (Weapon Sword 2).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-weapon-sword-2.gltf",
+    "bounds": {
+      "size": [
+        0.33915,
+        1.297492,
+        0.143391
+      ],
+      "diagonal": 1.348729
+    },
+    "triangleCount": 418,
+    "drawCallCount": 1,
+    "renderVertexCount": 1254,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "weapon"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  }
+]

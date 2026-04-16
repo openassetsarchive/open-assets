@@ -1,0 +1,187 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T01:16:09.455Z",
+  "pack": {
+    "id": "quaternius-pirate-kit",
+    "name": "Quaternius Pirate Kit",
+    "creator": "Quaternius",
+    "license": "CC0",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit"
+    ]
+  },
+  "asset": {
+    "id": "quaternius-pirate-kit-environment-palmtree-1",
+    "name": "Environment Palm Tree 1",
+    "description": "Pirate environment model (Environment Palm Tree 1).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "Environment_PalmTree_1.gltf",
+    "fileName": "Environment_PalmTree_1.gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-environment-palmtree-1.gltf",
+    "file": {
+      "primaryBytes": 147125,
+      "totalBytes": 147125,
+      "primarySha256": "c38f9ee0f5385422a69863a0948d088b1119611b017e872417fceefdaf20ed94",
+      "bundleSha256": "dc9da987ef1d7d0dd2302843ec5dd70750e5ac7cc06df5b2d8ce82a558af6797",
+      "resourceCount": 1
+    },
+    "geometry": {
+      "bounds": {
+        "min": [
+          -0.941758,
+          0.005475,
+          -1.398801
+        ],
+        "max": [
+          1.667928,
+          3.592833,
+          1.119393
+        ],
+        "size": [
+          2.609686,
+          3.587359,
+          2.518194
+        ],
+        "center": [
+          0.363085,
+          1.799154,
+          -0.139704
+        ],
+        "diagonal": 5.101069
+      },
+      "triangleCount": 3208,
+      "drawCallCount": 1,
+      "renderVertexCount": 9624,
+      "uploadVertexCount": 2675,
+      "uploadNaiveVertexCount": 2675,
+      "meshCount": 1,
+      "primitiveCount": 1,
+      "morphTargetCount": 0
+    },
+    "structure": {
+      "sceneCount": 1,
+      "defaultScene": "Scene",
+      "nodeCount": 1,
+      "materialCount": 1,
+      "textureCount": 1,
+      "skinCount": 0,
+      "animationCount": 0,
+      "meshInstanceCount": 1
+    },
+    "sceneNames": [
+      "Scene"
+    ],
+    "materials": [
+      {
+        "name": "Atlas",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true,
+        "textureSlots": [
+          "baseColorTexture"
+        ],
+        "instances": 1
+      }
+    ],
+    "textures": [
+      {
+        "name": "Atlas_Pirate",
+        "uri": null,
+        "mimeType": "image/png",
+        "width": 32,
+        "height": 32,
+        "byteSize": 3207,
+        "gpuByteSize": 5460,
+        "compression": "",
+        "slots": [
+          "baseColorTexture"
+        ],
+        "embedded": true
+      }
+    ],
+    "animations": [],
+    "skins": [],
+    "meshes": [
+      {
+        "name": "Cylinder.004",
+        "primitiveCount": 1,
+        "triangleCount": 3208,
+        "renderVertexCount": 9624,
+        "uploadVertexCount": 2675,
+        "uploadNaiveVertexCount": 2675,
+        "attributes": [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ],
+        "materials": [
+          "Atlas"
+        ],
+        "modes": [
+          "4"
+        ],
+        "morphTargetCount": 0
+      }
+    ],
+    "resources": [
+      {
+        "kind": "model",
+        "uri": "Environment_PalmTree_1.gltf",
+        "relativePath": "Environment_PalmTree_1.gltf",
+        "bytes": 147125,
+        "sha256": "c38f9ee0f5385422a69863a0948d088b1119611b017e872417fceefdaf20ed94",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      }
+    ],
+    "source": {
+      "inputRoot": "/Users/me/dev/open-assets/packs/quaternius-pirate-kit/source",
+      "absolutePath": "/Users/me/dev/open-assets/packs/quaternius-pirate-kit/source/Environment_PalmTree_1.gltf"
+    },
+    "metadata": {
+      "assetVersion": "2.0",
+      "generator": "glTF-Transform v4.3.0",
+      "copyright": null,
+      "extensions": {
+        "used": [],
+        "required": []
+      }
+    },
+    "search": {
+      "tags": [
+        "pirate",
+        "low-poly",
+        "stylized",
+        "quaternius",
+        "kit",
+        "environment"
+      ],
+      "aliases": [],
+      "tokens": [
+        "characters",
+        "docks",
+        "environment",
+        "islands",
+        "kit",
+        "palm",
+        "pirate",
+        "poly",
+        "props",
+        "quaternius",
+        "ships",
+        "stylized",
+        "tree",
+        "trees",
+        "ui",
+        "weapons"
+      ]
+    },
+    "warnings": [],
+    "errors": []
+  }
+}

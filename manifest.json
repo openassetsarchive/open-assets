@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T01:56:46.011Z",
+  "inputDir": "/Users/me/dev/open-assets/generated/packs",
+  "catalogSha256": "76cba750b9916a5dc77364ce5277d28efc4ecf2fc4832e8f04626b5e70120e84",
+  "copyDetails": true,
+  "counts": {
+    "packs": 1,
+    "assets": 72,
+    "tokens": 94
+  },
+  "files": {
+    "packs": "packs.json",
+    "allAssets": "all-assets.json",
+    "allAssetsExpanded": "all-assets-expanded.json",
+    "packByIdDir": "packs/by-id",
+    "packAssetsDir": "packs/<packId>/assets.json",
+    "packExpandedAssetsDir": "packs/<packId>/assets-expanded.json",
+    "assetByIdDir": "assets/by-id",
+    "expandedAssetByIdDir": "assets/expanded-by-id",
+    "tokenIndexDir": "search/tokens",
+    "tokenList": "search/tokens.json"
+  }
+}

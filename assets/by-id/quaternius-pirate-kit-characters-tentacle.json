@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T01:16:09.455Z",
+  "pack": {
+    "id": "quaternius-pirate-kit",
+    "name": "Quaternius Pirate Kit",
+    "license": "CC0",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit"
+    ]
+  },
+  "asset": {
+    "id": "quaternius-pirate-kit-characters-tentacle",
+    "name": "Characters Tentacle",
+    "description": "Pirate character model (Characters Tentacle).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-characters-tentacle.gltf",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit",
+      "character",
+      "animated"
+    ],
+    "aliases": [
+      "npc",
+      "pirate character"
+    ],
+    "geometry": {
+      "bounds": {
+        "min": [
+          -1.374063,
+          0.017913,
+          -1.143397
+        ],
+        "max": [
+          1.374063,
+          19.710228,
+          1.038252
+        ],
+        "size": [
+          2.748126,
+          19.692315,
+          2.181649
+        ],
+        "center": [
+          0,
+          9.86407,
+          -0.052572
+        ],
+        "diagonal": 20.002476
+      },
+      "triangleCount": 3874,
+      "drawCallCount": 1,
+      "renderVertexCount": 11622,
+      "uploadVertexCount": 3624,
+      "meshCount": 1,
+      "primitiveCount": 1
+    },
+    "materials": {
+      "count": 1,
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "doubleSidedCount": 1
+    },
+    "textures": {
+      "count": 1,
+      "embeddedCount": 1,
+      "externalCount": 0,
+      "maxResolution": [
+        32,
+        32
+      ]
+    },
+    "animated": true,
+    "animationCount": 4,
+    "animations": [
+      {
+        "name": "Tentacle_Attack",
+        "durationSec": 0.9,
+        "keyframes": 432,
+        "targetPaths": [
+          "rotation",
+          "translation"
+        ],
+        "interpolations": [
+          "LINEAR"
+        ]
+      },
+      {
+        "name": "Tentacle_Attack2",
+        "durationSec": 1,
+        "keyframes": 532,
+        "targetPaths": [
+          "rotation",
+          "translation"
+        ],
+        "interpolations": [
+          "LINEAR"
+        ]
+      },
+      {
+        "name": "Tentacle_Idle",
+        "durationSec": 3.333,
+        "keyframes": 1751,
+        "targetPaths": [
+          "rotation",
+          "translation"
+        ],
+        "interpolations": [
+          "LINEAR"
+        ]
+      },
+      {
+        "name": "Tentacle_Poke",
+        "durationSec": 1.333,
+        "keyframes": 614,
+        "targetPaths": [
+          "rotation",
+          "translation"
+        ],
+        "interpolations": [
+          "LINEAR"
+        ]
+      }
+    ],
+    "rig": {
+      "rigged": true,
+      "skinCount": 1,
+      "jointCountTotal": 18,
+      "skeletonRoots": [],
+      "hasInverseBindMatrices": true
+    },
+    "compatibility": {
+      "requiredExtensions": [],
+      "usedExtensions": [],
+      "dependencyMode": "standalone"
+    },
+    "quality": {
+      "warningCount": 0,
+      "errorCount": 0
+    }
+  }
+}

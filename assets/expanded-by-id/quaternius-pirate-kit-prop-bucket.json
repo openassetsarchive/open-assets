@@ -1,0 +1,188 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T01:16:09.455Z",
+  "pack": {
+    "id": "quaternius-pirate-kit",
+    "name": "Quaternius Pirate Kit",
+    "creator": "Quaternius",
+    "license": "CC0",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit"
+    ]
+  },
+  "asset": {
+    "id": "quaternius-pirate-kit-prop-bucket",
+    "name": "Prop Bucket",
+    "description": "Pirate prop model (Prop Bucket).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "Prop_Bucket.gltf",
+    "fileName": "Prop_Bucket.gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-prop-bucket.gltf",
+    "file": {
+      "primaryBytes": 41601,
+      "totalBytes": 41601,
+      "primarySha256": "23dd284c44d7e1bc0f8e948739c47b8215715edacf2e59962cf7c92b59f7d00d",
+      "bundleSha256": "f302e8a1c7922fc2b9e9730d6a7bbb5ec2a93237c33097c40fa8fb0815476b70",
+      "resourceCount": 1
+    },
+    "geometry": {
+      "bounds": {
+        "min": [
+          -0.374771,
+          0.001275,
+          -0.357345
+        ],
+        "max": [
+          0.384838,
+          0.680769,
+          0.357345
+        ],
+        "size": [
+          0.759609,
+          0.679494,
+          0.71469
+        ],
+        "center": [
+          0.005033,
+          0.341022,
+          0
+        ],
+        "diagonal": 1.244789
+      },
+      "triangleCount": 532,
+      "drawCallCount": 1,
+      "renderVertexCount": 1596,
+      "uploadVertexCount": 704,
+      "uploadNaiveVertexCount": 704,
+      "meshCount": 1,
+      "primitiveCount": 1,
+      "morphTargetCount": 0
+    },
+    "structure": {
+      "sceneCount": 1,
+      "defaultScene": "Scene",
+      "nodeCount": 1,
+      "materialCount": 1,
+      "textureCount": 1,
+      "skinCount": 0,
+      "animationCount": 0,
+      "meshInstanceCount": 1
+    },
+    "sceneNames": [
+      "Scene"
+    ],
+    "materials": [
+      {
+        "name": "Atlas",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true,
+        "textureSlots": [
+          "baseColorTexture"
+        ],
+        "instances": 1
+      }
+    ],
+    "textures": [
+      {
+        "name": "Atlas_Pirate",
+        "uri": null,
+        "mimeType": "image/png",
+        "width": 32,
+        "height": 32,
+        "byteSize": 3207,
+        "gpuByteSize": 5460,
+        "compression": "",
+        "slots": [
+          "baseColorTexture"
+        ],
+        "embedded": true
+      }
+    ],
+    "animations": [],
+    "skins": [],
+    "meshes": [
+      {
+        "name": "Plane.002",
+        "primitiveCount": 1,
+        "triangleCount": 532,
+        "renderVertexCount": 1596,
+        "uploadVertexCount": 704,
+        "uploadNaiveVertexCount": 704,
+        "attributes": [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ],
+        "materials": [
+          "Atlas"
+        ],
+        "modes": [
+          "4"
+        ],
+        "morphTargetCount": 0
+      }
+    ],
+    "resources": [
+      {
+        "kind": "model",
+        "uri": "Prop_Bucket.gltf",
+        "relativePath": "Prop_Bucket.gltf",
+        "bytes": 41601,
+        "sha256": "23dd284c44d7e1bc0f8e948739c47b8215715edacf2e59962cf7c92b59f7d00d",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      }
+    ],
+    "source": {
+      "inputRoot": "/Users/me/dev/open-assets/packs/quaternius-pirate-kit/source",
+      "absolutePath": "/Users/me/dev/open-assets/packs/quaternius-pirate-kit/source/Prop_Bucket.gltf"
+    },
+    "metadata": {
+      "assetVersion": "2.0",
+      "generator": "glTF-Transform v4.3.0",
+      "copyright": null,
+      "extensions": {
+        "used": [],
+        "required": []
+      }
+    },
+    "search": {
+      "tags": [
+        "pirate",
+        "low-poly",
+        "stylized",
+        "quaternius",
+        "kit",
+        "prop"
+      ],
+      "aliases": [],
+      "tokens": [
+        "bucket",
+        "characters",
+        "docks",
+        "environment",
+        "islands",
+        "kit",
+        "palm",
+        "pirate",
+        "poly",
+        "prop",
+        "props",
+        "quaternius",
+        "ships",
+        "stylized",
+        "trees",
+        "ui",
+        "weapons"
+      ]
+    },
+    "warnings": [],
+    "errors": []
+  }
+}

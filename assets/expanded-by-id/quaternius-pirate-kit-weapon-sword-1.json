@@ -1,0 +1,188 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T01:16:09.455Z",
+  "pack": {
+    "id": "quaternius-pirate-kit",
+    "name": "Quaternius Pirate Kit",
+    "creator": "Quaternius",
+    "license": "CC0",
+    "tags": [
+      "pirate",
+      "low-poly",
+      "stylized",
+      "quaternius",
+      "kit"
+    ]
+  },
+  "asset": {
+    "id": "quaternius-pirate-kit-weapon-sword-1",
+    "name": "Weapon Sword 1",
+    "description": "Pirate weapon model (Weapon Sword 1).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "Weapon_Sword_1.gltf",
+    "fileName": "Weapon_Sword_1.gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit/quaternius-pirate-kit-weapon-sword-1.gltf",
+    "file": {
+      "primaryBytes": 37477,
+      "totalBytes": 37477,
+      "primarySha256": "3ea3c343d1271679d62ac1689cf6fa2d74ac4c6c0c21fb753b0e4c4d8e8af8a6",
+      "bundleSha256": "2b6e35193e760149f8d40e55f191aafbd52723013a94faad8502e6ab0186a018",
+      "resourceCount": 1
+    },
+    "geometry": {
+      "bounds": {
+        "min": [
+          -0.137628,
+          -0.181473,
+          -0.068348
+        ],
+        "max": [
+          0.137628,
+          1.187159,
+          0.068348
+        ],
+        "size": [
+          0.275256,
+          1.368631,
+          0.136696
+        ],
+        "center": [
+          0,
+          0.502843,
+          0
+        ],
+        "diagonal": 1.402713
+      },
+      "triangleCount": 570,
+      "drawCallCount": 1,
+      "renderVertexCount": 1710,
+      "uploadVertexCount": 600,
+      "uploadNaiveVertexCount": 600,
+      "meshCount": 1,
+      "primitiveCount": 1,
+      "morphTargetCount": 0
+    },
+    "structure": {
+      "sceneCount": 1,
+      "defaultScene": "Scene",
+      "nodeCount": 1,
+      "materialCount": 1,
+      "textureCount": 1,
+      "skinCount": 0,
+      "animationCount": 0,
+      "meshInstanceCount": 1
+    },
+    "sceneNames": [
+      "Scene"
+    ],
+    "materials": [
+      {
+        "name": "Atlas",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true,
+        "textureSlots": [
+          "baseColorTexture"
+        ],
+        "instances": 1
+      }
+    ],
+    "textures": [
+      {
+        "name": "Atlas_Pirate",
+        "uri": null,
+        "mimeType": "image/png",
+        "width": 32,
+        "height": 32,
+        "byteSize": 3207,
+        "gpuByteSize": 5460,
+        "compression": "",
+        "slots": [
+          "baseColorTexture"
+        ],
+        "embedded": true
+      }
+    ],
+    "animations": [],
+    "skins": [],
+    "meshes": [
+      {
+        "name": "Cylinder.005",
+        "primitiveCount": 1,
+        "triangleCount": 570,
+        "renderVertexCount": 1710,
+        "uploadVertexCount": 600,
+        "uploadNaiveVertexCount": 600,
+        "attributes": [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ],
+        "materials": [
+          "Atlas"
+        ],
+        "modes": [
+          "4"
+        ],
+        "morphTargetCount": 0
+      }
+    ],
+    "resources": [
+      {
+        "kind": "model",
+        "uri": "Weapon_Sword_1.gltf",
+        "relativePath": "Weapon_Sword_1.gltf",
+        "bytes": 37477,
+        "sha256": "3ea3c343d1271679d62ac1689cf6fa2d74ac4c6c0c21fb753b0e4c4d8e8af8a6",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      }
+    ],
+    "source": {
+      "inputRoot": "/Users/me/dev/open-assets/packs/quaternius-pirate-kit/source",
+      "absolutePath": "/Users/me/dev/open-assets/packs/quaternius-pirate-kit/source/Weapon_Sword_1.gltf"
+    },
+    "metadata": {
+      "assetVersion": "2.0",
+      "generator": "glTF-Transform v4.3.0",
+      "copyright": null,
+      "extensions": {
+        "used": [],
+        "required": []
+      }
+    },
+    "search": {
+      "tags": [
+        "pirate",
+        "low-poly",
+        "stylized",
+        "quaternius",
+        "kit",
+        "weapon"
+      ],
+      "aliases": [],
+      "tokens": [
+        "characters",
+        "docks",
+        "environment",
+        "islands",
+        "kit",
+        "palm",
+        "pirate",
+        "poly",
+        "props",
+        "quaternius",
+        "ships",
+        "stylized",
+        "sword",
+        "trees",
+        "ui",
+        "weapon",
+        "weapons"
+      ]
+    },
+    "warnings": [],
+    "errors": []
+  }
+}
