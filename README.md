@@ -14,6 +14,10 @@ Search all assets:
 
 - `https://raw.githubusercontent.com/openassetsarchive/open-assets/main/all-assets.json`
 
+Read the catalog manifest:
+
+- `https://raw.githubusercontent.com/openassetsarchive/open-assets/main/manifest.json`
+
 Get one asset by id:
 
 - `https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/by-id/<assetId>.json`
@@ -27,9 +31,45 @@ Get one asset by id:
 
 The direct URL to use in a project is `publicUrl`.
 
-## Lower-Bandwidth Search
+## Structured Search
 
-If you do not want to load `all-assets.json`, use token files:
+If you do not want to load `all-assets.json`, use the static indexes.
+
+Search by tag:
+
+- `https://raw.githubusercontent.com/openassetsarchive/open-assets/main/search/tags/<tag>.json`
+
+Search by kind:
+
+- `https://raw.githubusercontent.com/openassetsarchive/open-assets/main/search/kinds/<kind>.json`
+
+Search by format:
+
+- `https://raw.githubusercontent.com/openassetsarchive/open-assets/main/search/formats/<format>.json`
+
+To search by multiple tags, fetch multiple tag files and intersect their `assetIds`.
+
+Example:
+
+1. fetch `search/tags/pirate.json`
+2. fetch `search/tags/stylized.json`
+3. fetch `search/kinds/model.json`
+4. intersect the returned `assetIds`
+5. fetch `assets/by-id/<assetId>.json`
+
+Supported kinds today:
+
+- `model`
+- `sprite`
+- `sprite-sheet`
+- `tileset`
+- `splat`
+- `sfx`
+- `music`
+
+## Token Search
+
+If you want loose text search instead of structured filtering, use token files:
 
 1. split the query into lowercase words
 2. fetch `search/tokens/<token>.json`

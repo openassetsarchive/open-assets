@@ -1,13 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-04-16T02:48:52.845Z",
+  "generatedAt": "2026-04-16T06:37:50.285Z",
   "inputDir": "/Users/me/dev/open-assets/generated/packs",
   "catalogSha256": "76cba750b9916a5dc77364ce5277d28efc4ecf2fc4832e8f04626b5e70120e84",
   "copyDetails": true,
   "counts": {
     "packs": 1,
     "assets": 72,
-    "tokens": 94
+    "tokens": 94,
+    "tags": 15,
+    "kinds": 1,
+    "formats": 1
   },
   "files": {
     "packs": "packs.json",
@@ -19,6 +22,23 @@
     "assetByIdDir": "assets/by-id",
     "expandedAssetByIdDir": "assets/expanded-by-id",
     "tokenIndexDir": "search/tokens",
-    "tokenList": "search/tokens.json"
+    "tokenList": "search/tokens.json",
+    "tagIndexDir": "search/tags",
+    "tagList": "search/tags.json",
+    "kindIndexDir": "search/kinds",
+    "kindList": "search/kinds.json",
+    "formatIndexDir": "search/formats",
+    "formatList": "search/formats.json"
+  },
+  "taxonomy": {
+    "supportedKinds": [
+      "model",
+      "sprite",
+      "sprite-sheet",
+      "tileset",
+      "splat",
+      "sfx",
+      "music"
+    ]
   }
 }
