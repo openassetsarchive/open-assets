@@ -52,7 +52,8 @@ Get one asset by id:
 4. If needed, use `asset-locations.json` to find the pack, then fetch `packs/<packId>/details.json` for more metadata.
 
 The direct URL to use in a project is `publicUrl`.
-The canonical license reference is `licenseUrl`.
+The human-facing source page is `sourceUrl`.
+The canonical license reference is the pack-level `licenseUrl`.
 
 ## Structured Search
 

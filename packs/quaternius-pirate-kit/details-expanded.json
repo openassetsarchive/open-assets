@@ -1,11 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-04-16T10:10:09.693Z",
+  "generatedAt": "2026-04-16T10:24:59.176Z",
   "pack": {
     "id": "quaternius-pirate-kit",
     "name": "Quaternius Pirate Kit",
     "license": "CC0",
     "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://quaternius.com/packs/piratekit.html",
     "tags": [
       "pirate",
       "low-poly",
@@ -90,7 +91,7 @@
   ],
   "assetsById": {
     "quaternius-pirate-kit-characters-anne": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-characters-anne",
         "name": "Characters Anne",
@@ -1126,7 +1127,7 @@
       }
     },
     "quaternius-pirate-kit-characters-captain-barbarossa": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-characters-captain-barbarossa",
         "name": "Characters Captain Barbarossa",
@@ -2046,7 +2047,7 @@
       }
     },
     "quaternius-pirate-kit-characters-henry": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-characters-henry",
         "name": "Characters Henry",
@@ -3082,7 +3083,7 @@
       }
     },
     "quaternius-pirate-kit-characters-mako": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-characters-mako",
         "name": "Characters Mako",
@@ -4118,7 +4119,7 @@
       }
     },
     "quaternius-pirate-kit-characters-shark": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-characters-shark",
         "name": "Characters Shark",
@@ -4420,7 +4421,7 @@
       }
     },
     "quaternius-pirate-kit-characters-sharky": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-characters-sharky",
         "name": "Characters Sharky",
@@ -5478,7 +5479,7 @@
       }
     },
     "quaternius-pirate-kit-characters-skeleton": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-characters-skeleton",
         "name": "Characters Skeleton",
@@ -6573,7 +6574,7 @@
       }
     },
     "quaternius-pirate-kit-characters-skeleton-headless": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-characters-skeleton-headless",
         "name": "Characters Skeleton Headless",
@@ -7670,7 +7671,7 @@
       }
     },
     "quaternius-pirate-kit-characters-tentacle": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-characters-tentacle",
         "name": "Characters Tentacle",
@@ -7996,7 +7997,7 @@
       }
     },
     "quaternius-pirate-kit-enemy-tentacle": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-enemy-tentacle",
         "name": "Enemy Tentacle",
@@ -8177,7 +8178,7 @@
       }
     },
     "quaternius-pirate-kit-environment-cliff1": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-cliff1",
         "name": "Environment Cliff1",
@@ -8350,7 +8351,7 @@
       }
     },
     "quaternius-pirate-kit-environment-cliff2": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-cliff2",
         "name": "Environment Cliff2",
@@ -8523,7 +8524,7 @@
       }
     },
     "quaternius-pirate-kit-environment-cliff3": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-cliff3",
         "name": "Environment Cliff3",
@@ -8696,7 +8697,7 @@
       }
     },
     "quaternius-pirate-kit-environment-cliff4": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-cliff4",
         "name": "Environment Cliff4",
@@ -8869,7 +8870,7 @@
       }
     },
     "quaternius-pirate-kit-environment-dock": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-dock",
         "name": "Environment Dock",
@@ -9042,7 +9043,7 @@
       }
     },
     "quaternius-pirate-kit-environment-dock-broken": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-dock-broken",
         "name": "Environment Dock Broken",
@@ -9216,7 +9217,7 @@
       }
     },
     "quaternius-pirate-kit-environment-dock-pole": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-dock-pole",
         "name": "Environment Dock Pole",
@@ -9390,7 +9391,7 @@
       }
     },
     "quaternius-pirate-kit-environment-house1": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-house1",
         "name": "Environment House1",
@@ -9572,7 +9573,7 @@
       }
     },
     "quaternius-pirate-kit-environment-house2": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-house2",
         "name": "Environment House2",
@@ -9754,7 +9755,7 @@
       }
     },
     "quaternius-pirate-kit-environment-house3": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-house3",
         "name": "Environment House3",
@@ -9936,7 +9937,7 @@
       }
     },
     "quaternius-pirate-kit-environment-largebones": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-largebones",
         "name": "Environment Large Bones",
@@ -10110,7 +10111,7 @@
       }
     },
     "quaternius-pirate-kit-environment-palmtree-1": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-palmtree-1",
         "name": "Environment Palm Tree 1",
@@ -10283,7 +10284,7 @@
       }
     },
     "quaternius-pirate-kit-environment-palmtree-2": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-palmtree-2",
         "name": "Environment Palm Tree 2",
@@ -10456,7 +10457,7 @@
       }
     },
     "quaternius-pirate-kit-environment-palmtree-3": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-palmtree-3",
         "name": "Environment Palm Tree 3",
@@ -10629,7 +10630,7 @@
       }
     },
     "quaternius-pirate-kit-environment-rock-1": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-rock-1",
         "name": "Environment Rock 1",
@@ -10802,7 +10803,7 @@
       }
     },
     "quaternius-pirate-kit-environment-rock-2": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-rock-2",
         "name": "Environment Rock 2",
@@ -10975,7 +10976,7 @@
       }
     },
     "quaternius-pirate-kit-environment-rock-3": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-rock-3",
         "name": "Environment Rock 3",
@@ -11148,7 +11149,7 @@
       }
     },
     "quaternius-pirate-kit-environment-rock-4": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-rock-4",
         "name": "Environment Rock 4",
@@ -11321,7 +11322,7 @@
       }
     },
     "quaternius-pirate-kit-environment-rock-5": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-rock-5",
         "name": "Environment Rock 5",
@@ -11494,7 +11495,7 @@
       }
     },
     "quaternius-pirate-kit-environment-sawmill": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-sawmill",
         "name": "Environment Sawmill",
@@ -11667,7 +11668,7 @@
       }
     },
     "quaternius-pirate-kit-environment-skulls": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-skulls",
         "name": "Environment Skulls",
@@ -11840,7 +11841,7 @@
       }
     },
     "quaternius-pirate-kit-prop-anchor": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-prop-anchor",
         "name": "Prop Anchor",
@@ -12015,7 +12016,7 @@
       }
     },
     "quaternius-pirate-kit-prop-barrel": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-prop-barrel",
         "name": "Prop Barrel",
@@ -12189,7 +12190,7 @@
       }
     },
     "quaternius-pirate-kit-prop-bomb": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-prop-bomb",
         "name": "Prop Bomb",
@@ -12363,7 +12364,7 @@
       }
     },
     "quaternius-pirate-kit-prop-bottle-1": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-prop-bottle-1",
         "name": "Prop Bottle 1",
@@ -12537,7 +12538,7 @@
       }
     },
     "quaternius-pirate-kit-prop-bottle-2": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-prop-bottle-2",
         "name": "Prop Bottle 2",
@@ -12711,7 +12712,7 @@
       }
     },
     "quaternius-pirate-kit-prop-bucket": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-prop-bucket",
         "name": "Prop Bucket",
@@ -12885,7 +12886,7 @@
       }
     },
     "quaternius-pirate-kit-prop-bucket-fishes": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-prop-bucket-fishes",
         "name": "Prop Bucket Fishes",
@@ -13062,7 +13063,7 @@
       }
     },
     "quaternius-pirate-kit-prop-cannon": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-prop-cannon",
         "name": "Prop Cannon",
@@ -13236,7 +13237,7 @@
       }
     },
     "quaternius-pirate-kit-prop-cannonball": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-prop-cannonball",
         "name": "Prop Cannon Ball",
@@ -13411,7 +13412,7 @@
       }
     },
     "quaternius-pirate-kit-prop-chest-closed": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-prop-chest-closed",
         "name": "Prop Chest Closed",
@@ -13586,7 +13587,7 @@
       }
     },
     "quaternius-pirate-kit-prop-chest-gold": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-prop-chest-gold",
         "name": "Prop Chest Gold",
@@ -13761,7 +13762,7 @@
       }
     },
     "quaternius-pirate-kit-prop-coins": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-prop-coins",
         "name": "Prop Coins",
@@ -13935,7 +13936,7 @@
       }
     },
     "quaternius-pirate-kit-prop-fish-mackerel": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-prop-fish-mackerel",
         "name": "Prop Fish Mackerel",
@@ -14112,7 +14113,7 @@
       }
     },
     "quaternius-pirate-kit-prop-fish-tuna": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-prop-fish-tuna",
         "name": "Prop Fish Tuna",
@@ -14289,7 +14290,7 @@
       }
     },
     "quaternius-pirate-kit-prop-goldbag": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-prop-goldbag",
         "name": "Prop Gold Bag",
@@ -14464,7 +14465,7 @@
       }
     },
     "quaternius-pirate-kit-prop-skull": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-prop-skull",
         "name": "Prop Skull",
@@ -14638,7 +14639,7 @@
       }
     },
     "quaternius-pirate-kit-ship-large": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-ship-large",
         "name": "Ship Large",
@@ -14819,7 +14820,7 @@
       }
     },
     "quaternius-pirate-kit-ship-small": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-ship-small",
         "name": "Ship Small",
@@ -14999,7 +15000,7 @@
       }
     },
     "quaternius-pirate-kit-ui-chickenleg": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-ui-chickenleg",
         "name": "UI Chicken Leg",
@@ -15175,7 +15176,7 @@
       }
     },
     "quaternius-pirate-kit-ui-gem-blue": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-ui-gem-blue",
         "name": "UI Gem Blue",
@@ -15351,7 +15352,7 @@
       }
     },
     "quaternius-pirate-kit-ui-gem-green": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-ui-gem-green",
         "name": "UI Gem Green",
@@ -15527,7 +15528,7 @@
       }
     },
     "quaternius-pirate-kit-ui-gem-pink": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-ui-gem-pink",
         "name": "UI Gem Pink",
@@ -15703,7 +15704,7 @@
       }
     },
     "quaternius-pirate-kit-ui-gold": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-ui-gold",
         "name": "UI Gold",
@@ -15878,7 +15879,7 @@
       }
     },
     "quaternius-pirate-kit-ui-paper": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-ui-paper",
         "name": "UI Paper",
@@ -16053,7 +16054,7 @@
       }
     },
     "quaternius-pirate-kit-ui-red-dash": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-ui-red-dash",
         "name": "UI Red Dash",
@@ -16229,7 +16230,7 @@
       }
     },
     "quaternius-pirate-kit-ui-red-x": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-ui-red-x",
         "name": "UI Red X",
@@ -16404,7 +16405,7 @@
       }
     },
     "quaternius-pirate-kit-ui-rocks": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-ui-rocks",
         "name": "UI Rocks",
@@ -16579,7 +16580,7 @@
       }
     },
     "quaternius-pirate-kit-ui-swords": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-ui-swords",
         "name": "UI Swords",
@@ -16754,7 +16755,7 @@
       }
     },
     "quaternius-pirate-kit-ui-wheat": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-ui-wheat",
         "name": "UI Wheat",
@@ -16929,7 +16930,7 @@
       }
     },
     "quaternius-pirate-kit-ui-wood": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-ui-wood",
         "name": "UI Wood",
@@ -17104,7 +17105,7 @@
       }
     },
     "quaternius-pirate-kit-weapon-axe": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-weapon-axe",
         "name": "Weapon Axe",
@@ -17278,7 +17279,7 @@
       }
     },
     "quaternius-pirate-kit-weapon-axerifle": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-weapon-axerifle",
         "name": "Weapon Axe Rifle",
@@ -17453,7 +17454,7 @@
       }
     },
     "quaternius-pirate-kit-weapon-cutlass": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-weapon-cutlass",
         "name": "Weapon Cutlass",
@@ -17632,7 +17633,7 @@
       }
     },
     "quaternius-pirate-kit-weapon-dagger": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-weapon-dagger",
         "name": "Weapon Dagger",
@@ -17806,7 +17807,7 @@
       }
     },
     "quaternius-pirate-kit-weapon-doubleaxe": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-weapon-doubleaxe",
         "name": "Weapon Double Axe",
@@ -17981,7 +17982,7 @@
       }
     },
     "quaternius-pirate-kit-weapon-doubleshotgun": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-weapon-doubleshotgun",
         "name": "Weapon Double Shotgun",
@@ -18158,7 +18159,7 @@
       }
     },
     "quaternius-pirate-kit-weapon-lute": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-weapon-lute",
         "name": "Weapon Lute",
@@ -18332,7 +18333,7 @@
       }
     },
     "quaternius-pirate-kit-weapon-pistol": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-weapon-pistol",
         "name": "Weapon Pistol",
@@ -18506,7 +18507,7 @@
       }
     },
     "quaternius-pirate-kit-weapon-rifle": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-weapon-rifle",
         "name": "Weapon Rifle",
@@ -18680,7 +18681,7 @@
       }
     },
     "quaternius-pirate-kit-weapon-sword-1": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-weapon-sword-1",
         "name": "Weapon Sword 1",
@@ -18854,7 +18855,7 @@
       }
     },
     "quaternius-pirate-kit-weapon-sword-2": {
-      "generatedAt": "2026-04-16T10:10:09.693Z",
+      "generatedAt": "2026-04-16T10:24:59.176Z",
       "asset": {
         "id": "quaternius-pirate-kit-weapon-sword-2",
         "name": "Weapon Sword 2",
