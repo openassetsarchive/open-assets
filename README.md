@@ -23,7 +23,7 @@ Get one asset by id:
 - `https://raw.githubusercontent.com/openassetsarchive/open-assets/main/asset-locations.json`
 - then `https://raw.githubusercontent.com/openassetsarchive/open-assets/main/packs/<packId>/details.json`
 
-`asset-locations.json` maps each `assetId` to the pack detail file that contains its full metadata.
+`asset-locations.json` is a keyed map from each `assetId` to the pack detail file that contains its full metadata.
 
 ## Simplest Search Flow
 
