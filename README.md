@@ -18,6 +18,25 @@ Read the catalog manifest:
 
 - `https://raw.githubusercontent.com/openassetsarchive/open-assets/main/manifest.json`
 
+Optional single-file CLI:
+
+- `https://raw.githubusercontent.com/openassetsarchive/open-assets/main/catalog-cli.mjs`
+
+If you clone the repo, you can run it directly:
+
+```bash
+node catalog-cli.mjs search --tag pirate --kind model --limit 5
+node catalog-cli.mjs get-asset quaternius-pirate-kit-characters-captain-barbarossa
+node catalog-cli.mjs get-pack kenney-new-platformer-pack --assets --asset-limit 20
+```
+
+If you do not clone the repo, you can still fetch it and run it:
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/openassetsarchive/open-assets/main/catalog-cli.mjs -o /tmp/open-assets-cli.mjs
+node /tmp/open-assets-cli.mjs search --tag pirate --kind model --limit 5
+```
+
 Get one asset by id:
 
 - `https://raw.githubusercontent.com/openassetsarchive/open-assets/main/asset-locations.json`
