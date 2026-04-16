@@ -20,14 +20,17 @@ Read the catalog manifest:
 
 Get one asset by id:
 
-- `https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/by-id/<assetId>.json`
+- `https://raw.githubusercontent.com/openassetsarchive/open-assets/main/asset-locations.json`
+- then `https://raw.githubusercontent.com/openassetsarchive/open-assets/main/packs/<packId>/details.json`
+
+`asset-locations.json` maps each `assetId` to the pack detail file that contains its full metadata.
 
 ## Simplest Search Flow
 
 1. Fetch `all-assets.json`.
 2. Filter by `name`, `description`, `tags`, `aliases`, `kind`, and `format`.
 3. Return the chosen asset's `publicUrl`.
-4. If needed, fetch `assets/by-id/<assetId>.json` for more metadata.
+4. If needed, use `asset-locations.json` to find the pack, then fetch `packs/<packId>/details.json` for more metadata.
 
 The direct URL to use in a project is `publicUrl`.
 
@@ -55,7 +58,8 @@ Example:
 2. fetch `search/tags/stylized.json`
 3. fetch `search/kinds/model.json`
 4. intersect the returned `assetIds`
-5. fetch `assets/by-id/<assetId>.json`
+5. use `asset-locations.json` to map each `assetId` to its pack
+6. fetch `packs/<packId>/details.json`
 
 Supported kinds today:
 
@@ -74,7 +78,8 @@ If you want loose text search instead of structured filtering, use token files:
 1. split the query into lowercase words
 2. fetch `search/tokens/<token>.json`
 3. merge the returned `assetIds`
-4. fetch `assets/by-id/<assetId>.json`
+4. use `asset-locations.json` to map each `assetId` to its pack
+5. fetch `packs/<packId>/details.json`
 
 Example token file:
 

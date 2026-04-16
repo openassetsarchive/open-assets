@@ -1,0 +1,2552 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T08:37:13.586Z",
+  "count": 509,
+  "assetsById": {
+    "kenney-new-platformer-pack-sprites-backgrounds-background-clouds": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-backgrounds-background-color-desert": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-backgrounds-background-color-hills": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-backgrounds-background-color-mushrooms": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-backgrounds-background-color-trees": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-backgrounds-background-fade-desert": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-backgrounds-background-fade-hills": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-backgrounds-background-fade-mushrooms": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-backgrounds-background-fade-trees": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-backgrounds-background-solid-cloud": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-backgrounds-background-solid-dirt": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-backgrounds-background-solid-grass": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-backgrounds-background-solid-sand": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-backgrounds-background-solid-sky": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-beige-climb-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-beige-climb-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-beige-duck": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-beige-front": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-beige-hit": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-beige-idle": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-beige-jump": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-beige-walk-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-beige-walk-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-green-climb-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-green-climb-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-green-duck": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-green-front": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-green-hit": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-green-idle": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-green-jump": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-green-walk-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-green-walk-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-pink-climb-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-pink-climb-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-pink-duck": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-pink-front": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-pink-hit": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-pink-idle": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-pink-jump": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-pink-walk-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-pink-walk-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-purple-climb-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-purple-climb-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-purple-duck": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-purple-front": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-purple-hit": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-purple-idle": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-purple-jump": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-purple-walk-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-purple-walk-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-yellow-climb-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-yellow-climb-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-yellow-duck": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-yellow-front": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-yellow-hit": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-yellow-idle": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-yellow-jump": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-yellow-walk-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-characters-character-yellow-walk-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-barnacle-attack-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-barnacle-attack-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-barnacle-attack-rest": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-bee-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-bee-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-bee-rest": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-block-fall": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-block-idle": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-block-rest": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-fish-blue-rest": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-fish-blue-swim-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-fish-blue-swim-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-fish-purple-down": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-fish-purple-rest": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-fish-purple-up": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-fish-yellow-rest": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-fish-yellow-swim-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-fish-yellow-swim-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-fly-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-fly-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-fly-rest": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-frog-idle": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-frog-jump": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-frog-rest": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-ladybug-fly": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-ladybug-rest": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-ladybug-walk-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-ladybug-walk-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-mouse-rest": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-mouse-walk-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-mouse-walk-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-saw-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-saw-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-saw-rest": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-slime-block-jump": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-slime-block-rest": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-slime-block-walk-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-slime-block-walk-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-slime-fire-flat": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-slime-fire-rest": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-slime-fire-walk-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-slime-fire-walk-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-slime-normal-flat": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-slime-normal-rest": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-slime-normal-walk-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-slime-normal-walk-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-slime-spike-flat": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-slime-spike-rest": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-slime-spike-walk-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-slime-spike-walk-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-snail-rest": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-snail-shell": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-snail-walk-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-snail-walk-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-worm-normal-move-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-worm-normal-move-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-worm-normal-rest": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-worm-ring-move-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-worm-ring-move-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-enemies-worm-ring-rest": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-block-blue": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-block-coin": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-block-coin-active": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-block-empty": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-block-empty-warning": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-block-exclamation": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-block-exclamation-active": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-block-green": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-block-plank": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-block-planks": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-block-red": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-block-spikes": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-block-strong-coin": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-block-strong-coin-active": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-block-strong-danger": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-block-strong-danger-active": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-block-strong-empty": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-block-strong-empty-active": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-block-strong-exclamation": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-block-strong-exclamation-active": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-block-yellow": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-bomb": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-bomb-active": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-brick-brown": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-brick-brown-diagonal": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-brick-grey": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-brick-grey-diagonal": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-bricks-brown": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-bricks-grey": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-bridge": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-bridge-logs": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-bush": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-cactus": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-chain": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-coin-bronze": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-coin-bronze-side": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-coin-gold": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-coin-gold-side": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-coin-silver": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-coin-silver-side": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-conveyor": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-door-closed": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-door-closed-top": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-door-open": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-door-open-top": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-fence": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-fence-broken": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-fireball": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-flag-blue-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-flag-blue-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-flag-green-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-flag-green-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-flag-off": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-flag-red-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-flag-red-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-flag-yellow-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-flag-yellow-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-gem-blue": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-gem-green": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-gem-red": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-gem-yellow": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-grass": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-grass-purple": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-heart": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-hill": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-hill-top": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-hill-top-smile": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-hud-character-0": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-hud-character-1": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-hud-character-2": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-hud-character-3": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-hud-character-4": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-hud-character-5": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-hud-character-6": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-hud-character-7": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-hud-character-8": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-hud-character-9": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-hud-character-multiply": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-hud-character-percent": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-hud-coin": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-hud-heart": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-hud-heart-empty": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-hud-heart-half": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-hud-key-blue": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-hud-key-green": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-hud-key-red": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-hud-key-yellow": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-hud-player-beige": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-hud-player-green": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-hud-player-helmet-beige": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-hud-player-helmet-green": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-hud-player-helmet-pink": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-hud-player-helmet-purple": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-hud-player-helmet-yellow": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-hud-player-pink": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-hud-player-purple": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-hud-player-yellow": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-key-blue": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-key-green": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-key-red": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-key-yellow": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-ladder-bottom": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-ladder-middle": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-ladder-top": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-lava": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-lava-top": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-lava-top-low": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-lever": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-lever-left": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-lever-right": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-lock-blue": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-lock-green": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-lock-red": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-lock-yellow": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-mushroom-brown": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-mushroom-red": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-ramp": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-rock": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-rop-attached": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-rope": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-saw": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-sign": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-sign-exit": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-sign-left": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-sign-right": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-snow": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-spikes": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-spring": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-spring-out": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-star": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-switch-blue": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-switch-blue-pressed": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-switch-green": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-switch-green-pressed": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-switch-red": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-switch-red-pressed": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-switch-yellow": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-switch-yellow-pressed": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-dirt-block": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-dirt-block-bottom": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-dirt-block-bottom-left": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-dirt-block-bottom-right": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-dirt-block-center": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-dirt-block-left": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-dirt-block-right": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-dirt-block-top": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-dirt-block-top-left": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-dirt-block-top-right": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-dirt-cloud": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-dirt-cloud-background": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-dirt-cloud-left": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-dirt-cloud-middle": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-dirt-cloud-right": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-dirt-horizontal-left": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-dirt-horizontal-middle": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-dirt-horizontal-overhang-left": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-dirt-horizontal-overhang-right": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-dirt-horizontal-right": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-dirt-ramp-long-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-dirt-ramp-long-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-dirt-ramp-long-c": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-dirt-ramp-short-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-dirt-ramp-short-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-dirt-vertical-bottom": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-dirt-vertical-middle": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-dirt-vertical-top": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-grass-block": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-grass-block-bottom": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-grass-block-bottom-left": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-grass-block-bottom-right": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-grass-block-center": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-grass-block-left": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-grass-block-right": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-grass-block-top": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-grass-block-top-left": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-grass-block-top-right": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-grass-cloud": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-grass-cloud-background": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-grass-cloud-left": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-grass-cloud-middle": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-grass-cloud-right": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-grass-horizontal-left": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-grass-horizontal-middle": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-grass-horizontal-overhang-left": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-grass-horizontal-overhang-right": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-grass-horizontal-right": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-grass-ramp-long-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-grass-ramp-long-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-grass-ramp-long-c": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-grass-ramp-short-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-grass-ramp-short-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-grass-vertical-bottom": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-grass-vertical-middle": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-grass-vertical-top": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-purple-block": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-purple-block-bottom": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-purple-block-bottom-left": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-purple-block-bottom-right": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-purple-block-center": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-purple-block-left": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-purple-block-right": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-purple-block-top": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-purple-block-top-left": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-purple-block-top-right": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-purple-cloud": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-purple-cloud-background": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-purple-cloud-left": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-purple-cloud-middle": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-purple-cloud-right": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-purple-horizontal-left": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-purple-horizontal-middle": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-purple-horizontal-overhang-left": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-purple-horizontal-overhang-right": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-purple-horizontal-right": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-purple-ramp-long-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-purple-ramp-long-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-purple-ramp-long-c": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-purple-ramp-short-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-purple-ramp-short-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-purple-vertical-bottom": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-purple-vertical-middle": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-purple-vertical-top": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-sand-block": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-sand-block-bottom": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-sand-block-bottom-left": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-sand-block-bottom-right": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-sand-block-center": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-sand-block-left": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-sand-block-right": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-sand-block-top": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-sand-block-top-left": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-sand-block-top-right": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-sand-cloud": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-sand-cloud-background": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-sand-cloud-left": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-sand-cloud-middle": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-sand-cloud-right": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-sand-horizontal-left": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-sand-horizontal-middle": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-sand-horizontal-overhang-left": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-sand-horizontal-overhang-right": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-sand-horizontal-right": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-sand-ramp-long-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-sand-ramp-long-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-sand-ramp-long-c": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-sand-ramp-short-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-sand-ramp-short-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-sand-vertical-bottom": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-sand-vertical-middle": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-sand-vertical-top": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-snow-block": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-snow-block-bottom": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-snow-block-bottom-left": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-snow-block-bottom-right": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-snow-block-center": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-snow-block-left": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-snow-block-right": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-snow-block-top": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-snow-block-top-left": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-snow-block-top-right": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-snow-cloud": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-snow-cloud-background": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-snow-cloud-left": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-snow-cloud-middle": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-snow-cloud-right": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-snow-horizontal-left": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-snow-horizontal-middle": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-snow-horizontal-overhang-left": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-snow-horizontal-overhang-right": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-snow-horizontal-right": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-snow-ramp-long-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-snow-ramp-long-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-snow-ramp-long-c": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-snow-ramp-short-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-snow-ramp-short-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-snow-vertical-bottom": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-snow-vertical-middle": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-snow-vertical-top": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-stone-block": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-stone-block-bottom": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-stone-block-bottom-left": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-stone-block-bottom-right": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-stone-block-center": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-stone-block-left": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-stone-block-right": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-stone-block-top": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-stone-block-top-left": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-stone-block-top-right": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-stone-cloud": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-stone-cloud-background": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-stone-cloud-left": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-stone-cloud-middle": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-stone-cloud-right": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-stone-horizontal-left": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-stone-horizontal-middle": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-stone-horizontal-overhang-left": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-stone-horizontal-overhang-right": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-stone-horizontal-right": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-stone-ramp-long-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-stone-ramp-long-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-stone-ramp-long-c": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-stone-ramp-short-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-stone-ramp-short-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-stone-vertical-bottom": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-stone-vertical-middle": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-terrain-stone-vertical-top": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-torch-off": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-torch-on-a": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-torch-on-b": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-water": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-water-top": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-water-top-low": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-weight": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-sprites-tiles-window": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-spritesheets-spritesheet-backgrounds": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-spritesheets-spritesheet-characters": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-spritesheets-spritesheet-enemies": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "kenney-new-platformer-pack-spritesheets-spritesheet-tiles": {
+      "packId": "kenney-new-platformer-pack",
+      "detailPath": "packs/kenney-new-platformer-pack/details.json",
+      "expandedDetailPath": "packs/kenney-new-platformer-pack/details-expanded.json"
+    },
+    "quaternius-pirate-kit-characters-anne": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-characters-captain-barbarossa": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-characters-henry": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-characters-mako": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-characters-shark": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-characters-sharky": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-characters-skeleton": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-characters-skeleton-headless": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-characters-tentacle": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-enemy-tentacle": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-environment-cliff1": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-environment-cliff2": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-environment-cliff3": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-environment-cliff4": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-environment-dock": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-environment-dock-broken": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-environment-dock-pole": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-environment-house1": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-environment-house2": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-environment-house3": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-environment-largebones": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-environment-palmtree-1": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-environment-palmtree-2": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-environment-palmtree-3": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-environment-rock-1": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-environment-rock-2": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-environment-rock-3": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-environment-rock-4": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-environment-rock-5": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-environment-sawmill": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-environment-skulls": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-prop-anchor": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-prop-barrel": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-prop-bomb": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-prop-bottle-1": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-prop-bottle-2": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-prop-bucket": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-prop-bucket-fishes": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-prop-cannon": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-prop-cannonball": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-prop-chest-closed": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-prop-chest-gold": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-prop-coins": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-prop-fish-mackerel": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-prop-fish-tuna": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-prop-goldbag": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-prop-skull": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-ship-large": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-ship-small": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-ui-chickenleg": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-ui-gem-blue": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-ui-gem-green": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-ui-gem-pink": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-ui-gold": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-ui-paper": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-ui-red-dash": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-ui-red-x": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-ui-rocks": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-ui-swords": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-ui-wheat": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-ui-wood": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-weapon-axe": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-weapon-axerifle": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-weapon-cutlass": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-weapon-dagger": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-weapon-doubleaxe": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-weapon-doubleshotgun": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-weapon-lute": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-weapon-pistol": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-weapon-rifle": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-weapon-sword-1": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-pirate-kit-weapon-sword-2": {
+      "packId": "quaternius-pirate-kit",
+      "detailPath": "packs/quaternius-pirate-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    }
+  }
+}
