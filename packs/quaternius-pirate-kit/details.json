@@ -1,10 +1,11 @@
 {
   "version": 1,
-  "generatedAt": "2026-04-16T01:16:09.455Z",
+  "generatedAt": "2026-04-16T10:10:09.693Z",
   "pack": {
     "id": "quaternius-pirate-kit",
     "name": "Quaternius Pirate Kit",
     "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
     "tags": [
       "pirate",
       "low-poly",
@@ -89,7 +90,7 @@
   ],
   "assetsById": {
     "quaternius-pirate-kit-characters-anne": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-characters-anne",
         "name": "Characters Anne",
@@ -97,6 +98,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-characters-anne.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -350,7 +352,7 @@
       }
     },
     "quaternius-pirate-kit-characters-captain-barbarossa": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-characters-captain-barbarossa",
         "name": "Characters Captain Barbarossa",
@@ -358,6 +360,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-characters-captain-barbarossa.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -613,7 +616,7 @@
       }
     },
     "quaternius-pirate-kit-characters-henry": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-characters-henry",
         "name": "Characters Henry",
@@ -621,6 +624,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-characters-henry.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -874,7 +878,7 @@
       }
     },
     "quaternius-pirate-kit-characters-mako": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-characters-mako",
         "name": "Characters Mako",
@@ -882,6 +886,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-characters-mako.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -1135,7 +1140,7 @@
       }
     },
     "quaternius-pirate-kit-characters-shark": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-characters-shark",
         "name": "Characters Shark",
@@ -1143,6 +1148,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-characters-shark.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -1264,7 +1270,7 @@
       }
     },
     "quaternius-pirate-kit-characters-sharky": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-characters-sharky",
         "name": "Characters Sharky",
@@ -1272,6 +1278,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-characters-sharky.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -1525,7 +1532,7 @@
       }
     },
     "quaternius-pirate-kit-characters-skeleton": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-characters-skeleton",
         "name": "Characters Skeleton",
@@ -1533,6 +1540,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-characters-skeleton.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -1798,7 +1806,7 @@
       }
     },
     "quaternius-pirate-kit-characters-skeleton-headless": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-characters-skeleton-headless",
         "name": "Characters Skeleton Headless",
@@ -1806,6 +1814,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-characters-skeleton-headless.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -2072,7 +2081,7 @@
       }
     },
     "quaternius-pirate-kit-characters-tentacle": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-characters-tentacle",
         "name": "Characters Tentacle",
@@ -2080,6 +2089,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-characters-tentacle.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -2213,7 +2223,7 @@
       }
     },
     "quaternius-pirate-kit-enemy-tentacle": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-enemy-tentacle",
         "name": "Enemy Tentacle",
@@ -2221,6 +2231,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-enemy-tentacle.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -2305,7 +2316,7 @@
       }
     },
     "quaternius-pirate-kit-environment-cliff1": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-cliff1",
         "name": "Environment Cliff1",
@@ -2313,6 +2324,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-cliff1.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -2393,7 +2405,7 @@
       }
     },
     "quaternius-pirate-kit-environment-cliff2": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-cliff2",
         "name": "Environment Cliff2",
@@ -2401,6 +2413,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-cliff2.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -2481,7 +2494,7 @@
       }
     },
     "quaternius-pirate-kit-environment-cliff3": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-cliff3",
         "name": "Environment Cliff3",
@@ -2489,6 +2502,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-cliff3.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -2569,7 +2583,7 @@
       }
     },
     "quaternius-pirate-kit-environment-cliff4": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-cliff4",
         "name": "Environment Cliff4",
@@ -2577,6 +2591,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-cliff4.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -2657,7 +2672,7 @@
       }
     },
     "quaternius-pirate-kit-environment-dock": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-dock",
         "name": "Environment Dock",
@@ -2665,6 +2680,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-dock.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -2745,7 +2761,7 @@
       }
     },
     "quaternius-pirate-kit-environment-dock-broken": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-dock-broken",
         "name": "Environment Dock Broken",
@@ -2753,6 +2769,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-dock-broken.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -2833,7 +2850,7 @@
       }
     },
     "quaternius-pirate-kit-environment-dock-pole": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-dock-pole",
         "name": "Environment Dock Pole",
@@ -2841,6 +2858,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-dock-pole.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -2921,7 +2939,7 @@
       }
     },
     "quaternius-pirate-kit-environment-house1": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-house1",
         "name": "Environment House1",
@@ -2929,6 +2947,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-house1.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -3009,7 +3028,7 @@
       }
     },
     "quaternius-pirate-kit-environment-house2": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-house2",
         "name": "Environment House2",
@@ -3017,6 +3036,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-house2.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -3097,7 +3117,7 @@
       }
     },
     "quaternius-pirate-kit-environment-house3": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-house3",
         "name": "Environment House3",
@@ -3105,6 +3125,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-house3.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -3185,7 +3206,7 @@
       }
     },
     "quaternius-pirate-kit-environment-largebones": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-largebones",
         "name": "Environment Large Bones",
@@ -3193,6 +3214,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-largebones.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -3273,7 +3295,7 @@
       }
     },
     "quaternius-pirate-kit-environment-palmtree-1": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-palmtree-1",
         "name": "Environment Palm Tree 1",
@@ -3281,6 +3303,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-palmtree-1.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -3361,7 +3384,7 @@
       }
     },
     "quaternius-pirate-kit-environment-palmtree-2": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-palmtree-2",
         "name": "Environment Palm Tree 2",
@@ -3369,6 +3392,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-palmtree-2.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -3449,7 +3473,7 @@
       }
     },
     "quaternius-pirate-kit-environment-palmtree-3": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-palmtree-3",
         "name": "Environment Palm Tree 3",
@@ -3457,6 +3481,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-palmtree-3.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -3537,7 +3562,7 @@
       }
     },
     "quaternius-pirate-kit-environment-rock-1": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-rock-1",
         "name": "Environment Rock 1",
@@ -3545,6 +3570,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-rock-1.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -3625,7 +3651,7 @@
       }
     },
     "quaternius-pirate-kit-environment-rock-2": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-rock-2",
         "name": "Environment Rock 2",
@@ -3633,6 +3659,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-rock-2.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -3713,7 +3740,7 @@
       }
     },
     "quaternius-pirate-kit-environment-rock-3": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-rock-3",
         "name": "Environment Rock 3",
@@ -3721,6 +3748,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-rock-3.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -3801,7 +3829,7 @@
       }
     },
     "quaternius-pirate-kit-environment-rock-4": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-rock-4",
         "name": "Environment Rock 4",
@@ -3809,6 +3837,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-rock-4.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -3889,7 +3918,7 @@
       }
     },
     "quaternius-pirate-kit-environment-rock-5": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-rock-5",
         "name": "Environment Rock 5",
@@ -3897,6 +3926,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-rock-5.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -3977,7 +4007,7 @@
       }
     },
     "quaternius-pirate-kit-environment-sawmill": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-sawmill",
         "name": "Environment Sawmill",
@@ -3985,6 +4015,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-sawmill.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -4065,7 +4096,7 @@
       }
     },
     "quaternius-pirate-kit-environment-skulls": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-environment-skulls",
         "name": "Environment Skulls",
@@ -4073,6 +4104,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-skulls.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -4153,7 +4185,7 @@
       }
     },
     "quaternius-pirate-kit-prop-anchor": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-prop-anchor",
         "name": "Prop Anchor",
@@ -4161,6 +4193,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-anchor.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -4241,7 +4274,7 @@
       }
     },
     "quaternius-pirate-kit-prop-barrel": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-prop-barrel",
         "name": "Prop Barrel",
@@ -4249,6 +4282,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-barrel.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -4329,7 +4363,7 @@
       }
     },
     "quaternius-pirate-kit-prop-bomb": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-prop-bomb",
         "name": "Prop Bomb",
@@ -4337,6 +4371,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-bomb.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -4417,7 +4452,7 @@
       }
     },
     "quaternius-pirate-kit-prop-bottle-1": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-prop-bottle-1",
         "name": "Prop Bottle 1",
@@ -4425,6 +4460,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-bottle-1.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -4505,7 +4541,7 @@
       }
     },
     "quaternius-pirate-kit-prop-bottle-2": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-prop-bottle-2",
         "name": "Prop Bottle 2",
@@ -4513,6 +4549,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-bottle-2.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -4593,7 +4630,7 @@
       }
     },
     "quaternius-pirate-kit-prop-bucket": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-prop-bucket",
         "name": "Prop Bucket",
@@ -4601,6 +4638,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-bucket.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -4681,7 +4719,7 @@
       }
     },
     "quaternius-pirate-kit-prop-bucket-fishes": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-prop-bucket-fishes",
         "name": "Prop Bucket Fishes",
@@ -4689,6 +4727,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-bucket-fishes.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -4769,7 +4808,7 @@
       }
     },
     "quaternius-pirate-kit-prop-cannon": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-prop-cannon",
         "name": "Prop Cannon",
@@ -4777,6 +4816,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-cannon.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -4857,7 +4897,7 @@
       }
     },
     "quaternius-pirate-kit-prop-cannonball": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-prop-cannonball",
         "name": "Prop Cannon Ball",
@@ -4865,6 +4905,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-cannonball.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -4945,7 +4986,7 @@
       }
     },
     "quaternius-pirate-kit-prop-chest-closed": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-prop-chest-closed",
         "name": "Prop Chest Closed",
@@ -4953,6 +4994,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-chest-closed.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -5033,7 +5075,7 @@
       }
     },
     "quaternius-pirate-kit-prop-chest-gold": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-prop-chest-gold",
         "name": "Prop Chest Gold",
@@ -5041,6 +5083,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-chest-gold.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -5121,7 +5164,7 @@
       }
     },
     "quaternius-pirate-kit-prop-coins": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-prop-coins",
         "name": "Prop Coins",
@@ -5129,6 +5172,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-coins.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -5209,7 +5253,7 @@
       }
     },
     "quaternius-pirate-kit-prop-fish-mackerel": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-prop-fish-mackerel",
         "name": "Prop Fish Mackerel",
@@ -5217,6 +5261,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-fish-mackerel.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -5297,7 +5342,7 @@
       }
     },
     "quaternius-pirate-kit-prop-fish-tuna": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-prop-fish-tuna",
         "name": "Prop Fish Tuna",
@@ -5305,6 +5350,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-fish-tuna.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -5385,7 +5431,7 @@
       }
     },
     "quaternius-pirate-kit-prop-goldbag": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-prop-goldbag",
         "name": "Prop Gold Bag",
@@ -5393,6 +5439,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-goldbag.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -5473,7 +5520,7 @@
       }
     },
     "quaternius-pirate-kit-prop-skull": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-prop-skull",
         "name": "Prop Skull",
@@ -5481,6 +5528,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-skull.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -5561,7 +5609,7 @@
       }
     },
     "quaternius-pirate-kit-ship-large": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-ship-large",
         "name": "Ship Large",
@@ -5569,6 +5617,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ship-large.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -5654,7 +5703,7 @@
       }
     },
     "quaternius-pirate-kit-ship-small": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-ship-small",
         "name": "Ship Small",
@@ -5662,6 +5711,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ship-small.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -5746,7 +5796,7 @@
       }
     },
     "quaternius-pirate-kit-ui-chickenleg": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-ui-chickenleg",
         "name": "UI Chicken Leg",
@@ -5754,6 +5804,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-chickenleg.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -5835,7 +5886,7 @@
       }
     },
     "quaternius-pirate-kit-ui-gem-blue": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-ui-gem-blue",
         "name": "UI Gem Blue",
@@ -5843,6 +5894,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-gem-blue.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -5924,7 +5976,7 @@
       }
     },
     "quaternius-pirate-kit-ui-gem-green": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-ui-gem-green",
         "name": "UI Gem Green",
@@ -5932,6 +5984,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-gem-green.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -6013,7 +6066,7 @@
       }
     },
     "quaternius-pirate-kit-ui-gem-pink": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-ui-gem-pink",
         "name": "UI Gem Pink",
@@ -6021,6 +6074,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-gem-pink.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -6102,7 +6156,7 @@
       }
     },
     "quaternius-pirate-kit-ui-gold": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-ui-gold",
         "name": "UI Gold",
@@ -6110,6 +6164,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-gold.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -6191,7 +6246,7 @@
       }
     },
     "quaternius-pirate-kit-ui-paper": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-ui-paper",
         "name": "UI Paper",
@@ -6199,6 +6254,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-paper.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -6280,7 +6336,7 @@
       }
     },
     "quaternius-pirate-kit-ui-red-dash": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-ui-red-dash",
         "name": "UI Red Dash",
@@ -6288,6 +6344,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-red-dash.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -6369,7 +6426,7 @@
       }
     },
     "quaternius-pirate-kit-ui-red-x": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-ui-red-x",
         "name": "UI Red X",
@@ -6377,6 +6434,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-red-x.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -6458,7 +6516,7 @@
       }
     },
     "quaternius-pirate-kit-ui-rocks": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-ui-rocks",
         "name": "UI Rocks",
@@ -6466,6 +6524,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-rocks.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -6547,7 +6606,7 @@
       }
     },
     "quaternius-pirate-kit-ui-swords": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-ui-swords",
         "name": "UI Swords",
@@ -6555,6 +6614,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-swords.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -6636,7 +6696,7 @@
       }
     },
     "quaternius-pirate-kit-ui-wheat": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-ui-wheat",
         "name": "UI Wheat",
@@ -6644,6 +6704,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-wheat.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -6725,7 +6786,7 @@
       }
     },
     "quaternius-pirate-kit-ui-wood": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-ui-wood",
         "name": "UI Wood",
@@ -6733,6 +6794,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-wood.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -6814,7 +6876,7 @@
       }
     },
     "quaternius-pirate-kit-weapon-axe": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-weapon-axe",
         "name": "Weapon Axe",
@@ -6822,6 +6884,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-axe.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -6902,7 +6965,7 @@
       }
     },
     "quaternius-pirate-kit-weapon-axerifle": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-weapon-axerifle",
         "name": "Weapon Axe Rifle",
@@ -6910,6 +6973,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-axerifle.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -6990,7 +7054,7 @@
       }
     },
     "quaternius-pirate-kit-weapon-cutlass": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-weapon-cutlass",
         "name": "Weapon Cutlass",
@@ -6998,6 +7062,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-cutlass.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -7081,7 +7146,7 @@
       }
     },
     "quaternius-pirate-kit-weapon-dagger": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-weapon-dagger",
         "name": "Weapon Dagger",
@@ -7089,6 +7154,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-dagger.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -7169,7 +7235,7 @@
       }
     },
     "quaternius-pirate-kit-weapon-doubleaxe": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-weapon-doubleaxe",
         "name": "Weapon Double Axe",
@@ -7177,6 +7243,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-doubleaxe.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -7257,7 +7324,7 @@
       }
     },
     "quaternius-pirate-kit-weapon-doubleshotgun": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-weapon-doubleshotgun",
         "name": "Weapon Double Shotgun",
@@ -7265,6 +7332,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-doubleshotgun.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -7347,7 +7415,7 @@
       }
     },
     "quaternius-pirate-kit-weapon-lute": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-weapon-lute",
         "name": "Weapon Lute",
@@ -7355,6 +7423,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-lute.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -7435,7 +7504,7 @@
       }
     },
     "quaternius-pirate-kit-weapon-pistol": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-weapon-pistol",
         "name": "Weapon Pistol",
@@ -7443,6 +7512,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-pistol.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -7523,7 +7593,7 @@
       }
     },
     "quaternius-pirate-kit-weapon-rifle": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-weapon-rifle",
         "name": "Weapon Rifle",
@@ -7531,6 +7601,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-rifle.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -7611,7 +7682,7 @@
       }
     },
     "quaternius-pirate-kit-weapon-sword-1": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-weapon-sword-1",
         "name": "Weapon Sword 1",
@@ -7619,6 +7690,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-sword-1.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",
@@ -7699,7 +7771,7 @@
       }
     },
     "quaternius-pirate-kit-weapon-sword-2": {
-      "generatedAt": "2026-04-16T01:16:09.455Z",
+      "generatedAt": "2026-04-16T10:10:09.693Z",
       "asset": {
         "id": "quaternius-pirate-kit-weapon-sword-2",
         "name": "Weapon Sword 2",
@@ -7707,6 +7779,7 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-sword-2.gltf",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "tags": [
           "pirate",
           "low-poly",

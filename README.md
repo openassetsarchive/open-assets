@@ -47,11 +47,12 @@ Get one asset by id:
 ## Simplest Search Flow
 
 1. Fetch `all-assets.json`.
-2. Filter by `name`, `description`, `tags`, `aliases`, `kind`, and `format`.
+2. Filter by `name`, `description`, `tags`, `aliases`, `kind`, `format`, and `license`.
 3. Return the chosen asset's `publicUrl`.
 4. If needed, use `asset-locations.json` to find the pack, then fetch `packs/<packId>/details.json` for more metadata.
 
 The direct URL to use in a project is `publicUrl`.
+The canonical license reference is `licenseUrl`.
 
 ## Structured Search
 
