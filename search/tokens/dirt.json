@@ -1,7 +1,7 @@
 {
   "version": 1,
   "token": "dirt",
-  "count": 31,
+  "count": 33,
   "assetIds": [
     "kenney-new-platformer-pack-sprites-backgrounds-background-solid-dirt",
     "kenney-new-platformer-pack-sprites-tiles-terrain-dirt-block",
@@ -33,6 +33,8 @@
     "kenney-new-platformer-pack-sprites-tiles-terrain-dirt-vertical-middle",
     "kenney-new-platformer-pack-sprites-tiles-terrain-dirt-vertical-top",
     "kenney-new-platformer-pack-spritesheets-spritesheet-backgrounds",
-    "kenney-new-platformer-pack-spritesheets-spritesheet-tiles"
+    "kenney-new-platformer-pack-spritesheets-spritesheet-tiles",
+    "quaternius-cube-world-kit-blocks-gltf-block-dirt",
+    "quaternius-cube-world-kit-pixel-blocks-gltf-dirt"
   ]
 }

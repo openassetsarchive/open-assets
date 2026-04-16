@@ -1,9 +1,16 @@
 {
   "version": 1,
   "token": "vehicle",
-  "count": 2,
+  "count": 9,
   "assetIds": [
     "quaternius-pirate-kit-ship-large",
-    "quaternius-pirate-kit-ship-small"
+    "quaternius-pirate-kit-ship-small",
+    "quaternius-ultimate-space-kit-vehicles-gltf-rover-1",
+    "quaternius-ultimate-space-kit-vehicles-gltf-rover-2",
+    "quaternius-ultimate-space-kit-vehicles-gltf-rover-round",
+    "quaternius-ultimate-space-kit-vehicles-gltf-spaceship-barbarathebee",
+    "quaternius-ultimate-space-kit-vehicles-gltf-spaceship-fernandotheflamingo",
+    "quaternius-ultimate-space-kit-vehicles-gltf-spaceship-finnthefrog",
+    "quaternius-ultimate-space-kit-vehicles-gltf-spaceship-raetheredpanda"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "version": 1,
   "token": "pickup",
-  "count": 41,
+  "count": 48,
   "assetIds": [
     "kenney-puzzle-pack-png-coins-coin-01",
     "kenney-puzzle-pack-png-coins-coin-02",
@@ -43,6 +43,13 @@
     "kenney-puzzle-pack-png-coins-coin-38",
     "kenney-puzzle-pack-png-coins-coin-39",
     "kenney-puzzle-pack-png-coins-coin-40",
-    "kenney-puzzle-pack-spritesheet-spritesheet-coins"
+    "kenney-puzzle-pack-spritesheet-spritesheet-coins",
+    "quaternius-ultimate-space-kit-items-gltf-pickup-bullets",
+    "quaternius-ultimate-space-kit-items-gltf-pickup-crate",
+    "quaternius-ultimate-space-kit-items-gltf-pickup-health",
+    "quaternius-ultimate-space-kit-items-gltf-pickup-jar",
+    "quaternius-ultimate-space-kit-items-gltf-pickup-keycard",
+    "quaternius-ultimate-space-kit-items-gltf-pickup-sphere",
+    "quaternius-ultimate-space-kit-items-gltf-pickup-thunder"
   ]
 }

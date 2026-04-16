@@ -1,9 +1,12 @@
 {
   "version": 1,
   "token": "planks",
-  "count": 2,
+  "count": 5,
   "assetIds": [
     "kenney-new-platformer-pack-sprites-tiles-block-planks",
-    "kenney-new-platformer-pack-spritesheets-spritesheet-tiles"
+    "kenney-new-platformer-pack-spritesheets-spritesheet-tiles",
+    "quaternius-cube-world-kit-blocks-gltf-block-woodplanks",
+    "quaternius-cube-world-kit-pixel-blocks-gltf-woodplanks",
+    "quaternius-toon-shooter-game-kit-environment-gltf-woodplanks"
   ]
 }

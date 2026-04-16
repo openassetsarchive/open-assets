@@ -1,7 +1,7 @@
 {
   "version": 1,
   "token": "snow",
-  "count": 30,
+  "count": 32,
   "assetIds": [
     "kenney-new-platformer-pack-sprites-tiles-snow",
     "kenney-new-platformer-pack-sprites-tiles-terrain-snow-block",
@@ -32,6 +32,8 @@
     "kenney-new-platformer-pack-sprites-tiles-terrain-snow-vertical-bottom",
     "kenney-new-platformer-pack-sprites-tiles-terrain-snow-vertical-middle",
     "kenney-new-platformer-pack-sprites-tiles-terrain-snow-vertical-top",
-    "kenney-new-platformer-pack-spritesheets-spritesheet-tiles"
+    "kenney-new-platformer-pack-spritesheets-spritesheet-tiles",
+    "quaternius-cube-world-kit-blocks-gltf-block-snow",
+    "quaternius-cube-world-kit-pixel-blocks-gltf-snow"
   ]
 }

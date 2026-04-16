@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-04-16T11:11:21.363Z",
-  "count": 1318,
+  "generatedAt": "2026-04-16T11:27:23.375Z",
+  "count": 1776,
   "assetsById": {
     "kenney-new-platformer-pack-sprites-backgrounds-background-clouds": {
       "packId": "kenney-new-platformer-pack",
@@ -6233,6 +6233,541 @@
       "detailPath": "packs/kenney-puzzle-pack/details.json",
       "expandedDetailPath": "packs/kenney-puzzle-pack/details-expanded.json"
     },
+    "quaternius-cube-world-kit-animals-gltf-cat": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-animals-gltf-chick": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-animals-gltf-chicken": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-animals-gltf-dog": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-animals-gltf-horse": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-animals-gltf-pig": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-animals-gltf-raccoon": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-animals-gltf-sheep": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-animals-gltf-wolf": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-blocks-gltf-block-blank": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-blocks-gltf-block-brick": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-blocks-gltf-block-cheese": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-blocks-gltf-block-coal": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-blocks-gltf-block-crate": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-blocks-gltf-block-crystal": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-blocks-gltf-block-diamond": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-blocks-gltf-block-dirt": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-blocks-gltf-block-grass": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-blocks-gltf-block-greybricks": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-blocks-gltf-block-ice": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-blocks-gltf-block-metal": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-blocks-gltf-block-snow": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-blocks-gltf-block-stone": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-blocks-gltf-block-woodplanks": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-characters-gltf-character-female-1": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-characters-gltf-character-female-2": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-characters-gltf-character-male-1": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-characters-gltf-character-male-2": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-enemies-gltf-demon": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-enemies-gltf-giant": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-enemies-gltf-goblin": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-enemies-gltf-hedgehog": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-enemies-gltf-skeleton": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-enemies-gltf-skeleton-armor": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-enemies-gltf-wizard": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-enemies-gltf-yeti": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-enemies-gltf-zombie": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-environment-gltf-bamboo": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-environment-gltf-bamboo-mid": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-environment-gltf-bamboo-small": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-environment-gltf-bush": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-environment-gltf-button": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-environment-gltf-cart": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-environment-gltf-chest-closed": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-environment-gltf-chest-open": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-environment-gltf-crystal-big": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-environment-gltf-crystal-small": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-environment-gltf-deadtree-1": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-environment-gltf-deadtree-2": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-environment-gltf-deadtree-3": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-environment-gltf-door-closed": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-environment-gltf-fence-center": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-environment-gltf-fence-corner": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-environment-gltf-fence-end": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-environment-gltf-fence-t": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-environment-gltf-flowers-1": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-environment-gltf-flowers-2": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-environment-gltf-grass-big": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-environment-gltf-grass-small": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-environment-gltf-key": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-environment-gltf-lever-left": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-environment-gltf-lever-right": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-environment-gltf-mushroom": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-environment-gltf-plant-2": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-environment-gltf-plant-3": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-environment-gltf-rail-corner": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-environment-gltf-rail-incline": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-environment-gltf-rail-straight": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-environment-gltf-rock1": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-environment-gltf-rock2": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-environment-gltf-tree-1": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-environment-gltf-tree-2": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-environment-gltf-tree-3": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-pixel-blocks-gltf-block-blank": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-pixel-blocks-gltf-block-square": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-pixel-blocks-gltf-bricks-dark": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-pixel-blocks-gltf-bricks-grey": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-pixel-blocks-gltf-bricks-red": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-pixel-blocks-gltf-bricks-yellow": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-pixel-blocks-gltf-coal": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-pixel-blocks-gltf-diamond": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-pixel-blocks-gltf-dirt": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-pixel-blocks-gltf-exclamation": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-pixel-blocks-gltf-grass": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-pixel-blocks-gltf-ice": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-pixel-blocks-gltf-leaves": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-pixel-blocks-gltf-questionmark": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-pixel-blocks-gltf-snow": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-pixel-blocks-gltf-stone": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-pixel-blocks-gltf-wood": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-pixel-blocks-gltf-woodplanks": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-tools-gltf-axe-diamond": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-tools-gltf-axe-gold": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-tools-gltf-axe-stone": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-tools-gltf-axe-wood": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-tools-gltf-pickaxe-diamond": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-tools-gltf-pickaxe-gold": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-tools-gltf-pickaxe-stone": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-tools-gltf-pickaxe-wood": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-tools-gltf-shovel-diamond": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-tools-gltf-shovel-gold": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-tools-gltf-shovel-stone": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-tools-gltf-shovel-wood": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-tools-gltf-sword-diamond": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-tools-gltf-sword-gold": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-tools-gltf-sword-stone": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
+    "quaternius-cube-world-kit-tools-gltf-sword-wood": {
+      "packId": "quaternius-cube-world-kit",
+      "detailPath": "packs/quaternius-cube-world-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-cube-world-kit/details-expanded.json"
+    },
     "quaternius-pirate-kit-characters-anne": {
       "packId": "quaternius-pirate-kit",
       "detailPath": "packs/quaternius-pirate-kit/details.json",
@@ -6592,6 +7127,1761 @@
       "packId": "quaternius-pirate-kit",
       "detailPath": "packs/quaternius-pirate-kit/details.json",
       "expandedDetailPath": "packs/quaternius-pirate-kit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-bush-common": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-bush-common-flowers": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-clover-1": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-clover-2": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-commontree-1": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-commontree-2": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-commontree-3": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-commontree-4": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-commontree-5": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-deadtree-1": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-deadtree-2": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-deadtree-3": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-deadtree-4": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-deadtree-5": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-fern-1": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-flower-3-group": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-flower-3-single": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-flower-4-group": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-flower-4-single": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-grass-common-short": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-grass-common-tall": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-grass-wispy-short": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-grass-wispy-tall": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-mushroom-common": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-mushroom-laetiporus": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-pebble-round-1": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-pebble-round-2": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-pebble-round-3": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-pebble-round-4": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-pebble-round-5": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-pebble-square-1": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-pebble-square-2": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-pebble-square-3": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-pebble-square-4": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-pebble-square-5": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-pebble-square-6": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-petal-1": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-petal-2": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-petal-3": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-petal-4": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-petal-5": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-pine-1": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-pine-2": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-pine-3": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-pine-4": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-pine-5": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-plant-1": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-plant-1-big": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-plant-7": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-plant-7-big": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-rock-medium-1": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-rock-medium-2": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-rock-medium-3": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-rockpath-round-small-1": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-rockpath-round-small-2": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-rockpath-round-small-3": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-rockpath-round-thin": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-rockpath-round-wide": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-rockpath-square-small-1": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-rockpath-square-small-2": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-rockpath-square-small-3": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-rockpath-square-thin": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-rockpath-square-wide": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-twistedtree-1": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-twistedtree-2": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-twistedtree-3": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-twistedtree-4": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-stylized-nature-megakit-gltf-twistedtree-5": {
+      "packId": "quaternius-stylized-nature-megakit",
+      "detailPath": "packs/quaternius-stylized-nature-megakit/details.json",
+      "expandedDetailPath": "packs/quaternius-stylized-nature-megakit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-characters-normal-gltf-panda": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-characters-normal-gltf-rabbit-bald": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-characters-normal-gltf-rabbit-blond": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-characters-normal-gltf-rabbit-cyan": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-characters-normal-gltf-rabbit-green": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-characters-normal-gltf-rabbit-grey": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-characters-normal-gltf-rabbit-pink": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-characters-normal-gltf-rabbit-purple": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-characters-with-knife-and-pan-gltf-panda": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-characters-with-knife-and-pan-gltf-rabbit-bald": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-characters-with-knife-and-pan-gltf-rabbit-blond": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-characters-with-knife-and-pan-gltf-rabbit-cyan": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-characters-with-knife-and-pan-gltf-rabbit-green": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-characters-with-knife-and-pan-gltf-rabbit-grey": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-characters-with-knife-and-pan-gltf-rabbit-pink": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-characters-with-knife-and-pan-gltf-rabbit-purple": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-decoration-gltf-decoration-bamboo": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-decoration-gltf-decoration-bell": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-decoration-gltf-decoration-carpet": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-decoration-gltf-decoration-fish": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-decoration-gltf-decoration-light": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-decoration-gltf-decoration-painting": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-decoration-gltf-decoration-painting-small": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-decoration-gltf-decoration-plant1": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-decoration-gltf-decoration-plant2": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-decoration-gltf-decoration-sakuraflower": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-decoration-gltf-decoration-sakuratree": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-decoration-gltf-decoration-sign": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-decoration-gltf-decoration-sign-2": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-decoration-gltf-decoration-sign-3": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-decoration-gltf-decoration-walllight": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-environment-arch": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-environment-bench": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-environment-bottle": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-environment-bottles": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-environment-bowl": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-environment-cabinet-corner": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-environment-cabinet-doors": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-environment-cabinet-shelves": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-environment-cabinet-shelves-2": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-environment-canfridge": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-environment-chair1": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-environment-chair2": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-environment-chukamansteamer": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-environment-counter-corner": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-environment-counter-door": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-environment-counter-doors": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-environment-counter-drawers": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-environment-counter-end": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-environment-counter-sink": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-environment-counter-straight": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-environment-counter-straight-2": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-environment-cuttingtable": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-environment-fridge": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-environment-kitchenknives": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-environment-oven": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-environment-pan": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-environment-plate": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-environment-pot-1-empty": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-environment-pot-1-filled": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-environment-pot-2-empty": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-environment-pot-2-filled": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-environment-sofa": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-environment-stool": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-environment-table": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-environment-toriigate": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-environment-woodenbeam": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-environment-woodenboard": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-floor-kitchen1": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-floor-kitchen2": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-floor-tiles": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-floor-wood": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-floor-wood-broken": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-truck": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-wall-door": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-wall-normal": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-wall-redwood": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-wall-shelves": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-wall-shoji": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-wall-shoji-interior": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-environment-gltf-wall-stains": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-food-gltf-food-chukaman": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-food-gltf-food-dango": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-food-gltf-food-ebinigiri": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-food-gltf-food-gyoza": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-food-gltf-food-maguronigiri": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-food-gltf-food-octopusnigiri": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-food-gltf-food-onigiri": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-food-gltf-food-ramen": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-food-gltf-food-roll": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-food-gltf-food-salmonnigiri": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-food-gltf-food-salmonroll": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-food-gltf-food-seaurchinroll": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-food-gltf-food-tamagonigiri": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-food-gltf-food-udon": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-food-gltf-food-wasabi": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-food-gltf-foodingredient-avocado": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-food-gltf-foodingredient-crabsticks": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-food-gltf-foodingredient-cucumber": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-food-gltf-foodingredient-ebi": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-food-gltf-foodingredient-eel": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-food-gltf-foodingredient-fish": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-food-gltf-foodingredient-fishfillet": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-food-gltf-foodingredient-flounder": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-food-gltf-foodingredient-mackerel": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-food-gltf-foodingredient-nori": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-food-gltf-foodingredient-octopus": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-food-gltf-foodingredient-rice": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-food-gltf-foodingredient-salmon": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-food-gltf-foodingredient-salmonfish": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-food-gltf-foodingredient-seaurchin": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-food-gltf-foodingredient-seaurchinopen": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-food-gltf-foodingredient-shimesaba": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-food-gltf-foodingredient-slicedcucumber": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-food-gltf-foodingredient-squid": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-food-gltf-foodingredient-tentacle": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-sushi-restaurant-kit-food-gltf-foodingredient-tuna": {
+      "packId": "quaternius-sushi-restaurant-kit",
+      "detailPath": "packs/quaternius-sushi-restaurant-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-sushi-restaurant-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-characters-gltf-character-enemy": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-characters-gltf-character-hazmat": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-characters-gltf-character-soldier": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-barrier-fixed": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-barrier-large": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-barrier-single": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-barrier-trash": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-beartrap-closed": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-beartrap-open": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-brickwall-1": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-brickwall-2": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-cardboardboxes-1": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-cardboardboxes-2": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-cardboardboxes-3": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-cardboardboxes-4": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-container-long": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-container-small": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-crate": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-debris-brokencar": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-debris-papers-1": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-debris-papers-2": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-debris-papers-3": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-debris-pile": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-debris-tires": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-explodingbarrel": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-explodingbarrel-spilled": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-fence": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-fence-long": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-gascan": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-gastank": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-health": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-key": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-landmine": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-metalfence": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-pallet": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-pallet-broken": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-pipes": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-sacktrench": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-sacktrench-small": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-sign": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-sofa": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-sofa-small": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-streetlight": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-structure-1": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-structure-2": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-structure-3": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-structure-4": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-tank": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-trafficcone": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-trashcontainer": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-trashcontainer-open": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-tree-1": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-tree-2": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-tree-3": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-tree-4": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-watertank-floor": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-watertank-platform": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-environment-gltf-woodplanks": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-guns-gltf-ak": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-guns-gltf-firegrenade": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-guns-gltf-grenade": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-guns-gltf-grenadelauncher": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-guns-gltf-knife-1": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-guns-gltf-knife-2": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-guns-gltf-pistol": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-guns-gltf-revolver": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-guns-gltf-revolver-small": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-guns-gltf-rocketlauncher": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-guns-gltf-shortcannon": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-guns-gltf-shotgun": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-guns-gltf-shovel": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-guns-gltf-smg": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-guns-gltf-sniper": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-toon-shooter-game-kit-guns-gltf-sniper-2": {
+      "packId": "quaternius-toon-shooter-game-kit",
+      "detailPath": "packs/quaternius-toon-shooter-game-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-toon-shooter-game-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-characters-gltf-astronaut-barbarathebee": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-characters-gltf-astronaut-fernandotheflamingo": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-characters-gltf-astronaut-finnthefrog": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-characters-gltf-astronaut-raetheredpanda": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-characters-gltf-enemy-extrasmall": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-characters-gltf-enemy-flying": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-characters-gltf-enemy-large": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-characters-gltf-enemy-small": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-characters-gltf-mech-barbarathebee": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-characters-gltf-mech-fernandotheflamingo": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-characters-gltf-mech-finnthefrog": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-characters-gltf-mech-raetheredpanda": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-base-large": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-building-l": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-bush-1": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-bush-2": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-bush-3": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-connector": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-geodesicdome": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-grass-1": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-grass-2": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-grass-3": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-house-cylinder": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-house-long": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-house-open": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-house-openback": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-house-single": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-house-single-support": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-metalsupport": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-planet-1": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-planet-10": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-planet-11": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-planet-2": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-planet-3": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-planet-4": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-planet-5": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-planet-6": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-planet-7": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-planet-8": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-planet-9": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-plant-1": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-plant-2": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-plant-3": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-ramp": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-rock-1": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-rock-2": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-rock-3": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-rock-4": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-rock-large-1": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-rock-large-2": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-rock-large-3": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-roof-antenna": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-roof-opening": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-roof-radar": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-roof-ventl": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-roof-ventr": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-solarpanel-ground": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-solarpanel-roof": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-solarpanel-structure": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-stairs": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-tree-blob-1": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-tree-blob-2": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-tree-blob-3": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-tree-floating-1": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-tree-floating-2": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-tree-floating-3": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-tree-lava-1": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-tree-lava-2": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-tree-lava-3": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-tree-light-1": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-tree-light-2": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-tree-spikes-1": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-tree-spikes-2": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-tree-spiral-1": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-tree-spiral-2": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-tree-spiral-3": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-tree-swirl-1": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-environment-gltf-tree-swirl-2": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-items-gltf-pickup-bullets": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-items-gltf-pickup-crate": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-items-gltf-pickup-health": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-items-gltf-pickup-jar": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-items-gltf-pickup-keycard": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-items-gltf-pickup-sphere": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-items-gltf-pickup-thunder": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-vehicles-gltf-rover-1": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-vehicles-gltf-rover-2": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-vehicles-gltf-rover-round": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-vehicles-gltf-spaceship-barbarathebee": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-vehicles-gltf-spaceship-fernandotheflamingo": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-vehicles-gltf-spaceship-finnthefrog": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
+    },
+    "quaternius-ultimate-space-kit-vehicles-gltf-spaceship-raetheredpanda": {
+      "packId": "quaternius-ultimate-space-kit",
+      "detailPath": "packs/quaternius-ultimate-space-kit/details.json",
+      "expandedDetailPath": "packs/quaternius-ultimate-space-kit/details-expanded.json"
     }
   }
 }

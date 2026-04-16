@@ -1,7 +1,7 @@
 {
   "version": 1,
   "token": "stone",
-  "count": 29,
+  "count": 35,
   "assetIds": [
     "kenney-new-platformer-pack-sprites-tiles-terrain-stone-block",
     "kenney-new-platformer-pack-sprites-tiles-terrain-stone-block-bottom",
@@ -31,6 +31,12 @@
     "kenney-new-platformer-pack-sprites-tiles-terrain-stone-vertical-bottom",
     "kenney-new-platformer-pack-sprites-tiles-terrain-stone-vertical-middle",
     "kenney-new-platformer-pack-sprites-tiles-terrain-stone-vertical-top",
-    "kenney-new-platformer-pack-spritesheets-spritesheet-tiles"
+    "kenney-new-platformer-pack-spritesheets-spritesheet-tiles",
+    "quaternius-cube-world-kit-blocks-gltf-block-stone",
+    "quaternius-cube-world-kit-pixel-blocks-gltf-stone",
+    "quaternius-cube-world-kit-tools-gltf-axe-stone",
+    "quaternius-cube-world-kit-tools-gltf-pickaxe-stone",
+    "quaternius-cube-world-kit-tools-gltf-shovel-stone",
+    "quaternius-cube-world-kit-tools-gltf-sword-stone"
   ]
 }

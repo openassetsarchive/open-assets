@@ -1,10 +1,15 @@
 {
   "version": 1,
   "token": "bricks",
-  "count": 3,
+  "count": 8,
   "assetIds": [
     "kenney-new-platformer-pack-sprites-tiles-bricks-brown",
     "kenney-new-platformer-pack-sprites-tiles-bricks-grey",
-    "kenney-new-platformer-pack-spritesheets-spritesheet-tiles"
+    "kenney-new-platformer-pack-spritesheets-spritesheet-tiles",
+    "quaternius-cube-world-kit-blocks-gltf-block-greybricks",
+    "quaternius-cube-world-kit-pixel-blocks-gltf-bricks-dark",
+    "quaternius-cube-world-kit-pixel-blocks-gltf-bricks-grey",
+    "quaternius-cube-world-kit-pixel-blocks-gltf-bricks-red",
+    "quaternius-cube-world-kit-pixel-blocks-gltf-bricks-yellow"
   ]
 }

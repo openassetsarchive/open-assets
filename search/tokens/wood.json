@@ -1,8 +1,19 @@
 {
   "version": 1,
   "token": "wood",
-  "count": 1,
+  "count": 12,
   "assetIds": [
-    "quaternius-pirate-kit-ui-wood"
+    "quaternius-cube-world-kit-blocks-gltf-block-woodplanks",
+    "quaternius-cube-world-kit-pixel-blocks-gltf-wood",
+    "quaternius-cube-world-kit-pixel-blocks-gltf-woodplanks",
+    "quaternius-cube-world-kit-tools-gltf-axe-wood",
+    "quaternius-cube-world-kit-tools-gltf-pickaxe-wood",
+    "quaternius-cube-world-kit-tools-gltf-shovel-wood",
+    "quaternius-cube-world-kit-tools-gltf-sword-wood",
+    "quaternius-pirate-kit-ui-wood",
+    "quaternius-sushi-restaurant-kit-environment-gltf-floor-wood",
+    "quaternius-sushi-restaurant-kit-environment-gltf-floor-wood-broken",
+    "quaternius-sushi-restaurant-kit-environment-gltf-wall-redwood",
+    "quaternius-toon-shooter-game-kit-environment-gltf-woodplanks"
   ]
 }

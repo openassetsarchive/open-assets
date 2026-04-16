@@ -4,8 +4,16 @@
     "count": 1246
   },
   {
+    "tag": "animal",
+    "count": 9
+  },
+  {
     "tag": "animated",
-    "count": 10
+    "count": 205
+  },
+  {
+    "tag": "astronaut",
+    "count": 4
   },
   {
     "tag": "atlas",
@@ -28,16 +36,40 @@
     "count": 10
   },
   {
+    "tag": "block",
+    "count": 33
+  },
+  {
+    "tag": "blocky",
+    "count": 107
+  },
+  {
     "tag": "blue",
     "count": 10
   },
   {
+    "tag": "bush",
+    "count": 2
+  },
+  {
     "tag": "character",
-    "count": 55
+    "count": 90
   },
   {
     "tag": "coin",
     "count": 41
+  },
+  {
+    "tag": "consumable",
+    "count": 36
+  },
+  {
+    "tag": "cube",
+    "count": 107
+  },
+  {
+    "tag": "decoration",
+    "count": 15
   },
   {
     "tag": "effect",
@@ -45,11 +77,35 @@
   },
   {
     "tag": "enemy",
-    "count": 62
+    "count": 76
   },
   {
     "tag": "environment",
-    "count": 21
+    "count": 296
+  },
+  {
+    "tag": "flower",
+    "count": 4
+  },
+  {
+    "tag": "foliage",
+    "count": 68
+  },
+  {
+    "tag": "food",
+    "count": 117
+  },
+  {
+    "tag": "fps",
+    "count": 74
+  },
+  {
+    "tag": "ghibli",
+    "count": 68
+  },
+  {
+    "tag": "grass",
+    "count": 4
   },
   {
     "tag": "green",
@@ -60,8 +116,20 @@
     "count": 54
   },
   {
+    "tag": "gun",
+    "count": 16
+  },
+  {
     "tag": "icon",
     "count": 12
+  },
+  {
+    "tag": "interior",
+    "count": 50
+  },
+  {
+    "tag": "item",
+    "count": 23
   },
   {
     "tag": "kenney",
@@ -69,11 +137,15 @@
   },
   {
     "tag": "kit",
-    "count": 72
+    "count": 462
   },
   {
     "tag": "low-poly",
-    "count": 72
+    "count": 530
+  },
+  {
+    "tag": "nature",
+    "count": 68
   },
   {
     "tag": "paddle",
@@ -96,8 +168,16 @@
     "count": 7
   },
   {
+    "tag": "pebble",
+    "count": 11
+  },
+  {
     "tag": "pickup",
-    "count": 41
+    "count": 48
+  },
+  {
+    "tag": "pine",
+    "count": 5
   },
   {
     "tag": "pipe",
@@ -106,6 +186,14 @@
   {
     "tag": "pirate",
     "count": 72
+  },
+  {
+    "tag": "pixel",
+    "count": 18
+  },
+  {
+    "tag": "plant",
+    "count": 4
   },
   {
     "tag": "platformer",
@@ -117,7 +205,7 @@
   },
   {
     "tag": "prop",
-    "count": 16
+    "count": 197
   },
   {
     "tag": "puzzle",
@@ -125,15 +213,39 @@
   },
   {
     "tag": "quaternius",
-    "count": 72
+    "count": 530
+  },
+  {
+    "tag": "restaurant",
+    "count": 117
+  },
+  {
+    "tag": "rock",
+    "count": 24
+  },
+  {
+    "tag": "sci-fi",
+    "count": 92
   },
   {
     "tag": "ship",
     "count": 2
   },
   {
+    "tag": "shooter",
+    "count": 74
+  },
+  {
+    "tag": "space",
+    "count": 92
+  },
+  {
     "tag": "stylized",
-    "count": 1318
+    "count": 1776
+  },
+  {
+    "tag": "sushi",
+    "count": 117
   },
   {
     "tag": "tile",
@@ -172,16 +284,32 @@
     "count": 72
   },
   {
+    "tag": "tool",
+    "count": 16
+  },
+  {
+    "tag": "tree",
+    "count": 20
+  },
+  {
     "tag": "ui",
     "count": 12
   },
   {
+    "tag": "variant",
+    "count": 8
+  },
+  {
     "tag": "vehicle",
-    "count": 2
+    "count": 9
+  },
+  {
+    "tag": "voxel",
+    "count": 107
   },
   {
     "tag": "weapon",
-    "count": 11
+    "count": 27
   },
   {
     "tag": "yellow",

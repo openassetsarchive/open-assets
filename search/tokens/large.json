@@ -1,9 +1,15 @@
 {
   "version": 1,
   "token": "large",
-  "count": 2,
+  "count": 8,
   "assetIds": [
     "quaternius-pirate-kit-environment-largebones",
-    "quaternius-pirate-kit-ship-large"
+    "quaternius-pirate-kit-ship-large",
+    "quaternius-toon-shooter-game-kit-environment-gltf-barrier-large",
+    "quaternius-ultimate-space-kit-characters-gltf-enemy-large",
+    "quaternius-ultimate-space-kit-environment-gltf-base-large",
+    "quaternius-ultimate-space-kit-environment-gltf-rock-large-1",
+    "quaternius-ultimate-space-kit-environment-gltf-rock-large-2",
+    "quaternius-ultimate-space-kit-environment-gltf-rock-large-3"
   ]
 }

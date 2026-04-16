@@ -1,10 +1,17 @@
 {
   "version": 1,
   "token": "fence",
-  "count": 3,
+  "count": 10,
   "assetIds": [
     "kenney-new-platformer-pack-sprites-tiles-fence",
     "kenney-new-platformer-pack-sprites-tiles-fence-broken",
-    "kenney-new-platformer-pack-spritesheets-spritesheet-tiles"
+    "kenney-new-platformer-pack-spritesheets-spritesheet-tiles",
+    "quaternius-cube-world-kit-environment-gltf-fence-center",
+    "quaternius-cube-world-kit-environment-gltf-fence-corner",
+    "quaternius-cube-world-kit-environment-gltf-fence-end",
+    "quaternius-cube-world-kit-environment-gltf-fence-t",
+    "quaternius-toon-shooter-game-kit-environment-gltf-fence",
+    "quaternius-toon-shooter-game-kit-environment-gltf-fence-long",
+    "quaternius-toon-shooter-game-kit-environment-gltf-metalfence"
   ]
 }

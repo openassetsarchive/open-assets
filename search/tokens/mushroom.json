@@ -1,10 +1,13 @@
 {
   "version": 1,
   "token": "mushroom",
-  "count": 3,
+  "count": 6,
   "assetIds": [
     "kenney-new-platformer-pack-sprites-tiles-mushroom-brown",
     "kenney-new-platformer-pack-sprites-tiles-mushroom-red",
-    "kenney-new-platformer-pack-spritesheets-spritesheet-tiles"
+    "kenney-new-platformer-pack-spritesheets-spritesheet-tiles",
+    "quaternius-cube-world-kit-environment-gltf-mushroom",
+    "quaternius-stylized-nature-megakit-gltf-mushroom-common",
+    "quaternius-stylized-nature-megakit-gltf-mushroom-laetiporus"
   ]
 }

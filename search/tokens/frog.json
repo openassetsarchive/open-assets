@@ -1,11 +1,14 @@
 {
   "version": 1,
   "token": "frog",
-  "count": 4,
+  "count": 7,
   "assetIds": [
     "kenney-new-platformer-pack-sprites-enemies-frog-idle",
     "kenney-new-platformer-pack-sprites-enemies-frog-jump",
     "kenney-new-platformer-pack-sprites-enemies-frog-rest",
-    "kenney-new-platformer-pack-spritesheets-spritesheet-enemies"
+    "kenney-new-platformer-pack-spritesheets-spritesheet-enemies",
+    "quaternius-ultimate-space-kit-characters-gltf-astronaut-finnthefrog",
+    "quaternius-ultimate-space-kit-characters-gltf-mech-finnthefrog",
+    "quaternius-ultimate-space-kit-vehicles-gltf-spaceship-finnthefrog"
   ]
 }

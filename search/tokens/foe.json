@@ -1,8 +1,18 @@
 {
   "version": 1,
   "token": "foe",
-  "count": 1,
+  "count": 11,
   "assetIds": [
-    "quaternius-pirate-kit-enemy-tentacle"
+    "quaternius-cube-world-kit-enemies-gltf-demon",
+    "quaternius-cube-world-kit-enemies-gltf-giant",
+    "quaternius-cube-world-kit-enemies-gltf-goblin",
+    "quaternius-cube-world-kit-enemies-gltf-hedgehog",
+    "quaternius-cube-world-kit-enemies-gltf-skeleton",
+    "quaternius-cube-world-kit-enemies-gltf-skeleton-armor",
+    "quaternius-cube-world-kit-enemies-gltf-wizard",
+    "quaternius-cube-world-kit-enemies-gltf-yeti",
+    "quaternius-cube-world-kit-enemies-gltf-zombie",
+    "quaternius-pirate-kit-enemy-tentacle",
+    "quaternius-toon-shooter-game-kit-characters-gltf-character-enemy"
   ]
 }

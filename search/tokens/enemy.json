@@ -1,7 +1,7 @@
 {
   "version": 1,
   "token": "enemy",
-  "count": 62,
+  "count": 76,
   "assetIds": [
     "kenney-new-platformer-pack-sprites-enemies-barnacle-attack-a",
     "kenney-new-platformer-pack-sprites-enemies-barnacle-attack-b",
@@ -64,6 +64,20 @@
     "kenney-new-platformer-pack-sprites-enemies-worm-ring-move-b",
     "kenney-new-platformer-pack-sprites-enemies-worm-ring-rest",
     "kenney-new-platformer-pack-spritesheets-spritesheet-enemies",
-    "quaternius-pirate-kit-enemy-tentacle"
+    "quaternius-cube-world-kit-enemies-gltf-demon",
+    "quaternius-cube-world-kit-enemies-gltf-giant",
+    "quaternius-cube-world-kit-enemies-gltf-goblin",
+    "quaternius-cube-world-kit-enemies-gltf-hedgehog",
+    "quaternius-cube-world-kit-enemies-gltf-skeleton",
+    "quaternius-cube-world-kit-enemies-gltf-skeleton-armor",
+    "quaternius-cube-world-kit-enemies-gltf-wizard",
+    "quaternius-cube-world-kit-enemies-gltf-yeti",
+    "quaternius-cube-world-kit-enemies-gltf-zombie",
+    "quaternius-pirate-kit-enemy-tentacle",
+    "quaternius-toon-shooter-game-kit-characters-gltf-character-enemy",
+    "quaternius-ultimate-space-kit-characters-gltf-enemy-extrasmall",
+    "quaternius-ultimate-space-kit-characters-gltf-enemy-flying",
+    "quaternius-ultimate-space-kit-characters-gltf-enemy-large",
+    "quaternius-ultimate-space-kit-characters-gltf-enemy-small"
   ]
 }

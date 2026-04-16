@@ -1,0 +1,6359 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T11:20:05.409Z",
+  "pack": {
+    "id": "quaternius-stylized-nature-megakit",
+    "name": "Quaternius Stylized Nature MegaKit",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+    "tags": [
+      "quaternius",
+      "nature",
+      "stylized",
+      "ghibli",
+      "low-poly",
+      "foliage",
+      "environment"
+    ]
+  },
+  "assetIds": [
+    "quaternius-stylized-nature-megakit-gltf-bush-common",
+    "quaternius-stylized-nature-megakit-gltf-bush-common-flowers",
+    "quaternius-stylized-nature-megakit-gltf-clover-1",
+    "quaternius-stylized-nature-megakit-gltf-clover-2",
+    "quaternius-stylized-nature-megakit-gltf-commontree-1",
+    "quaternius-stylized-nature-megakit-gltf-commontree-2",
+    "quaternius-stylized-nature-megakit-gltf-commontree-3",
+    "quaternius-stylized-nature-megakit-gltf-commontree-4",
+    "quaternius-stylized-nature-megakit-gltf-commontree-5",
+    "quaternius-stylized-nature-megakit-gltf-deadtree-1",
+    "quaternius-stylized-nature-megakit-gltf-deadtree-2",
+    "quaternius-stylized-nature-megakit-gltf-deadtree-3",
+    "quaternius-stylized-nature-megakit-gltf-deadtree-4",
+    "quaternius-stylized-nature-megakit-gltf-deadtree-5",
+    "quaternius-stylized-nature-megakit-gltf-fern-1",
+    "quaternius-stylized-nature-megakit-gltf-flower-3-group",
+    "quaternius-stylized-nature-megakit-gltf-flower-3-single",
+    "quaternius-stylized-nature-megakit-gltf-flower-4-group",
+    "quaternius-stylized-nature-megakit-gltf-flower-4-single",
+    "quaternius-stylized-nature-megakit-gltf-grass-common-short",
+    "quaternius-stylized-nature-megakit-gltf-grass-common-tall",
+    "quaternius-stylized-nature-megakit-gltf-grass-wispy-short",
+    "quaternius-stylized-nature-megakit-gltf-grass-wispy-tall",
+    "quaternius-stylized-nature-megakit-gltf-mushroom-common",
+    "quaternius-stylized-nature-megakit-gltf-mushroom-laetiporus",
+    "quaternius-stylized-nature-megakit-gltf-pebble-round-1",
+    "quaternius-stylized-nature-megakit-gltf-pebble-round-2",
+    "quaternius-stylized-nature-megakit-gltf-pebble-round-3",
+    "quaternius-stylized-nature-megakit-gltf-pebble-round-4",
+    "quaternius-stylized-nature-megakit-gltf-pebble-round-5",
+    "quaternius-stylized-nature-megakit-gltf-pebble-square-1",
+    "quaternius-stylized-nature-megakit-gltf-pebble-square-2",
+    "quaternius-stylized-nature-megakit-gltf-pebble-square-3",
+    "quaternius-stylized-nature-megakit-gltf-pebble-square-4",
+    "quaternius-stylized-nature-megakit-gltf-pebble-square-5",
+    "quaternius-stylized-nature-megakit-gltf-pebble-square-6",
+    "quaternius-stylized-nature-megakit-gltf-petal-1",
+    "quaternius-stylized-nature-megakit-gltf-petal-2",
+    "quaternius-stylized-nature-megakit-gltf-petal-3",
+    "quaternius-stylized-nature-megakit-gltf-petal-4",
+    "quaternius-stylized-nature-megakit-gltf-petal-5",
+    "quaternius-stylized-nature-megakit-gltf-pine-1",
+    "quaternius-stylized-nature-megakit-gltf-pine-2",
+    "quaternius-stylized-nature-megakit-gltf-pine-3",
+    "quaternius-stylized-nature-megakit-gltf-pine-4",
+    "quaternius-stylized-nature-megakit-gltf-pine-5",
+    "quaternius-stylized-nature-megakit-gltf-plant-1",
+    "quaternius-stylized-nature-megakit-gltf-plant-1-big",
+    "quaternius-stylized-nature-megakit-gltf-plant-7",
+    "quaternius-stylized-nature-megakit-gltf-plant-7-big",
+    "quaternius-stylized-nature-megakit-gltf-rock-medium-1",
+    "quaternius-stylized-nature-megakit-gltf-rock-medium-2",
+    "quaternius-stylized-nature-megakit-gltf-rock-medium-3",
+    "quaternius-stylized-nature-megakit-gltf-rockpath-round-small-1",
+    "quaternius-stylized-nature-megakit-gltf-rockpath-round-small-2",
+    "quaternius-stylized-nature-megakit-gltf-rockpath-round-small-3",
+    "quaternius-stylized-nature-megakit-gltf-rockpath-round-thin",
+    "quaternius-stylized-nature-megakit-gltf-rockpath-round-wide",
+    "quaternius-stylized-nature-megakit-gltf-rockpath-square-small-1",
+    "quaternius-stylized-nature-megakit-gltf-rockpath-square-small-2",
+    "quaternius-stylized-nature-megakit-gltf-rockpath-square-small-3",
+    "quaternius-stylized-nature-megakit-gltf-rockpath-square-thin",
+    "quaternius-stylized-nature-megakit-gltf-rockpath-square-wide",
+    "quaternius-stylized-nature-megakit-gltf-twistedtree-1",
+    "quaternius-stylized-nature-megakit-gltf-twistedtree-2",
+    "quaternius-stylized-nature-megakit-gltf-twistedtree-3",
+    "quaternius-stylized-nature-megakit-gltf-twistedtree-4",
+    "quaternius-stylized-nature-megakit-gltf-twistedtree-5"
+  ],
+  "assetsById": {
+    "quaternius-stylized-nature-megakit-gltf-bush-common": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-bush-common",
+        "name": "Bush Common",
+        "description": "Stylized bush model (Bush Common).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-bush-common.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "bush"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.923476,
+              -0.234695,
+              -0.974389
+            ],
+            "max": [
+              0.991369,
+              1.347091,
+              0.990752
+            ],
+            "size": [
+              1.914845,
+              1.581786,
+              1.965141
+            ],
+            "center": [
+              0.033946,
+              0.556198,
+              0.008181
+            ],
+            "diagonal": 3.167089
+          },
+          "triangleCount": 900,
+          "drawCallCount": 1,
+          "renderVertexCount": 2700,
+          "uploadVertexCount": 1800,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "MASK"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            1024,
+            1024
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-bush-common-flowers": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-bush-common-flowers",
+        "name": "Bush Common Flowers",
+        "description": "Stylized bush model (Bush Common Flowers).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-bush-common-flowers.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "bush"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.923476,
+              -0.234695,
+              -0.974389
+            ],
+            "max": [
+              0.991369,
+              1.347091,
+              0.990752
+            ],
+            "size": [
+              1.914845,
+              1.581786,
+              1.965141
+            ],
+            "center": [
+              0.033946,
+              0.556198,
+              0.008181
+            ],
+            "diagonal": 3.167089
+          },
+          "triangleCount": 1368,
+          "drawCallCount": 2,
+          "renderVertexCount": 4104,
+          "uploadVertexCount": 2515,
+          "meshCount": 1,
+          "primitiveCount": 2
+        },
+        "materials": {
+          "count": 2,
+          "alphaModes": [
+            "MASK"
+          ],
+          "doubleSidedCount": 2
+        },
+        "textures": {
+          "count": 2,
+          "embeddedCount": 0,
+          "externalCount": 2,
+          "maxResolution": [
+            1024,
+            1024
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-clover-1": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-clover-1",
+        "name": "Clover 1",
+        "description": "Stylized nature model (Clover 1).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-clover-1.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.502298,
+              -0.012792,
+              -0.399562
+            ],
+            "max": [
+              0.293991,
+              1.13194,
+              0.364324
+            ],
+            "size": [
+              0.796289,
+              1.144732,
+              0.763886
+            ],
+            "center": [
+              -0.104154,
+              0.559574,
+              -0.017619
+            ],
+            "diagonal": 1.589972
+          },
+          "triangleCount": 379,
+          "drawCallCount": 1,
+          "renderVertexCount": 1137,
+          "uploadVertexCount": 267,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "MASK"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-clover-2": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-clover-2",
+        "name": "Clover 2",
+        "description": "Stylized nature model (Clover 2).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-clover-2.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.502298,
+              -0.002351,
+              -0.472311
+            ],
+            "max": [
+              0.34883,
+              1.261435,
+              0.364324
+            ],
+            "size": [
+              0.851128,
+              1.263785,
+              0.836634
+            ],
+            "center": [
+              -0.076734,
+              0.629542,
+              -0.053993
+            ],
+            "diagonal": 1.738255
+          },
+          "triangleCount": 615,
+          "drawCallCount": 1,
+          "renderVertexCount": 1845,
+          "uploadVertexCount": 433,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "MASK"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-commontree-1": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-commontree-1",
+        "name": "Common Tree 1",
+        "description": "Stylized tree model (Common Tree 1).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-commontree-1.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "tree"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -2.194459,
+              -0.242772,
+              -2.224519
+            ],
+            "max": [
+              2.116964,
+              7.022013,
+              2.353195
+            ],
+            "size": [
+              4.311423,
+              7.264785,
+              4.577714
+            ],
+            "center": [
+              -0.038747,
+              3.389621,
+              0.064338
+            ],
+            "diagonal": 9.608378
+          },
+          "triangleCount": 6265,
+          "drawCallCount": 2,
+          "renderVertexCount": 18795,
+          "uploadVertexCount": 9458,
+          "meshCount": 1,
+          "primitiveCount": 2
+        },
+        "materials": {
+          "count": 2,
+          "alphaModes": [
+            "MASK"
+          ],
+          "doubleSidedCount": 2
+        },
+        "textures": {
+          "count": 3,
+          "embeddedCount": 0,
+          "externalCount": 3,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-commontree-2": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-commontree-2",
+        "name": "Common Tree 2",
+        "description": "Stylized tree model (Common Tree 2).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-commontree-2.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "tree"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -2.223014,
+              -0.242772,
+              -1.85147
+            ],
+            "max": [
+              2.241288,
+              7.400224,
+              2.424383
+            ],
+            "size": [
+              4.464302,
+              7.642996,
+              4.275852
+            ],
+            "center": [
+              0.009137,
+              3.578726,
+              0.286456
+            ],
+            "diagonal": 9.829969
+          },
+          "triangleCount": 5648,
+          "drawCallCount": 2,
+          "renderVertexCount": 16944,
+          "uploadVertexCount": 8107,
+          "meshCount": 1,
+          "primitiveCount": 2
+        },
+        "materials": {
+          "count": 2,
+          "alphaModes": [
+            "MASK"
+          ],
+          "doubleSidedCount": 2
+        },
+        "textures": {
+          "count": 3,
+          "embeddedCount": 0,
+          "externalCount": 3,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-commontree-3": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-commontree-3",
+        "name": "Common Tree 3",
+        "description": "Stylized tree model (Common Tree 3).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-commontree-3.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "tree"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -1.986465,
+              -0.242772,
+              -2.060966
+            ],
+            "max": [
+              2.076381,
+              9.182418,
+              2.180111
+            ],
+            "size": [
+              4.062846,
+              9.42519,
+              4.241077
+            ],
+            "center": [
+              0.044958,
+              4.469823,
+              0.059573
+            ],
+            "diagonal": 11.105299
+          },
+          "triangleCount": 3505,
+          "drawCallCount": 2,
+          "renderVertexCount": 10515,
+          "uploadVertexCount": 5749,
+          "meshCount": 1,
+          "primitiveCount": 2
+        },
+        "materials": {
+          "count": 2,
+          "alphaModes": [
+            "MASK"
+          ],
+          "doubleSidedCount": 2
+        },
+        "textures": {
+          "count": 3,
+          "embeddedCount": 0,
+          "externalCount": 3,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-commontree-4": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-commontree-4",
+        "name": "Common Tree 4",
+        "description": "Stylized tree model (Common Tree 4).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-commontree-4.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "tree"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -1.797095,
+              -0.242772,
+              -2.07961
+            ],
+            "max": [
+              2.02843,
+              9.195609,
+              1.675763
+            ],
+            "size": [
+              3.825526,
+              9.438381,
+              3.755373
+            ],
+            "center": [
+              0.115668,
+              4.476419,
+              -0.201924
+            ],
+            "diagonal": 10.854516
+          },
+          "triangleCount": 4066,
+          "drawCallCount": 2,
+          "renderVertexCount": 12198,
+          "uploadVertexCount": 5900,
+          "meshCount": 1,
+          "primitiveCount": 2
+        },
+        "materials": {
+          "count": 2,
+          "alphaModes": [
+            "MASK"
+          ],
+          "doubleSidedCount": 2
+        },
+        "textures": {
+          "count": 3,
+          "embeddedCount": 0,
+          "externalCount": 3,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-commontree-5": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-commontree-5",
+        "name": "Common Tree 5",
+        "description": "Stylized tree model (Common Tree 5).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-commontree-5.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "tree"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -1.912355,
+              -0.242772,
+              -2.162448
+            ],
+            "max": [
+              1.758811,
+              6.763468,
+              2.057202
+            ],
+            "size": [
+              3.671165,
+              7.00624,
+              4.21965
+            ],
+            "center": [
+              -0.076772,
+              3.260348,
+              -0.052623
+            ],
+            "diagonal": 8.964948
+          },
+          "triangleCount": 3182,
+          "drawCallCount": 2,
+          "renderVertexCount": 9546,
+          "uploadVertexCount": 4873,
+          "meshCount": 1,
+          "primitiveCount": 2
+        },
+        "materials": {
+          "count": 2,
+          "alphaModes": [
+            "MASK"
+          ],
+          "doubleSidedCount": 2
+        },
+        "textures": {
+          "count": 3,
+          "embeddedCount": 0,
+          "externalCount": 3,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-deadtree-1": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-deadtree-1",
+        "name": "Dead Tree 1",
+        "description": "Stylized tree model (Dead Tree 1).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-deadtree-1.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "tree"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -2.592324,
+              -0.335555,
+              -2.9035
+            ],
+            "max": [
+              3.556612,
+              9.159923,
+              2.845168
+            ],
+            "size": [
+              6.148936,
+              9.495477,
+              5.748668
+            ],
+            "center": [
+              0.482144,
+              4.412184,
+              -0.029166
+            ],
+            "diagonal": 12.689393
+          },
+          "triangleCount": 6169,
+          "drawCallCount": 1,
+          "renderVertexCount": 18507,
+          "uploadVertexCount": 8036,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 2,
+          "embeddedCount": 0,
+          "externalCount": 2,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-deadtree-2": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-deadtree-2",
+        "name": "Dead Tree 2",
+        "description": "Stylized tree model (Dead Tree 2).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-deadtree-2.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "tree"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -2.332344,
+              -0.335555,
+              -2.522876
+            ],
+            "max": [
+              4.397274,
+              11.152677,
+              3.85566
+            ],
+            "size": [
+              6.729618,
+              11.488231,
+              6.378536
+            ],
+            "center": [
+              1.032465,
+              5.408561,
+              0.666392
+            ],
+            "diagonal": 14.763229
+          },
+          "triangleCount": 6557,
+          "drawCallCount": 1,
+          "renderVertexCount": 19671,
+          "uploadVertexCount": 8635,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 2,
+          "embeddedCount": 0,
+          "externalCount": 2,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-deadtree-3": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-deadtree-3",
+        "name": "Dead Tree 3",
+        "description": "Stylized tree model (Dead Tree 3).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-deadtree-3.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "tree"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -3.84757,
+              -0.335555,
+              -3.386701
+            ],
+            "max": [
+              2.540004,
+              12.944831,
+              3.043359
+            ],
+            "size": [
+              6.387574,
+              13.280385,
+              6.430059
+            ],
+            "center": [
+              -0.653783,
+              6.304638,
+              -0.171671
+            ],
+            "diagonal": 16.078414
+          },
+          "triangleCount": 5802,
+          "drawCallCount": 1,
+          "renderVertexCount": 17406,
+          "uploadVertexCount": 7936,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 2,
+          "embeddedCount": 0,
+          "externalCount": 2,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-deadtree-4": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-deadtree-4",
+        "name": "Dead Tree 4",
+        "description": "Stylized tree model (Dead Tree 4).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-deadtree-4.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "tree"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -3.362768,
+              -0.335555,
+              -3.59895
+            ],
+            "max": [
+              4.598174,
+              12.435423,
+              4.133495
+            ],
+            "size": [
+              7.960942,
+              12.770977,
+              7.732445
+            ],
+            "center": [
+              0.617703,
+              6.049934,
+              0.267272
+            ],
+            "diagonal": 16.919373
+          },
+          "triangleCount": 5702,
+          "drawCallCount": 1,
+          "renderVertexCount": 17106,
+          "uploadVertexCount": 7653,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 2,
+          "embeddedCount": 0,
+          "externalCount": 2,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-deadtree-5": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-deadtree-5",
+        "name": "Dead Tree 5",
+        "description": "Stylized tree model (Dead Tree 5).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-deadtree-5.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "tree"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -3.970533,
+              -0.335555,
+              -4.797231
+            ],
+            "max": [
+              4.385861,
+              16.101828,
+              3.616037
+            ],
+            "size": [
+              8.356394,
+              16.437382,
+              8.413268
+            ],
+            "center": [
+              0.207664,
+              7.883137,
+              -0.590597
+            ],
+            "diagonal": 20.2682
+          },
+          "triangleCount": 5648,
+          "drawCallCount": 1,
+          "renderVertexCount": 16944,
+          "uploadVertexCount": 7499,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 2,
+          "embeddedCount": 0,
+          "externalCount": 2,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-fern-1": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-fern-1",
+        "name": "Fern 1",
+        "description": "Stylized nature model (Fern 1).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-fern-1.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -1.381242,
+              -0.077334,
+              -1.278536
+            ],
+            "max": [
+              1.445692,
+              0.762909,
+              1.373784
+            ],
+            "size": [
+              2.826934,
+              0.840243,
+              2.65232
+            ],
+            "center": [
+              0.032225,
+              0.342787,
+              0.047624
+            ],
+            "diagonal": 3.966405
+          },
+          "triangleCount": 288,
+          "drawCallCount": 1,
+          "renderVertexCount": 864,
+          "uploadVertexCount": 243,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "MASK"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-flower-3-group": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-flower-3-group",
+        "name": "Flower 3 Group",
+        "description": "Stylized flower model (Flower 3 Group).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-flower-3-group.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "flower"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.613601,
+              -0.034584,
+              -0.801762
+            ],
+            "max": [
+              0.874875,
+              2.020252,
+              0.789365
+            ],
+            "size": [
+              1.488477,
+              2.054835,
+              1.591127
+            ],
+            "center": [
+              0.130637,
+              0.992834,
+              -0.006198
+            ],
+            "diagonal": 2.994928
+          },
+          "triangleCount": 755,
+          "drawCallCount": 2,
+          "renderVertexCount": 2265,
+          "uploadVertexCount": 581,
+          "meshCount": 1,
+          "primitiveCount": 2
+        },
+        "materials": {
+          "count": 2,
+          "alphaModes": [
+            "MASK"
+          ],
+          "doubleSidedCount": 2
+        },
+        "textures": {
+          "count": 2,
+          "embeddedCount": 0,
+          "externalCount": 2,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-flower-3-single": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-flower-3-single",
+        "name": "Flower 3 Single",
+        "description": "Stylized flower model (Flower 3 Single).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-flower-3-single.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "flower"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.480739,
+              -0.018327,
+              -0.52072
+            ],
+            "max": [
+              0.425871,
+              2.049867,
+              0.356816
+            ],
+            "size": [
+              0.90661,
+              2.068194,
+              0.877536
+            ],
+            "center": [
+              -0.027434,
+              1.01577,
+              -0.081952
+            ],
+            "diagonal": 2.422692
+          },
+          "triangleCount": 285,
+          "drawCallCount": 2,
+          "renderVertexCount": 855,
+          "uploadVertexCount": 227,
+          "meshCount": 1,
+          "primitiveCount": 2
+        },
+        "materials": {
+          "count": 2,
+          "alphaModes": [
+            "MASK"
+          ],
+          "doubleSidedCount": 2
+        },
+        "textures": {
+          "count": 2,
+          "embeddedCount": 0,
+          "externalCount": 2,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-flower-4-group": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-flower-4-group",
+        "name": "Flower 4 Group",
+        "description": "Stylized flower model (Flower 4 Group).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-flower-4-group.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "flower"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.931386,
+              -0.056998,
+              -0.63615
+            ],
+            "max": [
+              0.84914,
+              2.429771,
+              0.731378
+            ],
+            "size": [
+              1.780526,
+              2.486768,
+              1.367529
+            ],
+            "center": [
+              -0.041123,
+              1.186387,
+              0.047614
+            ],
+            "diagonal": 3.350287
+          },
+          "triangleCount": 1690,
+          "drawCallCount": 2,
+          "renderVertexCount": 5070,
+          "uploadVertexCount": 1302,
+          "meshCount": 1,
+          "primitiveCount": 2
+        },
+        "materials": {
+          "count": 2,
+          "alphaModes": [
+            "MASK"
+          ],
+          "doubleSidedCount": 2
+        },
+        "textures": {
+          "count": 2,
+          "embeddedCount": 0,
+          "externalCount": 2,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-flower-4-single": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-flower-4-single",
+        "name": "Flower 4 Single",
+        "description": "Stylized flower model (Flower 4 Single).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-flower-4-single.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "flower"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.505006,
+              -0.03043,
+              -0.401803
+            ],
+            "max": [
+              0.567282,
+              2.388729,
+              0.371062
+            ],
+            "size": [
+              1.072288,
+              2.419159,
+              0.772865
+            ],
+            "center": [
+              0.031138,
+              1.179149,
+              -0.01537
+            ],
+            "diagonal": 2.756711
+          },
+          "triangleCount": 642,
+          "drawCallCount": 2,
+          "renderVertexCount": 1926,
+          "uploadVertexCount": 499,
+          "meshCount": 1,
+          "primitiveCount": 2
+        },
+        "materials": {
+          "count": 2,
+          "alphaModes": [
+            "MASK"
+          ],
+          "doubleSidedCount": 2
+        },
+        "textures": {
+          "count": 2,
+          "embeddedCount": 0,
+          "externalCount": 2,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-grass-common-short": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-grass-common-short",
+        "name": "Grass Common Short",
+        "description": "Stylized grass model (Grass Common Short).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-grass-common-short.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "grass"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.355642,
+              -0.022385,
+              -0.479378
+            ],
+            "max": [
+              0.283228,
+              1.311718,
+              0.257887
+            ],
+            "size": [
+              0.63887,
+              1.334103,
+              0.737265
+            ],
+            "center": [
+              -0.036207,
+              0.644667,
+              -0.110746
+            ],
+            "diagonal": 1.65274
+          },
+          "triangleCount": 155,
+          "drawCallCount": 1,
+          "renderVertexCount": 465,
+          "uploadVertexCount": 153,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-grass-common-tall": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-grass-common-tall",
+        "name": "Grass Common Tall",
+        "description": "Stylized grass model (Grass Common Tall).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-grass-common-tall.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "grass"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.403568,
+              -0.031362,
+              -0.479033
+            ],
+            "max": [
+              0.491522,
+              1.841333,
+              0.514078
+            ],
+            "size": [
+              0.895089,
+              1.872695,
+              0.993112
+            ],
+            "center": [
+              0.043977,
+              0.904985,
+              0.017523
+            ],
+            "diagonal": 2.300966
+          },
+          "triangleCount": 326,
+          "drawCallCount": 1,
+          "renderVertexCount": 978,
+          "uploadVertexCount": 303,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-grass-wispy-short": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-grass-wispy-short",
+        "name": "Grass Wispy Short",
+        "description": "Stylized grass model (Grass Wispy Short).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-grass-wispy-short.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "grass"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.728044,
+              -0.08575,
+              -0.582811
+            ],
+            "max": [
+              0.594142,
+              0.986097,
+              0.626933
+            ],
+            "size": [
+              1.322186,
+              1.071847,
+              1.209744
+            ],
+            "center": [
+              -0.066951,
+              0.450173,
+              0.022061
+            ],
+            "diagonal": 2.088184
+          },
+          "triangleCount": 494,
+          "drawCallCount": 1,
+          "renderVertexCount": 1482,
+          "uploadVertexCount": 559,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-grass-wispy-tall": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-grass-wispy-tall",
+        "name": "Grass Wispy Tall",
+        "description": "Stylized grass model (Grass Wispy Tall).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-grass-wispy-tall.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "grass"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.739245,
+              -0.036052,
+              -0.818591
+            ],
+            "max": [
+              0.800828,
+              1.635751,
+              0.775125
+            ],
+            "size": [
+              1.540073,
+              1.671802,
+              1.593716
+            ],
+            "center": [
+              0.030792,
+              0.799849,
+              -0.021733
+            ],
+            "diagonal": 2.77609
+          },
+          "triangleCount": 622,
+          "drawCallCount": 1,
+          "renderVertexCount": 1866,
+          "uploadVertexCount": 644,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-mushroom-common": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-mushroom-common",
+        "name": "Mushroom Common",
+        "description": "Stylized nature model (Mushroom Common).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-mushroom-common.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.333376,
+              -0.017471,
+              -0.445211
+            ],
+            "max": [
+              0.230325,
+              0.44601,
+              0.333902
+            ],
+            "size": [
+              0.563701,
+              0.463481,
+              0.779113
+            ],
+            "center": [
+              -0.051525,
+              0.214269,
+              -0.055654
+            ],
+            "diagonal": 1.067516
+          },
+          "triangleCount": 880,
+          "drawCallCount": 1,
+          "renderVertexCount": 2640,
+          "uploadVertexCount": 555,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            1024,
+            1024
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-mushroom-laetiporus": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-mushroom-laetiporus",
+        "name": "Mushroom Laetiporus",
+        "description": "Stylized nature model (Mushroom Laetiporus).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-mushroom-laetiporus.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.649819,
+              -0.160225,
+              -0.328301
+            ],
+            "max": [
+              0.716214,
+              0.606733,
+              0.774881
+            ],
+            "size": [
+              1.366033,
+              0.766958,
+              1.103183
+            ],
+            "center": [
+              0.033197,
+              0.223254,
+              0.22329
+            ],
+            "diagonal": 1.916059
+          },
+          "triangleCount": 3216,
+          "drawCallCount": 1,
+          "renderVertexCount": 9648,
+          "uploadVertexCount": 1806,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            1024,
+            1024
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-pebble-round-1": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-pebble-round-1",
+        "name": "Pebble Round 1",
+        "description": "Stylized pebble model (Pebble Round 1).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-pebble-round-1.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "pebble",
+          "rock"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.219809,
+              -0.007798,
+              -0.159613
+            ],
+            "max": [
+              0.28023,
+              0.087679,
+              0.20741
+            ],
+            "size": [
+              0.500039,
+              0.095477,
+              0.367023
+            ],
+            "center": [
+              0.03021,
+              0.03994,
+              0.023899
+            ],
+            "diagonal": 0.627583
+          },
+          "triangleCount": 136,
+          "drawCallCount": 1,
+          "renderVertexCount": 408,
+          "uploadVertexCount": 292,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            1024,
+            1024
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-pebble-round-2": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-pebble-round-2",
+        "name": "Pebble Round 2",
+        "description": "Stylized pebble model (Pebble Round 2).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-pebble-round-2.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "pebble",
+          "rock"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.215203,
+              -0.00298,
+              -0.222273
+            ],
+            "max": [
+              0.234273,
+              0.09125,
+              0.188786
+            ],
+            "size": [
+              0.449477,
+              0.09423,
+              0.411059
+            ],
+            "center": [
+              0.009535,
+              0.044135,
+              -0.016744
+            ],
+            "diagonal": 0.616342
+          },
+          "triangleCount": 114,
+          "drawCallCount": 1,
+          "renderVertexCount": 342,
+          "uploadVertexCount": 212,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            1024,
+            1024
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-pebble-round-3": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-pebble-round-3",
+        "name": "Pebble Round 3",
+        "description": "Stylized pebble model (Pebble Round 3).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-pebble-round-3.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "pebble",
+          "rock"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.227098,
+              -0.001753,
+              -0.221486
+            ],
+            "max": [
+              0.222593,
+              0.096869,
+              0.263324
+            ],
+            "size": [
+              0.449691,
+              0.098622,
+              0.48481
+            ],
+            "center": [
+              -0.002253,
+              0.047558,
+              0.020919
+            ],
+            "diagonal": 0.668573
+          },
+          "triangleCount": 128,
+          "drawCallCount": 1,
+          "renderVertexCount": 384,
+          "uploadVertexCount": 244,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            1024,
+            1024
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-pebble-round-4": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-pebble-round-4",
+        "name": "Pebble Round 4",
+        "description": "Stylized pebble model (Pebble Round 4).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-pebble-round-4.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "pebble",
+          "rock"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.210547,
+              -0.005632,
+              -0.230737
+            ],
+            "max": [
+              0.195734,
+              0.093767,
+              0.221661
+            ],
+            "size": [
+              0.406281,
+              0.099399,
+              0.452398
+            ],
+            "center": [
+              -0.007407,
+              0.044067,
+              -0.004538
+            ],
+            "diagonal": 0.616123
+          },
+          "triangleCount": 126,
+          "drawCallCount": 1,
+          "renderVertexCount": 378,
+          "uploadVertexCount": 266,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            1024,
+            1024
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-pebble-round-5": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-pebble-round-5",
+        "name": "Pebble Round 5",
+        "description": "Stylized pebble model (Pebble Round 5).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-pebble-round-5.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "pebble",
+          "rock"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.216574,
+              -0.004146,
+              -0.200999
+            ],
+            "max": [
+              0.20202,
+              0.096681,
+              0.145259
+            ],
+            "size": [
+              0.418593,
+              0.100827,
+              0.346258
+            ],
+            "center": [
+              -0.007277,
+              0.046268,
+              -0.02787
+            ],
+            "diagonal": 0.552523
+          },
+          "triangleCount": 124,
+          "drawCallCount": 1,
+          "renderVertexCount": 372,
+          "uploadVertexCount": 254,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            1024,
+            1024
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-pebble-square-1": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-pebble-square-1",
+        "name": "Pebble Square 1",
+        "description": "Stylized pebble model (Pebble Square 1).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-pebble-square-1.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "pebble",
+          "rock"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.23335,
+              -0.002202,
+              -0.201876
+            ],
+            "max": [
+              0.201288,
+              0.127729,
+              0.237767
+            ],
+            "size": [
+              0.434637,
+              0.129931,
+              0.439643
+            ],
+            "center": [
+              -0.016031,
+              0.062763,
+              0.017946
+            ],
+            "diagonal": 0.631726
+          },
+          "triangleCount": 104,
+          "drawCallCount": 1,
+          "renderVertexCount": 312,
+          "uploadVertexCount": 216,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            1024,
+            1024
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-pebble-square-2": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-pebble-square-2",
+        "name": "Pebble Square 2",
+        "description": "Stylized pebble model (Pebble Square 2).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-pebble-square-2.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "pebble",
+          "rock"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.200632,
+              -0.005164,
+              -0.119389
+            ],
+            "max": [
+              0.190464,
+              0.13528,
+              0.160865
+            ],
+            "size": [
+              0.391096,
+              0.140444,
+              0.280254
+            ],
+            "center": [
+              -0.005084,
+              0.065058,
+              0.020738
+            ],
+            "diagonal": 0.501222
+          },
+          "triangleCount": 78,
+          "drawCallCount": 1,
+          "renderVertexCount": 234,
+          "uploadVertexCount": 162,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            1024,
+            1024
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-pebble-square-3": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-pebble-square-3",
+        "name": "Pebble Square 3",
+        "description": "Stylized pebble model (Pebble Square 3).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-pebble-square-3.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "pebble",
+          "rock"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.186652,
+              -0.008118,
+              -0.166492
+            ],
+            "max": [
+              0.186685,
+              0.150815,
+              0.152258
+            ],
+            "size": [
+              0.373336,
+              0.158933,
+              0.318749
+            ],
+            "center": [
+              0.000016,
+              0.071349,
+              -0.007117
+            ],
+            "diagonal": 0.515985
+          },
+          "triangleCount": 52,
+          "drawCallCount": 1,
+          "renderVertexCount": 156,
+          "uploadVertexCount": 108,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            1024,
+            1024
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-pebble-square-4": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-pebble-square-4",
+        "name": "Pebble Square 4",
+        "description": "Stylized pebble model (Pebble Square 4).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-pebble-square-4.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "pebble",
+          "rock"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.17122,
+              -0.002776,
+              -0.157671
+            ],
+            "max": [
+              0.168723,
+              0.165515,
+              0.133155
+            ],
+            "size": [
+              0.339943,
+              0.168291,
+              0.290826
+            ],
+            "center": [
+              -0.001248,
+              0.081369,
+              -0.012258
+            ],
+            "diagonal": 0.477978
+          },
+          "triangleCount": 48,
+          "drawCallCount": 1,
+          "renderVertexCount": 144,
+          "uploadVertexCount": 96,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            1024,
+            1024
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-pebble-square-5": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-pebble-square-5",
+        "name": "Pebble Square 5",
+        "description": "Stylized pebble model (Pebble Square 5).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-pebble-square-5.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "pebble",
+          "rock"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.168563,
+              -0.007957,
+              -0.227532
+            ],
+            "max": [
+              0.183468,
+              0.144203,
+              0.222907
+            ],
+            "size": [
+              0.352032,
+              0.15216,
+              0.45044
+            ],
+            "center": [
+              0.007453,
+              0.068123,
+              -0.002313
+            ],
+            "diagonal": 0.591587
+          },
+          "triangleCount": 72,
+          "drawCallCount": 1,
+          "renderVertexCount": 216,
+          "uploadVertexCount": 156,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            1024,
+            1024
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-pebble-square-6": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-pebble-square-6",
+        "name": "Pebble Square 6",
+        "description": "Stylized pebble model (Pebble Square 6).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-pebble-square-6.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "pebble",
+          "rock"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.215022,
+              -0.010146,
+              -0.120621
+            ],
+            "max": [
+              0.247006,
+              0.127629,
+              0.142301
+            ],
+            "size": [
+              0.462029,
+              0.137775,
+              0.262922
+            ],
+            "center": [
+              0.015992,
+              0.058741,
+              0.01084
+            ],
+            "diagonal": 0.549163
+          },
+          "triangleCount": 65,
+          "drawCallCount": 1,
+          "renderVertexCount": 195,
+          "uploadVertexCount": 139,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            1024,
+            1024
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-petal-1": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-petal-1",
+        "name": "Petal 1",
+        "description": "Stylized nature model (Petal 1).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-petal-1.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.256916,
+              0.000001,
+              -0.228996
+            ],
+            "max": [
+              0.203323,
+              0.243674,
+              0.225966
+            ],
+            "size": [
+              0.460239,
+              0.243673,
+              0.454962
+            ],
+            "center": [
+              -0.026797,
+              0.121838,
+              -0.001515
+            ],
+            "diagonal": 0.69151
+          },
+          "triangleCount": 13,
+          "drawCallCount": 1,
+          "renderVertexCount": 39,
+          "uploadVertexCount": 14,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "MASK"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            1008,
+            981
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-petal-2": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-petal-2",
+        "name": "Petal 2",
+        "description": "Stylized nature model (Petal 2).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-petal-2.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.320672,
+              0,
+              -0.329141
+            ],
+            "max": [
+              0.352544,
+              0.236061,
+              0.301953
+            ],
+            "size": [
+              0.673215,
+              0.236061,
+              0.631095
+            ],
+            "center": [
+              0.015936,
+              0.11803,
+              -0.013594
+            ],
+            "diagonal": 0.952483
+          },
+          "triangleCount": 15,
+          "drawCallCount": 1,
+          "renderVertexCount": 45,
+          "uploadVertexCount": 16,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "MASK"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            1008,
+            981
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-petal-3": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-petal-3",
+        "name": "Petal 3",
+        "description": "Stylized nature model (Petal 3).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-petal-3.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.314995,
+              0,
+              -0.273451
+            ],
+            "max": [
+              0.304489,
+              0.189485,
+              0.332915
+            ],
+            "size": [
+              0.619484,
+              0.189485,
+              0.606366
+            ],
+            "center": [
+              -0.005253,
+              0.094743,
+              0.029732
+            ],
+            "diagonal": 0.887324
+          },
+          "triangleCount": 15,
+          "drawCallCount": 1,
+          "renderVertexCount": 45,
+          "uploadVertexCount": 16,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "MASK"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            1008,
+            981
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-petal-4": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-petal-4",
+        "name": "Petal 4",
+        "description": "Stylized nature model (Petal 4).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-petal-4.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.143395,
+              0,
+              -0.122296
+            ],
+            "max": [
+              0.185698,
+              0.252056,
+              0.122156
+            ],
+            "size": [
+              0.329093,
+              0.252056,
+              0.244452
+            ],
+            "center": [
+              0.021152,
+              0.126028,
+              -0.00007
+            ],
+            "diagonal": 0.48124
+          },
+          "triangleCount": 30,
+          "drawCallCount": 1,
+          "renderVertexCount": 90,
+          "uploadVertexCount": 25,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "MASK"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            1008,
+            981
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-petal-5": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-petal-5",
+        "name": "Petal 5",
+        "description": "Stylized nature model (Petal 5).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-petal-5.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.400947,
+              0.001044,
+              -0.419552
+            ],
+            "max": [
+              0.433016,
+              0.289816,
+              0.375662
+            ],
+            "size": [
+              0.833963,
+              0.288772,
+              0.795213
+            ],
+            "center": [
+              0.016035,
+              0.14543,
+              -0.021945
+            ],
+            "diagonal": 1.187959
+          },
+          "triangleCount": 15,
+          "drawCallCount": 1,
+          "renderVertexCount": 45,
+          "uploadVertexCount": 16,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "MASK"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            1008,
+            981
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-pine-1": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-pine-1",
+        "name": "Pine 1",
+        "description": "Stylized pine tree model (Pine 1).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-pine-1.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "tree",
+          "pine"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -2.448819,
+              -0.235089,
+              -2.476933
+            ],
+            "max": [
+              2.495879,
+              7.081829,
+              2.061471
+            ],
+            "size": [
+              4.944698,
+              7.316918,
+              4.538403
+            ],
+            "center": [
+              0.02353,
+              3.42337,
+              -0.207731
+            ],
+            "diagonal": 9.928969
+          },
+          "triangleCount": 3947,
+          "drawCallCount": 2,
+          "renderVertexCount": 11841,
+          "uploadVertexCount": 5246,
+          "meshCount": 1,
+          "primitiveCount": 2
+        },
+        "materials": {
+          "count": 2,
+          "alphaModes": [
+            "MASK"
+          ],
+          "doubleSidedCount": 2
+        },
+        "textures": {
+          "count": 3,
+          "embeddedCount": 0,
+          "externalCount": 3,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-pine-2": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-pine-2",
+        "name": "Pine 2",
+        "description": "Stylized pine tree model (Pine 2).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-pine-2.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "tree",
+          "pine"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -2.891958,
+              -0.235089,
+              -2.693699
+            ],
+            "max": [
+              2.836127,
+              7.14115,
+              2.527508
+            ],
+            "size": [
+              5.728085,
+              7.376238,
+              5.221207
+            ],
+            "center": [
+              -0.027916,
+              3.45303,
+              -0.083095
+            ],
+            "diagonal": 10.699572
+          },
+          "triangleCount": 3648,
+          "drawCallCount": 2,
+          "renderVertexCount": 10944,
+          "uploadVertexCount": 4926,
+          "meshCount": 1,
+          "primitiveCount": 2
+        },
+        "materials": {
+          "count": 2,
+          "alphaModes": [
+            "MASK"
+          ],
+          "doubleSidedCount": 2
+        },
+        "textures": {
+          "count": 3,
+          "embeddedCount": 0,
+          "externalCount": 3,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-pine-3": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-pine-3",
+        "name": "Pine 3",
+        "description": "Stylized pine tree model (Pine 3).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-pine-3.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "tree",
+          "pine"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -2.113737,
+              -0.235089,
+              -2.292339
+            ],
+            "max": [
+              1.497658,
+              7.15711,
+              1.703465
+            ],
+            "size": [
+              3.611395,
+              7.392199,
+              3.995804
+            ],
+            "center": [
+              -0.30804,
+              3.461011,
+              -0.294437
+            ],
+            "diagonal": 9.146213
+          },
+          "triangleCount": 4964,
+          "drawCallCount": 2,
+          "renderVertexCount": 14892,
+          "uploadVertexCount": 6573,
+          "meshCount": 1,
+          "primitiveCount": 2
+        },
+        "materials": {
+          "count": 2,
+          "alphaModes": [
+            "MASK"
+          ],
+          "doubleSidedCount": 2
+        },
+        "textures": {
+          "count": 3,
+          "embeddedCount": 0,
+          "externalCount": 3,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-pine-4": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-pine-4",
+        "name": "Pine 4",
+        "description": "Stylized pine tree model (Pine 4).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-pine-4.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "tree",
+          "pine"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -2.871837,
+              -0.235089,
+              -2.945907
+            ],
+            "max": [
+              2.930187,
+              10.001343,
+              2.424938
+            ],
+            "size": [
+              5.802024,
+              10.236431,
+              5.370846
+            ],
+            "center": [
+              0.029175,
+              4.883127,
+              -0.260485
+            ],
+            "diagonal": 12.934218
+          },
+          "triangleCount": 3370,
+          "drawCallCount": 2,
+          "renderVertexCount": 10110,
+          "uploadVertexCount": 4888,
+          "meshCount": 1,
+          "primitiveCount": 2
+        },
+        "materials": {
+          "count": 2,
+          "alphaModes": [
+            "MASK"
+          ],
+          "doubleSidedCount": 2
+        },
+        "textures": {
+          "count": 3,
+          "embeddedCount": 0,
+          "externalCount": 3,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-pine-5": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-pine-5",
+        "name": "Pine 5",
+        "description": "Stylized pine tree model (Pine 5).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-pine-5.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "tree",
+          "pine"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -2.987706,
+              -0.235089,
+              -3.778404
+            ],
+            "max": [
+              3.432434,
+              8.488719,
+              2.443597
+            ],
+            "size": [
+              6.420141,
+              8.723808,
+              6.222001
+            ],
+            "center": [
+              0.222364,
+              4.126815,
+              -0.667404
+            ],
+            "diagonal": 12.49145
+          },
+          "triangleCount": 1646,
+          "drawCallCount": 2,
+          "renderVertexCount": 4938,
+          "uploadVertexCount": 2315,
+          "meshCount": 1,
+          "primitiveCount": 2
+        },
+        "materials": {
+          "count": 2,
+          "alphaModes": [
+            "MASK"
+          ],
+          "doubleSidedCount": 2
+        },
+        "textures": {
+          "count": 3,
+          "embeddedCount": 0,
+          "externalCount": 3,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-plant-1": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-plant-1",
+        "name": "Plant 1",
+        "description": "Stylized plant model (Plant 1).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-plant-1.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "plant"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.710724,
+              -0.035024,
+              -0.763592
+            ],
+            "max": [
+              0.562667,
+              0.978546,
+              0.622435
+            ],
+            "size": [
+              1.273391,
+              1.01357,
+              1.386027
+            ],
+            "center": [
+              -0.074028,
+              0.471761,
+              -0.070578
+            ],
+            "diagonal": 2.137737
+          },
+          "triangleCount": 120,
+          "drawCallCount": 1,
+          "renderVertexCount": 360,
+          "uploadVertexCount": 120,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "MASK"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-plant-1-big": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-plant-1-big",
+        "name": "Plant 1 Big",
+        "description": "Stylized plant model (Plant 1 Big).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-plant-1-big.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "plant"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.871326,
+              -0.035024,
+              -1.036489
+            ],
+            "max": [
+              0.935211,
+              2.312742,
+              0.91754
+            ],
+            "size": [
+              1.806537,
+              2.347766,
+              1.954029
+            ],
+            "center": [
+              0.031942,
+              1.138859,
+              -0.059474
+            ],
+            "diagonal": 3.548776
+          },
+          "triangleCount": 360,
+          "drawCallCount": 1,
+          "renderVertexCount": 1080,
+          "uploadVertexCount": 360,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "MASK"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-plant-7": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-plant-7",
+        "name": "Plant 7",
+        "description": "Stylized plant model (Plant 7).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-plant-7.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "plant"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.448151,
+              0.079105,
+              -0.463866
+            ],
+            "max": [
+              0.599684,
+              0.328619,
+              0.498255
+            ],
+            "size": [
+              1.047835,
+              0.249515,
+              0.962121
+            ],
+            "center": [
+              0.075767,
+              0.203862,
+              0.017195
+            ],
+            "diagonal": 1.444262
+          },
+          "triangleCount": 48,
+          "drawCallCount": 1,
+          "renderVertexCount": 144,
+          "uploadVertexCount": 54,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "MASK"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-plant-7-big": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-plant-7-big",
+        "name": "Plant 7 Big",
+        "description": "Stylized plant model (Plant 7 Big).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-plant-7-big.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "plant"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.701057,
+              0.050312,
+              -0.850528
+            ],
+            "max": [
+              0.609763,
+              0.303744,
+              0.511646
+            ],
+            "size": [
+              1.31082,
+              0.253433,
+              1.362174
+            ],
+            "center": [
+              -0.045647,
+              0.177028,
+              -0.169441
+            ],
+            "diagonal": 1.907353
+          },
+          "triangleCount": 112,
+          "drawCallCount": 1,
+          "renderVertexCount": 336,
+          "uploadVertexCount": 126,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "MASK"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-rock-medium-1": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-rock-medium-1",
+        "name": "Rock Medium 1",
+        "description": "Stylized rock model (Rock Medium 1).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-rock-medium-1.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "rock"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -1.727287,
+              -0.271131,
+              -1.149883
+            ],
+            "max": [
+              1.497861,
+              1.988665,
+              1.839253
+            ],
+            "size": [
+              3.225148,
+              2.259797,
+              2.989136
+            ],
+            "center": [
+              -0.114713,
+              0.858767,
+              0.344685
+            ],
+            "diagonal": 4.944006
+          },
+          "triangleCount": 342,
+          "drawCallCount": 1,
+          "renderVertexCount": 1026,
+          "uploadVertexCount": 351,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-rock-medium-2": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-rock-medium-2",
+        "name": "Rock Medium 2",
+        "description": "Stylized rock model (Rock Medium 2).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-rock-medium-2.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "rock"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -1.713642,
+              -0.050842,
+              -1.159125
+            ],
+            "max": [
+              1.335119,
+              1.848133,
+              1.319946
+            ],
+            "size": [
+              3.04876,
+              1.898975,
+              2.479072
+            ],
+            "center": [
+              -0.189262,
+              0.898646,
+              0.08041
+            ],
+            "diagonal": 4.364269
+          },
+          "triangleCount": 244,
+          "drawCallCount": 1,
+          "renderVertexCount": 732,
+          "uploadVertexCount": 249,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-rock-medium-3": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-rock-medium-3",
+        "name": "Rock Medium 3",
+        "description": "Stylized rock model (Rock Medium 3).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-rock-medium-3.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "rock"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -1.824279,
+              -0.315644,
+              -0.890462
+            ],
+            "max": [
+              1.595805,
+              2.000638,
+              2.585648
+            ],
+            "size": [
+              3.420085,
+              2.316283,
+              3.47611
+            ],
+            "center": [
+              -0.114237,
+              0.842497,
+              0.847593
+            ],
+            "diagonal": 5.398656
+          },
+          "triangleCount": 522,
+          "drawCallCount": 1,
+          "renderVertexCount": 1566,
+          "uploadVertexCount": 531,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-rockpath-round-small-1": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-rockpath-round-small-1",
+        "name": "Rock Path Round Small 1",
+        "description": "Stylized rock model (Rock Path Round Small 1).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-rockpath-round-small-1.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "rock"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.538055,
+              -0.008883,
+              -0.703344
+            ],
+            "max": [
+              0.518459,
+              0.103949,
+              0.773014
+            ],
+            "size": [
+              1.056514,
+              0.112832,
+              1.476359
+            ],
+            "center": [
+              -0.009798,
+              0.047533,
+              0.034835
+            ],
+            "diagonal": 1.818952
+          },
+          "triangleCount": 998,
+          "drawCallCount": 1,
+          "renderVertexCount": 2994,
+          "uploadVertexCount": 2036,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            1024,
+            1024
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-rockpath-round-small-2": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-rockpath-round-small-2",
+        "name": "Rock Path Round Small 2",
+        "description": "Stylized rock model (Rock Path Round Small 2).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-rockpath-round-small-2.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "rock"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.560276,
+              -0.007798,
+              -0.758798
+            ],
+            "max": [
+              0.579243,
+              0.096869,
+              0.595486
+            ],
+            "size": [
+              1.13952,
+              0.104667,
+              1.354284
+            ],
+            "center": [
+              0.009483,
+              0.044536,
+              -0.081656
+            ],
+            "diagonal": 1.773004
+          },
+          "triangleCount": 1126,
+          "drawCallCount": 1,
+          "renderVertexCount": 3378,
+          "uploadVertexCount": 2264,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            1024,
+            1024
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-rockpath-round-small-3": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-rockpath-round-small-3",
+        "name": "Rock Path Round Small 3",
+        "description": "Stylized rock model (Rock Path Round Small 3).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-rockpath-round-small-3.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "rock"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.587281,
+              -0.007798,
+              -0.690271
+            ],
+            "max": [
+              0.591749,
+              0.101475,
+              0.599723
+            ],
+            "size": [
+              1.17903,
+              0.109273,
+              1.289995
+            ],
+            "center": [
+              0.002234,
+              0.046839,
+              -0.045274
+            ],
+            "diagonal": 1.751039
+          },
+          "triangleCount": 1002,
+          "drawCallCount": 1,
+          "renderVertexCount": 3006,
+          "uploadVertexCount": 2026,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            1024,
+            1024
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-rockpath-round-thin": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-rockpath-round-thin",
+        "name": "Rock Path Round Thin",
+        "description": "Stylized rock model (Rock Path Round Thin).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-rockpath-round-thin.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "rock"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.697073,
+              -0.008862,
+              -1.086101
+            ],
+            "max": [
+              0.760278,
+              0.101475,
+              1.003105
+            ],
+            "size": [
+              1.457351,
+              0.110337,
+              2.089206
+            ],
+            "center": [
+              0.031603,
+              0.046307,
+              -0.041498
+            ],
+            "diagonal": 2.549672
+          },
+          "triangleCount": 2254,
+          "drawCallCount": 1,
+          "renderVertexCount": 6762,
+          "uploadVertexCount": 4556,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            1024,
+            1024
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-rockpath-round-wide": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-rockpath-round-wide",
+        "name": "Rock Path Round Wide",
+        "description": "Stylized rock model (Rock Path Round Wide).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-rockpath-round-wide.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "rock"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -1.047976,
+              -0.008883,
+              -1.125932
+            ],
+            "max": [
+              1.062639,
+              0.103949,
+              1.003105
+            ],
+            "size": [
+              2.110614,
+              0.112832,
+              2.129037
+            ],
+            "center": [
+              0.007332,
+              0.047533,
+              -0.061413
+            ],
+            "diagonal": 3.000037
+          },
+          "triangleCount": 3500,
+          "drawCallCount": 1,
+          "renderVertexCount": 10500,
+          "uploadVertexCount": 7084,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            1024,
+            1024
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-rockpath-square-small-1": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-rockpath-square-small-1",
+        "name": "Rock Path Square Small 1",
+        "description": "Stylized rock model (Rock Path Square Small 1).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-rockpath-square-small-1.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "rock"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.518924,
+              -0.008623,
+              -0.474319
+            ],
+            "max": [
+              0.49996,
+              0.141247,
+              0.499533
+            ],
+            "size": [
+              1.018884,
+              0.14987,
+              0.973852
+            ],
+            "center": [
+              -0.009482,
+              0.066312,
+              0.012607
+            ],
+            "diagonal": 1.417383
+          },
+          "triangleCount": 783,
+          "drawCallCount": 1,
+          "renderVertexCount": 2349,
+          "uploadVertexCount": 1633,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            1024,
+            1024
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-rockpath-square-small-2": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-rockpath-square-small-2",
+        "name": "Rock Path Square Small 2",
+        "description": "Stylized rock model (Rock Path Square Small 2).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-rockpath-square-small-2.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "rock"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.497539,
+              -0.013205,
+              -0.493948
+            ],
+            "max": [
+              0.495183,
+              0.13613,
+              0.472121
+            ],
+            "size": [
+              0.992722,
+              0.149335,
+              0.966068
+            ],
+            "center": [
+              -0.001178,
+              0.061462,
+              -0.010913
+            ],
+            "diagonal": 1.393228
+          },
+          "triangleCount": 559,
+          "drawCallCount": 1,
+          "renderVertexCount": 1677,
+          "uploadVertexCount": 1165,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            1024,
+            1024
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-rockpath-square-small-3": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-rockpath-square-small-3",
+        "name": "Rock Path Square Small 3",
+        "description": "Stylized rock model (Rock Path Square Small 3).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-rockpath-square-small-3.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "rock"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.396116,
+              -0.008118,
+              -0.548754
+            ],
+            "max": [
+              0.439745,
+              0.165515,
+              0.527534
+            ],
+            "size": [
+              0.835861,
+              0.173633,
+              1.076289
+            ],
+            "center": [
+              0.021815,
+              0.078698,
+              -0.01061
+            ],
+            "diagonal": 1.373757
+          },
+          "triangleCount": 568,
+          "drawCallCount": 1,
+          "renderVertexCount": 1704,
+          "uploadVertexCount": 1176,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            1024,
+            1024
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-rockpath-square-thin": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-rockpath-square-thin",
+        "name": "Rock Path Square Thin",
+        "description": "Stylized rock model (Rock Path Square Thin).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-rockpath-square-thin.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "rock"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.76819,
+              -0.010146,
+              -1.00226
+            ],
+            "max": [
+              0.791691,
+              0.166202,
+              0.984677
+            ],
+            "size": [
+              1.559881,
+              0.176348,
+              1.986937
+            ],
+            "center": [
+              0.011751,
+              0.078028,
+              -0.008791
+            ],
+            "diagonal": 2.532241
+          },
+          "triangleCount": 1793,
+          "drawCallCount": 1,
+          "renderVertexCount": 5379,
+          "uploadVertexCount": 3727,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            1024,
+            1024
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-rockpath-square-wide": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-rockpath-square-wide",
+        "name": "Rock Path Square Wide",
+        "description": "Stylized rock model (Rock Path Square Wide).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-rockpath-square-wide.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "rock"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -1.0237,
+              -0.010146,
+              -0.999931
+            ],
+            "max": [
+              1.027881,
+              0.166202,
+              0.987006
+            ],
+            "size": [
+              2.051581,
+              0.176348,
+              1.986937
+            ],
+            "center": [
+              0.002091,
+              0.078028,
+              -0.006463
+            ],
+            "diagonal": 2.861468
+          },
+          "triangleCount": 2256,
+          "drawCallCount": 1,
+          "renderVertexCount": 6768,
+          "uploadVertexCount": 4712,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            1024,
+            1024
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-twistedtree-1": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-twistedtree-1",
+        "name": "Twisted Tree 1",
+        "description": "Stylized tree model (Twisted Tree 1).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-twistedtree-1.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "tree"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -2.174241,
+              -0.201475,
+              -6.726779
+            ],
+            "max": [
+              11.341514,
+              16.524021,
+              4.822585
+            ],
+            "size": [
+              13.515755,
+              16.725496,
+              11.549365
+            ],
+            "center": [
+              4.583636,
+              8.161273,
+              -0.952097
+            ],
+            "diagonal": 24.409131
+          },
+          "triangleCount": 9564,
+          "drawCallCount": 2,
+          "renderVertexCount": 28692,
+          "uploadVertexCount": 14064,
+          "meshCount": 1,
+          "primitiveCount": 2
+        },
+        "materials": {
+          "count": 2,
+          "alphaModes": [
+            "OPAQUE",
+            "MASK"
+          ],
+          "doubleSidedCount": 2
+        },
+        "textures": {
+          "count": 3,
+          "embeddedCount": 0,
+          "externalCount": 3,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-twistedtree-2": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-twistedtree-2",
+        "name": "Twisted Tree 2",
+        "description": "Stylized tree model (Twisted Tree 2).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-twistedtree-2.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "tree"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -6.61997,
+              -0.201475,
+              -5.540718
+            ],
+            "max": [
+              3.942902,
+              18.747728,
+              3.66187
+            ],
+            "size": [
+              10.562872,
+              18.949203,
+              9.202588
+            ],
+            "center": [
+              -1.338534,
+              9.273127,
+              -0.939424
+            ],
+            "diagonal": 23.56553
+          },
+          "triangleCount": 9134,
+          "drawCallCount": 2,
+          "renderVertexCount": 27402,
+          "uploadVertexCount": 13407,
+          "meshCount": 1,
+          "primitiveCount": 2
+        },
+        "materials": {
+          "count": 2,
+          "alphaModes": [
+            "OPAQUE",
+            "MASK"
+          ],
+          "doubleSidedCount": 2
+        },
+        "textures": {
+          "count": 3,
+          "embeddedCount": 0,
+          "externalCount": 3,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-twistedtree-3": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-twistedtree-3",
+        "name": "Twisted Tree 3",
+        "description": "Stylized tree model (Twisted Tree 3).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-twistedtree-3.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "tree"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -4.490019,
+              -0.201475,
+              -6.52009
+            ],
+            "max": [
+              6.867476,
+              15.871066,
+              4.985529
+            ],
+            "size": [
+              11.357496,
+              16.072541,
+              11.505619
+            ],
+            "center": [
+              1.188729,
+              7.834796,
+              -0.767281
+            ],
+            "diagonal": 22.796898
+          },
+          "triangleCount": 10089,
+          "drawCallCount": 2,
+          "renderVertexCount": 30267,
+          "uploadVertexCount": 14805,
+          "meshCount": 1,
+          "primitiveCount": 2
+        },
+        "materials": {
+          "count": 2,
+          "alphaModes": [
+            "OPAQUE",
+            "MASK"
+          ],
+          "doubleSidedCount": 2
+        },
+        "textures": {
+          "count": 3,
+          "embeddedCount": 0,
+          "externalCount": 3,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-twistedtree-4": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-twistedtree-4",
+        "name": "Twisted Tree 4",
+        "description": "Stylized tree model (Twisted Tree 4).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-twistedtree-4.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "tree"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -4.32732,
+              -0.201475,
+              -7.142795
+            ],
+            "max": [
+              6.053492,
+              18.53676,
+              4.150291
+            ],
+            "size": [
+              10.380812,
+              18.738235,
+              11.293086
+            ],
+            "center": [
+              0.863086,
+              9.167643,
+              -1.496252
+            ],
+            "diagonal": 24.216038
+          },
+          "triangleCount": 9600,
+          "drawCallCount": 2,
+          "renderVertexCount": 28800,
+          "uploadVertexCount": 14576,
+          "meshCount": 1,
+          "primitiveCount": 2
+        },
+        "materials": {
+          "count": 2,
+          "alphaModes": [
+            "OPAQUE",
+            "MASK"
+          ],
+          "doubleSidedCount": 2
+        },
+        "textures": {
+          "count": 3,
+          "embeddedCount": 0,
+          "externalCount": 3,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-stylized-nature-megakit-gltf-twistedtree-5": {
+      "generatedAt": "2026-04-16T11:20:05.409Z",
+      "asset": {
+        "id": "quaternius-stylized-nature-megakit-gltf-twistedtree-5",
+        "name": "Twisted Tree 5",
+        "description": "Stylized tree model (Twisted Tree 5).",
+        "kind": "model",
+        "format": "gltf",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d/quaternius-stylized-nature-megakit-gltf-twistedtree-5.gltf",
+        "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+        "tags": [
+          "quaternius",
+          "nature",
+          "stylized",
+          "ghibli",
+          "low-poly",
+          "foliage",
+          "environment",
+          "prop",
+          "tree"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -3.746437,
+              -0.201475,
+              -6.338997
+            ],
+            "max": [
+              5.748275,
+              15.460701,
+              3.048032
+            ],
+            "size": [
+              9.494712,
+              15.662176,
+              9.387028
+            ],
+            "center": [
+              1.000919,
+              7.629613,
+              -1.645483
+            ],
+            "diagonal": 20.580807
+          },
+          "triangleCount": 10104,
+          "drawCallCount": 2,
+          "renderVertexCount": 30312,
+          "uploadVertexCount": 15647,
+          "meshCount": 1,
+          "primitiveCount": 2
+        },
+        "materials": {
+          "count": 2,
+          "alphaModes": [
+            "OPAQUE",
+            "MASK"
+          ],
+          "doubleSidedCount": 2
+        },
+        "textures": {
+          "count": 3,
+          "embeddedCount": 0,
+          "externalCount": 3,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    }
+  }
+}

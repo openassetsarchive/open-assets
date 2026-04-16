@@ -42,6 +42,30 @@
     "sourceRoot": "/Users/me/dev/open-assets/packs/kenney-puzzle-pack/source"
   },
   {
+    "id": "quaternius-cube-world-kit",
+    "name": "Quaternius Cube World Kit",
+    "description": "A blocky cube-world kit with characters, enemies, animals, blocks, tools, and environment pieces for voxel-style games.",
+    "creator": "Quaternius",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "publicBaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit"
+    ],
+    "generatedAt": "2026-04-16T11:20:04.960Z",
+    "assetCount": 107,
+    "discoveredCount": 107,
+    "failedCount": 0,
+    "sourceRoot": "/Users/me/dev/open-assets/packs/quaternius-cube-world-kit/source"
+  },
+  {
     "id": "quaternius-pirate-kit",
     "name": "Quaternius Pirate Kit",
     "description": "A pirate-themed pack with animated characters, environment pieces, ships, props, weapons, and UI models.",
@@ -62,5 +86,101 @@
     "discoveredCount": 72,
     "failedCount": 0,
     "sourceRoot": "/Users/me/dev/open-assets/packs/quaternius-pirate-kit/source"
+  },
+  {
+    "id": "quaternius-stylized-nature-megakit",
+    "name": "Quaternius Stylized Nature MegaKit",
+    "description": "A stylized nature pack with trees, bushes, flowers, rocks, pebbles, grass, and plants for whimsical outdoor scenes.",
+    "creator": "Quaternius",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://quaternius.com/packs/ultimatestylizednature.html",
+    "publicBaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-stylized-nature-megakit-5756c627a76d",
+    "tags": [
+      "quaternius",
+      "nature",
+      "stylized",
+      "ghibli",
+      "low-poly",
+      "foliage",
+      "environment"
+    ],
+    "generatedAt": "2026-04-16T11:20:05.409Z",
+    "assetCount": 68,
+    "discoveredCount": 68,
+    "failedCount": 0,
+    "sourceRoot": "/Users/me/dev/open-assets/packs/quaternius-stylized-nature-megakit/source"
+  },
+  {
+    "id": "quaternius-sushi-restaurant-kit",
+    "name": "Quaternius Sushi Restaurant Kit",
+    "description": "A sushi restaurant kit with animated chefs, interior environment pieces, decorations, and food props for restaurant or party games.",
+    "creator": "Quaternius",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://quaternius.com/packs/sushirestaurantkit.html",
+    "publicBaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420",
+    "tags": [
+      "quaternius",
+      "restaurant",
+      "sushi",
+      "food",
+      "stylized",
+      "low-poly",
+      "kit"
+    ],
+    "generatedAt": "2026-04-16T11:20:06.028Z",
+    "assetCount": 117,
+    "discoveredCount": 117,
+    "failedCount": 0,
+    "sourceRoot": "/Users/me/dev/open-assets/packs/quaternius-sushi-restaurant-kit/source"
+  },
+  {
+    "id": "quaternius-toon-shooter-game-kit",
+    "name": "Quaternius Toon Shooter Game Kit",
+    "description": "A cute low-poly shooter kit with animated characters, guns, environment props, barriers, and hazards for arcade or FPS games.",
+    "creator": "Quaternius",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://quaternius.com/packs/toonshootergamekit.html",
+    "publicBaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6",
+    "tags": [
+      "quaternius",
+      "shooter",
+      "low-poly",
+      "stylized",
+      "fps",
+      "animated",
+      "kit"
+    ],
+    "generatedAt": "2026-04-16T11:20:06.866Z",
+    "assetCount": 74,
+    "discoveredCount": 74,
+    "failedCount": 0,
+    "sourceRoot": "/Users/me/dev/open-assets/packs/quaternius-toon-shooter-game-kit/source"
+  },
+  {
+    "id": "quaternius-ultimate-space-kit",
+    "name": "Quaternius Ultimate Space Kit",
+    "description": "A huge space game kit with animated astronauts and enemies, planets, vegetation, vehicles, pickups, and sci-fi base pieces.",
+    "creator": "Quaternius",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
+    "publicBaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43",
+    "tags": [
+      "quaternius",
+      "space",
+      "sci-fi",
+      "stylized",
+      "low-poly",
+      "animated",
+      "kit"
+    ],
+    "generatedAt": "2026-04-16T11:20:07.276Z",
+    "assetCount": 92,
+    "discoveredCount": 92,
+    "failedCount": 0,
+    "sourceRoot": "/Users/me/dev/open-assets/packs/quaternius-ultimate-space-kit/source"
   }
 ]

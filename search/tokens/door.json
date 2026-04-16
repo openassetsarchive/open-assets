@@ -1,12 +1,15 @@
 {
   "version": 1,
   "token": "door",
-  "count": 5,
+  "count": 8,
   "assetIds": [
     "kenney-new-platformer-pack-sprites-tiles-door-closed",
     "kenney-new-platformer-pack-sprites-tiles-door-closed-top",
     "kenney-new-platformer-pack-sprites-tiles-door-open",
     "kenney-new-platformer-pack-sprites-tiles-door-open-top",
-    "kenney-new-platformer-pack-spritesheets-spritesheet-tiles"
+    "kenney-new-platformer-pack-spritesheets-spritesheet-tiles",
+    "quaternius-cube-world-kit-environment-gltf-door-closed",
+    "quaternius-sushi-restaurant-kit-environment-gltf-environment-counter-door",
+    "quaternius-sushi-restaurant-kit-environment-gltf-wall-door"
   ]
 }

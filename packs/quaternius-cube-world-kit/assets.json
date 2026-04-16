@@ -1,0 +1,6244 @@
+[
+  {
+    "id": "quaternius-cube-world-kit-animals-gltf-cat",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Cat",
+    "description": "Cube world animal model (Cat).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-animals-gltf-cat.gltf",
+    "bounds": {
+      "size": [
+        1.311152,
+        1.867059,
+        2.159461
+      ],
+      "diagonal": 3.141385
+    },
+    "triangleCount": 2464,
+    "drawCallCount": 1,
+    "renderVertexCount": 7392,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": true,
+    "animationCount": 8,
+    "animations": [
+      {
+        "name": "Death",
+        "durationSec": 0.9
+      },
+      {
+        "name": "Headbutt",
+        "durationSec": 0.633
+      },
+      {
+        "name": "Idle",
+        "durationSec": 6.667
+      },
+      {
+        "name": "Idle_Eating",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Jump_Loop",
+        "durationSec": 1
+      },
+      {
+        "name": "Jump_Start",
+        "durationSec": 0.267
+      },
+      {
+        "name": "Run",
+        "durationSec": 0.667
+      },
+      {
+        "name": "Walk",
+        "durationSec": 1
+      }
+    ],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 9,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "animal"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-animals-gltf-chick",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Chick",
+    "description": "Cube world animal model (Chick).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-animals-gltf-chick.gltf",
+    "bounds": {
+      "size": [
+        0.612562,
+        1.042462,
+        0.822624
+      ],
+      "diagonal": 1.462419
+    },
+    "triangleCount": 1944,
+    "drawCallCount": 1,
+    "renderVertexCount": 5832,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": true,
+    "animationCount": 5,
+    "animations": [
+      {
+        "name": "Attack",
+        "durationSec": 0.367
+      },
+      {
+        "name": "Death",
+        "durationSec": 0.3
+      },
+      {
+        "name": "Idle",
+        "durationSec": 2
+      },
+      {
+        "name": "Idle_Peck",
+        "durationSec": 2
+      },
+      {
+        "name": "Run",
+        "durationSec": 0.4
+      }
+    ],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 4,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "animal"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-animals-gltf-chicken",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Chicken",
+    "description": "Cube world animal model (Chicken).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-animals-gltf-chicken.gltf",
+    "bounds": {
+      "size": [
+        0.612562,
+        1.239465,
+        0.822624
+      ],
+      "diagonal": 1.608793
+    },
+    "triangleCount": 2160,
+    "drawCallCount": 1,
+    "renderVertexCount": 6480,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": true,
+    "animationCount": 5,
+    "animations": [
+      {
+        "name": "Attack",
+        "durationSec": 0.367
+      },
+      {
+        "name": "Death",
+        "durationSec": 0.3
+      },
+      {
+        "name": "Idle",
+        "durationSec": 2
+      },
+      {
+        "name": "Idle_Peck",
+        "durationSec": 2
+      },
+      {
+        "name": "Run",
+        "durationSec": 0.4
+      }
+    ],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 4,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "animal"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-animals-gltf-dog",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Dog",
+    "description": "Cube world animal model (Dog).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-animals-gltf-dog.gltf",
+    "bounds": {
+      "size": [
+        0.950076,
+        1.898315,
+        2.098257
+      ],
+      "diagonal": 2.984783
+    },
+    "triangleCount": 3604,
+    "drawCallCount": 1,
+    "renderVertexCount": 10812,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": true,
+    "animationCount": 8,
+    "animations": [
+      {
+        "name": "Death",
+        "durationSec": 0.9
+      },
+      {
+        "name": "Headbutt",
+        "durationSec": 0.633
+      },
+      {
+        "name": "Idle",
+        "durationSec": 6.667
+      },
+      {
+        "name": "Idle_Eating",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Jump_Loop",
+        "durationSec": 1
+      },
+      {
+        "name": "Jump_Start",
+        "durationSec": 0.267
+      },
+      {
+        "name": "Run",
+        "durationSec": 0.533
+      },
+      {
+        "name": "Walk",
+        "durationSec": 0.833
+      }
+    ],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 9,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "animal"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-animals-gltf-horse",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Horse",
+    "description": "Cube world animal model (Horse).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-animals-gltf-horse.gltf",
+    "bounds": {
+      "size": [
+        1.043595,
+        2.960741,
+        3.367508
+      ],
+      "diagonal": 4.603823
+    },
+    "triangleCount": 2652,
+    "drawCallCount": 1,
+    "renderVertexCount": 7956,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": true,
+    "animationCount": 8,
+    "animations": [
+      {
+        "name": "Death",
+        "durationSec": 0.9
+      },
+      {
+        "name": "Headbutt",
+        "durationSec": 0.633
+      },
+      {
+        "name": "Idle",
+        "durationSec": 6.667
+      },
+      {
+        "name": "Idle_Eating",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Jump_Loop",
+        "durationSec": 1
+      },
+      {
+        "name": "Jump_Start",
+        "durationSec": 0.267
+      },
+      {
+        "name": "Run",
+        "durationSec": 0.667
+      },
+      {
+        "name": "Walk",
+        "durationSec": 1
+      }
+    ],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 10,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "animal"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-animals-gltf-pig",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Pig",
+    "description": "Cube world animal model (Pig).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-animals-gltf-pig.gltf",
+    "bounds": {
+      "size": [
+        0.837843,
+        1.602701,
+        2.031545
+      ],
+      "diagonal": 2.719891
+    },
+    "triangleCount": 2840,
+    "drawCallCount": 1,
+    "renderVertexCount": 8520,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": true,
+    "animationCount": 8,
+    "animations": [
+      {
+        "name": "Death",
+        "durationSec": 0.9
+      },
+      {
+        "name": "Headbutt",
+        "durationSec": 0.633
+      },
+      {
+        "name": "Idle",
+        "durationSec": 6.667
+      },
+      {
+        "name": "Idle_Eating",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Jump_Loop",
+        "durationSec": 1
+      },
+      {
+        "name": "Jump_Start",
+        "durationSec": 0.267
+      },
+      {
+        "name": "Run",
+        "durationSec": 0.667
+      },
+      {
+        "name": "Walk",
+        "durationSec": 1
+      }
+    ],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 8,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "animal"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-animals-gltf-raccoon",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Raccoon",
+    "description": "Cube world animal model (Raccoon).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-animals-gltf-raccoon.gltf",
+    "bounds": {
+      "size": [
+        1.42457,
+        1.402054,
+        3.240726
+      ],
+      "diagonal": 3.807553
+    },
+    "triangleCount": 2876,
+    "drawCallCount": 1,
+    "renderVertexCount": 8628,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": true,
+    "animationCount": 8,
+    "animations": [
+      {
+        "name": "Death",
+        "durationSec": 0.9
+      },
+      {
+        "name": "Headbutt",
+        "durationSec": 0.633
+      },
+      {
+        "name": "Idle",
+        "durationSec": 6.667
+      },
+      {
+        "name": "Idle_Eating",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Jump_Loop",
+        "durationSec": 1
+      },
+      {
+        "name": "Jump_Start",
+        "durationSec": 0.267
+      },
+      {
+        "name": "Run",
+        "durationSec": 0.667
+      },
+      {
+        "name": "Walk",
+        "durationSec": 1
+      }
+    ],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 9,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "animal"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-animals-gltf-sheep",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Sheep",
+    "description": "Cube world animal model (Sheep).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-animals-gltf-sheep.gltf",
+    "bounds": {
+      "size": [
+        0.982184,
+        1.576568,
+        2.57698
+      ],
+      "diagonal": 3.176646
+    },
+    "triangleCount": 2528,
+    "drawCallCount": 1,
+    "renderVertexCount": 7584,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": true,
+    "animationCount": 8,
+    "animations": [
+      {
+        "name": "Death",
+        "durationSec": 0.9
+      },
+      {
+        "name": "Headbutt",
+        "durationSec": 0.633
+      },
+      {
+        "name": "Idle",
+        "durationSec": 6.667
+      },
+      {
+        "name": "Idle_Eating",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Jump_Loop",
+        "durationSec": 1
+      },
+      {
+        "name": "Jump_Start",
+        "durationSec": 0.267
+      },
+      {
+        "name": "Run",
+        "durationSec": 0.667
+      },
+      {
+        "name": "Walk",
+        "durationSec": 1
+      }
+    ],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 9,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "animal"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-animals-gltf-wolf",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Wolf",
+    "description": "Cube world animal model (Wolf).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-animals-gltf-wolf.gltf",
+    "bounds": {
+      "size": [
+        1.105411,
+        1.776002,
+        2.24272
+      ],
+      "diagonal": 3.066905
+    },
+    "triangleCount": 2740,
+    "drawCallCount": 1,
+    "renderVertexCount": 8220,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": true,
+    "animationCount": 8,
+    "animations": [
+      {
+        "name": "Death",
+        "durationSec": 0.9
+      },
+      {
+        "name": "Headbutt",
+        "durationSec": 0.633
+      },
+      {
+        "name": "Idle",
+        "durationSec": 6.667
+      },
+      {
+        "name": "Idle_Eating",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Jump_Loop",
+        "durationSec": 1
+      },
+      {
+        "name": "Jump_Start",
+        "durationSec": 0.267
+      },
+      {
+        "name": "Run",
+        "durationSec": 0.5
+      },
+      {
+        "name": "Walk",
+        "durationSec": 0.733
+      }
+    ],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 9,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "animal"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-blocks-gltf-block-blank",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Block Blank",
+    "description": "Cube world block model (Block Blank).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-blank.gltf",
+    "bounds": {
+      "size": [
+        2,
+        2,
+        2
+      ],
+      "diagonal": 3.464102
+    },
+    "triangleCount": 108,
+    "drawCallCount": 1,
+    "renderVertexCount": 324,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "block"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-blocks-gltf-block-brick",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Block Brick",
+    "description": "Cube world block model (Block Brick).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-brick.gltf",
+    "bounds": {
+      "size": [
+        1.969075,
+        1.979191,
+        1.969074
+      ],
+      "diagonal": 3.416388
+    },
+    "triangleCount": 540,
+    "drawCallCount": 1,
+    "renderVertexCount": 1620,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "block"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-blocks-gltf-block-cheese",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Block Cheese",
+    "description": "Cube world block model (Block Cheese).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-cheese.gltf",
+    "bounds": {
+      "size": [
+        1.870106,
+        1.870106,
+        1.870106
+      ],
+      "diagonal": 3.239119
+    },
+    "triangleCount": 968,
+    "drawCallCount": 1,
+    "renderVertexCount": 2904,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "block"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-blocks-gltf-block-coal",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Block Coal",
+    "description": "Cube world block model (Block Coal).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-coal.gltf",
+    "bounds": {
+      "size": [
+        2.244313,
+        2.244313,
+        2.244313
+      ],
+      "diagonal": 3.887264
+    },
+    "triangleCount": 624,
+    "drawCallCount": 1,
+    "renderVertexCount": 1872,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "block"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-blocks-gltf-block-crate",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Block Crate",
+    "description": "Cube world block model (Block Crate).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-crate.gltf",
+    "bounds": {
+      "size": [
+        2,
+        2,
+        2
+      ],
+      "diagonal": 3.464102
+    },
+    "triangleCount": 324,
+    "drawCallCount": 1,
+    "renderVertexCount": 972,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "block"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-blocks-gltf-block-crystal",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Block Crystal",
+    "description": "Cube world block model (Block Crystal).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-crystal.gltf",
+    "bounds": {
+      "size": [
+        2.201264,
+        2.201265,
+        2.201264
+      ],
+      "diagonal": 3.812702
+    },
+    "triangleCount": 1656,
+    "drawCallCount": 1,
+    "renderVertexCount": 4968,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "block"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-blocks-gltf-block-diamond",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Block Diamond",
+    "description": "Cube world block model (Block Diamond).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-diamond.gltf",
+    "bounds": {
+      "size": [
+        2.261546,
+        2.261546,
+        2.261546
+      ],
+      "diagonal": 3.917113
+    },
+    "triangleCount": 2388,
+    "drawCallCount": 1,
+    "renderVertexCount": 7164,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "block"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-blocks-gltf-block-dirt",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Block Dirt",
+    "description": "Cube world block model (Block Dirt).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-dirt.gltf",
+    "bounds": {
+      "size": [
+        2.000001,
+        2,
+        2.000001
+      ],
+      "diagonal": 3.464102
+    },
+    "triangleCount": 36,
+    "drawCallCount": 1,
+    "renderVertexCount": 108,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "block"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-blocks-gltf-block-grass",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Block Grass",
+    "description": "Cube world block model (Block Grass).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-grass.gltf",
+    "bounds": {
+      "size": [
+        2.000001,
+        2,
+        2.000001
+      ],
+      "diagonal": 3.464102
+    },
+    "triangleCount": 36,
+    "drawCallCount": 1,
+    "renderVertexCount": 108,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "block"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-blocks-gltf-block-greybricks",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Block Grey Bricks",
+    "description": "Cube world block model (Block Grey Bricks).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-greybricks.gltf",
+    "bounds": {
+      "size": [
+        2.008188,
+        2.020473,
+        2.027019
+      ],
+      "diagonal": 3.496275
+    },
+    "triangleCount": 1296,
+    "drawCallCount": 1,
+    "renderVertexCount": 3888,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "block"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-blocks-gltf-block-ice",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Block Ice",
+    "description": "Cube world block model (Block Ice).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-ice.gltf",
+    "bounds": {
+      "size": [
+        2.000001,
+        2,
+        2.000001
+      ],
+      "diagonal": 3.464102
+    },
+    "triangleCount": 36,
+    "drawCallCount": 1,
+    "renderVertexCount": 108,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "block"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-blocks-gltf-block-metal",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Block Metal",
+    "description": "Cube world block model (Block Metal).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-metal.gltf",
+    "bounds": {
+      "size": [
+        2.09292,
+        2.09292,
+        2.09292
+      ],
+      "diagonal": 3.625044
+    },
+    "triangleCount": 636,
+    "drawCallCount": 1,
+    "renderVertexCount": 1908,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "block"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-blocks-gltf-block-snow",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Block Snow",
+    "description": "Cube world block model (Block Snow).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-snow.gltf",
+    "bounds": {
+      "size": [
+        2.000001,
+        2,
+        2.000001
+      ],
+      "diagonal": 3.464102
+    },
+    "triangleCount": 36,
+    "drawCallCount": 1,
+    "renderVertexCount": 108,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "block"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-blocks-gltf-block-stone",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Block Stone",
+    "description": "Cube world block model (Block Stone).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-stone.gltf",
+    "bounds": {
+      "size": [
+        2,
+        2,
+        2
+      ],
+      "diagonal": 3.464102
+    },
+    "triangleCount": 12,
+    "drawCallCount": 1,
+    "renderVertexCount": 36,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "block"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-blocks-gltf-block-woodplanks",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Block Wood Planks",
+    "description": "Cube world block model (Block Wood Planks).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-woodplanks.gltf",
+    "bounds": {
+      "size": [
+        2,
+        2.000001,
+        2.000001
+      ],
+      "diagonal": 3.464102
+    },
+    "triangleCount": 628,
+    "drawCallCount": 1,
+    "renderVertexCount": 1884,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "block"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-characters-gltf-character-female-1",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Character Female 1",
+    "description": "Cube world character model (Character Female 1).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-characters-gltf-character-female-1.gltf",
+    "bounds": {
+      "size": [
+        2.891826,
+        2.658938,
+        1.331412
+      ],
+      "diagonal": 4.147923
+    },
+    "triangleCount": 3596,
+    "drawCallCount": 1,
+    "renderVertexCount": 10788,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": true,
+    "animationCount": 18,
+    "animations": [
+      {
+        "name": "Death",
+        "durationSec": 0.767
+      },
+      {
+        "name": "Duck",
+        "durationSec": 1.667
+      },
+      {
+        "name": "HitReact",
+        "durationSec": 0.6
+      },
+      {
+        "name": "Idle",
+        "durationSec": 1.667
+      },
+      {
+        "name": "Idle_Attack",
+        "durationSec": 0.5
+      },
+      {
+        "name": "Idle_Hold",
+        "durationSec": 1.667
+      },
+      {
+        "name": "Jump",
+        "durationSec": 0.367
+      },
+      {
+        "name": "Jump_Idle",
+        "durationSec": 0.5
+      },
+      {
+        "name": "Jump_Land",
+        "durationSec": 0.367
+      },
+      {
+        "name": "No",
+        "durationSec": 1.667
+      },
+      {
+        "name": "Punch",
+        "durationSec": 0.867
+      },
+      {
+        "name": "Run",
+        "durationSec": 0.567
+      },
+      {
+        "name": "Run_Attack",
+        "durationSec": 0.567
+      },
+      {
+        "name": "Run_Hold",
+        "durationSec": 0.567
+      },
+      {
+        "name": "Walk",
+        "durationSec": 1
+      },
+      {
+        "name": "Walk_Hold",
+        "durationSec": 1
+      },
+      {
+        "name": "Wave",
+        "durationSec": 1.667
+      },
+      {
+        "name": "Yes",
+        "durationSec": 1.667
+      }
+    ],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 23,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "character",
+      "animated"
+    ],
+    "aliases": [
+      "npc"
+    ],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-characters-gltf-character-female-2",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Character Female 2",
+    "description": "Cube world character model (Character Female 2).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-characters-gltf-character-female-2.gltf",
+    "bounds": {
+      "size": [
+        3.230726,
+        2.753303,
+        1.306688
+      ],
+      "diagonal": 4.441363
+    },
+    "triangleCount": 4928,
+    "drawCallCount": 1,
+    "renderVertexCount": 14784,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": true,
+    "animationCount": 18,
+    "animations": [
+      {
+        "name": "Death",
+        "durationSec": 0.767
+      },
+      {
+        "name": "Duck",
+        "durationSec": 1.667
+      },
+      {
+        "name": "HitReact",
+        "durationSec": 0.6
+      },
+      {
+        "name": "Idle",
+        "durationSec": 1.667
+      },
+      {
+        "name": "Idle_Attack",
+        "durationSec": 0.5
+      },
+      {
+        "name": "Idle_Hold",
+        "durationSec": 1.667
+      },
+      {
+        "name": "Jump",
+        "durationSec": 0.367
+      },
+      {
+        "name": "Jump_Idle",
+        "durationSec": 0.5
+      },
+      {
+        "name": "Jump_Land",
+        "durationSec": 0.367
+      },
+      {
+        "name": "No",
+        "durationSec": 1.667
+      },
+      {
+        "name": "Punch",
+        "durationSec": 0.867
+      },
+      {
+        "name": "Run",
+        "durationSec": 0.567
+      },
+      {
+        "name": "Run_Attack",
+        "durationSec": 0.567
+      },
+      {
+        "name": "Run_Hold",
+        "durationSec": 0.567
+      },
+      {
+        "name": "Walk",
+        "durationSec": 1
+      },
+      {
+        "name": "Walk_Hold",
+        "durationSec": 1
+      },
+      {
+        "name": "Wave",
+        "durationSec": 1.667
+      },
+      {
+        "name": "Yes",
+        "durationSec": 1.667
+      }
+    ],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 23,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "character",
+      "animated"
+    ],
+    "aliases": [
+      "npc"
+    ],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-characters-gltf-character-male-1",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Character Male 1",
+    "description": "Cube world character model (Character Male 1).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-characters-gltf-character-male-1.gltf",
+    "bounds": {
+      "size": [
+        2.891826,
+        2.836192,
+        1.141399
+      ],
+      "diagonal": 4.208258
+    },
+    "triangleCount": 3122,
+    "drawCallCount": 1,
+    "renderVertexCount": 9366,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": true,
+    "animationCount": 18,
+    "animations": [
+      {
+        "name": "Death",
+        "durationSec": 0.767
+      },
+      {
+        "name": "Duck",
+        "durationSec": 1.667
+      },
+      {
+        "name": "HitReact",
+        "durationSec": 0.6
+      },
+      {
+        "name": "Idle",
+        "durationSec": 1.667
+      },
+      {
+        "name": "Idle_Attack",
+        "durationSec": 0.5
+      },
+      {
+        "name": "Idle_Hold",
+        "durationSec": 1.667
+      },
+      {
+        "name": "Jump",
+        "durationSec": 0.367
+      },
+      {
+        "name": "Jump_Idle",
+        "durationSec": 0.5
+      },
+      {
+        "name": "Jump_Land",
+        "durationSec": 0.367
+      },
+      {
+        "name": "No",
+        "durationSec": 1.667
+      },
+      {
+        "name": "Punch",
+        "durationSec": 0.867
+      },
+      {
+        "name": "Run",
+        "durationSec": 0.567
+      },
+      {
+        "name": "Run_Attack",
+        "durationSec": 0.567
+      },
+      {
+        "name": "Run_Hold",
+        "durationSec": 0.567
+      },
+      {
+        "name": "Walk",
+        "durationSec": 1
+      },
+      {
+        "name": "Walk_Hold",
+        "durationSec": 1
+      },
+      {
+        "name": "Wave",
+        "durationSec": 1.667
+      },
+      {
+        "name": "Yes",
+        "durationSec": 1.667
+      }
+    ],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 23,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "character",
+      "animated"
+    ],
+    "aliases": [
+      "npc"
+    ],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-characters-gltf-character-male-2",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Character Male 2",
+    "description": "Cube world character model (Character Male 2).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-characters-gltf-character-male-2.gltf",
+    "bounds": {
+      "size": [
+        2.891826,
+        2.658938,
+        1.306761
+      ],
+      "diagonal": 4.140076
+    },
+    "triangleCount": 2632,
+    "drawCallCount": 1,
+    "renderVertexCount": 7896,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": true,
+    "animationCount": 18,
+    "animations": [
+      {
+        "name": "Death",
+        "durationSec": 0.767
+      },
+      {
+        "name": "Duck",
+        "durationSec": 1.667
+      },
+      {
+        "name": "HitReact",
+        "durationSec": 0.6
+      },
+      {
+        "name": "Idle",
+        "durationSec": 1.667
+      },
+      {
+        "name": "Idle_Attack",
+        "durationSec": 0.5
+      },
+      {
+        "name": "Idle_Hold",
+        "durationSec": 1.667
+      },
+      {
+        "name": "Jump",
+        "durationSec": 0.367
+      },
+      {
+        "name": "Jump_Idle",
+        "durationSec": 0.5
+      },
+      {
+        "name": "Jump_Land",
+        "durationSec": 0.367
+      },
+      {
+        "name": "No",
+        "durationSec": 1.667
+      },
+      {
+        "name": "Punch",
+        "durationSec": 0.867
+      },
+      {
+        "name": "Run",
+        "durationSec": 0.567
+      },
+      {
+        "name": "Run_Attack",
+        "durationSec": 0.567
+      },
+      {
+        "name": "Run_Hold",
+        "durationSec": 0.567
+      },
+      {
+        "name": "Walk",
+        "durationSec": 1
+      },
+      {
+        "name": "Walk_Hold",
+        "durationSec": 1
+      },
+      {
+        "name": "Wave",
+        "durationSec": 1.667
+      },
+      {
+        "name": "Yes",
+        "durationSec": 1.667
+      }
+    ],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 23,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "character",
+      "animated"
+    ],
+    "aliases": [
+      "npc"
+    ],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-enemies-gltf-demon",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Demon",
+    "description": "Cube world enemy model (Demon).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-enemies-gltf-demon.gltf",
+    "bounds": {
+      "size": [
+        3.260741,
+        2.728615,
+        1.097044
+      ],
+      "diagonal": 4.391045
+    },
+    "triangleCount": 3292,
+    "drawCallCount": 1,
+    "renderVertexCount": 9876,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": true,
+    "animationCount": 7,
+    "animations": [
+      {
+        "name": "Attack",
+        "durationSec": 0.5
+      },
+      {
+        "name": "Death",
+        "durationSec": 0.633
+      },
+      {
+        "name": "HitRecieve",
+        "durationSec": 0.233
+      },
+      {
+        "name": "Idle",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Jump",
+        "durationSec": 0.267
+      },
+      {
+        "name": "Run",
+        "durationSec": 0.667
+      },
+      {
+        "name": "Walk",
+        "durationSec": 2
+      }
+    ],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 7,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "enemy",
+      "animated"
+    ],
+    "aliases": [
+      "foe",
+      "hostile"
+    ],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-enemies-gltf-giant",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Giant",
+    "description": "Cube world enemy model (Giant).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-enemies-gltf-giant.gltf",
+    "bounds": {
+      "size": [
+        5.60484,
+        3.919713,
+        2.025229
+      ],
+      "diagonal": 7.133017
+    },
+    "triangleCount": 3812,
+    "drawCallCount": 1,
+    "renderVertexCount": 11436,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": true,
+    "animationCount": 7,
+    "animations": [
+      {
+        "name": "Attack",
+        "durationSec": 0.667
+      },
+      {
+        "name": "Death",
+        "durationSec": 0.833
+      },
+      {
+        "name": "HitRecieve",
+        "durationSec": 0.233
+      },
+      {
+        "name": "Idle",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Jump",
+        "durationSec": 0.267
+      },
+      {
+        "name": "Run",
+        "durationSec": 0.667
+      },
+      {
+        "name": "Walk",
+        "durationSec": 2
+      }
+    ],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 7,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "enemy",
+      "animated"
+    ],
+    "aliases": [
+      "foe",
+      "hostile"
+    ],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-enemies-gltf-goblin",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Goblin",
+    "description": "Cube world enemy model (Goblin).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-enemies-gltf-goblin.gltf",
+    "bounds": {
+      "size": [
+        3.260741,
+        2.983726,
+        1.187749
+      ],
+      "diagonal": 4.576658
+    },
+    "triangleCount": 2912,
+    "drawCallCount": 1,
+    "renderVertexCount": 8736,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": true,
+    "animationCount": 7,
+    "animations": [
+      {
+        "name": "Attack",
+        "durationSec": 0.5
+      },
+      {
+        "name": "Death",
+        "durationSec": 0.633
+      },
+      {
+        "name": "HitRecieve",
+        "durationSec": 0.233
+      },
+      {
+        "name": "Idle",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Jump",
+        "durationSec": 0.267
+      },
+      {
+        "name": "Run",
+        "durationSec": 0.667
+      },
+      {
+        "name": "Walk",
+        "durationSec": 2
+      }
+    ],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 7,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "enemy",
+      "animated"
+    ],
+    "aliases": [
+      "foe",
+      "hostile"
+    ],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-enemies-gltf-hedgehog",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Hedgehog",
+    "description": "Cube world enemy model (Hedgehog).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-enemies-gltf-hedgehog.gltf",
+    "bounds": {
+      "size": [
+        1.058093,
+        1.023388,
+        1.231261
+      ],
+      "diagonal": 1.919085
+    },
+    "triangleCount": 1472,
+    "drawCallCount": 1,
+    "renderVertexCount": 4416,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": true,
+    "animationCount": 3,
+    "animations": [
+      {
+        "name": "Attack",
+        "durationSec": 0.367
+      },
+      {
+        "name": "Death",
+        "durationSec": 0.233
+      },
+      {
+        "name": "Idle",
+        "durationSec": 0.333
+      }
+    ],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 2,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "enemy",
+      "animated"
+    ],
+    "aliases": [
+      "foe",
+      "hostile"
+    ],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-enemies-gltf-skeleton",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Skeleton",
+    "description": "Cube world enemy model (Skeleton).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-enemies-gltf-skeleton.gltf",
+    "bounds": {
+      "size": [
+        3.209752,
+        2.759036,
+        0.876452
+      ],
+      "diagonal": 4.322379
+    },
+    "triangleCount": 4394,
+    "drawCallCount": 1,
+    "renderVertexCount": 13182,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": true,
+    "animationCount": 7,
+    "animations": [
+      {
+        "name": "Attack",
+        "durationSec": 0.5
+      },
+      {
+        "name": "Death",
+        "durationSec": 0.633
+      },
+      {
+        "name": "HitRecieve",
+        "durationSec": 0.233
+      },
+      {
+        "name": "Idle",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Jump",
+        "durationSec": 0.267
+      },
+      {
+        "name": "Run",
+        "durationSec": 0.667
+      },
+      {
+        "name": "Walk",
+        "durationSec": 2
+      }
+    ],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 7,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "enemy",
+      "animated"
+    ],
+    "aliases": [
+      "foe",
+      "hostile"
+    ],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-enemies-gltf-skeleton-armor",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Skeleton Armor",
+    "description": "Cube world enemy model (Skeleton Armor).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-enemies-gltf-skeleton-armor.gltf",
+    "bounds": {
+      "size": [
+        3.209752,
+        3.074284,
+        1.676981
+      ],
+      "diagonal": 4.750368
+    },
+    "triangleCount": 6862,
+    "drawCallCount": 3,
+    "renderVertexCount": 20586,
+    "materialCount": 3,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": true,
+    "animationCount": 7,
+    "animations": [
+      {
+        "name": "Attack",
+        "durationSec": 0.5
+      },
+      {
+        "name": "Death",
+        "durationSec": 0.633
+      },
+      {
+        "name": "HitRecieve",
+        "durationSec": 0.233
+      },
+      {
+        "name": "Idle",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Jump",
+        "durationSec": 0.267
+      },
+      {
+        "name": "Run",
+        "durationSec": 0.667
+      },
+      {
+        "name": "Walk",
+        "durationSec": 2
+      }
+    ],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 7,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "enemy",
+      "animated"
+    ],
+    "aliases": [
+      "foe",
+      "hostile"
+    ],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-enemies-gltf-wizard",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Wizard",
+    "description": "Cube world enemy model (Wizard).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-enemies-gltf-wizard.gltf",
+    "bounds": {
+      "size": [
+        3.260741,
+        4.356152,
+        1.517168
+      ],
+      "diagonal": 5.64892
+    },
+    "triangleCount": 3776,
+    "drawCallCount": 1,
+    "renderVertexCount": 11328,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": true,
+    "animationCount": 7,
+    "animations": [
+      {
+        "name": "Attack",
+        "durationSec": 0.5
+      },
+      {
+        "name": "Death",
+        "durationSec": 0.633
+      },
+      {
+        "name": "HitRecieve",
+        "durationSec": 0.233
+      },
+      {
+        "name": "Idle",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Jump",
+        "durationSec": 0.267
+      },
+      {
+        "name": "Run",
+        "durationSec": 0.667
+      },
+      {
+        "name": "Walk",
+        "durationSec": 2
+      }
+    ],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 7,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "enemy",
+      "animated"
+    ],
+    "aliases": [
+      "foe",
+      "hostile"
+    ],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-enemies-gltf-yeti",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Yeti",
+    "description": "Cube world enemy model (Yeti).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-enemies-gltf-yeti.gltf",
+    "bounds": {
+      "size": [
+        5.10457,
+        3.147268,
+        2.051403
+      ],
+      "diagonal": 6.337995
+    },
+    "triangleCount": 3070,
+    "drawCallCount": 1,
+    "renderVertexCount": 9210,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": true,
+    "animationCount": 7,
+    "animations": [
+      {
+        "name": "Attack",
+        "durationSec": 0.667
+      },
+      {
+        "name": "Death",
+        "durationSec": 0.833
+      },
+      {
+        "name": "HitRecieve",
+        "durationSec": 0.233
+      },
+      {
+        "name": "Idle",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Jump",
+        "durationSec": 0.267
+      },
+      {
+        "name": "Run",
+        "durationSec": 0.667
+      },
+      {
+        "name": "Walk",
+        "durationSec": 2
+      }
+    ],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 7,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "enemy",
+      "animated"
+    ],
+    "aliases": [
+      "foe",
+      "hostile"
+    ],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-enemies-gltf-zombie",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Zombie",
+    "description": "Cube world enemy model (Zombie).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-enemies-gltf-zombie.gltf",
+    "bounds": {
+      "size": [
+        2.974734,
+        2.770293,
+        1.001123
+      ],
+      "diagonal": 4.186384
+    },
+    "triangleCount": 3550,
+    "drawCallCount": 1,
+    "renderVertexCount": 10650,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": true,
+    "animationCount": 7,
+    "animations": [
+      {
+        "name": "Attack",
+        "durationSec": 0.5
+      },
+      {
+        "name": "Death",
+        "durationSec": 0.633
+      },
+      {
+        "name": "HitRecieve",
+        "durationSec": 0.233
+      },
+      {
+        "name": "Idle",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Jump",
+        "durationSec": 0.267
+      },
+      {
+        "name": "Run",
+        "durationSec": 0.667
+      },
+      {
+        "name": "Walk",
+        "durationSec": 2
+      }
+    ],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 7,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "enemy",
+      "animated"
+    ],
+    "aliases": [
+      "foe",
+      "hostile"
+    ],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-environment-gltf-bamboo",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Bamboo",
+    "description": "Cube world environment model (Bamboo).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-bamboo.gltf",
+    "bounds": {
+      "size": [
+        1.455781,
+        4.440411,
+        1.547522
+      ],
+      "diagonal": 4.922537
+    },
+    "triangleCount": 1200,
+    "drawCallCount": 1,
+    "renderVertexCount": 3600,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-environment-gltf-bamboo-mid",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Bamboo Mid",
+    "description": "Cube world environment model (Bamboo Mid).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-bamboo-mid.gltf",
+    "bounds": {
+      "size": [
+        1.455781,
+        2.612247,
+        1.547522
+      ],
+      "diagonal": 3.367188
+    },
+    "triangleCount": 656,
+    "drawCallCount": 1,
+    "renderVertexCount": 1968,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-environment-gltf-bamboo-small",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Bamboo Small",
+    "description": "Cube world environment model (Bamboo Small).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-bamboo-small.gltf",
+    "bounds": {
+      "size": [
+        1.455781,
+        1.724164,
+        1.547522
+      ],
+      "diagonal": 2.736214
+    },
+    "triangleCount": 400,
+    "drawCallCount": 1,
+    "renderVertexCount": 1200,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-environment-gltf-bush",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Bush",
+    "description": "Cube world environment model (Bush).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-bush.gltf",
+    "bounds": {
+      "size": [
+        3.085658,
+        1.960065,
+        3.085658
+      ],
+      "diagonal": 4.783766
+    },
+    "triangleCount": 1728,
+    "drawCallCount": 1,
+    "renderVertexCount": 5184,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-environment-gltf-button",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Button",
+    "description": "Cube world environment model (Button).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-button.gltf",
+    "bounds": {
+      "size": [
+        1.32226,
+        0.615774,
+        1.32226
+      ],
+      "diagonal": 1.968736
+    },
+    "triangleCount": 174,
+    "drawCallCount": 1,
+    "renderVertexCount": 522,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-environment-gltf-cart",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Cart",
+    "description": "Cube world environment model (Cart).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-cart.gltf",
+    "bounds": {
+      "size": [
+        1.960193,
+        1.092813,
+        1.770839
+      ],
+      "diagonal": 2.858753
+    },
+    "triangleCount": 28,
+    "drawCallCount": 1,
+    "renderVertexCount": 84,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-environment-gltf-chest-closed",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Chest Closed",
+    "description": "Cube world environment model (Chest Closed).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-chest-closed.gltf",
+    "bounds": {
+      "size": [
+        1.836153,
+        1.905317,
+        1.991355
+      ],
+      "diagonal": 3.311673
+    },
+    "triangleCount": 2914,
+    "drawCallCount": 1,
+    "renderVertexCount": 8742,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-environment-gltf-chest-open",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Chest Open",
+    "description": "Cube world environment model (Chest Open).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-chest-open.gltf",
+    "bounds": {
+      "size": [
+        1.836153,
+        2.80277,
+        2.507048
+      ],
+      "diagonal": 4.184766
+    },
+    "triangleCount": 2914,
+    "drawCallCount": 1,
+    "renderVertexCount": 8742,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-environment-gltf-crystal-big",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Crystal Big",
+    "description": "Cube world environment model (Crystal Big).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-crystal-big.gltf",
+    "bounds": {
+      "size": [
+        1.502887,
+        1.656289,
+        1.515857
+      ],
+      "diagonal": 2.701811
+    },
+    "triangleCount": 150,
+    "drawCallCount": 1,
+    "renderVertexCount": 450,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-environment-gltf-crystal-small",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Crystal Small",
+    "description": "Cube world environment model (Crystal Small).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-crystal-small.gltf",
+    "bounds": {
+      "size": [
+        0.778967,
+        0.821332,
+        0.811013
+      ],
+      "diagonal": 1.392522
+    },
+    "triangleCount": 66,
+    "drawCallCount": 1,
+    "renderVertexCount": 198,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-environment-gltf-deadtree-1",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Dead Tree 1",
+    "description": "Cube world environment model (Dead Tree 1).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-deadtree-1.gltf",
+    "bounds": {
+      "size": [
+        4.332027,
+        4.996097,
+        1.377739
+      ],
+      "diagonal": 6.754673
+    },
+    "triangleCount": 194,
+    "drawCallCount": 1,
+    "renderVertexCount": 582,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-environment-gltf-deadtree-2",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Dead Tree 2",
+    "description": "Cube world environment model (Dead Tree 2).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-deadtree-2.gltf",
+    "bounds": {
+      "size": [
+        2.971122,
+        4.382412,
+        1.105447
+      ],
+      "diagonal": 5.408799
+    },
+    "triangleCount": 562,
+    "drawCallCount": 1,
+    "renderVertexCount": 1686,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-environment-gltf-deadtree-3",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Dead Tree 3",
+    "description": "Cube world environment model (Dead Tree 3).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-deadtree-3.gltf",
+    "bounds": {
+      "size": [
+        5.72017,
+        4.992485,
+        1.54885
+      ],
+      "diagonal": 7.748819
+    },
+    "triangleCount": 934,
+    "drawCallCount": 1,
+    "renderVertexCount": 2802,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-environment-gltf-door-closed",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Door Closed",
+    "description": "Cube world environment model (Door Closed).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-door-closed.gltf",
+    "bounds": {
+      "size": [
+        2,
+        4,
+        0.302331
+      ],
+      "diagonal": 4.482344
+    },
+    "triangleCount": 74,
+    "drawCallCount": 2,
+    "renderVertexCount": 222,
+    "materialCount": 2,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-environment-gltf-fence-center",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Fence Center",
+    "description": "Cube world environment model (Fence Center).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-fence-center.gltf",
+    "bounds": {
+      "size": [
+        2,
+        2,
+        0.581209
+      ],
+      "diagonal": 2.887525
+    },
+    "triangleCount": 100,
+    "drawCallCount": 1,
+    "renderVertexCount": 300,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-environment-gltf-fence-corner",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Fence Corner",
+    "description": "Cube world environment model (Fence Corner).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-fence-corner.gltf",
+    "bounds": {
+      "size": [
+        1.290604,
+        2,
+        1.290604
+      ],
+      "diagonal": 2.707641
+    },
+    "triangleCount": 102,
+    "drawCallCount": 1,
+    "renderVertexCount": 306,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-environment-gltf-fence-end",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Fence End",
+    "description": "Cube world environment model (Fence End).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-fence-end.gltf",
+    "bounds": {
+      "size": [
+        1.290604,
+        2,
+        0.581209
+      ],
+      "diagonal": 2.450196
+    },
+    "triangleCount": 82,
+    "drawCallCount": 1,
+    "renderVertexCount": 246,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-environment-gltf-fence-t",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Fence T",
+    "description": "Cube world environment model (Fence T).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-fence-t.gltf",
+    "bounds": {
+      "size": [
+        2,
+        2,
+        1.290604
+      ],
+      "diagonal": 3.108964
+    },
+    "triangleCount": 146,
+    "drawCallCount": 1,
+    "renderVertexCount": 438,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-environment-gltf-flowers-1",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Flowers 1",
+    "description": "Cube world environment model (Flowers 1).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-flowers-1.gltf",
+    "bounds": {
+      "size": [
+        1.928676,
+        1.026453,
+        1.829488
+      ],
+      "diagonal": 2.849635
+    },
+    "triangleCount": 1504,
+    "drawCallCount": 3,
+    "renderVertexCount": 4512,
+    "materialCount": 3,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-environment-gltf-flowers-2",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Flowers 2",
+    "description": "Cube world environment model (Flowers 2).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-flowers-2.gltf",
+    "bounds": {
+      "size": [
+        1.829715,
+        0.967835,
+        1.653602
+      ],
+      "diagonal": 2.649332
+    },
+    "triangleCount": 2080,
+    "drawCallCount": 1,
+    "renderVertexCount": 6240,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-environment-gltf-grass-big",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Grass Big",
+    "description": "Cube world environment model (Grass Big).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-grass-big.gltf",
+    "bounds": {
+      "size": [
+        0.775984,
+        1.044497,
+        0.710185
+      ],
+      "diagonal": 1.482393
+    },
+    "triangleCount": 264,
+    "drawCallCount": 1,
+    "renderVertexCount": 792,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-environment-gltf-grass-small",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Grass Small",
+    "description": "Cube world environment model (Grass Small).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-grass-small.gltf",
+    "bounds": {
+      "size": [
+        0.632667,
+        0.694125,
+        0.426505
+      ],
+      "diagonal": 1.031496
+    },
+    "triangleCount": 132,
+    "drawCallCount": 1,
+    "renderVertexCount": 396,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-environment-gltf-key",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Key",
+    "description": "Cube world environment model (Key).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-key.gltf",
+    "bounds": {
+      "size": [
+        1.930988,
+        0.981869,
+        0.317696
+      ],
+      "diagonal": 2.189455
+    },
+    "triangleCount": 472,
+    "drawCallCount": 1,
+    "renderVertexCount": 1416,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-environment-gltf-lever-left",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Lever Left",
+    "description": "Cube world environment model (Lever Left).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-lever-left.gltf",
+    "bounds": {
+      "size": [
+        1.973799,
+        1.297142,
+        1.32226
+      ],
+      "diagonal": 2.706812
+    },
+    "triangleCount": 488,
+    "drawCallCount": 1,
+    "renderVertexCount": 1464,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-environment-gltf-lever-right",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Lever Right",
+    "description": "Cube world environment model (Lever Right).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-lever-right.gltf",
+    "bounds": {
+      "size": [
+        1.973799,
+        1.297142,
+        1.32226
+      ],
+      "diagonal": 2.706812
+    },
+    "triangleCount": 488,
+    "drawCallCount": 1,
+    "renderVertexCount": 1464,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-environment-gltf-mushroom",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Mushroom",
+    "description": "Cube world environment model (Mushroom).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-mushroom.gltf",
+    "bounds": {
+      "size": [
+        1.804868,
+        1.134847,
+        1.619624
+      ],
+      "diagonal": 2.677426
+    },
+    "triangleCount": 1080,
+    "drawCallCount": 1,
+    "renderVertexCount": 3240,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-environment-gltf-plant-2",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Plant 2",
+    "description": "Cube world environment model (Plant 2).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-plant-2.gltf",
+    "bounds": {
+      "size": [
+        2.660381,
+        0.723542,
+        2.660381
+      ],
+      "diagonal": 3.831288
+    },
+    "triangleCount": 432,
+    "drawCallCount": 1,
+    "renderVertexCount": 1296,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-environment-gltf-plant-3",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Plant 3",
+    "description": "Cube world environment model (Plant 3).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-plant-3.gltf",
+    "bounds": {
+      "size": [
+        3.317297,
+        0.894866,
+        3.317297
+      ],
+      "diagonal": 4.775951
+    },
+    "triangleCount": 864,
+    "drawCallCount": 1,
+    "renderVertexCount": 2592,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-environment-gltf-rail-corner",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Rail Corner",
+    "description": "Cube world environment model (Rail Corner).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-rail-corner.gltf",
+    "bounds": {
+      "size": [
+        1.775204,
+        0.130472,
+        1.765646
+      ],
+      "diagonal": 2.507165
+    },
+    "triangleCount": 144,
+    "drawCallCount": 2,
+    "renderVertexCount": 432,
+    "materialCount": 2,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-environment-gltf-rail-incline",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Rail Incline",
+    "description": "Cube world environment model (Rail Incline).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-rail-incline.gltf",
+    "bounds": {
+      "size": [
+        2,
+        2.12156,
+        1.473845
+      ],
+      "diagonal": 3.266992
+    },
+    "triangleCount": 92,
+    "drawCallCount": 1,
+    "renderVertexCount": 276,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-environment-gltf-rail-straight",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Rail Straight",
+    "description": "Cube world environment model (Rail Straight).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-rail-straight.gltf",
+    "bounds": {
+      "size": [
+        2,
+        0.130472,
+        1.473845
+      ],
+      "diagonal": 2.487818
+    },
+    "triangleCount": 64,
+    "drawCallCount": 2,
+    "renderVertexCount": 192,
+    "materialCount": 2,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-environment-gltf-rock1",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Rock1",
+    "description": "Cube world environment model (Rock1).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-rock1.gltf",
+    "bounds": {
+      "size": [
+        0.933928,
+        0.504324,
+        0.902466
+      ],
+      "diagonal": 1.393201
+    },
+    "triangleCount": 108,
+    "drawCallCount": 1,
+    "renderVertexCount": 324,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-environment-gltf-rock2",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Rock2",
+    "description": "Cube world environment model (Rock2).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-rock2.gltf",
+    "bounds": {
+      "size": [
+        1.269242,
+        0.816294,
+        1.225222
+      ],
+      "diagonal": 1.943831
+    },
+    "triangleCount": 324,
+    "drawCallCount": 1,
+    "renderVertexCount": 972,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-environment-gltf-tree-1",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Tree 1",
+    "description": "Cube world environment model (Tree 1).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-tree-1.gltf",
+    "bounds": {
+      "size": [
+        6.114482,
+        6.080024,
+        4.237282
+      ],
+      "diagonal": 9.607712
+    },
+    "triangleCount": 1090,
+    "drawCallCount": 1,
+    "renderVertexCount": 3270,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-environment-gltf-tree-2",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Tree 2",
+    "description": "Cube world environment model (Tree 2).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-tree-2.gltf",
+    "bounds": {
+      "size": [
+        5.34656,
+        6.652941,
+        4.32364
+      ],
+      "diagonal": 9.567716
+    },
+    "triangleCount": 778,
+    "drawCallCount": 1,
+    "renderVertexCount": 2334,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-environment-gltf-tree-3",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Tree 3",
+    "description": "Cube world environment model (Tree 3).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-tree-3.gltf",
+    "bounds": {
+      "size": [
+        9.133852,
+        7.706252,
+        4.746564
+      ],
+      "diagonal": 12.858594
+    },
+    "triangleCount": 1136,
+    "drawCallCount": 1,
+    "renderVertexCount": 3408,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "environment"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-pixel-blocks-gltf-block-blank",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Block Blank",
+    "description": "Cube world pixel block model (Block Blank).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-block-blank.gltf",
+    "bounds": {
+      "size": [
+        2,
+        2,
+        2
+      ],
+      "diagonal": 3.464102
+    },
+    "triangleCount": 12,
+    "drawCallCount": 1,
+    "renderVertexCount": 36,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "block",
+      "pixel"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-pixel-blocks-gltf-block-square",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Block Square",
+    "description": "Cube world pixel block model (Block Square).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-block-square.gltf",
+    "bounds": {
+      "size": [
+        2,
+        2,
+        2
+      ],
+      "diagonal": 3.464102
+    },
+    "triangleCount": 12,
+    "drawCallCount": 1,
+    "renderVertexCount": 36,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "block",
+      "pixel"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-pixel-blocks-gltf-bricks-dark",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Bricks Dark",
+    "description": "Cube world pixel block model (Bricks Dark).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-dark.gltf",
+    "bounds": {
+      "size": [
+        2,
+        2,
+        2
+      ],
+      "diagonal": 3.464102
+    },
+    "triangleCount": 12,
+    "drawCallCount": 1,
+    "renderVertexCount": 36,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "block",
+      "pixel"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-pixel-blocks-gltf-bricks-grey",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Bricks Grey",
+    "description": "Cube world pixel block model (Bricks Grey).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-grey.gltf",
+    "bounds": {
+      "size": [
+        2,
+        2,
+        2
+      ],
+      "diagonal": 3.464102
+    },
+    "triangleCount": 12,
+    "drawCallCount": 1,
+    "renderVertexCount": 36,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "block",
+      "pixel"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-pixel-blocks-gltf-bricks-red",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Bricks Red",
+    "description": "Cube world pixel block model (Bricks Red).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-red.gltf",
+    "bounds": {
+      "size": [
+        2,
+        2,
+        2
+      ],
+      "diagonal": 3.464102
+    },
+    "triangleCount": 12,
+    "drawCallCount": 1,
+    "renderVertexCount": 36,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "block",
+      "pixel"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-pixel-blocks-gltf-bricks-yellow",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Bricks Yellow",
+    "description": "Cube world pixel block model (Bricks Yellow).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-yellow.gltf",
+    "bounds": {
+      "size": [
+        2,
+        2,
+        2
+      ],
+      "diagonal": 3.464102
+    },
+    "triangleCount": 12,
+    "drawCallCount": 1,
+    "renderVertexCount": 36,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "block",
+      "pixel"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-pixel-blocks-gltf-coal",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Coal",
+    "description": "Cube world pixel block model (Coal).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-coal.gltf",
+    "bounds": {
+      "size": [
+        2,
+        2,
+        2
+      ],
+      "diagonal": 3.464102
+    },
+    "triangleCount": 12,
+    "drawCallCount": 1,
+    "renderVertexCount": 36,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "block",
+      "pixel"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-pixel-blocks-gltf-diamond",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Diamond",
+    "description": "Cube world pixel block model (Diamond).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-diamond.gltf",
+    "bounds": {
+      "size": [
+        2,
+        2,
+        2
+      ],
+      "diagonal": 3.464102
+    },
+    "triangleCount": 12,
+    "drawCallCount": 1,
+    "renderVertexCount": 36,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "block",
+      "pixel"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-pixel-blocks-gltf-dirt",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Dirt",
+    "description": "Cube world pixel block model (Dirt).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-dirt.gltf",
+    "bounds": {
+      "size": [
+        2,
+        2,
+        2
+      ],
+      "diagonal": 3.464102
+    },
+    "triangleCount": 12,
+    "drawCallCount": 1,
+    "renderVertexCount": 36,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "block",
+      "pixel"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-pixel-blocks-gltf-exclamation",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Exclamation",
+    "description": "Cube world pixel block model (Exclamation).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-exclamation.gltf",
+    "bounds": {
+      "size": [
+        2,
+        2,
+        2
+      ],
+      "diagonal": 3.464102
+    },
+    "triangleCount": 12,
+    "drawCallCount": 1,
+    "renderVertexCount": 36,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "block",
+      "pixel"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-pixel-blocks-gltf-grass",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Grass",
+    "description": "Cube world pixel block model (Grass).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-grass.gltf",
+    "bounds": {
+      "size": [
+        2,
+        2,
+        2
+      ],
+      "diagonal": 3.464102
+    },
+    "triangleCount": 12,
+    "drawCallCount": 1,
+    "renderVertexCount": 36,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "block",
+      "pixel"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-pixel-blocks-gltf-ice",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Ice",
+    "description": "Cube world pixel block model (Ice).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-ice.gltf",
+    "bounds": {
+      "size": [
+        2,
+        2,
+        2
+      ],
+      "diagonal": 3.464102
+    },
+    "triangleCount": 12,
+    "drawCallCount": 1,
+    "renderVertexCount": 36,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "block",
+      "pixel"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-pixel-blocks-gltf-leaves",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Leaves",
+    "description": "Cube world pixel block model (Leaves).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-leaves.gltf",
+    "bounds": {
+      "size": [
+        2,
+        2,
+        2
+      ],
+      "diagonal": 3.464102
+    },
+    "triangleCount": 12,
+    "drawCallCount": 1,
+    "renderVertexCount": 36,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "block",
+      "pixel"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-pixel-blocks-gltf-questionmark",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Question Mark",
+    "description": "Cube world pixel block model (Question Mark).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-questionmark.gltf",
+    "bounds": {
+      "size": [
+        2,
+        2,
+        2
+      ],
+      "diagonal": 3.464102
+    },
+    "triangleCount": 12,
+    "drawCallCount": 1,
+    "renderVertexCount": 36,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "block",
+      "pixel"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-pixel-blocks-gltf-snow",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Snow",
+    "description": "Cube world pixel block model (Snow).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-snow.gltf",
+    "bounds": {
+      "size": [
+        2,
+        2,
+        2
+      ],
+      "diagonal": 3.464102
+    },
+    "triangleCount": 12,
+    "drawCallCount": 1,
+    "renderVertexCount": 36,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "block",
+      "pixel"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-pixel-blocks-gltf-stone",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Stone",
+    "description": "Cube world pixel block model (Stone).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-stone.gltf",
+    "bounds": {
+      "size": [
+        2,
+        2,
+        2
+      ],
+      "diagonal": 3.464102
+    },
+    "triangleCount": 12,
+    "drawCallCount": 1,
+    "renderVertexCount": 36,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "block",
+      "pixel"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-pixel-blocks-gltf-wood",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Wood",
+    "description": "Cube world pixel block model (Wood).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-wood.gltf",
+    "bounds": {
+      "size": [
+        2,
+        2,
+        2
+      ],
+      "diagonal": 3.464102
+    },
+    "triangleCount": 12,
+    "drawCallCount": 1,
+    "renderVertexCount": 36,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "block",
+      "pixel"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-pixel-blocks-gltf-woodplanks",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Wood Planks",
+    "description": "Cube world pixel block model (Wood Planks).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-woodplanks.gltf",
+    "bounds": {
+      "size": [
+        2,
+        2,
+        2
+      ],
+      "diagonal": 3.464102
+    },
+    "triangleCount": 12,
+    "drawCallCount": 1,
+    "renderVertexCount": 36,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "block",
+      "pixel"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-tools-gltf-axe-diamond",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Axe Diamond",
+    "description": "Cube world tool model (Axe Diamond).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-axe-diamond.gltf",
+    "bounds": {
+      "size": [
+        0.737686,
+        1.71362,
+        0.324278
+      ],
+      "diagonal": 1.893629
+    },
+    "triangleCount": 236,
+    "drawCallCount": 1,
+    "renderVertexCount": 708,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "tool",
+      "item"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-tools-gltf-axe-gold",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Axe Gold",
+    "description": "Cube world tool model (Axe Gold).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-axe-gold.gltf",
+    "bounds": {
+      "size": [
+        0.737686,
+        1.71362,
+        0.324278
+      ],
+      "diagonal": 1.893629
+    },
+    "triangleCount": 236,
+    "drawCallCount": 1,
+    "renderVertexCount": 708,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "tool",
+      "item"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-tools-gltf-axe-stone",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Axe Stone",
+    "description": "Cube world tool model (Axe Stone).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-axe-stone.gltf",
+    "bounds": {
+      "size": [
+        0.737686,
+        1.71362,
+        0.324278
+      ],
+      "diagonal": 1.893629
+    },
+    "triangleCount": 236,
+    "drawCallCount": 1,
+    "renderVertexCount": 708,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "tool",
+      "item"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-tools-gltf-axe-wood",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Axe Wood",
+    "description": "Cube world tool model (Axe Wood).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-axe-wood.gltf",
+    "bounds": {
+      "size": [
+        0.737686,
+        1.71362,
+        0.324278
+      ],
+      "diagonal": 1.893629
+    },
+    "triangleCount": 236,
+    "drawCallCount": 1,
+    "renderVertexCount": 708,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "tool",
+      "item"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-tools-gltf-pickaxe-diamond",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Pickaxe Diamond",
+    "description": "Cube world tool model (Pickaxe Diamond).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-pickaxe-diamond.gltf",
+    "bounds": {
+      "size": [
+        1.21656,
+        1.71362,
+        0.315379
+      ],
+      "diagonal": 2.125083
+    },
+    "triangleCount": 328,
+    "drawCallCount": 1,
+    "renderVertexCount": 984,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "tool",
+      "item"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-tools-gltf-pickaxe-gold",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Pickaxe Gold",
+    "description": "Cube world tool model (Pickaxe Gold).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-pickaxe-gold.gltf",
+    "bounds": {
+      "size": [
+        1.21656,
+        1.71362,
+        0.315379
+      ],
+      "diagonal": 2.125083
+    },
+    "triangleCount": 328,
+    "drawCallCount": 1,
+    "renderVertexCount": 984,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "tool",
+      "item"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-tools-gltf-pickaxe-stone",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Pickaxe Stone",
+    "description": "Cube world tool model (Pickaxe Stone).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-pickaxe-stone.gltf",
+    "bounds": {
+      "size": [
+        1.21656,
+        1.71362,
+        0.315379
+      ],
+      "diagonal": 2.125083
+    },
+    "triangleCount": 328,
+    "drawCallCount": 1,
+    "renderVertexCount": 984,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "tool",
+      "item"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-tools-gltf-pickaxe-wood",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Pickaxe Wood",
+    "description": "Cube world tool model (Pickaxe Wood).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-pickaxe-wood.gltf",
+    "bounds": {
+      "size": [
+        1.21656,
+        1.71362,
+        0.315379
+      ],
+      "diagonal": 2.125083
+    },
+    "triangleCount": 328,
+    "drawCallCount": 1,
+    "renderVertexCount": 984,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "tool",
+      "item"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-tools-gltf-shovel-diamond",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Shovel Diamond",
+    "description": "Cube world tool model (Shovel Diamond).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-shovel-diamond.gltf",
+    "bounds": {
+      "size": [
+        0.58395,
+        1.69459,
+        0.249914
+      ],
+      "diagonal": 1.809721
+    },
+    "triangleCount": 170,
+    "drawCallCount": 1,
+    "renderVertexCount": 510,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "tool",
+      "item"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-tools-gltf-shovel-gold",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Shovel Gold",
+    "description": "Cube world tool model (Shovel Gold).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-shovel-gold.gltf",
+    "bounds": {
+      "size": [
+        0.58395,
+        1.69459,
+        0.249914
+      ],
+      "diagonal": 1.809721
+    },
+    "triangleCount": 170,
+    "drawCallCount": 1,
+    "renderVertexCount": 510,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "tool",
+      "item"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-tools-gltf-shovel-stone",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Shovel Stone",
+    "description": "Cube world tool model (Shovel Stone).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-shovel-stone.gltf",
+    "bounds": {
+      "size": [
+        0.58395,
+        1.69459,
+        0.249914
+      ],
+      "diagonal": 1.809721
+    },
+    "triangleCount": 170,
+    "drawCallCount": 1,
+    "renderVertexCount": 510,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "tool",
+      "item"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-tools-gltf-shovel-wood",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Shovel Wood",
+    "description": "Cube world tool model (Shovel Wood).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-shovel-wood.gltf",
+    "bounds": {
+      "size": [
+        0.58395,
+        1.69459,
+        0.249914
+      ],
+      "diagonal": 1.809721
+    },
+    "triangleCount": 170,
+    "drawCallCount": 1,
+    "renderVertexCount": 510,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "tool",
+      "item"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-tools-gltf-sword-diamond",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Sword Diamond",
+    "description": "Cube world tool model (Sword Diamond).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-sword-diamond.gltf",
+    "bounds": {
+      "size": [
+        0.590149,
+        2.053362,
+        0.266668
+      ],
+      "diagonal": 2.153063
+    },
+    "triangleCount": 118,
+    "drawCallCount": 1,
+    "renderVertexCount": 354,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "tool",
+      "item"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-tools-gltf-sword-gold",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Sword Gold",
+    "description": "Cube world tool model (Sword Gold).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-sword-gold.gltf",
+    "bounds": {
+      "size": [
+        0.590149,
+        2.053362,
+        0.266668
+      ],
+      "diagonal": 2.153063
+    },
+    "triangleCount": 118,
+    "drawCallCount": 1,
+    "renderVertexCount": 354,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "tool",
+      "item"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-tools-gltf-sword-stone",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Sword Stone",
+    "description": "Cube world tool model (Sword Stone).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-sword-stone.gltf",
+    "bounds": {
+      "size": [
+        0.590149,
+        2.053362,
+        0.266668
+      ],
+      "diagonal": 2.153063
+    },
+    "triangleCount": 118,
+    "drawCallCount": 1,
+    "renderVertexCount": 354,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "tool",
+      "item"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-cube-world-kit-tools-gltf-sword-wood",
+    "packId": "quaternius-cube-world-kit",
+    "packName": "Quaternius Cube World Kit",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
+    "name": "Sword Wood",
+    "description": "Cube world tool model (Sword Wood).",
+    "kind": "model",
+    "format": "gltf",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-sword-wood.gltf",
+    "bounds": {
+      "size": [
+        0.590149,
+        2.053362,
+        0.266668
+      ],
+      "diagonal": 2.153063
+    },
+    "triangleCount": 118,
+    "drawCallCount": 1,
+    "renderVertexCount": 354,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "cube",
+      "voxel",
+      "blocky",
+      "stylized",
+      "low-poly",
+      "kit",
+      "tool",
+      "item"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  }
+]

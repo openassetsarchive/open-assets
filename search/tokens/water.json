@@ -1,11 +1,13 @@
 {
   "version": 1,
   "token": "water",
-  "count": 4,
+  "count": 6,
   "assetIds": [
     "kenney-new-platformer-pack-sprites-tiles-water",
     "kenney-new-platformer-pack-sprites-tiles-water-top",
     "kenney-new-platformer-pack-sprites-tiles-water-top-low",
-    "kenney-new-platformer-pack-spritesheets-spritesheet-tiles"
+    "kenney-new-platformer-pack-spritesheets-spritesheet-tiles",
+    "quaternius-toon-shooter-game-kit-environment-gltf-watertank-floor",
+    "quaternius-toon-shooter-game-kit-environment-gltf-watertank-platform"
   ]
 }
