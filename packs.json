@@ -20,6 +20,26 @@
     "sourceRoot": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source"
   },
   {
+    "id": "kenney-puzzle-pack",
+    "name": "Kenney Puzzle Pack",
+    "description": "2D puzzle sprites, tiles, particles, pipes, paddles, balls, and atlas sheets from Kenney.",
+    "creator": "Kenney",
+    "license": "CC0",
+    "homepage": "https://kenney.nl/assets/puzzle-pack",
+    "publicBaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-e2553fa355c2",
+    "tags": [
+      "puzzle",
+      "2d",
+      "kenney",
+      "stylized"
+    ],
+    "generatedAt": "2026-04-16T09:37:49.872Z",
+    "assetCount": 809,
+    "discoveredCount": null,
+    "failedCount": 0,
+    "sourceRoot": "/Users/me/dev/open-assets/packs/kenney-puzzle-pack/source"
+  },
+  {
     "id": "quaternius-pirate-kit",
     "name": "Quaternius Pirate Kit",
     "description": "A pirate-themed pack with animated characters, environment pieces, ships, props, weapons, and UI models.",

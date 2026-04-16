@@ -1,8 +1,17 @@
 {
   "version": 1,
   "kind": "tileset",
-  "count": 1,
+  "count": 10,
   "assetIds": [
-    "kenney-new-platformer-pack-spritesheets-spritesheet-tiles"
+    "kenney-new-platformer-pack-spritesheets-spritesheet-tiles",
+    "kenney-puzzle-pack-spritesheet-spritesheet-backtiles",
+    "kenney-puzzle-pack-spritesheet-spritesheet-tilesblack",
+    "kenney-puzzle-pack-spritesheet-spritesheet-tilesblue",
+    "kenney-puzzle-pack-spritesheet-spritesheet-tilesgreen",
+    "kenney-puzzle-pack-spritesheet-spritesheet-tilesgrey",
+    "kenney-puzzle-pack-spritesheet-spritesheet-tilesoranges",
+    "kenney-puzzle-pack-spritesheet-spritesheet-tilespink",
+    "kenney-puzzle-pack-spritesheet-spritesheet-tilesred",
+    "kenney-puzzle-pack-spritesheet-spritesheet-tilesyellow"
   ]
 }

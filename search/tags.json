@@ -1,7 +1,7 @@
 [
   {
     "tag": "2d",
-    "count": 437
+    "count": 1246
   },
   {
     "tag": "animated",
@@ -9,15 +9,39 @@
   },
   {
     "tag": "atlas",
-    "count": 4
+    "count": 18
+  },
+  {
+    "tag": "back-tile",
+    "count": 18
   },
   {
     "tag": "background",
-    "count": 15
+    "count": 34
+  },
+  {
+    "tag": "ball",
+    "count": 41
+  },
+  {
+    "tag": "black",
+    "count": 10
+  },
+  {
+    "tag": "blue",
+    "count": 10
   },
   {
     "tag": "character",
     "count": 55
+  },
+  {
+    "tag": "coin",
+    "count": 41
+  },
+  {
+    "tag": "effect",
+    "count": 22
   },
   {
     "tag": "enemy",
@@ -28,12 +52,20 @@
     "count": 21
   },
   {
+    "tag": "green",
+    "count": 44
+  },
+  {
+    "tag": "grey",
+    "count": 54
+  },
+  {
     "tag": "icon",
     "count": 12
   },
   {
     "tag": "kenney",
-    "count": 437
+    "count": 1246
   },
   {
     "tag": "kit",
@@ -42,6 +74,34 @@
   {
     "tag": "low-poly",
     "count": 72
+  },
+  {
+    "tag": "paddle",
+    "count": 13
+  },
+  {
+    "tag": "particle",
+    "count": 22
+  },
+  {
+    "tag": "particles-blue",
+    "count": 7
+  },
+  {
+    "tag": "particles-white",
+    "count": 7
+  },
+  {
+    "tag": "particles-yellow",
+    "count": 7
+  },
+  {
+    "tag": "pickup",
+    "count": 41
+  },
+  {
+    "tag": "pipe",
+    "count": 89
   },
   {
     "tag": "pirate",
@@ -60,6 +120,10 @@
     "count": 16
   },
   {
+    "tag": "puzzle",
+    "count": 809
+  },
+  {
     "tag": "quaternius",
     "count": 72
   },
@@ -69,11 +133,43 @@
   },
   {
     "tag": "stylized",
-    "count": 509
+    "count": 1318
   },
   {
     "tag": "tile",
-    "count": 315
+    "count": 918
+  },
+  {
+    "tag": "tiles-black",
+    "count": 72
+  },
+  {
+    "tag": "tiles-blue",
+    "count": 72
+  },
+  {
+    "tag": "tiles-green",
+    "count": 72
+  },
+  {
+    "tag": "tiles-grey",
+    "count": 72
+  },
+  {
+    "tag": "tiles-orange",
+    "count": 72
+  },
+  {
+    "tag": "tiles-pink",
+    "count": 72
+  },
+  {
+    "tag": "tiles-red",
+    "count": 72
+  },
+  {
+    "tag": "tiles-yellow",
+    "count": 72
   },
   {
     "tag": "ui",
@@ -86,5 +182,9 @@
   {
     "tag": "weapon",
     "count": 11
+  },
+  {
+    "tag": "yellow",
+    "count": 10
   }
 ]

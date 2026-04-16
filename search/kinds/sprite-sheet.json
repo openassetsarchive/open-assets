@@ -1,10 +1,15 @@
 {
   "version": 1,
   "kind": "sprite-sheet",
-  "count": 3,
+  "count": 8,
   "assetIds": [
     "kenney-new-platformer-pack-spritesheets-spritesheet-backgrounds",
     "kenney-new-platformer-pack-spritesheets-spritesheet-characters",
-    "kenney-new-platformer-pack-spritesheets-spritesheet-enemies"
+    "kenney-new-platformer-pack-spritesheets-spritesheet-enemies",
+    "kenney-puzzle-pack-spritesheet-spritesheet-balls",
+    "kenney-puzzle-pack-spritesheet-spritesheet-coins",
+    "kenney-puzzle-pack-spritesheet-spritesheet-paddles",
+    "kenney-puzzle-pack-spritesheet-spritesheet-particles",
+    "kenney-puzzle-pack-spritesheet-spritesheet-pipes"
   ]
 }
