@@ -63,6 +63,10 @@ Search by tag:
 
 - `https://raw.githubusercontent.com/openassetsarchive/open-assets/main/search/tags/<tag>.json`
 
+Search packs by tag:
+
+- `https://raw.githubusercontent.com/openassetsarchive/open-assets/main/search/pack-tags/<tag>.json`
+
 Search by kind:
 
 - `https://raw.githubusercontent.com/openassetsarchive/open-assets/main/search/kinds/<kind>.json`
@@ -81,6 +85,13 @@ Example:
 4. intersect the returned `assetIds`
 5. use `asset-locations.json` to map each `assetId` to its pack
 6. fetch `packs/<packId>/details.json`
+
+To search packs by multiple tags:
+
+1. fetch `search/pack-tags/pirate.json`
+2. fetch `search/pack-tags/stylized.json`
+3. intersect the returned `packIds`
+4. resolve pack metadata from `packs.json`
 
 Supported kinds today:
 
