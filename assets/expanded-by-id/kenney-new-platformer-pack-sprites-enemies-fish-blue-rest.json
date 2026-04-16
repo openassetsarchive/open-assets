@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T07:37:18.383Z",
+  "pack": {
+    "id": "kenney-new-platformer-pack",
+    "name": "Kenney New Platformer Pack",
+    "creator": "Kenney",
+    "license": "CC0",
+    "tags": [
+      "platformer",
+      "2d",
+      "kenney",
+      "stylized"
+    ]
+  },
+  "asset": {
+    "id": "kenney-new-platformer-pack-sprites-enemies-fish-blue-rest",
+    "name": "Fish Blue Rest",
+    "description": "Platformer enemy sprite (Fish Blue Rest).",
+    "kind": "sprite",
+    "format": "png",
+    "relativePath": "Sprites/Enemies/Double/fish_blue_rest.png",
+    "canonicalRelativePath": "Sprites/Enemies/fish_blue_rest.png",
+    "fileName": "fish_blue_rest.png",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-new-platformer-pack-bee3e21a5a86/kenney-new-platformer-pack-sprites-enemies-fish-blue-rest.png",
+    "file": {
+      "primaryBytes": 3711,
+      "totalBytes": 3711,
+      "primarySha256": "890d849d37eb4cfadb51f3328e221cae06785ea0b3dc61c2fc7465d8c3c39409",
+      "bundleSha256": "3188d15b1ea204878511f6caae071c74990bc848ecbdb6007d1f757569d25e1b",
+      "resourceCount": 1
+    },
+    "geometry": {
+      "bounds": {
+        "min": [
+          0,
+          0,
+          0
+        ],
+        "max": [
+          128,
+          128,
+          0
+        ],
+        "size": [
+          128,
+          128,
+          0
+        ],
+        "center": [
+          64,
+          64,
+          0
+        ],
+        "diagonal": 181.019336
+      },
+      "triangleCount": null,
+      "drawCallCount": null,
+      "renderVertexCount": null,
+      "uploadVertexCount": null
+    },
+    "structure": {
+      "materialCount": 0,
+      "textureCount": 1,
+      "animationCount": 0,
+      "frameCount": 1
+    },
+    "image": {
+      "width": 128,
+      "height": 128,
+      "bitDepth": 8,
+      "colorType": 3,
+      "hasAlpha": false,
+      "pixelArea": 16384
+    },
+    "atlas": null,
+    "materials": [],
+    "textures": [
+      {
+        "name": "fish_blue_rest.png",
+        "uri": "fish_blue_rest.png",
+        "mimeType": "image/png",
+        "width": 128,
+        "height": 128,
+        "byteSize": 3711,
+        "gpuByteSize": null,
+        "compression": null,
+        "slots": [
+          "diffuse"
+        ],
+        "embedded": false
+      }
+    ],
+    "animations": [],
+    "skins": [],
+    "resources": [
+      {
+        "kind": "image",
+        "uri": "fish_blue_rest.png",
+        "relativePath": "Sprites/Enemies/Double/fish_blue_rest.png",
+        "bytes": 3711,
+        "sha256": "890d849d37eb4cfadb51f3328e221cae06785ea0b3dc61c2fc7465d8c3c39409",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      }
+    ],
+    "source": {
+      "inputRoot": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source",
+      "absolutePath": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source/Sprites/Enemies/Double/fish_blue_rest.png",
+      "companionAbsolutePath": null
+    },
+    "metadata": {
+      "variant": "double",
+      "extensions": {
+        "used": [],
+        "required": []
+      }
+    },
+    "search": {
+      "tags": [
+        "platformer",
+        "2d",
+        "kenney",
+        "stylized",
+        "enemy"
+      ],
+      "aliases": [],
+      "tokens": [
+        "2d",
+        "backgrounds",
+        "blue",
+        "characters",
+        "enemies",
+        "enemy",
+        "fish",
+        "kenney",
+        "new",
+        "platformer",
+        "rest",
+        "stylized"
+      ]
+    },
+    "warnings": [],
+    "errors": []
+  }
+}

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-04-16T06:37:50.285Z",
+  "generatedAt": "2026-04-16T07:45:57.775Z",
   "inputDir": "/Users/me/dev/open-assets/generated/packs",
-  "catalogSha256": "76cba750b9916a5dc77364ce5277d28efc4ecf2fc4832e8f04626b5e70120e84",
+  "catalogSha256": "455839c462ea7db2353e50093b40ecc1c2785088bb4b44dd5ef9689d26103ea3",
   "copyDetails": true,
   "counts": {
-    "packs": 1,
-    "assets": 72,
-    "tokens": 94,
-    "tags": 15,
-    "kinds": 1,
-    "formats": 1
+    "packs": 2,
+    "assets": 509,
+    "tokens": 225,
+    "tags": 22,
+    "kinds": 4,
+    "formats": 2
   },
   "files": {
     "packs": "packs.json",

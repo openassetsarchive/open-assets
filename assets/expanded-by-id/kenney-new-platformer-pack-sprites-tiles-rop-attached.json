@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T07:37:18.383Z",
+  "pack": {
+    "id": "kenney-new-platformer-pack",
+    "name": "Kenney New Platformer Pack",
+    "creator": "Kenney",
+    "license": "CC0",
+    "tags": [
+      "platformer",
+      "2d",
+      "kenney",
+      "stylized"
+    ]
+  },
+  "asset": {
+    "id": "kenney-new-platformer-pack-sprites-tiles-rop-attached",
+    "name": "Rop Attached",
+    "description": "Platformer tile sprite (Rop Attached).",
+    "kind": "sprite",
+    "format": "png",
+    "relativePath": "Sprites/Tiles/Double/rop_attached.png",
+    "canonicalRelativePath": "Sprites/Tiles/rop_attached.png",
+    "fileName": "rop_attached.png",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-new-platformer-pack-bee3e21a5a86/kenney-new-platformer-pack-sprites-tiles-rop-attached.png",
+    "file": {
+      "primaryBytes": 1351,
+      "totalBytes": 1351,
+      "primarySha256": "4b039df8e13a711a19567c801502b3a1be4b36e47fcdeb5b6f4929971f968415",
+      "bundleSha256": "1f7229c731d17b64be09954763db8301d002b68681a7a44386adccfc2723b1e9",
+      "resourceCount": 1
+    },
+    "geometry": {
+      "bounds": {
+        "min": [
+          0,
+          0,
+          0
+        ],
+        "max": [
+          128,
+          128,
+          0
+        ],
+        "size": [
+          128,
+          128,
+          0
+        ],
+        "center": [
+          64,
+          64,
+          0
+        ],
+        "diagonal": 181.019336
+      },
+      "triangleCount": null,
+      "drawCallCount": null,
+      "renderVertexCount": null,
+      "uploadVertexCount": null
+    },
+    "structure": {
+      "materialCount": 0,
+      "textureCount": 1,
+      "animationCount": 0,
+      "frameCount": 1
+    },
+    "image": {
+      "width": 128,
+      "height": 128,
+      "bitDepth": 8,
+      "colorType": 3,
+      "hasAlpha": false,
+      "pixelArea": 16384
+    },
+    "atlas": null,
+    "materials": [],
+    "textures": [
+      {
+        "name": "rop_attached.png",
+        "uri": "rop_attached.png",
+        "mimeType": "image/png",
+        "width": 128,
+        "height": 128,
+        "byteSize": 1351,
+        "gpuByteSize": null,
+        "compression": null,
+        "slots": [
+          "diffuse"
+        ],
+        "embedded": false
+      }
+    ],
+    "animations": [],
+    "skins": [],
+    "resources": [
+      {
+        "kind": "image",
+        "uri": "rop_attached.png",
+        "relativePath": "Sprites/Tiles/Double/rop_attached.png",
+        "bytes": 1351,
+        "sha256": "4b039df8e13a711a19567c801502b3a1be4b36e47fcdeb5b6f4929971f968415",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      }
+    ],
+    "source": {
+      "inputRoot": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source",
+      "absolutePath": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source/Sprites/Tiles/Double/rop_attached.png",
+      "companionAbsolutePath": null
+    },
+    "metadata": {
+      "variant": "double",
+      "extensions": {
+        "used": [],
+        "required": []
+      }
+    },
+    "search": {
+      "tags": [
+        "platformer",
+        "2d",
+        "kenney",
+        "stylized",
+        "tile"
+      ],
+      "aliases": [],
+      "tokens": [
+        "2d",
+        "attached",
+        "backgrounds",
+        "characters",
+        "enemies",
+        "kenney",
+        "new",
+        "platformer",
+        "rop",
+        "stylized"
+      ]
+    },
+    "warnings": [],
+    "errors": []
+  }
+}

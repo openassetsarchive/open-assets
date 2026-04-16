@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T07:37:18.383Z",
+  "pack": {
+    "id": "kenney-new-platformer-pack",
+    "name": "Kenney New Platformer Pack",
+    "creator": "Kenney",
+    "license": "CC0",
+    "tags": [
+      "platformer",
+      "2d",
+      "kenney",
+      "stylized"
+    ]
+  },
+  "asset": {
+    "id": "kenney-new-platformer-pack-sprites-characters-character-green-walk-b",
+    "name": "Character Green Walk B",
+    "description": "Platformer character sprite (Character Green Walk B).",
+    "kind": "sprite",
+    "format": "png",
+    "relativePath": "Sprites/Characters/Double/character_green_walk_b.png",
+    "canonicalRelativePath": "Sprites/Characters/character_green_walk_b.png",
+    "fileName": "character_green_walk_b.png",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-new-platformer-pack-bee3e21a5a86/kenney-new-platformer-pack-sprites-characters-character-green-walk-b.png",
+    "file": {
+      "primaryBytes": 6201,
+      "totalBytes": 6201,
+      "primarySha256": "1aeb86940527f16ffe2cc1af2a20a3f51c3f51d487730b1e0aaeb2b3325606a2",
+      "bundleSha256": "c416b838d2b2ffa5b6175c3bcf54354174f2a7ccae78b43bd66b6e8a60f2355c",
+      "resourceCount": 1
+    },
+    "geometry": {
+      "bounds": {
+        "min": [
+          0,
+          0,
+          0
+        ],
+        "max": [
+          256,
+          256,
+          0
+        ],
+        "size": [
+          256,
+          256,
+          0
+        ],
+        "center": [
+          128,
+          128,
+          0
+        ],
+        "diagonal": 362.038672
+      },
+      "triangleCount": null,
+      "drawCallCount": null,
+      "renderVertexCount": null,
+      "uploadVertexCount": null
+    },
+    "structure": {
+      "materialCount": 0,
+      "textureCount": 1,
+      "animationCount": 0,
+      "frameCount": 1
+    },
+    "image": {
+      "width": 256,
+      "height": 256,
+      "bitDepth": 8,
+      "colorType": 3,
+      "hasAlpha": false,
+      "pixelArea": 65536
+    },
+    "atlas": null,
+    "materials": [],
+    "textures": [
+      {
+        "name": "character_green_walk_b.png",
+        "uri": "character_green_walk_b.png",
+        "mimeType": "image/png",
+        "width": 256,
+        "height": 256,
+        "byteSize": 6201,
+        "gpuByteSize": null,
+        "compression": null,
+        "slots": [
+          "diffuse"
+        ],
+        "embedded": false
+      }
+    ],
+    "animations": [],
+    "skins": [],
+    "resources": [
+      {
+        "kind": "image",
+        "uri": "character_green_walk_b.png",
+        "relativePath": "Sprites/Characters/Double/character_green_walk_b.png",
+        "bytes": 6201,
+        "sha256": "1aeb86940527f16ffe2cc1af2a20a3f51c3f51d487730b1e0aaeb2b3325606a2",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      }
+    ],
+    "source": {
+      "inputRoot": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source",
+      "absolutePath": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source/Sprites/Characters/Double/character_green_walk_b.png",
+      "companionAbsolutePath": null
+    },
+    "metadata": {
+      "variant": "double",
+      "extensions": {
+        "used": [],
+        "required": []
+      }
+    },
+    "search": {
+      "tags": [
+        "platformer",
+        "2d",
+        "kenney",
+        "stylized",
+        "character",
+        "player"
+      ],
+      "aliases": [],
+      "tokens": [
+        "2d",
+        "backgrounds",
+        "character",
+        "characters",
+        "enemies",
+        "green",
+        "kenney",
+        "new",
+        "platformer",
+        "player",
+        "stylized",
+        "walk"
+      ]
+    },
+    "warnings": [],
+    "errors": []
+  }
+}

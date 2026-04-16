@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T07:37:18.383Z",
+  "pack": {
+    "id": "kenney-new-platformer-pack",
+    "name": "Kenney New Platformer Pack",
+    "creator": "Kenney",
+    "license": "CC0",
+    "tags": [
+      "platformer",
+      "2d",
+      "kenney",
+      "stylized"
+    ]
+  },
+  "asset": {
+    "id": "kenney-new-platformer-pack-sprites-enemies-fish-blue-swim-b",
+    "name": "Fish Blue Swim B",
+    "description": "Platformer enemy sprite (Fish Blue Swim B).",
+    "kind": "sprite",
+    "format": "png",
+    "relativePath": "Sprites/Enemies/Double/fish_blue_swim_b.png",
+    "canonicalRelativePath": "Sprites/Enemies/fish_blue_swim_b.png",
+    "fileName": "fish_blue_swim_b.png",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-new-platformer-pack-bee3e21a5a86/kenney-new-platformer-pack-sprites-enemies-fish-blue-swim-b.png",
+    "file": {
+      "primaryBytes": 3380,
+      "totalBytes": 3380,
+      "primarySha256": "ff6c07804a70a1b1e1dd0d123c0f2b4c59f80b8a0d21df56673efabb1bd19f01",
+      "bundleSha256": "880faaf00b00c5161905f06dd4817fec67e79fed2c60404250c81c0f802bba50",
+      "resourceCount": 1
+    },
+    "geometry": {
+      "bounds": {
+        "min": [
+          0,
+          0,
+          0
+        ],
+        "max": [
+          128,
+          128,
+          0
+        ],
+        "size": [
+          128,
+          128,
+          0
+        ],
+        "center": [
+          64,
+          64,
+          0
+        ],
+        "diagonal": 181.019336
+      },
+      "triangleCount": null,
+      "drawCallCount": null,
+      "renderVertexCount": null,
+      "uploadVertexCount": null
+    },
+    "structure": {
+      "materialCount": 0,
+      "textureCount": 1,
+      "animationCount": 0,
+      "frameCount": 1
+    },
+    "image": {
+      "width": 128,
+      "height": 128,
+      "bitDepth": 8,
+      "colorType": 3,
+      "hasAlpha": false,
+      "pixelArea": 16384
+    },
+    "atlas": null,
+    "materials": [],
+    "textures": [
+      {
+        "name": "fish_blue_swim_b.png",
+        "uri": "fish_blue_swim_b.png",
+        "mimeType": "image/png",
+        "width": 128,
+        "height": 128,
+        "byteSize": 3380,
+        "gpuByteSize": null,
+        "compression": null,
+        "slots": [
+          "diffuse"
+        ],
+        "embedded": false
+      }
+    ],
+    "animations": [],
+    "skins": [],
+    "resources": [
+      {
+        "kind": "image",
+        "uri": "fish_blue_swim_b.png",
+        "relativePath": "Sprites/Enemies/Double/fish_blue_swim_b.png",
+        "bytes": 3380,
+        "sha256": "ff6c07804a70a1b1e1dd0d123c0f2b4c59f80b8a0d21df56673efabb1bd19f01",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      }
+    ],
+    "source": {
+      "inputRoot": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source",
+      "absolutePath": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source/Sprites/Enemies/Double/fish_blue_swim_b.png",
+      "companionAbsolutePath": null
+    },
+    "metadata": {
+      "variant": "double",
+      "extensions": {
+        "used": [],
+        "required": []
+      }
+    },
+    "search": {
+      "tags": [
+        "platformer",
+        "2d",
+        "kenney",
+        "stylized",
+        "enemy"
+      ],
+      "aliases": [],
+      "tokens": [
+        "2d",
+        "backgrounds",
+        "blue",
+        "characters",
+        "enemies",
+        "enemy",
+        "fish",
+        "kenney",
+        "new",
+        "platformer",
+        "stylized",
+        "swim"
+      ]
+    },
+    "warnings": [],
+    "errors": []
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T07:37:18.383Z",
+  "pack": {
+    "id": "kenney-new-platformer-pack",
+    "name": "Kenney New Platformer Pack",
+    "creator": "Kenney",
+    "license": "CC0",
+    "tags": [
+      "platformer",
+      "2d",
+      "kenney",
+      "stylized"
+    ]
+  },
+  "asset": {
+    "id": "kenney-new-platformer-pack-sprites-backgrounds-background-fade-mushrooms",
+    "name": "Background Fade Mushrooms",
+    "description": "Platformer background sprite (Background Fade Mushrooms).",
+    "kind": "sprite",
+    "format": "png",
+    "relativePath": "Sprites/Backgrounds/Double/background_fade_mushrooms.png",
+    "canonicalRelativePath": "Sprites/Backgrounds/background_fade_mushrooms.png",
+    "fileName": "background_fade_mushrooms.png",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-new-platformer-pack-bee3e21a5a86/kenney-new-platformer-pack-sprites-backgrounds-background-fade-mushrooms.png",
+    "file": {
+      "primaryBytes": 3951,
+      "totalBytes": 3951,
+      "primarySha256": "6fcb2b6b582144539072a9f4c7517e1af005a79ea8139319423c8362d830b959",
+      "bundleSha256": "4928e203d661e3ab7a12c8d16856593e73f5a28457ffec4bea0426c888e5cf05",
+      "resourceCount": 1
+    },
+    "geometry": {
+      "bounds": {
+        "min": [
+          0,
+          0,
+          0
+        ],
+        "max": [
+          512,
+          512,
+          0
+        ],
+        "size": [
+          512,
+          512,
+          0
+        ],
+        "center": [
+          256,
+          256,
+          0
+        ],
+        "diagonal": 724.077344
+      },
+      "triangleCount": null,
+      "drawCallCount": null,
+      "renderVertexCount": null,
+      "uploadVertexCount": null
+    },
+    "structure": {
+      "materialCount": 0,
+      "textureCount": 1,
+      "animationCount": 0,
+      "frameCount": 1
+    },
+    "image": {
+      "width": 512,
+      "height": 512,
+      "bitDepth": 8,
+      "colorType": 3,
+      "hasAlpha": false,
+      "pixelArea": 262144
+    },
+    "atlas": null,
+    "materials": [],
+    "textures": [
+      {
+        "name": "background_fade_mushrooms.png",
+        "uri": "background_fade_mushrooms.png",
+        "mimeType": "image/png",
+        "width": 512,
+        "height": 512,
+        "byteSize": 3951,
+        "gpuByteSize": null,
+        "compression": null,
+        "slots": [
+          "diffuse"
+        ],
+        "embedded": false
+      }
+    ],
+    "animations": [],
+    "skins": [],
+    "resources": [
+      {
+        "kind": "image",
+        "uri": "background_fade_mushrooms.png",
+        "relativePath": "Sprites/Backgrounds/Double/background_fade_mushrooms.png",
+        "bytes": 3951,
+        "sha256": "6fcb2b6b582144539072a9f4c7517e1af005a79ea8139319423c8362d830b959",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      }
+    ],
+    "source": {
+      "inputRoot": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source",
+      "absolutePath": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source/Sprites/Backgrounds/Double/background_fade_mushrooms.png",
+      "companionAbsolutePath": null
+    },
+    "metadata": {
+      "variant": "double",
+      "extensions": {
+        "used": [],
+        "required": []
+      }
+    },
+    "search": {
+      "tags": [
+        "platformer",
+        "2d",
+        "kenney",
+        "stylized",
+        "background"
+      ],
+      "aliases": [],
+      "tokens": [
+        "2d",
+        "background",
+        "backgrounds",
+        "characters",
+        "enemies",
+        "fade",
+        "kenney",
+        "mushrooms",
+        "new",
+        "platformer",
+        "stylized"
+      ]
+    },
+    "warnings": [],
+    "errors": []
+  }
+}

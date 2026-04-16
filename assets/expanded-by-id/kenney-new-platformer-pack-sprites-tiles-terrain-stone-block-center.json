@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T07:37:18.383Z",
+  "pack": {
+    "id": "kenney-new-platformer-pack",
+    "name": "Kenney New Platformer Pack",
+    "creator": "Kenney",
+    "license": "CC0",
+    "tags": [
+      "platformer",
+      "2d",
+      "kenney",
+      "stylized"
+    ]
+  },
+  "asset": {
+    "id": "kenney-new-platformer-pack-sprites-tiles-terrain-stone-block-center",
+    "name": "Terrain Stone Block Center",
+    "description": "Platformer tile sprite (Terrain Stone Block Center).",
+    "kind": "sprite",
+    "format": "png",
+    "relativePath": "Sprites/Tiles/Double/terrain_stone_block_center.png",
+    "canonicalRelativePath": "Sprites/Tiles/terrain_stone_block_center.png",
+    "fileName": "terrain_stone_block_center.png",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-new-platformer-pack-bee3e21a5a86/kenney-new-platformer-pack-sprites-tiles-terrain-stone-block-center.png",
+    "file": {
+      "primaryBytes": 920,
+      "totalBytes": 920,
+      "primarySha256": "df193bc836acba7577de2157d5c6411e57ace2a2285ac626b2e1b79d476219eb",
+      "bundleSha256": "abd7dbb2dbd62e4092f3f1e0e4ba21b1660fc61a6436eb684d3905f2345ceff4",
+      "resourceCount": 1
+    },
+    "geometry": {
+      "bounds": {
+        "min": [
+          0,
+          0,
+          0
+        ],
+        "max": [
+          128,
+          128,
+          0
+        ],
+        "size": [
+          128,
+          128,
+          0
+        ],
+        "center": [
+          64,
+          64,
+          0
+        ],
+        "diagonal": 181.019336
+      },
+      "triangleCount": null,
+      "drawCallCount": null,
+      "renderVertexCount": null,
+      "uploadVertexCount": null
+    },
+    "structure": {
+      "materialCount": 0,
+      "textureCount": 1,
+      "animationCount": 0,
+      "frameCount": 1
+    },
+    "image": {
+      "width": 128,
+      "height": 128,
+      "bitDepth": 8,
+      "colorType": 3,
+      "hasAlpha": false,
+      "pixelArea": 16384
+    },
+    "atlas": null,
+    "materials": [],
+    "textures": [
+      {
+        "name": "terrain_stone_block_center.png",
+        "uri": "terrain_stone_block_center.png",
+        "mimeType": "image/png",
+        "width": 128,
+        "height": 128,
+        "byteSize": 920,
+        "gpuByteSize": null,
+        "compression": null,
+        "slots": [
+          "diffuse"
+        ],
+        "embedded": false
+      }
+    ],
+    "animations": [],
+    "skins": [],
+    "resources": [
+      {
+        "kind": "image",
+        "uri": "terrain_stone_block_center.png",
+        "relativePath": "Sprites/Tiles/Double/terrain_stone_block_center.png",
+        "bytes": 920,
+        "sha256": "df193bc836acba7577de2157d5c6411e57ace2a2285ac626b2e1b79d476219eb",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      }
+    ],
+    "source": {
+      "inputRoot": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source",
+      "absolutePath": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source/Sprites/Tiles/Double/terrain_stone_block_center.png",
+      "companionAbsolutePath": null
+    },
+    "metadata": {
+      "variant": "double",
+      "extensions": {
+        "used": [],
+        "required": []
+      }
+    },
+    "search": {
+      "tags": [
+        "platformer",
+        "2d",
+        "kenney",
+        "stylized",
+        "tile"
+      ],
+      "aliases": [],
+      "tokens": [
+        "2d",
+        "backgrounds",
+        "block",
+        "center",
+        "characters",
+        "enemies",
+        "kenney",
+        "new",
+        "platformer",
+        "stone",
+        "stylized",
+        "terrain"
+      ]
+    },
+    "warnings": [],
+    "errors": []
+  }
+}

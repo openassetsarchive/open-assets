@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T07:37:18.383Z",
+  "pack": {
+    "id": "kenney-new-platformer-pack",
+    "name": "Kenney New Platformer Pack",
+    "creator": "Kenney",
+    "license": "CC0",
+    "tags": [
+      "platformer",
+      "2d",
+      "kenney",
+      "stylized"
+    ]
+  },
+  "asset": {
+    "id": "kenney-new-platformer-pack-sprites-tiles-terrain-purple-horizontal-middle",
+    "name": "Terrain Purple Horizontal Middle",
+    "description": "Platformer tile sprite (Terrain Purple Horizontal Middle).",
+    "kind": "sprite",
+    "format": "png",
+    "relativePath": "Sprites/Tiles/Double/terrain_purple_horizontal_middle.png",
+    "canonicalRelativePath": "Sprites/Tiles/terrain_purple_horizontal_middle.png",
+    "fileName": "terrain_purple_horizontal_middle.png",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-new-platformer-pack-bee3e21a5a86/kenney-new-platformer-pack-sprites-tiles-terrain-purple-horizontal-middle.png",
+    "file": {
+      "primaryBytes": 1209,
+      "totalBytes": 1209,
+      "primarySha256": "62f8a0eb50368ac97fc0bdaf0ddaa2eb3de811f0da7e2798597fa07dfa40f325",
+      "bundleSha256": "224748e3931cc745acd437f37f193e99c72c16a4fc0c2393be628fe2ba821318",
+      "resourceCount": 1
+    },
+    "geometry": {
+      "bounds": {
+        "min": [
+          0,
+          0,
+          0
+        ],
+        "max": [
+          128,
+          128,
+          0
+        ],
+        "size": [
+          128,
+          128,
+          0
+        ],
+        "center": [
+          64,
+          64,
+          0
+        ],
+        "diagonal": 181.019336
+      },
+      "triangleCount": null,
+      "drawCallCount": null,
+      "renderVertexCount": null,
+      "uploadVertexCount": null
+    },
+    "structure": {
+      "materialCount": 0,
+      "textureCount": 1,
+      "animationCount": 0,
+      "frameCount": 1
+    },
+    "image": {
+      "width": 128,
+      "height": 128,
+      "bitDepth": 8,
+      "colorType": 3,
+      "hasAlpha": false,
+      "pixelArea": 16384
+    },
+    "atlas": null,
+    "materials": [],
+    "textures": [
+      {
+        "name": "terrain_purple_horizontal_middle.png",
+        "uri": "terrain_purple_horizontal_middle.png",
+        "mimeType": "image/png",
+        "width": 128,
+        "height": 128,
+        "byteSize": 1209,
+        "gpuByteSize": null,
+        "compression": null,
+        "slots": [
+          "diffuse"
+        ],
+        "embedded": false
+      }
+    ],
+    "animations": [],
+    "skins": [],
+    "resources": [
+      {
+        "kind": "image",
+        "uri": "terrain_purple_horizontal_middle.png",
+        "relativePath": "Sprites/Tiles/Double/terrain_purple_horizontal_middle.png",
+        "bytes": 1209,
+        "sha256": "62f8a0eb50368ac97fc0bdaf0ddaa2eb3de811f0da7e2798597fa07dfa40f325",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      }
+    ],
+    "source": {
+      "inputRoot": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source",
+      "absolutePath": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source/Sprites/Tiles/Double/terrain_purple_horizontal_middle.png",
+      "companionAbsolutePath": null
+    },
+    "metadata": {
+      "variant": "double",
+      "extensions": {
+        "used": [],
+        "required": []
+      }
+    },
+    "search": {
+      "tags": [
+        "platformer",
+        "2d",
+        "kenney",
+        "stylized",
+        "tile"
+      ],
+      "aliases": [],
+      "tokens": [
+        "2d",
+        "backgrounds",
+        "characters",
+        "enemies",
+        "horizontal",
+        "kenney",
+        "middle",
+        "new",
+        "platformer",
+        "purple",
+        "stylized",
+        "terrain"
+      ]
+    },
+    "warnings": [],
+    "errors": []
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T07:37:18.383Z",
+  "pack": {
+    "id": "kenney-new-platformer-pack",
+    "name": "Kenney New Platformer Pack",
+    "creator": "Kenney",
+    "license": "CC0",
+    "tags": [
+      "platformer",
+      "2d",
+      "kenney",
+      "stylized"
+    ]
+  },
+  "asset": {
+    "id": "kenney-new-platformer-pack-sprites-enemies-saw-b",
+    "name": "Saw B",
+    "description": "Platformer enemy sprite (Saw B).",
+    "kind": "sprite",
+    "format": "png",
+    "relativePath": "Sprites/Enemies/Double/saw_b.png",
+    "canonicalRelativePath": "Sprites/Enemies/saw_b.png",
+    "fileName": "saw_b.png",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-new-platformer-pack-bee3e21a5a86/kenney-new-platformer-pack-sprites-enemies-saw-b.png",
+    "file": {
+      "primaryBytes": 3324,
+      "totalBytes": 3324,
+      "primarySha256": "2de7f7f3e612307705e31dee80b2db4dfcb8818cf4c41d8b6ca7d09fe6375753",
+      "bundleSha256": "1778648b0bd1da9fdfdcecbdd0ab1a2d41e38c76519c26276e36c32a70b3680f",
+      "resourceCount": 1
+    },
+    "geometry": {
+      "bounds": {
+        "min": [
+          0,
+          0,
+          0
+        ],
+        "max": [
+          128,
+          128,
+          0
+        ],
+        "size": [
+          128,
+          128,
+          0
+        ],
+        "center": [
+          64,
+          64,
+          0
+        ],
+        "diagonal": 181.019336
+      },
+      "triangleCount": null,
+      "drawCallCount": null,
+      "renderVertexCount": null,
+      "uploadVertexCount": null
+    },
+    "structure": {
+      "materialCount": 0,
+      "textureCount": 1,
+      "animationCount": 0,
+      "frameCount": 1
+    },
+    "image": {
+      "width": 128,
+      "height": 128,
+      "bitDepth": 8,
+      "colorType": 3,
+      "hasAlpha": false,
+      "pixelArea": 16384
+    },
+    "atlas": null,
+    "materials": [],
+    "textures": [
+      {
+        "name": "saw_b.png",
+        "uri": "saw_b.png",
+        "mimeType": "image/png",
+        "width": 128,
+        "height": 128,
+        "byteSize": 3324,
+        "gpuByteSize": null,
+        "compression": null,
+        "slots": [
+          "diffuse"
+        ],
+        "embedded": false
+      }
+    ],
+    "animations": [],
+    "skins": [],
+    "resources": [
+      {
+        "kind": "image",
+        "uri": "saw_b.png",
+        "relativePath": "Sprites/Enemies/Double/saw_b.png",
+        "bytes": 3324,
+        "sha256": "2de7f7f3e612307705e31dee80b2db4dfcb8818cf4c41d8b6ca7d09fe6375753",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      }
+    ],
+    "source": {
+      "inputRoot": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source",
+      "absolutePath": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source/Sprites/Enemies/Double/saw_b.png",
+      "companionAbsolutePath": null
+    },
+    "metadata": {
+      "variant": "double",
+      "extensions": {
+        "used": [],
+        "required": []
+      }
+    },
+    "search": {
+      "tags": [
+        "platformer",
+        "2d",
+        "kenney",
+        "stylized",
+        "enemy"
+      ],
+      "aliases": [],
+      "tokens": [
+        "2d",
+        "backgrounds",
+        "characters",
+        "enemies",
+        "enemy",
+        "kenney",
+        "new",
+        "platformer",
+        "saw",
+        "stylized"
+      ]
+    },
+    "warnings": [],
+    "errors": []
+  }
+}

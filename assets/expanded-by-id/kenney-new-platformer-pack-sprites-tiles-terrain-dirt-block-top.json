@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T07:37:18.383Z",
+  "pack": {
+    "id": "kenney-new-platformer-pack",
+    "name": "Kenney New Platformer Pack",
+    "creator": "Kenney",
+    "license": "CC0",
+    "tags": [
+      "platformer",
+      "2d",
+      "kenney",
+      "stylized"
+    ]
+  },
+  "asset": {
+    "id": "kenney-new-platformer-pack-sprites-tiles-terrain-dirt-block-top",
+    "name": "Terrain Dirt Block Top",
+    "description": "Platformer tile sprite (Terrain Dirt Block Top).",
+    "kind": "sprite",
+    "format": "png",
+    "relativePath": "Sprites/Tiles/Double/terrain_dirt_block_top.png",
+    "canonicalRelativePath": "Sprites/Tiles/terrain_dirt_block_top.png",
+    "fileName": "terrain_dirt_block_top.png",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-new-platformer-pack-bee3e21a5a86/kenney-new-platformer-pack-sprites-tiles-terrain-dirt-block-top.png",
+    "file": {
+      "primaryBytes": 1238,
+      "totalBytes": 1238,
+      "primarySha256": "46b0c283a37f1eb60675d7bc3f73ad1ecf9e7847df88085e001feb1178a66a44",
+      "bundleSha256": "2f15becdd80bd1d3619ab9347efd9450f932174b8f46be4716b8715536f48b4a",
+      "resourceCount": 1
+    },
+    "geometry": {
+      "bounds": {
+        "min": [
+          0,
+          0,
+          0
+        ],
+        "max": [
+          128,
+          128,
+          0
+        ],
+        "size": [
+          128,
+          128,
+          0
+        ],
+        "center": [
+          64,
+          64,
+          0
+        ],
+        "diagonal": 181.019336
+      },
+      "triangleCount": null,
+      "drawCallCount": null,
+      "renderVertexCount": null,
+      "uploadVertexCount": null
+    },
+    "structure": {
+      "materialCount": 0,
+      "textureCount": 1,
+      "animationCount": 0,
+      "frameCount": 1
+    },
+    "image": {
+      "width": 128,
+      "height": 128,
+      "bitDepth": 8,
+      "colorType": 3,
+      "hasAlpha": false,
+      "pixelArea": 16384
+    },
+    "atlas": null,
+    "materials": [],
+    "textures": [
+      {
+        "name": "terrain_dirt_block_top.png",
+        "uri": "terrain_dirt_block_top.png",
+        "mimeType": "image/png",
+        "width": 128,
+        "height": 128,
+        "byteSize": 1238,
+        "gpuByteSize": null,
+        "compression": null,
+        "slots": [
+          "diffuse"
+        ],
+        "embedded": false
+      }
+    ],
+    "animations": [],
+    "skins": [],
+    "resources": [
+      {
+        "kind": "image",
+        "uri": "terrain_dirt_block_top.png",
+        "relativePath": "Sprites/Tiles/Double/terrain_dirt_block_top.png",
+        "bytes": 1238,
+        "sha256": "46b0c283a37f1eb60675d7bc3f73ad1ecf9e7847df88085e001feb1178a66a44",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      }
+    ],
+    "source": {
+      "inputRoot": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source",
+      "absolutePath": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source/Sprites/Tiles/Double/terrain_dirt_block_top.png",
+      "companionAbsolutePath": null
+    },
+    "metadata": {
+      "variant": "double",
+      "extensions": {
+        "used": [],
+        "required": []
+      }
+    },
+    "search": {
+      "tags": [
+        "platformer",
+        "2d",
+        "kenney",
+        "stylized",
+        "tile"
+      ],
+      "aliases": [],
+      "tokens": [
+        "2d",
+        "backgrounds",
+        "block",
+        "characters",
+        "dirt",
+        "enemies",
+        "kenney",
+        "new",
+        "platformer",
+        "stylized",
+        "terrain",
+        "top"
+      ]
+    },
+    "warnings": [],
+    "errors": []
+  }
+}

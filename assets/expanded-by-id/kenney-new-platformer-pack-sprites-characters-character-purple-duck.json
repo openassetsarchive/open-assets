@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T07:37:18.383Z",
+  "pack": {
+    "id": "kenney-new-platformer-pack",
+    "name": "Kenney New Platformer Pack",
+    "creator": "Kenney",
+    "license": "CC0",
+    "tags": [
+      "platformer",
+      "2d",
+      "kenney",
+      "stylized"
+    ]
+  },
+  "asset": {
+    "id": "kenney-new-platformer-pack-sprites-characters-character-purple-duck",
+    "name": "Character Purple Duck",
+    "description": "Platformer character sprite (Character Purple Duck).",
+    "kind": "sprite",
+    "format": "png",
+    "relativePath": "Sprites/Characters/Double/character_purple_duck.png",
+    "canonicalRelativePath": "Sprites/Characters/character_purple_duck.png",
+    "fileName": "character_purple_duck.png",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-new-platformer-pack-bee3e21a5a86/kenney-new-platformer-pack-sprites-characters-character-purple-duck.png",
+    "file": {
+      "primaryBytes": 5976,
+      "totalBytes": 5976,
+      "primarySha256": "0531b58a913fd2e385b85d9cbf393a85aeb86c7280853f816c4a7bba6aa75b49",
+      "bundleSha256": "1ea49320604fda4bcd2e3b8facee206b561dac889a14c7970de7f9de2f418fb2",
+      "resourceCount": 1
+    },
+    "geometry": {
+      "bounds": {
+        "min": [
+          0,
+          0,
+          0
+        ],
+        "max": [
+          256,
+          256,
+          0
+        ],
+        "size": [
+          256,
+          256,
+          0
+        ],
+        "center": [
+          128,
+          128,
+          0
+        ],
+        "diagonal": 362.038672
+      },
+      "triangleCount": null,
+      "drawCallCount": null,
+      "renderVertexCount": null,
+      "uploadVertexCount": null
+    },
+    "structure": {
+      "materialCount": 0,
+      "textureCount": 1,
+      "animationCount": 0,
+      "frameCount": 1
+    },
+    "image": {
+      "width": 256,
+      "height": 256,
+      "bitDepth": 8,
+      "colorType": 3,
+      "hasAlpha": false,
+      "pixelArea": 65536
+    },
+    "atlas": null,
+    "materials": [],
+    "textures": [
+      {
+        "name": "character_purple_duck.png",
+        "uri": "character_purple_duck.png",
+        "mimeType": "image/png",
+        "width": 256,
+        "height": 256,
+        "byteSize": 5976,
+        "gpuByteSize": null,
+        "compression": null,
+        "slots": [
+          "diffuse"
+        ],
+        "embedded": false
+      }
+    ],
+    "animations": [],
+    "skins": [],
+    "resources": [
+      {
+        "kind": "image",
+        "uri": "character_purple_duck.png",
+        "relativePath": "Sprites/Characters/Double/character_purple_duck.png",
+        "bytes": 5976,
+        "sha256": "0531b58a913fd2e385b85d9cbf393a85aeb86c7280853f816c4a7bba6aa75b49",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      }
+    ],
+    "source": {
+      "inputRoot": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source",
+      "absolutePath": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source/Sprites/Characters/Double/character_purple_duck.png",
+      "companionAbsolutePath": null
+    },
+    "metadata": {
+      "variant": "double",
+      "extensions": {
+        "used": [],
+        "required": []
+      }
+    },
+    "search": {
+      "tags": [
+        "platformer",
+        "2d",
+        "kenney",
+        "stylized",
+        "character",
+        "player"
+      ],
+      "aliases": [],
+      "tokens": [
+        "2d",
+        "backgrounds",
+        "character",
+        "characters",
+        "duck",
+        "enemies",
+        "kenney",
+        "new",
+        "platformer",
+        "player",
+        "purple",
+        "stylized"
+      ]
+    },
+    "warnings": [],
+    "errors": []
+  }
+}

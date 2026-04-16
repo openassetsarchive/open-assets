@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T07:37:18.383Z",
+  "pack": {
+    "id": "kenney-new-platformer-pack",
+    "name": "Kenney New Platformer Pack",
+    "creator": "Kenney",
+    "license": "CC0",
+    "tags": [
+      "platformer",
+      "2d",
+      "kenney",
+      "stylized"
+    ]
+  },
+  "asset": {
+    "id": "kenney-new-platformer-pack-sprites-tiles-terrain-snow-block",
+    "name": "Terrain Snow Block",
+    "description": "Platformer tile sprite (Terrain Snow Block).",
+    "kind": "sprite",
+    "format": "png",
+    "relativePath": "Sprites/Tiles/Double/terrain_snow_block.png",
+    "canonicalRelativePath": "Sprites/Tiles/terrain_snow_block.png",
+    "fileName": "terrain_snow_block.png",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-new-platformer-pack-bee3e21a5a86/kenney-new-platformer-pack-sprites-tiles-terrain-snow-block.png",
+    "file": {
+      "primaryBytes": 2330,
+      "totalBytes": 2330,
+      "primarySha256": "bd507f0a27213de6716ccc83338e4e49c5f51c5bc409322bd080d13fc16da980",
+      "bundleSha256": "3202aeb8f38ca3636889b2031be99ce28553e8e3d43fbb1cd5b2753d5bde80e8",
+      "resourceCount": 1
+    },
+    "geometry": {
+      "bounds": {
+        "min": [
+          0,
+          0,
+          0
+        ],
+        "max": [
+          128,
+          128,
+          0
+        ],
+        "size": [
+          128,
+          128,
+          0
+        ],
+        "center": [
+          64,
+          64,
+          0
+        ],
+        "diagonal": 181.019336
+      },
+      "triangleCount": null,
+      "drawCallCount": null,
+      "renderVertexCount": null,
+      "uploadVertexCount": null
+    },
+    "structure": {
+      "materialCount": 0,
+      "textureCount": 1,
+      "animationCount": 0,
+      "frameCount": 1
+    },
+    "image": {
+      "width": 128,
+      "height": 128,
+      "bitDepth": 8,
+      "colorType": 3,
+      "hasAlpha": false,
+      "pixelArea": 16384
+    },
+    "atlas": null,
+    "materials": [],
+    "textures": [
+      {
+        "name": "terrain_snow_block.png",
+        "uri": "terrain_snow_block.png",
+        "mimeType": "image/png",
+        "width": 128,
+        "height": 128,
+        "byteSize": 2330,
+        "gpuByteSize": null,
+        "compression": null,
+        "slots": [
+          "diffuse"
+        ],
+        "embedded": false
+      }
+    ],
+    "animations": [],
+    "skins": [],
+    "resources": [
+      {
+        "kind": "image",
+        "uri": "terrain_snow_block.png",
+        "relativePath": "Sprites/Tiles/Double/terrain_snow_block.png",
+        "bytes": 2330,
+        "sha256": "bd507f0a27213de6716ccc83338e4e49c5f51c5bc409322bd080d13fc16da980",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      }
+    ],
+    "source": {
+      "inputRoot": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source",
+      "absolutePath": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source/Sprites/Tiles/Double/terrain_snow_block.png",
+      "companionAbsolutePath": null
+    },
+    "metadata": {
+      "variant": "double",
+      "extensions": {
+        "used": [],
+        "required": []
+      }
+    },
+    "search": {
+      "tags": [
+        "platformer",
+        "2d",
+        "kenney",
+        "stylized",
+        "tile"
+      ],
+      "aliases": [],
+      "tokens": [
+        "2d",
+        "backgrounds",
+        "block",
+        "characters",
+        "enemies",
+        "kenney",
+        "new",
+        "platformer",
+        "snow",
+        "stylized",
+        "terrain"
+      ]
+    },
+    "warnings": [],
+    "errors": []
+  }
+}

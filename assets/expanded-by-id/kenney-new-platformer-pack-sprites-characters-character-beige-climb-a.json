@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T07:37:18.383Z",
+  "pack": {
+    "id": "kenney-new-platformer-pack",
+    "name": "Kenney New Platformer Pack",
+    "creator": "Kenney",
+    "license": "CC0",
+    "tags": [
+      "platformer",
+      "2d",
+      "kenney",
+      "stylized"
+    ]
+  },
+  "asset": {
+    "id": "kenney-new-platformer-pack-sprites-characters-character-beige-climb-a",
+    "name": "Character Beige Climb A",
+    "description": "Platformer character sprite (Character Beige Climb A).",
+    "kind": "sprite",
+    "format": "png",
+    "relativePath": "Sprites/Characters/Double/character_beige_climb_a.png",
+    "canonicalRelativePath": "Sprites/Characters/character_beige_climb_a.png",
+    "fileName": "character_beige_climb_a.png",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-new-platformer-pack-bee3e21a5a86/kenney-new-platformer-pack-sprites-characters-character-beige-climb-a.png",
+    "file": {
+      "primaryBytes": 5814,
+      "totalBytes": 5814,
+      "primarySha256": "182ba45ea1a15076050b4cc95433cbdeb8f4c75352e1bad9a21fdc5c01dba216",
+      "bundleSha256": "f33445f6323b6fe13f2ea7aeecc04e36cc08a44f735ab1035c6a86ba218c252b",
+      "resourceCount": 1
+    },
+    "geometry": {
+      "bounds": {
+        "min": [
+          0,
+          0,
+          0
+        ],
+        "max": [
+          256,
+          256,
+          0
+        ],
+        "size": [
+          256,
+          256,
+          0
+        ],
+        "center": [
+          128,
+          128,
+          0
+        ],
+        "diagonal": 362.038672
+      },
+      "triangleCount": null,
+      "drawCallCount": null,
+      "renderVertexCount": null,
+      "uploadVertexCount": null
+    },
+    "structure": {
+      "materialCount": 0,
+      "textureCount": 1,
+      "animationCount": 0,
+      "frameCount": 1
+    },
+    "image": {
+      "width": 256,
+      "height": 256,
+      "bitDepth": 8,
+      "colorType": 3,
+      "hasAlpha": false,
+      "pixelArea": 65536
+    },
+    "atlas": null,
+    "materials": [],
+    "textures": [
+      {
+        "name": "character_beige_climb_a.png",
+        "uri": "character_beige_climb_a.png",
+        "mimeType": "image/png",
+        "width": 256,
+        "height": 256,
+        "byteSize": 5814,
+        "gpuByteSize": null,
+        "compression": null,
+        "slots": [
+          "diffuse"
+        ],
+        "embedded": false
+      }
+    ],
+    "animations": [],
+    "skins": [],
+    "resources": [
+      {
+        "kind": "image",
+        "uri": "character_beige_climb_a.png",
+        "relativePath": "Sprites/Characters/Double/character_beige_climb_a.png",
+        "bytes": 5814,
+        "sha256": "182ba45ea1a15076050b4cc95433cbdeb8f4c75352e1bad9a21fdc5c01dba216",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      }
+    ],
+    "source": {
+      "inputRoot": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source",
+      "absolutePath": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source/Sprites/Characters/Double/character_beige_climb_a.png",
+      "companionAbsolutePath": null
+    },
+    "metadata": {
+      "variant": "double",
+      "extensions": {
+        "used": [],
+        "required": []
+      }
+    },
+    "search": {
+      "tags": [
+        "platformer",
+        "2d",
+        "kenney",
+        "stylized",
+        "character",
+        "player"
+      ],
+      "aliases": [],
+      "tokens": [
+        "2d",
+        "backgrounds",
+        "beige",
+        "character",
+        "characters",
+        "climb",
+        "enemies",
+        "kenney",
+        "new",
+        "platformer",
+        "player",
+        "stylized"
+      ]
+    },
+    "warnings": [],
+    "errors": []
+  }
+}

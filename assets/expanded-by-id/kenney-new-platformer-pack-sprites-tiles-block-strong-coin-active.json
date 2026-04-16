@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T07:37:18.383Z",
+  "pack": {
+    "id": "kenney-new-platformer-pack",
+    "name": "Kenney New Platformer Pack",
+    "creator": "Kenney",
+    "license": "CC0",
+    "tags": [
+      "platformer",
+      "2d",
+      "kenney",
+      "stylized"
+    ]
+  },
+  "asset": {
+    "id": "kenney-new-platformer-pack-sprites-tiles-block-strong-coin-active",
+    "name": "Block Strong Coin Active",
+    "description": "Platformer tile sprite (Block Strong Coin Active).",
+    "kind": "sprite",
+    "format": "png",
+    "relativePath": "Sprites/Tiles/Double/block_strong_coin_active.png",
+    "canonicalRelativePath": "Sprites/Tiles/block_strong_coin_active.png",
+    "fileName": "block_strong_coin_active.png",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-new-platformer-pack-bee3e21a5a86/kenney-new-platformer-pack-sprites-tiles-block-strong-coin-active.png",
+    "file": {
+      "primaryBytes": 1276,
+      "totalBytes": 1276,
+      "primarySha256": "1cbc29f360dae908f809d9ab69644dc0c710b9f86f0842cbc2df166e8cc8b46c",
+      "bundleSha256": "7071ce6dac1e4e17663eca772305b7ae78cd8b9d94da5b0aad9b2d84e2eed0de",
+      "resourceCount": 1
+    },
+    "geometry": {
+      "bounds": {
+        "min": [
+          0,
+          0,
+          0
+        ],
+        "max": [
+          128,
+          128,
+          0
+        ],
+        "size": [
+          128,
+          128,
+          0
+        ],
+        "center": [
+          64,
+          64,
+          0
+        ],
+        "diagonal": 181.019336
+      },
+      "triangleCount": null,
+      "drawCallCount": null,
+      "renderVertexCount": null,
+      "uploadVertexCount": null
+    },
+    "structure": {
+      "materialCount": 0,
+      "textureCount": 1,
+      "animationCount": 0,
+      "frameCount": 1
+    },
+    "image": {
+      "width": 128,
+      "height": 128,
+      "bitDepth": 8,
+      "colorType": 3,
+      "hasAlpha": false,
+      "pixelArea": 16384
+    },
+    "atlas": null,
+    "materials": [],
+    "textures": [
+      {
+        "name": "block_strong_coin_active.png",
+        "uri": "block_strong_coin_active.png",
+        "mimeType": "image/png",
+        "width": 128,
+        "height": 128,
+        "byteSize": 1276,
+        "gpuByteSize": null,
+        "compression": null,
+        "slots": [
+          "diffuse"
+        ],
+        "embedded": false
+      }
+    ],
+    "animations": [],
+    "skins": [],
+    "resources": [
+      {
+        "kind": "image",
+        "uri": "block_strong_coin_active.png",
+        "relativePath": "Sprites/Tiles/Double/block_strong_coin_active.png",
+        "bytes": 1276,
+        "sha256": "1cbc29f360dae908f809d9ab69644dc0c710b9f86f0842cbc2df166e8cc8b46c",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      }
+    ],
+    "source": {
+      "inputRoot": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source",
+      "absolutePath": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source/Sprites/Tiles/Double/block_strong_coin_active.png",
+      "companionAbsolutePath": null
+    },
+    "metadata": {
+      "variant": "double",
+      "extensions": {
+        "used": [],
+        "required": []
+      }
+    },
+    "search": {
+      "tags": [
+        "platformer",
+        "2d",
+        "kenney",
+        "stylized",
+        "tile"
+      ],
+      "aliases": [],
+      "tokens": [
+        "2d",
+        "active",
+        "backgrounds",
+        "block",
+        "characters",
+        "coin",
+        "enemies",
+        "kenney",
+        "new",
+        "platformer",
+        "strong",
+        "stylized"
+      ]
+    },
+    "warnings": [],
+    "errors": []
+  }
+}

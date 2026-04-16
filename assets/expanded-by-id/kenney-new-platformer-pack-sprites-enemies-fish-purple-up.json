@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T07:37:18.383Z",
+  "pack": {
+    "id": "kenney-new-platformer-pack",
+    "name": "Kenney New Platformer Pack",
+    "creator": "Kenney",
+    "license": "CC0",
+    "tags": [
+      "platformer",
+      "2d",
+      "kenney",
+      "stylized"
+    ]
+  },
+  "asset": {
+    "id": "kenney-new-platformer-pack-sprites-enemies-fish-purple-up",
+    "name": "Fish Purple Up",
+    "description": "Platformer enemy sprite (Fish Purple Up).",
+    "kind": "sprite",
+    "format": "png",
+    "relativePath": "Sprites/Enemies/Double/fish_purple_up.png",
+    "canonicalRelativePath": "Sprites/Enemies/fish_purple_up.png",
+    "fileName": "fish_purple_up.png",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-new-platformer-pack-bee3e21a5a86/kenney-new-platformer-pack-sprites-enemies-fish-purple-up.png",
+    "file": {
+      "primaryBytes": 3519,
+      "totalBytes": 3519,
+      "primarySha256": "50a68913b53066567e41d781baae7b513a9de16b20515e2060834ebc97353f61",
+      "bundleSha256": "b7661b90d4fc656582550707852242d4e171a6d6575d83fc3141c847454ea59a",
+      "resourceCount": 1
+    },
+    "geometry": {
+      "bounds": {
+        "min": [
+          0,
+          0,
+          0
+        ],
+        "max": [
+          128,
+          128,
+          0
+        ],
+        "size": [
+          128,
+          128,
+          0
+        ],
+        "center": [
+          64,
+          64,
+          0
+        ],
+        "diagonal": 181.019336
+      },
+      "triangleCount": null,
+      "drawCallCount": null,
+      "renderVertexCount": null,
+      "uploadVertexCount": null
+    },
+    "structure": {
+      "materialCount": 0,
+      "textureCount": 1,
+      "animationCount": 0,
+      "frameCount": 1
+    },
+    "image": {
+      "width": 128,
+      "height": 128,
+      "bitDepth": 8,
+      "colorType": 3,
+      "hasAlpha": false,
+      "pixelArea": 16384
+    },
+    "atlas": null,
+    "materials": [],
+    "textures": [
+      {
+        "name": "fish_purple_up.png",
+        "uri": "fish_purple_up.png",
+        "mimeType": "image/png",
+        "width": 128,
+        "height": 128,
+        "byteSize": 3519,
+        "gpuByteSize": null,
+        "compression": null,
+        "slots": [
+          "diffuse"
+        ],
+        "embedded": false
+      }
+    ],
+    "animations": [],
+    "skins": [],
+    "resources": [
+      {
+        "kind": "image",
+        "uri": "fish_purple_up.png",
+        "relativePath": "Sprites/Enemies/Double/fish_purple_up.png",
+        "bytes": 3519,
+        "sha256": "50a68913b53066567e41d781baae7b513a9de16b20515e2060834ebc97353f61",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      }
+    ],
+    "source": {
+      "inputRoot": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source",
+      "absolutePath": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source/Sprites/Enemies/Double/fish_purple_up.png",
+      "companionAbsolutePath": null
+    },
+    "metadata": {
+      "variant": "double",
+      "extensions": {
+        "used": [],
+        "required": []
+      }
+    },
+    "search": {
+      "tags": [
+        "platformer",
+        "2d",
+        "kenney",
+        "stylized",
+        "enemy"
+      ],
+      "aliases": [],
+      "tokens": [
+        "2d",
+        "backgrounds",
+        "characters",
+        "enemies",
+        "enemy",
+        "fish",
+        "kenney",
+        "new",
+        "platformer",
+        "purple",
+        "stylized",
+        "up"
+      ]
+    },
+    "warnings": [],
+    "errors": []
+  }
+}

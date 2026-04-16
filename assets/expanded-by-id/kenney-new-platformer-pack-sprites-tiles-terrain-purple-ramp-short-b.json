@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T07:37:18.383Z",
+  "pack": {
+    "id": "kenney-new-platformer-pack",
+    "name": "Kenney New Platformer Pack",
+    "creator": "Kenney",
+    "license": "CC0",
+    "tags": [
+      "platformer",
+      "2d",
+      "kenney",
+      "stylized"
+    ]
+  },
+  "asset": {
+    "id": "kenney-new-platformer-pack-sprites-tiles-terrain-purple-ramp-short-b",
+    "name": "Terrain Purple Ramp Short B",
+    "description": "Platformer tile sprite (Terrain Purple Ramp Short B).",
+    "kind": "sprite",
+    "format": "png",
+    "relativePath": "Sprites/Tiles/Double/terrain_purple_ramp_short_b.png",
+    "canonicalRelativePath": "Sprites/Tiles/terrain_purple_ramp_short_b.png",
+    "fileName": "terrain_purple_ramp_short_b.png",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-new-platformer-pack-bee3e21a5a86/kenney-new-platformer-pack-sprites-tiles-terrain-purple-ramp-short-b.png",
+    "file": {
+      "primaryBytes": 966,
+      "totalBytes": 966,
+      "primarySha256": "ef61166fe80d8a72c2e7744d0793387b51ec1584432a0a476891c0db985c5457",
+      "bundleSha256": "e1ac5298a08880728de60442ef4809a999d3ba2445a178e7ac5e20072f5a308b",
+      "resourceCount": 1
+    },
+    "geometry": {
+      "bounds": {
+        "min": [
+          0,
+          0,
+          0
+        ],
+        "max": [
+          128,
+          128,
+          0
+        ],
+        "size": [
+          128,
+          128,
+          0
+        ],
+        "center": [
+          64,
+          64,
+          0
+        ],
+        "diagonal": 181.019336
+      },
+      "triangleCount": null,
+      "drawCallCount": null,
+      "renderVertexCount": null,
+      "uploadVertexCount": null
+    },
+    "structure": {
+      "materialCount": 0,
+      "textureCount": 1,
+      "animationCount": 0,
+      "frameCount": 1
+    },
+    "image": {
+      "width": 128,
+      "height": 128,
+      "bitDepth": 8,
+      "colorType": 3,
+      "hasAlpha": false,
+      "pixelArea": 16384
+    },
+    "atlas": null,
+    "materials": [],
+    "textures": [
+      {
+        "name": "terrain_purple_ramp_short_b.png",
+        "uri": "terrain_purple_ramp_short_b.png",
+        "mimeType": "image/png",
+        "width": 128,
+        "height": 128,
+        "byteSize": 966,
+        "gpuByteSize": null,
+        "compression": null,
+        "slots": [
+          "diffuse"
+        ],
+        "embedded": false
+      }
+    ],
+    "animations": [],
+    "skins": [],
+    "resources": [
+      {
+        "kind": "image",
+        "uri": "terrain_purple_ramp_short_b.png",
+        "relativePath": "Sprites/Tiles/Double/terrain_purple_ramp_short_b.png",
+        "bytes": 966,
+        "sha256": "ef61166fe80d8a72c2e7744d0793387b51ec1584432a0a476891c0db985c5457",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      }
+    ],
+    "source": {
+      "inputRoot": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source",
+      "absolutePath": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source/Sprites/Tiles/Double/terrain_purple_ramp_short_b.png",
+      "companionAbsolutePath": null
+    },
+    "metadata": {
+      "variant": "double",
+      "extensions": {
+        "used": [],
+        "required": []
+      }
+    },
+    "search": {
+      "tags": [
+        "platformer",
+        "2d",
+        "kenney",
+        "stylized",
+        "tile"
+      ],
+      "aliases": [],
+      "tokens": [
+        "2d",
+        "backgrounds",
+        "characters",
+        "enemies",
+        "kenney",
+        "new",
+        "platformer",
+        "purple",
+        "ramp",
+        "short",
+        "stylized",
+        "terrain"
+      ]
+    },
+    "warnings": [],
+    "errors": []
+  }
+}

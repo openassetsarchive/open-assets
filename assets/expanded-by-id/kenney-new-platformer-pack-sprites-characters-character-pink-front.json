@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T07:37:18.383Z",
+  "pack": {
+    "id": "kenney-new-platformer-pack",
+    "name": "Kenney New Platformer Pack",
+    "creator": "Kenney",
+    "license": "CC0",
+    "tags": [
+      "platformer",
+      "2d",
+      "kenney",
+      "stylized"
+    ]
+  },
+  "asset": {
+    "id": "kenney-new-platformer-pack-sprites-characters-character-pink-front",
+    "name": "Character Pink Front",
+    "description": "Platformer character sprite (Character Pink Front).",
+    "kind": "sprite",
+    "format": "png",
+    "relativePath": "Sprites/Characters/Double/character_pink_front.png",
+    "canonicalRelativePath": "Sprites/Characters/character_pink_front.png",
+    "fileName": "character_pink_front.png",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-new-platformer-pack-bee3e21a5a86/kenney-new-platformer-pack-sprites-characters-character-pink-front.png",
+    "file": {
+      "primaryBytes": 6382,
+      "totalBytes": 6382,
+      "primarySha256": "f1e17ac43ea65e906808eba792915f1a3dddb841bf3dd03fd05f814d04b2f83e",
+      "bundleSha256": "86fa8c6e322da368a4a09c3e1a350fa51579125f76693ed5f994db40459a760a",
+      "resourceCount": 1
+    },
+    "geometry": {
+      "bounds": {
+        "min": [
+          0,
+          0,
+          0
+        ],
+        "max": [
+          256,
+          256,
+          0
+        ],
+        "size": [
+          256,
+          256,
+          0
+        ],
+        "center": [
+          128,
+          128,
+          0
+        ],
+        "diagonal": 362.038672
+      },
+      "triangleCount": null,
+      "drawCallCount": null,
+      "renderVertexCount": null,
+      "uploadVertexCount": null
+    },
+    "structure": {
+      "materialCount": 0,
+      "textureCount": 1,
+      "animationCount": 0,
+      "frameCount": 1
+    },
+    "image": {
+      "width": 256,
+      "height": 256,
+      "bitDepth": 8,
+      "colorType": 3,
+      "hasAlpha": false,
+      "pixelArea": 65536
+    },
+    "atlas": null,
+    "materials": [],
+    "textures": [
+      {
+        "name": "character_pink_front.png",
+        "uri": "character_pink_front.png",
+        "mimeType": "image/png",
+        "width": 256,
+        "height": 256,
+        "byteSize": 6382,
+        "gpuByteSize": null,
+        "compression": null,
+        "slots": [
+          "diffuse"
+        ],
+        "embedded": false
+      }
+    ],
+    "animations": [],
+    "skins": [],
+    "resources": [
+      {
+        "kind": "image",
+        "uri": "character_pink_front.png",
+        "relativePath": "Sprites/Characters/Double/character_pink_front.png",
+        "bytes": 6382,
+        "sha256": "f1e17ac43ea65e906808eba792915f1a3dddb841bf3dd03fd05f814d04b2f83e",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      }
+    ],
+    "source": {
+      "inputRoot": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source",
+      "absolutePath": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source/Sprites/Characters/Double/character_pink_front.png",
+      "companionAbsolutePath": null
+    },
+    "metadata": {
+      "variant": "double",
+      "extensions": {
+        "used": [],
+        "required": []
+      }
+    },
+    "search": {
+      "tags": [
+        "platformer",
+        "2d",
+        "kenney",
+        "stylized",
+        "character",
+        "player"
+      ],
+      "aliases": [],
+      "tokens": [
+        "2d",
+        "backgrounds",
+        "character",
+        "characters",
+        "enemies",
+        "front",
+        "kenney",
+        "new",
+        "pink",
+        "platformer",
+        "player",
+        "stylized"
+      ]
+    },
+    "warnings": [],
+    "errors": []
+  }
+}

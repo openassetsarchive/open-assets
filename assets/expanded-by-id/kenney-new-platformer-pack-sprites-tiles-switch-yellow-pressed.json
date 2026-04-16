@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T07:37:18.383Z",
+  "pack": {
+    "id": "kenney-new-platformer-pack",
+    "name": "Kenney New Platformer Pack",
+    "creator": "Kenney",
+    "license": "CC0",
+    "tags": [
+      "platformer",
+      "2d",
+      "kenney",
+      "stylized"
+    ]
+  },
+  "asset": {
+    "id": "kenney-new-platformer-pack-sprites-tiles-switch-yellow-pressed",
+    "name": "Switch Yellow Pressed",
+    "description": "Platformer tile sprite (Switch Yellow Pressed).",
+    "kind": "sprite",
+    "format": "png",
+    "relativePath": "Sprites/Tiles/Double/switch_yellow_pressed.png",
+    "canonicalRelativePath": "Sprites/Tiles/switch_yellow_pressed.png",
+    "fileName": "switch_yellow_pressed.png",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-new-platformer-pack-bee3e21a5a86/kenney-new-platformer-pack-sprites-tiles-switch-yellow-pressed.png",
+    "file": {
+      "primaryBytes": 1072,
+      "totalBytes": 1072,
+      "primarySha256": "2a3b9c795c9fd85be9660eed3a4b67b6b2d8ab9d00ee994f12cf9b0bb5f8e819",
+      "bundleSha256": "87443ad3af937d5cb7c49a0ffa48ea64e588c700275ff14b3e1d19367a961269",
+      "resourceCount": 1
+    },
+    "geometry": {
+      "bounds": {
+        "min": [
+          0,
+          0,
+          0
+        ],
+        "max": [
+          128,
+          128,
+          0
+        ],
+        "size": [
+          128,
+          128,
+          0
+        ],
+        "center": [
+          64,
+          64,
+          0
+        ],
+        "diagonal": 181.019336
+      },
+      "triangleCount": null,
+      "drawCallCount": null,
+      "renderVertexCount": null,
+      "uploadVertexCount": null
+    },
+    "structure": {
+      "materialCount": 0,
+      "textureCount": 1,
+      "animationCount": 0,
+      "frameCount": 1
+    },
+    "image": {
+      "width": 128,
+      "height": 128,
+      "bitDepth": 8,
+      "colorType": 3,
+      "hasAlpha": false,
+      "pixelArea": 16384
+    },
+    "atlas": null,
+    "materials": [],
+    "textures": [
+      {
+        "name": "switch_yellow_pressed.png",
+        "uri": "switch_yellow_pressed.png",
+        "mimeType": "image/png",
+        "width": 128,
+        "height": 128,
+        "byteSize": 1072,
+        "gpuByteSize": null,
+        "compression": null,
+        "slots": [
+          "diffuse"
+        ],
+        "embedded": false
+      }
+    ],
+    "animations": [],
+    "skins": [],
+    "resources": [
+      {
+        "kind": "image",
+        "uri": "switch_yellow_pressed.png",
+        "relativePath": "Sprites/Tiles/Double/switch_yellow_pressed.png",
+        "bytes": 1072,
+        "sha256": "2a3b9c795c9fd85be9660eed3a4b67b6b2d8ab9d00ee994f12cf9b0bb5f8e819",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      }
+    ],
+    "source": {
+      "inputRoot": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source",
+      "absolutePath": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source/Sprites/Tiles/Double/switch_yellow_pressed.png",
+      "companionAbsolutePath": null
+    },
+    "metadata": {
+      "variant": "double",
+      "extensions": {
+        "used": [],
+        "required": []
+      }
+    },
+    "search": {
+      "tags": [
+        "platformer",
+        "2d",
+        "kenney",
+        "stylized",
+        "tile"
+      ],
+      "aliases": [],
+      "tokens": [
+        "2d",
+        "backgrounds",
+        "characters",
+        "enemies",
+        "kenney",
+        "new",
+        "platformer",
+        "pressed",
+        "stylized",
+        "switch",
+        "yellow"
+      ]
+    },
+    "warnings": [],
+    "errors": []
+  }
+}

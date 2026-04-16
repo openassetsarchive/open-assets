@@ -1,8 +1,11 @@
 {
   "version": 1,
   "token": "bomb",
-  "count": 1,
+  "count": 4,
   "assetIds": [
+    "kenney-new-platformer-pack-sprites-tiles-bomb",
+    "kenney-new-platformer-pack-sprites-tiles-bomb-active",
+    "kenney-new-platformer-pack-spritesheets-spritesheet-tiles",
     "quaternius-pirate-kit-prop-bomb"
   ]
 }

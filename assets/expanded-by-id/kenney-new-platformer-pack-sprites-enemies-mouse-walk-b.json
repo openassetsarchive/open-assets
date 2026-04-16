@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T07:37:18.383Z",
+  "pack": {
+    "id": "kenney-new-platformer-pack",
+    "name": "Kenney New Platformer Pack",
+    "creator": "Kenney",
+    "license": "CC0",
+    "tags": [
+      "platformer",
+      "2d",
+      "kenney",
+      "stylized"
+    ]
+  },
+  "asset": {
+    "id": "kenney-new-platformer-pack-sprites-enemies-mouse-walk-b",
+    "name": "Mouse Walk B",
+    "description": "Platformer enemy sprite (Mouse Walk B).",
+    "kind": "sprite",
+    "format": "png",
+    "relativePath": "Sprites/Enemies/Double/mouse_walk_b.png",
+    "canonicalRelativePath": "Sprites/Enemies/mouse_walk_b.png",
+    "fileName": "mouse_walk_b.png",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-new-platformer-pack-bee3e21a5a86/kenney-new-platformer-pack-sprites-enemies-mouse-walk-b.png",
+    "file": {
+      "primaryBytes": 2177,
+      "totalBytes": 2177,
+      "primarySha256": "124d3fb741d9dc502df4a34ab4c974d54fe3a9bc1893dbabc27ee055a663d45b",
+      "bundleSha256": "95b820fd18d28f7ef69a4c94477bcf8d1e49610593c0877b112dd0ed5155d1fd",
+      "resourceCount": 1
+    },
+    "geometry": {
+      "bounds": {
+        "min": [
+          0,
+          0,
+          0
+        ],
+        "max": [
+          128,
+          128,
+          0
+        ],
+        "size": [
+          128,
+          128,
+          0
+        ],
+        "center": [
+          64,
+          64,
+          0
+        ],
+        "diagonal": 181.019336
+      },
+      "triangleCount": null,
+      "drawCallCount": null,
+      "renderVertexCount": null,
+      "uploadVertexCount": null
+    },
+    "structure": {
+      "materialCount": 0,
+      "textureCount": 1,
+      "animationCount": 0,
+      "frameCount": 1
+    },
+    "image": {
+      "width": 128,
+      "height": 128,
+      "bitDepth": 8,
+      "colorType": 3,
+      "hasAlpha": false,
+      "pixelArea": 16384
+    },
+    "atlas": null,
+    "materials": [],
+    "textures": [
+      {
+        "name": "mouse_walk_b.png",
+        "uri": "mouse_walk_b.png",
+        "mimeType": "image/png",
+        "width": 128,
+        "height": 128,
+        "byteSize": 2177,
+        "gpuByteSize": null,
+        "compression": null,
+        "slots": [
+          "diffuse"
+        ],
+        "embedded": false
+      }
+    ],
+    "animations": [],
+    "skins": [],
+    "resources": [
+      {
+        "kind": "image",
+        "uri": "mouse_walk_b.png",
+        "relativePath": "Sprites/Enemies/Double/mouse_walk_b.png",
+        "bytes": 2177,
+        "sha256": "124d3fb741d9dc502df4a34ab4c974d54fe3a9bc1893dbabc27ee055a663d45b",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      }
+    ],
+    "source": {
+      "inputRoot": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source",
+      "absolutePath": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source/Sprites/Enemies/Double/mouse_walk_b.png",
+      "companionAbsolutePath": null
+    },
+    "metadata": {
+      "variant": "double",
+      "extensions": {
+        "used": [],
+        "required": []
+      }
+    },
+    "search": {
+      "tags": [
+        "platformer",
+        "2d",
+        "kenney",
+        "stylized",
+        "enemy"
+      ],
+      "aliases": [],
+      "tokens": [
+        "2d",
+        "backgrounds",
+        "characters",
+        "enemies",
+        "enemy",
+        "kenney",
+        "mouse",
+        "new",
+        "platformer",
+        "stylized",
+        "walk"
+      ]
+    },
+    "warnings": [],
+    "errors": []
+  }
+}

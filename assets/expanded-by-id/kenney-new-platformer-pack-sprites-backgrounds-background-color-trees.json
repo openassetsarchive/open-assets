@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T07:37:18.383Z",
+  "pack": {
+    "id": "kenney-new-platformer-pack",
+    "name": "Kenney New Platformer Pack",
+    "creator": "Kenney",
+    "license": "CC0",
+    "tags": [
+      "platformer",
+      "2d",
+      "kenney",
+      "stylized"
+    ]
+  },
+  "asset": {
+    "id": "kenney-new-platformer-pack-sprites-backgrounds-background-color-trees",
+    "name": "Background Color Trees",
+    "description": "Platformer background sprite (Background Color Trees).",
+    "kind": "sprite",
+    "format": "png",
+    "relativePath": "Sprites/Backgrounds/Double/background_color_trees.png",
+    "canonicalRelativePath": "Sprites/Backgrounds/background_color_trees.png",
+    "fileName": "background_color_trees.png",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-new-platformer-pack-bee3e21a5a86/kenney-new-platformer-pack-sprites-backgrounds-background-color-trees.png",
+    "file": {
+      "primaryBytes": 6040,
+      "totalBytes": 6040,
+      "primarySha256": "9465a1120291304303790629ed6adbf042987c23e36a3fc65f8f179b9eb9ccc8",
+      "bundleSha256": "bdfc4a71c50970d8c55fbbed751f8506d137685e63e40367f6754274bd634c48",
+      "resourceCount": 1
+    },
+    "geometry": {
+      "bounds": {
+        "min": [
+          0,
+          0,
+          0
+        ],
+        "max": [
+          512,
+          512,
+          0
+        ],
+        "size": [
+          512,
+          512,
+          0
+        ],
+        "center": [
+          256,
+          256,
+          0
+        ],
+        "diagonal": 724.077344
+      },
+      "triangleCount": null,
+      "drawCallCount": null,
+      "renderVertexCount": null,
+      "uploadVertexCount": null
+    },
+    "structure": {
+      "materialCount": 0,
+      "textureCount": 1,
+      "animationCount": 0,
+      "frameCount": 1
+    },
+    "image": {
+      "width": 512,
+      "height": 512,
+      "bitDepth": 8,
+      "colorType": 3,
+      "hasAlpha": false,
+      "pixelArea": 262144
+    },
+    "atlas": null,
+    "materials": [],
+    "textures": [
+      {
+        "name": "background_color_trees.png",
+        "uri": "background_color_trees.png",
+        "mimeType": "image/png",
+        "width": 512,
+        "height": 512,
+        "byteSize": 6040,
+        "gpuByteSize": null,
+        "compression": null,
+        "slots": [
+          "diffuse"
+        ],
+        "embedded": false
+      }
+    ],
+    "animations": [],
+    "skins": [],
+    "resources": [
+      {
+        "kind": "image",
+        "uri": "background_color_trees.png",
+        "relativePath": "Sprites/Backgrounds/Double/background_color_trees.png",
+        "bytes": 6040,
+        "sha256": "9465a1120291304303790629ed6adbf042987c23e36a3fc65f8f179b9eb9ccc8",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      }
+    ],
+    "source": {
+      "inputRoot": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source",
+      "absolutePath": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source/Sprites/Backgrounds/Double/background_color_trees.png",
+      "companionAbsolutePath": null
+    },
+    "metadata": {
+      "variant": "double",
+      "extensions": {
+        "used": [],
+        "required": []
+      }
+    },
+    "search": {
+      "tags": [
+        "platformer",
+        "2d",
+        "kenney",
+        "stylized",
+        "background"
+      ],
+      "aliases": [],
+      "tokens": [
+        "2d",
+        "background",
+        "backgrounds",
+        "characters",
+        "color",
+        "enemies",
+        "kenney",
+        "new",
+        "platformer",
+        "stylized",
+        "trees"
+      ]
+    },
+    "warnings": [],
+    "errors": []
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T07:37:18.383Z",
+  "pack": {
+    "id": "kenney-new-platformer-pack",
+    "name": "Kenney New Platformer Pack",
+    "creator": "Kenney",
+    "license": "CC0",
+    "tags": [
+      "platformer",
+      "2d",
+      "kenney",
+      "stylized"
+    ]
+  },
+  "asset": {
+    "id": "kenney-new-platformer-pack-sprites-backgrounds-background-solid-sky",
+    "name": "Background Solid Sky",
+    "description": "Platformer background sprite (Background Solid Sky).",
+    "kind": "sprite",
+    "format": "png",
+    "relativePath": "Sprites/Backgrounds/Double/background_solid_sky.png",
+    "canonicalRelativePath": "Sprites/Backgrounds/background_solid_sky.png",
+    "fileName": "background_solid_sky.png",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-new-platformer-pack-bee3e21a5a86/kenney-new-platformer-pack-sprites-backgrounds-background-solid-sky.png",
+    "file": {
+      "primaryBytes": 142,
+      "totalBytes": 142,
+      "primarySha256": "55ccb7de46809cdc96ea4453884c4fff29beaf21f8283e11339e406c88d3f5db",
+      "bundleSha256": "2348be668cddfeb0a5700f2dd2338883732f55a8f18b4d337becfa4f09569c8a",
+      "resourceCount": 1
+    },
+    "geometry": {
+      "bounds": {
+        "min": [
+          0,
+          0,
+          0
+        ],
+        "max": [
+          512,
+          512,
+          0
+        ],
+        "size": [
+          512,
+          512,
+          0
+        ],
+        "center": [
+          256,
+          256,
+          0
+        ],
+        "diagonal": 724.077344
+      },
+      "triangleCount": null,
+      "drawCallCount": null,
+      "renderVertexCount": null,
+      "uploadVertexCount": null
+    },
+    "structure": {
+      "materialCount": 0,
+      "textureCount": 1,
+      "animationCount": 0,
+      "frameCount": 1
+    },
+    "image": {
+      "width": 512,
+      "height": 512,
+      "bitDepth": 1,
+      "colorType": 3,
+      "hasAlpha": false,
+      "pixelArea": 262144
+    },
+    "atlas": null,
+    "materials": [],
+    "textures": [
+      {
+        "name": "background_solid_sky.png",
+        "uri": "background_solid_sky.png",
+        "mimeType": "image/png",
+        "width": 512,
+        "height": 512,
+        "byteSize": 142,
+        "gpuByteSize": null,
+        "compression": null,
+        "slots": [
+          "diffuse"
+        ],
+        "embedded": false
+      }
+    ],
+    "animations": [],
+    "skins": [],
+    "resources": [
+      {
+        "kind": "image",
+        "uri": "background_solid_sky.png",
+        "relativePath": "Sprites/Backgrounds/Double/background_solid_sky.png",
+        "bytes": 142,
+        "sha256": "55ccb7de46809cdc96ea4453884c4fff29beaf21f8283e11339e406c88d3f5db",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      }
+    ],
+    "source": {
+      "inputRoot": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source",
+      "absolutePath": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source/Sprites/Backgrounds/Double/background_solid_sky.png",
+      "companionAbsolutePath": null
+    },
+    "metadata": {
+      "variant": "double",
+      "extensions": {
+        "used": [],
+        "required": []
+      }
+    },
+    "search": {
+      "tags": [
+        "platformer",
+        "2d",
+        "kenney",
+        "stylized",
+        "background"
+      ],
+      "aliases": [],
+      "tokens": [
+        "2d",
+        "background",
+        "backgrounds",
+        "characters",
+        "enemies",
+        "kenney",
+        "new",
+        "platformer",
+        "sky",
+        "solid",
+        "stylized"
+      ]
+    },
+    "warnings": [],
+    "errors": []
+  }
+}

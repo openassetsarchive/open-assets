@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T07:37:18.383Z",
+  "pack": {
+    "id": "kenney-new-platformer-pack",
+    "name": "Kenney New Platformer Pack",
+    "creator": "Kenney",
+    "license": "CC0",
+    "tags": [
+      "platformer",
+      "2d",
+      "kenney",
+      "stylized"
+    ]
+  },
+  "asset": {
+    "id": "kenney-new-platformer-pack-sprites-enemies-barnacle-attack-b",
+    "name": "Barnacle Attack B",
+    "description": "Platformer enemy sprite (Barnacle Attack B).",
+    "kind": "sprite",
+    "format": "png",
+    "relativePath": "Sprites/Enemies/Double/barnacle_attack_b.png",
+    "canonicalRelativePath": "Sprites/Enemies/barnacle_attack_b.png",
+    "fileName": "barnacle_attack_b.png",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-new-platformer-pack-bee3e21a5a86/kenney-new-platformer-pack-sprites-enemies-barnacle-attack-b.png",
+    "file": {
+      "primaryBytes": 2492,
+      "totalBytes": 2492,
+      "primarySha256": "85e76bbc2aeb1616da65a23b4e16bd263485890ec3dc25e8771774df5308f403",
+      "bundleSha256": "899be069fe7b0d14309a294626c60aee2c9be5354773dbfe18bdc55f1d45e457",
+      "resourceCount": 1
+    },
+    "geometry": {
+      "bounds": {
+        "min": [
+          0,
+          0,
+          0
+        ],
+        "max": [
+          128,
+          128,
+          0
+        ],
+        "size": [
+          128,
+          128,
+          0
+        ],
+        "center": [
+          64,
+          64,
+          0
+        ],
+        "diagonal": 181.019336
+      },
+      "triangleCount": null,
+      "drawCallCount": null,
+      "renderVertexCount": null,
+      "uploadVertexCount": null
+    },
+    "structure": {
+      "materialCount": 0,
+      "textureCount": 1,
+      "animationCount": 0,
+      "frameCount": 1
+    },
+    "image": {
+      "width": 128,
+      "height": 128,
+      "bitDepth": 8,
+      "colorType": 3,
+      "hasAlpha": false,
+      "pixelArea": 16384
+    },
+    "atlas": null,
+    "materials": [],
+    "textures": [
+      {
+        "name": "barnacle_attack_b.png",
+        "uri": "barnacle_attack_b.png",
+        "mimeType": "image/png",
+        "width": 128,
+        "height": 128,
+        "byteSize": 2492,
+        "gpuByteSize": null,
+        "compression": null,
+        "slots": [
+          "diffuse"
+        ],
+        "embedded": false
+      }
+    ],
+    "animations": [],
+    "skins": [],
+    "resources": [
+      {
+        "kind": "image",
+        "uri": "barnacle_attack_b.png",
+        "relativePath": "Sprites/Enemies/Double/barnacle_attack_b.png",
+        "bytes": 2492,
+        "sha256": "85e76bbc2aeb1616da65a23b4e16bd263485890ec3dc25e8771774df5308f403",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      }
+    ],
+    "source": {
+      "inputRoot": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source",
+      "absolutePath": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source/Sprites/Enemies/Double/barnacle_attack_b.png",
+      "companionAbsolutePath": null
+    },
+    "metadata": {
+      "variant": "double",
+      "extensions": {
+        "used": [],
+        "required": []
+      }
+    },
+    "search": {
+      "tags": [
+        "platformer",
+        "2d",
+        "kenney",
+        "stylized",
+        "enemy"
+      ],
+      "aliases": [],
+      "tokens": [
+        "2d",
+        "attack",
+        "backgrounds",
+        "barnacle",
+        "characters",
+        "enemies",
+        "enemy",
+        "kenney",
+        "new",
+        "platformer",
+        "stylized"
+      ]
+    },
+    "warnings": [],
+    "errors": []
+  }
+}

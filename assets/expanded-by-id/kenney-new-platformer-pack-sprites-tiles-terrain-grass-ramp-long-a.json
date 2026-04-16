@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T07:37:18.383Z",
+  "pack": {
+    "id": "kenney-new-platformer-pack",
+    "name": "Kenney New Platformer Pack",
+    "creator": "Kenney",
+    "license": "CC0",
+    "tags": [
+      "platformer",
+      "2d",
+      "kenney",
+      "stylized"
+    ]
+  },
+  "asset": {
+    "id": "kenney-new-platformer-pack-sprites-tiles-terrain-grass-ramp-long-a",
+    "name": "Terrain Grass Ramp Long A",
+    "description": "Platformer tile sprite (Terrain Grass Ramp Long A).",
+    "kind": "sprite",
+    "format": "png",
+    "relativePath": "Sprites/Tiles/Double/terrain_grass_ramp_long_a.png",
+    "canonicalRelativePath": "Sprites/Tiles/terrain_grass_ramp_long_a.png",
+    "fileName": "terrain_grass_ramp_long_a.png",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-new-platformer-pack-bee3e21a5a86/kenney-new-platformer-pack-sprites-tiles-terrain-grass-ramp-long-a.png",
+    "file": {
+      "primaryBytes": 960,
+      "totalBytes": 960,
+      "primarySha256": "8f9c18a3c695c8ce7423df4e81d40c4ac112c4bf78de98a44c289157552f67ba",
+      "bundleSha256": "e2c440861d78ee97ff7b8afe406613b6696ad818455c4f31334783b95a2fd284",
+      "resourceCount": 1
+    },
+    "geometry": {
+      "bounds": {
+        "min": [
+          0,
+          0,
+          0
+        ],
+        "max": [
+          128,
+          128,
+          0
+        ],
+        "size": [
+          128,
+          128,
+          0
+        ],
+        "center": [
+          64,
+          64,
+          0
+        ],
+        "diagonal": 181.019336
+      },
+      "triangleCount": null,
+      "drawCallCount": null,
+      "renderVertexCount": null,
+      "uploadVertexCount": null
+    },
+    "structure": {
+      "materialCount": 0,
+      "textureCount": 1,
+      "animationCount": 0,
+      "frameCount": 1
+    },
+    "image": {
+      "width": 128,
+      "height": 128,
+      "bitDepth": 8,
+      "colorType": 3,
+      "hasAlpha": false,
+      "pixelArea": 16384
+    },
+    "atlas": null,
+    "materials": [],
+    "textures": [
+      {
+        "name": "terrain_grass_ramp_long_a.png",
+        "uri": "terrain_grass_ramp_long_a.png",
+        "mimeType": "image/png",
+        "width": 128,
+        "height": 128,
+        "byteSize": 960,
+        "gpuByteSize": null,
+        "compression": null,
+        "slots": [
+          "diffuse"
+        ],
+        "embedded": false
+      }
+    ],
+    "animations": [],
+    "skins": [],
+    "resources": [
+      {
+        "kind": "image",
+        "uri": "terrain_grass_ramp_long_a.png",
+        "relativePath": "Sprites/Tiles/Double/terrain_grass_ramp_long_a.png",
+        "bytes": 960,
+        "sha256": "8f9c18a3c695c8ce7423df4e81d40c4ac112c4bf78de98a44c289157552f67ba",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      }
+    ],
+    "source": {
+      "inputRoot": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source",
+      "absolutePath": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source/Sprites/Tiles/Double/terrain_grass_ramp_long_a.png",
+      "companionAbsolutePath": null
+    },
+    "metadata": {
+      "variant": "double",
+      "extensions": {
+        "used": [],
+        "required": []
+      }
+    },
+    "search": {
+      "tags": [
+        "platformer",
+        "2d",
+        "kenney",
+        "stylized",
+        "tile"
+      ],
+      "aliases": [],
+      "tokens": [
+        "2d",
+        "backgrounds",
+        "characters",
+        "enemies",
+        "grass",
+        "kenney",
+        "long",
+        "new",
+        "platformer",
+        "ramp",
+        "stylized",
+        "terrain"
+      ]
+    },
+    "warnings": [],
+    "errors": []
+  }
+}

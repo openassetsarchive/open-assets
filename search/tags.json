@@ -1,15 +1,27 @@
 [
   {
+    "tag": "2d",
+    "count": 437
+  },
+  {
     "tag": "animated",
     "count": 10
   },
   {
+    "tag": "atlas",
+    "count": 4
+  },
+  {
+    "tag": "background",
+    "count": 15
+  },
+  {
     "tag": "character",
-    "count": 9
+    "count": 55
   },
   {
     "tag": "enemy",
-    "count": 1
+    "count": 62
   },
   {
     "tag": "environment",
@@ -18,6 +30,10 @@
   {
     "tag": "icon",
     "count": 12
+  },
+  {
+    "tag": "kenney",
+    "count": 437
   },
   {
     "tag": "kit",
@@ -30,6 +46,14 @@
   {
     "tag": "pirate",
     "count": 72
+  },
+  {
+    "tag": "platformer",
+    "count": 437
+  },
+  {
+    "tag": "player",
+    "count": 46
   },
   {
     "tag": "prop",
@@ -45,7 +69,11 @@
   },
   {
     "tag": "stylized",
-    "count": 72
+    "count": 509
+  },
+  {
+    "tag": "tile",
+    "count": 315
   },
   {
     "tag": "ui",

@@ -1,0 +1,324 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T07:37:18.383Z",
+  "pack": {
+    "id": "kenney-new-platformer-pack",
+    "name": "Kenney New Platformer Pack",
+    "license": "CC0",
+    "tags": [
+      "platformer",
+      "2d",
+      "kenney",
+      "stylized"
+    ]
+  },
+  "asset": {
+    "id": "kenney-new-platformer-pack-spritesheets-spritesheet-tiles",
+    "name": "Tiles Tileset",
+    "description": "Platformer tileset atlas (Tiles Tileset).",
+    "kind": "tileset",
+    "format": "png",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-new-platformer-pack-bee3e21a5a86/kenney-new-platformer-pack-spritesheets-spritesheet-tiles.png",
+    "tags": [
+      "platformer",
+      "2d",
+      "kenney",
+      "stylized",
+      "atlas",
+      "tile"
+    ],
+    "aliases": [],
+    "geometry": {
+      "bounds": {
+        "min": [
+          0,
+          0,
+          0
+        ],
+        "max": [
+          2321,
+          2321,
+          0
+        ],
+        "size": [
+          2321,
+          2321,
+          0
+        ],
+        "center": [
+          1160.5,
+          1160.5,
+          0
+        ],
+        "diagonal": 3282.389678
+      },
+      "triangleCount": null,
+      "drawCallCount": null,
+      "renderVertexCount": null,
+      "uploadVertexCount": null,
+      "meshCount": null,
+      "primitiveCount": null
+    },
+    "materials": {
+      "count": 0,
+      "alphaModes": [],
+      "doubleSidedCount": 0
+    },
+    "textures": {
+      "count": 1,
+      "embeddedCount": 0,
+      "externalCount": 1,
+      "maxResolution": [
+        2321,
+        2321
+      ]
+    },
+    "image": {
+      "width": 2321,
+      "height": 2321,
+      "hasAlpha": false,
+      "pixelArea": 5387041
+    },
+    "atlas": {
+      "format": "starling-xml",
+      "frameCount": 314,
+      "frameSize": [
+        128,
+        128
+      ],
+      "metadataRelativePath": "Spritesheets/spritesheet-tiles-double.xml",
+      "sampleNames": [
+        "block_blue",
+        "block_coin",
+        "block_coin_active",
+        "block_empty",
+        "block_empty_warning",
+        "block_exclamation",
+        "block_exclamation_active",
+        "block_green",
+        "block_plank",
+        "block_planks",
+        "block_red",
+        "block_spikes"
+      ]
+    },
+    "animated": true,
+    "animationCount": 18,
+    "animations": [
+      {
+        "name": "Flag Blue",
+        "durationSec": null,
+        "keyframes": 2,
+        "targetPaths": [
+          "frame"
+        ],
+        "interpolations": [
+          "step"
+        ]
+      },
+      {
+        "name": "Flag Green",
+        "durationSec": null,
+        "keyframes": 2,
+        "targetPaths": [
+          "frame"
+        ],
+        "interpolations": [
+          "step"
+        ]
+      },
+      {
+        "name": "Flag Red",
+        "durationSec": null,
+        "keyframes": 2,
+        "targetPaths": [
+          "frame"
+        ],
+        "interpolations": [
+          "step"
+        ]
+      },
+      {
+        "name": "Flag Yellow",
+        "durationSec": null,
+        "keyframes": 2,
+        "targetPaths": [
+          "frame"
+        ],
+        "interpolations": [
+          "step"
+        ]
+      },
+      {
+        "name": "Hud Character",
+        "durationSec": null,
+        "keyframes": 10,
+        "targetPaths": [
+          "frame"
+        ],
+        "interpolations": [
+          "step"
+        ]
+      },
+      {
+        "name": "Terrain Dirt Ramp Long",
+        "durationSec": null,
+        "keyframes": 3,
+        "targetPaths": [
+          "frame"
+        ],
+        "interpolations": [
+          "step"
+        ]
+      },
+      {
+        "name": "Terrain Dirt Ramp Short",
+        "durationSec": null,
+        "keyframes": 2,
+        "targetPaths": [
+          "frame"
+        ],
+        "interpolations": [
+          "step"
+        ]
+      },
+      {
+        "name": "Terrain Grass Ramp Long",
+        "durationSec": null,
+        "keyframes": 3,
+        "targetPaths": [
+          "frame"
+        ],
+        "interpolations": [
+          "step"
+        ]
+      },
+      {
+        "name": "Terrain Grass Ramp Short",
+        "durationSec": null,
+        "keyframes": 2,
+        "targetPaths": [
+          "frame"
+        ],
+        "interpolations": [
+          "step"
+        ]
+      },
+      {
+        "name": "Terrain Purple Ramp Long",
+        "durationSec": null,
+        "keyframes": 3,
+        "targetPaths": [
+          "frame"
+        ],
+        "interpolations": [
+          "step"
+        ]
+      },
+      {
+        "name": "Terrain Purple Ramp Short",
+        "durationSec": null,
+        "keyframes": 2,
+        "targetPaths": [
+          "frame"
+        ],
+        "interpolations": [
+          "step"
+        ]
+      },
+      {
+        "name": "Terrain Sand Ramp Long",
+        "durationSec": null,
+        "keyframes": 3,
+        "targetPaths": [
+          "frame"
+        ],
+        "interpolations": [
+          "step"
+        ]
+      },
+      {
+        "name": "Terrain Sand Ramp Short",
+        "durationSec": null,
+        "keyframes": 2,
+        "targetPaths": [
+          "frame"
+        ],
+        "interpolations": [
+          "step"
+        ]
+      },
+      {
+        "name": "Terrain Snow Ramp Long",
+        "durationSec": null,
+        "keyframes": 3,
+        "targetPaths": [
+          "frame"
+        ],
+        "interpolations": [
+          "step"
+        ]
+      },
+      {
+        "name": "Terrain Snow Ramp Short",
+        "durationSec": null,
+        "keyframes": 2,
+        "targetPaths": [
+          "frame"
+        ],
+        "interpolations": [
+          "step"
+        ]
+      },
+      {
+        "name": "Terrain Stone Ramp Long",
+        "durationSec": null,
+        "keyframes": 3,
+        "targetPaths": [
+          "frame"
+        ],
+        "interpolations": [
+          "step"
+        ]
+      },
+      {
+        "name": "Terrain Stone Ramp Short",
+        "durationSec": null,
+        "keyframes": 2,
+        "targetPaths": [
+          "frame"
+        ],
+        "interpolations": [
+          "step"
+        ]
+      },
+      {
+        "name": "Torch On",
+        "durationSec": null,
+        "keyframes": 2,
+        "targetPaths": [
+          "frame"
+        ],
+        "interpolations": [
+          "step"
+        ]
+      }
+    ],
+    "rig": {
+      "rigged": false,
+      "skinCount": 0,
+      "jointCountTotal": 0,
+      "skeletonRoots": [],
+      "hasInverseBindMatrices": false
+    },
+    "compatibility": {
+      "requiredExtensions": [],
+      "usedExtensions": [],
+      "dependencyMode": "external"
+    },
+    "quality": {
+      "warningCount": 0,
+      "errorCount": 0
+    }
+  }
+}

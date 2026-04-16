@@ -1,0 +1,354 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T07:37:18.383Z",
+  "pack": {
+    "id": "kenney-new-platformer-pack",
+    "name": "Kenney New Platformer Pack",
+    "creator": "Kenney",
+    "license": "CC0",
+    "tags": [
+      "platformer",
+      "2d",
+      "kenney",
+      "stylized"
+    ]
+  },
+  "asset": {
+    "id": "kenney-new-platformer-pack-spritesheets-spritesheet-backgrounds",
+    "name": "Backgrounds Sprite Sheet",
+    "description": "Platformer background sprite sheet (Backgrounds Sprite Sheet).",
+    "kind": "sprite-sheet",
+    "format": "png",
+    "relativePath": "Spritesheets/spritesheet-backgrounds-double.png",
+    "canonicalRelativePath": "Spritesheets/spritesheet-backgrounds.png",
+    "fileName": "spritesheet-backgrounds-double.png",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-new-platformer-pack-bee3e21a5a86/kenney-new-platformer-pack-spritesheets-spritesheet-backgrounds.png",
+    "file": {
+      "primaryBytes": 43968,
+      "totalBytes": 45243,
+      "primarySha256": "83d982486f5aab0e05f0159460bb7f7f97ed6a08a7b3d0792a8331ae8d245586",
+      "bundleSha256": "48abef279ec1b5195507aa27d20f299349b8e580733fc8dda00789115f9e6f4f",
+      "resourceCount": 2
+    },
+    "geometry": {
+      "bounds": {
+        "min": [
+          0,
+          0,
+          0
+        ],
+        "max": [
+          2051,
+          2051,
+          0
+        ],
+        "size": [
+          2051,
+          2051,
+          0
+        ],
+        "center": [
+          1025.5,
+          1025.5,
+          0
+        ],
+        "diagonal": 2900.552016
+      },
+      "triangleCount": null,
+      "drawCallCount": null,
+      "renderVertexCount": null,
+      "uploadVertexCount": null
+    },
+    "structure": {
+      "materialCount": 0,
+      "textureCount": 1,
+      "animationCount": 0,
+      "frameCount": 14
+    },
+    "image": {
+      "width": 2051,
+      "height": 2051,
+      "bitDepth": 8,
+      "colorType": 3,
+      "hasAlpha": false,
+      "pixelArea": 4206601
+    },
+    "atlas": {
+      "format": "starling-xml",
+      "metadataRelativePath": "Spritesheets/spritesheet-backgrounds-double.xml",
+      "imagePath": "spritesheet-backgrounds-double.png",
+      "subtextureCount": 14,
+      "frameSize": [
+        512,
+        512
+      ],
+      "minWidth": 512,
+      "maxWidth": 512,
+      "minHeight": 512,
+      "maxHeight": 512,
+      "sampleNames": [
+        "background_clouds",
+        "background_color_desert",
+        "background_color_hills",
+        "background_color_mushrooms",
+        "background_color_trees",
+        "background_fade_desert",
+        "background_fade_hills",
+        "background_fade_mushrooms",
+        "background_fade_trees",
+        "background_solid_cloud",
+        "background_solid_dirt",
+        "background_solid_grass",
+        "background_solid_sand",
+        "background_solid_sky"
+      ],
+      "subtextures": [
+        {
+          "name": "background_clouds",
+          "x": 0,
+          "y": 0,
+          "width": 512,
+          "height": 512,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "background_color_desert",
+          "x": 513,
+          "y": 0,
+          "width": 512,
+          "height": 512,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "background_color_hills",
+          "x": 1026,
+          "y": 0,
+          "width": 512,
+          "height": 512,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "background_color_mushrooms",
+          "x": 1539,
+          "y": 0,
+          "width": 512,
+          "height": 512,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "background_color_trees",
+          "x": 0,
+          "y": 513,
+          "width": 512,
+          "height": 512,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "background_fade_desert",
+          "x": 513,
+          "y": 513,
+          "width": 512,
+          "height": 512,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "background_fade_hills",
+          "x": 1026,
+          "y": 513,
+          "width": 512,
+          "height": 512,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "background_fade_mushrooms",
+          "x": 1539,
+          "y": 513,
+          "width": 512,
+          "height": 512,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "background_fade_trees",
+          "x": 0,
+          "y": 1026,
+          "width": 512,
+          "height": 512,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "background_solid_cloud",
+          "x": 513,
+          "y": 1026,
+          "width": 512,
+          "height": 512,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "background_solid_dirt",
+          "x": 1026,
+          "y": 1026,
+          "width": 512,
+          "height": 512,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "background_solid_grass",
+          "x": 1539,
+          "y": 1026,
+          "width": 512,
+          "height": 512,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "background_solid_sand",
+          "x": 0,
+          "y": 1539,
+          "width": 512,
+          "height": 512,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "background_solid_sky",
+          "x": 513,
+          "y": 1539,
+          "width": 512,
+          "height": 512,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        }
+      ]
+    },
+    "materials": [],
+    "textures": [
+      {
+        "name": "spritesheet-backgrounds-double.png",
+        "uri": "spritesheet-backgrounds-double.png",
+        "mimeType": "image/png",
+        "width": 2051,
+        "height": 2051,
+        "byteSize": 43968,
+        "gpuByteSize": null,
+        "compression": null,
+        "slots": [
+          "diffuse"
+        ],
+        "embedded": false
+      }
+    ],
+    "animations": [],
+    "skins": [],
+    "resources": [
+      {
+        "kind": "image",
+        "uri": "spritesheet-backgrounds-double.png",
+        "relativePath": "Spritesheets/spritesheet-backgrounds-double.png",
+        "bytes": 43968,
+        "sha256": "83d982486f5aab0e05f0159460bb7f7f97ed6a08a7b3d0792a8331ae8d245586",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      },
+      {
+        "kind": "atlas",
+        "uri": "spritesheet-backgrounds-double.xml",
+        "relativePath": "Spritesheets/spritesheet-backgrounds-double.xml",
+        "bytes": 1275,
+        "sha256": "b6aaee7ea017b825f8836963a35fb5d707fff5c6e756f0915f6a6a646702c378",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      }
+    ],
+    "source": {
+      "inputRoot": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source",
+      "absolutePath": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source/Spritesheets/spritesheet-backgrounds-double.png",
+      "companionAbsolutePath": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source/Spritesheets/spritesheet-backgrounds-double.xml"
+    },
+    "metadata": {
+      "variant": "double",
+      "extensions": {
+        "used": [],
+        "required": []
+      }
+    },
+    "search": {
+      "tags": [
+        "platformer",
+        "2d",
+        "kenney",
+        "stylized",
+        "atlas",
+        "background"
+      ],
+      "aliases": [],
+      "tokens": [
+        "2d",
+        "background",
+        "backgrounds",
+        "characters",
+        "cloud",
+        "clouds",
+        "color",
+        "desert",
+        "dirt",
+        "enemies",
+        "fade",
+        "grass",
+        "hills",
+        "kenney",
+        "mushrooms",
+        "new",
+        "platformer",
+        "sand",
+        "sky",
+        "solid",
+        "spritesheets",
+        "stylized",
+        "trees"
+      ]
+    },
+    "warnings": [],
+    "errors": []
+  }
+}

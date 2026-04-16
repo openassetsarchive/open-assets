@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T07:37:18.383Z",
+  "pack": {
+    "id": "kenney-new-platformer-pack",
+    "name": "Kenney New Platformer Pack",
+    "creator": "Kenney",
+    "license": "CC0",
+    "tags": [
+      "platformer",
+      "2d",
+      "kenney",
+      "stylized"
+    ]
+  },
+  "asset": {
+    "id": "kenney-new-platformer-pack-sprites-backgrounds-background-color-desert",
+    "name": "Background Color Desert",
+    "description": "Platformer background sprite (Background Color Desert).",
+    "kind": "sprite",
+    "format": "png",
+    "relativePath": "Sprites/Backgrounds/Double/background_color_desert.png",
+    "canonicalRelativePath": "Sprites/Backgrounds/background_color_desert.png",
+    "fileName": "background_color_desert.png",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-new-platformer-pack-bee3e21a5a86/kenney-new-platformer-pack-sprites-backgrounds-background-color-desert.png",
+    "file": {
+      "primaryBytes": 5493,
+      "totalBytes": 5493,
+      "primarySha256": "7e7b562512a21d2fc843c64ad33e85c175f024fa8e49cb2499dab12e8c93954d",
+      "bundleSha256": "4e3e91e533a64384683df73a7709602d2fcf3fd0dceb2315ccfc52357c5531d8",
+      "resourceCount": 1
+    },
+    "geometry": {
+      "bounds": {
+        "min": [
+          0,
+          0,
+          0
+        ],
+        "max": [
+          512,
+          512,
+          0
+        ],
+        "size": [
+          512,
+          512,
+          0
+        ],
+        "center": [
+          256,
+          256,
+          0
+        ],
+        "diagonal": 724.077344
+      },
+      "triangleCount": null,
+      "drawCallCount": null,
+      "renderVertexCount": null,
+      "uploadVertexCount": null
+    },
+    "structure": {
+      "materialCount": 0,
+      "textureCount": 1,
+      "animationCount": 0,
+      "frameCount": 1
+    },
+    "image": {
+      "width": 512,
+      "height": 512,
+      "bitDepth": 8,
+      "colorType": 3,
+      "hasAlpha": false,
+      "pixelArea": 262144
+    },
+    "atlas": null,
+    "materials": [],
+    "textures": [
+      {
+        "name": "background_color_desert.png",
+        "uri": "background_color_desert.png",
+        "mimeType": "image/png",
+        "width": 512,
+        "height": 512,
+        "byteSize": 5493,
+        "gpuByteSize": null,
+        "compression": null,
+        "slots": [
+          "diffuse"
+        ],
+        "embedded": false
+      }
+    ],
+    "animations": [],
+    "skins": [],
+    "resources": [
+      {
+        "kind": "image",
+        "uri": "background_color_desert.png",
+        "relativePath": "Sprites/Backgrounds/Double/background_color_desert.png",
+        "bytes": 5493,
+        "sha256": "7e7b562512a21d2fc843c64ad33e85c175f024fa8e49cb2499dab12e8c93954d",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      }
+    ],
+    "source": {
+      "inputRoot": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source",
+      "absolutePath": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source/Sprites/Backgrounds/Double/background_color_desert.png",
+      "companionAbsolutePath": null
+    },
+    "metadata": {
+      "variant": "double",
+      "extensions": {
+        "used": [],
+        "required": []
+      }
+    },
+    "search": {
+      "tags": [
+        "platformer",
+        "2d",
+        "kenney",
+        "stylized",
+        "background"
+      ],
+      "aliases": [],
+      "tokens": [
+        "2d",
+        "background",
+        "backgrounds",
+        "characters",
+        "color",
+        "desert",
+        "enemies",
+        "kenney",
+        "new",
+        "platformer",
+        "stylized"
+      ]
+    },
+    "warnings": [],
+    "errors": []
+  }
+}

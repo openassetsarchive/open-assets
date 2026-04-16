@@ -1,0 +1,4105 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T07:37:18.383Z",
+  "pack": {
+    "id": "kenney-new-platformer-pack",
+    "name": "Kenney New Platformer Pack",
+    "creator": "Kenney",
+    "license": "CC0",
+    "tags": [
+      "platformer",
+      "2d",
+      "kenney",
+      "stylized"
+    ]
+  },
+  "asset": {
+    "id": "kenney-new-platformer-pack-spritesheets-spritesheet-tiles",
+    "name": "Tiles Tileset",
+    "description": "Platformer tileset atlas (Tiles Tileset).",
+    "kind": "tileset",
+    "format": "png",
+    "relativePath": "Spritesheets/spritesheet-tiles-double.png",
+    "canonicalRelativePath": "Spritesheets/spritesheet-tiles.png",
+    "fileName": "spritesheet-tiles-double.png",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-new-platformer-pack-bee3e21a5a86/kenney-new-platformer-pack-spritesheets-spritesheet-tiles.png",
+    "file": {
+      "primaryBytes": 253997,
+      "totalBytes": 280747,
+      "primarySha256": "f715e892019294ff762aad4366ea49e2e606fff75c743f4c0c0e59451b15180b",
+      "bundleSha256": "04bfe4cadd7070887623b7b9ef93f07a4f342878dc5addadc28f10c0b0705464",
+      "resourceCount": 2
+    },
+    "geometry": {
+      "bounds": {
+        "min": [
+          0,
+          0,
+          0
+        ],
+        "max": [
+          2321,
+          2321,
+          0
+        ],
+        "size": [
+          2321,
+          2321,
+          0
+        ],
+        "center": [
+          1160.5,
+          1160.5,
+          0
+        ],
+        "diagonal": 3282.389678
+      },
+      "triangleCount": null,
+      "drawCallCount": null,
+      "renderVertexCount": null,
+      "uploadVertexCount": null
+    },
+    "structure": {
+      "materialCount": 0,
+      "textureCount": 1,
+      "animationCount": 18,
+      "frameCount": 314
+    },
+    "image": {
+      "width": 2321,
+      "height": 2321,
+      "bitDepth": 8,
+      "colorType": 3,
+      "hasAlpha": false,
+      "pixelArea": 5387041
+    },
+    "atlas": {
+      "format": "starling-xml",
+      "metadataRelativePath": "Spritesheets/spritesheet-tiles-double.xml",
+      "imagePath": "spritesheet-tiles-double.png",
+      "subtextureCount": 314,
+      "frameSize": [
+        128,
+        128
+      ],
+      "minWidth": 128,
+      "maxWidth": 128,
+      "minHeight": 128,
+      "maxHeight": 128,
+      "sampleNames": [
+        "block_blue",
+        "block_coin",
+        "block_coin_active",
+        "block_empty",
+        "block_empty_warning",
+        "block_exclamation",
+        "block_exclamation_active",
+        "block_green",
+        "block_plank",
+        "block_planks",
+        "block_red",
+        "block_spikes",
+        "block_strong_coin",
+        "block_strong_coin_active",
+        "block_strong_danger",
+        "block_strong_danger_active",
+        "block_strong_empty",
+        "block_strong_empty_active",
+        "block_strong_exclamation",
+        "block_strong_exclamation_active",
+        "block_yellow",
+        "bomb",
+        "bomb_active",
+        "brick_brown"
+      ],
+      "subtextures": [
+        {
+          "name": "block_blue",
+          "x": 0,
+          "y": 0,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "block_coin",
+          "x": 129,
+          "y": 0,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "block_coin_active",
+          "x": 258,
+          "y": 0,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "block_empty",
+          "x": 387,
+          "y": 0,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "block_empty_warning",
+          "x": 516,
+          "y": 0,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "block_exclamation",
+          "x": 645,
+          "y": 0,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "block_exclamation_active",
+          "x": 774,
+          "y": 0,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "block_green",
+          "x": 903,
+          "y": 0,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "block_plank",
+          "x": 1032,
+          "y": 0,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "block_planks",
+          "x": 1161,
+          "y": 0,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "block_red",
+          "x": 1290,
+          "y": 0,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "block_spikes",
+          "x": 1419,
+          "y": 0,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "block_strong_coin",
+          "x": 1548,
+          "y": 0,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "block_strong_coin_active",
+          "x": 1677,
+          "y": 0,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "block_strong_danger",
+          "x": 1806,
+          "y": 0,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "block_strong_danger_active",
+          "x": 1935,
+          "y": 0,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "block_strong_empty",
+          "x": 2064,
+          "y": 0,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "block_strong_empty_active",
+          "x": 2193,
+          "y": 0,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "block_strong_exclamation",
+          "x": 0,
+          "y": 129,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "block_strong_exclamation_active",
+          "x": 129,
+          "y": 129,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "block_yellow",
+          "x": 258,
+          "y": 129,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "bomb",
+          "x": 387,
+          "y": 129,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "bomb_active",
+          "x": 516,
+          "y": 129,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "brick_brown",
+          "x": 645,
+          "y": 129,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "brick_brown_diagonal",
+          "x": 774,
+          "y": 129,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "brick_grey",
+          "x": 903,
+          "y": 129,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "brick_grey_diagonal",
+          "x": 1032,
+          "y": 129,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "bricks_brown",
+          "x": 1161,
+          "y": 129,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "bricks_grey",
+          "x": 1290,
+          "y": 129,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "bridge",
+          "x": 1419,
+          "y": 129,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "bridge_logs",
+          "x": 1548,
+          "y": 129,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "bush",
+          "x": 1677,
+          "y": 129,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "cactus",
+          "x": 1806,
+          "y": 129,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "chain",
+          "x": 1935,
+          "y": 129,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "coin_bronze",
+          "x": 2064,
+          "y": 129,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "coin_bronze_side",
+          "x": 2193,
+          "y": 129,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "coin_gold",
+          "x": 0,
+          "y": 258,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "coin_gold_side",
+          "x": 129,
+          "y": 258,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "coin_silver",
+          "x": 258,
+          "y": 258,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "coin_silver_side",
+          "x": 387,
+          "y": 258,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "conveyor",
+          "x": 516,
+          "y": 258,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "door_closed",
+          "x": 645,
+          "y": 258,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "door_closed_top",
+          "x": 774,
+          "y": 258,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "door_open",
+          "x": 903,
+          "y": 258,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "door_open_top",
+          "x": 1032,
+          "y": 258,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "fence",
+          "x": 1161,
+          "y": 258,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "fence_broken",
+          "x": 1290,
+          "y": 258,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "fireball",
+          "x": 1419,
+          "y": 258,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "flag_blue_a",
+          "x": 1548,
+          "y": 258,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "flag_blue_b",
+          "x": 1677,
+          "y": 258,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "flag_green_a",
+          "x": 1806,
+          "y": 258,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "flag_green_b",
+          "x": 1935,
+          "y": 258,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "flag_off",
+          "x": 2064,
+          "y": 258,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "flag_red_a",
+          "x": 2193,
+          "y": 258,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "flag_red_b",
+          "x": 0,
+          "y": 387,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "flag_yellow_a",
+          "x": 129,
+          "y": 387,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "flag_yellow_b",
+          "x": 258,
+          "y": 387,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "gem_blue",
+          "x": 387,
+          "y": 387,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "gem_green",
+          "x": 516,
+          "y": 387,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "gem_red",
+          "x": 645,
+          "y": 387,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "gem_yellow",
+          "x": 774,
+          "y": 387,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "grass",
+          "x": 903,
+          "y": 387,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "grass_purple",
+          "x": 1032,
+          "y": 387,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "heart",
+          "x": 1161,
+          "y": 387,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "hill",
+          "x": 1290,
+          "y": 387,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "hill_top",
+          "x": 1419,
+          "y": 387,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "hill_top_smile",
+          "x": 1548,
+          "y": 387,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "hud_character_0",
+          "x": 1677,
+          "y": 387,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "hud_character_1",
+          "x": 1806,
+          "y": 387,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "hud_character_2",
+          "x": 1935,
+          "y": 387,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "hud_character_3",
+          "x": 2064,
+          "y": 387,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "hud_character_4",
+          "x": 2193,
+          "y": 387,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "hud_character_5",
+          "x": 0,
+          "y": 516,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "hud_character_6",
+          "x": 129,
+          "y": 516,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "hud_character_7",
+          "x": 258,
+          "y": 516,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "hud_character_8",
+          "x": 387,
+          "y": 516,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "hud_character_9",
+          "x": 516,
+          "y": 516,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "hud_character_multiply",
+          "x": 645,
+          "y": 516,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "hud_character_percent",
+          "x": 774,
+          "y": 516,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "hud_coin",
+          "x": 903,
+          "y": 516,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "hud_heart",
+          "x": 1032,
+          "y": 516,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "hud_heart_empty",
+          "x": 1161,
+          "y": 516,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "hud_heart_half",
+          "x": 1290,
+          "y": 516,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "hud_key_blue",
+          "x": 1419,
+          "y": 516,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "hud_key_green",
+          "x": 1548,
+          "y": 516,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "hud_key_red",
+          "x": 1677,
+          "y": 516,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "hud_key_yellow",
+          "x": 1806,
+          "y": 516,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "hud_player_beige",
+          "x": 1935,
+          "y": 516,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "hud_player_green",
+          "x": 2064,
+          "y": 516,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "hud_player_helmet_beige",
+          "x": 2193,
+          "y": 516,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "hud_player_helmet_green",
+          "x": 0,
+          "y": 645,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "hud_player_helmet_pink",
+          "x": 129,
+          "y": 645,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "hud_player_helmet_purple",
+          "x": 258,
+          "y": 645,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "hud_player_helmet_yellow",
+          "x": 387,
+          "y": 645,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "hud_player_pink",
+          "x": 516,
+          "y": 645,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "hud_player_purple",
+          "x": 645,
+          "y": 645,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "hud_player_yellow",
+          "x": 774,
+          "y": 645,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "key_blue",
+          "x": 903,
+          "y": 645,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "key_green",
+          "x": 1032,
+          "y": 645,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "key_red",
+          "x": 1161,
+          "y": 645,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "key_yellow",
+          "x": 1290,
+          "y": 645,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "ladder_bottom",
+          "x": 1419,
+          "y": 645,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "ladder_middle",
+          "x": 1548,
+          "y": 645,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "ladder_top",
+          "x": 1677,
+          "y": 645,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "lava",
+          "x": 1806,
+          "y": 645,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "lava_top",
+          "x": 1935,
+          "y": 645,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "lava_top_low",
+          "x": 2064,
+          "y": 645,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "lever",
+          "x": 2193,
+          "y": 645,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "lever_left",
+          "x": 0,
+          "y": 774,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "lever_right",
+          "x": 129,
+          "y": 774,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "lock_blue",
+          "x": 258,
+          "y": 774,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "lock_green",
+          "x": 387,
+          "y": 774,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "lock_red",
+          "x": 516,
+          "y": 774,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "lock_yellow",
+          "x": 645,
+          "y": 774,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "mushroom_brown",
+          "x": 774,
+          "y": 774,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "mushroom_red",
+          "x": 903,
+          "y": 774,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "ramp",
+          "x": 1032,
+          "y": 774,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "rock",
+          "x": 1161,
+          "y": 774,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "rop_attached",
+          "x": 1290,
+          "y": 774,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "rope",
+          "x": 1419,
+          "y": 774,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "saw",
+          "x": 1548,
+          "y": 774,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "sign",
+          "x": 1677,
+          "y": 774,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "sign_exit",
+          "x": 1806,
+          "y": 774,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "sign_left",
+          "x": 1935,
+          "y": 774,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "sign_right",
+          "x": 2064,
+          "y": 774,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "snow",
+          "x": 2193,
+          "y": 774,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "spikes",
+          "x": 0,
+          "y": 903,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "spring",
+          "x": 129,
+          "y": 903,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "spring_out",
+          "x": 258,
+          "y": 903,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "star",
+          "x": 387,
+          "y": 903,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "switch_blue",
+          "x": 516,
+          "y": 903,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "switch_blue_pressed",
+          "x": 645,
+          "y": 903,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "switch_green",
+          "x": 774,
+          "y": 903,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "switch_green_pressed",
+          "x": 903,
+          "y": 903,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "switch_red",
+          "x": 1032,
+          "y": 903,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "switch_red_pressed",
+          "x": 1161,
+          "y": 903,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "switch_yellow",
+          "x": 1290,
+          "y": 903,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "switch_yellow_pressed",
+          "x": 1419,
+          "y": 903,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_dirt_block",
+          "x": 1548,
+          "y": 903,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_dirt_block_bottom",
+          "x": 1677,
+          "y": 903,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_dirt_block_bottom_left",
+          "x": 1806,
+          "y": 903,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_dirt_block_bottom_right",
+          "x": 1935,
+          "y": 903,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_dirt_block_center",
+          "x": 2064,
+          "y": 903,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_dirt_block_left",
+          "x": 2193,
+          "y": 903,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_dirt_block_right",
+          "x": 0,
+          "y": 1032,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_dirt_block_top",
+          "x": 129,
+          "y": 1032,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_dirt_block_top_left",
+          "x": 258,
+          "y": 1032,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_dirt_block_top_right",
+          "x": 387,
+          "y": 1032,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_dirt_cloud",
+          "x": 516,
+          "y": 1032,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_dirt_cloud_background",
+          "x": 645,
+          "y": 1032,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_dirt_cloud_left",
+          "x": 774,
+          "y": 1032,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_dirt_cloud_middle",
+          "x": 903,
+          "y": 1032,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_dirt_cloud_right",
+          "x": 1032,
+          "y": 1032,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_dirt_horizontal_left",
+          "x": 1161,
+          "y": 1032,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_dirt_horizontal_middle",
+          "x": 1290,
+          "y": 1032,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_dirt_horizontal_overhang_left",
+          "x": 1419,
+          "y": 1032,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_dirt_horizontal_overhang_right",
+          "x": 1548,
+          "y": 1032,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_dirt_horizontal_right",
+          "x": 1677,
+          "y": 1032,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_dirt_ramp_long_a",
+          "x": 1806,
+          "y": 1032,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_dirt_ramp_long_b",
+          "x": 1935,
+          "y": 1032,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_dirt_ramp_long_c",
+          "x": 2064,
+          "y": 1032,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_dirt_ramp_short_a",
+          "x": 2193,
+          "y": 1032,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_dirt_ramp_short_b",
+          "x": 0,
+          "y": 1161,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_dirt_vertical_bottom",
+          "x": 129,
+          "y": 1161,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_dirt_vertical_middle",
+          "x": 258,
+          "y": 1161,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_dirt_vertical_top",
+          "x": 387,
+          "y": 1161,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_grass_block",
+          "x": 516,
+          "y": 1161,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_grass_block_bottom",
+          "x": 645,
+          "y": 1161,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_grass_block_bottom_left",
+          "x": 774,
+          "y": 1161,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_grass_block_bottom_right",
+          "x": 903,
+          "y": 1161,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_grass_block_center",
+          "x": 1032,
+          "y": 1161,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_grass_block_left",
+          "x": 1161,
+          "y": 1161,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_grass_block_right",
+          "x": 1290,
+          "y": 1161,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_grass_block_top",
+          "x": 1419,
+          "y": 1161,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_grass_block_top_left",
+          "x": 1548,
+          "y": 1161,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_grass_block_top_right",
+          "x": 1677,
+          "y": 1161,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_grass_cloud",
+          "x": 1806,
+          "y": 1161,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_grass_cloud_background",
+          "x": 1935,
+          "y": 1161,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_grass_cloud_left",
+          "x": 2064,
+          "y": 1161,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_grass_cloud_middle",
+          "x": 2193,
+          "y": 1161,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_grass_cloud_right",
+          "x": 0,
+          "y": 1290,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_grass_horizontal_left",
+          "x": 129,
+          "y": 1290,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_grass_horizontal_middle",
+          "x": 258,
+          "y": 1290,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_grass_horizontal_overhang_left",
+          "x": 387,
+          "y": 1290,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_grass_horizontal_overhang_right",
+          "x": 516,
+          "y": 1290,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_grass_horizontal_right",
+          "x": 645,
+          "y": 1290,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_grass_ramp_long_a",
+          "x": 774,
+          "y": 1290,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_grass_ramp_long_b",
+          "x": 903,
+          "y": 1290,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_grass_ramp_long_c",
+          "x": 1032,
+          "y": 1290,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_grass_ramp_short_a",
+          "x": 1161,
+          "y": 1290,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_grass_ramp_short_b",
+          "x": 1290,
+          "y": 1290,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_grass_vertical_bottom",
+          "x": 1419,
+          "y": 1290,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_grass_vertical_middle",
+          "x": 1548,
+          "y": 1290,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_grass_vertical_top",
+          "x": 1677,
+          "y": 1290,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_purple_block",
+          "x": 1806,
+          "y": 1290,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_purple_block_bottom",
+          "x": 1935,
+          "y": 1290,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_purple_block_bottom_left",
+          "x": 2064,
+          "y": 1290,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_purple_block_bottom_right",
+          "x": 2193,
+          "y": 1290,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_purple_block_center",
+          "x": 0,
+          "y": 1419,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_purple_block_left",
+          "x": 129,
+          "y": 1419,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_purple_block_right",
+          "x": 258,
+          "y": 1419,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_purple_block_top",
+          "x": 387,
+          "y": 1419,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_purple_block_top_left",
+          "x": 516,
+          "y": 1419,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_purple_block_top_right",
+          "x": 645,
+          "y": 1419,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_purple_cloud",
+          "x": 774,
+          "y": 1419,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_purple_cloud_background",
+          "x": 903,
+          "y": 1419,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_purple_cloud_left",
+          "x": 1032,
+          "y": 1419,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_purple_cloud_middle",
+          "x": 1161,
+          "y": 1419,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_purple_cloud_right",
+          "x": 1290,
+          "y": 1419,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_purple_horizontal_left",
+          "x": 1419,
+          "y": 1419,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_purple_horizontal_middle",
+          "x": 1548,
+          "y": 1419,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_purple_horizontal_overhang_left",
+          "x": 1677,
+          "y": 1419,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_purple_horizontal_overhang_right",
+          "x": 1806,
+          "y": 1419,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_purple_horizontal_right",
+          "x": 1935,
+          "y": 1419,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_purple_ramp_long_a",
+          "x": 2064,
+          "y": 1419,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_purple_ramp_long_b",
+          "x": 2193,
+          "y": 1419,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_purple_ramp_long_c",
+          "x": 0,
+          "y": 1548,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_purple_ramp_short_a",
+          "x": 129,
+          "y": 1548,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_purple_ramp_short_b",
+          "x": 258,
+          "y": 1548,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_purple_vertical_bottom",
+          "x": 387,
+          "y": 1548,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_purple_vertical_middle",
+          "x": 516,
+          "y": 1548,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_purple_vertical_top",
+          "x": 645,
+          "y": 1548,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_sand_block",
+          "x": 774,
+          "y": 1548,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_sand_block_bottom",
+          "x": 903,
+          "y": 1548,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_sand_block_bottom_left",
+          "x": 1032,
+          "y": 1548,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_sand_block_bottom_right",
+          "x": 1161,
+          "y": 1548,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_sand_block_center",
+          "x": 1290,
+          "y": 1548,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_sand_block_left",
+          "x": 1419,
+          "y": 1548,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_sand_block_right",
+          "x": 1548,
+          "y": 1548,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_sand_block_top",
+          "x": 1677,
+          "y": 1548,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_sand_block_top_left",
+          "x": 1806,
+          "y": 1548,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_sand_block_top_right",
+          "x": 1935,
+          "y": 1548,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_sand_cloud",
+          "x": 2064,
+          "y": 1548,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_sand_cloud_background",
+          "x": 2193,
+          "y": 1548,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_sand_cloud_left",
+          "x": 0,
+          "y": 1677,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_sand_cloud_middle",
+          "x": 129,
+          "y": 1677,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_sand_cloud_right",
+          "x": 258,
+          "y": 1677,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_sand_horizontal_left",
+          "x": 387,
+          "y": 1677,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_sand_horizontal_middle",
+          "x": 516,
+          "y": 1677,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_sand_horizontal_overhang_left",
+          "x": 645,
+          "y": 1677,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_sand_horizontal_overhang_right",
+          "x": 774,
+          "y": 1677,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_sand_horizontal_right",
+          "x": 903,
+          "y": 1677,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_sand_ramp_long_a",
+          "x": 1032,
+          "y": 1677,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_sand_ramp_long_b",
+          "x": 1161,
+          "y": 1677,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_sand_ramp_long_c",
+          "x": 1290,
+          "y": 1677,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_sand_ramp_short_a",
+          "x": 1419,
+          "y": 1677,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_sand_ramp_short_b",
+          "x": 1548,
+          "y": 1677,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_sand_vertical_bottom",
+          "x": 1677,
+          "y": 1677,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_sand_vertical_middle",
+          "x": 1806,
+          "y": 1677,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_sand_vertical_top",
+          "x": 1935,
+          "y": 1677,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_snow_block",
+          "x": 2064,
+          "y": 1677,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_snow_block_bottom",
+          "x": 2193,
+          "y": 1677,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_snow_block_bottom_left",
+          "x": 0,
+          "y": 1806,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_snow_block_bottom_right",
+          "x": 129,
+          "y": 1806,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_snow_block_center",
+          "x": 258,
+          "y": 1806,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_snow_block_left",
+          "x": 387,
+          "y": 1806,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_snow_block_right",
+          "x": 516,
+          "y": 1806,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_snow_block_top",
+          "x": 645,
+          "y": 1806,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_snow_block_top_left",
+          "x": 774,
+          "y": 1806,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_snow_block_top_right",
+          "x": 903,
+          "y": 1806,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_snow_cloud",
+          "x": 1032,
+          "y": 1806,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_snow_cloud_background",
+          "x": 1161,
+          "y": 1806,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_snow_cloud_left",
+          "x": 1290,
+          "y": 1806,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_snow_cloud_middle",
+          "x": 1419,
+          "y": 1806,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_snow_cloud_right",
+          "x": 1548,
+          "y": 1806,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_snow_horizontal_left",
+          "x": 1677,
+          "y": 1806,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_snow_horizontal_middle",
+          "x": 1806,
+          "y": 1806,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_snow_horizontal_overhang_left",
+          "x": 1935,
+          "y": 1806,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_snow_horizontal_overhang_right",
+          "x": 2064,
+          "y": 1806,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_snow_horizontal_right",
+          "x": 2193,
+          "y": 1806,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_snow_ramp_long_a",
+          "x": 0,
+          "y": 1935,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_snow_ramp_long_b",
+          "x": 129,
+          "y": 1935,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_snow_ramp_long_c",
+          "x": 258,
+          "y": 1935,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_snow_ramp_short_a",
+          "x": 387,
+          "y": 1935,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_snow_ramp_short_b",
+          "x": 516,
+          "y": 1935,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_snow_vertical_bottom",
+          "x": 645,
+          "y": 1935,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_snow_vertical_middle",
+          "x": 774,
+          "y": 1935,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_snow_vertical_top",
+          "x": 903,
+          "y": 1935,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_stone_block",
+          "x": 1032,
+          "y": 1935,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_stone_block_bottom",
+          "x": 1161,
+          "y": 1935,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_stone_block_bottom_left",
+          "x": 1290,
+          "y": 1935,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_stone_block_bottom_right",
+          "x": 1419,
+          "y": 1935,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_stone_block_center",
+          "x": 1548,
+          "y": 1935,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_stone_block_left",
+          "x": 1677,
+          "y": 1935,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_stone_block_right",
+          "x": 1806,
+          "y": 1935,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_stone_block_top",
+          "x": 1935,
+          "y": 1935,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_stone_block_top_left",
+          "x": 2064,
+          "y": 1935,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_stone_block_top_right",
+          "x": 2193,
+          "y": 1935,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_stone_cloud",
+          "x": 0,
+          "y": 2064,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_stone_cloud_background",
+          "x": 129,
+          "y": 2064,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_stone_cloud_left",
+          "x": 258,
+          "y": 2064,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_stone_cloud_middle",
+          "x": 387,
+          "y": 2064,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_stone_cloud_right",
+          "x": 516,
+          "y": 2064,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_stone_horizontal_left",
+          "x": 645,
+          "y": 2064,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_stone_horizontal_middle",
+          "x": 774,
+          "y": 2064,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_stone_horizontal_overhang_left",
+          "x": 903,
+          "y": 2064,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_stone_horizontal_overhang_right",
+          "x": 1032,
+          "y": 2064,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_stone_horizontal_right",
+          "x": 1161,
+          "y": 2064,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_stone_ramp_long_a",
+          "x": 1290,
+          "y": 2064,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_stone_ramp_long_b",
+          "x": 1419,
+          "y": 2064,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_stone_ramp_long_c",
+          "x": 1548,
+          "y": 2064,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_stone_ramp_short_a",
+          "x": 1677,
+          "y": 2064,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_stone_ramp_short_b",
+          "x": 1806,
+          "y": 2064,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_stone_vertical_bottom",
+          "x": 1935,
+          "y": 2064,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_stone_vertical_middle",
+          "x": 2064,
+          "y": 2064,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "terrain_stone_vertical_top",
+          "x": 2193,
+          "y": 2064,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "torch_off",
+          "x": 0,
+          "y": 2193,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "torch_on_a",
+          "x": 129,
+          "y": 2193,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "torch_on_b",
+          "x": 258,
+          "y": 2193,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "water",
+          "x": 387,
+          "y": 2193,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "water_top",
+          "x": 516,
+          "y": 2193,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "water_top_low",
+          "x": 645,
+          "y": 2193,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "weight",
+          "x": 774,
+          "y": 2193,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "window",
+          "x": 903,
+          "y": 2193,
+          "width": 128,
+          "height": 128,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        }
+      ]
+    },
+    "materials": [],
+    "textures": [
+      {
+        "name": "spritesheet-tiles-double.png",
+        "uri": "spritesheet-tiles-double.png",
+        "mimeType": "image/png",
+        "width": 2321,
+        "height": 2321,
+        "byteSize": 253997,
+        "gpuByteSize": null,
+        "compression": null,
+        "slots": [
+          "diffuse"
+        ],
+        "embedded": false
+      }
+    ],
+    "animations": [
+      {
+        "name": "Flag Blue",
+        "durationSec": null,
+        "channels": 1,
+        "samplers": 1,
+        "keyframes": 2,
+        "targetPaths": [
+          "frame"
+        ],
+        "targetNodes": [],
+        "interpolations": [
+          "step"
+        ],
+        "frameNames": [
+          "flag_blue_a",
+          "flag_blue_b"
+        ],
+        "byteSize": null
+      },
+      {
+        "name": "Flag Green",
+        "durationSec": null,
+        "channels": 1,
+        "samplers": 1,
+        "keyframes": 2,
+        "targetPaths": [
+          "frame"
+        ],
+        "targetNodes": [],
+        "interpolations": [
+          "step"
+        ],
+        "frameNames": [
+          "flag_green_a",
+          "flag_green_b"
+        ],
+        "byteSize": null
+      },
+      {
+        "name": "Flag Red",
+        "durationSec": null,
+        "channels": 1,
+        "samplers": 1,
+        "keyframes": 2,
+        "targetPaths": [
+          "frame"
+        ],
+        "targetNodes": [],
+        "interpolations": [
+          "step"
+        ],
+        "frameNames": [
+          "flag_red_a",
+          "flag_red_b"
+        ],
+        "byteSize": null
+      },
+      {
+        "name": "Flag Yellow",
+        "durationSec": null,
+        "channels": 1,
+        "samplers": 1,
+        "keyframes": 2,
+        "targetPaths": [
+          "frame"
+        ],
+        "targetNodes": [],
+        "interpolations": [
+          "step"
+        ],
+        "frameNames": [
+          "flag_yellow_a",
+          "flag_yellow_b"
+        ],
+        "byteSize": null
+      },
+      {
+        "name": "Hud Character",
+        "durationSec": null,
+        "channels": 1,
+        "samplers": 1,
+        "keyframes": 10,
+        "targetPaths": [
+          "frame"
+        ],
+        "targetNodes": [],
+        "interpolations": [
+          "step"
+        ],
+        "frameNames": [
+          "hud_character_0",
+          "hud_character_1",
+          "hud_character_2",
+          "hud_character_3",
+          "hud_character_4",
+          "hud_character_5",
+          "hud_character_6",
+          "hud_character_7",
+          "hud_character_8",
+          "hud_character_9"
+        ],
+        "byteSize": null
+      },
+      {
+        "name": "Terrain Dirt Ramp Long",
+        "durationSec": null,
+        "channels": 1,
+        "samplers": 1,
+        "keyframes": 3,
+        "targetPaths": [
+          "frame"
+        ],
+        "targetNodes": [],
+        "interpolations": [
+          "step"
+        ],
+        "frameNames": [
+          "terrain_dirt_ramp_long_a",
+          "terrain_dirt_ramp_long_b",
+          "terrain_dirt_ramp_long_c"
+        ],
+        "byteSize": null
+      },
+      {
+        "name": "Terrain Dirt Ramp Short",
+        "durationSec": null,
+        "channels": 1,
+        "samplers": 1,
+        "keyframes": 2,
+        "targetPaths": [
+          "frame"
+        ],
+        "targetNodes": [],
+        "interpolations": [
+          "step"
+        ],
+        "frameNames": [
+          "terrain_dirt_ramp_short_a",
+          "terrain_dirt_ramp_short_b"
+        ],
+        "byteSize": null
+      },
+      {
+        "name": "Terrain Grass Ramp Long",
+        "durationSec": null,
+        "channels": 1,
+        "samplers": 1,
+        "keyframes": 3,
+        "targetPaths": [
+          "frame"
+        ],
+        "targetNodes": [],
+        "interpolations": [
+          "step"
+        ],
+        "frameNames": [
+          "terrain_grass_ramp_long_a",
+          "terrain_grass_ramp_long_b",
+          "terrain_grass_ramp_long_c"
+        ],
+        "byteSize": null
+      },
+      {
+        "name": "Terrain Grass Ramp Short",
+        "durationSec": null,
+        "channels": 1,
+        "samplers": 1,
+        "keyframes": 2,
+        "targetPaths": [
+          "frame"
+        ],
+        "targetNodes": [],
+        "interpolations": [
+          "step"
+        ],
+        "frameNames": [
+          "terrain_grass_ramp_short_a",
+          "terrain_grass_ramp_short_b"
+        ],
+        "byteSize": null
+      },
+      {
+        "name": "Terrain Purple Ramp Long",
+        "durationSec": null,
+        "channels": 1,
+        "samplers": 1,
+        "keyframes": 3,
+        "targetPaths": [
+          "frame"
+        ],
+        "targetNodes": [],
+        "interpolations": [
+          "step"
+        ],
+        "frameNames": [
+          "terrain_purple_ramp_long_a",
+          "terrain_purple_ramp_long_b",
+          "terrain_purple_ramp_long_c"
+        ],
+        "byteSize": null
+      },
+      {
+        "name": "Terrain Purple Ramp Short",
+        "durationSec": null,
+        "channels": 1,
+        "samplers": 1,
+        "keyframes": 2,
+        "targetPaths": [
+          "frame"
+        ],
+        "targetNodes": [],
+        "interpolations": [
+          "step"
+        ],
+        "frameNames": [
+          "terrain_purple_ramp_short_a",
+          "terrain_purple_ramp_short_b"
+        ],
+        "byteSize": null
+      },
+      {
+        "name": "Terrain Sand Ramp Long",
+        "durationSec": null,
+        "channels": 1,
+        "samplers": 1,
+        "keyframes": 3,
+        "targetPaths": [
+          "frame"
+        ],
+        "targetNodes": [],
+        "interpolations": [
+          "step"
+        ],
+        "frameNames": [
+          "terrain_sand_ramp_long_a",
+          "terrain_sand_ramp_long_b",
+          "terrain_sand_ramp_long_c"
+        ],
+        "byteSize": null
+      },
+      {
+        "name": "Terrain Sand Ramp Short",
+        "durationSec": null,
+        "channels": 1,
+        "samplers": 1,
+        "keyframes": 2,
+        "targetPaths": [
+          "frame"
+        ],
+        "targetNodes": [],
+        "interpolations": [
+          "step"
+        ],
+        "frameNames": [
+          "terrain_sand_ramp_short_a",
+          "terrain_sand_ramp_short_b"
+        ],
+        "byteSize": null
+      },
+      {
+        "name": "Terrain Snow Ramp Long",
+        "durationSec": null,
+        "channels": 1,
+        "samplers": 1,
+        "keyframes": 3,
+        "targetPaths": [
+          "frame"
+        ],
+        "targetNodes": [],
+        "interpolations": [
+          "step"
+        ],
+        "frameNames": [
+          "terrain_snow_ramp_long_a",
+          "terrain_snow_ramp_long_b",
+          "terrain_snow_ramp_long_c"
+        ],
+        "byteSize": null
+      },
+      {
+        "name": "Terrain Snow Ramp Short",
+        "durationSec": null,
+        "channels": 1,
+        "samplers": 1,
+        "keyframes": 2,
+        "targetPaths": [
+          "frame"
+        ],
+        "targetNodes": [],
+        "interpolations": [
+          "step"
+        ],
+        "frameNames": [
+          "terrain_snow_ramp_short_a",
+          "terrain_snow_ramp_short_b"
+        ],
+        "byteSize": null
+      },
+      {
+        "name": "Terrain Stone Ramp Long",
+        "durationSec": null,
+        "channels": 1,
+        "samplers": 1,
+        "keyframes": 3,
+        "targetPaths": [
+          "frame"
+        ],
+        "targetNodes": [],
+        "interpolations": [
+          "step"
+        ],
+        "frameNames": [
+          "terrain_stone_ramp_long_a",
+          "terrain_stone_ramp_long_b",
+          "terrain_stone_ramp_long_c"
+        ],
+        "byteSize": null
+      },
+      {
+        "name": "Terrain Stone Ramp Short",
+        "durationSec": null,
+        "channels": 1,
+        "samplers": 1,
+        "keyframes": 2,
+        "targetPaths": [
+          "frame"
+        ],
+        "targetNodes": [],
+        "interpolations": [
+          "step"
+        ],
+        "frameNames": [
+          "terrain_stone_ramp_short_a",
+          "terrain_stone_ramp_short_b"
+        ],
+        "byteSize": null
+      },
+      {
+        "name": "Torch On",
+        "durationSec": null,
+        "channels": 1,
+        "samplers": 1,
+        "keyframes": 2,
+        "targetPaths": [
+          "frame"
+        ],
+        "targetNodes": [],
+        "interpolations": [
+          "step"
+        ],
+        "frameNames": [
+          "torch_on_a",
+          "torch_on_b"
+        ],
+        "byteSize": null
+      }
+    ],
+    "skins": [],
+    "resources": [
+      {
+        "kind": "image",
+        "uri": "spritesheet-tiles-double.png",
+        "relativePath": "Spritesheets/spritesheet-tiles-double.png",
+        "bytes": 253997,
+        "sha256": "f715e892019294ff762aad4366ea49e2e606fff75c743f4c0c0e59451b15180b",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      },
+      {
+        "kind": "atlas",
+        "uri": "spritesheet-tiles-double.xml",
+        "relativePath": "Spritesheets/spritesheet-tiles-double.xml",
+        "bytes": 26750,
+        "sha256": "04dd7af35b887d2808151f3e73150fbffc82b3ac1662597569944ebc16b31e27",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      }
+    ],
+    "source": {
+      "inputRoot": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source",
+      "absolutePath": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source/Spritesheets/spritesheet-tiles-double.png",
+      "companionAbsolutePath": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source/Spritesheets/spritesheet-tiles-double.xml"
+    },
+    "metadata": {
+      "variant": "double",
+      "extensions": {
+        "used": [],
+        "required": []
+      }
+    },
+    "search": {
+      "tags": [
+        "platformer",
+        "2d",
+        "kenney",
+        "stylized",
+        "atlas",
+        "tile"
+      ],
+      "aliases": [],
+      "tokens": [
+        "2d",
+        "active",
+        "attached",
+        "background",
+        "backgrounds",
+        "beige",
+        "block",
+        "blue",
+        "bomb",
+        "bottom",
+        "brick",
+        "bricks",
+        "bridge",
+        "broken",
+        "bronze",
+        "brown",
+        "bush",
+        "cactus",
+        "center",
+        "chain",
+        "character",
+        "characters",
+        "closed",
+        "cloud",
+        "coin",
+        "conveyor",
+        "danger",
+        "diagonal",
+        "dirt",
+        "door",
+        "empty",
+        "enemies",
+        "exclamation",
+        "exit",
+        "fence",
+        "fireball",
+        "flag",
+        "gem",
+        "gold",
+        "grass",
+        "green",
+        "grey",
+        "half",
+        "heart",
+        "helmet",
+        "hill",
+        "horizontal",
+        "hud",
+        "kenney",
+        "key",
+        "ladder",
+        "lava",
+        "left",
+        "lever",
+        "lock",
+        "logs",
+        "long",
+        "low",
+        "middle",
+        "multiply",
+        "mushroom",
+        "new",
+        "off",
+        "on",
+        "open",
+        "out",
+        "overhang",
+        "percent",
+        "pink",
+        "plank",
+        "planks",
+        "platformer",
+        "player",
+        "pressed",
+        "purple",
+        "ramp",
+        "red",
+        "right",
+        "rock",
+        "rop",
+        "rope",
+        "sand",
+        "saw",
+        "short",
+        "side",
+        "sign",
+        "silver",
+        "smile",
+        "snow",
+        "spikes",
+        "spring",
+        "spritesheets",
+        "star",
+        "stone",
+        "strong",
+        "stylized",
+        "switch",
+        "terrain",
+        "tileset",
+        "top",
+        "torch",
+        "vertical",
+        "warning",
+        "water",
+        "weight",
+        "window",
+        "yellow"
+      ]
+    },
+    "warnings": [],
+    "errors": []
+  }
+}

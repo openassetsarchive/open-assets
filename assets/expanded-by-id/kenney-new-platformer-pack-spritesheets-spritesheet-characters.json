@@ -1,0 +1,897 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-16T07:37:18.383Z",
+  "pack": {
+    "id": "kenney-new-platformer-pack",
+    "name": "Kenney New Platformer Pack",
+    "creator": "Kenney",
+    "license": "CC0",
+    "tags": [
+      "platformer",
+      "2d",
+      "kenney",
+      "stylized"
+    ]
+  },
+  "asset": {
+    "id": "kenney-new-platformer-pack-spritesheets-spritesheet-characters",
+    "name": "Characters Sprite Sheet",
+    "description": "Platformer character sprite sheet (Characters Sprite Sheet).",
+    "kind": "sprite-sheet",
+    "format": "png",
+    "relativePath": "Spritesheets/spritesheet-characters-double.png",
+    "canonicalRelativePath": "Spritesheets/spritesheet-characters.png",
+    "fileName": "spritesheet-characters-double.png",
+    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-new-platformer-pack-bee3e21a5a86/kenney-new-platformer-pack-spritesheets-spritesheet-characters.png",
+    "file": {
+      "primaryBytes": 167685,
+      "totalBytes": 171608,
+      "primarySha256": "83c92e5446c81e8a13d39a622661aaf71b8c27ec66f25b2eb91d1a59fe41c093",
+      "bundleSha256": "8d72c17fe001c10b4c42760a520b2994e8cab5ad4d94b2be8831608f11f1a18b",
+      "resourceCount": 2
+    },
+    "geometry": {
+      "bounds": {
+        "min": [
+          0,
+          0,
+          0
+        ],
+        "max": [
+          1798,
+          1798,
+          0
+        ],
+        "size": [
+          1798,
+          1798,
+          0
+        ],
+        "center": [
+          899,
+          899,
+          0
+        ],
+        "diagonal": 2542.755985
+      },
+      "triangleCount": null,
+      "drawCallCount": null,
+      "renderVertexCount": null,
+      "uploadVertexCount": null
+    },
+    "structure": {
+      "materialCount": 0,
+      "textureCount": 1,
+      "animationCount": 10,
+      "frameCount": 45
+    },
+    "image": {
+      "width": 1798,
+      "height": 1798,
+      "bitDepth": 8,
+      "colorType": 3,
+      "hasAlpha": false,
+      "pixelArea": 3232804
+    },
+    "atlas": {
+      "format": "starling-xml",
+      "metadataRelativePath": "Spritesheets/spritesheet-characters-double.xml",
+      "imagePath": "spritesheet-characters-double.png",
+      "subtextureCount": 45,
+      "frameSize": [
+        256,
+        256
+      ],
+      "minWidth": 256,
+      "maxWidth": 256,
+      "minHeight": 256,
+      "maxHeight": 256,
+      "sampleNames": [
+        "character_beige_climb_a",
+        "character_beige_climb_b",
+        "character_beige_duck",
+        "character_beige_front",
+        "character_beige_hit",
+        "character_beige_idle",
+        "character_beige_jump",
+        "character_beige_walk_a",
+        "character_beige_walk_b",
+        "character_green_climb_a",
+        "character_green_climb_b",
+        "character_green_duck",
+        "character_green_front",
+        "character_green_hit",
+        "character_green_idle",
+        "character_green_jump",
+        "character_green_walk_a",
+        "character_green_walk_b",
+        "character_pink_climb_a",
+        "character_pink_climb_b",
+        "character_pink_duck",
+        "character_pink_front",
+        "character_pink_hit",
+        "character_pink_idle"
+      ],
+      "subtextures": [
+        {
+          "name": "character_beige_climb_a",
+          "x": 0,
+          "y": 0,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_beige_climb_b",
+          "x": 257,
+          "y": 0,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_beige_duck",
+          "x": 514,
+          "y": 0,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_beige_front",
+          "x": 771,
+          "y": 0,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_beige_hit",
+          "x": 1028,
+          "y": 0,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_beige_idle",
+          "x": 1285,
+          "y": 0,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_beige_jump",
+          "x": 1542,
+          "y": 0,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_beige_walk_a",
+          "x": 0,
+          "y": 257,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_beige_walk_b",
+          "x": 257,
+          "y": 257,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_green_climb_a",
+          "x": 514,
+          "y": 257,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_green_climb_b",
+          "x": 771,
+          "y": 257,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_green_duck",
+          "x": 1028,
+          "y": 257,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_green_front",
+          "x": 1285,
+          "y": 257,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_green_hit",
+          "x": 1542,
+          "y": 257,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_green_idle",
+          "x": 0,
+          "y": 514,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_green_jump",
+          "x": 257,
+          "y": 514,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_green_walk_a",
+          "x": 514,
+          "y": 514,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_green_walk_b",
+          "x": 771,
+          "y": 514,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_pink_climb_a",
+          "x": 1028,
+          "y": 514,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_pink_climb_b",
+          "x": 1285,
+          "y": 514,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_pink_duck",
+          "x": 1542,
+          "y": 514,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_pink_front",
+          "x": 0,
+          "y": 771,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_pink_hit",
+          "x": 257,
+          "y": 771,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_pink_idle",
+          "x": 514,
+          "y": 771,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_pink_jump",
+          "x": 771,
+          "y": 771,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_pink_walk_a",
+          "x": 1028,
+          "y": 771,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_pink_walk_b",
+          "x": 1285,
+          "y": 771,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_purple_climb_a",
+          "x": 1542,
+          "y": 771,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_purple_climb_b",
+          "x": 0,
+          "y": 1028,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_purple_duck",
+          "x": 257,
+          "y": 1028,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_purple_front",
+          "x": 514,
+          "y": 1028,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_purple_hit",
+          "x": 771,
+          "y": 1028,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_purple_idle",
+          "x": 1028,
+          "y": 1028,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_purple_jump",
+          "x": 1285,
+          "y": 1028,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_purple_walk_a",
+          "x": 1542,
+          "y": 1028,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_purple_walk_b",
+          "x": 0,
+          "y": 1285,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_yellow_climb_a",
+          "x": 257,
+          "y": 1285,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_yellow_climb_b",
+          "x": 514,
+          "y": 1285,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_yellow_duck",
+          "x": 771,
+          "y": 1285,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_yellow_front",
+          "x": 1028,
+          "y": 1285,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_yellow_hit",
+          "x": 1285,
+          "y": 1285,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_yellow_idle",
+          "x": 1542,
+          "y": 1285,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_yellow_jump",
+          "x": 0,
+          "y": 1542,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_yellow_walk_a",
+          "x": 257,
+          "y": 1542,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        },
+        {
+          "name": "character_yellow_walk_b",
+          "x": 514,
+          "y": 1542,
+          "width": 256,
+          "height": 256,
+          "frameX": null,
+          "frameY": null,
+          "frameWidth": null,
+          "frameHeight": null
+        }
+      ]
+    },
+    "materials": [],
+    "textures": [
+      {
+        "name": "spritesheet-characters-double.png",
+        "uri": "spritesheet-characters-double.png",
+        "mimeType": "image/png",
+        "width": 1798,
+        "height": 1798,
+        "byteSize": 167685,
+        "gpuByteSize": null,
+        "compression": null,
+        "slots": [
+          "diffuse"
+        ],
+        "embedded": false
+      }
+    ],
+    "animations": [
+      {
+        "name": "Character Beige Climb",
+        "durationSec": null,
+        "channels": 1,
+        "samplers": 1,
+        "keyframes": 2,
+        "targetPaths": [
+          "frame"
+        ],
+        "targetNodes": [],
+        "interpolations": [
+          "step"
+        ],
+        "frameNames": [
+          "character_beige_climb_a",
+          "character_beige_climb_b"
+        ],
+        "byteSize": null
+      },
+      {
+        "name": "Character Beige Walk",
+        "durationSec": null,
+        "channels": 1,
+        "samplers": 1,
+        "keyframes": 2,
+        "targetPaths": [
+          "frame"
+        ],
+        "targetNodes": [],
+        "interpolations": [
+          "step"
+        ],
+        "frameNames": [
+          "character_beige_walk_a",
+          "character_beige_walk_b"
+        ],
+        "byteSize": null
+      },
+      {
+        "name": "Character Green Climb",
+        "durationSec": null,
+        "channels": 1,
+        "samplers": 1,
+        "keyframes": 2,
+        "targetPaths": [
+          "frame"
+        ],
+        "targetNodes": [],
+        "interpolations": [
+          "step"
+        ],
+        "frameNames": [
+          "character_green_climb_a",
+          "character_green_climb_b"
+        ],
+        "byteSize": null
+      },
+      {
+        "name": "Character Green Walk",
+        "durationSec": null,
+        "channels": 1,
+        "samplers": 1,
+        "keyframes": 2,
+        "targetPaths": [
+          "frame"
+        ],
+        "targetNodes": [],
+        "interpolations": [
+          "step"
+        ],
+        "frameNames": [
+          "character_green_walk_a",
+          "character_green_walk_b"
+        ],
+        "byteSize": null
+      },
+      {
+        "name": "Character Pink Climb",
+        "durationSec": null,
+        "channels": 1,
+        "samplers": 1,
+        "keyframes": 2,
+        "targetPaths": [
+          "frame"
+        ],
+        "targetNodes": [],
+        "interpolations": [
+          "step"
+        ],
+        "frameNames": [
+          "character_pink_climb_a",
+          "character_pink_climb_b"
+        ],
+        "byteSize": null
+      },
+      {
+        "name": "Character Pink Walk",
+        "durationSec": null,
+        "channels": 1,
+        "samplers": 1,
+        "keyframes": 2,
+        "targetPaths": [
+          "frame"
+        ],
+        "targetNodes": [],
+        "interpolations": [
+          "step"
+        ],
+        "frameNames": [
+          "character_pink_walk_a",
+          "character_pink_walk_b"
+        ],
+        "byteSize": null
+      },
+      {
+        "name": "Character Purple Climb",
+        "durationSec": null,
+        "channels": 1,
+        "samplers": 1,
+        "keyframes": 2,
+        "targetPaths": [
+          "frame"
+        ],
+        "targetNodes": [],
+        "interpolations": [
+          "step"
+        ],
+        "frameNames": [
+          "character_purple_climb_a",
+          "character_purple_climb_b"
+        ],
+        "byteSize": null
+      },
+      {
+        "name": "Character Purple Walk",
+        "durationSec": null,
+        "channels": 1,
+        "samplers": 1,
+        "keyframes": 2,
+        "targetPaths": [
+          "frame"
+        ],
+        "targetNodes": [],
+        "interpolations": [
+          "step"
+        ],
+        "frameNames": [
+          "character_purple_walk_a",
+          "character_purple_walk_b"
+        ],
+        "byteSize": null
+      },
+      {
+        "name": "Character Yellow Climb",
+        "durationSec": null,
+        "channels": 1,
+        "samplers": 1,
+        "keyframes": 2,
+        "targetPaths": [
+          "frame"
+        ],
+        "targetNodes": [],
+        "interpolations": [
+          "step"
+        ],
+        "frameNames": [
+          "character_yellow_climb_a",
+          "character_yellow_climb_b"
+        ],
+        "byteSize": null
+      },
+      {
+        "name": "Character Yellow Walk",
+        "durationSec": null,
+        "channels": 1,
+        "samplers": 1,
+        "keyframes": 2,
+        "targetPaths": [
+          "frame"
+        ],
+        "targetNodes": [],
+        "interpolations": [
+          "step"
+        ],
+        "frameNames": [
+          "character_yellow_walk_a",
+          "character_yellow_walk_b"
+        ],
+        "byteSize": null
+      }
+    ],
+    "skins": [],
+    "resources": [
+      {
+        "kind": "image",
+        "uri": "spritesheet-characters-double.png",
+        "relativePath": "Spritesheets/spritesheet-characters-double.png",
+        "bytes": 167685,
+        "sha256": "83c92e5446c81e8a13d39a622661aaf71b8c27ec66f25b2eb91d1a59fe41c093",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      },
+      {
+        "kind": "atlas",
+        "uri": "spritesheet-characters-double.xml",
+        "relativePath": "Spritesheets/spritesheet-characters-double.xml",
+        "bytes": 3923,
+        "sha256": "3bbcffb2df532ce26ca9777b7a28958d1a5d52b020909357289d4fb11a865b0f",
+        "remote": false,
+        "embedded": false,
+        "exists": true
+      }
+    ],
+    "source": {
+      "inputRoot": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source",
+      "absolutePath": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source/Spritesheets/spritesheet-characters-double.png",
+      "companionAbsolutePath": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source/Spritesheets/spritesheet-characters-double.xml"
+    },
+    "metadata": {
+      "variant": "double",
+      "extensions": {
+        "used": [],
+        "required": []
+      }
+    },
+    "search": {
+      "tags": [
+        "platformer",
+        "2d",
+        "kenney",
+        "stylized",
+        "atlas",
+        "character",
+        "player"
+      ],
+      "aliases": [],
+      "tokens": [
+        "2d",
+        "backgrounds",
+        "beige",
+        "character",
+        "characters",
+        "climb",
+        "duck",
+        "enemies",
+        "front",
+        "green",
+        "hit",
+        "idle",
+        "jump",
+        "kenney",
+        "new",
+        "pink",
+        "platformer",
+        "player",
+        "purple",
+        "spritesheets",
+        "stylized",
+        "walk",
+        "yellow"
+      ]
+    },
+    "warnings": [],
+    "errors": []
+  }
+}

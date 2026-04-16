@@ -1,5 +1,25 @@
 [
   {
+    "id": "kenney-new-platformer-pack",
+    "name": "Kenney New Platformer Pack",
+    "description": "2D platformer sprites, tiles, backgrounds, and atlas sheets from Kenney.",
+    "creator": "Kenney",
+    "license": "CC0",
+    "homepage": "https://kenney.nl/assets/new-platformer-pack",
+    "publicBaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-new-platformer-pack-bee3e21a5a86",
+    "tags": [
+      "platformer",
+      "2d",
+      "kenney",
+      "stylized"
+    ],
+    "generatedAt": "2026-04-16T07:37:18.383Z",
+    "assetCount": 437,
+    "discoveredCount": null,
+    "failedCount": 0,
+    "sourceRoot": "/Users/me/dev/open-assets/packs/kenney-new-platformer-pack/source"
+  },
+  {
     "id": "quaternius-pirate-kit",
     "name": "Quaternius Pirate Kit",
     "description": "A pirate-themed pack with animated characters, environment pieces, ships, props, weapons, and UI models.",

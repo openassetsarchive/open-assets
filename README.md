@@ -93,9 +93,12 @@ If a pack changes later, the catalog will point to a new versioned release URL. 
 Current priority:
 
 - 3D assets (`.glb`, `.gltf`)
+- early 2D sprite and atlas support (`.png` + `.xml`)
 
 Planned next:
 
-- 2D sprites and sprite sheets
+- stronger 2D metadata and more pack coverage
+
+The 2D path is intentionally still a fluid WIP. Expect the heuristics and schema to improve as more packs are ingested.
 
 The search flow and `publicUrl` pattern are intended to stay the same across asset types.
