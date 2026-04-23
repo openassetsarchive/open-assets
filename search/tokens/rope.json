@@ -1,9 +1,13 @@
 {
   "version": 1,
   "token": "rope",
-  "count": 2,
+  "count": 6,
   "assetIds": [
     "kenney-new-platformer-pack-sprites-tiles-rope",
-    "kenney-new-platformer-pack-spritesheets-spritesheet-tiles"
+    "kenney-new-platformer-pack-spritesheets-spritesheet-tiles",
+    "kenney-platformer-art-deluxe-base-pack-tiles-ropeattached",
+    "kenney-platformer-art-deluxe-base-pack-tiles-ropehorizontal",
+    "kenney-platformer-art-deluxe-base-pack-tiles-ropevertical",
+    "kenney-platformer-art-deluxe-base-pack-tiles-tiles-spritesheet"
   ]
 }

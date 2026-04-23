@@ -1,12 +1,17 @@
 {
   "version": 1,
   "token": "heart",
-  "count": 5,
+  "count": 10,
   "assetIds": [
     "kenney-new-platformer-pack-sprites-tiles-heart",
     "kenney-new-platformer-pack-sprites-tiles-hud-heart",
     "kenney-new-platformer-pack-sprites-tiles-hud-heart-empty",
     "kenney-new-platformer-pack-sprites-tiles-hud-heart-half",
-    "kenney-new-platformer-pack-spritesheets-spritesheet-tiles"
+    "kenney-new-platformer-pack-spritesheets-spritesheet-tiles",
+    "kenney-platformer-art-deluxe-base-pack-hud-hud-heartempty",
+    "kenney-platformer-art-deluxe-base-pack-hud-hud-heartfull",
+    "kenney-platformer-art-deluxe-base-pack-hud-hud-hearthalf",
+    "kenney-platformer-art-deluxe-base-pack-hud-hud-spritesheet",
+    "kenney-platformer-art-deluxe-candy-expansion-tiles-heart"
   ]
 }

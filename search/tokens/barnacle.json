@@ -1,11 +1,16 @@
 {
   "version": 1,
   "token": "barnacle",
-  "count": 4,
+  "count": 9,
   "assetIds": [
     "kenney-new-platformer-pack-sprites-enemies-barnacle-attack-a",
     "kenney-new-platformer-pack-sprites-enemies-barnacle-attack-b",
     "kenney-new-platformer-pack-sprites-enemies-barnacle-attack-rest",
-    "kenney-new-platformer-pack-spritesheets-spritesheet-enemies"
+    "kenney-new-platformer-pack-spritesheets-spritesheet-enemies",
+    "kenney-platformer-art-deluxe-extra-animations-and-enemies-enemy-sprites-barnacle",
+    "kenney-platformer-art-deluxe-extra-animations-and-enemies-enemy-sprites-barnacle-bite",
+    "kenney-platformer-art-deluxe-extra-animations-and-enemies-enemy-sprites-barnacle-dead",
+    "kenney-platformer-art-deluxe-extra-animations-and-enemies-enemy-sprites-barnacle-hit",
+    "kenney-platformer-art-deluxe-extra-animations-and-enemies-spritesheets-enemies"
   ]
 }

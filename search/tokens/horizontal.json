@@ -1,7 +1,7 @@
 {
   "version": 1,
   "token": "horizontal",
-  "count": 31,
+  "count": 37,
   "assetIds": [
     "kenney-new-platformer-pack-sprites-tiles-terrain-dirt-horizontal-left",
     "kenney-new-platformer-pack-sprites-tiles-terrain-dirt-horizontal-middle",
@@ -33,6 +33,12 @@
     "kenney-new-platformer-pack-sprites-tiles-terrain-stone-horizontal-overhang-left",
     "kenney-new-platformer-pack-sprites-tiles-terrain-stone-horizontal-overhang-right",
     "kenney-new-platformer-pack-sprites-tiles-terrain-stone-horizontal-right",
-    "kenney-new-platformer-pack-spritesheets-spritesheet-tiles"
+    "kenney-new-platformer-pack-spritesheets-spritesheet-tiles",
+    "kenney-platformer-art-deluxe-base-pack-tiles-ropehorizontal",
+    "kenney-platformer-art-deluxe-base-pack-tiles-tiles-spritesheet",
+    "kenney-platformer-art-deluxe-request-pack-tiles-laserbluehorizontal",
+    "kenney-platformer-art-deluxe-request-pack-tiles-lasergreenhorizontal",
+    "kenney-platformer-art-deluxe-request-pack-tiles-laserredhorizontal",
+    "kenney-platformer-art-deluxe-request-pack-tiles-laseryellowhorizontal"
   ]
 }

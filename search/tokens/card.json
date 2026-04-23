@@ -1,8 +1,13 @@
 {
   "version": 1,
   "token": "card",
-  "count": 1,
+  "count": 6,
   "assetIds": [
+    "kenney-sports-pack-png-equipment-card-red",
+    "kenney-sports-pack-png-equipment-card-white",
+    "kenney-sports-pack-png-equipment-card-yellow",
+    "kenney-sports-pack-spritesheet-sheet-charactersequipment",
+    "kenney-sports-pack-spritesheet-sheet-equipment",
     "quaternius-ultimate-space-kit-items-gltf-pickup-keycard"
   ]
 }

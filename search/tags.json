@@ -1,7 +1,35 @@
 [
   {
     "tag": "2d",
-    "count": 1246
+    "count": 7141
+  },
+  {
+    "tag": "abstract",
+    "count": 33
+  },
+  {
+    "tag": "abstract-tile",
+    "count": 32
+  },
+  {
+    "tag": "adventurer",
+    "count": 34
+  },
+  {
+    "tag": "alien",
+    "count": 77
+  },
+  {
+    "tag": "alien-sprite",
+    "count": 65
+  },
+  {
+    "tag": "ambulance",
+    "count": 16
+  },
+  {
+    "tag": "angle",
+    "count": 660
   },
   {
     "tag": "animal",
@@ -12,12 +40,28 @@
     "count": 205
   },
   {
+    "tag": "arcade",
+    "count": 1431
+  },
+  {
+    "tag": "asphalt",
+    "count": 90
+  },
+  {
+    "tag": "asphalt-road",
+    "count": 90
+  },
+  {
+    "tag": "asteroid",
+    "count": 24
+  },
+  {
     "tag": "astronaut",
-    "count": 4
+    "count": 22
   },
   {
     "tag": "atlas",
-    "count": 18
+    "count": 104
   },
   {
     "tag": "back-tile",
@@ -25,19 +69,39 @@
   },
   {
     "tag": "background",
-    "count": 34
+    "count": 70
   },
   {
     "tag": "ball",
-    "count": 41
+    "count": 43
+  },
+  {
+    "tag": "banked",
+    "count": 22
+  },
+  {
+    "tag": "barrel",
+    "count": 3
+  },
+  {
+    "tag": "base-pack",
+    "count": 342
+  },
+  {
+    "tag": "beach",
+    "count": 13
   },
   {
     "tag": "black",
-    "count": 10
+    "count": 107
   },
   {
     "tag": "block",
     "count": 33
+  },
+  {
+    "tag": "blocks",
+    "count": 140
   },
   {
     "tag": "blocky",
@@ -45,47 +109,207 @@
   },
   {
     "tag": "blue",
-    "count": 10
+    "count": 121
+  },
+  {
+    "tag": "brick-breaker",
+    "count": 87
+  },
+  {
+    "tag": "bridge",
+    "count": 12
+  },
+  {
+    "tag": "bright",
+    "count": 1431
+  },
+  {
+    "tag": "brown",
+    "count": 56
+  },
+  {
+    "tag": "building",
+    "count": 124
+  },
+  {
+    "tag": "buildings-expansion",
+    "count": 99
+  },
+  {
+    "tag": "bullet",
+    "count": 13
   },
   {
     "tag": "bush",
-    "count": 2
+    "count": 8
+  },
+  {
+    "tag": "button",
+    "count": 20
+  },
+  {
+    "tag": "cactus",
+    "count": 3
+  },
+  {
+    "tag": "candy",
+    "count": 96
+  },
+  {
+    "tag": "candy-expansion",
+    "count": 96
+  },
+  {
+    "tag": "car",
+    "count": 601
+  },
+  {
+    "tag": "cars",
+    "count": 50
   },
   {
     "tag": "character",
-    "count": 90
+    "count": 694
+  },
+  {
+    "tag": "city",
+    "count": 141
+  },
+  {
+    "tag": "civilian",
+    "count": 497
   },
   {
     "tag": "coin",
     "count": 41
   },
   {
+    "tag": "complete",
+    "count": 1
+  },
+  {
+    "tag": "conifer",
+    "count": 4
+  },
+  {
     "tag": "consumable",
     "count": 36
+  },
+  {
+    "tag": "corner",
+    "count": 8
+  },
+  {
+    "tag": "crate",
+    "count": 4
   },
   {
     "tag": "cube",
     "count": 107
   },
   {
+    "tag": "cursor",
+    "count": 8
+  },
+  {
+    "tag": "damage",
+    "count": 9
+  },
+  {
     "tag": "decoration",
     "count": 15
   },
   {
+    "tag": "defense",
+    "count": 233
+  },
+  {
+    "tag": "deluxe",
+    "count": 957
+  },
+  {
+    "tag": "detail",
+    "count": 43
+  },
+  {
+    "tag": "dirt",
+    "count": 106
+  },
+  {
+    "tag": "dirt-road",
+    "count": 90
+  },
+  {
+    "tag": "dungeon",
+    "count": 744
+  },
+  {
     "tag": "effect",
-    "count": 22
+    "count": 85
+  },
+  {
+    "tag": "element",
+    "count": 81
+  },
+  {
+    "tag": "elevated",
+    "count": 8
+  },
+  {
+    "tag": "elevation",
+    "count": 6
+  },
+  {
+    "tag": "emergency",
+    "count": 32
+  },
+  {
+    "tag": "endcap",
+    "count": 8
   },
   {
     "tag": "enemy",
-    "count": 76
+    "count": 221
+  },
+  {
+    "tag": "enemy-sprite",
+    "count": 100
   },
   {
     "tag": "environment",
     "count": 296
   },
   {
-    "tag": "flower",
+    "tag": "equipment",
+    "count": 40
+  },
+  {
+    "tag": "exit",
     "count": 4
+  },
+  {
+    "tag": "expansion",
+    "count": 615
+  },
+  {
+    "tag": "explosion",
+    "count": 12
+  },
+  {
+    "tag": "extra-animations-and-enemy",
+    "count": 172
+  },
+  {
+    "tag": "farm",
+    "count": 456
+  },
+  {
+    "tag": "female",
+    "count": 34
+  },
+  {
+    "tag": "flower",
+    "count": 9
   },
   {
     "tag": "foliage",
@@ -93,11 +317,23 @@
   },
   {
     "tag": "food",
-    "count": 117
+    "count": 231
   },
   {
     "tag": "fps",
     "count": 74
+  },
+  {
+    "tag": "garbage",
+    "count": 16
+  },
+  {
+    "tag": "garbage-truck",
+    "count": 16
+  },
+  {
+    "tag": "gem",
+    "count": 48
   },
   {
     "tag": "ghibli",
@@ -105,55 +341,187 @@
   },
   {
     "tag": "grass",
-    "count": 4
+    "count": 20
   },
   {
     "tag": "green",
-    "count": 44
+    "count": 155
   },
   {
     "tag": "grey",
-    "count": 54
+    "count": 110
   },
   {
     "tag": "gun",
     "count": 16
   },
   {
+    "tag": "hand",
+    "count": 2
+  },
+  {
+    "tag": "hazard",
+    "count": 3
+  },
+  {
+    "tag": "hex-grid",
+    "count": 99
+  },
+  {
+    "tag": "hexagon",
+    "count": 99
+  },
+  {
+    "tag": "hexagonal",
+    "count": 99
+  },
+  {
+    "tag": "hill",
+    "count": 24
+  },
+  {
+    "tag": "hud",
+    "count": 34
+  },
+  {
+    "tag": "ice",
+    "count": 97
+  },
+  {
+    "tag": "ice-expansion",
+    "count": 97
+  },
+  {
     "tag": "icon",
     "count": 12
+  },
+  {
+    "tag": "indicator",
+    "count": 2
+  },
+  {
+    "tag": "industrial",
+    "count": 114
   },
   {
     "tag": "interior",
     "count": 50
   },
   {
+    "tag": "intersection",
+    "count": 5
+  },
+  {
+    "tag": "isometric",
+    "count": 2820
+  },
+  {
+    "tag": "isometric-view",
+    "count": 660
+  },
+  {
     "tag": "item",
-    "count": 23
+    "count": 83
   },
   {
     "tag": "kenney",
-    "count": 1246
+    "count": 7141
   },
   {
     "tag": "kit",
     "count": 462
   },
   {
+    "tag": "landscape",
+    "count": 170
+  },
+  {
+    "tag": "laser",
+    "count": 48
+  },
+  {
+    "tag": "library",
+    "count": 288
+  },
+  {
+    "tag": "limb",
+    "count": 45
+  },
+  {
+    "tag": "lot",
+    "count": 8
+  },
+  {
     "tag": "low-poly",
     "count": 530
+  },
+  {
+    "tag": "male",
+    "count": 168
+  },
+  {
+    "tag": "meteor",
+    "count": 24
+  },
+  {
+    "tag": "mine",
+    "count": 3
+  },
+  {
+    "tag": "miniature",
+    "count": 1488
+  },
+  {
+    "tag": "missile",
+    "count": 40
+  },
+  {
+    "tag": "motorcycle",
+    "count": 5
+  },
+  {
+    "tag": "mushroom",
+    "count": 52
+  },
+  {
+    "tag": "mushroom-expansion",
+    "count": 52
   },
   {
     "tag": "nature",
     "count": 68
   },
   {
+    "tag": "object",
+    "count": 39
+  },
+  {
+    "tag": "obstacle",
+    "count": 67
+  },
+  {
+    "tag": "p1-walk",
+    "count": 12
+  },
+  {
+    "tag": "p2-walk",
+    "count": 12
+  },
+  {
+    "tag": "p3-walk",
+    "count": 12
+  },
+  {
     "tag": "paddle",
-    "count": 13
+    "count": 15
+  },
+  {
+    "tag": "part",
+    "count": 275
   },
   {
     "tag": "particle",
-    "count": 22
+    "count": 25
   },
   {
     "tag": "particles-blue",
@@ -168,16 +536,28 @@
     "count": 7
   },
   {
+    "tag": "path",
+    "count": 41
+  },
+  {
     "tag": "pebble",
     "count": 11
   },
   {
+    "tag": "pick-up-1",
+    "count": 80
+  },
+  {
     "tag": "pickup",
+    "count": 144
+  },
+  {
+    "tag": "piece",
     "count": 48
   },
   {
     "tag": "pine",
-    "count": 5
+    "count": 14
   },
   {
     "tag": "pipe",
@@ -189,67 +569,227 @@
   },
   {
     "tag": "pixel",
-    "count": 18
+    "count": 483
   },
   {
     "tag": "plant",
-    "count": 4
+    "count": 45
   },
   {
     "tag": "platformer",
-    "count": 437
+    "count": 2078
+  },
+  {
+    "tag": "platformer-tile",
+    "count": 48
   },
   {
     "tag": "player",
-    "count": 46
+    "count": 175
+  },
+  {
+    "tag": "pointer",
+    "count": 6
+  },
+  {
+    "tag": "police",
+    "count": 16
+  },
+  {
+    "tag": "pose",
+    "count": 120
+  },
+  {
+    "tag": "power-up",
+    "count": 32
+  },
+  {
+    "tag": "projectile",
+    "count": 101
   },
   {
     "tag": "prop",
-    "count": 197
+    "count": 330
   },
   {
     "tag": "puzzle",
-    "count": 809
+    "count": 896
   },
   {
     "tag": "quaternius",
     "count": 530
   },
   {
+    "tag": "racer",
+    "count": 18
+  },
+  {
+    "tag": "racing",
+    "count": 427
+  },
+  {
+    "tag": "red",
+    "count": 167
+  },
+  {
+    "tag": "remastered",
+    "count": 299
+  },
+  {
+    "tag": "rendered",
+    "count": 1488
+  },
+  {
+    "tag": "request-pack",
+    "count": 99
+  },
+  {
     "tag": "restaurant",
     "count": 117
   },
   {
+    "tag": "retina",
+    "count": 88
+  },
+  {
+    "tag": "river",
+    "count": 36
+  },
+  {
+    "tag": "road",
+    "count": 409
+  },
+  {
+    "tag": "roads",
+    "count": 138
+  },
+  {
     "tag": "rock",
-    "count": 24
+    "count": 39
+  },
+  {
+    "tag": "rocket",
+    "count": 35
+  },
+  {
+    "tag": "rocket-part",
+    "count": 31
+  },
+  {
+    "tag": "sand",
+    "count": 104
+  },
+  {
+    "tag": "sand-road",
+    "count": 90
   },
   {
     "tag": "sci-fi",
     "count": 92
   },
   {
+    "tag": "sedan-1",
+    "count": 80
+  },
+  {
+    "tag": "sedan-2",
+    "count": 80
+  },
+  {
+    "tag": "sedan-3",
+    "count": 80
+  },
+  {
+    "tag": "sedan-4",
+    "count": 80
+  },
+  {
+    "tag": "selector",
+    "count": 3
+  },
+  {
     "tag": "ship",
-    "count": 2
+    "count": 54
+  },
+  {
+    "tag": "ship-part",
+    "count": 192
   },
   {
     "tag": "shooter",
-    "count": 74
+    "count": 652
+  },
+  {
+    "tag": "silver",
+    "count": 97
+  },
+  {
+    "tag": "slope",
+    "count": 12
+  },
+  {
+    "tag": "soldier",
+    "count": 34
   },
   {
     "tag": "space",
-    "count": 92
+    "count": 670
+  },
+  {
+    "tag": "special",
+    "count": 12
+  },
+  {
+    "tag": "sports",
+    "count": 203
+  },
+  {
+    "tag": "sprites-x2",
+    "count": 278
+  },
+  {
+    "tag": "station",
+    "count": 31
+  },
+  {
+    "tag": "structure",
+    "count": 56
   },
   {
     "tag": "stylized",
-    "count": 1776
+    "count": 2820
   },
   {
     "tag": "sushi",
     "count": 117
   },
   {
+    "tag": "tabletop",
+    "count": 1488
+  },
+  {
+    "tag": "tank",
+    "count": 89
+  },
+  {
+    "tag": "taxi",
+    "count": 16
+  },
+  {
+    "tag": "terrain",
+    "count": 122
+  },
+  {
     "tag": "tile",
-    "count": 918
+    "count": 2982
+  },
+  {
+    "tag": "tilemap",
+    "count": 10
+  },
+  {
+    "tag": "tiles",
+    "count": 138
   },
   {
     "tag": "tiles-black",
@@ -284,16 +824,72 @@
     "count": 72
   },
   {
+    "tag": "tilesheet",
+    "count": 14
+  },
+  {
     "tag": "tool",
     "count": 16
   },
   {
+    "tag": "top",
+    "count": 1
+  },
+  {
+    "tag": "top-down",
+    "count": 719
+  },
+  {
+    "tag": "tower",
+    "count": 233
+  },
+  {
+    "tag": "tower-defense",
+    "count": 233
+  },
+  {
+    "tag": "towers-brown",
+    "count": 55
+  },
+  {
+    "tag": "towers-grey",
+    "count": 55
+  },
+  {
+    "tag": "towers-red",
+    "count": 55
+  },
+  {
+    "tag": "toy",
+    "count": 1431
+  },
+  {
+    "tag": "track",
+    "count": 7
+  },
+  {
     "tag": "tree",
-    "count": 20
+    "count": 50
+  },
+  {
+    "tag": "truck-1",
+    "count": 80
+  },
+  {
+    "tag": "turret",
+    "count": 4
+  },
+  {
+    "tag": "ufo",
+    "count": 4
   },
   {
     "tag": "ui",
-    "count": 12
+    "count": 107
+  },
+  {
+    "tag": "utility",
+    "count": 17
   },
   {
     "tag": "variant",
@@ -301,18 +897,46 @@
   },
   {
     "tag": "vehicle",
-    "count": 9
+    "count": 1065
   },
   {
     "tag": "voxel",
-    "count": 107
+    "count": 163
+  },
+  {
+    "tag": "voxel-tile",
+    "count": 55
+  },
+  {
+    "tag": "walk",
+    "count": 3
+  },
+  {
+    "tag": "water",
+    "count": 67
+  },
+  {
+    "tag": "waterfall",
+    "count": 14
+  },
+  {
+    "tag": "wave",
+    "count": 2
   },
   {
     "tag": "weapon",
-    "count": 27
+    "count": 31
+  },
+  {
+    "tag": "white",
+    "count": 14
   },
   {
     "tag": "yellow",
     "count": 10
+  },
+  {
+    "tag": "zombie",
+    "count": 34
   }
 ]

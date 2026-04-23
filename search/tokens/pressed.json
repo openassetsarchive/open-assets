@@ -1,12 +1,19 @@
 {
   "version": 1,
   "token": "pressed",
-  "count": 5,
+  "count": 12,
   "assetIds": [
     "kenney-new-platformer-pack-sprites-tiles-switch-blue-pressed",
     "kenney-new-platformer-pack-sprites-tiles-switch-green-pressed",
     "kenney-new-platformer-pack-sprites-tiles-switch-red-pressed",
     "kenney-new-platformer-pack-sprites-tiles-switch-yellow-pressed",
-    "kenney-new-platformer-pack-spritesheets-spritesheet-tiles"
+    "kenney-new-platformer-pack-spritesheets-spritesheet-tiles",
+    "kenney-platformer-art-deluxe-base-pack-items-buttonblue-pressed",
+    "kenney-platformer-art-deluxe-base-pack-items-buttongreen-pressed",
+    "kenney-platformer-art-deluxe-base-pack-items-buttonred-pressed",
+    "kenney-platformer-art-deluxe-base-pack-items-buttonyellow-pressed",
+    "kenney-platformer-art-deluxe-base-pack-items-items-spritesheet",
+    "kenney-tanks-png-tanks-minepressed",
+    "kenney-tanks-spritesheet-tanks-spritesheet"
   ]
 }

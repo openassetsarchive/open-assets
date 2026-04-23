@@ -1,14 +1,42 @@
 [
   {
     "tag": "2d",
-    "count": 2
+    "count": 24
   },
   {
     "tag": "animated",
     "count": 2
   },
   {
+    "tag": "arcade",
+    "count": 8
+  },
+  {
+    "tag": "blocks",
+    "count": 1
+  },
+  {
     "tag": "blocky",
+    "count": 1
+  },
+  {
+    "tag": "brick-breaker",
+    "count": 1
+  },
+  {
+    "tag": "bright",
+    "count": 8
+  },
+  {
+    "tag": "car",
+    "count": 1
+  },
+  {
+    "tag": "character",
+    "count": 1
+  },
+  {
+    "tag": "city",
     "count": 1
   },
   {
@@ -16,7 +44,23 @@
     "count": 1
   },
   {
+    "tag": "defense",
+    "count": 1
+  },
+  {
+    "tag": "deluxe",
+    "count": 1
+  },
+  {
+    "tag": "dungeon",
+    "count": 1
+  },
+  {
     "tag": "environment",
+    "count": 1
+  },
+  {
+    "tag": "farm",
     "count": 1
   },
   {
@@ -25,7 +69,7 @@
   },
   {
     "tag": "food",
-    "count": 1
+    "count": 2
   },
   {
     "tag": "fps",
@@ -36,16 +80,48 @@
     "count": 1
   },
   {
+    "tag": "hex-grid",
+    "count": 1
+  },
+  {
+    "tag": "hexagon",
+    "count": 1
+  },
+  {
+    "tag": "hexagonal",
+    "count": 1
+  },
+  {
+    "tag": "industrial",
+    "count": 1
+  },
+  {
+    "tag": "isometric",
+    "count": 10
+  },
+  {
     "tag": "kenney",
-    "count": 2
+    "count": 24
   },
   {
     "tag": "kit",
     "count": 5
   },
   {
+    "tag": "landscape",
+    "count": 1
+  },
+  {
+    "tag": "library",
+    "count": 1
+  },
+  {
     "tag": "low-poly",
     "count": 6
+  },
+  {
+    "tag": "miniature",
+    "count": 3
   },
   {
     "tag": "nature",
@@ -56,20 +132,44 @@
     "count": 1
   },
   {
+    "tag": "pixel",
+    "count": 3
+  },
+  {
     "tag": "platformer",
-    "count": 1
+    "count": 6
   },
   {
     "tag": "puzzle",
-    "count": 1
+    "count": 2
   },
   {
     "tag": "quaternius",
     "count": 6
   },
   {
+    "tag": "racing",
+    "count": 1
+  },
+  {
+    "tag": "remastered",
+    "count": 1
+  },
+  {
+    "tag": "rendered",
+    "count": 3
+  },
+  {
     "tag": "restaurant",
     "count": 1
+  },
+  {
+    "tag": "road",
+    "count": 2
+  },
+  {
+    "tag": "roads",
+    "count": 2
   },
   {
     "tag": "sci-fi",
@@ -77,22 +177,62 @@
   },
   {
     "tag": "shooter",
-    "count": 1
+    "count": 3
   },
   {
     "tag": "space",
+    "count": 3
+  },
+  {
+    "tag": "sports",
     "count": 1
   },
   {
     "tag": "stylized",
-    "count": 8
+    "count": 10
   },
   {
     "tag": "sushi",
     "count": 1
   },
   {
+    "tag": "tabletop",
+    "count": 3
+  },
+  {
+    "tag": "tank",
+    "count": 1
+  },
+  {
+    "tag": "tiles",
+    "count": 2
+  },
+  {
+    "tag": "top-down",
+    "count": 3
+  },
+  {
+    "tag": "tower",
+    "count": 1
+  },
+  {
+    "tag": "tower-defense",
+    "count": 1
+  },
+  {
+    "tag": "toy",
+    "count": 8
+  },
+  {
+    "tag": "vehicle",
+    "count": 2
+  },
+  {
     "tag": "voxel",
+    "count": 1
+  },
+  {
+    "tag": "water",
     "count": 1
   }
 ]

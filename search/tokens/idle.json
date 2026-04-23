@@ -1,7 +1,7 @@
 {
   "version": 1,
   "token": "idle",
-  "count": 9,
+  "count": 14,
   "assetIds": [
     "kenney-new-platformer-pack-sprites-characters-character-beige-idle",
     "kenney-new-platformer-pack-sprites-characters-character-green-idle",
@@ -11,6 +11,11 @@
     "kenney-new-platformer-pack-sprites-enemies-block-idle",
     "kenney-new-platformer-pack-sprites-enemies-frog-idle",
     "kenney-new-platformer-pack-spritesheets-spritesheet-characters",
-    "kenney-new-platformer-pack-spritesheets-spritesheet-enemies"
+    "kenney-new-platformer-pack-spritesheets-spritesheet-enemies",
+    "kenney-platformer-characters-png-adventurer-poses-adventurer-idle",
+    "kenney-platformer-characters-png-female-poses-female-idle",
+    "kenney-platformer-characters-png-player-poses-player-idle",
+    "kenney-platformer-characters-png-soldier-poses-soldier-idle",
+    "kenney-platformer-characters-png-zombie-poses-zombie-idle"
   ]
 }

@@ -1,12 +1,17 @@
 {
   "version": 1,
   "token": "spike",
-  "count": 5,
+  "count": 10,
   "assetIds": [
     "kenney-new-platformer-pack-sprites-enemies-slime-spike-flat",
     "kenney-new-platformer-pack-sprites-enemies-slime-spike-rest",
     "kenney-new-platformer-pack-sprites-enemies-slime-spike-walk-a",
     "kenney-new-platformer-pack-sprites-enemies-slime-spike-walk-b",
-    "kenney-new-platformer-pack-spritesheets-spritesheet-enemies"
+    "kenney-new-platformer-pack-spritesheets-spritesheet-enemies",
+    "kenney-platformer-art-deluxe-ice-expansion-tiles-spiketop",
+    "kenney-platformer-art-deluxe-request-pack-tiles-dirtcavespikebottom",
+    "kenney-platformer-art-deluxe-request-pack-tiles-dirtcavespiketop",
+    "kenney-platformer-art-deluxe-request-pack-tiles-stonecavespikebottom",
+    "kenney-platformer-art-deluxe-request-pack-tiles-stonecavespiketop"
   ]
 }

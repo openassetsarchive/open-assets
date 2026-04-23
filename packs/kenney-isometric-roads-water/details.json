@@ -1,0 +1,4237 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-23T10:53:01.624Z",
+  "pack": {
+    "id": "kenney-isometric-roads-water",
+    "name": "Kenney Isometric Roads Water",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+    "tags": [
+      "isometric",
+      "2d",
+      "kenney",
+      "road",
+      "roads",
+      "water",
+      "tiles",
+      "bright",
+      "arcade",
+      "toy"
+    ]
+  },
+  "assetIds": [
+    "kenney-isometric-roads-water-png-bridgehighbankedew",
+    "kenney-isometric-roads-water-png-bridgehighbankedns",
+    "kenney-isometric-roads-water-png-bridgehighew",
+    "kenney-isometric-roads-water-png-bridgehighns",
+    "kenney-isometric-roads-water-png-bridgelowbankedew",
+    "kenney-isometric-roads-water-png-bridgelowbankedns",
+    "kenney-isometric-roads-water-png-bridgelowew",
+    "kenney-isometric-roads-water-png-bridgelowns",
+    "kenney-isometric-roads-water-png-riverbankedhille",
+    "kenney-isometric-roads-water-png-riverbankedhilln",
+    "kenney-isometric-roads-water-png-riverbankedhills",
+    "kenney-isometric-roads-water-png-riverbankedhillw",
+    "kenney-isometric-roads-water-png-riverbankedslopee",
+    "kenney-isometric-roads-water-png-riverbankedslopen",
+    "kenney-isometric-roads-water-png-riverbankedslopes",
+    "kenney-isometric-roads-water-png-riverbankedslopew",
+    "kenney-isometric-roads-water-png-riverbankedwaterfalle",
+    "kenney-isometric-roads-water-png-riverbankedwaterfalln",
+    "kenney-isometric-roads-water-png-riverbankedwaterfalls",
+    "kenney-isometric-roads-water-png-riverbankedwaterfallw",
+    "kenney-isometric-roads-water-png-riverhille",
+    "kenney-isometric-roads-water-png-riverhilln",
+    "kenney-isometric-roads-water-png-riverhills",
+    "kenney-isometric-roads-water-png-riverhillw",
+    "kenney-isometric-roads-water-png-riverslopee",
+    "kenney-isometric-roads-water-png-riverslopen",
+    "kenney-isometric-roads-water-png-riverslopes",
+    "kenney-isometric-roads-water-png-riverslopew",
+    "kenney-isometric-roads-water-png-riverwaterfalle",
+    "kenney-isometric-roads-water-png-riverwaterfalln",
+    "kenney-isometric-roads-water-png-riverwaterfalls",
+    "kenney-isometric-roads-water-png-riverwaterfallw",
+    "kenney-isometric-roads-water-png-slopee",
+    "kenney-isometric-roads-water-png-slopen",
+    "kenney-isometric-roads-water-png-slopes",
+    "kenney-isometric-roads-water-png-slopew",
+    "kenney-isometric-roads-water-png-waterfallende",
+    "kenney-isometric-roads-water-png-waterfallendn",
+    "kenney-isometric-roads-water-png-waterfallends",
+    "kenney-isometric-roads-water-png-waterfallendw",
+    "kenney-isometric-roads-water-png-waterfalls",
+    "kenney-isometric-roads-water-png-waterfallw"
+  ],
+  "assetsById": {
+    "kenney-isometric-roads-water-png-bridgehighbankedew": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-bridgehighbankedew",
+        "name": "Bridge High Banked EW",
+        "description": "Isometric bridge tile (Bridge High Banked EW).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-bridgehighbankedew.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "bridge",
+          "banked",
+          "elevated",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              77,
+              0
+            ],
+            "size": [
+              100,
+              77,
+              0
+            ],
+            "center": [
+              50,
+              38.5,
+              0
+            ],
+            "diagonal": 126.210142
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            77
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 77,
+          "hasAlpha": true,
+          "pixelArea": 7700
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-bridgehighbankedns": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-bridgehighbankedns",
+        "name": "Bridge High Banked NS",
+        "description": "Isometric bridge tile (Bridge High Banked NS).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-bridgehighbankedns.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "bridge",
+          "banked",
+          "elevated",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              77,
+              0
+            ],
+            "size": [
+              100,
+              77,
+              0
+            ],
+            "center": [
+              50,
+              38.5,
+              0
+            ],
+            "diagonal": 126.210142
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            77
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 77,
+          "hasAlpha": true,
+          "pixelArea": 7700
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-bridgehighew": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-bridgehighew",
+        "name": "Bridge High EW",
+        "description": "Isometric bridge tile (Bridge High EW).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-bridgehighew.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "bridge",
+          "elevated",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              77,
+              0
+            ],
+            "size": [
+              100,
+              77,
+              0
+            ],
+            "center": [
+              50,
+              38.5,
+              0
+            ],
+            "diagonal": 126.210142
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            77
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 77,
+          "hasAlpha": true,
+          "pixelArea": 7700
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-bridgehighns": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-bridgehighns",
+        "name": "Bridge High NS",
+        "description": "Isometric bridge tile (Bridge High NS).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-bridgehighns.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "bridge",
+          "elevated",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              77,
+              0
+            ],
+            "size": [
+              100,
+              77,
+              0
+            ],
+            "center": [
+              50,
+              38.5,
+              0
+            ],
+            "diagonal": 126.210142
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            77
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 77,
+          "hasAlpha": true,
+          "pixelArea": 7700
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-bridgelowbankedew": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-bridgelowbankedew",
+        "name": "Bridge Low Banked EW",
+        "description": "Isometric bridge tile (Bridge Low Banked EW).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-bridgelowbankedew.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "bridge",
+          "banked",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              65,
+              0
+            ],
+            "size": [
+              100,
+              65,
+              0
+            ],
+            "center": [
+              50,
+              32.5,
+              0
+            ],
+            "diagonal": 119.268604
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            65
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 65,
+          "hasAlpha": true,
+          "pixelArea": 6500
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-bridgelowbankedns": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-bridgelowbankedns",
+        "name": "Bridge Low Banked NS",
+        "description": "Isometric bridge tile (Bridge Low Banked NS).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-bridgelowbankedns.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "bridge",
+          "banked",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              65,
+              0
+            ],
+            "size": [
+              100,
+              65,
+              0
+            ],
+            "center": [
+              50,
+              32.5,
+              0
+            ],
+            "diagonal": 119.268604
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            65
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 65,
+          "hasAlpha": true,
+          "pixelArea": 6500
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-bridgelowew": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-bridgelowew",
+        "name": "Bridge Low EW",
+        "description": "Isometric bridge tile (Bridge Low EW).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-bridgelowew.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "bridge",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              65,
+              0
+            ],
+            "size": [
+              100,
+              65,
+              0
+            ],
+            "center": [
+              50,
+              32.5,
+              0
+            ],
+            "diagonal": 119.268604
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            65
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 65,
+          "hasAlpha": true,
+          "pixelArea": 6500
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-bridgelowns": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-bridgelowns",
+        "name": "Bridge Low NS",
+        "description": "Isometric bridge tile (Bridge Low NS).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-bridgelowns.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "bridge",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              65,
+              0
+            ],
+            "size": [
+              100,
+              65,
+              0
+            ],
+            "center": [
+              50,
+              32.5,
+              0
+            ],
+            "diagonal": 119.268604
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            65
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 65,
+          "hasAlpha": true,
+          "pixelArea": 6500
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-riverbankedhille": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-riverbankedhille",
+        "name": "River Banked Hill E",
+        "description": "Isometric river tile (River Banked Hill E).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-riverbankedhille.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "river",
+          "hill",
+          "banked",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              65,
+              0
+            ],
+            "size": [
+              100,
+              65,
+              0
+            ],
+            "center": [
+              50,
+              32.5,
+              0
+            ],
+            "diagonal": 119.268604
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            65
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 65,
+          "hasAlpha": true,
+          "pixelArea": 6500
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-riverbankedhilln": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-riverbankedhilln",
+        "name": "River Banked Hill N",
+        "description": "Isometric river tile (River Banked Hill N).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-riverbankedhilln.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "river",
+          "hill",
+          "banked",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              65,
+              0
+            ],
+            "size": [
+              100,
+              65,
+              0
+            ],
+            "center": [
+              50,
+              32.5,
+              0
+            ],
+            "diagonal": 119.268604
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            65
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 65,
+          "hasAlpha": true,
+          "pixelArea": 6500
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-riverbankedhills": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-riverbankedhills",
+        "name": "River Banked Hill S",
+        "description": "Isometric river tile (River Banked Hill S).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-riverbankedhills.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "river",
+          "hill",
+          "banked",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              80,
+              0
+            ],
+            "size": [
+              100,
+              80,
+              0
+            ],
+            "center": [
+              50,
+              40,
+              0
+            ],
+            "diagonal": 128.062485
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            80
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 80,
+          "hasAlpha": true,
+          "pixelArea": 8000
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-riverbankedhillw": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-riverbankedhillw",
+        "name": "River Banked Hill W",
+        "description": "Isometric river tile (River Banked Hill W).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-riverbankedhillw.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "river",
+          "hill",
+          "banked",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              80,
+              0
+            ],
+            "size": [
+              100,
+              80,
+              0
+            ],
+            "center": [
+              50,
+              40,
+              0
+            ],
+            "diagonal": 128.062485
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            80
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 80,
+          "hasAlpha": true,
+          "pixelArea": 8000
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-riverbankedslopee": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-riverbankedslopee",
+        "name": "River Banked Slope E",
+        "description": "Isometric river tile (River Banked Slope E).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-riverbankedslopee.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "river",
+          "slope",
+          "banked",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              58,
+              0
+            ],
+            "size": [
+              100,
+              58,
+              0
+            ],
+            "center": [
+              50,
+              29,
+              0
+            ],
+            "diagonal": 115.602768
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            58
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 58,
+          "hasAlpha": true,
+          "pixelArea": 5800
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-riverbankedslopen": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-riverbankedslopen",
+        "name": "River Banked Slope N",
+        "description": "Isometric river tile (River Banked Slope N).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-riverbankedslopen.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "river",
+          "slope",
+          "banked",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              58,
+              0
+            ],
+            "size": [
+              100,
+              58,
+              0
+            ],
+            "center": [
+              50,
+              29,
+              0
+            ],
+            "diagonal": 115.602768
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            58
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 58,
+          "hasAlpha": true,
+          "pixelArea": 5800
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-riverbankedslopes": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-riverbankedslopes",
+        "name": "River Banked Slope S",
+        "description": "Isometric river tile (River Banked Slope S).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-riverbankedslopes.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "river",
+          "slope",
+          "banked",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              65,
+              0
+            ],
+            "size": [
+              100,
+              65,
+              0
+            ],
+            "center": [
+              50,
+              32.5,
+              0
+            ],
+            "diagonal": 119.268604
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            65
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 65,
+          "hasAlpha": true,
+          "pixelArea": 6500
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-riverbankedslopew": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-riverbankedslopew",
+        "name": "River Banked Slope W",
+        "description": "Isometric river tile (River Banked Slope W).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-riverbankedslopew.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "river",
+          "slope",
+          "banked",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              65,
+              0
+            ],
+            "size": [
+              100,
+              65,
+              0
+            ],
+            "center": [
+              50,
+              32.5,
+              0
+            ],
+            "diagonal": 119.268604
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            65
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 65,
+          "hasAlpha": true,
+          "pixelArea": 6500
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-riverbankedwaterfalle": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-riverbankedwaterfalle",
+        "name": "River Banked Waterfall E",
+        "description": "Isometric river tile (River Banked Waterfall E).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-riverbankedwaterfalle.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "river",
+          "waterfall",
+          "banked",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              65,
+              0
+            ],
+            "size": [
+              100,
+              65,
+              0
+            ],
+            "center": [
+              50,
+              32.5,
+              0
+            ],
+            "diagonal": 119.268604
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            65
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 65,
+          "hasAlpha": true,
+          "pixelArea": 6500
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-riverbankedwaterfalln": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-riverbankedwaterfalln",
+        "name": "River Banked Waterfall N",
+        "description": "Isometric river tile (River Banked Waterfall N).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-riverbankedwaterfalln.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "river",
+          "waterfall",
+          "banked",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              65,
+              0
+            ],
+            "size": [
+              100,
+              65,
+              0
+            ],
+            "center": [
+              50,
+              32.5,
+              0
+            ],
+            "diagonal": 119.268604
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            65
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 65,
+          "hasAlpha": true,
+          "pixelArea": 6500
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-riverbankedwaterfalls": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-riverbankedwaterfalls",
+        "name": "River Banked Waterfall S",
+        "description": "Isometric river tile (River Banked Waterfall S).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-riverbankedwaterfalls.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "river",
+          "waterfall",
+          "banked",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              65,
+              0
+            ],
+            "size": [
+              100,
+              65,
+              0
+            ],
+            "center": [
+              50,
+              32.5,
+              0
+            ],
+            "diagonal": 119.268604
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            65
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 65,
+          "hasAlpha": true,
+          "pixelArea": 6500
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-riverbankedwaterfallw": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-riverbankedwaterfallw",
+        "name": "River Banked Waterfall W",
+        "description": "Isometric river tile (River Banked Waterfall W).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-riverbankedwaterfallw.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "river",
+          "waterfall",
+          "banked",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              65,
+              0
+            ],
+            "size": [
+              100,
+              65,
+              0
+            ],
+            "center": [
+              50,
+              32.5,
+              0
+            ],
+            "diagonal": 119.268604
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            65
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 65,
+          "hasAlpha": true,
+          "pixelArea": 6500
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-riverhille": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-riverhille",
+        "name": "River Hill E",
+        "description": "Isometric river tile (River Hill E).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-riverhille.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "river",
+          "hill",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              65,
+              0
+            ],
+            "size": [
+              100,
+              65,
+              0
+            ],
+            "center": [
+              50,
+              32.5,
+              0
+            ],
+            "diagonal": 119.268604
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            65
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 65,
+          "hasAlpha": true,
+          "pixelArea": 6500
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-riverhilln": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-riverhilln",
+        "name": "River Hill N",
+        "description": "Isometric river tile (River Hill N).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-riverhilln.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "river",
+          "hill",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              65,
+              0
+            ],
+            "size": [
+              100,
+              65,
+              0
+            ],
+            "center": [
+              50,
+              32.5,
+              0
+            ],
+            "diagonal": 119.268604
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            65
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 65,
+          "hasAlpha": true,
+          "pixelArea": 6500
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-riverhills": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-riverhills",
+        "name": "River Hill S",
+        "description": "Isometric river tile (River Hill S).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-riverhills.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "river",
+          "hill",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              80,
+              0
+            ],
+            "size": [
+              100,
+              80,
+              0
+            ],
+            "center": [
+              50,
+              40,
+              0
+            ],
+            "diagonal": 128.062485
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            80
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 80,
+          "hasAlpha": true,
+          "pixelArea": 8000
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-riverhillw": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-riverhillw",
+        "name": "River Hill W",
+        "description": "Isometric river tile (River Hill W).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-riverhillw.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "river",
+          "hill",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              80,
+              0
+            ],
+            "size": [
+              100,
+              80,
+              0
+            ],
+            "center": [
+              50,
+              40,
+              0
+            ],
+            "diagonal": 128.062485
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            80
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 80,
+          "hasAlpha": true,
+          "pixelArea": 8000
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-riverslopee": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-riverslopee",
+        "name": "River Slope E",
+        "description": "Isometric river tile (River Slope E).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-riverslopee.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "river",
+          "slope",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              58,
+              0
+            ],
+            "size": [
+              100,
+              58,
+              0
+            ],
+            "center": [
+              50,
+              29,
+              0
+            ],
+            "diagonal": 115.602768
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            58
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 58,
+          "hasAlpha": true,
+          "pixelArea": 5800
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-riverslopen": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-riverslopen",
+        "name": "River Slope N",
+        "description": "Isometric river tile (River Slope N).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-riverslopen.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "river",
+          "slope",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              58,
+              0
+            ],
+            "size": [
+              100,
+              58,
+              0
+            ],
+            "center": [
+              50,
+              29,
+              0
+            ],
+            "diagonal": 115.602768
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            58
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 58,
+          "hasAlpha": true,
+          "pixelArea": 5800
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-riverslopes": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-riverslopes",
+        "name": "River Slope S",
+        "description": "Isometric river tile (River Slope S).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-riverslopes.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "river",
+          "slope",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              65,
+              0
+            ],
+            "size": [
+              100,
+              65,
+              0
+            ],
+            "center": [
+              50,
+              32.5,
+              0
+            ],
+            "diagonal": 119.268604
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            65
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 65,
+          "hasAlpha": true,
+          "pixelArea": 6500
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-riverslopew": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-riverslopew",
+        "name": "River Slope W",
+        "description": "Isometric river tile (River Slope W).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-riverslopew.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "river",
+          "slope",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              65,
+              0
+            ],
+            "size": [
+              100,
+              65,
+              0
+            ],
+            "center": [
+              50,
+              32.5,
+              0
+            ],
+            "diagonal": 119.268604
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            65
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 65,
+          "hasAlpha": true,
+          "pixelArea": 6500
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-riverwaterfalle": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-riverwaterfalle",
+        "name": "River Waterfall E",
+        "description": "Isometric river tile (River Waterfall E).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-riverwaterfalle.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "river",
+          "waterfall",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              65,
+              0
+            ],
+            "size": [
+              100,
+              65,
+              0
+            ],
+            "center": [
+              50,
+              32.5,
+              0
+            ],
+            "diagonal": 119.268604
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            65
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 65,
+          "hasAlpha": true,
+          "pixelArea": 6500
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-riverwaterfalln": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-riverwaterfalln",
+        "name": "River Waterfall N",
+        "description": "Isometric river tile (River Waterfall N).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-riverwaterfalln.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "river",
+          "waterfall",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              65,
+              0
+            ],
+            "size": [
+              100,
+              65,
+              0
+            ],
+            "center": [
+              50,
+              32.5,
+              0
+            ],
+            "diagonal": 119.268604
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            65
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 65,
+          "hasAlpha": true,
+          "pixelArea": 6500
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-riverwaterfalls": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-riverwaterfalls",
+        "name": "River Waterfall S",
+        "description": "Isometric river tile (River Waterfall S).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-riverwaterfalls.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "river",
+          "waterfall",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              65,
+              0
+            ],
+            "size": [
+              100,
+              65,
+              0
+            ],
+            "center": [
+              50,
+              32.5,
+              0
+            ],
+            "diagonal": 119.268604
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            65
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 65,
+          "hasAlpha": true,
+          "pixelArea": 6500
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-riverwaterfallw": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-riverwaterfallw",
+        "name": "River Waterfall W",
+        "description": "Isometric river tile (River Waterfall W).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-riverwaterfallw.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "river",
+          "waterfall",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              65,
+              0
+            ],
+            "size": [
+              100,
+              65,
+              0
+            ],
+            "center": [
+              50,
+              32.5,
+              0
+            ],
+            "diagonal": 119.268604
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            65
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 65,
+          "hasAlpha": true,
+          "pixelArea": 6500
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-slopee": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-slopee",
+        "name": "Slope E",
+        "description": "Isometric slope tile (Slope E).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-slopee.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "slope",
+          "terrain",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              58,
+              0
+            ],
+            "size": [
+              100,
+              58,
+              0
+            ],
+            "center": [
+              50,
+              29,
+              0
+            ],
+            "diagonal": 115.602768
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            58
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 58,
+          "hasAlpha": true,
+          "pixelArea": 5800
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-slopen": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-slopen",
+        "name": "Slope N",
+        "description": "Isometric slope tile (Slope N).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-slopen.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "slope",
+          "terrain",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              58,
+              0
+            ],
+            "size": [
+              100,
+              58,
+              0
+            ],
+            "center": [
+              50,
+              29,
+              0
+            ],
+            "diagonal": 115.602768
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            58
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 58,
+          "hasAlpha": true,
+          "pixelArea": 5800
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-slopes": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-slopes",
+        "name": "Slope S",
+        "description": "Isometric slope tile (Slope S).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-slopes.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "slope",
+          "terrain",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              65,
+              0
+            ],
+            "size": [
+              100,
+              65,
+              0
+            ],
+            "center": [
+              50,
+              32.5,
+              0
+            ],
+            "diagonal": 119.268604
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            65
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 65,
+          "hasAlpha": true,
+          "pixelArea": 6500
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-slopew": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-slopew",
+        "name": "Slope W",
+        "description": "Isometric slope tile (Slope W).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-slopew.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "slope",
+          "terrain",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              65,
+              0
+            ],
+            "size": [
+              100,
+              65,
+              0
+            ],
+            "center": [
+              50,
+              32.5,
+              0
+            ],
+            "diagonal": 119.268604
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            65
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 65,
+          "hasAlpha": true,
+          "pixelArea": 6500
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-waterfallende": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-waterfallende",
+        "name": "Waterfall End E",
+        "description": "Isometric waterfall tile (Waterfall End E).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-waterfallende.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "waterfall",
+          "endcap",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              58,
+              0
+            ],
+            "size": [
+              100,
+              58,
+              0
+            ],
+            "center": [
+              50,
+              29,
+              0
+            ],
+            "diagonal": 115.602768
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            58
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 58,
+          "hasAlpha": true,
+          "pixelArea": 5800
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-waterfallendn": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-waterfallendn",
+        "name": "Waterfall End N",
+        "description": "Isometric waterfall tile (Waterfall End N).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-waterfallendn.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "waterfall",
+          "endcap",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              58,
+              0
+            ],
+            "size": [
+              100,
+              58,
+              0
+            ],
+            "center": [
+              50,
+              29,
+              0
+            ],
+            "diagonal": 115.602768
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            58
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 58,
+          "hasAlpha": true,
+          "pixelArea": 5800
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-waterfallends": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-waterfallends",
+        "name": "Waterfall End S",
+        "description": "Isometric waterfall tile (Waterfall End S).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-waterfallends.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "waterfall",
+          "endcap",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              58,
+              0
+            ],
+            "size": [
+              100,
+              58,
+              0
+            ],
+            "center": [
+              50,
+              29,
+              0
+            ],
+            "diagonal": 115.602768
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            58
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 58,
+          "hasAlpha": true,
+          "pixelArea": 5800
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-waterfallendw": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-waterfallendw",
+        "name": "Waterfall End W",
+        "description": "Isometric waterfall tile (Waterfall End W).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-waterfallendw.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "waterfall",
+          "endcap",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              58,
+              0
+            ],
+            "size": [
+              100,
+              58,
+              0
+            ],
+            "center": [
+              50,
+              29,
+              0
+            ],
+            "diagonal": 115.602768
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            58
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 58,
+          "hasAlpha": true,
+          "pixelArea": 5800
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-waterfalls": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-waterfalls",
+        "name": "Waterfall S",
+        "description": "Isometric waterfall tile (Waterfall S).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-waterfalls.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "waterfall",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              65,
+              0
+            ],
+            "size": [
+              100,
+              65,
+              0
+            ],
+            "center": [
+              50,
+              32.5,
+              0
+            ],
+            "diagonal": 119.268604
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            65
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 65,
+          "hasAlpha": true,
+          "pixelArea": 6500
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-isometric-roads-water-png-waterfallw": {
+      "generatedAt": "2026-04-23T10:53:01.624Z",
+      "asset": {
+        "id": "kenney-isometric-roads-water-png-waterfallw",
+        "name": "Waterfall W",
+        "description": "Isometric waterfall tile (Waterfall W).",
+        "kind": "sprite",
+        "format": "png",
+        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-water-a5e1dfb497c2/kenney-isometric-roads-water-png-waterfallw.png",
+        "sourceUrl": "https://kenney.nl/assets/isometric-roads-water",
+        "tags": [
+          "isometric",
+          "2d",
+          "kenney",
+          "road",
+          "roads",
+          "water",
+          "tiles",
+          "bright",
+          "arcade",
+          "toy",
+          "waterfall",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              0,
+              0,
+              0
+            ],
+            "max": [
+              100,
+              65,
+              0
+            ],
+            "size": [
+              100,
+              65,
+              0
+            ],
+            "center": [
+              50,
+              32.5,
+              0
+            ],
+            "diagonal": 119.268604
+          },
+          "triangleCount": null,
+          "drawCallCount": null,
+          "renderVertexCount": null,
+          "uploadVertexCount": null,
+          "meshCount": null,
+          "primitiveCount": null
+        },
+        "materials": {
+          "count": 0,
+          "alphaModes": [],
+          "doubleSidedCount": 0
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            100,
+            65
+          ]
+        },
+        "image": {
+          "width": 100,
+          "height": 65,
+          "hasAlpha": true,
+          "pixelArea": 6500
+        },
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    }
+  }
+}

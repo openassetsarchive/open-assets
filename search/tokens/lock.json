@@ -1,12 +1,18 @@
 {
   "version": 1,
   "token": "lock",
-  "count": 5,
+  "count": 11,
   "assetIds": [
     "kenney-new-platformer-pack-sprites-tiles-lock-blue",
     "kenney-new-platformer-pack-sprites-tiles-lock-green",
     "kenney-new-platformer-pack-sprites-tiles-lock-red",
     "kenney-new-platformer-pack-sprites-tiles-lock-yellow",
-    "kenney-new-platformer-pack-spritesheets-spritesheet-tiles"
+    "kenney-new-platformer-pack-spritesheets-spritesheet-tiles",
+    "kenney-platformer-art-deluxe-base-pack-tiles-lock-blue",
+    "kenney-platformer-art-deluxe-base-pack-tiles-lock-green",
+    "kenney-platformer-art-deluxe-base-pack-tiles-lock-red",
+    "kenney-platformer-art-deluxe-base-pack-tiles-lock-yellow",
+    "kenney-platformer-art-deluxe-base-pack-tiles-tiles-spritesheet",
+    "kenney-platformer-art-deluxe-buildings-expansion-tiles-doorlock"
   ]
 }

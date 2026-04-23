@@ -1,8 +1,10 @@
 {
   "version": 1,
   "token": "armor",
-  "count": 1,
+  "count": 3,
   "assetIds": [
+    "kenney-tanks-png-tanks-cratearmor",
+    "kenney-tanks-spritesheet-tanks-spritesheet",
     "quaternius-cube-world-kit-enemies-gltf-skeleton-armor"
   ]
 }

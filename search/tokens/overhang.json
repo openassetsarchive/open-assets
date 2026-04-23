@@ -1,7 +1,7 @@
 {
   "version": 1,
   "token": "overhang",
-  "count": 13,
+  "count": 16,
   "assetIds": [
     "kenney-new-platformer-pack-sprites-tiles-terrain-dirt-horizontal-overhang-left",
     "kenney-new-platformer-pack-sprites-tiles-terrain-dirt-horizontal-overhang-right",
@@ -15,6 +15,9 @@
     "kenney-new-platformer-pack-sprites-tiles-terrain-snow-horizontal-overhang-right",
     "kenney-new-platformer-pack-sprites-tiles-terrain-stone-horizontal-overhang-left",
     "kenney-new-platformer-pack-sprites-tiles-terrain-stone-horizontal-overhang-right",
-    "kenney-new-platformer-pack-spritesheets-spritesheet-tiles"
+    "kenney-new-platformer-pack-spritesheets-spritesheet-tiles",
+    "kenney-racing-pack-png-objects-tribune-overhang-red",
+    "kenney-racing-pack-png-objects-tribune-overhang-striped",
+    "kenney-racing-pack-spritesheets-spritesheet-objects"
   ]
 }

@@ -1,11 +1,16 @@
 {
   "version": 1,
   "token": "mouse",
-  "count": 4,
+  "count": 9,
   "assetIds": [
     "kenney-new-platformer-pack-sprites-enemies-mouse-rest",
     "kenney-new-platformer-pack-sprites-enemies-mouse-walk-a",
     "kenney-new-platformer-pack-sprites-enemies-mouse-walk-b",
-    "kenney-new-platformer-pack-spritesheets-spritesheet-enemies"
+    "kenney-new-platformer-pack-spritesheets-spritesheet-enemies",
+    "kenney-platformer-art-deluxe-extra-animations-and-enemies-enemy-sprites-mouse",
+    "kenney-platformer-art-deluxe-extra-animations-and-enemies-enemy-sprites-mouse-dead",
+    "kenney-platformer-art-deluxe-extra-animations-and-enemies-enemy-sprites-mouse-hit",
+    "kenney-platformer-art-deluxe-extra-animations-and-enemies-enemy-sprites-mouse-walk",
+    "kenney-platformer-art-deluxe-extra-animations-and-enemies-spritesheets-enemies"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "version": 1,
   "token": "switch",
-  "count": 9,
+  "count": 21,
   "assetIds": [
     "kenney-new-platformer-pack-sprites-tiles-switch-blue",
     "kenney-new-platformer-pack-sprites-tiles-switch-blue-pressed",
@@ -11,6 +11,18 @@
     "kenney-new-platformer-pack-sprites-tiles-switch-red-pressed",
     "kenney-new-platformer-pack-sprites-tiles-switch-yellow",
     "kenney-new-platformer-pack-sprites-tiles-switch-yellow-pressed",
-    "kenney-new-platformer-pack-spritesheets-spritesheet-tiles"
+    "kenney-new-platformer-pack-spritesheets-spritesheet-tiles",
+    "kenney-platformer-art-deluxe-base-pack-items-items-spritesheet",
+    "kenney-platformer-art-deluxe-base-pack-items-switchleft",
+    "kenney-platformer-art-deluxe-base-pack-items-switchmid",
+    "kenney-platformer-art-deluxe-base-pack-items-switchright",
+    "kenney-platformer-art-deluxe-request-pack-tiles-laserswitchblueoff",
+    "kenney-platformer-art-deluxe-request-pack-tiles-laserswitchblueon",
+    "kenney-platformer-art-deluxe-request-pack-tiles-laserswitchgreenoff",
+    "kenney-platformer-art-deluxe-request-pack-tiles-laserswitchgreenon",
+    "kenney-platformer-art-deluxe-request-pack-tiles-laserswitchredoff",
+    "kenney-platformer-art-deluxe-request-pack-tiles-laserswitchredon",
+    "kenney-platformer-art-deluxe-request-pack-tiles-laserswitchyellowoff",
+    "kenney-platformer-art-deluxe-request-pack-tiles-laserswitchyellowon"
   ]
 }
