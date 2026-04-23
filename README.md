@@ -128,6 +128,7 @@ If a pack changes later, the catalog will point to a new versioned release URL. 
 
 Preview thumbnails are derived catalog files under `previews/<packId>/<assetId>.webp`.
 They are for browsing and selection; they are not canonical asset identities.
+3D model previews are transparent WebP thumbnails framed around the rendered visible alpha bounds.
 
 ## Current Scope
 

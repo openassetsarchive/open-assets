@@ -522,14 +522,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 7674,
-          "sha256": "0d418e34eee624639924b90ca42ee9f07d1dce57248d45ebc58eece51ea7078c",
+          "bytes": 7716,
+          "sha256": "377f8b36f372f896b2d48e8b39bad957c5b9be01447397b038de83bdc78d7d49",
           "transparent": true,
           "sourceBundleSha256": "6a96392b63ba74355202a16290af3a075caad5876767e65c60ee9efaa1c47c30",
-          "cacheKey": "98e6cac47b924c7aa2e49587056bf2247c885359a6ab1eda9511fa177bd9c62b",
+          "cacheKey": "bcd259218209819e188314acb2e4fb0d4da2b1e4b582f70b847c45cdafa0b0b6",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -544,12 +544,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 4.708415,
+            "pan": [
+              -0.086453,
+              0.046511,
+              0.052966
+            ],
             "alphaBounds": {
-              "x": 78,
-              "y": 68,
-              "width": 322,
-              "height": 358,
-              "fill": 0.699219
+              "x": 97,
+              "y": 76,
+              "width": 320,
+              "height": 359,
+              "fill": 0.701172,
+              "centerOffset": {
+                "x": 1,
+                "y": -0.5,
+                "length": 1.118034
+              }
             }
           },
           "sampledAnimation": null
@@ -856,14 +866,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 9614,
-          "sha256": "5acc943677b686525df37647a8a39168a32f2433ff232998e488d1aa66e0896d",
+          "bytes": 9470,
+          "sha256": "d6f9140ef111792f8fd6a64ea3356db6548fbe5f35221ece43aed1299bdc6709",
           "transparent": true,
           "sourceBundleSha256": "55961613acfdb5cca4ccf46d3d9582c19364af2c9dae146e3e78dab0b5a5533e",
-          "cacheKey": "469cdfed051329d9144195dbd3d846cca2739cab2c45d446cc71abe208d81f5f",
+          "cacheKey": "4dc63d067112e7d04eafaee4cbbb78c5819db307ef360d185edebfe44a6c968d",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -878,12 +888,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 2.074714,
+            "pan": [
+              -0.044442,
+              0.065875,
+              -0.002988
+            ],
             "alphaBounds": {
-              "x": 68,
-              "y": 42,
-              "width": 352,
-              "height": 370,
-              "fill": 0.722656
+              "x": 81,
+              "y": 73,
+              "width": 350,
+              "height": 366,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
             }
           },
           "sampledAnimation": null
@@ -1190,14 +1210,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 7364,
-          "sha256": "d06f5ea2845a2af4b76ca40b32d4a361eced3921732e0dad9c17080f312ab048",
+          "bytes": 7808,
+          "sha256": "4fa59e9147d53add9b604d834197bb99e483b8a6f50c3283e56950cf541d227f",
           "transparent": true,
           "sourceBundleSha256": "85691c10dc213218747d0f127241a972b04bcf0ec4a90be39e3706d0b1367a60",
-          "cacheKey": "06bf3facf4d852a5a8598100a96242ea851dc722bdc7e256068bfd22818b3a14",
+          "cacheKey": "bd4667f18777483d8ed144fd432b1a16d174ae34d52901b33ab9405b2b9c1a16",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -1211,13 +1231,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 2.644981,
+            "distance": 2.461015,
+            "pan": [
+              -0.042668,
+              0.076931,
+              -0.012722
+            ],
             "alphaBounds": {
-              "x": 115,
-              "y": 58,
-              "width": 269,
-              "height": 343,
-              "fill": 0.669922
+              "x": 112,
+              "y": 73,
+              "width": 287,
+              "height": 364,
+              "fill": 0.710938,
+              "centerOffset": {
+                "x": -0.5,
+                "y": -1,
+                "length": 1.118034
+              }
             }
           },
           "sampledAnimation": null
@@ -1619,14 +1649,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 9118,
-          "sha256": "3a0b5d5f5398cfdba786f5baab8cbbe6e613eb306eb932a11b3c253cee61ed49",
+          "bytes": 9254,
+          "sha256": "53e9f82ab89a89de6bd4249731db7a6be2a8a231b8a297b4abb75ad4ed63656e",
           "transparent": true,
           "sourceBundleSha256": "9e642a29db2928fcf2bc5afcd399da8472d291c6ae5344baff2d7ba6729aec3b",
-          "cacheKey": "226cabc444d9f6c173688ddead7b9abe027e0f990b564209a1b3f142a6b1a10b",
+          "cacheKey": "ff984348692e62c2f2350c5ed0ee2897b39be7d6de216bc98bd3f0d0fef0a1e7",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -1641,12 +1671,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 4.731576,
+            "pan": [
+              -0.077016,
+              -0.049336,
+              0.112538
+            ],
             "alphaBounds": {
-              "x": 70,
-              "y": 87,
-              "width": 326,
-              "height": 357,
-              "fill": 0.697266
+              "x": 96,
+              "y": 77,
+              "width": 322,
+              "height": 358,
+              "fill": 0.699219,
+              "centerOffset": {
+                "x": 1,
+                "y": 0,
+                "length": 1
+              }
             }
           },
           "sampledAnimation": null
@@ -2056,14 +2096,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 7470,
-          "sha256": "144d5b0f0a8e170e0afd3fe50210663f9fc5cb79c7b7e1c3182e9523f1a1dd05",
+          "bytes": 8058,
+          "sha256": "8007c92e2a7727884d972906a9f612002d972876f5a1ec3d14f67e5ed15e58a6",
           "transparent": true,
           "sourceBundleSha256": "be104394a7e07b1fdff3c94cc7df6b9c26ce9f07cb753cfec3f8aa7eb79856ca",
-          "cacheKey": "542dd29618533cb1a8eedf263e84ee978a3c2fe4f0e25394040cae69d997d8c5",
+          "cacheKey": "7534c055ebbbc954741d50e7b40814b12853c18daf0b383104735cc50b345110",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -2077,13 +2117,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 7.221415,
+            "distance": 6.758323,
+            "pan": [
+              -0.087366,
+              -0.131797,
+              0.182259
+            ],
             "alphaBounds": {
-              "x": 84,
-              "y": 102,
-              "width": 303,
-              "height": 345,
-              "fill": 0.673828
+              "x": 98,
+              "y": 70,
+              "width": 317,
+              "height": 372,
+              "fill": 0.726563,
+              "centerOffset": {
+                "x": 0.5,
+                "y": 0,
+                "length": 0.5
+              }
             }
           },
           "sampledAnimation": null
@@ -2485,14 +2535,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 9436,
-          "sha256": "07464d06b8301c706d8cd35af55b8fe5dd321ef2331f62627267a15d4d80f874",
+          "bytes": 9486,
+          "sha256": "fe1ad8494ac75234ac0aa2a50c8353bf053b09df6885e7f05fcf16ab3a59cbd8",
           "transparent": true,
           "sourceBundleSha256": "7b77654c68db7132c000efa4d602bf06b170f1acc09d849bda27a76629b51422",
-          "cacheKey": "5a0268ad356dcbc282fbe1d626b0e2e3a2a4266c12069d3dacd64d8021ceb4f4",
+          "cacheKey": "6403ec56d6a8b7cb4bf245c8b3a9f52f93f49dbba7be56ab5f24288024ae0efb",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -2507,12 +2557,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 4.406752,
+            "pan": [
+              -0.011567,
+              -0.079806,
+              0.069028
+            ],
             "alphaBounds": {
-              "x": 76,
-              "y": 95,
-              "width": 339,
-              "height": 355,
-              "fill": 0.693359
+              "x": 88,
+              "y": 79,
+              "width": 337,
+              "height": 354,
+              "fill": 0.691406,
+              "centerOffset": {
+                "x": 0.5,
+                "y": 0,
+                "length": 0.5
+              }
             }
           },
           "sampledAnimation": null
@@ -2914,14 +2974,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 7010,
-          "sha256": "480c30f91969de0b44fe7a5198744700c4f8cb732b02f94ad7fb41fdc48010ba",
+          "bytes": 6846,
+          "sha256": "1c9130c54059bff7e6a55ec2097e1da19e8abcc07ad04d456b924e854a31aaee",
           "transparent": true,
           "sourceBundleSha256": "b4a62a140f79913c6070745e489baf9e8cfd0edf694a18194efc8e301b258da5",
-          "cacheKey": "00aa5beb01e467e4dc624fa61473193d5f3f92d7e4ca7062c59e34694e81b1bb",
+          "cacheKey": "2ef634d84fb389a5d692a4251fb3cc1910778385a58f9f61598ad8e2949a1373",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -2936,12 +2996,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 5.945169,
+            "pan": [
+              -0.058748,
+              -0.107661,
+              0.136264
+            ],
             "alphaBounds": {
-              "x": 51,
-              "y": 133,
-              "width": 371,
-              "height": 279,
-              "fill": 0.724609
+              "x": 73,
+              "y": 118,
+              "width": 366,
+              "height": 276,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
             }
           },
           "sampledAnimation": null
@@ -3343,14 +3413,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 7416,
-          "sha256": "8d271a2de5ed618bee135b248b86fceb53b973efd9e3d30e55e1018508b53dfd",
+          "bytes": 7650,
+          "sha256": "bdf1721ffda957ab5c1074bca923f57ca03773dfb46c493c97405294c99d8c43",
           "transparent": true,
           "sourceBundleSha256": "5525c2198edd21805ca803cbbbdb13b7ce0f36672fef93b033886823ee47931f",
-          "cacheKey": "cc4566957d860f540b445b8534d545171c6de96705eb6b2bfad58194dd4fda89",
+          "cacheKey": "9dc11eebd6342047626fe3d39b9a4e8da17cac59a5389bce7e5fef14661c644a",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -3365,12 +3435,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 4.701631,
+            "pan": [
+              -0.078005,
+              0.003029,
+              0.075824
+            ],
             "alphaBounds": {
-              "x": 48,
-              "y": 83,
-              "width": 374,
-              "height": 348,
-              "fill": 0.730469
+              "x": 70,
+              "y": 84,
+              "width": 372,
+              "height": 347,
+              "fill": 0.726563,
+              "centerOffset": {
+                "x": 0,
+                "y": 1.5,
+                "length": 1.5
+              }
             }
           },
           "sampledAnimation": null
@@ -3772,14 +3852,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 8322,
-          "sha256": "847acc7d6b192a8bc191222dec03febad8807865a39d120e3681eb035f8ca1f6",
+          "bytes": 8424,
+          "sha256": "ba55d5c658d0b77bc2b532d264da10f787eaa279615f4ec00681784ad32687d4",
           "transparent": true,
           "sourceBundleSha256": "b186c40ef60ba2b3b080a357bdc603ea6cdcaa261a26fe664f545e1e2b9ef597",
-          "cacheKey": "da8db41151f31006f849287be39533c9b44991e7c563aec885874d36bb71ab3b",
+          "cacheKey": "e2191ee316cae3b3ef56b4ba46b3b0b7aee78765c8360ead48ec3dc9fee0b750",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -3794,12 +3874,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 4.28433,
+            "pan": [
+              -0.070968,
+              -0.057109,
+              0.112087
+            ],
             "alphaBounds": {
-              "x": 45,
-              "y": 85,
-              "width": 370,
-              "height": 366,
-              "fill": 0.722656
+              "x": 74,
+              "y": 74,
+              "width": 364,
+              "height": 365,
+              "fill": 0.712891,
+              "centerOffset": {
+                "x": 0,
+                "y": 0.5,
+                "length": 0.5
+              }
             }
           },
           "sampledAnimation": null
@@ -3990,14 +4080,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 9098,
-          "sha256": "61ffaf023b9a58186e35e1d87666b5e97d674ecf680cc9df25146296e2a33e05",
+          "bytes": 9018,
+          "sha256": "2144495e423b316936f2ba129a163b1d1bcd08f53c0160d64b4fe82bdfa48ef0",
           "transparent": true,
           "sourceBundleSha256": "9e8bc73fdba39c6f489f9ffcfe92916c15fe13dd9e51a2685358d88ab627609b",
-          "cacheKey": "102008f2330fcfc00b3d42394b851e52800c09379d0b223a6174c7a8cc15ece5",
+          "cacheKey": "7f2792e5b923156cfb3323d5bb900f3fb244835a07133813d7698a3c67c7331c",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -4011,13 +4101,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 6.883469,
+            "distance": 6.809018,
+            "pan": [
+              0.058357,
+              -0.162103,
+              0.058357
+            ],
             "alphaBounds": {
-              "x": 77,
-              "y": 94,
-              "width": 358,
-              "height": 367,
-              "fill": 0.716797
+              "x": 75,
+              "y": 73,
+              "width": 362,
+              "height": 366,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
             }
           },
           "sampledAnimation": null
@@ -4208,14 +4308,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 8786,
-          "sha256": "db5c02509bb496f172f681a39cd5a4c4e85c62b745db245ce298c967e4bca4b6",
+          "bytes": 8688,
+          "sha256": "e8fedd31cd1af1a1b79a5630e1c456ad81dc02090d5b0df24ae41bea54c1d82a",
           "transparent": true,
           "sourceBundleSha256": "b911a6ba21d08505965684a25d615b1e1df9928cb01bc26c196b54cfb12de9f8",
-          "cacheKey": "d0a67ba8155804e7eabd8db0349eaa0496edeca41b017388f1505a1be3a6fba7",
+          "cacheKey": "bd2ed75f573b7235b1565d275d9558fab9c43fe54a44096d4915e0c59b8eec1a",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -4229,13 +4329,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 6.408419,
+            "distance": 6.399799,
+            "pan": [
+              0.045644,
+              -0.133348,
+              0.050367
+            ],
             "alphaBounds": {
               "x": 78,
-              "y": 92,
+              "y": 74,
               "width": 356,
-              "height": 367,
-              "fill": 0.716797
+              "height": 364,
+              "fill": 0.710938,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
             }
           },
           "sampledAnimation": null
@@ -4426,14 +4536,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 9164,
-          "sha256": "93fb8e5d3cf16e1947fee8c40cbab62be41178fa13cf87f46397e495671caf4c",
+          "bytes": 9036,
+          "sha256": "c498385c7f5652e2eab67737d55c9812f6f442f973b73e63261ae2348821f276",
           "transparent": true,
           "sourceBundleSha256": "8d05ef85d877a29022115fdd94c000cbd51926fb8c4cfb00874ea7ad8c9ea73d",
-          "cacheKey": "aa0463922ba4971d3b556a9efb0ab2b3b57ea3f70c3d8ac8735283a24a1e5aa7",
+          "cacheKey": "6a1284bf7f991a92ca9a924a60327fd74b9d2ef4b0ca282429344d825629a12d",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -4447,13 +4557,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 6.099192,
+            "distance": 6.088766,
+            "pan": [
+              0.046345,
+              -0.128736,
+              0.046345
+            ],
             "alphaBounds": {
               "x": 76,
-              "y": 92,
+              "y": 74,
               "width": 360,
-              "height": 367,
-              "fill": 0.716797
+              "height": 364,
+              "fill": 0.710938,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
             }
           },
           "sampledAnimation": null
@@ -4644,14 +4764,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 8850,
-          "sha256": "518af31d03d68fbdbf6e9dcf3781a35439579bc11acf78d4bc3494dceb7ad76a",
+          "bytes": 8400,
+          "sha256": "07802e45a823fdfe356bbd75bdfa3123b45cc710a6eda7ad70aa8790e61619cc",
           "transparent": true,
           "sourceBundleSha256": "f32678615f294ee0e31e5a1bf78595e0a20effa0502bf9d8e1a55ea9040ee201",
-          "cacheKey": "dd48f80507789267411bff9dced1363f74aa1ed15c57e80d4784e4260cfa7bd7",
+          "cacheKey": "9d6a76f5ba65804db2f947c719189793c502e0f4d8bd2142d4f82452966df46f",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -4665,13 +4785,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 6.486325,
+            "distance": 6.82332,
+            "pan": [
+              0.058339,
+              -0.162053,
+              0.058339
+            ],
             "alphaBounds": {
-              "x": 65,
-              "y": 85,
-              "width": 382,
-              "height": 390,
-              "fill": 0.761719
+              "x": 75,
+              "y": 73,
+              "width": 362,
+              "height": 365,
+              "fill": 0.712891,
+              "centerOffset": {
+                "x": 0,
+                "y": -0.5,
+                "length": 0.5
+              }
             }
           },
           "sampledAnimation": null
@@ -4862,14 +4992,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 8748,
-          "sha256": "4d968ce4a368a30f8e371795cccbc716c78eaf3f51e7c29f0ad97cf606aaed7b",
+          "bytes": 8642,
+          "sha256": "861cfe3e116e14db43c87278157293dab564c23d261a0c391016ec78483d13cb",
           "transparent": true,
           "sourceBundleSha256": "9d83b1171ef8f70507c6f8737a466c346ad6b9fa43dc5e0144d6925d2fe37cfe",
-          "cacheKey": "b0495488aa069f4849b5e119db8a28b0309729115be7eaa9a33976433769fef2",
+          "cacheKey": "82f5a9b6d9d87a0392f1bad07b7b685c84a245b78a76a98de446c01c35db0502",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -4883,13 +5013,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 6.883472,
+            "distance": 6.809021,
+            "pan": [
+              0.058357,
+              -0.162103,
+              0.058357
+            ],
             "alphaBounds": {
-              "x": 77,
-              "y": 94,
-              "width": 358,
-              "height": 367,
-              "fill": 0.716797
+              "x": 75,
+              "y": 73,
+              "width": 362,
+              "height": 366,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
             }
           },
           "sampledAnimation": null
@@ -5080,14 +5220,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 12056,
-          "sha256": "3b8c3e77fff427f805f58fa687148949b4a5fe058dffbff9d52ba38864b3321a",
+          "bytes": 11076,
+          "sha256": "4a4ef5a8d96d91c34fcb4c9861050dbc4694bd73da7966bce15d015fe320db60",
           "transparent": true,
           "sourceBundleSha256": "690bf3bafc6cadc4075d5a1cd9788451ded47c49e78f5b693f33e442995d3e88",
-          "cacheKey": "9dfa4f199ddc41ded1acd644a7f789dea044a04a40de5df6545d87e2fe1363c7",
+          "cacheKey": "d43ee3d2c42797c75ebf5f0325099821cab446f2b6dbf59151ebfb6049349bf9",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -5101,13 +5241,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 6.361909,
+            "distance": 6.839707,
+            "pan": [
+              0.057958,
+              -0.160994,
+              0.057958
+            ],
             "alphaBounds": {
-              "x": 61,
-              "y": 82,
-              "width": 390,
-              "height": 398,
-              "fill": 0.777344
+              "x": 76,
+              "y": 74,
+              "width": 360,
+              "height": 364,
+              "fill": 0.710938,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
             }
           },
           "sampledAnimation": null
@@ -5298,14 +5448,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 11138,
-          "sha256": "0f1e85df458bafd82cbcb7728cb5873f11fc63e54b78485947c278b19cd4cea9",
+          "bytes": 10548,
+          "sha256": "eff038a262e1a07bad413755237012b070052d8306df6dbfbf819d4ee42a8566",
           "transparent": true,
           "sourceBundleSha256": "76a74c376e17a1d726a5c48b7f151e1798c5a25fc5b7ec446aa71eb569ce61ab",
-          "cacheKey": "aa3ac5d5ddc822e6f5f165342b3b5f8df62326f3cfb4c54b089b5998c0d25da3",
+          "cacheKey": "62a763d484b4b58d20bc1aaf3da0df09c8df1eba05d85113edb9715359ebe1a3",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -5319,13 +5469,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 6.53613,
+            "distance": 6.808469,
+            "pan": [
+              0.057361,
+              -0.159337,
+              0.057361
+            ],
             "alphaBounds": {
-              "x": 67,
-              "y": 86,
-              "width": 378,
-              "height": 387,
-              "fill": 0.755859
+              "x": 75,
+              "y": 73,
+              "width": 362,
+              "height": 366,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
             }
           },
           "sampledAnimation": null
@@ -5516,14 +5676,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 7014,
-          "sha256": "481f9875cb89668117bef871b5f106fbe63eba2965ad15d1a5a366fcc007723b",
+          "bytes": 6834,
+          "sha256": "a16d4799f6421e3d00d69adc984c8831e999a534b3e4324d6e0705745af71cc6",
           "transparent": true,
           "sourceBundleSha256": "118cd3cef09f6d4ae0c8a40290bae8f2a23da19c714a1c2bdac197793f05cfe0",
-          "cacheKey": "c85b4db3cbc97d07b5b0a47be95fa9a9e81da02d8e590ea3b6c61249edb14ed9",
+          "cacheKey": "76ebd9c2759486ec5cf4a89b14528dfc3a5da2b675e54a613a3ea3cbecbc77dd",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -5537,13 +5697,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 6.88347,
+            "distance": 6.809019,
+            "pan": [
+              0.058357,
+              -0.162103,
+              0.058357
+            ],
             "alphaBounds": {
-              "x": 77,
-              "y": 94,
-              "width": 358,
-              "height": 367,
-              "fill": 0.716797
+              "x": 75,
+              "y": 73,
+              "width": 362,
+              "height": 366,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
             }
           },
           "sampledAnimation": null
@@ -5734,14 +5904,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 7016,
-          "sha256": "47546ca742a6c7dc9beb63b888b57e5e8a3fb1d38f92968f3930fbb433e15dac",
+          "bytes": 6876,
+          "sha256": "1faf8142b49c5120d6e04777d6a6871fd52a710e70e6c995eb9059385145b66a",
           "transparent": true,
           "sourceBundleSha256": "904a33c5116d497a88dc7dd08d39bbe91c44fb1478385ebe8e0c419d1224ae44",
-          "cacheKey": "0e76167483100934ca4355c07981ba9dc2f02c3d5d886780de73120effdc0ecd",
+          "cacheKey": "1c82f9506f78189256fe199bc4c377ca1464741529640e660d4be5efd3750f0a",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -5755,13 +5925,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 6.88347,
+            "distance": 6.809019,
+            "pan": [
+              0.058357,
+              -0.162103,
+              0.058357
+            ],
             "alphaBounds": {
-              "x": 77,
-              "y": 94,
-              "width": 358,
-              "height": 367,
-              "fill": 0.716797
+              "x": 75,
+              "y": 73,
+              "width": 362,
+              "height": 366,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
             }
           },
           "sampledAnimation": null
@@ -5953,14 +6133,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 7782,
-          "sha256": "087363bf480ed98115b0d17d87e4aed1e1b3ad48758890d5dd1b8fa7bbd81929",
+          "bytes": 7766,
+          "sha256": "e27772598618dc9bbf35a7cc3a4bbb09794a8130fc338e4be9705f63c608df0b",
           "transparent": true,
           "sourceBundleSha256": "a650e6bf5038150a14bcd3e555a03c63e6e496ebf71f16e3b18196401a33d46c",
-          "cacheKey": "f66a7902cda08709c72952db2d97942e8c244f75c3a3b98aaa01ca79158c88fe",
+          "cacheKey": "bbb18a4f802bcc4d423face6aafbc818d1e046c636145567740b4f067b2df6d2",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -5974,13 +6154,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 6.722193,
+            "distance": 6.705124,
+            "pan": [
+              0.053372,
+              -0.148255,
+              0.053372
+            ],
             "alphaBounds": {
-              "x": 77,
-              "y": 93,
-              "width": 358,
-              "height": 367,
-              "fill": 0.716797
+              "x": 76,
+              "y": 74,
+              "width": 360,
+              "height": 364,
+              "fill": 0.710938,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
             }
           },
           "sampledAnimation": null
@@ -6171,14 +6361,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 7610,
-          "sha256": "203a00f185cbdea3b8c0fe4791992c4efe5e6bd939a7d2679fc5e36c77a2cfa6",
+          "bytes": 7486,
+          "sha256": "c3398576e10621f9f195f9e463a6d222dd9bd22090a18447219a348788b8872e",
           "transparent": true,
           "sourceBundleSha256": "1b13f6a1c1f21e8c193f1803da4cd6172f60c0c7bd9d73a7ef97e9065a6f629d",
-          "cacheKey": "42189d60fc405f231ef73e8d87408064804ddacb52c627a8a4fca1ec04b31feb",
+          "cacheKey": "c1b1bbca6ea1fd845c6177daabbb58444d5d66d80c914a0caf7f24aa3b9e1e7d",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -6192,13 +6382,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 6.88347,
+            "distance": 6.809019,
+            "pan": [
+              0.058357,
+              -0.162103,
+              0.058357
+            ],
             "alphaBounds": {
-              "x": 77,
-              "y": 94,
-              "width": 358,
-              "height": 367,
-              "fill": 0.716797
+              "x": 75,
+              "y": 73,
+              "width": 362,
+              "height": 366,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
             }
           },
           "sampledAnimation": null
@@ -6389,14 +6589,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 7464,
-          "sha256": "503d4ce70c671aaf2911fa9b84b7988a5d0e7e2817cdfd7335a8d52f27b2e401",
+          "bytes": 7432,
+          "sha256": "7ecd3d36f1b4aa9a48fe707837596bc2f138857e7c028b56d9ed36e60951bb4f",
           "transparent": true,
           "sourceBundleSha256": "8c7bf955ad833c57d47d295cda7816aad844b452adc0f4e3c006111de6671bdc",
-          "cacheKey": "67927735d960b6c8142ddb8ed00a01fec8e017140b30693d6af2aad65aa886a0",
+          "cacheKey": "7e347ac1f06016475c71952032af2910daebbf58364dc814f2907f1da35ac48d",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -6410,13 +6610,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 6.875107,
+            "distance": 6.860887,
+            "pan": [
+              0.056518,
+              -0.156994,
+              0.056518
+            ],
             "alphaBounds": {
               "x": 77,
-              "y": 94,
+              "y": 75,
               "width": 358,
-              "height": 367,
-              "fill": 0.716797
+              "height": 363,
+              "fill": 0.708984,
+              "centerOffset": {
+                "x": 0,
+                "y": 0.5,
+                "length": 0.5
+              }
             }
           },
           "sampledAnimation": null
@@ -6607,14 +6817,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 7502,
-          "sha256": "909309b92ce416aeb4ec205a3b39850c0121d6817f61f5e06d6b3232bc933a8c",
+          "bytes": 7362,
+          "sha256": "867be6f39c073c910f27e55be247a6b710b31b9084813d983e7f22d5e5484f84",
           "transparent": true,
           "sourceBundleSha256": "73a9af7adac78181211fd2659229c0af09afc34cc540d3657cadaaeaee987eca",
-          "cacheKey": "e24d2df8e667f6368f2889df066650eb3b7b16d7dd7801b20e1d3381547045a9",
+          "cacheKey": "1baa129e840e53e9e0e71dbc1fdbf412a808bf53ac3a362f5e494861fcc3970f",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -6628,13 +6838,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 6.88347,
+            "distance": 6.809019,
+            "pan": [
+              0.058357,
+              -0.162103,
+              0.058357
+            ],
             "alphaBounds": {
-              "x": 77,
-              "y": 94,
-              "width": 358,
-              "height": 367,
-              "fill": 0.716797
+              "x": 75,
+              "y": 73,
+              "width": 362,
+              "height": 366,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
             }
           },
           "sampledAnimation": null
@@ -6825,14 +7045,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 5164,
-          "sha256": "1fd8eedb67a06385a07acc0d4aea6c040e03026a33d9a9c1b40a310a25b9affe",
+          "bytes": 5076,
+          "sha256": "f26737d7d789536233d60b9c17eca44488caac726004d1241f38ff75592ddba5",
           "transparent": true,
           "sourceBundleSha256": "2d6d5217f37b1362fbe9f73634df00ebddd58b32e9587e1c8f81673938d7e32b",
-          "cacheKey": "d51c1bb8aaeca3cd52375695dda409c2cd0f2357d0d673d2ed7c0f1fc8366e66",
+          "cacheKey": "5bf9aafd369d4284b07a85bde924122b8f8f949ed6654b9fc84375195af89a5a",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -6846,13 +7066,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 6.883469,
+            "distance": 6.809018,
+            "pan": [
+              0.058357,
+              -0.162103,
+              0.058357
+            ],
             "alphaBounds": {
-              "x": 77,
-              "y": 94,
-              "width": 358,
-              "height": 367,
-              "fill": 0.716797
+              "x": 75,
+              "y": 73,
+              "width": 362,
+              "height": 366,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
             }
           },
           "sampledAnimation": null
@@ -7044,14 +7274,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 10106,
-          "sha256": "e5f3643f1430f9590f424039a725e48446e03ac67b854e459b7272c941e6d7ca",
+          "bytes": 9880,
+          "sha256": "802774c2c09831a7b1020e65ac32c2e55f8dceb5148661c35f8e9f2e0937e0b6",
           "transparent": true,
           "sourceBundleSha256": "1195841b6422103b44709884b23a97450445965ee44f8ae056a4bd06e34af556",
-          "cacheKey": "0d595511fe3f340852d2d484713412b473110c86f5f2c74d2223858c5b7dfd1d",
+          "cacheKey": "9294e7fc315652bb7084c83fa12ed45f682ec7a8e9a1251d10b9f637eeaef78f",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -7065,13 +7295,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 6.88347,
+            "distance": 6.80902,
+            "pan": [
+              0.058357,
+              -0.162103,
+              0.058357
+            ],
             "alphaBounds": {
-              "x": 77,
-              "y": 94,
-              "width": 358,
-              "height": 367,
-              "fill": 0.716797
+              "x": 75,
+              "y": 73,
+              "width": 362,
+              "height": 366,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
             }
           },
           "sampledAnimation": null
@@ -7979,14 +8219,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 8232,
-          "sha256": "22bef1aab75c777e088f9c3547cb4963db54293a708317c22cf55d0544608833",
+          "bytes": 7688,
+          "sha256": "376465e7a6597f3cc5cdd09f83bb86f74f4d4e55f224c6270140efa56e93f628",
           "transparent": true,
           "sourceBundleSha256": "4233976d009fccc5fb5c20afd3fd34b5aa4cf705152d35e6019644ef00b79376",
-          "cacheKey": "061af834c7b8d7e16dc23899f8968f7a183b7b6115aee65fb02c15f3bf4c0894",
+          "cacheKey": "aa74f8002bbb760f3b03e69c9b9a69d9822178010747fb91de3e4c8cc13dc183",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -8000,13 +8240,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 5.527591,
+            "distance": 5.86287,
+            "pan": [
+              -0.009784,
+              0.094038,
+              -0.057923
+            ],
             "alphaBounds": {
-              "x": 104,
-              "y": 45,
-              "width": 314,
-              "height": 391,
-              "fill": 0.763672
+              "x": 108,
+              "y": 71,
+              "width": 295,
+              "height": 369,
+              "fill": 0.720703,
+              "centerOffset": {
+                "x": -0.5,
+                "y": -0.5,
+                "length": 0.707107
+              }
             }
           },
           "sampledAnimation": null
@@ -8914,14 +9164,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 9776,
-          "sha256": "850a707e2bfd6a96d522d3f89cc6528abf8534b6e7c4766890fc99b523b14ba5",
+          "bytes": 9730,
+          "sha256": "ee93d8d33e7d61608e4e1857adec457e2a5ba0aacba0c543abf221426f217f9c",
           "transparent": true,
           "sourceBundleSha256": "d15ddbe651529904ffeae88bdea00a2cc35ad8524b9637838e6189138cc67914",
-          "cacheKey": "35fdc7bf4cf043d6ada3c82f4a212a8aad0d71a90714593bfb0976e68986566d",
+          "cacheKey": "f3d971ff062ce1373b4141b8a0c2647f5c838162aeb1c22e1412766ea8280b62",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -8936,12 +9186,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 6.341556,
+            "pan": [
+              0.177468,
+              0.147715,
+              -0.283823
+            ],
             "alphaBounds": {
-              "x": 127,
-              "y": 52,
-              "width": 354,
-              "height": 367,
-              "fill": 0.716797
+              "x": 82,
+              "y": 72,
+              "width": 349,
+              "height": 368,
+              "fill": 0.71875,
+              "centerOffset": {
+                "x": 0.5,
+                "y": 0,
+                "length": 0.5
+              }
             }
           },
           "sampledAnimation": null
@@ -9849,14 +10109,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 10054,
-          "sha256": "70f5531a6a5d520b85fd403e8247146018a970e8fdb330ed1125cfef794a5c26",
+          "bytes": 9842,
+          "sha256": "57269c71f1d3969afd778295e6a182cf2e0e58e5c6882a3c092f45ba1b310ae6",
           "transparent": true,
           "sourceBundleSha256": "1a8f21a1fe26b96296e6960c7b45c5facd20430473f7d04a4b0d8b41420e2ec0",
-          "cacheKey": "0af268b8276dc9379f2f753ca366a58411869a7860e3501b6148a3f83f51efc6",
+          "cacheKey": "819b2fb1bdec5a1862cb87f3c81bbf5109a961a917f1656c6ad3563e84d2c205",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -9871,12 +10131,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 5.795301,
+            "pan": [
+              0.041779,
+              0.038165,
+              -0.069258
+            ],
             "alphaBounds": {
-              "x": 122,
-              "y": 65,
+              "x": 110,
+              "y": 72,
               "width": 290,
-              "height": 370,
-              "fill": 0.722656
+              "height": 369,
+              "fill": 0.720703,
+              "centerOffset": {
+                "x": -1,
+                "y": 0.5,
+                "length": 1.118034
+              }
             }
           },
           "sampledAnimation": null
@@ -10784,14 +11054,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 8242,
-          "sha256": "4466d449f7cdd14d83c6626c53e99bbb982e7aadec56a4bd28adc9c40c880aec",
+          "bytes": 7462,
+          "sha256": "f12bd75e3fb853d4c1208a728c4d836d7aa6c88e4ad9368510605fd7a27e8fc1",
           "transparent": true,
           "sourceBundleSha256": "79b89a468c1fadde695d4024b064fd80766f8a80449a55f3aa52cf3b2943c6ae",
-          "cacheKey": "2ffbd9193d80884a0316d5581d60951920c5777d6bcabe6dfc0213724331b30d",
+          "cacheKey": "9417bc46aedd63313059a023206cd9e9ac58f8696d1e84744efc636218b67166",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -10805,13 +11075,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 5.527591,
+            "distance": 5.922848,
+            "pan": [
+              -0.014598,
+              0.094038,
+              -0.053109
+            ],
             "alphaBounds": {
-              "x": 104,
-              "y": 43,
-              "width": 312,
-              "height": 395,
-              "fill": 0.771484
+              "x": 111,
+              "y": 70,
+              "width": 290,
+              "height": 370,
+              "fill": 0.722656,
+              "centerOffset": {
+                "x": 0,
+                "y": -1,
+                "length": 1
+              }
             }
           },
           "sampledAnimation": null
@@ -11180,14 +11460,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 8218,
-          "sha256": "3e65fa8101f5da422e762322f3800e4679c15b25b629624069c4dd4ea9aafe54",
+          "bytes": 8270,
+          "sha256": "0b1410732a8c48611b5caddfdc729fc4be3c7e8cd8f4666662d0b4fcbd265221",
           "transparent": true,
           "sourceBundleSha256": "f3d5f847d2671008ac514fbd64e4d72d333bb6364e348b5017f755a79614ffc0",
-          "cacheKey": "86748f3fc259707adb5dbc1d094c2325846522349426db8f676c0ad1ecd0d15d",
+          "cacheKey": "8b06c14f271537d660001bf1c66df5a7b8888deeac0bc139a14b82b182333221",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -11202,12 +11482,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 5.893402,
+            "pan": [
+              0.076608,
+              0.129369,
+              -0.169754
+            ],
             "alphaBounds": {
-              "x": 132,
-              "y": 48,
-              "width": 301,
-              "height": 377,
-              "fill": 0.736328
+              "x": 110,
+              "y": 68,
+              "width": 294,
+              "height": 376,
+              "fill": 0.734375,
+              "centerOffset": {
+                "x": 1,
+                "y": 0,
+                "length": 1
+              }
             }
           },
           "sampledAnimation": null
@@ -11576,14 +11866,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 8036,
-          "sha256": "b02e970b27c0c4de4dbc86a64f89d2057c4801ef0519a3b418c02daeb7204023",
+          "bytes": 7944,
+          "sha256": "d9e7fa6c7bbf9824874ede014e411d559f86ba0d484ed986722a30ab3ea144bb",
           "transparent": true,
           "sourceBundleSha256": "b05649bae6ffd999510199b8238bfb07c30a693b54f2e4f23ba4b88a6e4c1203",
-          "cacheKey": "f1dbd571d8a5557f5c6d3b476da62bd75e5a9fc32e651f9216d6b43c71f6aef3",
+          "cacheKey": "879211279800406c65d7799624f255cb77184e3c607cf5d9a63a25f63c8b8ca0",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -11598,12 +11888,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 8.41925,
+            "pan": [
+              -0.055569,
+              0.133991,
+              -0.040905
+            ],
             "alphaBounds": {
-              "x": 131,
-              "y": 63,
+              "x": 132,
+              "y": 79,
               "width": 248,
-              "height": 357,
-              "fill": 0.697266
+              "height": 355,
+              "fill": 0.693359,
+              "centerOffset": {
+                "x": 0,
+                "y": 0.5,
+                "length": 0.5
+              }
             }
           },
           "sampledAnimation": null
@@ -11972,14 +12272,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 8210,
-          "sha256": "4096f8d1237de2a879ff7b1b1846d61eee2dac5ca8774a9c9295aa7edf734f07",
+          "bytes": 8260,
+          "sha256": "5b2d3c1a73b06c745c0beaa2e4bbe143a2859130bbbc5ac4dc0003ea6a05ae0b",
           "transparent": true,
           "sourceBundleSha256": "26774e82577da85aaa07d018c575979b9d03a1b5164a23c18b0b288f01cb6a51",
-          "cacheKey": "7382efe436553576e610202ad0e7a6847cf3400cb5d5e18e298d1b5d8f13cc20",
+          "cacheKey": "c92cc3a48dc6890ec27ca1f83658de3fa414a1e33d603186ead3c8e48ef30401",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -11994,12 +12294,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 6.390872,
+            "pan": [
+              -0.022186,
+              0.115739,
+              -0.061146
+            ],
             "alphaBounds": {
-              "x": 146,
-              "y": 52,
+              "x": 142,
+              "y": 70,
               "width": 227,
-              "height": 375,
-              "fill": 0.732422
+              "height": 374,
+              "fill": 0.730469,
+              "centerOffset": {
+                "x": -0.5,
+                "y": 1,
+                "length": 1.118034
+              }
             }
           },
           "sampledAnimation": null
@@ -12264,14 +12574,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 8134,
-          "sha256": "ba513fcf22959ac0567c89750d3e5446efd241a4ec13ca7bb49fda59ad127f50",
+          "bytes": 8026,
+          "sha256": "ebadadd8f45653220a6ab021bddee9c4daf2f75da2a3b4cfacb5a7b414fbbaf4",
           "transparent": true,
           "sourceBundleSha256": "6e2ce2abcda052c41fda40f74bf9de5c5dbcd75810bd95529a6628df740e9880",
-          "cacheKey": "d0fb126aeb58fc18e3cb771c4632f7c171006080fc6faf7ab85638c95155b2dd",
+          "cacheKey": "c8eef04f3822f09fdc5d91bba844c2f531a3bd4d5190fa6a64298fb1c75cc417",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -12285,13 +12595,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 2.619724,
+            "distance": 2.750199,
+            "pan": [
+              -0.053848,
+              -0.03738,
+              0.080761
+            ],
             "alphaBounds": {
-              "x": 33,
-              "y": 90,
-              "width": 387,
-              "height": 358,
-              "fill": 0.755859
+              "x": 73,
+              "y": 85,
+              "width": 367,
+              "height": 340,
+              "fill": 0.716797,
+              "centerOffset": {
+                "x": 0.5,
+                "y": -1,
+                "length": 1.118034
+              }
             }
           },
           "sampledAnimation": null
@@ -12661,14 +12981,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 8564,
-          "sha256": "2e0fd9d89992ac69905158d4d688970f871b8606de7f8ce2141390bd142562fc",
+          "bytes": 8538,
+          "sha256": "8094758ea4e987030eebcd6f83a7d0e1040887a7e036c6449da0fbc5f7a2f3b7",
           "transparent": true,
           "sourceBundleSha256": "b8aa5b198ad256dc2e002dca840063b9b315b92f496f6ace29409e44afe86564",
-          "cacheKey": "686d845407b744f29211de232b935ae5a596811faf2951e6bb091cde1458bd69",
+          "cacheKey": "d9f716df41117cb9ab140e5111e1b06c24e1174bedd10347e1dcc9dee49cfbb1",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -12683,12 +13003,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 5.824761,
+            "pan": [
+              -0.067261,
+              0.10229,
+              -0.006388
+            ],
             "alphaBounds": {
-              "x": 159,
-              "y": 53,
+              "x": 165,
+              "y": 69,
               "width": 182,
-              "height": 374,
-              "fill": 0.730469
+              "height": 373,
+              "fill": 0.728516,
+              "centerOffset": {
+                "x": 0,
+                "y": -0.5,
+                "length": 0.5
+              }
             }
           },
           "sampledAnimation": null
@@ -13097,14 +13427,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 8074,
-          "sha256": "8a8799f6c25443367365bd2417b7975e747fda5f4c92189b713105cff0c0ef02",
+          "bytes": 7822,
+          "sha256": "0992cd2923da9f4256b68974a6a536c592a31811ee8df9b5881dc56dcf8c6acb",
           "transparent": true,
           "sourceBundleSha256": "dd4d7489864ded011865bff3ab0c3a27c5fef4f1e9ed203ffc1ed517a2c139d2",
-          "cacheKey": "17abe3c284d9a03753eb98cd908069964cf2def35e8270a4568c9826462225ea",
+          "cacheKey": "7f73ce8186f1acdeef1a74a7e1af308d083259b5c6bba50e69d47483dfe835b4",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -13118,13 +13448,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 6.499652,
+            "distance": 6.805734,
+            "pan": [
+              -0.139417,
+              0.057071,
+              0.098326
+            ],
             "alphaBounds": {
-              "x": 127,
-              "y": 55,
-              "width": 216,
-              "height": 386,
-              "fill": 0.753906
+              "x": 155,
+              "y": 73,
+              "width": 204,
+              "height": 367,
+              "fill": 0.716797,
+              "centerOffset": {
+                "x": 1,
+                "y": 0.5,
+                "length": 1.118034
+              }
             }
           },
           "sampledAnimation": null
@@ -13493,14 +13833,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 6564,
-          "sha256": "218d7e439008c8b40ad3d4275cf8704ec2573a9e60796b458add14648ef6f476",
+          "bytes": 6994,
+          "sha256": "9344c4f051f7e03916b7761df41dd0804563477c0fbca8405a2228f882fa5a02",
           "transparent": true,
           "sourceBundleSha256": "c3f38645b0ce38c669dd8c13f598c6798701730fd6d59bc8e9dc00cd76fce658",
-          "cacheKey": "3f73ab8d253e31ab1c5397f74f05871e09ae92600f77e3035c0a528e11fe822a",
+          "cacheKey": "5de92f27a9d5e49f15f419d3554cef3024e1ca01a5026e21dd69915df5aa6229",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -13514,13 +13854,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 9.328998,
+            "distance": 8.705445,
+            "pan": [
+              -0.115474,
+              0.174068,
+              -0.009855
+            ],
             "alphaBounds": {
-              "x": 152,
-              "y": 67,
-              "width": 195,
-              "height": 344,
-              "fill": 0.671875
+              "x": 151,
+              "y": 73,
+              "width": 210,
+              "height": 364,
+              "fill": 0.710938,
+              "centerOffset": {
+                "x": 0,
+                "y": -1,
+                "length": 1
+              }
             }
           },
           "sampledAnimation": null
@@ -13889,14 +14239,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 10930,
-          "sha256": "c20459a941dbe72f14df395190e7b2b90254509592cbedf91549c2f8659bdb5d",
+          "bytes": 10090,
+          "sha256": "a820bdeb5cc1dfadb78e3fcccd4cad61157ec032d3e0fb337f87cb2c681dff54",
           "transparent": true,
           "sourceBundleSha256": "d689f69dc092ed0ed3bc29fd46f85331b6db1e3117a2b7f8d135b8830302af1e",
-          "cacheKey": "6f2d22e143e3861c060bcdeb0ccf0e56eb0e347fe1cf61860e4252c2d6b6c7e0",
+          "cacheKey": "c06da0498b5c434cfcfffc46a8d5fde5cd5fd800deb60d9e5693c009d287aad9",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -13910,13 +14260,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 6.861218,
+            "distance": 7.296,
+            "pan": [
+              -0.045867,
+              0.052715,
+              0.007912
+            ],
             "alphaBounds": {
-              "x": 79,
-              "y": 53,
-              "width": 345,
-              "height": 392,
-              "fill": 0.765625
+              "x": 95,
+              "y": 72,
+              "width": 323,
+              "height": 368,
+              "fill": 0.71875,
+              "centerOffset": {
+                "x": 0.5,
+                "y": 0,
+                "length": 0.5
+              }
             }
           },
           "sampledAnimation": null
@@ -14285,14 +14645,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 7620,
-          "sha256": "9d64426cfde8877f9063a7ab7db59009f8fa03966a6a33e5d0157aea41f791af",
+          "bytes": 7586,
+          "sha256": "21f9f05166589d59cfa5bfa0a5b635bb3e1a5c9b2fad13c41f1348dcb144f897",
           "transparent": true,
           "sourceBundleSha256": "80dc32ba561e8521c28ab8ec130ad05235d85cdbb810ae1fdcd550794626e935",
-          "cacheKey": "3b67b1a4c941e03063e3595c99c667da320929688c2a21b7e4bfe3226caa48fa",
+          "cacheKey": "1230e7d143890fb6ea6ce7ab68d9d5d6962d88478c76259b40c31ecb68b02df8",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -14307,12 +14667,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 5.915169,
+            "pan": [
+              -0.1109,
+              0.136339,
+              0.012736
+            ],
             "alphaBounds": {
-              "x": 144,
-              "y": 53,
+              "x": 157,
+              "y": 75,
               "width": 200,
-              "height": 364,
-              "fill": 0.710938
+              "height": 362,
+              "fill": 0.707031,
+              "centerOffset": {
+                "x": 1,
+                "y": 0,
+                "length": 1
+              }
             }
           },
           "sampledAnimation": null
@@ -14502,14 +14872,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 5820,
-          "sha256": "a146418df4d165166395ff3c4f651d7d7dc69a2105f1dc9028db16df2bfa0c40",
+          "bytes": 5578,
+          "sha256": "a1df7f7f5838fc61cafc51981a670e9f44c87fa201f4372b9099c707a56f65fb",
           "transparent": true,
           "sourceBundleSha256": "fed9e96eb736b4c2cc775fe1eb49e33b44dd13fc50001b7055433c10a9e6295b",
-          "cacheKey": "cec12a44a21c3e7e33a9485fb3886109a55026aeb9b34d18faedd0709e7c3f7f",
+          "cacheKey": "fb60f9a6c41a09d1affc05b8de66169d3d3cecba6aaba5a2774068d8533742c8",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -14523,13 +14893,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 9.50615,
+            "distance": 9.953813,
+            "pan": [
+              -0.087618,
+              0.093904,
+              0.020007
+            ],
             "alphaBounds": {
-              "x": 189,
-              "y": 54,
-              "width": 121,
-              "height": 386,
-              "fill": 0.753906
+              "x": 198,
+              "y": 72,
+              "width": 116,
+              "height": 368,
+              "fill": 0.71875,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
             }
           },
           "sampledAnimation": null
@@ -14720,14 +15100,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 6148,
-          "sha256": "968b2a82483f79f352a8fd05a6b850c7e7011fb20a94d7ca2a9feaccec3bbe94",
+          "bytes": 6216,
+          "sha256": "ad530b099269c73c04c98bfcc180215117fdececb20a832c7ee20c880a5b0fff",
           "transparent": true,
           "sourceBundleSha256": "e6c8f1558b0fb74b8c863c82fc95e0d230be667469b3b6c0cb53d1f2d49d5b87",
-          "cacheKey": "94e601b0a5b23c45885150ff5731be5ff5f3e70a5a74ce7b163e8eb3d1a9621e",
+          "cacheKey": "ea6094afe3f314fd6b84d4d9f4f517d6cbab1f5e33b26232bd7942dd43248a11",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -14742,12 +15122,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 6.356341,
+            "pan": [
+              -0.054228,
+              0.015345,
+              0.04318
+            ],
             "alphaBounds": {
-              "x": 158,
-              "y": 70,
-              "width": 178,
+              "x": 167,
+              "y": 72,
+              "width": 179,
               "height": 369,
-              "fill": 0.720703
+              "fill": 0.720703,
+              "centerOffset": {
+                "x": 0.5,
+                "y": 0.5,
+                "length": 0.707107
+              }
             }
           },
           "sampledAnimation": null
@@ -14938,14 +15328,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 6634,
-          "sha256": "3d13e0b36e140de0be5f2a1302ef37c302536f4e46ffadd4acd19ea8d064f865",
+          "bytes": 6718,
+          "sha256": "7169fe0513d03504f9a62e1f39cec8b827b74283fdd479303aa6c7317b4bdea8",
           "transparent": true,
           "sourceBundleSha256": "7c1140d65505ddb2494b42d84c83d073b16ca5c8aaeeb1a9df6477bd8699209b",
-          "cacheKey": "a470ec41e34d6a7ae2fd43522471b7cbcab678b795df1a82e400d164121d8af5",
+          "cacheKey": "745d2169e3f8eb5fd109d3eb2ff11d6aed785dcc1f7f0c186ebd513b265784c3",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -14960,12 +15350,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 4.625937,
+            "pan": [
+              -0.029412,
+              -0.028846,
+              0.050181
+            ],
             "alphaBounds": {
-              "x": 123,
-              "y": 78,
-              "width": 244,
+              "x": 133,
+              "y": 72,
+              "width": 246,
               "height": 368,
-              "fill": 0.71875
+              "fill": 0.71875,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
             }
           },
           "sampledAnimation": null
@@ -15155,14 +15555,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 8984,
-          "sha256": "00465c2e190a27ef24f1d839bbed044a2e14f0d983f1f2b7ccefa0b5f89556bd",
+          "bytes": 9536,
+          "sha256": "a5102980cc46579aab099506439c98b92e6a30bd60774360cca91a3671821fdd",
           "transparent": true,
           "sourceBundleSha256": "e91aa3089ab9a5ae7b131549fdfd11f530676eda744b4a8c4dea80c849ea12ff",
-          "cacheKey": "58ce8d61d0c3155c400ab17e2b016d289f4d82315bd7a7673b8442c457d370cf",
+          "cacheKey": "3d879d66d8aba657c428a110b9d69cc1173d8bf2eaefc44a294f98b1836b4408",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -15176,13 +15576,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 6.605858,
+            "distance": 6.128482,
+            "pan": [
+              0.030017,
+              -0.08338,
+              0.030017
+            ],
             "alphaBounds": {
-              "x": 85,
-              "y": 117,
-              "width": 342,
-              "height": 301,
-              "fill": 0.667969
+              "x": 71,
+              "y": 94,
+              "width": 370,
+              "height": 324,
+              "fill": 0.722656,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
             }
           },
           "sampledAnimation": null
@@ -15372,14 +15782,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 5878,
-          "sha256": "4e4b760a3210665b788704db54afbd2e0b6d259eca5e4ff842698a5fbd4bcaf1",
+          "bytes": 5624,
+          "sha256": "9eb282f908449782de12db03d1e1082d79a71574819ada10f10526c91fb8fafc",
           "transparent": true,
           "sourceBundleSha256": "8308d8ac38ca01cd966901a1dc917d7d61c4ae7815cdaa9991b18c50d730730e",
-          "cacheKey": "0dd0de08699636804844932a66c24eff4399ddeaf1cb480927eb1cbaf16e46d6",
+          "cacheKey": "2a584ca7794c9a78756aa8dc5cba54174ba544a4e7a944f439cc9598653a65b1",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -15393,13 +15803,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 3.821486,
+            "distance": 4.029859,
+            "pan": [
+              0.045366,
+              -0.126018,
+              0.045366
+            ],
             "alphaBounds": {
-              "x": 62,
-              "y": 147,
-              "width": 388,
-              "height": 281,
-              "fill": 0.757813
+              "x": 72,
+              "y": 126,
+              "width": 368,
+              "height": 257,
+              "fill": 0.71875,
+              "centerOffset": {
+                "x": 0,
+                "y": -1.5,
+                "length": 1.5
+              }
             }
           },
           "sampledAnimation": null
@@ -15589,14 +16009,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 5926,
-          "sha256": "283691f7f104089604155da7ba3eabc3892b61688c95165c8014d886a03f750b",
+          "bytes": 5370,
+          "sha256": "62e317a65eb686c5d82a322fc03080c40dd5ba0214548b77a27d8c1e690af75d",
           "transparent": true,
           "sourceBundleSha256": "2662db091c45d5fbc096c188c43d232104edc809e1e4ef5d9b68746164f8f223",
-          "cacheKey": "7824e99ac3322d2bfdc3d303888e8f3227bc9507678399610c6cb144f4534de2",
+          "cacheKey": "f4fee7cf33c50654459792a2fe8aea32eb20c2ae9cc5f9f0c314d11d07fb54c0",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -15610,13 +16030,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 5.665184,
+            "distance": 6.105227,
+            "pan": [
+              0.06189,
+              -0.146815,
+              0.043817
+            ],
             "alphaBounds": {
-              "x": 60,
-              "y": 122,
-              "width": 396,
-              "height": 320,
-              "fill": 0.773438
+              "x": 73,
+              "y": 111,
+              "width": 366,
+              "height": 290,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
             }
           },
           "sampledAnimation": null
@@ -15807,14 +16237,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 9978,
-          "sha256": "36ea4e68c67edb461fd5b731b7def83e3cf5a834bac4abeace906e77c05e00fa",
+          "bytes": 9320,
+          "sha256": "e08fa1c887dfa58a8a9471d38e57935cceebdf1d40d4915b391e3798612a8a28",
           "transparent": true,
           "sourceBundleSha256": "69e1890a34fc45cf84c2ea067bd6a6b7fa08d9aca89285cf9935a8a801093b39",
-          "cacheKey": "1a82a392bb1ea3538c67a886715b4360129d66cc9a7d9449702d3089086afc0f",
+          "cacheKey": "429b59bf521ad52b9cc620313058b2652e54055b8e0d2cd92057e9ab3eff0fde",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -15828,13 +16258,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 5.755245,
+            "distance": 6.172678,
+            "pan": [
+              0.072561,
+              -0.161955,
+              0.044047
+            ],
             "alphaBounds": {
-              "x": 66,
-              "y": 86,
-              "width": 385,
-              "height": 397,
-              "fill": 0.775391
+              "x": 77,
+              "y": 74,
+              "width": 358,
+              "height": 364,
+              "fill": 0.710938,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
             }
           },
           "sampledAnimation": null
@@ -16025,14 +16465,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 9738,
-          "sha256": "78036dc4a8eca4358c22c21c0eb8671e56d621fa14fe80c951a5ac82af8c3b5b",
+          "bytes": 9076,
+          "sha256": "45e5cc7efad37ccbc3d2f48037b6d69d911bac9714eff4a7e0afe98b7441f645",
           "transparent": true,
           "sourceBundleSha256": "96291336dfb0bfc95604c1a02a94f951522387369538f745189a75f28cc731c0",
-          "cacheKey": "0fdea1018b04e6e54f746572d2dbf456a50bcc55b8a37b637f343efddc0a4d05",
+          "cacheKey": "f23e45a964bb737cf9a35db0e2ea91ac2145c2472cb862c907b7d4c0bf631211",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -16046,13 +16486,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 7.682604,
+            "distance": 8.146165,
+            "pan": [
+              0.076669,
+              -0.220227,
+              0.081894
+            ],
             "alphaBounds": {
-              "x": 97,
-              "y": 87,
-              "width": 318,
-              "height": 392,
-              "fill": 0.765625
+              "x": 106,
+              "y": 72,
+              "width": 300,
+              "height": 366,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": -1,
+                "length": 1
+              }
             }
           },
           "sampledAnimation": null
@@ -16243,14 +16693,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 7734,
-          "sha256": "f0368e4c3b1a3849087d80ad4b7d1f6577499d02f71ba4acb05ed505deb163e1",
+          "bytes": 7580,
+          "sha256": "a03c62fefec251041129390f215cbdae212edb8d3e90c5b566a175b9078dd652",
           "transparent": true,
           "sourceBundleSha256": "858d4658b79605064cbb1a27fc485e7cc40478c4eb6e07ace5843ca511aee626",
-          "cacheKey": "be7d9ac299b5ca7b5b95d4f8eaeef00b49d4347477089724ee407918944e2e8b",
+          "cacheKey": "b2b828c4188fad0197b264949c442e3e5cf440b6fd2dd04bdb95a2452117439e",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -16265,12 +16715,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 4.434207,
+            "pan": [
+              0.062034,
+              -0.118709,
+              0.023437
+            ],
             "alphaBounds": {
-              "x": 97,
-              "y": 93,
-              "width": 329,
-              "height": 377,
-              "fill": 0.736328
+              "x": 92,
+              "y": 68,
+              "width": 328,
+              "height": 376,
+              "fill": 0.734375,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
             }
           },
           "sampledAnimation": null
@@ -16461,14 +16921,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 6478,
-          "sha256": "9d52f5241c90dd453f8c44e1d6691680d88fe21a4c619abc1236efdf05873fbd",
+          "bytes": 6542,
+          "sha256": "b10511e8b59dd3f9ebde20ee34ca21f69c70fe3e1f65b0aa4569736041250b56",
           "transparent": true,
           "sourceBundleSha256": "c210d33370a203a66bbe81e9afb395a4a51c5076418f807a53ca6525f496cd0a",
-          "cacheKey": "1481a66e0f2d77332d8a6dee2f33b75672a24e0819af6c0b6f9fdf0a50495e96",
+          "cacheKey": "eb773b7716fe135de423b1697bd92a877528f242bb171bf2a83a83b95ded0785",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -16483,12 +16943,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 2.227485,
+            "pan": [
+              0.016606,
+              -0.059314,
+              0.0261
+            ],
             "alphaBounds": {
-              "x": 121,
-              "y": 87,
+              "x": 123,
+              "y": 64,
               "width": 265,
-              "height": 386,
-              "fill": 0.753906
+              "height": 383,
+              "fill": 0.748047,
+              "centerOffset": {
+                "x": -0.5,
+                "y": -0.5,
+                "length": 0.707107
+              }
             }
           },
           "sampledAnimation": null
@@ -16679,14 +17149,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 6982,
-          "sha256": "26d1dc7395c36cf5a1246d9699385d6821aaf773aa59f9a6f39c3bcd9e4accef",
+          "bytes": 6968,
+          "sha256": "08bcacfd0c2322c3ad0f903978e81d153b1448e41658f0bc59d5338fb0d0ae87",
           "transparent": true,
           "sourceBundleSha256": "03399b358486d82821f17902990e40da460655d8e4d9d5595441fe0c4904bb57",
-          "cacheKey": "0c306aad9c01ce7d28af4cdaa862894344630b352f0a0a474182e9f9cb01794d",
+          "cacheKey": "bd4961adfad33796eeb2a73c51161c9afa60bf0f3b4bd7b8a291c9ebbf61d407",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -16701,12 +17171,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 10.695777,
+            "pan": [
+              -0.030834,
+              0.111525,
+              -0.049464
+            ],
             "alphaBounds": {
-              "x": 127,
-              "y": 64,
+              "x": 126,
+              "y": 75,
               "width": 260,
-              "height": 365,
-              "fill": 0.712891
+              "height": 363,
+              "fill": 0.708984,
+              "centerOffset": {
+                "x": 0,
+                "y": 0.5,
+                "length": 0.5
+              }
             }
           },
           "sampledAnimation": null
@@ -16897,14 +17377,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 6258,
-          "sha256": "caf96bb7c8a4ab46b7eb68507bcf8ad3020d2e4cec3e8dd1d496223f92dc655f",
+          "bytes": 6276,
+          "sha256": "c46b9176f7ebf0850e8d6d5428fd5f8a60d6ba11f3e5ae641812ae25677567cc",
           "transparent": true,
           "sourceBundleSha256": "4ff64d5a04039b58bc897ae5397de9bb921b71c28226ba70732763bd67fccb55",
-          "cacheKey": "f432fd08252789ce1db981286aff573dcf8a0cf546aca8bd8ee4701a1889d26e",
+          "cacheKey": "afb05e09770ffd52c61c02d3de6d3a0235e837b686abc50ff750f07eb9967b7e",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -16919,12 +17399,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 9.381983,
+            "pan": [
+              -0.207105,
+              0.2008,
+              0.062529
+            ],
             "alphaBounds": {
-              "x": 136,
-              "y": 57,
-              "width": 207,
-              "height": 359,
-              "fill": 0.701172
+              "x": 152,
+              "y": 78,
+              "width": 210,
+              "height": 356,
+              "fill": 0.695313,
+              "centerOffset": {
+                "x": 1,
+                "y": 0,
+                "length": 1
+              }
             }
           },
           "sampledAnimation": null
@@ -17115,14 +17605,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 10480,
-          "sha256": "a62eb2e8d9cdf5177cbe6f086af6cb71dd239b552b47759f253a9a9e5e118d3e",
+          "bytes": 10394,
+          "sha256": "2ff200f0529f3fd3c1a7f611c74bf17c2457d5bca2be5d71d50e7b82e2127689",
           "transparent": true,
           "sourceBundleSha256": "6e10064a31e75de39afdf840b0add29bec1093ca13ca686298a4942e2a8fcda3",
-          "cacheKey": "377b1f6e8bb83a24ea694762e36ad652a20ca44c7069ffef165ec31c7499e243",
+          "cacheKey": "c864dc394f37a7fba532748544d48342b4d75b0db281e078c7eec45e8664977b",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -17137,12 +17627,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 10.596895,
+            "pan": [
+              0.068275,
+              0.122258,
+              -0.156301
+            ],
             "alphaBounds": {
-              "x": 82,
-              "y": 64,
-              "width": 374,
-              "height": 363,
-              "fill": 0.730469
+              "x": 71,
+              "y": 76,
+              "width": 369,
+              "height": 361,
+              "fill": 0.720703,
+              "centerOffset": {
+                "x": -0.5,
+                "y": 0.5,
+                "length": 0.707107
+              }
             }
           },
           "sampledAnimation": null
@@ -17341,14 +17841,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 4154,
-          "sha256": "0d65cb5f1807636902fac9e390763cebc7114cddc980a5f44f002b2aba5bc6f9",
+          "bytes": 4196,
+          "sha256": "0bd08c04276293f382f1732f6dfd3d86f53e8e69a6af04695e3b0af4c2701ee3",
           "transparent": true,
           "sourceBundleSha256": "ac0a9ecff51ecd6c3faa7c532f2e7494e9407471a2fcd951f927abdfe7c95a13",
-          "cacheKey": "7ff5ade4c8bb5fa71d332653511ea53fec1adf469bad22a2563cf9b78e4208f7",
+          "cacheKey": "4e71eba685950f0e969989b9031ecf015c51c279a50c97259304d6d01f34039b",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -17363,12 +17863,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 9.384699,
+            "pan": [
+              0.050892,
+              0.065792,
+              -0.098263
+            ],
             "alphaBounds": {
-              "x": 190,
-              "y": 66,
-              "width": 150,
-              "height": 368,
-              "fill": 0.71875
+              "x": 181,
+              "y": 72,
+              "width": 148,
+              "height": 369,
+              "fill": 0.720703,
+              "centerOffset": {
+                "x": -1,
+                "y": 0.5,
+                "length": 1.118034
+              }
             }
           },
           "sampledAnimation": null
@@ -17559,14 +18069,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 8798,
-          "sha256": "bada12b8daa3ce90f2ab008c956db72eca50ff1712ed4f4b99449c4e538214a8",
+          "bytes": 8702,
+          "sha256": "f5a1cc9e3f31be2c44e3434ea28ce9736314a3e3d2cae931b234d913c93d3c75",
           "transparent": true,
           "sourceBundleSha256": "36a6f00f7d8f71196b4c652353f5682595d0e6583ccc5ae715ec582707fc0a3d",
-          "cacheKey": "91d2f53ccd65b31679741504b4eadbcb8f023370d6b6d9e1f8365b3326079a37",
+          "cacheKey": "72f5847984a5bd8e98c10156285c2155396c7410edba7c1ee5680c61bb1d4775",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -17581,12 +18091,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 4.645891,
+            "pan": [
+              0.060146,
+              0.011549,
+              -0.068461
+            ],
             "alphaBounds": {
-              "x": 107,
-              "y": 70,
-              "width": 332,
-              "height": 366,
-              "fill": 0.714844
+              "x": 92,
+              "y": 72,
+              "width": 329,
+              "height": 367,
+              "fill": 0.716797,
+              "centerOffset": {
+                "x": 0.5,
+                "y": -0.5,
+                "length": 0.707107
+              }
             }
           },
           "sampledAnimation": null
@@ -17777,14 +18297,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 7492,
-          "sha256": "b96d76fafdc30640f71ed60ddd09cb4d287414d799545ae71c1e44414fd1b0f9",
+          "bytes": 7728,
+          "sha256": "52d98e0a16acc2fe50721d8e55abc5ee37b75fc898b5cbbc12c43286ae3b7bc2",
           "transparent": true,
           "sourceBundleSha256": "8fb5ced2421df7d3fc6791a1bf8aa5095465cd9e4faeab65d5bc550d0cf9c851",
-          "cacheKey": "386b87a2915ea663589e0fdba68c0b63ccbd1312e00cfc8686b179254c65ba55",
+          "cacheKey": "4edfc61d99e7afbd134434ef12ee63e124d3e73fdd47514e7ae5b4d79826ef46",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -17799,12 +18319,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 4.657505,
+            "pan": [
+              0.142962,
+              0.011749,
+              -0.151421
+            ],
             "alphaBounds": {
-              "x": 175,
-              "y": 70,
-              "width": 246,
+              "x": 133,
+              "y": 73,
+              "width": 247,
               "height": 366,
-              "fill": 0.714844
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0.5,
+                "y": 0,
+                "length": 0.5
+              }
             }
           },
           "sampledAnimation": null
@@ -17995,14 +18525,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 5844,
-          "sha256": "863d01c80b91214f704a002d1aba9bbb59701c836b504382c3edd384e7e4c4ae",
+          "bytes": 5746,
+          "sha256": "83669fc68c03a991f8798767ae85dd217bd78b0a21ce4397fb7003b52a266993",
           "transparent": true,
           "sourceBundleSha256": "e672d5554aca003095ea23c4412413ba50e3787f83b3ecd1e144676593d7a1b1",
-          "cacheKey": "7f997afc50e36fc3f636c01fd4fdf6d7682f32acf7807ac552ced75b7bc43fdb",
+          "cacheKey": "37affe32ee3700509b2c29393837784a74a05970aa73ee9db5e6c03e1095ca7f",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -18017,12 +18547,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 4.831726,
+            "pan": [
+              0.052998,
+              -0.079891,
+              0.004523
+            ],
             "alphaBounds": {
-              "x": 148,
-              "y": 89,
+              "x": 142,
+              "y": 73,
               "width": 225,
               "height": 366,
-              "fill": 0.714844
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": -1.5,
+                "y": 0,
+                "length": 1.5
+              }
             }
           },
           "sampledAnimation": null
@@ -18212,14 +18752,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 11090,
-          "sha256": "cc7f160bf05b37ee20f334094795e5f0ec89dae8fb2b5933cb96f6e2d328dceb",
+          "bytes": 10970,
+          "sha256": "a044bba22d610974e3790a2903fe22457e9f93fd3b4e6580389a800bbf650611",
           "transparent": true,
           "sourceBundleSha256": "c1909e9b2dd6cd1390b968364c081f50a383547a66052d8d5da6337afb10f76b",
-          "cacheKey": "a6e9337a1303633592145cfdbb159fd7516709eb64cdd805b5b407e6d707e98a",
+          "cacheKey": "280bc994e57991a2bc40ad29894f570c43a6726c0b8042282518c29cf5dec716",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -18234,12 +18774,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 4.281653,
+            "pan": [
+              0.133808,
+              0.115136,
+              -0.216707
+            ],
             "alphaBounds": {
-              "x": 119,
-              "y": 42,
-              "width": 380,
-              "height": 378,
-              "fill": 0.742188
+              "x": 67,
+              "y": 66,
+              "width": 379,
+              "height": 380,
+              "fill": 0.742188,
+              "centerOffset": {
+                "x": 0.5,
+                "y": 0,
+                "length": 0.5
+              }
             }
           },
           "sampledAnimation": null
@@ -18445,14 +18995,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 9488,
-          "sha256": "9ff0e00d0f9e42ddbc45a882bfd05f57c600afb29861013bd06a269a276426e6",
+          "bytes": 9526,
+          "sha256": "81b5cb917417598e133f8d1e9edcc2c5d4bba0109214f67270becd1e9173dfbc",
           "transparent": true,
           "sourceBundleSha256": "da1c966d3423345a8b21f5efc9005e9cb466742fe25594617d4bb41902030bd8",
-          "cacheKey": "66efefe787ceade2b510e954bc8d1189d8b93de978ce51010ea09ed13b4f75e2",
+          "cacheKey": "2e50ab509ef8979000398272a2fa0c7c9aeb83f5247721cfe71c1353c295e85e",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -18466,13 +19016,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 5.574097,
+            "distance": 5.519618,
+            "pan": [
+              0.022894,
+              -0.052207,
+              0.014695
+            ],
             "alphaBounds": {
-              "x": 75,
-              "y": 135,
-              "width": 364,
+              "x": 72,
+              "y": 127,
+              "width": 368,
               "height": 256,
-              "fill": 0.710938
+              "fill": 0.71875,
+              "centerOffset": {
+                "x": 0,
+                "y": -1,
+                "length": 1
+              }
             }
           },
           "sampledAnimation": null
@@ -18662,14 +19222,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 10270,
-          "sha256": "3f5ba632904b9ebea25eabf95aa6926c34e24a089c125892e6efae1aebc6e3e5",
+          "bytes": 10008,
+          "sha256": "3ce34afb34bb6cf2ad0b95563570a0215c8737b3e6c35c158a2b2741de43b482",
           "transparent": true,
           "sourceBundleSha256": "6c682046e09332f18b41e0895589e45acc354532b4d8047ba09f68503b00a6e2",
-          "cacheKey": "316aa8b64f040bd33c588e16413aa8c4c9cc4e333f5d6ff62b932ce0555d61d5",
+          "cacheKey": "ccd88662ec673fc41463168ce445b3fe86d028ca5cea65a8787d1a9c8e3556bc",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -18684,12 +19244,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 3.549024,
+            "pan": [
+              0.107991,
+              -0.166866,
+              0.012152
+            ],
             "alphaBounds": {
-              "x": 94,
-              "y": 115,
-              "width": 356,
-              "height": 371,
-              "fill": 0.724609
+              "x": 78,
+              "y": 78,
+              "width": 355,
+              "height": 356,
+              "fill": 0.695313,
+              "centerOffset": {
+                "x": -0.5,
+                "y": 0,
+                "length": 0.5
+              }
             }
           },
           "sampledAnimation": null
@@ -18880,14 +19450,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 7426,
-          "sha256": "50bca5fba644e9e676aa6f2d206578f7c29479168b455b704c2e4ddbbcd18ff3",
+          "bytes": 7320,
+          "sha256": "f1fdc3d8eb7b7118443b73d8057113af51b0e002bab1f8c885b92894d9172880",
           "transparent": true,
           "sourceBundleSha256": "a10216baf0a93d009b6db6415bccbaa707e5787422b3e47fb580254ad5dbe0d0",
-          "cacheKey": "521d7bed8c5805084bbafce92510d28c4fd230802af1b5906f3ff0eb5c461b64",
+          "cacheKey": "a4bf6a525e7fadd06bd98921b3fe5f5a3479a6ce900ad2b982340516c632db75",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -18902,12 +19472,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 2.717466,
+            "pan": [
+              0.027696,
+              -0.014726,
+              -0.017094
+            ],
             "alphaBounds": {
-              "x": 125,
-              "y": 76,
+              "x": 115,
+              "y": 71,
               "width": 281,
               "height": 368,
-              "fill": 0.71875
+              "fill": 0.71875,
+              "centerOffset": {
+                "x": -0.5,
+                "y": -1,
+                "length": 1.118034
+              }
             }
           },
           "sampledAnimation": null
@@ -19098,14 +19678,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 5234,
-          "sha256": "d38f0716f2d8ea53ee57c11318a880cd379637b8adce104a4546f1475bf5d43d",
+          "bytes": 5076,
+          "sha256": "f9fea103a91498c93d7b2b4a8d28d004941f4982c02452d8a65832158b591978",
           "transparent": true,
           "sourceBundleSha256": "e1455364ecd49ba8b57b58e853ab0ccfef31d991632f039dd073649307451994",
-          "cacheKey": "497335740f4267dd8d8443f07209920f84f26fac2825885e7c437138c57aa781",
+          "cacheKey": "9172809b5c680685b3a8f44fe95e3d4ebe9542c71775207805d3fd091db7df0e",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -19120,12 +19700,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 1.898619,
+            "pan": [
+              -0.006556,
+              -0.044897,
+              0.038882
+            ],
             "alphaBounds": {
-              "x": 136,
-              "y": 88,
-              "width": 211,
-              "height": 381,
-              "fill": 0.744141
+              "x": 149,
+              "y": 66,
+              "width": 214,
+              "height": 379,
+              "fill": 0.740234,
+              "centerOffset": {
+                "x": 0,
+                "y": -0.5,
+                "length": 0.5
+              }
             }
           },
           "sampledAnimation": null
@@ -19315,14 +19905,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 8884,
-          "sha256": "ffcddc7a6cd27cb8af27158bd3cf049347693008f393af908b331dfa7da799df",
+          "bytes": 8604,
+          "sha256": "99a9caece765e6ec1b0ce4c59e247699cd006caa275fcebf45bd14cb2dcf1edd",
           "transparent": true,
           "sourceBundleSha256": "94b6db760ba15170dc6eb0b09e0e42d18fbb67ad65f4c6c7d1e605c0c22a8fee",
-          "cacheKey": "28c7435ab8ae612df3fe25afe7ba95358477fe99fcd8a5c8a7ace5e5504b815e",
+          "cacheKey": "8334ed26cf26f9a3d083312ebb45916ed10606b0944a4b1c3bb62a802a12c4ab",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -19337,12 +19927,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 3.364185,
+            "pan": [
+              0.11348,
+              -0.084519,
+              -0.052627
+            ],
             "alphaBounds": {
-              "x": 99,
-              "y": 115,
-              "width": 372,
-              "height": 329,
-              "fill": 0.726563
+              "x": 75,
+              "y": 93,
+              "width": 362,
+              "height": 325,
+              "fill": 0.707031,
+              "centerOffset": {
+                "x": 0,
+                "y": -0.5,
+                "length": 0.5
+              }
             }
           },
           "sampledAnimation": null
@@ -19533,14 +20133,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 6556,
-          "sha256": "20a5860b41a028db5e95064630c81dd875b57902f2ed36529ccd2ec3b3ac2c1a",
+          "bytes": 6504,
+          "sha256": "2c0c449572b5c6f7d5a53b04a79bca002f6344c8fc9b774fc92e3480d2313eea",
           "transparent": true,
           "sourceBundleSha256": "33031cde946298d0e208977f49fe630a4d24b2fd5532cbd7764e65ea7f83cc43",
-          "cacheKey": "545335a7a9762a71ad0798563401e31b6427e648de1708a5e190339c2a1e5e1c",
+          "cacheKey": "44b57aa16d1ffbe93e445314d9a8139f2babe2b94d8a94b59a1469ee9f54a901",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -19555,12 +20155,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 4.676728,
+            "pan": [
+              0.216048,
+              -0.180473,
+              -0.086108
+            ],
             "alphaBounds": {
-              "x": 127,
-              "y": 111,
-              "width": 330,
-              "height": 366,
-              "fill": 0.714844
+              "x": 92,
+              "y": 78,
+              "width": 328,
+              "height": 357,
+              "fill": 0.697266,
+              "centerOffset": {
+                "x": 0,
+                "y": 0.5,
+                "length": 0.5
+              }
             }
           },
           "sampledAnimation": null
@@ -19751,14 +20361,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 6308,
-          "sha256": "83fc30a45b645cd82e31f33f5b8254b585f0570ef5573e26310346f5769cdbaa",
+          "bytes": 6150,
+          "sha256": "06f260eaf5a7c20f5fb8df69c419e7f72256a4636642d74d7966035979aaf7ca",
           "transparent": true,
           "sourceBundleSha256": "85cc0ec5262f94d98019b925622bcae9a4bf61702ea84d3897a4db161b495f7b",
-          "cacheKey": "0cb11fedc6c24fbb26cc96630421a0f9ff227710160e4578d17510a19a7b8f56",
+          "cacheKey": "e2ca04e2fbc26c9e2bbac63f7861cc5fd0d3d110bc1c93be37ad6d0bdb9a2073",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -19772,13 +20382,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 4.225561,
+            "distance": 4.424551,
+            "pan": [
+              0.03082,
+              -0.187834,
+              0.104421
+            ],
             "alphaBounds": {
-              "x": 53,
-              "y": 158,
-              "width": 386,
-              "height": 277,
-              "fill": 0.753906
+              "x": 70,
+              "y": 127,
+              "width": 371,
+              "height": 258,
+              "fill": 0.724609,
+              "centerOffset": {
+                "x": -0.5,
+                "y": 0,
+                "length": 0.5
+              }
             }
           },
           "sampledAnimation": null
@@ -19968,14 +20588,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 5188,
-          "sha256": "58d4c3948fbb16a6c9ec190ecd72ca29636247b6c62ff03875988a531bf22ca5",
+          "bytes": 5022,
+          "sha256": "0f2d690962866bc27fa5c8aca9195c6f754f8dbf7dbf466cc484552588626b43",
           "transparent": true,
           "sourceBundleSha256": "4c0c607ffbcdaf43f6315d60efd3cf4a8c1c7acd69635c2f1f09b0d2937d1bde",
-          "cacheKey": "c81b993dfce4cf00b08f7e67dc89c428074cc67ef6deda5057d600e57381e4a3",
+          "cacheKey": "6557c170d702a3738d29ecc2cc1957734a660f15c009a562ed7bebb927b8ae18",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -19990,12 +20610,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 3.863909,
+            "pan": [
+              0.074358,
+              -0.197204,
+              0.067628
+            ],
             "alphaBounds": {
-              "x": 138,
-              "y": 119,
+              "x": 137,
+              "y": 73,
               "width": 238,
-              "height": 378,
-              "fill": 0.738281
+              "height": 368,
+              "fill": 0.71875,
+              "centerOffset": {
+                "x": 0,
+                "y": 1,
+                "length": 1
+              }
             }
           },
           "sampledAnimation": null
@@ -20185,14 +20815,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 7726,
-          "sha256": "036604df27e9875c4b9487b8fcdaf37ae529cbb705dd8d5a95244fde072fc721",
+          "bytes": 7764,
+          "sha256": "2a9442c9c145ba1a314e562d0a6e483e18649449e68694a9118547130c93b793",
           "transparent": true,
           "sourceBundleSha256": "63de84fb7a4d654a87b0020e42e9e4ec086681dc4fb5616bd4a37995fc0795e2",
-          "cacheKey": "99cbc04dd8880b5c4757f4b7235b11e22d7b3ea26361fdf7c34e5249b36a8859",
+          "cacheKey": "949eb39230376b854d9421f9b5d450624c01b2d308ba8d2435e119c9ebf87625",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -20207,12 +20837,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 5.036635,
+            "pan": [
+              -0.020254,
+              0.05626,
+              -0.020254
+            ],
             "alphaBounds": {
               "x": 67,
-              "y": 154,
+              "y": 164,
               "width": 378,
               "height": 185,
-              "fill": 0.738281
+              "fill": 0.738281,
+              "centerOffset": {
+                "x": 0,
+                "y": 0.5,
+                "length": 0.5
+              }
             }
           },
           "sampledAnimation": null
@@ -20406,10 +21046,10 @@
           "sha256": "239923a6e1a801649c5c63d508ade03645e8c67d3f8d330148fadb94e6e8133e",
           "transparent": true,
           "sourceBundleSha256": "30f0a18c5a5e5043a0fc93aeecb3c2280eb5aabe3fa98d80b9dc2b54022ae0db",
-          "cacheKey": "b06e1da489e64039114db77e0757f40161a386700b3074f1b88e5340d7e9cbc2",
+          "cacheKey": "ce6dcf2ea60a0a52a25813fe7f70b3f02adc0849b3f498cf8bf9716d47aec62a",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -20424,12 +21064,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 6.434427,
+            "pan": [
+              0,
+              0,
+              0
+            ],
             "alphaBounds": {
               "x": 68,
               "y": 148,
               "width": 376,
               "height": 215,
-              "fill": 0.734375
+              "fill": 0.734375,
+              "centerOffset": {
+                "x": 0,
+                "y": -0.5,
+                "length": 0.5
+              }
             }
           },
           "sampledAnimation": null
@@ -20628,14 +21278,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 6500,
-          "sha256": "d2dc9c0db74ea66217139ff3379aab2c8acb3df7d4dbd0dbf02310ac7afe6de2",
+          "bytes": 6398,
+          "sha256": "4c6586a0430f6a1d130168412570285691855b03757c20788a4aaa61b00bb1a7",
           "transparent": true,
           "sourceBundleSha256": "5590faea1cd51275e68c4cf9709f79c1eb20fe5c9ffe5e8700fc1fa313a1454a",
-          "cacheKey": "4bb6b12d8734be43a1fe0262692baf4634cdbc3ca334fa7b679b24643a4ac478",
+          "cacheKey": "ce1478d9f522e218fe0f84b3b5352b45e8c9ce62ac3f5c82eb1efdf7277d6583",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -20649,13 +21299,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 5.130545,
+            "distance": 5.133184,
+            "pan": [
+              0.046181,
+              -0.12497,
+              0.043798
+            ],
             "alphaBounds": {
               "x": 72,
-              "y": 208,
-              "width": 369,
-              "height": 142,
-              "fill": 0.720703
+              "y": 188,
+              "width": 368,
+              "height": 135,
+              "fill": 0.71875,
+              "centerOffset": {
+                "x": 0,
+                "y": -0.5,
+                "length": 0.5
+              }
             }
           },
           "sampledAnimation": null
@@ -20846,14 +21506,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 7510,
-          "sha256": "e1514d7ea3e3ef66b0139a3e6afc96c0ae6cf985c33afcf7d263052d2ae6c514",
+          "bytes": 7438,
+          "sha256": "62ce66b714d0e98bf298049c6422098ac6fd783541917390f0a1bfa430c675c5",
           "transparent": true,
           "sourceBundleSha256": "58522b0e4cfa94057c9e2eac3ba5959c2930fc48bdddc2eec988e906bcc9a204",
-          "cacheKey": "0e0f30dc06662e4d3d2c2bdad019098499b4b220f62ba047474c36e2b6749267",
+          "cacheKey": "b95a167851e700ee851a47689ec302487ac16273622021476f761fd775f15113",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -20868,12 +21528,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 5.13772,
+            "pan": [
+              0.07815,
+              0.102725,
+              -0.152112
+            ],
             "alphaBounds": {
-              "x": 98,
-              "y": 105,
-              "width": 368,
-              "height": 264,
-              "fill": 0.71875
+              "x": 75,
+              "y": 126,
+              "width": 363,
+              "height": 259,
+              "fill": 0.708984,
+              "centerOffset": {
+                "x": 0.5,
+                "y": -0.5,
+                "length": 0.707107
+              }
             }
           },
           "sampledAnimation": null
@@ -21072,14 +21742,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 7246,
-          "sha256": "b777e5de2ca09b6a545b68009be3084f3b02be3ee6d9e7a2e90c3e71e39627df",
+          "bytes": 7162,
+          "sha256": "71a3bfd7f76f9a9587a45bbfeb714ea335f7030047d3e1017666c6dbbec1d3b7",
           "transparent": true,
           "sourceBundleSha256": "735357e38313e52375db01f23ee69bc50ab971db7d211ee20517a6c5b8b5d69c",
-          "cacheKey": "4f3434757ad9b32eb3523cf630b3af3e684f78e75f09f0312c0cc0ae7199b62b",
+          "cacheKey": "cb48c1652df28c7df6fba9f01c58f004112f6f9946d602a7d979659aa9e698bb",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -21094,12 +21764,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 5.040792,
+            "pan": [
+              0.076218,
+              -0.095355,
+              -0.007562
+            ],
             "alphaBounds": {
-              "x": 81,
-              "y": 179,
-              "width": 368,
-              "height": 190,
-              "fill": 0.71875
+              "x": 72,
+              "y": 164,
+              "width": 367,
+              "height": 184,
+              "fill": 0.716797,
+              "centerOffset": {
+                "x": -0.5,
+                "y": 0,
+                "length": 0.5
+              }
             }
           },
           "sampledAnimation": null
@@ -21289,14 +21969,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 5066,
-          "sha256": "266dd9c61d5d15235a1d83c833468a2119dbe75eb77f2dff3f279f6373569f81",
+          "bytes": 4998,
+          "sha256": "9e74fcb5858baf549f1ca7af9b8a9981cfd5792724363406675238b67e6aa860",
           "transparent": true,
           "sourceBundleSha256": "ba95f92e99e140e2dd697fc2af5f3f400914b47a42a334b32e589488ebe03c4f",
-          "cacheKey": "20fb87b6c99f9784f0fd699dfb420b6d2c5596758d1844264608f365d66a86b3",
+          "cacheKey": "7785d720e34b3a558f855be4e1dd6b2e4f631069d041044ca53095097d9d6a60",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -21310,13 +21990,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 2.6359,
+            "distance": 2.665838,
+            "pan": [
+              0.032425,
+              -0.085233,
+              0.028943
+            ],
             "alphaBounds": {
-              "x": 70,
-              "y": 137,
-              "width": 373,
-              "height": 299,
-              "fill": 0.728516
+              "x": 72,
+              "y": 112,
+              "width": 368,
+              "height": 287,
+              "fill": 0.71875,
+              "centerOffset": {
+                "x": 0,
+                "y": -0.5,
+                "length": 0.5
+              }
             }
           },
           "sampledAnimation": null
@@ -21506,14 +22196,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 5436,
-          "sha256": "b07612d8bc5ced6968328b21c8a0125762165ffe3cbdc7a360e35f57bd42645e",
+          "bytes": 5292,
+          "sha256": "3d8e324739fb1b96f83051a3a4a5df16333f0948b49f8b01d51f2d734417bfbd",
           "transparent": true,
           "sourceBundleSha256": "a41bd6d5b6fd059e1e65c0867d6ed6f4b9a2727bdac1824a323a6eb23044f38e",
-          "cacheKey": "0728b30e7a1d48892627a19148c6374a0370234d4d446760b510904f4bc7078c",
+          "cacheKey": "2fdfa8829a90717bb2ab5e09c795c44e9ac0e6ee41fe6f6a80f4db3fcd1f9a72",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -21528,12 +22218,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 3.375895,
+            "pan": [
+              0.081879,
+              -0.127248,
+              0.009739
+            ],
             "alphaBounds": {
-              "x": 82,
-              "y": 128,
+              "x": 70,
+              "y": 96,
               "width": 372,
-              "height": 330,
-              "fill": 0.726563
+              "height": 321,
+              "fill": 0.726563,
+              "centerOffset": {
+                "x": 0,
+                "y": 0.5,
+                "length": 0.5
+              }
             }
           },
           "sampledAnimation": null
@@ -21723,14 +22423,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 5210,
-          "sha256": "eb264aae470f1fe58669a39479ace46d439ab27d0643992d416f6c1ddaead75c",
+          "bytes": 5242,
+          "sha256": "732750d6367040df9bd43105f4d1ac837ea3ebd4b74919dc9ff01d16105cd67c",
           "transparent": true,
           "sourceBundleSha256": "47a720506a08a945e2babb9f53a469188e69f585313cecd95c8219fe14aea889",
-          "cacheKey": "e9faf8466f545e277bcdcf3c58b8175e4655327a2291a017b87802764ab515c9",
+          "cacheKey": "b4ddc2eb12969628246b2976876c18206d3691f3a537defd5735e3ec25e5bfb7",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -21745,12 +22445,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 13.090044,
+            "pan": [
+              -0.039108,
+              0.409469,
+              -0.25571
+            ],
             "alphaBounds": {
-              "x": 124,
-              "y": 46,
-              "width": 286,
-              "height": 365,
-              "fill": 0.712891
+              "x": 115,
+              "y": 75,
+              "width": 283,
+              "height": 362,
+              "fill": 0.707031,
+              "centerOffset": {
+                "x": 0.5,
+                "y": 0,
+                "length": 0.5
+              }
             }
           },
           "sampledAnimation": null
@@ -21941,13 +22651,13 @@
           "format": "webp",
           "mimeType": "image/webp",
           "bytes": 5300,
-          "sha256": "a0c7e5b13d571853e7708bfcb4486198c3d5d6a3a8f63966d62f1299bddcbc28",
+          "sha256": "1303cc89916069ff0a71fa69e463982c9e5e6e12c644569eb955a4a1e7730c3d",
           "transparent": true,
           "sourceBundleSha256": "5c020965a7a6a528d7c08522063204829f2a621efceb12a66d42574090bd1dab",
-          "cacheKey": "9d54a028ac2794e448e6532df7f0be6538436104909591fc231ca0916931de54",
+          "cacheKey": "64c3b05bc74ccad67d548f4594f912ce621535d68c973dcbbb583200be8f447d",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -21962,12 +22672,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 14.242792,
+            "pan": [
+              0.010796,
+              0.12506,
+              -0.10084
+            ],
             "alphaBounds": {
-              "x": 134,
-              "y": 69,
+              "x": 129,
+              "y": 76,
               "width": 253,
               "height": 358,
-              "fill": 0.699219
+              "fill": 0.699219,
+              "centerOffset": {
+                "x": -0.5,
+                "y": -1,
+                "length": 1.118034
+              }
             }
           },
           "sampledAnimation": null
@@ -22157,14 +22877,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 8706,
-          "sha256": "5f6caa4be07529a8b2df189ae989c0823361f64850c191e9040ef69d8aaba2bd",
+          "bytes": 8554,
+          "sha256": "03273bf9e33dcea7733855ef5a0139f0879a87c0610f78faa996b8ec1c624845",
           "transparent": true,
           "sourceBundleSha256": "87d0bb3c982b8bc4c839a7180b3ee6badaeee37d58e70056f215ce87dcb112bb",
-          "cacheKey": "2424123755ecb09a36aabc4114a0a9b50074d30c033079a415e20c4282e10862",
+          "cacheKey": "a8ce644bb9b77daa041ded4245c909212877a1d88b06d5e946b7a82106f0498f",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -22179,12 +22899,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 17.610475,
+            "pan": [
+              0.259807,
+              0.061186,
+              -0.303861
+            ],
             "alphaBounds": {
-              "x": 90,
-              "y": 85,
-              "width": 374,
-              "height": 335,
-              "fill": 0.730469
+              "x": 71,
+              "y": 89,
+              "width": 370,
+              "height": 334,
+              "fill": 0.722656,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
             }
           },
           "sampledAnimation": null
@@ -22377,14 +23107,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 7606,
-          "sha256": "eac6f66ce58c4f27b9988f37f117f8ff7daa292badff8c2ab123e1332443624a",
+          "bytes": 7558,
+          "sha256": "768e3d351dd21d26992b1719a459eda0bd59cd302ad098022bd5627a8e741afd",
           "transparent": true,
           "sourceBundleSha256": "7b7c878de0be4da43cf30098f6616959df578b18aad60afeb6edbb7645373c04",
-          "cacheKey": "d115e06e8da6a83ce8a661a7d9fe2255d38542681b5b69a349e9b097fc58b884",
+          "cacheKey": "ee4589b81625767a6ff846e03cc29527b8420363aebcdce5fb678fe099b49751",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -22398,13 +23128,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 6.883468,
+            "distance": 6.809018,
+            "pan": [
+              0.058357,
+              -0.162103,
+              0.058357
+            ],
             "alphaBounds": {
-              "x": 77,
-              "y": 94,
-              "width": 358,
-              "height": 367,
-              "fill": 0.716797
+              "x": 75,
+              "y": 73,
+              "width": 362,
+              "height": 366,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
             }
           },
           "sampledAnimation": null
@@ -22597,14 +23337,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 8986,
-          "sha256": "211f1859cc832acf89b9a92e5a6b26fa7fbccd68e637ea2163898e58fc68a8a5",
+          "bytes": 8908,
+          "sha256": "5fd6b88a6f643889bf2033502016c5d7d1bd9b4facd1148cc9cbe5e023f5b2b5",
           "transparent": true,
           "sourceBundleSha256": "72d927e2bef2fe98f4e045f3c3dff2b3e158c047156ab081ecc82bbdd3a5d4f1",
-          "cacheKey": "de398b71939122d9335f15db1d7c5acb492c5b8b387e1c66e7670e526c620ee4",
+          "cacheKey": "f80bde6cdc555ba72d7a03dfe26b6f6e3aafde629811b930cadae408c78d9584",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -22618,13 +23358,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 6.883468,
+            "distance": 6.809018,
+            "pan": [
+              0.058357,
+              -0.162103,
+              0.058357
+            ],
             "alphaBounds": {
-              "x": 77,
-              "y": 94,
-              "width": 358,
-              "height": 367,
-              "fill": 0.716797
+              "x": 75,
+              "y": 73,
+              "width": 362,
+              "height": 366,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
             }
           },
           "sampledAnimation": null
@@ -22818,14 +23568,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 7304,
-          "sha256": "1089155daec712018e8cffdca94665998fc3ae331a25f5477f8700a8a0a494ae",
+          "bytes": 7240,
+          "sha256": "a5d63803f4d43455d606d767dff1cb3750d8bc55115e71d3756e93a53ba72b93",
           "transparent": true,
           "sourceBundleSha256": "2622b9bf5185b436ba6bff7debdc21f8994a248344372f5bf0c8a2551eeb0750",
-          "cacheKey": "1fe4ba6141d69164123a4ae260d5a5e9345290b506fc2768a5998f024c26d6fa",
+          "cacheKey": "010d39db726f2d0c897b376994a16881ecec3f0f0f2431d52960c126f431347a",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -22839,13 +23589,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 6.883468,
+            "distance": 6.809018,
+            "pan": [
+              0.058357,
+              -0.162103,
+              0.058357
+            ],
             "alphaBounds": {
-              "x": 77,
-              "y": 94,
-              "width": 358,
-              "height": 367,
-              "fill": 0.716797
+              "x": 75,
+              "y": 73,
+              "width": 362,
+              "height": 366,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
             }
           },
           "sampledAnimation": null
@@ -23039,14 +23799,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 8072,
-          "sha256": "85652d53eab21d24513915a33ff151d37c7e0fc1ff8eca8848f3a9a1914192fd",
+          "bytes": 8126,
+          "sha256": "4be9138e6b0229824d83a9f643524dcf1d2b2131291d21cfe1436d8684bead98",
           "transparent": true,
           "sourceBundleSha256": "ebd5eebb65b8326ecf8e8e84a10cb9746ddb3248f6bd88c6d8a7c44c4ab270a4",
-          "cacheKey": "0e9ea3dc46c11be0a6220f0e2ab729f55fbc2c67220b4d062ff9a6c3c52b6a49",
+          "cacheKey": "19001044cd8832d93d00b9b97ea63fd82e58afa18588f8fdea314a75d1ac8f63",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -23060,13 +23820,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 6.883468,
+            "distance": 6.809018,
+            "pan": [
+              0.058357,
+              -0.162103,
+              0.058357
+            ],
             "alphaBounds": {
-              "x": 77,
-              "y": 94,
-              "width": 358,
-              "height": 367,
-              "fill": 0.716797
+              "x": 75,
+              "y": 73,
+              "width": 362,
+              "height": 366,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
             }
           },
           "sampledAnimation": null
@@ -23260,14 +24030,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 13914,
-          "sha256": "e5f9ef04cb7cfeda6a2a902de3af49489d6eebaea33bd15bf6aef2a61df917aa",
+          "bytes": 13694,
+          "sha256": "aa39b3e4cf8f43514d6c1d1b54b3c1bc072e4fd8b0b2ba8b8ff34ea0c1b9375e",
           "transparent": true,
           "sourceBundleSha256": "cc81dc4357113ef0a1337400a1dcdd2ccc8982c069e22d7fbe840eecb5d6bd54",
-          "cacheKey": "1e3136c08cc062e955be99e365a68e941d27b5d7c32ec3e443a32e27d16c14fe",
+          "cacheKey": "b762d2c0727d3f03df7d5bb0a816402692a383d0d7c6860e9f51d03893c50113",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -23281,13 +24051,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 6.883468,
+            "distance": 6.809018,
+            "pan": [
+              0.058357,
+              -0.162103,
+              0.058357
+            ],
             "alphaBounds": {
-              "x": 77,
-              "y": 94,
-              "width": 358,
-              "height": 367,
-              "fill": 0.716797
+              "x": 75,
+              "y": 73,
+              "width": 362,
+              "height": 366,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
             }
           },
           "sampledAnimation": null
@@ -23481,14 +24261,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 9314,
-          "sha256": "abbebcaed51bc37be61edcc9662590abfa89f0ed961d7d5e7b4572c181c2a52b",
+          "bytes": 9286,
+          "sha256": "444db609a0818bc2af159ee01e2508b6d5aa96f35434ffcabaad41334be42dc4",
           "transparent": true,
           "sourceBundleSha256": "5eb4403e229d67048ee4048b08c96816fc8e12562da85586e94f829b826805a3",
-          "cacheKey": "49606a02f822153dc62a137598eb09d3c190d5c7a65e94ba59237166ad7db3e3",
+          "cacheKey": "812e961dd0c8cc670cfdf2ccc38e34ea548d4a90d541bc4dd71c50859f37733d",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -23502,13 +24282,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 6.883468,
+            "distance": 6.809018,
+            "pan": [
+              0.058357,
+              -0.162103,
+              0.058357
+            ],
             "alphaBounds": {
-              "x": 77,
-              "y": 94,
-              "width": 358,
-              "height": 367,
-              "fill": 0.716797
+              "x": 75,
+              "y": 73,
+              "width": 362,
+              "height": 366,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
             }
           },
           "sampledAnimation": null
@@ -23701,14 +24491,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 9538,
-          "sha256": "d69cec1389d94af9118d8d180ea36a5220069d8074e0e969e7554d2f16cfffce",
+          "bytes": 9404,
+          "sha256": "c22e2efc88cb0a9309ed1798719f0953d8600dc11cc0c5ca79ce8fe29916780d",
           "transparent": true,
           "sourceBundleSha256": "1be5ba753904abc736f50a2df6d26ca13527e3ecc74c8045d27b1e4b3145ceed",
-          "cacheKey": "cc92b7b0d83c253ca2907bb128064aac093ca8e7707b006cfb11e5e09b6bc2f3",
+          "cacheKey": "fc25ac69c9dc2f8f3854fef9dd82235fd98815c7100f3b1842a9bbf6842baecc",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -23722,13 +24512,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 6.883468,
+            "distance": 6.809018,
+            "pan": [
+              0.058357,
+              -0.162103,
+              0.058357
+            ],
             "alphaBounds": {
-              "x": 77,
-              "y": 94,
-              "width": 358,
-              "height": 367,
-              "fill": 0.716797
+              "x": 75,
+              "y": 73,
+              "width": 362,
+              "height": 366,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
             }
           },
           "sampledAnimation": null
@@ -23921,14 +24721,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 13784,
-          "sha256": "dc0a98935c2233e6321f2b044ab5a6d0d4b1c4474f56738e97e30abbe60a49f0",
+          "bytes": 13748,
+          "sha256": "ac142f682e24d56177f4de39164e2459d523151e8d7dbeca41729b7d0c63bd62",
           "transparent": true,
           "sourceBundleSha256": "36d3bcf7f0e6748f319796790df7ab32fc7448efd5317db3b8a5ff8ad72833a3",
-          "cacheKey": "55b4aa3aff5c891ac04501130e6e4808fe579429ca24acf711d2ce17db0e55a5",
+          "cacheKey": "7a0ec06cf2172f12815b76ee599e7a2290c94b29b04460e57b431105bcb9dc52",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -23942,13 +24742,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 6.883468,
+            "distance": 6.809018,
+            "pan": [
+              0.058357,
+              -0.162103,
+              0.058357
+            ],
             "alphaBounds": {
-              "x": 77,
-              "y": 94,
-              "width": 358,
-              "height": 367,
-              "fill": 0.716797
+              "x": 75,
+              "y": 73,
+              "width": 362,
+              "height": 366,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
             }
           },
           "sampledAnimation": null
@@ -24141,14 +24951,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 11514,
-          "sha256": "4a9c4b1b5060c03328dd3880e2f6e7a96c1aa59ff5d9456cb0297a4c98e0804e",
+          "bytes": 11612,
+          "sha256": "53fce5b35660676fc92185402de8559b00121e5a627f46ae354c51fa911e882c",
           "transparent": true,
           "sourceBundleSha256": "2e2d5eca36a89e8494b7101b9fe4c5d7dc47873dc0f9f912611152a5ffc9f4c1",
-          "cacheKey": "df726926f0df56435cbc1a98d3920cd7a52a96129794c36b694d61b869319c9b",
+          "cacheKey": "e4f81eedffc891f204aee76d6f47dfc1a405116014f03bec6aa5e78bb610836a",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -24162,13 +24972,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 6.883468,
+            "distance": 6.809018,
+            "pan": [
+              0.058357,
+              -0.162103,
+              0.058357
+            ],
             "alphaBounds": {
-              "x": 77,
-              "y": 94,
-              "width": 358,
-              "height": 367,
-              "fill": 0.716797
+              "x": 75,
+              "y": 73,
+              "width": 362,
+              "height": 366,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
             }
           },
           "sampledAnimation": null
@@ -24361,14 +25181,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 8160,
-          "sha256": "a3ccc8417e9023cf46963a4b9a9f4816e779ccb9edea055d87b805623128df46",
+          "bytes": 8062,
+          "sha256": "9eb3f5fa38628b05d0078c3f06038270ae41be96246504d25e9927e4767b5664",
           "transparent": true,
           "sourceBundleSha256": "5b14014a204379f41ac9eaaf3b462081701ef9ad802a3298e93420550ec8bd2f",
-          "cacheKey": "a5b3e8c74ab27332a1e59a09d050d203a16d8a3b216e8562f0ea5c6bb3fce252",
+          "cacheKey": "837315f3c8558f5aa36987213403b9ef3a2932964574d4609c97e468e624480f",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -24382,13 +25202,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 6.883468,
+            "distance": 6.809018,
+            "pan": [
+              0.058357,
+              -0.162103,
+              0.058357
+            ],
             "alphaBounds": {
-              "x": 77,
-              "y": 94,
-              "width": 358,
-              "height": 367,
-              "fill": 0.716797
+              "x": 75,
+              "y": 73,
+              "width": 362,
+              "height": 366,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
             }
           },
           "sampledAnimation": null
@@ -24581,14 +25411,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 11880,
-          "sha256": "ce7525bbb570cc89df80aa205fc3875b6a39e97d2d64d0696395f5ce15e66a29",
+          "bytes": 12028,
+          "sha256": "cfeaadef54a20058d9b585f20e9d85a1adf53a42bada9090a1d8543b6af3a1d5",
           "transparent": true,
           "sourceBundleSha256": "5c75f80cd6e7dc2b1b8500ba01951f56c8c3358d6f0bf4dcfba519a7bafe2304",
-          "cacheKey": "31246904b07672df2f28571336b8ab3d059aabf4ef216baed99263dc531ee84c",
+          "cacheKey": "0d3b3562516469b0cb8ab4f786fcac48980acde98d4cfcf10ad323336ed45459",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -24602,13 +25432,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 6.883468,
+            "distance": 6.809018,
+            "pan": [
+              0.058357,
+              -0.162103,
+              0.058357
+            ],
             "alphaBounds": {
-              "x": 77,
-              "y": 94,
-              "width": 358,
-              "height": 367,
-              "fill": 0.716797
+              "x": 75,
+              "y": 73,
+              "width": 362,
+              "height": 366,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
             }
           },
           "sampledAnimation": null
@@ -24801,14 +25641,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 9366,
-          "sha256": "d3ad677967445d223595962af8a24ecd7c6db0f0557902ba5b6882810ca34493",
+          "bytes": 9262,
+          "sha256": "07f3fe511077dab10fe2c207abde6b4c9ca755199f38a696f6884d0794b4f38f",
           "transparent": true,
           "sourceBundleSha256": "617225c93d2a169d9c80405a8fdf19ad000c138763696d574a9eacd9880d5edc",
-          "cacheKey": "7da2cc584841a52f2f4c309feb70ae473a38d5024e5076ac32ce4ca07573da00",
+          "cacheKey": "3e42cbd28ffeaf4213dba30be590b10834c28a22727ec1c70019eaf5aaeac193",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -24822,13 +25662,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 6.883468,
+            "distance": 6.809018,
+            "pan": [
+              0.058357,
+              -0.162103,
+              0.058357
+            ],
             "alphaBounds": {
-              "x": 77,
-              "y": 94,
-              "width": 358,
-              "height": 367,
-              "fill": 0.716797
+              "x": 75,
+              "y": 73,
+              "width": 362,
+              "height": 366,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
             }
           },
           "sampledAnimation": null
@@ -25021,14 +25871,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 14830,
-          "sha256": "918b9b249117ddb4754c263eefc7e72ce40e421925d250587bf72fb11d32669c",
+          "bytes": 14112,
+          "sha256": "fbe5a881fee93802a83aaae4187934c934ad06607fcf14052b2fe72dafa1c07f",
           "transparent": true,
           "sourceBundleSha256": "e91df8e2eced895af60592ea73602ee38703ff2aca8c61adc3c1fd74886dda74",
-          "cacheKey": "6fd3b227134243ca320404ceabb1fada9c178a2f3ee12d6bca422429213b1213",
+          "cacheKey": "326f55946f969bfae30fa009ee563f884ea6a17ba707588a570f2495a9c0333e",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -25042,13 +25892,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 6.883468,
+            "distance": 6.809018,
+            "pan": [
+              0.058357,
+              -0.162103,
+              0.058357
+            ],
             "alphaBounds": {
-              "x": 77,
-              "y": 94,
-              "width": 358,
-              "height": 367,
-              "fill": 0.716797
+              "x": 75,
+              "y": 73,
+              "width": 362,
+              "height": 366,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
             }
           },
           "sampledAnimation": null
@@ -25242,14 +26102,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 8650,
-          "sha256": "2f7be917bed047f5e383e1594c6533ef7d7bf730687cc6c4c5fc442f05a0692d",
+          "bytes": 8604,
+          "sha256": "5c4983f2f5b497d81510a91e7fa7689cb7f373ff53e4587485b8ab71c34f4b69",
           "transparent": true,
           "sourceBundleSha256": "c0a52f6ac451611453fa43e08bd37ce8a6895845b1a938863bf4de5fc55bd7f0",
-          "cacheKey": "c95d3ca6f7ea9939c7f2889707d53456388bfbdf12ee3ac48502de167c38a034",
+          "cacheKey": "6bc03bebefb568214bffbc1c569f76f976684189559e718f53b8f6416df7dd54",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -25263,13 +26123,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 6.883468,
+            "distance": 6.809018,
+            "pan": [
+              0.058357,
+              -0.162103,
+              0.058357
+            ],
             "alphaBounds": {
-              "x": 77,
-              "y": 94,
-              "width": 358,
-              "height": 367,
-              "fill": 0.716797
+              "x": 75,
+              "y": 73,
+              "width": 362,
+              "height": 366,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
             }
           },
           "sampledAnimation": null
@@ -25462,14 +26332,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 12230,
-          "sha256": "882a39e2c10e5bc897fad48d20eed8f47668ebef5e02cb08f8f179f23d14ee85",
+          "bytes": 12162,
+          "sha256": "0563522d43fd15ee127f211be12f2266e94c1a2e69c06ad52eaa2e4591ef7efb",
           "transparent": true,
           "sourceBundleSha256": "62df2669c0cec3d81f94f723ca302e145bcf2c34c65cc63cfcc6c4cb7eb0b0c0",
-          "cacheKey": "1dddc6ce94123fde085448d5c3ed66b15df5b7adcdb13183993cc816ef588de3",
+          "cacheKey": "8ea962fdb6ec48ff20821dde4d4f8b15706ea63e39b4bc539ef1c8e56494a1fc",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -25483,13 +26353,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 6.883468,
+            "distance": 6.809018,
+            "pan": [
+              0.058357,
+              -0.162103,
+              0.058357
+            ],
             "alphaBounds": {
-              "x": 77,
-              "y": 94,
-              "width": 358,
-              "height": 367,
-              "fill": 0.716797
+              "x": 75,
+              "y": 73,
+              "width": 362,
+              "height": 366,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
             }
           },
           "sampledAnimation": null
@@ -25682,14 +26562,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 7960,
-          "sha256": "05d09369b398b660726cf5a89e4cf4c7fd9f5a59ba5eb17cbb2f481f8df1efc1",
+          "bytes": 7758,
+          "sha256": "a16c830da38ce249557d9ed03edf3f2787b6222bad70f656c507eb445f9687c7",
           "transparent": true,
           "sourceBundleSha256": "e506eb1423c5941d93fd483f464fd8f09a674b1137dd6472a63701bac28abf36",
-          "cacheKey": "34e75c3d870ff10fe66ff08b94c5aa44967b6c4e50dd8fbfbbc9051002ba51c3",
+          "cacheKey": "b4f16b3e4176e50a91100e70e8e9724bfd00f87b02bbe07a5fc49ed1c1094961",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -25703,13 +26583,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 6.883468,
+            "distance": 6.809018,
+            "pan": [
+              0.058357,
+              -0.162103,
+              0.058357
+            ],
             "alphaBounds": {
-              "x": 77,
-              "y": 94,
-              "width": 358,
-              "height": 367,
-              "fill": 0.716797
+              "x": 75,
+              "y": 73,
+              "width": 362,
+              "height": 366,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
             }
           },
           "sampledAnimation": null
@@ -25902,14 +26792,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 8462,
-          "sha256": "9c8e486eb02d1f8a3eea23b99e302004d12cdc0ff4b3d87488275980ca6df8c8",
+          "bytes": 8348,
+          "sha256": "098797dce1e6934628d6751789f705700caabf2027d847f2e5379f3c60362d3b",
           "transparent": true,
           "sourceBundleSha256": "2a20b4bc48cbbfb79cd87fe24fdab6e55ba3299424f519012e94183b0cc8d015",
-          "cacheKey": "5c4cb38c9c3721f65745b4de96dbfd45635a0a7befd1d60ab0343959b573adf9",
+          "cacheKey": "c76e1e4aca5abbd65b00db5480e1c163addb8d8b24f61cbedc49a87a87e9c51b",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -25923,13 +26813,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 6.883468,
+            "distance": 6.809018,
+            "pan": [
+              0.058357,
+              -0.162103,
+              0.058357
+            ],
             "alphaBounds": {
-              "x": 77,
-              "y": 94,
-              "width": 358,
-              "height": 367,
-              "fill": 0.716797
+              "x": 75,
+              "y": 73,
+              "width": 362,
+              "height": 366,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
             }
           },
           "sampledAnimation": null
@@ -26123,14 +27023,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 9888,
-          "sha256": "10ebfd30cea44e41c2e9f5683a8ec48ee67d55ddb311d1fcc10b302f8d2f5d7a",
+          "bytes": 9758,
+          "sha256": "3b66851aafd1c89eb3cd4e1d4888d3709a07303d9ab6e51871cff90d655be525",
           "transparent": true,
           "sourceBundleSha256": "a79c7ff2a74381a05063bd0ee4d085e6ccd5c72cdef0fe0549f581088ae84e8b",
-          "cacheKey": "3be2e6f17a5dd456f597461985942844725303dddac84b38f15bf448956367bf",
+          "cacheKey": "3f2a3facda61a25f98f27bec0f3c36395613653b7137a3dd888315e4939aa44c",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -26144,13 +27044,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 6.883468,
+            "distance": 6.809018,
+            "pan": [
+              0.058357,
+              -0.162103,
+              0.058357
+            ],
             "alphaBounds": {
-              "x": 77,
-              "y": 94,
-              "width": 358,
-              "height": 367,
-              "fill": 0.716797
+              "x": 75,
+              "y": 73,
+              "width": 362,
+              "height": 366,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
             }
           },
           "sampledAnimation": null
@@ -26344,14 +27254,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 5224,
-          "sha256": "2a160b9ddf5c2c7711381c617c159cde05eeff1f9ff468f94960e8dd987a9b01",
+          "bytes": 5038,
+          "sha256": "be56551492708b39829c78a6035e2985334e6cb936249e944591cd8781310f5b",
           "transparent": true,
           "sourceBundleSha256": "dd76e2ddf5387e9678f8ee8535714bc8c2dcab80e2d160d195ee7c436d763110",
-          "cacheKey": "0d09419a79df7ad64472aa797d3f1a30e9f5f8468cd8c06176972879a44be863",
+          "cacheKey": "fa75d001aa27677baac698af3986767b7a4139b61dee971301c1ed6df8931850",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -26366,12 +27276,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 3.668563,
+            "pan": [
+              0.030056,
+              -0.008053,
+              -0.024258
+            ],
             "alphaBounds": {
-              "x": 191,
-              "y": 71,
-              "width": 147,
-              "height": 374,
-              "fill": 0.730469
+              "x": 182,
+              "y": 68,
+              "width": 146,
+              "height": 375,
+              "fill": 0.732422,
+              "centerOffset": {
+                "x": -1,
+                "y": -0.5,
+                "length": 1.118034
+              }
             }
           },
           "sampledAnimation": null
@@ -26565,14 +27485,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 5272,
-          "sha256": "527bfc9a0e548a48e160e29c92ea74a0563b446d59e03cd0076be67ce1b34b98",
+          "bytes": 5120,
+          "sha256": "4d4d3505b62448fd43eee7a3cc03dc10b1810f0fc9193702db7b6e11ed5f4aaf",
           "transparent": true,
           "sourceBundleSha256": "83dbb9068288d5452464e2eea2f83f7e89e75d9871ba9776959c7be199c15289",
-          "cacheKey": "25fed3240f530b6664f485eaf0aa04d10c904abbcabd579f832eacc9f03b6cfb",
+          "cacheKey": "9226e0c88c2b060c5638d804c17d774b38a861bdc78d4a9b3ca43697983a70af",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -26587,12 +27507,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 3.668563,
+            "pan": [
+              0.030056,
+              -0.008053,
+              -0.024258
+            ],
             "alphaBounds": {
-              "x": 191,
-              "y": 71,
-              "width": 147,
-              "height": 374,
-              "fill": 0.730469
+              "x": 182,
+              "y": 68,
+              "width": 146,
+              "height": 375,
+              "fill": 0.732422,
+              "centerOffset": {
+                "x": -1,
+                "y": -0.5,
+                "length": 1.118034
+              }
             }
           },
           "sampledAnimation": null
@@ -26786,14 +27716,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 4584,
-          "sha256": "2f80864214a6f1ae037ea51b4bbb79207bcfc7a89b69ebdaafd3a5acd34f2f1c",
+          "bytes": 4408,
+          "sha256": "c8af6d6249cdafd116e9837e2282b1768d2f7648c584d2d0d99b2a0754b129c1",
           "transparent": true,
           "sourceBundleSha256": "3324c0083ef3183005c73087e08f57002ac66f8d9dedd56a6a9327e89ee06ab7",
-          "cacheKey": "1a5d173c2bc4f9161ae4b5a0862d3c9a3431d2a5f33e4d5ac8897c0b841520d7",
+          "cacheKey": "d54781011b6c1d840f394d88b4328a1998f339197946f3bfd5a734ee2763f252",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -26808,12 +27738,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 3.668563,
+            "pan": [
+              0.030056,
+              -0.008053,
+              -0.024258
+            ],
             "alphaBounds": {
-              "x": 191,
-              "y": 71,
-              "width": 147,
-              "height": 374,
-              "fill": 0.730469
+              "x": 182,
+              "y": 68,
+              "width": 146,
+              "height": 375,
+              "fill": 0.732422,
+              "centerOffset": {
+                "x": -1,
+                "y": -0.5,
+                "length": 1.118034
+              }
             }
           },
           "sampledAnimation": null
@@ -27007,14 +27947,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 4722,
-          "sha256": "39eddc0ac8d06f4dc0a0c2f2fe5c4ca882ec28b88e9061d0ec3cd30e11cd859b",
+          "bytes": 4550,
+          "sha256": "49590bbfdadc076430a6985285d3f5c8ca330b5aa20e189574d165fc0c108336",
           "transparent": true,
           "sourceBundleSha256": "58906b3ef4284817c25d181543173dcc15d23c8a71d25d3b6e324a6649878ea0",
-          "cacheKey": "a1e1dd7cf2599fdbbc58702a910c617c792f7d02f77794daf79173aecedb4ae3",
+          "cacheKey": "e1a113b8a67753de9d7218daf163ad3926e84b43ac533fcad551f8767d6b4faa",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -27029,12 +27969,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 3.668563,
+            "pan": [
+              0.030056,
+              -0.008053,
+              -0.024258
+            ],
             "alphaBounds": {
-              "x": 191,
-              "y": 71,
-              "width": 147,
-              "height": 374,
-              "fill": 0.730469
+              "x": 182,
+              "y": 68,
+              "width": 146,
+              "height": 375,
+              "fill": 0.732422,
+              "centerOffset": {
+                "x": -1,
+                "y": -0.5,
+                "length": 1.118034
+              }
             }
           },
           "sampledAnimation": null
@@ -27228,14 +28178,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 5734,
-          "sha256": "cbedf457f00c613e150e4f8fa1ac1cdad862d9ab7a23b014db738c25f5d836c7",
+          "bytes": 5722,
+          "sha256": "51f58f5e7bf4c65c185e93928d1830702ed694aea3ce009e3302268a68226520",
           "transparent": true,
           "sourceBundleSha256": "48c64e98380b7c6b417adab53a7dbe9fddf89e47f4ac1c011c77b262afc3b493",
-          "cacheKey": "08d89f6fc80f997ebe8a7ed28564f2fd542e1740975f7db2ab423645a79737b8",
+          "cacheKey": "2ed1df302d64109f5d6cfb25b5a4168cba1a76d4b811d4f87a7b7c5e9a267632",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -27250,12 +28200,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 3.668563,
+            "pan": [
+              0.011508,
+              0.052345,
+              -0.049196
+            ],
             "alphaBounds": {
-              "x": 157,
-              "y": 61,
-              "width": 217,
-              "height": 364,
-              "fill": 0.710938
+              "x": 148,
+              "y": 76,
+              "width": 216,
+              "height": 361,
+              "fill": 0.705078,
+              "centerOffset": {
+                "x": 0,
+                "y": 0.5,
+                "length": 0.5
+              }
             }
           },
           "sampledAnimation": null
@@ -27449,14 +28409,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 5852,
-          "sha256": "167168e1c7f5bcd4be13c4f0084e62ea295d60b83d70f34fc80b1d9966f77abc",
+          "bytes": 5820,
+          "sha256": "ad4f70f49160ed88f04860d84eb294a87d794466c31f2e8e5ecdebf235772dc3",
           "transparent": true,
           "sourceBundleSha256": "71fef612daa352ace79c94a017ccfa4605eb213d441d55e7c2c324005433208c",
-          "cacheKey": "b484e4729858d0ab842cca1d6cf8928e78fb55aa6db607ced99c343eef4b7508",
+          "cacheKey": "2cb1e883514fa71029f9e7e799c0ea864efc975db874dc3946e09eae31cd4cfc",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -27471,12 +28431,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 3.668563,
+            "pan": [
+              0.011508,
+              0.052345,
+              -0.049196
+            ],
             "alphaBounds": {
-              "x": 157,
-              "y": 61,
-              "width": 217,
-              "height": 364,
-              "fill": 0.710938
+              "x": 148,
+              "y": 76,
+              "width": 216,
+              "height": 361,
+              "fill": 0.705078,
+              "centerOffset": {
+                "x": 0,
+                "y": 0.5,
+                "length": 0.5
+              }
             }
           },
           "sampledAnimation": null
@@ -27670,14 +28640,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 4986,
-          "sha256": "58885bb01e2a2de3ab6c98b37cc3e031203f966cd1672464e5296cc847d06438",
+          "bytes": 4930,
+          "sha256": "d7138ff275d1e5cc00772c8052af254e491d668a33c141b865fbbf3640c75ab4",
           "transparent": true,
           "sourceBundleSha256": "4956d20874e13c55f6abf6c007ec7cdbf344e4b10d2d40d33ee25a5ca70f7de1",
-          "cacheKey": "93a4bebe153e45788bb61ff397465ef41f563930bee296cc2cb795aee2aeea2c",
+          "cacheKey": "c8bb9b7e2faa3d830235b4ba447d15a8c77d970f2d8272f5c04d6ff45b45eac7",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -27692,12 +28662,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 3.668563,
+            "pan": [
+              0.011508,
+              0.052345,
+              -0.049196
+            ],
             "alphaBounds": {
-              "x": 157,
-              "y": 61,
-              "width": 217,
-              "height": 364,
-              "fill": 0.710938
+              "x": 148,
+              "y": 76,
+              "width": 216,
+              "height": 361,
+              "fill": 0.705078,
+              "centerOffset": {
+                "x": 0,
+                "y": 0.5,
+                "length": 0.5
+              }
             }
           },
           "sampledAnimation": null
@@ -27891,14 +28871,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 5228,
-          "sha256": "7a43e7ca6614701e8d03218f4038fff71ab88260439206e13eb35ca2da0a9506",
+          "bytes": 5132,
+          "sha256": "a0e596f60d167112e50bf7b411727b74539fc07a2329bdfeb68af2fd179e9033",
           "transparent": true,
           "sourceBundleSha256": "65a793b62bff97de701d01aa4e17c67fffffec0dd0069e6def70a09aa4de9853",
-          "cacheKey": "87fe1b6a379f45a55715d9455d6b75375bf1b648131b694cfc6111c8bf53232e",
+          "cacheKey": "98ed10c3584ea494c0c7f4918a91a5c87133a0df72ae1a0d77b2b035de21f2c0",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -27913,12 +28893,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 3.668563,
+            "pan": [
+              0.011508,
+              0.052345,
+              -0.049196
+            ],
             "alphaBounds": {
-              "x": 157,
-              "y": 61,
-              "width": 217,
-              "height": 364,
-              "fill": 0.710938
+              "x": 148,
+              "y": 76,
+              "width": 216,
+              "height": 361,
+              "fill": 0.705078,
+              "centerOffset": {
+                "x": 0,
+                "y": 0.5,
+                "length": 0.5
+              }
             }
           },
           "sampledAnimation": null
@@ -28112,14 +29102,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 4244,
-          "sha256": "f5185f8a55a6da66860a617d13f99828b982068ddd3870a110eb92af1221ac1e",
+          "bytes": 4230,
+          "sha256": "56bf6620209ba5cd70fabcab7a90d4fea52e5db19e3f9940768cc9487a54e040",
           "transparent": true,
           "sourceBundleSha256": "da5ab0f8664ce44fc6c3fc47f6be85cb63e938064e1a74b43f4a6b5a12701243",
-          "cacheKey": "5121a22e1e5f32d480b9ce7da447e7f8cec0d68e8b15f6cfacc531160757a632",
+          "cacheKey": "f82a261c092764a323365ac387cea5e43c26a69ea23286b22d82fe586a13d663",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -28134,12 +29124,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 3.627823,
+            "pan": [
+              -0.011453,
+              0.053755,
+              -0.02725
+            ],
             "alphaBounds": {
-              "x": 204,
-              "y": 63,
+              "x": 201,
+              "y": 78,
               "width": 109,
-              "height": 359,
-              "fill": 0.701172
+              "height": 357,
+              "fill": 0.697266,
+              "centerOffset": {
+                "x": -0.5,
+                "y": 0.5,
+                "length": 0.707107
+              }
             }
           },
           "sampledAnimation": null
@@ -28333,14 +29333,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 4406,
-          "sha256": "b84647d9e3ad35fa83e27a892a8ea1e31640bf8f8a5dbc2f4b815f48c6736bc7",
+          "bytes": 4352,
+          "sha256": "461840739c7428702d6994328b6668a2de5a0974132e69a8ff21540db76560d2",
           "transparent": true,
           "sourceBundleSha256": "8b10da7de8bb464f1578fa8373e6ccad6fe4f7e5bcd09970e6e054f5cc69b3b0",
-          "cacheKey": "aa5b13f070664589dbebc2728198f67b7b4a01f7dbad2cbc11a2ddceff603a84",
+          "cacheKey": "c49350e261aad22d84d9c5d0217fe6db77eea6a144cea955726fe196a9095825",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -28355,12 +29355,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 3.627823,
+            "pan": [
+              -0.011453,
+              0.053755,
+              -0.02725
+            ],
             "alphaBounds": {
-              "x": 204,
-              "y": 63,
+              "x": 201,
+              "y": 78,
               "width": 109,
-              "height": 359,
-              "fill": 0.701172
+              "height": 357,
+              "fill": 0.697266,
+              "centerOffset": {
+                "x": -0.5,
+                "y": 0.5,
+                "length": 0.707107
+              }
             }
           },
           "sampledAnimation": null
@@ -28554,14 +29564,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 3650,
-          "sha256": "6861a671ecaa56ce54c49fdd0cf3032678d9fb797fa08dda0b3cb3b47bfd8fe8",
+          "bytes": 3634,
+          "sha256": "7cf561ec42fbebdbef83e12c09109723d2ba48f96f0c15bd473fc26051de5c9d",
           "transparent": true,
           "sourceBundleSha256": "d545a73793508b1801492c3abf78ec2faea8d95bc2d59ef3792a92c67e556389",
-          "cacheKey": "29dfbcd4d660dd9d96f9f2e50c5e455240d998bd1154df85e3e21f6ec8a9e486",
+          "cacheKey": "5eeb212317608314377d0f45ba6f65c59686a580197689d49920e854b89197fa",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -28576,12 +29586,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 3.627823,
+            "pan": [
+              -0.011453,
+              0.053755,
+              -0.02725
+            ],
             "alphaBounds": {
-              "x": 204,
-              "y": 63,
+              "x": 201,
+              "y": 78,
               "width": 109,
-              "height": 359,
-              "fill": 0.701172
+              "height": 357,
+              "fill": 0.697266,
+              "centerOffset": {
+                "x": -0.5,
+                "y": 0.5,
+                "length": 0.707107
+              }
             }
           },
           "sampledAnimation": null
@@ -28775,14 +29795,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 3860,
-          "sha256": "0616b4e915eeedceed5e4c1b9a66d33c978f737793c0ff527e5a5d8e0b2fef5a",
+          "bytes": 3882,
+          "sha256": "bd66d8a14a7ca0e322bec8359a139c842386ccb14f26bdfbb6616a9959f7b4a9",
           "transparent": true,
           "sourceBundleSha256": "093b9b5dc0cf59635a43f256d6d881d31669f894f829cc1fe6b29c8bbb84fc14",
-          "cacheKey": "74e5b9801475547cd52959e6668b477e16bd2e929ad96556f2abc206a5efa40f",
+          "cacheKey": "065f8b497b796ab31c46c5d8b06fe27095d1b41615585b314c631f06b888f66f",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -28797,12 +29817,22 @@
             "targetFill": 0.72,
             "fit": "alpha-bounds",
             "distance": 3.627823,
+            "pan": [
+              -0.011453,
+              0.053755,
+              -0.02725
+            ],
             "alphaBounds": {
-              "x": 204,
-              "y": 63,
+              "x": 201,
+              "y": 78,
               "width": 109,
-              "height": 359,
-              "fill": 0.701172
+              "height": 357,
+              "fill": 0.697266,
+              "centerOffset": {
+                "x": -0.5,
+                "y": 0.5,
+                "length": 0.707107
+              }
             }
           },
           "sampledAnimation": null
@@ -28996,14 +30026,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 4004,
-          "sha256": "59fb7ecfb6f66acab7b30681dbfbff878d9bf2cae63e5f733124ec845435f968",
+          "bytes": 4202,
+          "sha256": "8081d810fbee3dda296b8d68c2641555c82889906a760d838265fbd40cbfa74f",
           "transparent": true,
           "sourceBundleSha256": "e35c1b3ad0501e9078d88a38e530cae74bdf34deb117f5ca9b27c9affac01bbf",
-          "cacheKey": "b5e2f5f54e0f229a8b3b0ff1b66f259c4801c350561fe2e4fd17fc6e073592a0",
+          "cacheKey": "d358ad5c493f0bc8ae8b43da3c479eaaf7ed4af1f6544396187de3822f7c98dc",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -29017,13 +30047,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 4.395891,
+            "distance": 4.161692,
+            "pan": [
+              -0.021357,
+              0.06996,
+              -0.029014
+            ],
             "alphaBounds": {
-              "x": 209,
-              "y": 67,
-              "width": 96,
-              "height": 349,
-              "fill": 0.681641
+              "x": 206,
+              "y": 72,
+              "width": 100,
+              "height": 366,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": -1,
+                "length": 1
+              }
             }
           },
           "sampledAnimation": null
@@ -29217,14 +30257,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 4192,
-          "sha256": "ab38dec416e835721cde744665adbfab1f0ecde0d0c05b539f46f08d630eac2d",
+          "bytes": 4354,
+          "sha256": "c0bc2fbb2de907a6b6657731c82430f813ee138de85ebd61a2bde61976436b4d",
           "transparent": true,
           "sourceBundleSha256": "5ae2100f37651ce5beb655770bc48e7f30ee6c8e2141f576ddc88f1eed671b02",
-          "cacheKey": "83199869fede9d8fa6d8b0350ea58c7fa6c24687d19479fc1b2b1e40a38099e4",
+          "cacheKey": "2abd0f34a412ea89b2e10395643f60d205f3703a56cadfff877633a0e988f20f",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -29238,13 +30278,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 4.395891,
+            "distance": 4.161692,
+            "pan": [
+              -0.021357,
+              0.06996,
+              -0.029014
+            ],
             "alphaBounds": {
-              "x": 209,
-              "y": 67,
-              "width": 96,
-              "height": 349,
-              "fill": 0.681641
+              "x": 206,
+              "y": 72,
+              "width": 100,
+              "height": 366,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": -1,
+                "length": 1
+              }
             }
           },
           "sampledAnimation": null
@@ -29438,14 +30488,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 3420,
-          "sha256": "9332e308b0a2882dd033291754ac9e64286577763c403ca25cea47cfaa5e7569",
+          "bytes": 3584,
+          "sha256": "30fdfdf63abd08d00c8f9577a0c1b1d24a70b35006a93e6975b7453e4fb87acf",
           "transparent": true,
           "sourceBundleSha256": "783ac846167ea90bd50354c3fa9e2c2629031945706f1fbdd412251ff39776a3",
-          "cacheKey": "ee924269ea2831140a86a3362a12c0c16672ebf985ec4cf98da325628971be0c",
+          "cacheKey": "be2ef86fc357b0121a5c8f2789e8ac4c29c7deb3864efa718574bee720f91520",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -29459,13 +30509,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 4.395891,
+            "distance": 4.161692,
+            "pan": [
+              -0.021357,
+              0.06996,
+              -0.029014
+            ],
             "alphaBounds": {
-              "x": 209,
-              "y": 67,
-              "width": 96,
-              "height": 349,
-              "fill": 0.681641
+              "x": 206,
+              "y": 72,
+              "width": 100,
+              "height": 366,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": -1,
+                "length": 1
+              }
             }
           },
           "sampledAnimation": null
@@ -29659,14 +30719,14 @@
           "height": 512,
           "format": "webp",
           "mimeType": "image/webp",
-          "bytes": 3724,
-          "sha256": "131ac1367b93ed7fd078dbfee625827b345c9692dbd0296e59036375c53d5291",
+          "bytes": 3864,
+          "sha256": "082ba1c5c5936928a1d1ff9892c3c2b47217d353d242eed4344118d37f400b22",
           "transparent": true,
           "sourceBundleSha256": "d3ba72cc7efa6b774417fef11b90c3cea5471301824ddb025b9cbc024ac5c57b",
-          "cacheKey": "548ab2d8927a6a313af6c1715d7865328aacd8848791fd9afa51070f6bf53f34",
+          "cacheKey": "1a784361273498f19fb08e2689b99ba40a4b33abe748ba8f483733d1c08bddee",
           "renderer": {
             "name": "open-assets-gltf-preview",
-            "version": 1,
+            "version": 2,
             "three": "0.184.0",
             "playwright": "1.59.1"
           },
@@ -29680,13 +30740,23 @@
             "fovDeg": 35,
             "targetFill": 0.72,
             "fit": "alpha-bounds",
-            "distance": 4.395891,
+            "distance": 4.161692,
+            "pan": [
+              -0.021357,
+              0.06996,
+              -0.029014
+            ],
             "alphaBounds": {
-              "x": 209,
-              "y": 67,
-              "width": 96,
-              "height": 349,
-              "fill": 0.681641
+              "x": 206,
+              "y": 72,
+              "width": 100,
+              "height": 366,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": -1,
+                "length": 1
+              }
             }
           },
           "sampledAnimation": null
