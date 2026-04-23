@@ -99,6 +99,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-characters-anne.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-characters-anne.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 10672,
+          "sha256": "703166afb290bed4ee804c3ec1f409e362466aa327df16a178d8cb5659d23dbc",
+          "transparent": true,
+          "sourceBundleSha256": "442cb817c3b9a71aa709434101a168553acbd8845a16eb2d9d7ebf7838e6dd46",
+          "cacheKey": "d51ed335c42d896cf6bdeb5c1bb8a3bbf07c23bf9dbdd7828d95b6f2c7ff36bd",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.378959,
+            "alphaBounds": {
+              "x": 148,
+              "y": 58,
+              "width": 244,
+              "height": 371,
+              "fill": 0.724609
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-characters-anne.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -361,6 +401,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-characters-captain-barbarossa.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-characters-captain-barbarossa.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 11280,
+          "sha256": "41449dfe71aab3030d7bea174aabcc24af41cf880223ec182d38755b7f171ee0",
+          "transparent": true,
+          "sourceBundleSha256": "e04631906152b40719070b3e70e6a54d2a2cc5cfb6793fa94a36b23a301fb464",
+          "cacheKey": "0e781d3a2ce76b31d15018f2358d61ca528339680a347c2e91fcb4ad23a3be6d",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.665253,
+            "alphaBounds": {
+              "x": 156,
+              "y": 40,
+              "width": 256,
+              "height": 373,
+              "fill": 0.728516
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-characters-captain-barbarossa.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -625,6 +705,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-characters-henry.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-characters-henry.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 13842,
+          "sha256": "546db849be4108a79aa04ec411423f8167ca87415236a9b06b50c02fea8afd25",
+          "transparent": true,
+          "sourceBundleSha256": "9bf8f8f63ab6e73034c44e3d531606bbf27c60ffd379bf0be2fe19d687efc0f1",
+          "cacheKey": "8fd85e758abe13ab9b1ff17c2a1311f8a11b23efc4b75004a7a68711aa0a4ce9",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 2.962093,
+            "alphaBounds": {
+              "x": 105,
+              "y": 32,
+              "width": 362,
+              "height": 366,
+              "fill": 0.714844
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-characters-henry.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -887,6 +1007,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-characters-mako.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-characters-mako.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 10126,
+          "sha256": "b8eafd7e6f2bdebc06a1093c63b373b6b6363191aa4eb99e0f87dc5e7fe13380",
+          "transparent": true,
+          "sourceBundleSha256": "43dc513e8f721c566dab38eb2e56baa1264f83929427536db06a4a2d909d027b",
+          "cacheKey": "a4b9495e26cd04a2223d1b775d2409c8a52c783f87b561502e83053e1607c0b9",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.066857,
+            "alphaBounds": {
+              "x": 122,
+              "y": 34,
+              "width": 374,
+              "height": 360,
+              "fill": 0.730469
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-characters-mako.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -1149,6 +1309,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-characters-shark.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-characters-shark.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 6656,
+          "sha256": "9535ef5cbcbfb1bbce806624f7fbbbae7ec388f9e7703cd81c70daaaddb927cd",
+          "transparent": true,
+          "sourceBundleSha256": "862d92c6ce61eb082fb0b903ee1d88f06dce8796bab5f1b86cd5976a75116ca6",
+          "cacheKey": "305cd653f76a9f775e4a4fc43b2ebe31a637fb79db80df635201748d9b54b68d",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 10.205882,
+            "alphaBounds": {
+              "x": 40,
+              "y": 150,
+              "width": 371,
+              "height": 235,
+              "fill": 0.724609
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-characters-shark.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -1279,6 +1479,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-characters-sharky.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-characters-sharky.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 12484,
+          "sha256": "7752d570b9173b0e1c0bd95ee8557c7d4a10518ff9c6221a1ff25281b4f197fa",
+          "transparent": true,
+          "sourceBundleSha256": "c17053e106ad680a347b6cd43ed760562471afa31f153401d529cd2fe1dc320d",
+          "cacheKey": "9f80de8df851105166f51de524884320aced14156e6c8f514c52664339b974e0",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 2.859715,
+            "alphaBounds": {
+              "x": 67,
+              "y": 55,
+              "width": 373,
+              "height": 362,
+              "fill": 0.728516
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-characters-sharky.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -1541,6 +1781,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-characters-skeleton.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-characters-skeleton.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 13088,
+          "sha256": "4cc6cff690440277601fcf1e9ae433c11ad65b942ca2a2e62a232db7a37c39e1",
+          "transparent": true,
+          "sourceBundleSha256": "70e46e1b63fa9513b77d1b91933ca3d9b0ee69de5fb0ae645a03941dc89dd0fb",
+          "cacheKey": "9e10c989b4230a49bd9ffc43c698282c1cb3d39bc8c434e2b93a87c1244cb6fe",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.087699,
+            "alphaBounds": {
+              "x": 134,
+              "y": 56,
+              "width": 325,
+              "height": 353,
+              "fill": 0.689453
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-characters-skeleton.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -1815,6 +2095,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-characters-skeleton-headless.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-characters-skeleton-headless.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 14262,
+          "sha256": "a368f4566c50a1bab7fe2dfe6660cfaaf3a765beeac43e1f87062b2495e48ea2",
+          "transparent": true,
+          "sourceBundleSha256": "639be70103b0ed81f525626d754dbc227834e4bc2ad9cee93f83934b29abcf3b",
+          "cacheKey": "c7bac07499e1a28dc9fc8243c53b8975b91bb664c1c19cd1f7e198d40dcfbc16",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 2.689263,
+            "alphaBounds": {
+              "x": 168,
+              "y": 79,
+              "width": 295,
+              "height": 370,
+              "fill": 0.722656
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-characters-skeleton-headless.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -2090,6 +2410,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-characters-tentacle.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-characters-tentacle.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 5958,
+          "sha256": "711fdef3d55a798bf90278f74fd9a639f59a94d927e1542c591b5580b12924fe",
+          "transparent": true,
+          "sourceBundleSha256": "f6e6e0345b8e7da0deaa906f8ce50a369e3279d174363d4ac001b17253881ddd",
+          "cacheKey": "1422f448799ba31e1e169c5e8e802d365f53e2d942f97d49288e9b392df1e34d",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 33.544675,
+            "alphaBounds": {
+              "x": 192,
+              "y": 73,
+              "width": 106,
+              "height": 371,
+              "fill": 0.724609
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-characters-tentacle.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -2232,6 +2592,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-enemy-tentacle.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-enemy-tentacle.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 4492,
+          "sha256": "828893a47510318dcb0dcca44911c284aa8244838a27fc584d2169fe2017e40a",
+          "transparent": true,
+          "sourceBundleSha256": "76d7e5a82abd4c4c1e5df71bb2e276c00b6d985fef00ed41d6109e06328a0685",
+          "cacheKey": "40c28a2def8c2eef80508b26c0bee3d51587081cbebbf7097a8a4d20cf02bdad",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 12.9878,
+            "alphaBounds": {
+              "x": 230,
+              "y": 67,
+              "width": 46,
+              "height": 357,
+              "fill": 0.697266
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-enemy-tentacle.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -2325,6 +2725,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-cliff1.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-cliff1.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 5042,
+          "sha256": "bdb767fe58e59f70258366ff71938f424fc9f2310b49dcd8bf34ebcc7fdf7660",
+          "transparent": true,
+          "sourceBundleSha256": "59cae675078f45e3c2e89b0ceffb7e960d5aabf5233a69b3fd2be2d40a6a3ccc",
+          "cacheKey": "f5f700cf0d410ce791479128ea92a0eab55b0b34deae8436e604952aa96431cb",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 12.043064,
+            "alphaBounds": {
+              "x": 47,
+              "y": 155,
+              "width": 394,
+              "height": 274,
+              "fill": 0.769531
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-environment-cliff1.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -2414,6 +2854,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-cliff2.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-cliff2.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 5440,
+          "sha256": "79f84113646eed52e5c23122bafb8469ad0df1df4693c170cbf44faa153b9497",
+          "transparent": true,
+          "sourceBundleSha256": "a154fb89a8633bbc90ef5b994a15b5e63cefd44b8adb2c656a8b5d3d1a3a0eb8",
+          "cacheKey": "bf99d9123375729766de169cb961a167f345a4d4cb6d71542ae88054c39b2b65",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 17.135465,
+            "alphaBounds": {
+              "x": 92,
+              "y": 76,
+              "width": 336,
+              "height": 392,
+              "fill": 0.765625
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-environment-cliff2.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -2503,6 +2983,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-cliff3.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-cliff3.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 5324,
+          "sha256": "8b1082ad382ffe591f74d38ed7647b135f249f53de598265a89d494e4e64059f",
+          "transparent": true,
+          "sourceBundleSha256": "4a4334f9d83197a92121f6c2656aaed9cfc659bb88cefc32ae31d0b25a99dcda",
+          "cacheKey": "d4696be757b3fe0c9e7a1358314e1670f3490927b45655989e332ed0cb37abe0",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 14.677062,
+            "alphaBounds": {
+              "x": 104,
+              "y": 89,
+              "width": 326,
+              "height": 383,
+              "fill": 0.748047
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-environment-cliff3.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -2592,6 +3112,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-cliff4.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-cliff4.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 6046,
+          "sha256": "5c0ae4c879ccec15904241221a5ea67bb5d177d313a475591c9dc55a77fd96e1",
+          "transparent": true,
+          "sourceBundleSha256": "81321ad0ee026834172bdb2ab0dfeb7ea0d8c6e0e790d87833e0129b77b31b7b",
+          "cacheKey": "8ab951fdb3a73188fb9cbfa01443bedfaab011ba2502d0ab1a895ce5fe467820",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 15.790116,
+            "alphaBounds": {
+              "x": 87,
+              "y": 146,
+              "width": 326,
+              "height": 358,
+              "fill": 0.699219
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-environment-cliff4.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -2681,6 +3241,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-dock.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-dock.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8024,
+          "sha256": "1be1a903a01261562dd6a9dd6fe87240bfee7d213939eec21d4267526a20f832",
+          "transparent": true,
+          "sourceBundleSha256": "84540ea9cf7bddbf42697cc62ec42192b5dd9a9ee4328d01429de5ce54b32e94",
+          "cacheKey": "fd93389032bb96c5cd68e909ebe1efa4b9c830b11ca8f03ffba7402c1f47978f",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 7.505687,
+            "alphaBounds": {
+              "x": 62,
+              "y": 54,
+              "width": 363,
+              "height": 353,
+              "fill": 0.708984
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-environment-dock.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -2770,6 +3370,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-dock-broken.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-dock-broken.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8826,
+          "sha256": "c0a74a9a650415a6df05b46e33e68c334b3951e6e01187c3c9761d023e00edd2",
+          "transparent": true,
+          "sourceBundleSha256": "ee7f62aa31a393f9f387b2f6fc0b6db5314ec3e67070db5ccd2e7039e074793e",
+          "cacheKey": "c3e0db0d847ed10c05fbb8c432a775e8fd3815dbd19ddcbccb1d2c715d1a9ede",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 7.4532,
+            "alphaBounds": {
+              "x": 54,
+              "y": 51,
+              "width": 363,
+              "height": 352,
+              "fill": 0.708984
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-environment-dock-broken.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -2859,6 +3499,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-dock-pole.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-dock-pole.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 2426,
+          "sha256": "496503e0c0f7392bc8aba4c2dfc7f3375e6e531292af167a17c6da8acb632d09",
+          "transparent": true,
+          "sourceBundleSha256": "f3aec0de67c64a1c14316f4645d020502e10506f1bc5278b1e11fe80dbbb1094",
+          "cacheKey": "90d68d4fe718db08736610b9d80e3d288a58cb50669f4eebe5495efb50dcd623",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 6.449642,
+            "alphaBounds": {
+              "x": 229,
+              "y": 64,
+              "width": 53,
+              "height": 354,
+              "fill": 0.691406
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-environment-dock-pole.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -2948,6 +3628,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-house1.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-house1.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 11552,
+          "sha256": "900e96f60330f4bb88f30458077383c78807bc61f2bcb383066e56cfb4625198",
+          "transparent": true,
+          "sourceBundleSha256": "2afe604c9f9a737dfc8b2bd394da3f32d153636808751bb161cd51c9f9df0c1f",
+          "cacheKey": "d7be0bf19a6eeb7f4eaeee89e05928e3fef845de1442782262a34b49a7dc9c97",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 21.706209,
+            "alphaBounds": {
+              "x": 108,
+              "y": 124,
+              "width": 370,
+              "height": 336,
+              "fill": 0.722656
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-environment-house1.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -3037,6 +3757,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-house2.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-house2.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 6840,
+          "sha256": "ccf2d1caf7bbfea23b58c153013f5ba48cae7a884b053293b966b711a9682d02",
+          "transparent": true,
+          "sourceBundleSha256": "747a0dc3a875bc97260ab5cc4f52be519795497037588c22b6952cf8bf20fda7",
+          "cacheKey": "2917377d9125b652277944c3a66857207c371c0272fd8ccf502c00f76fc679e8",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 20.073033,
+            "alphaBounds": {
+              "x": 166,
+              "y": 79,
+              "width": 153,
+              "height": 383,
+              "fill": 0.748047
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-environment-house2.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -3126,6 +3886,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-house3.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-house3.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 10336,
+          "sha256": "5bbda97f04ca2829e64ba2d6bc2b446fad70f65151ef1e92234a6cacd7b99a26",
+          "transparent": true,
+          "sourceBundleSha256": "d83e8cb0f71fe806c000e19959ac5810b88d6f31741de5c9676a9b8b9e4dfeb6",
+          "cacheKey": "84f9634cf94234c5fa6759e7f914f61532757204e7aceb4f7161bac2b6eae965",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 26.88571,
+            "alphaBounds": {
+              "x": 146,
+              "y": 98,
+              "width": 232,
+              "height": 364,
+              "fill": 0.710938
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-environment-house3.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -3215,6 +4015,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-largebones.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-largebones.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 13070,
+          "sha256": "cfcf15cbf255a0d93ae00e20ef3da1aca99501bb30454153bb18a6e8bfd862f3",
+          "transparent": true,
+          "sourceBundleSha256": "0b5b1fdd1efc77c89fc9d39c3c318b333fe9931f99de9757bed7a0bd867700c5",
+          "cacheKey": "4dbd96522db366babad80e35c4eb57bf9e90f923442c5c595363bb4cdee9fe17",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 16.030826,
+            "alphaBounds": {
+              "x": 66,
+              "y": 176,
+              "width": 370,
+              "height": 272,
+              "fill": 0.722656
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-environment-largebones.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -3304,6 +4144,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-palmtree-1.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-palmtree-1.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 10034,
+          "sha256": "126818798a348c4ea22b3d4bfcaabd51bf9cb1462bd2e441d46ad3fc2e515a3c",
+          "transparent": true,
+          "sourceBundleSha256": "dc9da987ef1d7d0dd2302843ec5dd70750e5ac7cc06df5b2d8ce82a558af6797",
+          "cacheKey": "5b619b25b5f09cf82f3c405cbf6427c6d56e217f0299c28edfb2cc14a67733d7",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 6.979087,
+            "alphaBounds": {
+              "x": 56,
+              "y": 56,
+              "width": 365,
+              "height": 371,
+              "fill": 0.724609
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-environment-palmtree-1.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -3393,6 +4273,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-palmtree-2.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-palmtree-2.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 9010,
+          "sha256": "5e57fa6efc5c4b2da88ff90b543467255606750956108a09d518b80d86330684",
+          "transparent": true,
+          "sourceBundleSha256": "4b357d7c2e546047f9ea74c5173bd7afb36a3da24eafa2c160dde169c5e1eea8",
+          "cacheKey": "eb62ce205b87cba0a710dffd94a3004f06f15dde8d9391695cf66d1fac7023ca",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 7.532073,
+            "alphaBounds": {
+              "x": 64,
+              "y": 94,
+              "width": 365,
+              "height": 261,
+              "fill": 0.712891
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-environment-palmtree-2.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -3482,6 +4402,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-palmtree-3.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-palmtree-3.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 11716,
+          "sha256": "632fbdf530c9972433b26eefc4ad60d86c03d95c67b030dd6724830a81afccbb",
+          "transparent": true,
+          "sourceBundleSha256": "831241d167ad91ffdded645c0ff7c5a0993cb6777e5bf572879199ba93c3b885",
+          "cacheKey": "f8734966d14d280ed4d3d8f9c4e7ebc5818f3368b3b4430a8b17ec3fc6fcd3b3",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 6.128662,
+            "alphaBounds": {
+              "x": 29,
+              "y": 59,
+              "width": 389,
+              "height": 361,
+              "fill": 0.759766
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-environment-palmtree-3.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -3571,6 +4531,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-rock-1.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-rock-1.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 5444,
+          "sha256": "2218464ba2af9f81e7b571f2eaaaf7db9714c54585ce0cb59b1c67bbfad19fae",
+          "transparent": true,
+          "sourceBundleSha256": "aeb0fceee348f174ee27b84baed5dcaa67800343cf84fdb8091b51602ffde300",
+          "cacheKey": "666a850d3632205ad74d10468e4c4ca77fb63fac9aec443d9012a83c4be1e4bf",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 1.642277,
+            "alphaBounds": {
+              "x": 107,
+              "y": 108,
+              "width": 320,
+              "height": 366,
+              "fill": 0.714844
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-environment-rock-1.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -3660,6 +4660,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-rock-2.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-rock-2.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 5344,
+          "sha256": "168752e8da16930dc8d62c979faffc1170b7df33f5f2d58d9e4684e85372a02e",
+          "transparent": true,
+          "sourceBundleSha256": "829f7613d52de410eeb16ae36b60f7e592527f12aa2750c89d10bb79056dfa3e",
+          "cacheKey": "6ad2e85b498f8dc0a0aeb4227f6e4d1967c4453944cda2dfc73cc9e0bd7c61b8",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 2.246988,
+            "alphaBounds": {
+              "x": 126,
+              "y": 65,
+              "width": 264,
+              "height": 383,
+              "fill": 0.748047
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-environment-rock-2.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -3749,6 +4789,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-rock-3.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-rock-3.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 5738,
+          "sha256": "1cd554edd28edc85d1e0a2023d95aa3da63948ca5b7260ebc3ef47c57b60ec76",
+          "transparent": true,
+          "sourceBundleSha256": "89ed1fd328975197b6fd8bb7e07a77c3b310fa765a2498539835e9bbe9f2ec9d",
+          "cacheKey": "4f3ffa65e0769593d8bca258cc7b0f75b2c96cbf47a2a2ff5f457fd57db5bdc5",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 1.648336,
+            "alphaBounds": {
+              "x": 94,
+              "y": 88,
+              "width": 358,
+              "height": 344,
+              "fill": 0.699219
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-environment-rock-3.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -3838,6 +4918,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-rock-4.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-rock-4.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 6316,
+          "sha256": "cfdf291364167627a24a5ae62981924dafe54c674baff31cdc7fc8b344688802",
+          "transparent": true,
+          "sourceBundleSha256": "a2ac85244f5dae3cd08c4b471f6569c3d8b7f4dc06e99bfcfa7427dad0221b8f",
+          "cacheKey": "00d57acba3871fcc65bb5fc94affe94c6dab59eb7d48c2446348e0f5a5958249",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 1.632956,
+            "alphaBounds": {
+              "x": 70,
+              "y": 76,
+              "width": 383,
+              "height": 387,
+              "fill": 0.755859
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-environment-rock-4.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -3927,6 +5047,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-rock-5.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-rock-5.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 6346,
+          "sha256": "39586275b1974a962dd5347a0f7e570697575a4fcd59630ecc808854f77a78c0",
+          "transparent": true,
+          "sourceBundleSha256": "2fbbfcc29426b7fb31328ba62f8a188d1f4cba4c524379538f588c6d29ee4394",
+          "cacheKey": "1b988ea02ac030575d2681e444a9f0c65ff26b285279e1e77de06fcf6dd6bb06",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 1.295898,
+            "alphaBounds": {
+              "x": 76,
+              "y": 66,
+              "width": 386,
+              "height": 394,
+              "fill": 0.769531
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-environment-rock-5.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -4016,6 +5176,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-sawmill.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-sawmill.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8326,
+          "sha256": "70d1dd550600a3121f2fd9f2b0bc141239fd885f2aa021e2bf7ce03893f969da",
+          "transparent": true,
+          "sourceBundleSha256": "ce788b5b51ef7be351a8328566985f482db22a09b0ed78902541e2fa3d1e0234",
+          "cacheKey": "3f146076f5c9fad8e5377f2da37e04cd1eee405b7071e0ac2fe160e773391b5b",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 5.259778,
+            "alphaBounds": {
+              "x": 44,
+              "y": 173,
+              "width": 369,
+              "height": 178,
+              "fill": 0.720703
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-environment-sawmill.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -4105,6 +5305,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-skulls.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-skulls.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 7502,
+          "sha256": "bb885baa86a667004b9c872ccff629c223f2fb5330b50c1467f4955386d54c49",
+          "transparent": true,
+          "sourceBundleSha256": "3ce341e22dfc1ac019f2baf26885936ab2e154ae20ba6cf57ebf8792db03359b",
+          "cacheKey": "c238abc844215645611bb501b2c539ebfabc780ec693373d374ce5e3546f5895",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 10.439699,
+            "alphaBounds": {
+              "x": 101,
+              "y": 99,
+              "width": 330,
+              "height": 367,
+              "fill": 0.716797
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-environment-skulls.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -4194,6 +5434,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-anchor.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-prop-anchor.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 6366,
+          "sha256": "de8608731dbd5bb1512607f64f8d6f6ce23bfa74d17de61c7e71bfc34a61db13",
+          "transparent": true,
+          "sourceBundleSha256": "cc03b3c45ddb2b9094cf95663a9cc18677cfdd45a4163ffbb6df5327cd95c5b3",
+          "cacheKey": "d96fe24f15f7e57242451771d01d10fed41abbdc9c14d0ab10f53160c6a15bd4",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 1.683984,
+            "alphaBounds": {
+              "x": 58,
+              "y": 173,
+              "width": 373,
+              "height": 193,
+              "fill": 0.728516
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-prop-anchor.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -4283,6 +5563,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-barrel.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-prop-barrel.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 7354,
+          "sha256": "39514d32bc2f373504e17e7aa92921002afb101bc722966b8d4e9db535fbd8b3",
+          "transparent": true,
+          "sourceBundleSha256": "b6304e173566d6f84a197437428be52aafc23bea9c1cb1cba781184e736436ec",
+          "cacheKey": "45745a0e6d222fba7b6c755478f0c38bc2ba1ffaeb678f9c3c35861a97ab2f21",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 1.871859,
+            "alphaBounds": {
+              "x": 93,
+              "y": 82,
+              "width": 326,
+              "height": 368,
+              "fill": 0.71875
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-prop-barrel.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -4372,6 +5692,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-bomb.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-prop-bomb.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 5856,
+          "sha256": "3ddfe768b3fe37dbc59c6cef48404948fc6070bcc99c360057ea36c8c896d09f",
+          "transparent": true,
+          "sourceBundleSha256": "7277476dea50bee0e83e1485c37a7fc0c3a448d01efdd0282ce479dfd52c6e85",
+          "cacheKey": "892bc2ee1050deebca0196abf6461f20e7e5fd76e6d068f24260d66d2dbed1fd",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 1.488684,
+            "alphaBounds": {
+              "x": 136,
+              "y": 86,
+              "width": 247,
+              "height": 343,
+              "fill": 0.669922
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-prop-bomb.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -4461,6 +5821,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-bottle-1.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-prop-bottle-1.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 4394,
+          "sha256": "c68b68171f8d4b8a507670d1bf116d7f18977596b2eb150a46c2964187e9a659",
+          "transparent": true,
+          "sourceBundleSha256": "a9ff902634ed0ce256a3aac4c4ff9c5ff0cdddd50fbb52f59574be181cea53bd",
+          "cacheKey": "b10d27c9d0833511ec361a07f030d2d49a5132e8399beedf98112a1b82651022",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 1.847832,
+            "alphaBounds": {
+              "x": 190,
+              "y": 59,
+              "width": 132,
+              "height": 366,
+              "fill": 0.714844
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-prop-bottle-1.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -4550,6 +5950,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-bottle-2.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-prop-bottle-2.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 5958,
+          "sha256": "11a4d190ef374751100df5c7e8ceae514a7a3d3a5f454c5a9d35b401313bdf0f",
+          "transparent": true,
+          "sourceBundleSha256": "8d8031a6ac18778a62168b175b8909d814cee06ffc3280e5d7ddeb6ae0aaf7da",
+          "cacheKey": "10326bcce960f6d147dd7b143ed7b9b4ce0b8e5789e783fd68b6decd733d86c1",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 0.997375,
+            "alphaBounds": {
+              "x": 103,
+              "y": 52,
+              "width": 306,
+              "height": 394,
+              "fill": 0.769531
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-prop-bottle-2.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -4639,6 +6079,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-bucket.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-prop-bucket.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 7688,
+          "sha256": "32027e92646c4409df9ae4ba06dd39ddec6307c1371b6343044f8646b6ca84b8",
+          "transparent": true,
+          "sourceBundleSha256": "f302e8a1c7922fc2b9e9730d6a7bbb5ec2a93237c33097c40fa8fb0815476b70",
+          "cacheKey": "c62c3b90058f8fee87950cb87374acd8589e16de9b1127aa4d1453b722c770ad",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 1.910105,
+            "alphaBounds": {
+              "x": 104,
+              "y": 80,
+              "width": 306,
+              "height": 369,
+              "fill": 0.720703
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-prop-bucket.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -4728,6 +6208,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-bucket-fishes.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-prop-bucket-fishes.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 10262,
+          "sha256": "5bd44ed42267b4aacc53231c8d4e38c7fd2145edf3d440abe18cc2d899faa03c",
+          "transparent": true,
+          "sourceBundleSha256": "95fca7a3d1d120c6c50c2e0d77f6284f5111d158e3d21d6119d731e53541000b",
+          "cacheKey": "576c69dc6145d9a161ee00f693c90758b6b0489ae77c6f0f292cdd32c831beaa",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 2.249806,
+            "alphaBounds": {
+              "x": 96,
+              "y": 95,
+              "width": 370,
+              "height": 329,
+              "fill": 0.722656
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-prop-bucket-fishes.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -4817,6 +6337,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-cannon.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-prop-cannon.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 7716,
+          "sha256": "e1183bf6cf50db730c64c5453ec35bf969eeb05ddbde5ed806a908fd299ff992",
+          "transparent": true,
+          "sourceBundleSha256": "8c353f8043101cf4de595b65868e2153b08cb4f2f179a05b872ac33e08a1ca7f",
+          "cacheKey": "0ad816ed51f4a741143745932af473bdf6901a7124e8772fb6c5debaef6c70da",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.174155,
+            "alphaBounds": {
+              "x": 78,
+              "y": 82,
+              "width": 362,
+              "height": 387,
+              "fill": 0.755859
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-prop-cannon.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -4906,6 +6466,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-cannonball.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-prop-cannonball.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 4910,
+          "sha256": "f26f1291510ecf2790fcdc1fe1bebf3da78f3deed28374b1b567eb436ccb286a",
+          "transparent": true,
+          "sourceBundleSha256": "2632ac1ab18b4c2371c14d3cf32d7463b3c9522c6e3988fc116c05b6a09700bf",
+          "cacheKey": "06e5dda65751df423c31169c1a5cddf2979efb582bc02259594d165fbeee0aa4",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 0.869624,
+            "alphaBounds": {
+              "x": 76,
+              "y": 67,
+              "width": 385,
+              "height": 393,
+              "fill": 0.767578
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-prop-cannonball.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -4995,6 +6595,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-chest-closed.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-prop-chest-closed.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8208,
+          "sha256": "bf0fadac682ceb2f1ae5f9675ff48294208884746d9487953b6286c9ab9a0053",
+          "transparent": true,
+          "sourceBundleSha256": "22d1b660585d89e7a23833bd0d828e1916232ea08f2005ff77cf77db0e884d6b",
+          "cacheKey": "f6315bebcdc2f385a195ffae08e0b71663eb34c35b4467bd1ae259b605be3a28",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 2.985996,
+            "alphaBounds": {
+              "x": 70,
+              "y": 126,
+              "width": 382,
+              "height": 355,
+              "fill": 0.746094
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-prop-chest-closed.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -5084,6 +6724,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-chest-gold.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-prop-chest-gold.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 12404,
+          "sha256": "4195a4152ce5968b441f06a377b04573bc5cac07bcfcd6d61783b6aa6c507052",
+          "transparent": true,
+          "sourceBundleSha256": "752177175eddb183272f0ef7ba99af9c6380ffb467dee8b3f03c9bfbf9ae1607",
+          "cacheKey": "974c11f761cf7c0aa34ce4ea909c0ac21ee0002a7e3b82adaeae0915d5aeec5a",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 4.347514,
+            "alphaBounds": {
+              "x": 95,
+              "y": 104,
+              "width": 315,
+              "height": 365,
+              "fill": 0.712891
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-prop-chest-gold.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -5173,6 +6853,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-coins.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-prop-coins.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 12048,
+          "sha256": "8a833c44aa18d0a4b0f8779dcb05daf69151f3e7772269c72f26511cbc0a84b2",
+          "transparent": true,
+          "sourceBundleSha256": "8e6d20ff9076b29f76e5ef3290552d3a33e00108a1336c584dd04ae357f088d4",
+          "cacheKey": "b2f3464aca07c7661d1486511238dade727e194ff3eed545ff27f35fceec9eae",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 1.195521,
+            "alphaBounds": {
+              "x": 62,
+              "y": 137,
+              "width": 374,
+              "height": 308,
+              "fill": 0.730469
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-prop-coins.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -5262,6 +6982,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-fish-mackerel.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-prop-fish-mackerel.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 6616,
+          "sha256": "8d241430a216e6c5075f3b84be26d8360bcd06dca0651389d065fdeee233097a",
+          "transparent": true,
+          "sourceBundleSha256": "8773c30e3fac62cf3d21892088242f2d109ebbe0fb213772c3b0238b25909ce9",
+          "cacheKey": "74547108825ed8ce2cfc03ace43c2b73b8e988b28528b77c137450bbea62af7e",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 2.625291,
+            "alphaBounds": {
+              "x": 103,
+              "y": 156,
+              "width": 375,
+              "height": 261,
+              "fill": 0.732422
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-prop-fish-mackerel.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -5351,6 +7111,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-fish-tuna.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-prop-fish-tuna.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8940,
+          "sha256": "7f68c3de00093c9d8872415ced61d02746f4fd7e1ba17d2d9bf1ca668f7dda51",
+          "transparent": true,
+          "sourceBundleSha256": "d5f0e31c4b36f71b32c5afe43d26790c5ff941a82664597a4ce1f459c329e2ee",
+          "cacheKey": "7aae44551b6f2a5791fb5beb5f04a7e821feeed6c633bf953c80df3f5ce1516a",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.399852,
+            "alphaBounds": {
+              "x": 101,
+              "y": 157,
+              "width": 371,
+              "height": 274,
+              "fill": 0.724609
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-prop-fish-tuna.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -5440,6 +7240,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-goldbag.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-prop-goldbag.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 9612,
+          "sha256": "c6358e965490e2178769113c4847be2f9b0abed43e31dea1df8b5c6bf639f713",
+          "transparent": true,
+          "sourceBundleSha256": "3162b30ab2be455b25cc6dc5909ed4b13834b2fc66e254e06667f4d9372d0cea",
+          "cacheKey": "f04615be14571676247108c26b18a9bb4b7f76f5522501659474fd2cc7d86f67",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 1.425952,
+            "alphaBounds": {
+              "x": 111,
+              "y": 76,
+              "width": 300,
+              "height": 393,
+              "fill": 0.767578
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-prop-goldbag.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -5529,6 +7369,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-skull.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-prop-skull.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 7560,
+          "sha256": "b4b26f28f237dea31a4eb30816d833424d6bab15cba3fbf400957d9fc011fc06",
+          "transparent": true,
+          "sourceBundleSha256": "f691327fc8991aa27cfd070b8e306348587a9e0feda3e32941ad87b21c3d692e",
+          "cacheKey": "1540ba01ffe8005acb36236d95f9953881cf7e8e7c2fac3763b20f4c00229d73",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 1.26066,
+            "alphaBounds": {
+              "x": 91,
+              "y": 87,
+              "width": 332,
+              "height": 367,
+              "fill": 0.716797
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-prop-skull.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -5618,6 +7498,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ship-large.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-ship-large.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 16608,
+          "sha256": "141f0510f9d7521b0f38af7eacf4eb6004cf73595f24c212d65f7adea326b157",
+          "transparent": true,
+          "sourceBundleSha256": "68e20ce5c67010913150676af228276d0050c3b59f705fc012b9c0f6d583ad44",
+          "cacheKey": "2a9d2af3dedfef84a321557481d792667171df6c7bd05170c1249fcd178c1cc4",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 25.991189,
+            "alphaBounds": {
+              "x": 112,
+              "y": 102,
+              "width": 370,
+              "height": 371,
+              "fill": 0.724609
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-ship-large.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -5712,6 +7632,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ship-small.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-ship-small.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 9600,
+          "sha256": "746e670b06e2bf104282112c9bf883db77be9f9cfe293b180a0304a54d269251",
+          "transparent": true,
+          "sourceBundleSha256": "1414fbe5a4aaf8ee1d55c6af9608fc4c216f04e6e2298bca5113c1ee85f7aaf5",
+          "cacheKey": "db37806c40113c4c2327fd7e6086cfd5eaf8420e16426379a0071217251300d0",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 9.808092,
+            "alphaBounds": {
+              "x": 86,
+              "y": 173,
+              "width": 371,
+              "height": 215,
+              "fill": 0.724609
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-ship-small.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -5805,6 +7765,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-chickenleg.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-ui-chickenleg.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 6614,
+          "sha256": "7be3edc08fd82601f3949c4b82657d3b9e3d1e8b8ebd37618b51d45675798345",
+          "transparent": true,
+          "sourceBundleSha256": "2e239faa465590915b4abf798db1c9e37bd58e2880af907732c4e0022fea84af",
+          "cacheKey": "0e7a6417b721b9bbd389387522ddb06c38f62712bc09b7502bab36a75148ddf3",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 1.308301,
+            "alphaBounds": {
+              "x": 158,
+              "y": 70,
+              "width": 205,
+              "height": 370,
+              "fill": 0.722656
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-ui-chickenleg.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -5895,6 +7895,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-gem-blue.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-ui-gem-blue.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 4662,
+          "sha256": "caa239f66a91c7207a34a3e99467027dd338c2b9a292aee83009ae1f458c91bc",
+          "transparent": true,
+          "sourceBundleSha256": "233cb57db43c0b681cc6494d495295d133be38e96aafe95860189a0940e602fc",
+          "cacheKey": "15fa0b83f92591dec2957ab3cbe90071ebe2c58e67ee4b47a4dfc2b07907acfa",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 1.689481,
+            "alphaBounds": {
+              "x": 174,
+              "y": 55,
+              "width": 173,
+              "height": 380,
+              "fill": 0.742188
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-ui-gem-blue.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -5985,6 +8025,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-gem-green.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-ui-gem-green.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 6436,
+          "sha256": "001b2a69331c1b1110034af9d8e846eee1719ca6367edac182e3859996be5cb1",
+          "transparent": true,
+          "sourceBundleSha256": "710e79b547b14fd674a6ca15410c411a2fbd6403c62aa4df3a66a222fbc65f97",
+          "cacheKey": "6c13fc0e39bf4e7c2f4ed14173296b50dde6f38440269189a89bb6427cd590b1",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 1.360066,
+            "alphaBounds": {
+              "x": 75,
+              "y": 67,
+              "width": 362,
+              "height": 327,
+              "fill": 0.707031
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-ui-gem-green.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -6075,6 +8155,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-gem-pink.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-ui-gem-pink.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 5644,
+          "sha256": "df7c43247d228b6d9921b6497fb97fd4ce2fb18ccc54546064a52b6de85384bf",
+          "transparent": true,
+          "sourceBundleSha256": "ff2d4cac4e41a0487f7fe89b14fed9a8c6f048efafd7dea333b4e212a6b8799e",
+          "cacheKey": "a3ebc00822ac494390c39a5f860287be8772e746b83235264ee46dd3fad95d59",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 1.552373,
+            "alphaBounds": {
+              "x": 114,
+              "y": 66,
+              "width": 284,
+              "height": 345,
+              "fill": 0.673828
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-ui-gem-pink.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -6165,6 +8285,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-gold.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-ui-gold.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8458,
+          "sha256": "84c8e563b583a139ba61b974065156d5121a87118821e7c81a1ceed90711d83c",
+          "transparent": true,
+          "sourceBundleSha256": "1b9f7a3c0fc1ca4224a8075758c3f1a4b93943370fd186e9db8f123a82d06272",
+          "cacheKey": "4e7214ca3fc6a926992d398bfde67b31978a030c9727a2abc1cc212008766222",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 0.990048,
+            "alphaBounds": {
+              "x": 73,
+              "y": 100,
+              "width": 369,
+              "height": 314,
+              "fill": 0.720703
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-ui-gold.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -6255,6 +8415,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-paper.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-ui-paper.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 5560,
+          "sha256": "33e4c618ccbe752018a0665bc800cb91fe73780a131d4e97a5e51252b50e7a83",
+          "transparent": true,
+          "sourceBundleSha256": "916408fd2b14e7dfa650398c2555fbcfe68da078a8e937b7a7fbcf98aeafcc20",
+          "cacheKey": "d0ca3e37a6a2b2acfab559897ac9b9e325a3030d4e3636a7536e3016f4768ec3",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 1.227695,
+            "alphaBounds": {
+              "x": 145,
+              "y": 81,
+              "width": 226,
+              "height": 367,
+              "fill": 0.716797
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-ui-paper.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -6345,6 +8545,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-red-dash.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-ui-red-dash.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 4854,
+          "sha256": "4c8692f711b75763be5accb632002098d2721b30e13486b798ee6c348d89a883",
+          "transparent": true,
+          "sourceBundleSha256": "a9912656cd5633822fd914def1c0fdd6d09e8ff528ba77680d454acfda741d91",
+          "cacheKey": "e8675265634d269a512a861487f577326f270ea42388d0731145f8ec69e80f89",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 0.933982,
+            "alphaBounds": {
+              "x": 78,
+              "y": 160,
+              "width": 367,
+              "height": 237,
+              "fill": 0.716797
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-ui-red-dash.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -6435,6 +8675,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-red-x.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-ui-red-x.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 3990,
+          "sha256": "bf49ba9366fc1ca36d0d63dfff50aa12cdab3bf8abf3080c649e1ee6f7079091",
+          "transparent": true,
+          "sourceBundleSha256": "870d2b1182bd4cead1601148b8edbaa2e511b068c74fa318a3fe4017c68256b0",
+          "cacheKey": "dea105cf6c84296bcb0a66199e29364d8be3883d056cb93898c260018e76f0b6",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.041721,
+            "alphaBounds": {
+              "x": 73,
+              "y": 180,
+              "width": 365,
+              "height": 189,
+              "fill": 0.712891
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-ui-red-x.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -6525,6 +8805,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-rocks.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-ui-rocks.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 6856,
+          "sha256": "94ff09c947a786e0705a40290d4d803f10bcf9507654e63608719fc3a9b8a7f7",
+          "transparent": true,
+          "sourceBundleSha256": "0e0d2e4fb5f1cf23efc31334e4a3ab039d21e26a694e1b9c20c6690dcd75dfd5",
+          "cacheKey": "c267d915578fae09e784a2ecc1346403bfdafbc17d2a8bab8382fcee6a917c46",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 0.884344,
+            "alphaBounds": {
+              "x": 65,
+              "y": 56,
+              "width": 381,
+              "height": 396,
+              "fill": 0.773438
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-ui-rocks.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -6615,6 +8935,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-swords.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-ui-swords.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 9648,
+          "sha256": "4d9ad64aacb4e073b5bf999aa789bbf861203bed5c848747b8df6128cec082f8",
+          "transparent": true,
+          "sourceBundleSha256": "ac029f25a6227be509b92f57cf3069f2bfe33bbcec4d1c746f9675143da22fe3",
+          "cacheKey": "e2c267ce52435a30a4d6f843af150edc02c4855cda08aa41bda180cc3ee220ba",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 1.21816,
+            "alphaBounds": {
+              "x": 150,
+              "y": 86,
+              "width": 239,
+              "height": 367,
+              "fill": 0.716797
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-ui-swords.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -6705,6 +9065,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-wheat.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-ui-wheat.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 10376,
+          "sha256": "2b96ed51fad7b796d02866165474f1cbd7b1dcfae1fa342944c5d5611c9b1dba",
+          "transparent": true,
+          "sourceBundleSha256": "d47d32237f7ca84feeefa5bf3682c52e3322ecfc7f165a99bf61ec06ccc544cb",
+          "cacheKey": "59b592e92b120671b476012913e8bb514650f6debf7a4911420267facaf75570",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 1.188284,
+            "alphaBounds": {
+              "x": 130,
+              "y": 79,
+              "width": 264,
+              "height": 368,
+              "fill": 0.71875
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-ui-wheat.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -6795,6 +9195,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-wood.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-ui-wood.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 5472,
+          "sha256": "580749b6a484efb8cf889cc3e4975256606587c5a9df266ead6686aefd9bca9f",
+          "transparent": true,
+          "sourceBundleSha256": "d68a556757f77bd3b3390a4fc33a969410482689ef49c5ac2d85fe5917f61a57",
+          "cacheKey": "3ca3375c3bd316bf7c00131fa652c8ae5650078c0b4a58c25de6fc807488a581",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 1.194766,
+            "alphaBounds": {
+              "x": 125,
+              "y": 78,
+              "width": 278,
+              "height": 378,
+              "fill": 0.738281
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-ui-wood.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -6885,6 +9325,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-axe.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-weapon-axe.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 5006,
+          "sha256": "693b5ca6203a644bce84ef34033836e5cde12d7dde945e0df18390ba7e26eaa2",
+          "transparent": true,
+          "sourceBundleSha256": "cc05caf0b4b7623ce520fcf3e80b288b0c6643e79b0e3e32ae0a45ed03e43493",
+          "cacheKey": "9e0f3f0beb9e3cef3f19fb228f28574f2bc70d8323668e87d2cc7129bf34aa00",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 1.957076,
+            "alphaBounds": {
+              "x": 183,
+              "y": 38,
+              "width": 148,
+              "height": 370,
+              "fill": 0.722656
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-weapon-axe.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -6974,6 +9454,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-axerifle.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-weapon-axerifle.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 5528,
+          "sha256": "b15b2e4fbba7eacc3be99a24dba502547e31925017f83b12ef0bc783d673a8a2",
+          "transparent": true,
+          "sourceBundleSha256": "5d7d8b57f546bc6b6acc7e8052b049cca0f0f6816d77e6e21399ab372baca162",
+          "cacheKey": "10d8ea20c8a067aed98059e7cbe9ea90c242b18759335d429f1bc2108c65f064",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.988839,
+            "alphaBounds": {
+              "x": 102,
+              "y": 186,
+              "width": 374,
+              "height": 188,
+              "fill": 0.730469
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-weapon-axerifle.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -7063,6 +9583,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-cutlass.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-weapon-cutlass.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 5830,
+          "sha256": "b9fa76356fa218fad9729eb385f2e63c6faed2a5323b571825158473dfda2ddc",
+          "transparent": true,
+          "sourceBundleSha256": "f6fc601230859be5504aaf300ff2b16ad14379dfbe73b4d38a91d02730fd08f4",
+          "cacheKey": "8d071dafe08d56f94a9e2e9ea158c0fd0aaef3a7c61f5f596b36ed176ca4c269",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 2.309061,
+            "alphaBounds": {
+              "x": 208,
+              "y": 57,
+              "width": 110,
+              "height": 371,
+              "fill": 0.724609
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-weapon-cutlass.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -7155,6 +9715,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-dagger.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-weapon-dagger.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 3182,
+          "sha256": "6896e5145730628ff283711b8f8e12cc5d619b4ed69bdb8a293316054fd354da",
+          "transparent": true,
+          "sourceBundleSha256": "101a9ca2545a330bc15b1682e9d9d4470eb059b6b7cca6270ef13a4df571138a",
+          "cacheKey": "9a9e3884310987a078185e80a88d006c13fb5c4b6225fa558f88854a667b2b1e",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 2.822552,
+            "alphaBounds": {
+              "x": 235,
+              "y": 67,
+              "width": 43,
+              "height": 342,
+              "fill": 0.667969
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-weapon-dagger.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -7244,6 +9844,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-doubleaxe.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-weapon-doubleaxe.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 5856,
+          "sha256": "ff9a6219f5c084eedef276dccc13f0231c966a15e06f3e3a0ca52776c7e05848",
+          "transparent": true,
+          "sourceBundleSha256": "1196cc1b89bb0b858298d13f17cf77d83ee2f89cc0faf7ba40c22eb0a37507f3",
+          "cacheKey": "039607b3bd0e7d05d6b0caccd52467c9dfdf7a14f6eae1dc84d4491b068a8e9d",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 2.157281,
+            "alphaBounds": {
+              "x": 171,
+              "y": 55,
+              "width": 189,
+              "height": 359,
+              "fill": 0.701172
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-weapon-doubleaxe.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -7333,6 +9973,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-doubleshotgun.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-weapon-doubleshotgun.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 7128,
+          "sha256": "ffa4a75459b808ab0d01a15a86daa958e98c29fde38337f8641a4f8003261d65",
+          "transparent": true,
+          "sourceBundleSha256": "5b4e3bc085d8aae55eb10563935fa23291ed3021bb91b69c0d6cd641bd318fb3",
+          "cacheKey": "1b34026b829e10a74f7d3158132a2f1bcd0a25e72226b58190cea93992e32f4e",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 2.904957,
+            "alphaBounds": {
+              "x": 114,
+              "y": 141,
+              "width": 371,
+              "height": 173,
+              "fill": 0.724609
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-weapon-doubleshotgun.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -7424,6 +10104,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-lute.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-weapon-lute.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 5248,
+          "sha256": "6ebf0893b6924c0d7c19c36987f20f3d927c92337bcd01113aaf3fb3e27f0e06",
+          "transparent": true,
+          "sourceBundleSha256": "f27b5324d304b4cd80ea1971c066574a338d8de8d24dd4efc8963fc7071ad3be",
+          "cacheKey": "4497fe02457aa3f171020f55395a0c9b1a0517add2e8a20a682a4608f1faf7f0",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 2.85511,
+            "alphaBounds": {
+              "x": 182,
+              "y": 68,
+              "width": 138,
+              "height": 348,
+              "fill": 0.679688
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-weapon-lute.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -7513,6 +10233,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-pistol.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-weapon-pistol.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 6640,
+          "sha256": "24cef2ab2d64273779440e26620758f768e073012da62dbf272f6c5b5b6f5a36",
+          "transparent": true,
+          "sourceBundleSha256": "9962f735ddebf96f884d6a27a478715aca035d6f95fba0cfec1b520c7587c3b4",
+          "cacheKey": "1971405f10f950229b7e6e6ddd70a9743f2df49cef0cb6fcdd50e736b0fd3964",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 2.34,
+            "alphaBounds": {
+              "x": 108,
+              "y": 143,
+              "width": 371,
+              "height": 179,
+              "fill": 0.724609
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-weapon-pistol.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -7602,6 +10362,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-rifle.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-weapon-rifle.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 5184,
+          "sha256": "62d1f9978bb2d1e396567a1997f8efb1a4ea1bef46a29fa1a9ecd1b170da268e",
+          "transparent": true,
+          "sourceBundleSha256": "8ce3d68150f0ede1a1f22d0b6978499394a8325a5201215696c2fa9856531235",
+          "cacheKey": "e9aaf62df679ab50557125ba27acd8c897123fbebac153eb2681e304ecfc0717",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 4.880806,
+            "alphaBounds": {
+              "x": 107,
+              "y": 180,
+              "width": 375,
+              "height": 151,
+              "fill": 0.732422
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-weapon-rifle.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -7691,6 +10491,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-sword-1.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-weapon-sword-1.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 3060,
+          "sha256": "40fd764e6d6915dde6f3059460cd375743baaf71d4e6df49b985a45a9c19cf2c",
+          "transparent": true,
+          "sourceBundleSha256": "2b6e35193e760149f8d40e55f191aafbd52723013a94faad8502e6ab0186a018",
+          "cacheKey": "b93406d707705840ceab75d686ff29231b24b73964c947e77a760e3b065d413b",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 2.930002,
+            "alphaBounds": {
+              "x": 223,
+              "y": 67,
+              "width": 67,
+              "height": 348,
+              "fill": 0.679688
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-weapon-sword-1.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",
@@ -7780,6 +10620,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-sword-2.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-pirate-kit/quaternius-pirate-kit-weapon-sword-2.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 3806,
+          "sha256": "b71a598ca7148be744e00bfb497da42be3a219f6649ed3c248581a71790b91ed",
+          "transparent": true,
+          "sourceBundleSha256": "ca09b926d0a63d6be754db0ccb32ec148f28a47e9bc466ce2e029cb9ac3dc201",
+          "cacheKey": "02191975bad95ed36f0be5c2dec5df3913c1a1f9503bdf713b4a8833086e6b3c",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 2.777705,
+            "alphaBounds": {
+              "x": 209,
+              "y": 62,
+              "width": 88,
+              "height": 343,
+              "fill": 0.669922
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-pirate-kit-weapon-sword-2.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/piratekit.html",
         "tags": [
           "pirate",

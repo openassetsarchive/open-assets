@@ -52,6 +52,7 @@ Get one asset by id:
 4. If needed, use `asset-locations.json` to find the pack, then fetch `packs/<packId>/details.json` for more metadata.
 
 The direct URL to use in a project is `publicUrl`.
+If an asset has a generated thumbnail, use `preview.relativePath` relative to this catalog root.
 The human-facing source page is `sourceUrl`.
 The canonical license reference is the pack-level `licenseUrl`.
 
@@ -124,6 +125,9 @@ Example token file:
 These URLs are immutable for a given pack snapshot.
 
 If a pack changes later, the catalog will point to a new versioned release URL. Old versioned URLs remain valid.
+
+Preview thumbnails are derived catalog files under `previews/<packId>/<assetId>.webp`.
+They are for browsing and selection; they are not canonical asset identities.
 
 ## Current Scope
 

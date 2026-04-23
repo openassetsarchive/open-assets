@@ -107,6 +107,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-bush-common.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 15984,
+        "sha256": "0b3d91718629804945fd2a4810f1c7ced21f5b6ffb91b4f7fb4e44eca86efc46",
+        "transparent": true,
+        "sourceBundleSha256": "bcb8ada95cf207eade3bfb94b07dcdd8aca917a44fa2ba5b68ea5c132105edab",
+        "cacheKey": "f9493e32a895a4742c305f99ad8fda78d1650e851538eb17e238ebef669cf322",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 4.207026,
+          "alphaBounds": {
+            "x": 73,
+            "y": 102,
+            "width": 371,
+            "height": 295,
+            "fill": 0.724609
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-bush-common.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -191,6 +231,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-bush-common-flowers.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 19346,
+        "sha256": "70bf40953f3a00283857c41ce92d61c20c14469c09bba98ca7f2f72d96307ce9",
+        "transparent": true,
+        "sourceBundleSha256": "9e48222f3550f5bd35d76b26df5eccff50fb08ae55f00c83881231a0a929e018",
+        "cacheKey": "e1fcd7d453a0f864ad1963ae8fae130746d653d4879bbcc075a760e04aca248e",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 4.207026,
+          "alphaBounds": {
+            "x": 75,
+            "y": 88,
+            "width": 373,
+            "height": 315,
+            "fill": 0.728516
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-bush-common-flowers.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -273,6 +353,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-clover-1.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 9794,
+        "sha256": "58ac68a90595602f00283d97f1121c0a9cfe1e2bbf5aa00e681f88a2b44a62b1",
+        "transparent": true,
+        "sourceBundleSha256": "2eecc2d06e10f8db361acf83aa12f4e07febe5b3cfee7d0282b0e7f4ddcdfea0",
+        "cacheKey": "29fa2f718bc3a508f75b4b8c4b430363a01dc7b98e5279e96834ae2387cadf96",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 2.450674,
+          "alphaBounds": {
+            "x": 165,
+            "y": 75,
+            "width": 260,
+            "height": 362,
+            "fill": 0.707031
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-clover-1.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -355,6 +475,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-clover-2.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 12672,
+        "sha256": "ac2c3f8b9e2282b8877ecc7550bd8b3c5d800a654bcf6d3d764966bed8eb675c",
+        "transparent": true,
+        "sourceBundleSha256": "394354bbfa4efdb953e3d4cf6ab0179b56d70a9fd0e85f9d94310f28b316ceec",
+        "cacheKey": "9da2a5adf4974793c3755abec3bf9a9f0ba52d12e3c211d3158a81c2c9c63313",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 2.705545,
+          "alphaBounds": {
+            "x": 140,
+            "y": 78,
+            "width": 247,
+            "height": 359,
+            "fill": 0.701172
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-clover-2.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -439,6 +599,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-commontree-1.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 11400,
+        "sha256": "905cfaa677c0186b5dd487e1ffe570dad6904d087811b076366792be1c805dd0",
+        "transparent": true,
+        "sourceBundleSha256": "88d6bd1777b19bd2f07c827de574a4bcd28f46773edd004a67c950553600340d",
+        "cacheKey": "f47982d8a1cd30b9a2661fba19a0e8b0c5ac4a1ff121c30a9d1b7591519f535f",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 15.552645,
+          "alphaBounds": {
+            "x": 149,
+            "y": 73,
+            "width": 207,
+            "height": 358,
+            "fill": 0.699219
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-commontree-1.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -523,6 +723,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-commontree-2.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 10816,
+        "sha256": "e61b98c4785b4459bdbf9bd272ee3f09c8ae6ae1898e6361ba64d0af66291c01",
+        "transparent": true,
+        "sourceBundleSha256": "98916adf37bb5f7f331a995c4df0cfae7d78425706900b35319762d0da13a20e",
+        "cacheKey": "bd7587d08fba8d8260bbc43b7d281c0c1bebeef0c6ad37581afee572ea06332c",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 16.362328,
+          "alphaBounds": {
+            "x": 156,
+            "y": 76,
+            "width": 216,
+            "height": 348,
+            "fill": 0.679688
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-commontree-2.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -607,6 +847,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-commontree-3.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 9642,
+        "sha256": "db7f2d5d970fa5845cc69c45f8ddf0b8dd3fe315d317f897eca956f3ff7fd787",
+        "transparent": true,
+        "sourceBundleSha256": "c6ec18b970de44c315f99f6dbdb3c503a49b9c20b4006dfddf5614f2f509fdb8",
+        "cacheKey": "f5241098b21ad1cbc9f238d6443a19829a005ac59d111e2676df6381adf602f6",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 20.177696,
+          "alphaBounds": {
+            "x": 176,
+            "y": 75,
+            "width": 158,
+            "height": 349,
+            "fill": 0.681641
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-commontree-3.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -691,6 +971,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-commontree-4.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 8280,
+        "sha256": "4bd2649aa9559e2b1bff868f5ec2a5b08f6bbc7f4777a3b8bade7791a91ed8c0",
+        "transparent": true,
+        "sourceBundleSha256": "439c2477f05eb4ffc423c3acabf046a796045b3b51c233d904d2c91805cb6cf7",
+        "cacheKey": "251a50ce3fc3236735d300ebde6c64a6a69abbddeb673518d229372c8efd175e",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 20.205936,
+          "alphaBounds": {
+            "x": 183,
+            "y": 74,
+            "width": 147,
+            "height": 354,
+            "fill": 0.691406
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-commontree-4.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -775,6 +1095,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-commontree-5.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 9760,
+        "sha256": "77f69dba63342b3f55a18a2d0269278bf8390dac0663f48ffe2c058719f01ca7",
+        "transparent": true,
+        "sourceBundleSha256": "018cc0a316e4137bfeed04a2c87483c1948f1d310ede626d4da67e0585d2bba3",
+        "cacheKey": "66819a29791c68e2116c23d2698dfa22bb44c8880fd72eb39cb9a6f8c0f5d8ba",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 14.999144,
+          "alphaBounds": {
+            "x": 158,
+            "y": 76,
+            "width": 183,
+            "height": 359,
+            "fill": 0.701172
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-commontree-5.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -859,6 +1219,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-deadtree-1.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 12292,
+        "sha256": "561bacd2dfeee17af2ea962c95befd1ab1dd59f8d1f27331b958d5d7c38a6150",
+        "transparent": true,
+        "sourceBundleSha256": "70499ba1bacde5d5399e86114500c5aefbed811b2a6ca95c679c462054c7fc19",
+        "cacheKey": "4a244909a9ec45a557180fb010e40af297f4d435c7198e3837e215f1d579559c",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 20.328169,
+          "alphaBounds": {
+            "x": 136,
+            "y": 60,
+            "width": 256,
+            "height": 356,
+            "fill": 0.695313
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-deadtree-1.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -943,6 +1343,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-deadtree-2.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 12656,
+        "sha256": "07406571215f10435d1757dce4fccdabe7c494c0c2780c7ba87baed0cf8f9958",
+        "transparent": true,
+        "sourceBundleSha256": "b52105541dc444697e18b2e05ba7c1991d03eda1bc40843c61f5c1a1b9828e17",
+        "cacheKey": "9a4e64dfaa4cf275a1282dcaae1137a20d147001b93f4a5b67b8653f9303acac",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 22.416688,
+          "alphaBounds": {
+            "x": 114,
+            "y": 41,
+            "width": 263,
+            "height": 370,
+            "fill": 0.722656
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-deadtree-2.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -1027,6 +1467,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-deadtree-3.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 7766,
+        "sha256": "252e3e2c10e87b4025c032ce6fa99fc4f409071fc95bf761e1ff7c234a298049",
+        "transparent": true,
+        "sourceBundleSha256": "0127d36f585f1b8a7fa314544d5ffcb9e7517a7462d4c036e4a0837cbb7fad4b",
+        "cacheKey": "c529af05f817264fd455b98d9b7bf0d2816de1698385db2169393bfd7c355499",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 28.431001,
+          "alphaBounds": {
+            "x": 161,
+            "y": 58,
+            "width": 179,
+            "height": 374,
+            "fill": 0.730469
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-deadtree-3.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -1111,6 +1591,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-deadtree-4.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 9592,
+        "sha256": "7b6c40ab2db0d363c1aecdb076b9ab08dbfe8bf89b95a0e4610cc63a2713dc4c",
+        "transparent": true,
+        "sourceBundleSha256": "eb8e67486f470afb89b199143d303f1dc352080f00d0ad05d2330af54f6759f3",
+        "cacheKey": "088fa5c344c19602c0ad11e07feecc9e7a13be3ed011efa4623e25a5a0f7c762",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 27.340447,
+          "alphaBounds": {
+            "x": 127,
+            "y": 63,
+            "width": 241,
+            "height": 349,
+            "fill": 0.681641
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-deadtree-4.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -1195,6 +1715,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-deadtree-5.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 9504,
+        "sha256": "901ca7209d0ce8a8f4baf945f2ef7a413eefe231a374290a6871db9991ac1cd6",
+        "transparent": true,
+        "sourceBundleSha256": "8eb869f015dd246161654ae993f2a4184a841d334395479b8bb8916ead4f10b9",
+        "cacheKey": "2ca7461050af2ca7be0a8fc9663db837ea6fe95d92e3f27b848588181b073c96",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 35.189583,
+          "alphaBounds": {
+            "x": 161,
+            "y": 64,
+            "width": 199,
+            "height": 361,
+            "fill": 0.705078
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-deadtree-5.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -1277,6 +1837,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-fern-1.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 10852,
+        "sha256": "4def050ab93b83aa951530f1ca80b9344a7d5ca071d06d2f54c1ebaae5f06bd7",
+        "transparent": true,
+        "sourceBundleSha256": "2b3d7e8df7d608ab286f96b4b3bb4057373e3cf5dcfbac662e68c2ca22dba0b3",
+        "cacheKey": "108bbb78c9490930b6059b6393d668510882e7758e0fecdeab6ed8a207c13005",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 4.63116,
+          "alphaBounds": {
+            "x": 114,
+            "y": 242,
+            "width": 321,
+            "height": 194,
+            "fill": 0.626953
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-fern-1.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -1361,6 +1961,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-flower-3-group.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 16140,
+        "sha256": "c2714704081cb00e754469fc83646c38fcc044b6acfaf1446d135d5ae7601413",
+        "transparent": true,
+        "sourceBundleSha256": "d611e00b0d207449752b51436ab190f043a8f05ab175b1c931558fb70214f6e2",
+        "cacheKey": "efd3c3e47251be193db593983326eebd6412126eb80492ef75c913ef70bf9d5a",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 4.399045,
+          "alphaBounds": {
+            "x": 100,
+            "y": 42,
+            "width": 289,
+            "height": 380,
+            "fill": 0.742188
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-flower-3-group.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -1445,6 +2085,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-flower-3-single.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 8096,
+        "sha256": "70db8335be4f072211a8d88428d285e53346feb90028b18f34ca6b0e7879984d",
+        "transparent": true,
+        "sourceBundleSha256": "2639e38eefb70980b9c8ef6b1491da462daa3d46f6de91579b5b5f20ae398485",
+        "cacheKey": "844ef3b675de2e0aaacd4b2d8c1033c271143e5cf2b33f92c9576e1a0528f49f",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 4.427644,
+          "alphaBounds": {
+            "x": 175,
+            "y": 64,
+            "width": 160,
+            "height": 354,
+            "fill": 0.691406
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-flower-3-single.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -1529,6 +2209,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-flower-4-group.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 17042,
+        "sha256": "2d7e9dd653c6ea2ea702b9009e40f6989519fd9714e39eea2f12f7885e96f4ef",
+        "transparent": true,
+        "sourceBundleSha256": "c6e5b5fb71ea7a5bec1372bfb94514714bb44b24bc4360644de9213db3104ab5",
+        "cacheKey": "434ff7ebf92fb115793e1f03709282d375af7f6483a683ba6fbb1c8e4d802dfe",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 5.323739,
+          "alphaBounds": {
+            "x": 162,
+            "y": 76,
+            "width": 249,
+            "height": 353,
+            "fill": 0.689453
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-flower-4-group.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -1613,6 +2333,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-flower-4-single.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 9626,
+        "sha256": "ccb17b55f5fafef76b8ae37ea07495933c80e64b37f3b8cd7b94d7b5286103dc",
+        "transparent": true,
+        "sourceBundleSha256": "8ee057716e1dc5ece5c85afc8c2b1588b65619f90dd77674380a2cd7fe4df721",
+        "cacheKey": "8fc66ffe7ecbf3179e3c6f016fde8df08e8fac563e55159fbfbe8226334b68e1",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 5.179,
+          "alphaBounds": {
+            "x": 191,
+            "y": 63,
+            "width": 156,
+            "height": 353,
+            "fill": 0.689453
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-flower-4-single.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -1697,6 +2457,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-grass-common-short.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 9860,
+        "sha256": "817d927045b69b858af8119014ea7a60bfe7cb34f356be4dba2db60e20d069ec",
+        "transparent": true,
+        "sourceBundleSha256": "333f682141161aad24a3176599906126bf616827812cbdfb0a0c575e8a6ff0a1",
+        "cacheKey": "09a2f8a5b5b3a26519a6155ca529d89a6b4e014b439f943d9adbd40cac37f971",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 2.856084,
+          "alphaBounds": {
+            "x": 147,
+            "y": 64,
+            "width": 243,
+            "height": 385,
+            "fill": 0.751953
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-grass-common-short.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -1781,6 +2581,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-grass-common-tall.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 13506,
+        "sha256": "40fda3ecec8b8b98cb16090d2b904c515f46824dd56603c3f28a1cd64dd7d6ac",
+        "transparent": true,
+        "sourceBundleSha256": "2777c1b650dc4eed0236afdefeca7092fda0a18ca02cb664f4800c033b74fb84",
+        "cacheKey": "37824489bddd42650369ed63da978dd40b60260436d8040b0d54668d56b9aa36",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 4.009116,
+          "alphaBounds": {
+            "x": 136,
+            "y": 49,
+            "width": 242,
+            "height": 384,
+            "fill": 0.75
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-grass-common-tall.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -1865,6 +2705,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-grass-wispy-short.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 13804,
+        "sha256": "dbc261d7ccab2aa8937a0e6082d614f4d14cfd32527a338f247dee2c56345193",
+        "transparent": true,
+        "sourceBundleSha256": "2ac109477b47f0e971c4370623261c6ed9dbf0d51b45cd64bbb9c91855b9fbcf",
+        "cacheKey": "ebdd91254d61f7725ea805f0c2ae51a0b389e0ad29d28295f7c14cce166c137c",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 3.263326,
+          "alphaBounds": {
+            "x": 91,
+            "y": 105,
+            "width": 367,
+            "height": 281,
+            "fill": 0.716797
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-grass-wispy-short.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -1949,6 +2829,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-grass-wispy-tall.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 20252,
+        "sha256": "306d78e86237f743f2ff19b84083d9bb66781b4d423f21040176c53aa85a4eac",
+        "transparent": true,
+        "sourceBundleSha256": "0bf8c7473887e5f1a194747c9c7fba966d9d2b21c3c068e28ff47a9ae7c60283",
+        "cacheKey": "b15c1968b5944b7f36868567a350d291002d516f9daedfb5fb3e8319757d919b",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 3.579039,
+          "alphaBounds": {
+            "x": 65,
+            "y": 45,
+            "width": 346,
+            "height": 388,
+            "fill": 0.757813
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-grass-wispy-tall.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -2032,6 +2952,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-mushroom-common.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 10142,
+        "sha256": "7aabbdbe317c25c08e04b3226605c4f11003592deb6921d51966c4722a88c6ee",
+        "transparent": true,
+        "sourceBundleSha256": "e19f86c28a683e3b5b308cd0680a18eb776d126660c9af17f327718e5d0f2021",
+        "cacheKey": "78a8f0e9bc3de379183f9fafc40542bb9d3c25f47bed70021f6a5f6c9f3997f0",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.411672,
+          "alphaBounds": {
+            "x": 67,
+            "y": 137,
+            "width": 375,
+            "height": 284,
+            "fill": 0.732422
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-mushroom-common.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -2115,6 +3075,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-mushroom-laetiporus.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 13268,
+        "sha256": "774a121a43860c9296047e3bcc4208352ae6b4acd1607882aabcc7818c2dbb9b",
+        "transparent": true,
+        "sourceBundleSha256": "2460e98aa2fad595c0f20a99ff9784a35834aaaaf3e39853bb6cd5dff6d05d1f",
+        "cacheKey": "0bbd315b49d140eb3742ef0b757f5e24706e52212e9380e5ea281b51e994084e",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 2.924439,
+          "alphaBounds": {
+            "x": 57,
+            "y": 114,
+            "width": 374,
+            "height": 303,
+            "fill": 0.730469
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-mushroom-laetiporus.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -2201,6 +3201,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-pebble-round-1.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 5886,
+        "sha256": "4559de7dccc87ca0efb3fd60a6e3867889f1629bdde1cbac86dc1c3e4dfede2a",
+        "transparent": true,
+        "sourceBundleSha256": "5182c9046ff3d38342da890db07087ce9fe1e4545f775331b5fdacb00c8a5825",
+        "cacheKey": "76263766d79f51bd24b1f8aa04f0a106280764e799391c735ff8386ed41aa88b",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.984424,
+          "alphaBounds": {
+            "x": 88,
+            "y": 163,
+            "width": 369,
+            "height": 218,
+            "fill": 0.720703
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-pebble-round-1.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -2287,6 +3327,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-pebble-round-2.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 7174,
+        "sha256": "e11295d68aacaff76349ce43fd9fa974dd3e2d6367efd2b89b77efdb944773d1",
+        "transparent": true,
+        "sourceBundleSha256": "02b415e7b294c6c5b673c512a8789ed2761fdefdc6e5f0db7a223de6a08a4ab5",
+        "cacheKey": "717d1880594cdf07c3c925a4713696fa071e66dd1993ef689666f4d5934b0167",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.819627,
+          "alphaBounds": {
+            "x": 45,
+            "y": 155,
+            "width": 374,
+            "height": 300,
+            "fill": 0.730469
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-pebble-round-2.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -2373,6 +3453,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-pebble-round-3.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 5606,
+        "sha256": "23ab43c9399dc94eef1ed69aafac4997acec006b3136f9f854fb562e43fb1e62",
+        "transparent": true,
+        "sourceBundleSha256": "986068bb1352b2056729c3f97ac31d3d8f761311742e8ec295caefa402a3b952",
+        "cacheKey": "bd05fbd59cf7bf56befa3ed1e254bd385e6f65c113cae1a1b044ecd905826788",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.154343,
+          "alphaBounds": {
+            "x": 83,
+            "y": 181,
+            "width": 367,
+            "height": 182,
+            "fill": 0.716797
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-pebble-round-3.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -2459,6 +3579,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-pebble-round-4.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 5328,
+        "sha256": "115b5a6a55693aacff1b34e34df66ae915e7de1b78e8790c11e2ca997ea04afc",
+        "transparent": true,
+        "sourceBundleSha256": "a85c12b35ebecf1ae8b32c0fe4398bbfd5c140da54f6b84e0980ca4c565c2fae",
+        "cacheKey": "fe5e1354b1ccc61428a28c1ffa29df6485132c0b120ac9bc924ce7ddb899bf13",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.066659,
+          "alphaBounds": {
+            "x": 66,
+            "y": 181,
+            "width": 369,
+            "height": 183,
+            "fill": 0.720703
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-pebble-round-4.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -2545,6 +3705,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-pebble-round-5.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 7406,
+        "sha256": "07258efbfe723407220c935b786e049296f531213018f58afebf79e6b9e77223",
+        "transparent": true,
+        "sourceBundleSha256": "a9de968059b42161c5998484120ef639a8cc26cb60ab87e79ba025992503238a",
+        "cacheKey": "054755a918dbf9b26010cd3c8675aaefd91281335a435beb81deff10d2c5658f",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.726846,
+          "alphaBounds": {
+            "x": 68,
+            "y": 151,
+            "width": 373,
+            "height": 311,
+            "fill": 0.728516
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-pebble-round-5.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -2631,6 +3831,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-pebble-square-1.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 6304,
+        "sha256": "005f142d82fde43682e028fe61da48a58cda7002769de20102e4697982dc8e58",
+        "transparent": true,
+        "sourceBundleSha256": "487deba4dda831a3c6ec25a6c80e0180654d9376af8bb6a43032a5c2722093fb",
+        "cacheKey": "8426418060fe8ae38bc285519d19fcf3e1aa0183e29f8d19a4f675be8e3a1d5b",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.268924,
+          "alphaBounds": {
+            "x": 75,
+            "y": 171,
+            "width": 370,
+            "height": 229,
+            "fill": 0.722656
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-pebble-square-1.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -2717,6 +3957,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-pebble-square-2.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 6898,
+        "sha256": "7712603458702c9f91c04ab89760c98fdfd07e0f8d7f48df2d4e1dc27c1657e7",
+        "transparent": true,
+        "sourceBundleSha256": "4a6d731ab73262cb902c103e598c58b5b2113dd661a619eadc8ef800082c04a9",
+        "cacheKey": "c801c44f5fe7c9d585ff898c6aaf5a826c17d618835b6e331011d91a0074d131",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.951648,
+          "alphaBounds": {
+            "x": 89,
+            "y": 161,
+            "width": 369,
+            "height": 269,
+            "fill": 0.720703
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-pebble-square-2.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -2803,6 +4083,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-pebble-square-3.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 6562,
+        "sha256": "1ff561a24a82b0690ea1f42e214ece23cf85134f390fe9bd06b002ebe1944968",
+        "transparent": true,
+        "sourceBundleSha256": "cbec70b3e23535a666b795cef66ed3117ef2b7e1f87b25ab2b9be95bd4cbd220",
+        "cacheKey": "c4abfc0115d35d2bd20343a3841e9c3552d867f808672cf9fa025e58a3cf1f3f",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.999494,
+          "alphaBounds": {
+            "x": 76,
+            "y": 155,
+            "width": 372,
+            "height": 275,
+            "fill": 0.726563
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-pebble-square-3.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -2889,6 +4209,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-pebble-square-4.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 6700,
+        "sha256": "36e3b6360bcb1e33b6360d5bb8964bf3f8993af459c189963afdf29ea32086e2",
+        "transparent": true,
+        "sourceBundleSha256": "0e23edfbc4dc1648bc17b325e300f5c604ec8142788d82c9c5eeb591b76bd577",
+        "cacheKey": "b74e82f63ea60006a04b5d2dcdd78f72cda44c0c73c64ef365cc64814c096704",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.910095,
+          "alphaBounds": {
+            "x": 75,
+            "y": 146,
+            "width": 372,
+            "height": 281,
+            "fill": 0.726563
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-pebble-square-4.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -2975,6 +4335,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-pebble-square-5.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 6526,
+        "sha256": "2b0117a64c94220f4a0c37b2ff1da2c65507c4d1fdcba516157809fdd2eee469",
+        "transparent": true,
+        "sourceBundleSha256": "f9331b5a907a2f54c322af2153ec510f6ffaafc02a65287b582e337a34ee1509",
+        "cacheKey": "b2b16ea6281b969caf0f60cdeaf42d2e7b56a8dfc754e1c895aa75ce21db9b94",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.198067,
+          "alphaBounds": {
+            "x": 66,
+            "y": 159,
+            "width": 370,
+            "height": 242,
+            "fill": 0.722656
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-pebble-square-5.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -3061,6 +4461,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-pebble-square-6.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 6610,
+        "sha256": "d2e986da6389b8f947503eeeb31b2ab181ce2aed029af67166afd358fbaac2f4",
+        "transparent": true,
+        "sourceBundleSha256": "690a62590cdb90bade28dc90fc2d6deebce17c32bc3011751080854a6f4bc0d3",
+        "cacheKey": "c406b2c02cfc2890bb6900392132c0abf54f7b8c7133767ba5bcf1d23503d59d",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.989123,
+          "alphaBounds": {
+            "x": 89,
+            "y": 160,
+            "width": 381,
+            "height": 277,
+            "fill": 0.744141
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-pebble-square-6.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -3143,6 +4583,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-petal-1.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 6374,
+        "sha256": "01bb6a4306004b4ed90d72bc16f1bb14dbf830bc2eacb1ff958e85372128166f",
+        "transparent": true,
+        "sourceBundleSha256": "b40a2ba4fd186dad101cd5c2458f5afdd7606afe0380dcd61dd778a4335c4252",
+        "cacheKey": "7c951343c7031ed0a7fceea9653a2f3a2f99db412f34d4b97a6acad99988ca86",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.985292,
+          "alphaBounds": {
+            "x": 73,
+            "y": 115,
+            "width": 373,
+            "height": 235,
+            "fill": 0.728516
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-petal-1.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -3225,6 +4705,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-petal-2.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 7000,
+        "sha256": "56b8cf195a0de5a31e319d5aeb19a17f9b21ca33b8f0809ff23eca0f7db8f281",
+        "transparent": true,
+        "sourceBundleSha256": "a7ad88afb0399587b2d00e0f8536e30b3696e72c55dbd85b83015be19bbfe66d",
+        "cacheKey": "cb21dacf68493bc6e2f50d53b4d7f8a909dae5450afb5f1da2c19d7bd15435e3",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.58339,
+          "alphaBounds": {
+            "x": 72,
+            "y": 161,
+            "width": 363,
+            "height": 183,
+            "fill": 0.708984
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-petal-2.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -3307,6 +4827,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-petal-3.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 7098,
+        "sha256": "f08c6d0d364fbbf9444b60cbdfa37c3a867466998fb2e52c1cf47e884f20a513",
+        "transparent": true,
+        "sourceBundleSha256": "f491ca5a13237e75147c7993d64b7376e05e3353d42151c4874bced7e4790353",
+        "cacheKey": "1a99b15388273806b4ad2175372fac072a14faa83f389294452a4441f09f7a44",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.326207,
+          "alphaBounds": {
+            "x": 76,
+            "y": 138,
+            "width": 391,
+            "height": 189,
+            "fill": 0.763672
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-petal-3.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -3389,6 +4949,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-petal-4.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 9266,
+        "sha256": "b9588259194ec1dc5c664acfc22189baf9a8f2e2b243e295543f58f8476e062a",
+        "transparent": true,
+        "sourceBundleSha256": "ab28771550df690437281ee65105cdf46601ecb4b343628546cd88f4ecba3a93",
+        "cacheKey": "87017d12031a5370eeb7ab7f23813ed3a8564913bbff2099d0611e1ce21a0201",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.704532,
+          "alphaBounds": {
+            "x": 83,
+            "y": 83,
+            "width": 360,
+            "height": 285,
+            "fill": 0.703125
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-petal-4.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -3471,6 +5071,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-petal-5.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 6518,
+        "sha256": "01b9fe8027a45095615feb4721d8e855c534ee8429051346a175fcfde5ea88c5",
+        "transparent": true,
+        "sourceBundleSha256": "049f1a16580469cb2edb92e872c7c2c168a36dd9d1f623a4eaed16315c4bca5d",
+        "cacheKey": "a495d43675d23d761545ae8fcc32a627da621e87b9842df82c843a7863d6075a",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.966308,
+          "alphaBounds": {
+            "x": 73,
+            "y": 158,
+            "width": 365,
+            "height": 177,
+            "fill": 0.712891
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-petal-5.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -3556,6 +5196,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-pine-1.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 7802,
+        "sha256": "68351b9a4c57b71e6e6ea464ca5b3340a6702d3935bb7b86fa3c3e63ebe7badf",
+        "transparent": true,
+        "sourceBundleSha256": "a857ddd37df25fce10fc7b7230ed901c61822d15f6ba574b754b6e293cbd159d",
+        "cacheKey": "8c1e865296dc7839dc2c94a2e45f98fbf905962c1a88cb03f1448cef8896a7ca",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 15.664251,
+          "alphaBounds": {
+            "x": 141,
+            "y": 66,
+            "width": 235,
+            "height": 355,
+            "fill": 0.693359
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-pine-1.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -3641,6 +5321,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-pine-2.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 7322,
+        "sha256": "b9cec7299df6a7914d3f68ee3add42cc903e0daf8b4907d87464833e1ff6fa16",
+        "transparent": true,
+        "sourceBundleSha256": "37f6afa70ece97a835e1f1360de5fb00e6f31663fc3970d084d100ec5ad0d1d7",
+        "cacheKey": "cd77b026412a4d2d8ba26390a2b59448f35544603a50288a58987ba39a7fae6c",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 15.791246,
+          "alphaBounds": {
+            "x": 128,
+            "y": 64,
+            "width": 263,
+            "height": 355,
+            "fill": 0.693359
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-pine-2.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -3726,6 +5446,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-pine-3.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 7946,
+        "sha256": "9cbf63c79e005effe692321218efdeacf15ac99bb9acfba2faec3c9b8ff81fcb",
+        "transparent": true,
+        "sourceBundleSha256": "0afa9a8bb15e547a22cb00e6291fc29bc91f020f0e68555e1e561f145c6299e8",
+        "cacheKey": "8c3b81c4e477351d6a0bfcb2d785b8bb8db11ad1c549e3e4712c9b3407d14dca",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 15.825415,
+          "alphaBounds": {
+            "x": 173,
+            "y": 67,
+            "width": 201,
+            "height": 363,
+            "fill": 0.708984
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-pine-3.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -3811,6 +5571,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-pine-4.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 7972,
+        "sha256": "40bc59b7f365180b5556dd9000e8e6b381520926143c04320b263c6d6e810710",
+        "transparent": true,
+        "sourceBundleSha256": "6914d44fe88c5875f024d8e5534cc23af17ed2fc43a6fe678593ff617fa79d5e",
+        "cacheKey": "f8730cba3122ad57ff98974c41434f0be05d10c2987f5c7b7dd86335fcfc1a6a",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 21.914423,
+          "alphaBounds": {
+            "x": 161,
+            "y": 65,
+            "width": 195,
+            "height": 358,
+            "fill": 0.699219
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-pine-4.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -3896,6 +5696,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-pine-5.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 6712,
+        "sha256": "fdcf0d92176e9645c162d5477f6d52150b4b95f85412d660cd6f028e28f89a60",
+        "transparent": true,
+        "sourceBundleSha256": "7813dfbe963b8e5789377e4aab3993c3a72497ae353b240b581d2dfff46a401d",
+        "cacheKey": "a85cde7babdef5fd6884fd4711e3c41246bb54c9ff1250194204404b0361a306",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 18.676158,
+          "alphaBounds": {
+            "x": 145,
+            "y": 67,
+            "width": 216,
+            "height": 362,
+            "fill": 0.707031
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-pine-5.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -3979,6 +5819,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-plant-1.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 8898,
+        "sha256": "45ce4bd90bed055d56bc091a3f29ec34291ebfd453f8a736c085a718687e47ad",
+        "transparent": true,
+        "sourceBundleSha256": "67d6083a05180874844474c28ecf72984fff23e28fe4e97ceb95074b63039151",
+        "cacheKey": "964054ecbfed00949c3d27b2abb90adfb13ff2031ce43bb7565cbb631aa3c26f",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 3.292109,
+          "alphaBounds": {
+            "x": 78,
+            "y": 103,
+            "width": 368,
+            "height": 278,
+            "fill": 0.71875
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-plant-1.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -4063,6 +5943,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-plant-1-big.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 12834,
+        "sha256": "5b2a8023c38a3ea8335bc9d826c85f31016313a217040b361ff4d04699d9efd2",
+        "transparent": true,
+        "sourceBundleSha256": "4f31f056cc79dec1a29ef9626c798427d82e40c0af18774fa90b2a7756324c89",
+        "cacheKey": "1227a8f35f1e8017ae34f35072833563618bcd7b633256022431521bf11c54d2",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 4.183013,
+          "alphaBounds": {
+            "x": 80,
+            "y": 169,
+            "width": 360,
+            "height": 343,
+            "fill": 0.703125
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-plant-1-big.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -4146,6 +6066,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-plant-7.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 8768,
+        "sha256": "b01b601534ab0371b7a0a98e216883be54f10cd7d1b1ef5c51c3adaa611805a8",
+        "transparent": true,
+        "sourceBundleSha256": "cf21507e88954057dec172f118c779db9ca06799e592ef7cbae73de86203d065",
+        "cacheKey": "43fa8fe749161598e132ebae5c872b21201183385869f463a764ac7a863be465",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 2.243234,
+          "alphaBounds": {
+            "x": 70,
+            "y": 193,
+            "width": 380,
+            "height": 179,
+            "fill": 0.742188
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-plant-7.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -4230,6 +6190,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-plant-7-big.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 12500,
+        "sha256": "bd0eb3ea6fe89ee84e5aeeb6021c44ccd8221d72ea26fd67f5c0af3df8a4a414",
+        "transparent": true,
+        "sourceBundleSha256": "10ee72bf7e440e1a187a847f2ff70ae3586b28eb2cff0aac784b643f5d2928e3",
+        "cacheKey": "00fdd3cb40e571b5336e7c255894c8fd79076c291694b1db580ba0cf84f81e0b",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 3.227541,
+          "alphaBounds": {
+            "x": 56,
+            "y": 198,
+            "width": 366,
+            "height": 187,
+            "fill": 0.714844
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-plant-7-big.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -4314,6 +6314,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-rock-medium-1.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 6980,
+        "sha256": "94114193c864f17f9bc8e88b2296a163c56f57fbd21a4d59b8829b6e5c1f3912",
+        "transparent": true,
+        "sourceBundleSha256": "9f262bf33144bae63a9d2840fbb4c266194139edc42af311b5d409edd3a0f244",
+        "cacheKey": "9a5389ac84aa6a42b5d9857f24828142c093d399bcef6d05245de7778528a6c5",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 6.311878,
+          "alphaBounds": {
+            "x": 78,
+            "y": 111,
+            "width": 369,
+            "height": 352,
+            "fill": 0.720703
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-rock-medium-1.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -4398,6 +6438,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-rock-medium-2.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 6298,
+        "sha256": "42e89909ff681eb0a0073d13e33d4e6296d7841498ad60f33419bb23e1ba7601",
+        "transparent": true,
+        "sourceBundleSha256": "0ad7dce4da8aa4325f4748d27bf116e57ddc4de40f31dfe57adc392f4a692a5d",
+        "cacheKey": "b95615b198ee5eded5e38bcff6fcadb496c88f748739419b3ccbfc3d35909152",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 6.526867,
+          "alphaBounds": {
+            "x": 109,
+            "y": 119,
+            "width": 359,
+            "height": 321,
+            "fill": 0.701172
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-rock-medium-2.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -4482,6 +6562,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-rock-medium-3.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 7810,
+        "sha256": "58e600813babe278d4c1a6c0fe5e7fe7802374086d8f92c86a35fe23a7a8a01d",
+        "transparent": true,
+        "sourceBundleSha256": "beeb218c299ee453b3d4052cc0077c89d66113f8816b854508234a947d9819dd",
+        "cacheKey": "34ce97e7a0139b9f7ab14e96885c96ceb4c44633eed36de408927a3f32299fad",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 6.681909,
+          "alphaBounds": {
+            "x": 123,
+            "y": 92,
+            "width": 359,
+            "height": 371,
+            "fill": 0.724609
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-rock-medium-3.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -4568,6 +6688,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-rockpath-round-small-1.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 8268,
+        "sha256": "33638cfb899e44d3667907393ede50049c2fe6ac5d49b9a2fb16e722b4733025",
+        "transparent": true,
+        "sourceBundleSha256": "32c7afca44ca9b334ddbb9dd1a9711b60d7f120548fb3931cd6aee4827047e4e",
+        "cacheKey": "0a6a0a5eb8f7eea0c7936f698b40ac933d59e48f9757f4c1ac16826861306cd2",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 2.829338,
+          "alphaBounds": {
+            "x": 72,
+            "y": 171,
+            "width": 368,
+            "height": 213,
+            "fill": 0.71875
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-rockpath-round-small-1.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -4654,6 +6814,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-rockpath-round-small-2.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 7686,
+        "sha256": "36c66c13d04a7065e3d025c8681f83a402539de4c1a3fd8c28505ec36dfc9046",
+        "transparent": true,
+        "sourceBundleSha256": "f576ebf73d87ecc3959e66962ae432f5ceef679d8ebbec5434d15a66b6dc55fe",
+        "cacheKey": "b40067161a78f717fa0e502320202fd343a93bab02c035d48de6db663479d336",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 3.2639,
+          "alphaBounds": {
+            "x": 76,
+            "y": 192,
+            "width": 367,
+            "height": 180,
+            "fill": 0.716797
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-rockpath-round-small-2.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -4740,6 +6940,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-rockpath-round-small-3.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 9126,
+        "sha256": "0a59c9e52fd4babae0af9cb2e63f5a285fa6d1b2ac7c53a13e0eb549cf6b3801",
+        "transparent": true,
+        "sourceBundleSha256": "e45ad15b25e73db90bd772f016ddb450ad8a9ca3c9e642669c4d77c48d087a20",
+        "cacheKey": "050f3ca17f28a701ca03dd0d4f690a0ae9d47b77dc250b60f3790538c47c9ddf",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 2.761655,
+          "alphaBounds": {
+            "x": 70,
+            "y": 174,
+            "width": 363,
+            "height": 228,
+            "fill": 0.708984
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-rockpath-round-small-3.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -4826,6 +7066,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-rockpath-round-thin.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 9320,
+        "sha256": "8cfed28a873d5fa6f2a1fb24b0ba72b21615ed17df7da27b3e29e46c75c178d4",
+        "transparent": true,
+        "sourceBundleSha256": "1b80f681ec25b5e124d225849d95c8cd26b36374a70cce72b3fb442dcf5b029f",
+        "cacheKey": "e92fef16b5459b1023817f75793d6d37edd06f2ab8ff99f27dff098b44de171c",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 4.472628,
+          "alphaBounds": {
+            "x": 70,
+            "y": 175,
+            "width": 367,
+            "height": 196,
+            "fill": 0.716797
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-rockpath-round-thin.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -4912,6 +7192,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-rockpath-round-wide.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 9556,
+        "sha256": "ebe64aea3bd02e776c60d91e54c922f30c43bfe908fea69879c46cf2ace541ec",
+        "transparent": true,
+        "sourceBundleSha256": "ad10313655c3249086a1afc622b6079ed1b9db9b5cb5d40dc3fb67b3dfa64fc7",
+        "cacheKey": "b9066eb628f06ac03faba749f11413d81dc3fd9741a32ca9ea5a469287f3c017",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 5.934763,
+          "alphaBounds": {
+            "x": 65,
+            "y": 188,
+            "width": 369,
+            "height": 174,
+            "fill": 0.720703
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-rockpath-round-wide.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -4998,6 +7318,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-rockpath-square-small-1.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 7516,
+        "sha256": "9efbaeeddc7e64f4de3c9a87351a415d3db7fc834c1636cd991709b73e2e3257",
+        "transparent": true,
+        "sourceBundleSha256": "0e52aaa6347e5b0b22c6322567c70b79ef94ea608265079a38d318d428cbb970",
+        "cacheKey": "74d82ef0351ff8eb147d1075313c76cb57f00c44393c73bb12a624830b3eac15",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 2.91118,
+          "alphaBounds": {
+            "x": 73,
+            "y": 173,
+            "width": 370,
+            "height": 210,
+            "fill": 0.722656
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-rockpath-square-small-1.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -5084,6 +7444,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-rockpath-square-small-2.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 7546,
+        "sha256": "f3b4f7dd3539d3de23ba05884a7999358bc2bc6bdd948aef5df80b27016b2275",
+        "transparent": true,
+        "sourceBundleSha256": "e86bc79ede2b537859e66f8e9f723fc59036abe4f2f06628d3a9e0a7483dc0ab",
+        "cacheKey": "69e78dff7cb8b1ac8770b1ff1c6286b05287d2f7af733fde8f3e28467884bb96",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 2.869081,
+          "alphaBounds": {
+            "x": 67,
+            "y": 178,
+            "width": 375,
+            "height": 206,
+            "fill": 0.732422
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-rockpath-square-small-2.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -5170,6 +7570,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-rockpath-square-small-3.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 7068,
+        "sha256": "f633524ef82ea96d3ff5e82a09c06b560f1e35aebe53ef653716da9aa41f4442",
+        "transparent": true,
+        "sourceBundleSha256": "8a8084bd538d26fd743b48c13fac20e63f1a84fdd75c5bc912e9589278c89567",
+        "cacheKey": "6527e32ebf3321a39db5335454b59b12931b81f9219f7c42727520988967f587",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 2.80643,
+          "alphaBounds": {
+            "x": 58,
+            "y": 183,
+            "width": 370,
+            "height": 205,
+            "fill": 0.722656
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-rockpath-square-small-3.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -5256,6 +7696,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-rockpath-square-thin.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 7998,
+        "sha256": "8b4d823c186f082c85cdc05c6c8ebc46bc6a3ca411d22887ca2c253d9a3c4806",
+        "transparent": true,
+        "sourceBundleSha256": "111007a8339fcbe5a0267d1738ebdd61046130b73144f196b8f0b8b4e1d3f005",
+        "cacheKey": "a3c051a93d0260033bc1a7cac6fabc859307906a6bbc94388020e70848c1aa7d",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 5.261722,
+          "alphaBounds": {
+            "x": 66,
+            "y": 183,
+            "width": 369,
+            "height": 191,
+            "fill": 0.720703
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-rockpath-square-thin.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -5342,6 +7822,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-rockpath-square-wide.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 8270,
+        "sha256": "d22edf9bda1dc1b5b08522d069ad76ce1b5598b9bfaa402f3fbf48be984f74e7",
+        "transparent": true,
+        "sourceBundleSha256": "8b25b13bd0696195dbf70aec2adc93ed4acc7c51948db9d6de5846aeca1c5855",
+        "cacheKey": "39bde4487710a0bb4abbfc49cb08f56cc4cdaf87318c8dcdf2fc51aaa1755bdd",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 5.929306,
+          "alphaBounds": {
+            "x": 70,
+            "y": 182,
+            "width": 374,
+            "height": 193,
+            "fill": 0.730469
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-rockpath-square-wide.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -5426,6 +7946,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-twistedtree-1.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 18322,
+        "sha256": "443e7a5795bd7237120ce7791b1f8d9102c4eadca50473f34a346321fe4bdf6a",
+        "transparent": true,
+        "sourceBundleSha256": "769780e6c29ae8acbb6045d7f42ce8ee0caf69c2a14aa826a63c40d6b2390c08",
+        "cacheKey": "1a971fe6722d35ac57af41b789d5d7c584708c818e770ff109b8801f192c7767",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 32.344635,
+          "alphaBounds": {
+            "x": 92,
+            "y": 41,
+            "width": 345,
+            "height": 369,
+            "fill": 0.720703
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-twistedtree-1.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -5510,6 +8070,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-twistedtree-2.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 12480,
+        "sha256": "ed19c09a7b66810777386d1b2a4721d779b587e6f4ba6548b94a46ffa7b7dffd",
+        "transparent": true,
+        "sourceBundleSha256": "d0a12f0d7cb7b820ea408faf481f9bcf201b992a441d407d4dd65f474d6f0ad8",
+        "cacheKey": "9eae8648fd73e940ec6549d77a86cb72395a9c01a4a0b9bab0668bf474ef049f",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 40.566956,
+          "alphaBounds": {
+            "x": 156,
+            "y": 58,
+            "width": 206,
+            "height": 386,
+            "fill": 0.753906
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-twistedtree-2.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -5594,6 +8194,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-twistedtree-3.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 14032,
+        "sha256": "f6be5187aabde50b3b1cca184159c06ac94b0887789cfc9b68e3cf12e0185dc1",
+        "transparent": true,
+        "sourceBundleSha256": "d2169d11fbe350a326cd49609532fe3715c79acffe251a1007b78e12697a9b93",
+        "cacheKey": "8204ac1560534f6eef10c79fb4b916544846cbcc68fedd06cb527b158c1e9bfe",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 34.408521,
+          "alphaBounds": {
+            "x": 85,
+            "y": 66,
+            "width": 274,
+            "height": 357,
+            "fill": 0.697266
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-twistedtree-3.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -5678,6 +8318,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-twistedtree-4.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 11020,
+        "sha256": "bd54c885fc07d04f70c5fb518420f106f9e650906ec8b8bc19c23c44ad39cfcd",
+        "transparent": true,
+        "sourceBundleSha256": "50586e1d93a6ac883e8e688ebba17f3a2d3d33101166d26c579945d4d8a42803",
+        "cacheKey": "ce4898b68f0a068591b4d9ca5e4487fe368b8e8139e6b211d571a6b153cc8227",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 40.11531,
+          "alphaBounds": {
+            "x": 134,
+            "y": 76,
+            "width": 185,
+            "height": 354,
+            "fill": 0.691406
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-twistedtree-4.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     },
     {
@@ -5762,6 +8442,46 @@
       ],
       "warningCount": 0,
       "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/quaternius-stylized-nature-megakit/quaternius-stylized-nature-megakit-gltf-twistedtree-5.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 11302,
+        "sha256": "5477aee4f2da9b0e028ef0f2f4fab3a94a3e9666a8517fb37c5318997a6baecf",
+        "transparent": true,
+        "sourceBundleSha256": "31f9f18642bb3b970be4bf6e6b67f3f8db8b5e17f5f429d1221e149aa651ae80",
+        "cacheKey": "7fe54a553643c509f483be64a8911044edc74b31ba0bf13f30b29cba401a8e4f",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 1,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 33.530001,
+          "alphaBounds": {
+            "x": 128,
+            "y": 64,
+            "width": 203,
+            "height": 371,
+            "fill": 0.724609
+          }
+        },
+        "sampledAnimation": null,
+        "packRelativePath": "previews/quaternius-stylized-nature-megakit-gltf-twistedtree-5.webp"
+      },
       "packId": "quaternius-stylized-nature-megakit"
     }
   ]

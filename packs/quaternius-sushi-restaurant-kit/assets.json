@@ -10,6 +10,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-characters-normal-gltf-panda.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-characters-normal-gltf-panda.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 10304,
+      "sha256": "34f358021a964a2152cb4f5810af8b75a452d2989d944279c14369ae9e2cd59c",
+      "transparent": true,
+      "sourceBundleSha256": "102761bbec578e21c365ec0171b71425470c8ff2c3302cc2adb50c4f911d6947",
+      "cacheKey": "e8c2361d755d16b3a7707d5da5a3c58a3041f9bd0a524c0062fef68c8ce15316",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 7.625967,
+        "alphaBounds": {
+          "x": 134,
+          "y": 88,
+          "width": 280,
+          "height": 343,
+          "fill": 0.669922
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-characters-normal-gltf-panda.webp"
+    },
     "bounds": {
       "size": [
         5.05458,
@@ -185,6 +225,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-characters-normal-gltf-rabbit-bald.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-characters-normal-gltf-rabbit-bald.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9068,
+      "sha256": "f47e59a7ea19be2b5c9ef47de980402dd27b6b12bc4a15524b5e38232e38bc3f",
+      "transparent": true,
+      "sourceBundleSha256": "c2fc2323bd03af5deb81b4c4d3e11653b2fef709a864e69d5b3c58ea75f848e4",
+      "cacheKey": "76c27b9cc0b582807ac02d5a235ff8a2fe3a2d54fefa7a3401662ade09d95da1",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 8.57248,
+        "alphaBounds": {
+          "x": 160,
+          "y": 61,
+          "width": 227,
+          "height": 377,
+          "fill": 0.736328
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-characters-normal-gltf-rabbit-bald.webp"
+    },
     "bounds": {
       "size": [
         4.717607,
@@ -360,6 +440,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-characters-normal-gltf-rabbit-blond.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-characters-normal-gltf-rabbit-blond.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 10510,
+      "sha256": "6ac082b0879a73bf646809d5920d4e6eb4f85a3b40b94225bdd39b017fc03de8",
+      "transparent": true,
+      "sourceBundleSha256": "16f91ae335eda04402467b76a83dc5034044f7a5bda1813432ea23ed6b37a4e3",
+      "cacheKey": "baf1c1da59167a0bfa252b3e50512fdeaedf71b01112250f96b779f3e9815ab1",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 8.572481,
+        "alphaBounds": {
+          "x": 151,
+          "y": 61,
+          "width": 236,
+          "height": 377,
+          "fill": 0.736328
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-characters-normal-gltf-rabbit-blond.webp"
+    },
     "bounds": {
       "size": [
         4.717607,
@@ -535,6 +655,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-characters-normal-gltf-rabbit-cyan.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-characters-normal-gltf-rabbit-cyan.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9980,
+      "sha256": "d75a3f91f21410d20a3e43669322377b447ec0cd94d2d5b7aa8f696c3040406b",
+      "transparent": true,
+      "sourceBundleSha256": "5a83428bda2d29f171aa364d2809c9081b7e78b80125d10a7159d586bbdf0390",
+      "cacheKey": "0fe4473b0bd375550f91d464a058ecb4ccb877de95e38f238c38cb1e275b846b",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 8.57248,
+        "alphaBounds": {
+          "x": 160,
+          "y": 61,
+          "width": 227,
+          "height": 377,
+          "fill": 0.736328
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-characters-normal-gltf-rabbit-cyan.webp"
+    },
     "bounds": {
       "size": [
         4.717607,
@@ -710,6 +870,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-characters-normal-gltf-rabbit-green.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-characters-normal-gltf-rabbit-green.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 10542,
+      "sha256": "1dbf556318d6d872fd2a04208b576088b500657415daa2313376a2d59108eeb9",
+      "transparent": true,
+      "sourceBundleSha256": "857b406d9dcb51dac24a9f93941d13d34c2680dce605bf339d76e8fe1ef43f28",
+      "cacheKey": "5d422ba0219a605c79eeb90d80b97367d9db63b69bb672bc7c6df5b88667bf63",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 8.57248,
+        "alphaBounds": {
+          "x": 160,
+          "y": 61,
+          "width": 227,
+          "height": 377,
+          "fill": 0.736328
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-characters-normal-gltf-rabbit-green.webp"
+    },
     "bounds": {
       "size": [
         4.717607,
@@ -885,6 +1085,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-characters-normal-gltf-rabbit-grey.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-characters-normal-gltf-rabbit-grey.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9676,
+      "sha256": "1e907cef16e4d965c039697279bf2792864f2096b24eff3ccb460ca6768ee70a",
+      "transparent": true,
+      "sourceBundleSha256": "deccb1a58b884a216d707f38c9c07ba0e8f05f8a98049e3cb35162c7c8288063",
+      "cacheKey": "d83fa4daef4e548ae37d7b3fccdb7fba7ead3b082e2e3d0754bc6aaa5d0e5162",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 8.57248,
+        "alphaBounds": {
+          "x": 160,
+          "y": 61,
+          "width": 227,
+          "height": 377,
+          "fill": 0.736328
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-characters-normal-gltf-rabbit-grey.webp"
+    },
     "bounds": {
       "size": [
         4.717607,
@@ -1060,6 +1300,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-characters-normal-gltf-rabbit-pink.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-characters-normal-gltf-rabbit-pink.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 10666,
+      "sha256": "cb18e9de037fcda4b445f9cc6d2cb5136acfd7b374450fda180115028f06a84a",
+      "transparent": true,
+      "sourceBundleSha256": "2c538ea1866acb9f08d847e59eadec983b4519e0b5905cfe5d66c0cdc532ea16",
+      "cacheKey": "aad33357b72035df203f64b2839829f4c2db88be122a2327e48f808974655ef0",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 8.57248,
+        "alphaBounds": {
+          "x": 160,
+          "y": 61,
+          "width": 244,
+          "height": 377,
+          "fill": 0.736328
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-characters-normal-gltf-rabbit-pink.webp"
+    },
     "bounds": {
       "size": [
         4.717607,
@@ -1235,6 +1515,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-characters-normal-gltf-rabbit-purple.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-characters-normal-gltf-rabbit-purple.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 10562,
+      "sha256": "ff76670e0287b760d3e7dd36932ce68aa07cea2b3aa422828081e75473f5bd4e",
+      "transparent": true,
+      "sourceBundleSha256": "ff4dbd952b54fd3e4f1c309d424bc0b822655df707edc2b45a9b5faa5bf48c62",
+      "cacheKey": "ee821a307368d44c18f2cc30e20ea21696bcce8b339afa6bd2e4a76056dff5de",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 8.57248,
+        "alphaBounds": {
+          "x": 157,
+          "y": 61,
+          "width": 230,
+          "height": 377,
+          "fill": 0.736328
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-characters-normal-gltf-rabbit-purple.webp"
+    },
     "bounds": {
       "size": [
         4.717607,
@@ -1410,6 +1730,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-characters-with-knife-and-pan-gltf-panda.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-characters-with-knife-and-pan-gltf-panda.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 12082,
+      "sha256": "8e11f1725812bf9acb54acedfd4edc229588c42ade11d31b8bd1614cb2224c24",
+      "transparent": true,
+      "sourceBundleSha256": "f9e0bcb7e5ffa0545c7cc6e9315d3cc0e00d3dd895366295326a23d88f20711f",
+      "cacheKey": "f357f3c9af3c8327d37ddc8a9ab78caf93f4b94a14b57b32cd751cd822d92d96",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 7.625967,
+        "alphaBounds": {
+          "x": 152,
+          "y": 83,
+          "width": 282,
+          "height": 381,
+          "fill": 0.744141
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-characters-with-knife-and-pan-gltf-panda.webp"
+    },
     "bounds": {
       "size": [
         5.05458,
@@ -1586,6 +1946,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-characters-with-knife-and-pan-gltf-rabbit-bald.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-characters-with-knife-and-pan-gltf-rabbit-bald.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8930,
+      "sha256": "92cf394ce433646b45f7d130d6e10708ff4af2b4fea611892c589de294d71267",
+      "transparent": true,
+      "sourceBundleSha256": "1bc55283cd53363ba656ca9882c6611a222c84eac672f04e2b49ac70fc858b3d",
+      "cacheKey": "88d34e0058e97ca72093a39370c972e540f390b9fcd4122b9f9996bbdddb0212",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 9.53428,
+        "alphaBounds": {
+          "x": 177,
+          "y": 80,
+          "width": 208,
+          "height": 365,
+          "fill": 0.712891
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-characters-with-knife-and-pan-gltf-rabbit-bald.webp"
+    },
     "bounds": {
       "size": [
         4.717607,
@@ -1762,6 +2162,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-characters-with-knife-and-pan-gltf-rabbit-blond.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-characters-with-knife-and-pan-gltf-rabbit-blond.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 10198,
+      "sha256": "985c0be5903869f510d366b52cdece6fcddd11fb0bb730dfe5997fa9240c59c4",
+      "transparent": true,
+      "sourceBundleSha256": "1382cc03c6cfd533414fc334f003776714de103fc6b35db2460f218a61a56ab4",
+      "cacheKey": "c3bcd2a92f90e76775f262c22e584e00ede70abeee5343d36a82f06a16052e48",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 9.534281,
+        "alphaBounds": {
+          "x": 172,
+          "y": 80,
+          "width": 213,
+          "height": 365,
+          "fill": 0.712891
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-characters-with-knife-and-pan-gltf-rabbit-blond.webp"
+    },
     "bounds": {
       "size": [
         4.717607,
@@ -1938,6 +2378,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-characters-with-knife-and-pan-gltf-rabbit-cyan.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-characters-with-knife-and-pan-gltf-rabbit-cyan.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9888,
+      "sha256": "03697d92a6b4c3d57f9bb869b37e61ecb5021af4519765270856b963198c4f55",
+      "transparent": true,
+      "sourceBundleSha256": "2666d51be0371418d6b9539469e97e66ecab1f813c076576cc76e8ea956768a5",
+      "cacheKey": "30af685ff31fbf05f574b6048071bb811e0e1fa979701426a5f25afdf6b66c36",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 9.53428,
+        "alphaBounds": {
+          "x": 177,
+          "y": 80,
+          "width": 208,
+          "height": 365,
+          "fill": 0.712891
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-characters-with-knife-and-pan-gltf-rabbit-cyan.webp"
+    },
     "bounds": {
       "size": [
         4.717607,
@@ -2114,6 +2594,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-characters-with-knife-and-pan-gltf-rabbit-green.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-characters-with-knife-and-pan-gltf-rabbit-green.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 10224,
+      "sha256": "a434d1cad7f1af0bc77791e56f2572c79b0dac9e73e974bcb1e7aa1f4a1ca157",
+      "transparent": true,
+      "sourceBundleSha256": "246f535de10a389f713e9259a747ec75a8947c1750bc99123f870924c4ba6526",
+      "cacheKey": "35708fb52e82bd190e50453316a282c280ac72a2fa730f20372e181eaf0ddccd",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 9.534281,
+        "alphaBounds": {
+          "x": 177,
+          "y": 80,
+          "width": 208,
+          "height": 365,
+          "fill": 0.712891
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-characters-with-knife-and-pan-gltf-rabbit-green.webp"
+    },
     "bounds": {
       "size": [
         4.717607,
@@ -2174,6 +2694,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-characters-with-knife-and-pan-gltf-rabbit-grey.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-characters-with-knife-and-pan-gltf-rabbit-grey.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9478,
+      "sha256": "8f1e05d767d99151730899a218f5381e5a7cd3406317f5b278b90e51eb308c8d",
+      "transparent": true,
+      "sourceBundleSha256": "f98a866570dd21afc8050582e879b79e552c0de14694a3ec6a57d8fb610199db",
+      "cacheKey": "28be891f5f62a4f2eb125b39eefe8fa71ea296a1b2f92c809e1116bf1c913c3d",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 9.53428,
+        "alphaBounds": {
+          "x": 177,
+          "y": 80,
+          "width": 208,
+          "height": 365,
+          "fill": 0.712891
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-characters-with-knife-and-pan-gltf-rabbit-grey.webp"
+    },
     "bounds": {
       "size": [
         4.717607,
@@ -2350,6 +2910,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-characters-with-knife-and-pan-gltf-rabbit-pink.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-characters-with-knife-and-pan-gltf-rabbit-pink.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 10460,
+      "sha256": "dce00897253992b5d967b330bff0eaa55fd85c936554e563f60e6c5f3e85b691",
+      "transparent": true,
+      "sourceBundleSha256": "afcfeda5caa37c8a00c03369f14a703d7edbf88a594d9707f64676e34e05dcf8",
+      "cacheKey": "b887fec2e8a3e652c2b655ab1b95721185c1b4182d6040ecde1b7220a1536369",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 9.53428,
+        "alphaBounds": {
+          "x": 177,
+          "y": 80,
+          "width": 220,
+          "height": 365,
+          "fill": 0.712891
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-characters-with-knife-and-pan-gltf-rabbit-pink.webp"
+    },
     "bounds": {
       "size": [
         4.717607,
@@ -2410,6 +3010,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-characters-with-knife-and-pan-gltf-rabbit-purple.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-characters-with-knife-and-pan-gltf-rabbit-purple.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 10370,
+      "sha256": "8f78e969094d936a2d818cc6e530bbe44bab4927921ee58687d8b3138b28bbed",
+      "transparent": true,
+      "sourceBundleSha256": "12a8940d9b1eda054f39b1de4f6d416abf5bd0e50050d1c21c281a3c86fa4199",
+      "cacheKey": "c22d5050e370d293a932d16563cbd56d8480fa4a8be3678e27c74544c7a86f1a",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 9.53428,
+        "alphaBounds": {
+          "x": 177,
+          "y": 80,
+          "width": 208,
+          "height": 365,
+          "fill": 0.712891
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-characters-with-knife-and-pan-gltf-rabbit-purple.webp"
+    },
     "bounds": {
       "size": [
         4.717607,
@@ -2586,6 +3226,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-bamboo.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-bamboo.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6660,
+      "sha256": "22cfbda9bc009d917988982e54dcf8df122be6a969e29b2710c8f858afd9e4d0",
+      "transparent": true,
+      "sourceBundleSha256": "f96d2bf84dfaa359fb9ab2e7cbe83208498f8fe185f8eadd320881e1cf621e6d",
+      "cacheKey": "a8cef8840ea29b90e658055dbe8c12c27acf6a42a42dc92898dfde5041d24c21",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.156472,
+        "alphaBounds": {
+          "x": 194,
+          "y": 52,
+          "width": 120,
+          "height": 375,
+          "fill": 0.732422
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-bamboo.webp"
+    },
     "bounds": {
       "size": [
         0.9851,
@@ -2637,6 +3317,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-bell.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-bell.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8918,
+      "sha256": "336d364567616708a7f95a23d7702977e1b706884d137372aa55e6b1cc408506",
+      "transparent": true,
+      "sourceBundleSha256": "d3fb99772dc3d034eb3b0012e7c71227de48b6eec8440b4af47ef7203384ccc8",
+      "cacheKey": "d83f6cd2d605f8e4986f2df8bcb6c1dcba30ccd5658f2093f49c9894693d5c75",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 9.606415,
+        "alphaBounds": {
+          "x": 136,
+          "y": 70,
+          "width": 284,
+          "height": 370,
+          "fill": 0.722656
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-bell.webp"
+    },
     "bounds": {
       "size": [
         3.919854,
@@ -2688,6 +3408,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-carpet.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-carpet.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 5360,
+      "sha256": "acd649a63c75fa1e8d5d2e91ff8ad1f4aa8991ef7a85284ab50542f8b2b70946",
+      "transparent": true,
+      "sourceBundleSha256": "5b55131cc6a79a3aa5d058d15840e45984feb57220aa82eeb9bf6442caf3f0bf",
+      "cacheKey": "2399d9e3aa0d27928b4664df453c0fa9eefbbb3234a203683f38e0de568bbe61",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 10.128041,
+        "alphaBounds": {
+          "x": 63,
+          "y": 186,
+          "width": 369,
+          "height": 183,
+          "fill": 0.720703
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-carpet.webp"
+    },
     "bounds": {
       "size": [
         2.477453,
@@ -2739,6 +3499,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-fish.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-fish.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 11474,
+      "sha256": "7c77e77384c99868e8c3c64e492ab6f8bafb95f6b6e120e43534048fe1ba3e3b",
+      "transparent": true,
+      "sourceBundleSha256": "5eea46ee9e4f8f738850ee6c6146ed85867099f46ca3253e4a8f1598f481dbaf",
+      "cacheKey": "152fef17814d4dd9373f322474d8c6df0690262b9a46a2c36d405bc442d2a6dc",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 5.305217,
+        "alphaBounds": {
+          "x": 120,
+          "y": 105,
+          "width": 374,
+          "height": 308,
+          "fill": 0.730469
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-fish.webp"
+    },
     "bounds": {
       "size": [
         3.024943,
@@ -2790,6 +3590,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-light.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-light.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8558,
+      "sha256": "894f12c1822077fc60af761a29704e66cf4e5a38eb893214289bf08da40bb397",
+      "transparent": true,
+      "sourceBundleSha256": "d4963bc997f1dad611836a9fb2095697fa0d219d9f905f1ed8f08f84432951db",
+      "cacheKey": "5338aca3e0272379835401e4058b59fce6352e9b9c47362d4c316074a4ffd22f",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.785173,
+        "alphaBounds": {
+          "x": 115,
+          "y": 81,
+          "width": 282,
+          "height": 368,
+          "fill": 0.71875
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-light.webp"
+    },
     "bounds": {
       "size": [
         0.894322,
@@ -2841,6 +3681,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-painting.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-painting.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 12050,
+      "sha256": "1727f68bfe15c749894117c3c465663485d55a29d6063b9d92651dbc988749d6",
+      "transparent": true,
+      "sourceBundleSha256": "fe6825d02fe9110b221bbf60b68b7dc1ffc7f6b86b503e83ed2732cde41b22ce",
+      "cacheKey": "945c68896d823bc5a5c9454389daadccd4058a5b961a6b01962984f9721c6d0f",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.834312,
+        "alphaBounds": {
+          "x": 110,
+          "y": 130,
+          "width": 377,
+          "height": 296,
+          "fill": 0.736328
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-painting.webp"
+    },
     "bounds": {
       "size": [
         4.002842,
@@ -2892,6 +3772,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-painting-small.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-painting-small.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 11252,
+      "sha256": "14af9ec030d5f50b6a2c4d3a27bba2c5d315e49f85fd19b64fb931f662ae7bc4",
+      "transparent": true,
+      "sourceBundleSha256": "264f869aceff1f7eb894456067d95d6e71fd06ea977b324da53c16395888ba2b",
+      "cacheKey": "1f834bb1fd5f3347598b7a01398e5302f98abd920bab2543d752bdfc892f24cb",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.921131,
+        "alphaBounds": {
+          "x": 139,
+          "y": 82,
+          "width": 271,
+          "height": 368,
+          "fill": 0.71875
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-painting-small.webp"
+    },
     "bounds": {
       "size": [
         1.6,
@@ -2943,6 +3863,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-plant1.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-plant1.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8150,
+      "sha256": "14fd4b616b8f90e2c8018e50c7fef86d00c9d5d2ede284fb29a2d8502f84406f",
+      "transparent": true,
+      "sourceBundleSha256": "72172ca8bbfc0bf34756832e0721d28f34d518412d391c2e0670c53f2c1ed7ba",
+      "cacheKey": "056bba23fd95a0edecf6d3137dc71496dbd20946f97d03813afe2ac35ab2892b",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.331215,
+        "alphaBounds": {
+          "x": 67,
+          "y": 83,
+          "width": 377,
+          "height": 364,
+          "fill": 0.736328
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-plant1.webp"
+    },
     "bounds": {
       "size": [
         1.088932,
@@ -2994,6 +3954,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-plant2.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-plant2.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6014,
+      "sha256": "3c70b99cce0a16ed5bcefec5c68f351cfba8957b0cc025c674b908d79638daac",
+      "transparent": true,
+      "sourceBundleSha256": "cd3123083c78622c23b5ecaab227b15632e2fb2c79b4ada2975a91cef014521d",
+      "cacheKey": "ab97000f65dd438efaaa27e1ea4d70bc63fef2466c66c0130f1459d33a3a1b46",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.904061,
+        "alphaBounds": {
+          "x": 178,
+          "y": 60,
+          "width": 157,
+          "height": 365,
+          "fill": 0.712891
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-plant2.webp"
+    },
     "bounds": {
       "size": [
         0.696512,
@@ -3045,6 +4045,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-sakuraflower.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-sakuraflower.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 12756,
+      "sha256": "ae5d339f25f889fdbffe84095f388c6a2cbddb61944a1a2d9058e5077610e3ae",
+      "transparent": true,
+      "sourceBundleSha256": "f4575b59aa2e30dcf9f102de8b750cc07c74eaaf53911600299862bde033aaf2",
+      "cacheKey": "38e2156e137cdfa3027fb14e5db268ea57e7f32547e573f6d791f7df4d9276b2",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.079837,
+        "alphaBounds": {
+          "x": 94,
+          "y": 68,
+          "width": 297,
+          "height": 374,
+          "fill": 0.730469
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-sakuraflower.webp"
+    },
     "bounds": {
       "size": [
         0.971511,
@@ -3096,6 +4136,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-sakuratree.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-sakuratree.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 14478,
+      "sha256": "0219056660b5da3c3cd73a32fb1daa0e1350e2b3330ced384717212bfc0cb81d",
+      "transparent": true,
+      "sourceBundleSha256": "a95dc08b7c4fa3ab050fe8f4d496da035eda43e6cec1093db39f0ac2c9f3de1b",
+      "cacheKey": "92c13070ecd618f798c57e7c1951bda5d47fa09dc225b18b8747f70f0a6cd2a5",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 9.213907,
+        "alphaBounds": {
+          "x": 77,
+          "y": 85,
+          "width": 371,
+          "height": 336,
+          "fill": 0.724609
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-sakuratree.webp"
+    },
     "bounds": {
       "size": [
         4.721995,
@@ -3147,6 +4227,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-sign.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-sign.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9090,
+      "sha256": "3ecc684cfe818919cf706819fd5878e3eaa975d7b277f24174bc9a885a526547",
+      "transparent": true,
+      "sourceBundleSha256": "dfd405e7748e56462d998526e3e788942eb0b3f47f36e54c759f305343c4dfc2",
+      "cacheKey": "38a7dfdef6927781dc7b0219a498970e03765492a1c121c6823a7232262a2761",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 7.326479,
+        "alphaBounds": {
+          "x": 104,
+          "y": 124,
+          "width": 376,
+          "height": 305,
+          "fill": 0.734375
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-sign.webp"
+    },
     "bounds": {
       "size": [
         4.335341,
@@ -3198,6 +4318,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-sign-2.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-sign-2.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 13944,
+      "sha256": "ad6b12ece44416c02d27e8dee943906cc968725211fb5e798d777bfa865c88ec",
+      "transparent": true,
+      "sourceBundleSha256": "9153d41653d97485d7fe8651544e9646b5418e363d49074aa0e978a449b8065e",
+      "cacheKey": "a5bbffb607189b53d242929368ca0f38fff15f700579213fe34ef39472c854a7",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 8.544827,
+        "alphaBounds": {
+          "x": 115,
+          "y": 96,
+          "width": 306,
+          "height": 361,
+          "fill": 0.705078
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-sign-2.webp"
+    },
     "bounds": {
       "size": [
         3.991368,
@@ -3249,6 +4409,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-sign-3.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-sign-3.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8386,
+      "sha256": "02abad871db1203369af8a7e0379e0c2fb48353219248ae1598e0be2c414f1c7",
+      "transparent": true,
+      "sourceBundleSha256": "e1f623577db31d18ef67540c45754893cee710ddb102e25ec7ff10ff30fa86f3",
+      "cacheKey": "2ac8f824b8978a176d48c4527de0e71fde350cde3c01508bb00890ea55dd9a90",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.687648,
+        "alphaBounds": {
+          "x": 166,
+          "y": 66,
+          "width": 179,
+          "height": 395,
+          "fill": 0.771484
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-sign-3.webp"
+    },
     "bounds": {
       "size": [
         1.670437,
@@ -3300,6 +4500,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-walllight.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-walllight.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7126,
+      "sha256": "14e01d1ec515d4a9d05122d3bfa774a56503bd16475f9b02064cc9444789e535",
+      "transparent": true,
+      "sourceBundleSha256": "c62f5a83a1775ae219227fd86c01ed6dd6f6c7cf7cc41a7f146a8c45479c4925",
+      "cacheKey": "d9699bc7f87b92f4d434e19a3ef9cfee8a36d8d26b6be9c117dee9f71e88dd37",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 4.090254,
+        "alphaBounds": {
+          "x": 146,
+          "y": 61,
+          "width": 192,
+          "height": 369,
+          "fill": 0.720703
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-decoration-gltf-decoration-walllight.webp"
+    },
     "bounds": {
       "size": [
         0.734005,
@@ -3351,6 +4591,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-environment-arch.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-environment-arch.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 5734,
+      "sha256": "39053cf4436d80bb4ac84ceeddd396f2792d5f23ea8871731f067146e21de4c3",
+      "transparent": true,
+      "sourceBundleSha256": "aa7652648aca30c2ca63c2b683e8d9cb0b07012e2a6c792bb8ccebbcf5f98fe7",
+      "cacheKey": "e55e88bb19277f1da6100ec2c128d0b2d4971063bdaf616e8b8f30a35fec6146",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 18.486952,
+        "alphaBounds": {
+          "x": 159,
+          "y": 88,
+          "width": 214,
+          "height": 367,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-environment-arch.webp"
+    },
     "bounds": {
       "size": [
         6.139738,
@@ -3402,6 +4682,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-environment-bench.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-environment-bench.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8100,
+      "sha256": "2fd6633c6e7456f7cb4c7418c6e587b7c68c496f2bf19213435929e25833e08d",
+      "transparent": true,
+      "sourceBundleSha256": "aa359c0bcb1c2133533af9546e3f9b0fa9200d784f0d3e5591804b6851cdc7f3",
+      "cacheKey": "62abcfae485237f4596fe12ae725dfd6d9e49afc1b3f6d916c1ff027928ed682",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.714143,
+        "alphaBounds": {
+          "x": 62,
+          "y": 125,
+          "width": 367,
+          "height": 302,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-environment-bench.webp"
+    },
     "bounds": {
       "size": [
         0.875708,
@@ -3453,6 +4773,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-environment-bottle.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-environment-bottle.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 3520,
+      "sha256": "61acf98ad9370fd7b304e8a44ca6285e7fdc28559bd7ea69ad5f2db0d3b03ff7",
+      "transparent": true,
+      "sourceBundleSha256": "1256a339882c2ccf21d9817d8a3ee6a406c2afe868170df5def505239f333f11",
+      "cacheKey": "c9ec2d1e4e15bae8c34ce410b95355968611e6846557e329b0acf360464bcb1d",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.085102,
+        "alphaBounds": {
+          "x": 195,
+          "y": 61,
+          "width": 122,
+          "height": 375,
+          "fill": 0.732422
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-environment-bottle.webp"
+    },
     "bounds": {
       "size": [
         0.308574,
@@ -3504,6 +4864,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-environment-bottles.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-environment-bottles.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 14716,
+      "sha256": "b8cd213393c039b68fd965a91d0b926122b3767667ca8a75dc83f341c883f74a",
+      "transparent": true,
+      "sourceBundleSha256": "e7066d671195b4301ca2739a06884f366abd6d3f482765bd65359fc7d51f2ce4",
+      "cacheKey": "9c9d7fbbbe63076d7ba38910f51b3fe01d1b1009732c9ec66e0a43ba47b85efd",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.58698,
+        "alphaBounds": {
+          "x": 67,
+          "y": 112,
+          "width": 365,
+          "height": 354,
+          "fill": 0.712891
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-environment-bottles.webp"
+    },
     "bounds": {
       "size": [
         0.903175,
@@ -3555,6 +4955,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-environment-bowl.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-environment-bowl.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 4500,
+      "sha256": "786072dfbd5a5ff7e48f29613d89a37a9e7b8adfb1a311bde2fb4e238353ddb9",
+      "transparent": true,
+      "sourceBundleSha256": "241b64869d699b441b74d04c0c0b363dd51974aa87c1dad703a3cd31fbc6605a",
+      "cacheKey": "f59ed602160b1706894b84c38deaaeb6d71f8b70225348f6a64e8a750ff4039a",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.140116,
+        "alphaBounds": {
+          "x": 59,
+          "y": 119,
+          "width": 396,
+          "height": 258,
+          "fill": 0.773438
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-environment-bowl.webp"
+    },
     "bounds": {
       "size": [
         0.984481,
@@ -3606,6 +5046,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-environment-cabinet-corner.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-environment-cabinet-corner.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6148,
+      "sha256": "5b998db1c7047e0468467ff7c68b7f662d6293ae9070050d8162b76f79aa401a",
+      "transparent": true,
+      "sourceBundleSha256": "0d0863501535976a4b11fd149e03a3ccca84f545b945b2034394ea4d73a9febb",
+      "cacheKey": "38a3c22a6f80879ed1fbb75922e2b3739ba9d9b4d2a7cbb09d42974013fc5d57",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.052541,
+        "alphaBounds": {
+          "x": 77,
+          "y": 113,
+          "width": 367,
+          "height": 332,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-environment-cabinet-corner.webp"
+    },
     "bounds": {
       "size": [
         1.88296,
@@ -3657,6 +5137,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-environment-cabinet-doors.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-environment-cabinet-doors.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7114,
+      "sha256": "59fe3430443a429f61b5c3713cbf43649217649ceec897e1ca1bfdb0be6301ba",
+      "transparent": true,
+      "sourceBundleSha256": "e7906c380ca980167e7738e742087a52d3449b23caff0646aa7f61ee786bad9a",
+      "cacheKey": "6c4f16b40d0b5d0ca63d0b77f90e572d34466ded2508820835b56e7e9991d4ba",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 9.361469,
+        "alphaBounds": {
+          "x": 89,
+          "y": 140,
+          "width": 367,
+          "height": 272,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-environment-cabinet-doors.webp"
+    },
     "bounds": {
       "size": [
         4,
@@ -3708,6 +5228,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-environment-cabinet-shelves.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-environment-cabinet-shelves.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6656,
+      "sha256": "55aea193eba5463ae5e010a49fb410ab5e0308387da9e9d722c78eb917d4cc76",
+      "transparent": true,
+      "sourceBundleSha256": "8c7be3a593521046610454ba333f6a15e58a75ffff4f25efc4dea704df450ab5",
+      "cacheKey": "f75a9f8ba612da094a1f3e9f34e4376d406111a8ee7bd4d52273daed43940c65",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 9.384698,
+        "alphaBounds": {
+          "x": 87,
+          "y": 141,
+          "width": 367,
+          "height": 273,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-environment-cabinet-shelves.webp"
+    },
     "bounds": {
       "size": [
         4,
@@ -3759,6 +5319,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-environment-cabinet-shelves-2.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-environment-cabinet-shelves-2.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6552,
+      "sha256": "6292669cb2a83fb4a488cb7a30ded9825dec0604db44370786d7c069ff884578",
+      "transparent": true,
+      "sourceBundleSha256": "e1a1f82df862f6e9d15de13afbb0e471215da5ef694dae3866c171f04d473033",
+      "cacheKey": "6f9475616ab12def78cad562fb41b06725d892f79be824a587f1533ae195847f",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 9.384698,
+        "alphaBounds": {
+          "x": 87,
+          "y": 141,
+          "width": 367,
+          "height": 273,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-environment-cabinet-shelves-2.webp"
+    },
     "bounds": {
       "size": [
         4,
@@ -3810,6 +5410,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-environment-canfridge.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-environment-canfridge.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6668,
+      "sha256": "17f2c7450c2bd5a10ae0e81d689722028f961e3033a6ace406e79d6b18c67660",
+      "transparent": true,
+      "sourceBundleSha256": "cc6d74494ed96938e1818fb6fa169dc98a5efacf541c0acecdb9896aedffede9",
+      "cacheKey": "2d2acfb187bd63431dacbde4babcd13719335615c95341341a2d5d1b47a79436",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 10.848849,
+        "alphaBounds": {
+          "x": 151,
+          "y": 73,
+          "width": 209,
+          "height": 369,
+          "fill": 0.720703
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-environment-canfridge.webp"
+    },
     "bounds": {
       "size": [
         2.360016,
@@ -3861,6 +5501,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-environment-chair1.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-environment-chair1.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6060,
+      "sha256": "e1d2d1444b916bbe0a313fe9d110b5bbfaa4a1dd3051bf21e0718b89a21a0fdf",
+      "transparent": true,
+      "sourceBundleSha256": "99eb59c1c68bc9995720cf2f322466c59e736901b37eb3d0cbd2da93f0d5081b",
+      "cacheKey": "896ced5f56303aa143f7ddfa784f65e461c0a5b8a0c15be4972b193f10c60057",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 4.658268,
+        "alphaBounds": {
+          "x": 145,
+          "y": 74,
+          "width": 211,
+          "height": 368,
+          "fill": 0.71875
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-environment-chair1.webp"
+    },
     "bounds": {
       "size": [
         0.837386,
@@ -3912,6 +5592,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-environment-chair2.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-environment-chair2.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8460,
+      "sha256": "3af25b3ef7b74fad312d086b9ce57de8762408b8730c0de8fc46a4b3f31c61b1",
+      "transparent": true,
+      "sourceBundleSha256": "841a31d5aa03c415d84fac283d625d9438e33b1c52498b431c65973b3b4a76fa",
+      "cacheKey": "94ab86ae26914466ed3f075a0fcf9b29f715d8c5ad60c252d8d4ddb6ce410dd7",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.272262,
+        "alphaBounds": {
+          "x": 108,
+          "y": 96,
+          "width": 306,
+          "height": 367,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-environment-chair2.webp"
+    },
     "bounds": {
       "size": [
         0.982549,
@@ -3963,6 +5683,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-environment-chukamansteamer.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-environment-chukamansteamer.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8758,
+      "sha256": "548523a32a2576ae9f7c78aeded1a706006e1544ab0d5098e897b6561f8c5559",
+      "transparent": true,
+      "sourceBundleSha256": "bf842b785160109143ab5fa08c57f9f1eab95f13b2f28c6655c63bd599c14982",
+      "cacheKey": "8cf40dd967c1846bd5eb2743da23bfcb27ff71569a3ac1021630d650da6afcdd",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.366885,
+        "alphaBounds": {
+          "x": 68,
+          "y": 137,
+          "width": 383,
+          "height": 311,
+          "fill": 0.748047
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-environment-chukamansteamer.webp"
+    },
     "bounds": {
       "size": [
         1.105594,
@@ -4014,6 +5774,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-environment-counter-corner.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-environment-counter-corner.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8568,
+      "sha256": "9439a38116de0cd07ff2c4b1b444cfb3743f447b0ba8c6b3f57dcffe11a3b7a5",
+      "transparent": true,
+      "sourceBundleSha256": "9ef4d0e865dca793fe945f8ffd152eb56179f03cc7184cd379f1f54fdea99bb6",
+      "cacheKey": "79d628b4a24e857aca289c0fb6a6b67780b95a148adeac258be23b11bdce6161",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 9.44759,
+        "alphaBounds": {
+          "x": 73,
+          "y": 124,
+          "width": 366,
+          "height": 257,
+          "fill": 0.714844
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-environment-counter-corner.webp"
+    },
     "bounds": {
       "size": [
         2.882916,
@@ -4065,6 +5865,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-environment-counter-door.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-environment-counter-door.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6826,
+      "sha256": "2424497b2c94b8a15e0ec67b4853569ec0d9005e0c5dc607e8df1b2534c24a31",
+      "transparent": true,
+      "sourceBundleSha256": "8569c1fe11687e951fd645cfc5138c21920cc2b6aedbdf0e98587d8b640eb513",
+      "cacheKey": "174d2127f550da0216bfc5652d412901bade75b327b949fd56b7fa6ce65daffe",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 9.500846,
+        "alphaBounds": {
+          "x": 87,
+          "y": 125,
+          "width": 366,
+          "height": 311,
+          "fill": 0.714844
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-environment-counter-door.webp"
+    },
     "bounds": {
       "size": [
         4,
@@ -4116,6 +5956,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-environment-counter-doors.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-environment-counter-doors.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8080,
+      "sha256": "c3568e88de5787d1087e381292b3016e501d363425f4364a6ae22a016f35b7b0",
+      "transparent": true,
+      "sourceBundleSha256": "fa9192a1f3b03840ad6f6cdb099f802867937a056c1a5fd1273cc8034326d1a6",
+      "cacheKey": "0ad9c87455c6fb6e464e7bb7ed66e3b1310eb9d7704f68759ca052c203102852",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 9.500848,
+        "alphaBounds": {
+          "x": 87,
+          "y": 124,
+          "width": 366,
+          "height": 303,
+          "fill": 0.714844
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-environment-counter-doors.webp"
+    },
     "bounds": {
       "size": [
         4.000001,
@@ -4167,6 +6047,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-environment-counter-drawers.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-environment-counter-drawers.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8578,
+      "sha256": "a6474f922093f12c3f6db603ee609c57c064d6a5dd46cff626b9260bc474464c",
+      "transparent": true,
+      "sourceBundleSha256": "d1363e109798f37cec0af23d72587b7d95d3286c4e5c762a061daa9bcee46e1c",
+      "cacheKey": "dbf59afc22d48562a430a0d2bf4d07cee8922f9e7f282073c35229600c96360a",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 9.500848,
+        "alphaBounds": {
+          "x": 87,
+          "y": 124,
+          "width": 366,
+          "height": 303,
+          "fill": 0.714844
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-environment-counter-drawers.webp"
+    },
     "bounds": {
       "size": [
         4.000001,
@@ -4218,6 +6138,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-environment-counter-end.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-environment-counter-end.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7044,
+      "sha256": "9d183c7efe27c6db61d6ef4704bf4043b1ff32d13f71160adc5b665a9c6db182",
+      "transparent": true,
+      "sourceBundleSha256": "02b6d00e0e2d7973dfeb8bd459cf9dce216aad1f205289d98b9846b06d38d7e3",
+      "cacheKey": "098065e326771967c5e2bf73aa82597097de2fae395b2e4d3040bd50f365429c",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.107707,
+        "alphaBounds": {
+          "x": 91,
+          "y": 90,
+          "width": 325,
+          "height": 368,
+          "fill": 0.71875
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-environment-counter-end.webp"
+    },
     "bounds": {
       "size": [
         1.462106,
@@ -4269,6 +6229,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-environment-counter-sink.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-environment-counter-sink.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8956,
+      "sha256": "8eafc17eefac1a3ec0f47e0dc8cc7d9df1daf80f0035cc846fbe0f0a8ab6983c",
+      "transparent": true,
+      "sourceBundleSha256": "a3645f3fc89113e0db6dc5c611cd045f8ead928db4d6e285c0d5cd1f7b037e22",
+      "cacheKey": "19fade0ac14f0d21a0abc974c052688293ffceec32451581a37aecb69d0dd72d",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 9.407931,
+        "alphaBounds": {
+          "x": 87,
+          "y": 135,
+          "width": 367,
+          "height": 308,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-environment-counter-sink.webp"
+    },
     "bounds": {
       "size": [
         4.000001,
@@ -4320,6 +6320,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-environment-counter-straight.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-environment-counter-straight.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8584,
+      "sha256": "f70606729a72d0951f47cb5f89b342c05ac72a9f8f103e3ff9942c7a37ecf7ad",
+      "transparent": true,
+      "sourceBundleSha256": "3d1c98cc85a444671e15646445586c496e67dc280405b52755664163aa613d50",
+      "cacheKey": "89855b068063a9e5f3520aef2b9d1517df91308ba8614af0b5c2ec2c5f69a8ed",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 9.500848,
+        "alphaBounds": {
+          "x": 87,
+          "y": 124,
+          "width": 366,
+          "height": 303,
+          "fill": 0.714844
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-environment-counter-straight.webp"
+    },
     "bounds": {
       "size": [
         4.000001,
@@ -4371,6 +6411,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-environment-counter-straight-2.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-environment-counter-straight-2.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8180,
+      "sha256": "e0dfd45422eb18ff21ae91835205ca3c21bfaf9b38a567eec82471a4a95f0a98",
+      "transparent": true,
+      "sourceBundleSha256": "e1025b99a8d66f5329698f23069b1f556de22d85ffb55920d7ad113f1a7c8703",
+      "cacheKey": "7f1379b49507d8f4c23c6c5d79ffdf968fa17043e88ae78a6496fe0453dbfd2e",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 10.824928,
+        "alphaBounds": {
+          "x": 82,
+          "y": 132,
+          "width": 364,
+          "height": 256,
+          "fill": 0.710938
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-environment-counter-straight-2.webp"
+    },
     "bounds": {
       "size": [
         4.000001,
@@ -4422,6 +6502,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-environment-cuttingtable.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-environment-cuttingtable.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6024,
+      "sha256": "37ba815f193ef7b265816081f8572eacdbd6bb629cace525c92ba93d96ce912a",
+      "transparent": true,
+      "sourceBundleSha256": "83f0a5ea80cfd1e12a6f51c46885811e01cb3d2b135f0dd55ab444970eb12a19",
+      "cacheKey": "e815975a9717df89a019cc6191fdf2c1f85f2ee5ecc7298ed2da32707affdc1b",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 4.490186,
+        "alphaBounds": {
+          "x": 121,
+          "y": 168,
+          "width": 378,
+          "height": 199,
+          "fill": 0.738281
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-environment-cuttingtable.webp"
+    },
     "bounds": {
       "size": [
         2.097408,
@@ -4473,6 +6593,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-environment-fridge.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-environment-fridge.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6530,
+      "sha256": "dd6af4485c35829a5ced9b553bc4449a700c66f7713ea28b5dba04b36dfb7f64",
+      "transparent": true,
+      "sourceBundleSha256": "5c137deca395490a32dbffaaf7b1365654f7d929fd31d129b0be0c20edd90ec3",
+      "cacheKey": "9a0e666831f828de1546b15b9fada43a77a0c069c80475a95ea1a098d1c3d6a5",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 10.604435,
+        "alphaBounds": {
+          "x": 146,
+          "y": 71,
+          "width": 234,
+          "height": 369,
+          "fill": 0.720703
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-environment-fridge.webp"
+    },
     "bounds": {
       "size": [
         2.521708,
@@ -4524,6 +6684,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-environment-kitchenknives.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-environment-kitchenknives.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7548,
+      "sha256": "fc55832119874f883320bd7140b6e32a0ee3c572dcbd430cd58052e26a113d70",
+      "transparent": true,
+      "sourceBundleSha256": "f569819dc154f33f3a9d1c8fb3b3d8308152f369f59d3ee3c64f9a44878f6249",
+      "cacheKey": "eb0b071ccfcafdc82b29e206e2bca85418e807bc3e7c5285584e7257b8559a2d",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.44026,
+        "alphaBounds": {
+          "x": 134,
+          "y": 92,
+          "width": 230,
+          "height": 365,
+          "fill": 0.712891
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-environment-kitchenknives.webp"
+    },
     "bounds": {
       "size": [
         0.593748,
@@ -4575,6 +6775,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-environment-oven.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-environment-oven.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 12620,
+      "sha256": "52e78e03415c61e044dbd8af5b9358e056b966db8a2b94eda5ff2b4c1d5fb348",
+      "transparent": true,
+      "sourceBundleSha256": "23a6d8873d3612bba77cbf6b836ceb04941e1034a2778193e5f00e6030b60fd3",
+      "cacheKey": "98b3a454d22f9d8039065638c67e83154faeae3490e69c0fb3ce557839001549",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.405999,
+        "alphaBounds": {
+          "x": 92,
+          "y": 72,
+          "width": 361,
+          "height": 383,
+          "fill": 0.748047
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-environment-oven.webp"
+    },
     "bounds": {
       "size": [
         2.142354,
@@ -4626,6 +6866,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-environment-pan.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-environment-pan.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 4384,
+      "sha256": "de73f3220359af505c371da24e6779c14374fe872b7ce4a3a46544fdcc468285",
+      "transparent": true,
+      "sourceBundleSha256": "83ad1b5ce0bc7a5877a8391bb21e91a29841bfb7cc7922abe355d0379554f105",
+      "cacheKey": "8f1b1731c13a2a360efebcab507fc815d0e5cfafbf202daf5cdde02310f8a756",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 4.007654,
+        "alphaBounds": {
+          "x": 63,
+          "y": 168,
+          "width": 371,
+          "height": 190,
+          "fill": 0.724609
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-environment-pan.webp"
+    },
     "bounds": {
       "size": [
         1.251829,
@@ -4677,6 +6957,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-environment-plate.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-environment-plate.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 4890,
+      "sha256": "0df7d2964a35cd9359de026c50693a5cc766c20473614034372f6d7d2e286e36",
+      "transparent": true,
+      "sourceBundleSha256": "90d93ce1af2de0a77c2fc11f428d1a77609e216ead4e65a60a875e87ff7b2eb4",
+      "cacheKey": "5e28583e5b2f780247e48340d0735e4cde7a0672f8289aa1383691d2507c520c",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.175629,
+        "alphaBounds": {
+          "x": 61,
+          "y": 168,
+          "width": 391,
+          "height": 177,
+          "fill": 0.763672
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-environment-plate.webp"
+    },
     "bounds": {
       "size": [
         1.000818,
@@ -4728,6 +7048,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-environment-pot-1-empty.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-environment-pot-1-empty.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6152,
+      "sha256": "a644fa49fe6fc941b3b1cd66d1cacbf9b6487eaee931a6d07cd06d9c28e3577a",
+      "transparent": true,
+      "sourceBundleSha256": "29f21ec20052b93a3e81827ed6ddd15dcc7839a158f58d57b2efffc1f876160e",
+      "cacheKey": "0224dc4a6fa39f8d448ca6daf053d125ac587fc770fdc85541293b93a7f3d97d",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.39094,
+        "alphaBounds": {
+          "x": 97,
+          "y": 127,
+          "width": 343,
+          "height": 273,
+          "fill": 0.669922
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-environment-pot-1-empty.webp"
+    },
     "bounds": {
       "size": [
         1.58394,
@@ -4779,6 +7139,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-environment-pot-1-filled.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-environment-pot-1-filled.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6894,
+      "sha256": "b0ea025323eb21c0fab6f52c7263f98a237487e9b40f545e7a2b1192083a3e00",
+      "transparent": true,
+      "sourceBundleSha256": "686cfe7726d4cfa9f61064efa72d7b876f458b6af7d5c693be36fbdb3419eae3",
+      "cacheKey": "ff5631d4be236f2fbbb7b42b0a0fca192461ead59fe45cf8e94fff166fd136dc",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.39094,
+        "alphaBounds": {
+          "x": 97,
+          "y": 127,
+          "width": 343,
+          "height": 273,
+          "fill": 0.669922
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-environment-pot-1-filled.webp"
+    },
     "bounds": {
       "size": [
         1.58394,
@@ -4830,6 +7230,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-environment-pot-2-empty.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-environment-pot-2-empty.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6228,
+      "sha256": "f4a25858cba755d0a7295b038ae5b2e79c9a030e2fe3a0d01629e75fda36006d",
+      "transparent": true,
+      "sourceBundleSha256": "a2a4d99936e552e93c3215358f5c11fa9cc97ee53da7d8f72ad0b3805ac66132",
+      "cacheKey": "37ea86e9bc7bc2e866c5e2d473a605ed22dbeeec9415b69f61a43400d9d98860",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.325759,
+        "alphaBounds": {
+          "x": 110,
+          "y": 74,
+          "width": 323,
+          "height": 368,
+          "fill": 0.71875
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-environment-pot-2-empty.webp"
+    },
     "bounds": {
       "size": [
         1.403627,
@@ -4881,6 +7321,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-environment-pot-2-filled.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-environment-pot-2-filled.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6848,
+      "sha256": "c13dfb36b1d472eba4330bb5cef84c83946806482f905532dc6c8d9d4b2713a7",
+      "transparent": true,
+      "sourceBundleSha256": "b25d280175d480af7e614168aafee1686eeb8033067a00adeaca634425915987",
+      "cacheKey": "b3874bf218aba1a6dd88ffae8333dadb3a3e7dccb7b167e6dfd3ce8868764fd0",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.325759,
+        "alphaBounds": {
+          "x": 110,
+          "y": 74,
+          "width": 323,
+          "height": 368,
+          "fill": 0.71875
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-environment-pot-2-filled.webp"
+    },
     "bounds": {
       "size": [
         1.403627,
@@ -4932,6 +7412,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-environment-sofa.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-environment-sofa.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6958,
+      "sha256": "754ad1c7a6c6abfabf2bc3d4bc5f7f7a451746911825f086012c4951cba8d596",
+      "transparent": true,
+      "sourceBundleSha256": "fea3ec969d3f588f3d0a5b7288aa12d696c409db57350c558e26c65066a5c4d4",
+      "cacheKey": "20b50ee8dd9b05316e49a519c446358664490306b1b0d4308d81bddf404030cf",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 8.356108,
+        "alphaBounds": {
+          "x": 89,
+          "y": 129,
+          "width": 382,
+          "height": 302,
+          "fill": 0.746094
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-environment-sofa.webp"
+    },
     "bounds": {
       "size": [
         3.903216,
@@ -4983,6 +7503,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-environment-stool.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-environment-stool.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6380,
+      "sha256": "e38321bcdafac8e245ba69c4a44beb794048afc92971dc846fdf7a9a01d85a56",
+      "transparent": true,
+      "sourceBundleSha256": "b8661dff4537b92d3a980e66af0218c6a765d769a9e5e9afb7927de4420710e8",
+      "cacheKey": "e5a3675fd0a9e15bdb6e0ad45a884c2c16432c29ffc56d1c6597eaffbbc943a5",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.785278,
+        "alphaBounds": {
+          "x": 74,
+          "y": 93,
+          "width": 364,
+          "height": 343,
+          "fill": 0.710938
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-environment-stool.webp"
+    },
     "bounds": {
       "size": [
         1.141932,
@@ -5034,6 +7594,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-environment-table.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-environment-table.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9418,
+      "sha256": "4b0f9ab17aaa71c0dbe9a1b0abf84f37b9c8a2874771ce582c56b1236dca0f40",
+      "transparent": true,
+      "sourceBundleSha256": "36b4f9f403d32495af3b217660843621256bc6f61f520059c63bfaa4e0e42a82",
+      "cacheKey": "75e07c574ca9f24a041a26e17c71309b834812613806f2f1fc02e81dcdc2750d",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.292066,
+        "alphaBounds": {
+          "x": 67,
+          "y": 108,
+          "width": 378,
+          "height": 353,
+          "fill": 0.738281
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-environment-table.webp"
+    },
     "bounds": {
       "size": [
         2.177098,
@@ -5085,6 +7685,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-environment-toriigate.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-environment-toriigate.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7808,
+      "sha256": "76d74d786b3f0abf2f6931831457bbfcb52e73148437567346f001e96a66478d",
+      "transparent": true,
+      "sourceBundleSha256": "47b1e4f6e01fec91ee1200428be6eea5ea4f3ffba76ddbd1b4e5001fbb40af9e",
+      "cacheKey": "16724480cebaacd694293789b726d246a8a2288fb74ca44df694bbac9c360bf8",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 13.967679,
+        "alphaBounds": {
+          "x": 139,
+          "y": 68,
+          "width": 286,
+          "height": 370,
+          "fill": 0.722656
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-environment-toriigate.webp"
+    },
     "bounds": {
       "size": [
         5.726588,
@@ -5136,6 +7776,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-environment-woodenbeam.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-environment-woodenbeam.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 2148,
+      "sha256": "36335e16573cd855c7cb7c741abab4175302a7b50bc08aa9a828af4d5f2eb2e4",
+      "transparent": true,
+      "sourceBundleSha256": "76f30c8ddf7f47e68f8d7cbbe85d21909722641e7787ebdb5e564aa159f65f68",
+      "cacheKey": "57654da6edcf0d965c3bc064bd368a28b3d130114aa9489e147b3e4c6fb55b2b",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 11.026192,
+        "alphaBounds": {
+          "x": 234,
+          "y": 61,
+          "width": 44,
+          "height": 359,
+          "fill": 0.701172
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-environment-woodenbeam.webp"
+    },
     "bounds": {
       "size": [
         0.374336,
@@ -5187,6 +7867,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-environment-woodenboard.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-environment-woodenboard.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 5238,
+      "sha256": "892f67211de2feee9ade24e444b79ba3968ed4a7a280747493d0ee703a750ca3",
+      "transparent": true,
+      "sourceBundleSha256": "ff048208c5963c82dec410697b932a168942c28e562b9e59dbd79b0898666ccc",
+      "cacheKey": "a68e812264d5bd902ea2a6afc68371a026779c8c3c84f9a8f16f306dab444b5d",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.209659,
+        "alphaBounds": {
+          "x": 79,
+          "y": 168,
+          "width": 368,
+          "height": 201,
+          "fill": 0.71875
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-environment-woodenboard.webp"
+    },
     "bounds": {
       "size": [
         0.825364,
@@ -5238,6 +7958,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-floor-kitchen1.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-floor-kitchen1.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8990,
+      "sha256": "0b0d021294358102fa73b9bea3f305ff0b3d82c9fdaa3bffcf2f4f4fd308eedb",
+      "transparent": true,
+      "sourceBundleSha256": "de6fd8c805255b7804b464051c13049c0dceb5998fd651077a1d13d64c1751ef",
+      "cacheKey": "5b97fdaedb3cc91255a794ceacf151e54e1a19b113514c97c366189566f8a7c2",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 12.606625,
+        "alphaBounds": {
+          "x": 72,
+          "y": 174,
+          "width": 368,
+          "height": 202,
+          "fill": 0.71875
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-floor-kitchen1.webp"
+    },
     "bounds": {
       "size": [
         4,
@@ -5289,6 +8049,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-floor-kitchen2.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-floor-kitchen2.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8564,
+      "sha256": "4428892e1aeb22e1239142b599329c2eee4f72b693ee7fed177aa7de79d1be19",
+      "transparent": true,
+      "sourceBundleSha256": "b36d1df4fc0b93b6e9888646f1725d507f2194c80f7d6bb79e03faeda039ad73",
+      "cacheKey": "59e85c1aa891abaa8c53a3e3e019d0819c1b4e8d82ea6d48e19e710c73a73d5b",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 12.606625,
+        "alphaBounds": {
+          "x": 72,
+          "y": 174,
+          "width": 368,
+          "height": 202,
+          "fill": 0.71875
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-floor-kitchen2.webp"
+    },
     "bounds": {
       "size": [
         4,
@@ -5340,6 +8140,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-floor-tiles.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-floor-tiles.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9788,
+      "sha256": "a7c8b5f9da38640f5f7dba3501faa23e3c17315fa2809b69de83cfde30c8d089",
+      "transparent": true,
+      "sourceBundleSha256": "63a99c356c3d558243366c35ba4365603efdcf3f27c0f73be316ebb659de3e09",
+      "cacheKey": "a73867780ba7be70cdcdb0116d08b8be19e34671bc6c4a6728093bd0d097662c",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 12.575265,
+        "alphaBounds": {
+          "x": 72,
+          "y": 176,
+          "width": 368,
+          "height": 204,
+          "fill": 0.71875
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-floor-tiles.webp"
+    },
     "bounds": {
       "size": [
         4,
@@ -5391,6 +8231,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-floor-wood.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-floor-wood.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8150,
+      "sha256": "16f9077d4f992f015868a0098f494f29307010e77122fc180f3ab5940e4b9c67",
+      "transparent": true,
+      "sourceBundleSha256": "7260c5a805941e7a4c97b9b4fb129b8ef17da6832a2ccd0cfd6c2e7696831c19",
+      "cacheKey": "154f23ede8b41c209a9a70201a4a5f561bd0f046d5c7896576d5ffd650168a3d",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 12.575265,
+        "alphaBounds": {
+          "x": 72,
+          "y": 172,
+          "width": 368,
+          "height": 208,
+          "fill": 0.71875
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-floor-wood.webp"
+    },
     "bounds": {
       "size": [
         4,
@@ -5442,6 +8322,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-floor-wood-broken.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-floor-wood-broken.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8850,
+      "sha256": "ab3327c6fec06cf3d9ce720d7611b8b79c29238f3d410b5423443dfc1397df8b",
+      "transparent": true,
+      "sourceBundleSha256": "bf335ade3ddc0a707b4c793bbad6e56df4b95f3d932e08283758efca211ce2ff",
+      "cacheKey": "10a2905f9dc862bee1cf3a8878594d9fdbc4d33df164343c43bae85533ac941e",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 11.560463,
+        "alphaBounds": {
+          "x": 58,
+          "y": 181,
+          "width": 396,
+          "height": 232,
+          "fill": 0.773438
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-floor-wood-broken.webp"
+    },
     "bounds": {
       "size": [
         4,
@@ -5493,6 +8413,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-truck.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-truck.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 14802,
+      "sha256": "6f4a746b7692a7fd947e92fc6d53c91d27496181ccfef9b31f1ca5945c6d74c4",
+      "transparent": true,
+      "sourceBundleSha256": "f25df21db90727b29dac95a4187b166cf47067a334ff5567fae6b7dc9dfe1c5e",
+      "cacheKey": "6c9b8e27a78cb755eff2fc3a9fb58d6e2ae3104e8565e86116629787c56d4c07",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 20.070327,
+        "alphaBounds": {
+          "x": 80,
+          "y": 94,
+          "width": 348,
+          "height": 364,
+          "fill": 0.710938
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-truck.webp"
+    },
     "bounds": {
       "size": [
         5.0953,
@@ -5544,6 +8504,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-wall-door.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-wall-door.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8968,
+      "sha256": "9d4ea28f1cfb2566474aa54137d29cdaf35ae9ebca50d88ae348dc6fd911460e",
+      "transparent": true,
+      "sourceBundleSha256": "5c5de223b24d1fd7398c672cbbe03ddc73f7832d0b229a4f50a46d265f1a6ae1",
+      "cacheKey": "85888f54d5ba5f2744f5ec8b33e6cc5027f1fb6937381b4f141a7f7bc142eb9d",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 13.391701,
+        "alphaBounds": {
+          "x": 151,
+          "y": 73,
+          "width": 232,
+          "height": 369,
+          "fill": 0.720703
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-wall-door.webp"
+    },
     "bounds": {
       "size": [
         4,
@@ -5595,6 +8595,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-wall-normal.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-wall-normal.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6710,
+      "sha256": "52d0c3037dacacef49653693f3dfd038e0015534c1b4cdc309310d1254d74138",
+      "transparent": true,
+      "sourceBundleSha256": "87fac09fc94e615c0974ae9fd6c10a8db5b9246c8785b197828e79b1243574c0",
+      "cacheKey": "ea3a9cb53ebbd4a29c205c58e2e3c8900f8309d0e1a8da554bbbce8910680773",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 13.337604,
+        "alphaBounds": {
+          "x": 151,
+          "y": 73,
+          "width": 229,
+          "height": 369,
+          "fill": 0.720703
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-wall-normal.webp"
+    },
     "bounds": {
       "size": [
         4,
@@ -5646,6 +8686,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-wall-redwood.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-wall-redwood.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9972,
+      "sha256": "f8f57b85c0ea5b7cdf279042e3a2949872e24efeb84d302e9379c6e119585951",
+      "transparent": true,
+      "sourceBundleSha256": "c22df8e833a9d7cfdd719a1ededdc5b6fff459972546a764406c7097856419c8",
+      "cacheKey": "95e4515693bb1cbffc6e6306974ba4f9ef22d28e80f548e144af00360b45c10a",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 12.652536,
+        "alphaBounds": {
+          "x": 162,
+          "y": 74,
+          "width": 207,
+          "height": 369,
+          "fill": 0.720703
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-wall-redwood.webp"
+    },
     "bounds": {
       "size": [
         3.748749,
@@ -5697,6 +8777,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-wall-shelves.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-wall-shelves.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7864,
+      "sha256": "c750cae7942b9b9bebcbcd98b7ea05b78abbd970e0893fb4139f51bfd63ce493",
+      "transparent": true,
+      "sourceBundleSha256": "ea2e2cf5014952fd7f662a873fc62920c534e9fa84f51af2bfe481d869c69f6b",
+      "cacheKey": "272837552f2fd4438a608744f986febe6bfffc0a5225ef97beb16588122d1999",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 13.247282,
+        "alphaBounds": {
+          "x": 152,
+          "y": 71,
+          "width": 233,
+          "height": 369,
+          "fill": 0.720703
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-wall-shelves.webp"
+    },
     "bounds": {
       "size": [
         4,
@@ -5748,6 +8868,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-wall-shoji.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-wall-shoji.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8846,
+      "sha256": "12a617d40746d565cd8a518c8337628512e824b92b472c785e7822d0481b42e4",
+      "transparent": true,
+      "sourceBundleSha256": "a65c36b1a38430ba44e0b03b7d98aaac3fb669fd4f1d63392ddcbb4c6eaf3a58",
+      "cacheKey": "8ab62afc0ca3d362c1588ebc55a6cce06d33aa4ba9005400004a448ae58a1fd2",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 13.421727,
+        "alphaBounds": {
+          "x": 152,
+          "y": 74,
+          "width": 227,
+          "height": 370,
+          "fill": 0.722656
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-wall-shoji.webp"
+    },
     "bounds": {
       "size": [
         4,
@@ -5799,6 +8959,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-wall-shoji-interior.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-wall-shoji-interior.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8748,
+      "sha256": "136e0bc2e3fb0be21a9fbe5fad9d2420fd20e553e938c2577d4d523386087aaa",
+      "transparent": true,
+      "sourceBundleSha256": "9eb6fe7690cbde61085087e879c9e3c98cb9136ba1ee39f1a53fff19447a2736",
+      "cacheKey": "0e1ac76da5dbd966e88070328f5461166d8b3de06ef5e80b97e6060fae92511c",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 12.007363,
+        "alphaBounds": {
+          "x": 146,
+          "y": 79,
+          "width": 243,
+          "height": 368,
+          "fill": 0.71875
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-wall-shoji-interior.webp"
+    },
     "bounds": {
       "size": [
         4,
@@ -5850,6 +9050,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-environment-gltf-wall-stains.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-environment-gltf-wall-stains.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7082,
+      "sha256": "438e4df7f367ba1bfc2ccce7f71dfe53035e23ef2287231f236965f49b2d3d1d",
+      "transparent": true,
+      "sourceBundleSha256": "c4e33a58d47341cde3ebdede2ea6964c402d68e0bf04c606af7b1b4be806720e",
+      "cacheKey": "7009dfe2a9541152d3d202ded9b26db3c9890f58ca03dcbab111e7e4e8bc1365",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 13.337604,
+        "alphaBounds": {
+          "x": 151,
+          "y": 73,
+          "width": 229,
+          "height": 369,
+          "fill": 0.720703
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-environment-gltf-wall-stains.webp"
+    },
     "bounds": {
       "size": [
         4,
@@ -5901,6 +9141,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-food-gltf-food-chukaman.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-food-gltf-food-chukaman.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7306,
+      "sha256": "e5bb5236c13ee6dd252b4ecf568acd2134a254eb1f9f43b8e0b1d7df53c0c500",
+      "transparent": true,
+      "sourceBundleSha256": "708bdba965deaa7e759460faeeebc7a71556a794812360432b1173dfd5f83065",
+      "cacheKey": "4915a7273d12fe961b2b05a3068b1f6f6f7317a3af6d5854dc079924328d02b0",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 0.575025,
+        "alphaBounds": {
+          "x": 58,
+          "y": 69,
+          "width": 396,
+          "height": 380,
+          "fill": 0.773438
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-food-gltf-food-chukaman.webp"
+    },
     "bounds": {
       "size": [
         0.268596,
@@ -5952,6 +9232,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-food-gltf-food-dango.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-food-gltf-food-dango.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8108,
+      "sha256": "6ca96eff9cf8dc275da2a4b8393a97a6505f2dd14484936b9a7cd36c9758af12",
+      "transparent": true,
+      "sourceBundleSha256": "d2a03994c1d2f9331e12fa83f5ca9e5fedee03ee3129a949154403f50660591a",
+      "cacheKey": "433122151c0a8b1722fd9dffad3916c9d40d9d3e8a2f4b5c8398516c2535b9d9",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 1.957499,
+        "alphaBounds": {
+          "x": 96,
+          "y": 153,
+          "width": 360,
+          "height": 276,
+          "fill": 0.703125
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-food-gltf-food-dango.webp"
+    },
     "bounds": {
       "size": [
         0.914366,
@@ -6003,6 +9323,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-food-gltf-food-ebinigiri.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-food-gltf-food-ebinigiri.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8568,
+      "sha256": "5fe2a0079e6da05bcddf5a91e71f059d04d5d06559f815299cedc46c3d175c73",
+      "transparent": true,
+      "sourceBundleSha256": "0545420f69d0b3e6f6a1236173d6a4b0eca60acc4ee84f6118168f1b333b5560",
+      "cacheKey": "d5cc922b720f33945a0353c529cf2a5b7a93a08be6680b3085ae35c6cecbdd80",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 1.674222,
+        "alphaBounds": {
+          "x": 78,
+          "y": 168,
+          "width": 348,
+          "height": 220,
+          "fill": 0.679688
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-food-gltf-food-ebinigiri.webp"
+    },
     "bounds": {
       "size": [
         0.345584,
@@ -6054,6 +9414,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-food-gltf-food-gyoza.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-food-gltf-food-gyoza.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7126,
+      "sha256": "94ebe571bc62d1ae290c453c88a3dc7abefd94ac195a4fc07b65d2ff1c47a758",
+      "transparent": true,
+      "sourceBundleSha256": "90310862fccc9c2a477f80f74ac8d197199cffa877e353af5f1a15a762a6143a",
+      "cacheKey": "1d0884083f5e644073e7f0e22a29f0265798db36d2a95c121d0d3a2755ddd324",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 0.928057,
+        "alphaBounds": {
+          "x": 52,
+          "y": 135,
+          "width": 371,
+          "height": 304,
+          "fill": 0.724609
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-food-gltf-food-gyoza.webp"
+    },
     "bounds": {
       "size": [
         0.296854,
@@ -6105,6 +9505,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-food-gltf-food-maguronigiri.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-food-gltf-food-maguronigiri.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7266,
+      "sha256": "7d2f402f752119483be29c6045686e769750e1634b64e3974386f4dfd0c7ff9b",
+      "transparent": true,
+      "sourceBundleSha256": "ff6b408afae6d3887b8bb64296e145de59d83595b31d5bae8c541eb520c0adb6",
+      "cacheKey": "7ba299d248a5e75cc46bfab19d49e8d19b8c7bfc07e67f8cd3ff14dce57311a2",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 1.392658,
+        "alphaBounds": {
+          "x": 67,
+          "y": 143,
+          "width": 355,
+          "height": 261,
+          "fill": 0.693359
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-food-gltf-food-maguronigiri.webp"
+    },
     "bounds": {
       "size": [
         0.374684,
@@ -6156,6 +9596,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-food-gltf-food-octopusnigiri.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-food-gltf-food-octopusnigiri.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 11648,
+      "sha256": "61e7fbd4c2c613375f8c7a104b263ae59b96c57ac23470266f111e4e0e5343f8",
+      "transparent": true,
+      "sourceBundleSha256": "a86a32562063b9f5a4c178d2b921e53eda2b796de5112b0af42c6928b2a071a3",
+      "cacheKey": "b19de2a0b54e88c4365399bd7d00f81d3cd7a1c02eaf1311b8c227b4e5a5e2fb",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 1.624925,
+        "alphaBounds": {
+          "x": 95,
+          "y": 106,
+          "width": 350,
+          "height": 307,
+          "fill": 0.683594
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-food-gltf-food-octopusnigiri.webp"
+    },
     "bounds": {
       "size": [
         0.424666,
@@ -6207,6 +9687,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-food-gltf-food-onigiri.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-food-gltf-food-onigiri.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 5848,
+      "sha256": "f8a4e727555dc0a005c0706dee655b4c4434f42222073b99b3e0ecdfab8148f7",
+      "transparent": true,
+      "sourceBundleSha256": "63739e30d4f9d13a56ad34ff68368352381995bdf37610fb4aa32ba620b3934e",
+      "cacheKey": "02fd015c45c79d516ae0543536bb7245b033538a4395f43db31bc62e95ab6051",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 1.253614,
+        "alphaBounds": {
+          "x": 116,
+          "y": 101,
+          "width": 309,
+          "height": 360,
+          "fill": 0.703125
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-food-gltf-food-onigiri.webp"
+    },
     "bounds": {
       "size": [
         0.585575,
@@ -6258,6 +9778,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-food-gltf-food-ramen.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-food-gltf-food-ramen.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 11292,
+      "sha256": "32c158725ef9537a20dfc7e406e62ff9434abd8e9ff7caa7f80105ff3130be33",
+      "transparent": true,
+      "sourceBundleSha256": "e6529754ea5581349affe496e1fd1779ed9f197c461ce0c5b5e071e748c06143",
+      "cacheKey": "25893c8e84c189cc4f89521191e1554628a0709d977c69832f3cf9a4b0449f9f",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.245498,
+        "alphaBounds": {
+          "x": 65,
+          "y": 113,
+          "width": 371,
+          "height": 283,
+          "fill": 0.724609
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-food-gltf-food-ramen.webp"
+    },
     "bounds": {
       "size": [
         0.993354,
@@ -6309,6 +9869,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-food-gltf-food-roll.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-food-gltf-food-roll.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6576,
+      "sha256": "1cf8e34bb1d0aed8b5a19525bd96aa56b3d5bc16aad4321499dd1922ab1fdb6f",
+      "transparent": true,
+      "sourceBundleSha256": "96ed1ff97a72984e3161da7765d6c3d92b520952f96477751d41e2b2727df1de",
+      "cacheKey": "c1a2dc22af2dfa61214e44da4a06ec313ca453a0d6576562596641eb4afd3d59",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 1.215386,
+        "alphaBounds": {
+          "x": 95,
+          "y": 80,
+          "width": 337,
+          "height": 379,
+          "fill": 0.740234
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-food-gltf-food-roll.webp"
+    },
     "bounds": {
       "size": [
         0.4333,
@@ -6360,6 +9960,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-food-gltf-food-salmonnigiri.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-food-gltf-food-salmonnigiri.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9610,
+      "sha256": "392d94451dc73ebc52551830004a7ae6cf8f75e418a9f609d4f8fb7ffcba8403",
+      "transparent": true,
+      "sourceBundleSha256": "94145e66288c9842ffd0e428c440b4dd007f388a1da5fc48c17b0550a02d11b1",
+      "cacheKey": "820b58369888b1ee02f3e89b4887ae209556b92e5d7493f3e0d974c1041cb46f",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 1.394016,
+        "alphaBounds": {
+          "x": 75,
+          "y": 145,
+          "width": 344,
+          "height": 258,
+          "fill": 0.671875
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-food-gltf-food-salmonnigiri.webp"
+    },
     "bounds": {
       "size": [
         0.355663,
@@ -6411,6 +10051,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-food-gltf-food-salmonroll.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-food-gltf-food-salmonroll.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 11644,
+      "sha256": "137d6a26f2013d6127fc30ccb69e6a54ec6b5ed9e7b409cf1fcbc9a10919bac3",
+      "transparent": true,
+      "sourceBundleSha256": "d0170c3ba22e9c685c05f952a339dd1c378925ee550f69c6d8fdca75e525df3c",
+      "cacheKey": "213a5afd1bed5df2fc943781cd7ac538c8159a3e0963dd921f9a96b8d9b8adac",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 1.177397,
+        "alphaBounds": {
+          "x": 98,
+          "y": 78,
+          "width": 327,
+          "height": 367,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-food-gltf-food-salmonroll.webp"
+    },
     "bounds": {
       "size": [
         0.465555,
@@ -6462,6 +10142,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-food-gltf-food-seaurchinroll.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-food-gltf-food-seaurchinroll.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7408,
+      "sha256": "0cbd6212cf63c9094bdb5b02e9a6f928b4f329805fb1aefe41922e676ec48177",
+      "transparent": true,
+      "sourceBundleSha256": "13b58c8b48069a6a19d841d1c841242c5f79955b586f6742c6736bbcfee4f3a0",
+      "cacheKey": "05e235b80cf3d4da9b35b23d515b11a439c2b07f15fc9c288eb633e661d9cd71",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 1.342293,
+        "alphaBounds": {
+          "x": 98,
+          "y": 97,
+          "width": 318,
+          "height": 384,
+          "fill": 0.75
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-food-gltf-food-seaurchinroll.webp"
+    },
     "bounds": {
       "size": [
         0.492806,
@@ -6513,6 +10233,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-food-gltf-food-tamagonigiri.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-food-gltf-food-tamagonigiri.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8154,
+      "sha256": "2e23dace996b61dbac793e170cfaf063d99ab1eb240eff8e91b89347ed756b5c",
+      "transparent": true,
+      "sourceBundleSha256": "48350eff9ff958f0793e2d666c2e931dc05b61f8104c67c8ec04427a903155f0",
+      "cacheKey": "40bb20702dc7cd828d873af19a336ce2d9af5e57a728275dbbbcad3c224d46d5",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 1.394016,
+        "alphaBounds": {
+          "x": 73,
+          "y": 150,
+          "width": 348,
+          "height": 239,
+          "fill": 0.679688
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-food-gltf-food-tamagonigiri.webp"
+    },
     "bounds": {
       "size": [
         0.355663,
@@ -6564,6 +10324,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-food-gltf-food-udon.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-food-gltf-food-udon.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 12424,
+      "sha256": "2d85ab330890463b407a27ddd2edc3f232b99a9edef168233e6e51f196d44146",
+      "transparent": true,
+      "sourceBundleSha256": "f5d8d5e20a88f75c8cf4dc508fca86fbde3531d1e1b6da4ca6375af0600a6840",
+      "cacheKey": "0224b42569a526c380cc5550a8b8d2eedfd0ac0a76c8be6598c1861f339cdd86",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.137729,
+        "alphaBounds": {
+          "x": 63,
+          "y": 108,
+          "width": 396,
+          "height": 299,
+          "fill": 0.773438
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-food-gltf-food-udon.webp"
+    },
     "bounds": {
       "size": [
         0.973041,
@@ -6615,6 +10415,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-food-gltf-food-wasabi.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-food-gltf-food-wasabi.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6120,
+      "sha256": "09e561204c6ce9cd9b8828440a2f82f67eb27c1c9ed60a67468f1b012020e484",
+      "transparent": true,
+      "sourceBundleSha256": "d0d7b157f7316e6ee64edd914526088fc9b48660c8b4ee2751aba94c84c27ef7",
+      "cacheKey": "6bf883e2da3f18c576ca3d7975d92c30948419d445f88edb4eafb4faf32011df",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 0.574092,
+        "alphaBounds": {
+          "x": 126,
+          "y": 87,
+          "width": 261,
+          "height": 381,
+          "fill": 0.744141
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-food-gltf-food-wasabi.webp"
+    },
     "bounds": {
       "size": [
         0.207878,
@@ -6666,6 +10506,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-avocado.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-avocado.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7662,
+      "sha256": "5f598aeb86d3c8c76a34d0e2b9503af1d07d8ab2b0b12acc599454729651aba4",
+      "transparent": true,
+      "sourceBundleSha256": "d3c43943bc086d6b6512a89f1b6454fab7521c98e722a1c623ab5776449f09df",
+      "cacheKey": "1338d0b9385c5755f110653af1f4ec2b2ba1fc595ed51e2482158b54464c1024",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 1.42001,
+        "alphaBounds": {
+          "x": 128,
+          "y": 69,
+          "width": 252,
+          "height": 394,
+          "fill": 0.769531
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-avocado.webp"
+    },
     "bounds": {
       "size": [
         0.463675,
@@ -6717,6 +10597,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-crabsticks.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-crabsticks.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9588,
+      "sha256": "9505effbd0686770834566e3ed583b4eaa0a80c89cbc3561fccdea1e8ba8d0f5",
+      "transparent": true,
+      "sourceBundleSha256": "ef2a39e07d2b38c362c3ebe5c7b8c0a0c062497d1219c40a3458d1d4da865e32",
+      "cacheKey": "4193815049dcb0247d4d289a3643f47fc9abc6aed2f134881b366d042fddaaca",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 1.480484,
+        "alphaBounds": {
+          "x": 67,
+          "y": 145,
+          "width": 369,
+          "height": 278,
+          "fill": 0.720703
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-crabsticks.webp"
+    },
     "bounds": {
       "size": [
         0.423133,
@@ -6768,6 +10688,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-cucumber.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-cucumber.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7194,
+      "sha256": "03c93a0b56a2e57b72ce04029619bf69284d53fe8519fd28f347f321e54ec670",
+      "transparent": true,
+      "sourceBundleSha256": "ccdf94690e16f17d263b5d264e9d3b69e2ba7b7bf979fedad85e7b349a73c4bb",
+      "cacheKey": "91e99eff31e4b5d2120559042ff287a88a09fefdbf48c3b0e2543d80244c0f62",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.797523,
+        "alphaBounds": {
+          "x": 100,
+          "y": 167,
+          "width": 371,
+          "height": 212,
+          "fill": 0.724609
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-cucumber.webp"
+    },
     "bounds": {
       "size": [
         1.644096,
@@ -6819,6 +10779,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-ebi.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-ebi.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8446,
+      "sha256": "dbe1163b3ef958bc332cfaa3847110bd26d50e22a8b2e957556fe2a108272029",
+      "transparent": true,
+      "sourceBundleSha256": "680946fa5f7a3705da807426a95234cf6455990390d34446db2e0704f3a54d24",
+      "cacheKey": "d747a8aae5a8c3a8ec23c53d7b971136a29ba4b8d212cf25f58bbb67371c6dc1",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 0.86884,
+        "alphaBounds": {
+          "x": 78,
+          "y": 183,
+          "width": 348,
+          "height": 213,
+          "fill": 0.679688
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-ebi.webp"
+    },
     "bounds": {
       "size": [
         0.20987,
@@ -6870,6 +10870,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-eel.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-eel.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6192,
+      "sha256": "0b6a80c7ea3f26c723fdd8068ed127f3d4fe4bb8bfd5132cf6de1d5dc3c666f0",
+      "transparent": true,
+      "sourceBundleSha256": "8d3cb3dfc2ce21e08836da7eb343ddb30c4c7ee103e9c497880045abb63483ca",
+      "cacheKey": "b87b16df27111d8b167135494acf84762fba173cd8ff3a68cd204999baccab68",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.879542,
+        "alphaBounds": {
+          "x": 102,
+          "y": 165,
+          "width": 372,
+          "height": 255,
+          "fill": 0.726563
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-eel.webp"
+    },
     "bounds": {
       "size": [
         2.411691,
@@ -6921,6 +10961,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-fish.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-fish.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7406,
+      "sha256": "cfe8f5f5278ed8422ca3e442bd9e4b237444971a28cb3c5131268940f61d9c18",
+      "transparent": true,
+      "sourceBundleSha256": "e74dcdf66e3ed396435c474ad7559fc6b7cda641742f66e6f92fef5c2fa82a99",
+      "cacheKey": "7c1e7afb8d2e074f09cd803f1467067d526de7902950a15fd74386e856cf690e",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 1.141273,
+        "alphaBounds": {
+          "x": 102,
+          "y": 136,
+          "width": 378,
+          "height": 286,
+          "fill": 0.738281
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-fish.webp"
+    },
     "bounds": {
       "size": [
         0.670722,
@@ -6972,6 +11052,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-fishfillet.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-fishfillet.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 5544,
+      "sha256": "308c570b2bd967991c0d3773fa40582cb35ee1127cd4a79a0583685de5712222",
+      "transparent": true,
+      "sourceBundleSha256": "a9c034d2cecca302e694b423566ecb11ebc537f535672047dab544d592bfa36d",
+      "cacheKey": "226e92e9534c2e069cd713841c9fc1c4ba42f8aeb994b2c06ddaebe9daffa4ae",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 1.842732,
+        "alphaBounds": {
+          "x": 78,
+          "y": 174,
+          "width": 360,
+          "height": 244,
+          "fill": 0.703125
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-fishfillet.webp"
+    },
     "bounds": {
       "size": [
         0.662211,
@@ -7023,6 +11143,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-flounder.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-flounder.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8458,
+      "sha256": "08865f94cd3a5aebee3c346f3299abcdd71ccf14c5b3e9660d13c4ef68b748e3",
+      "transparent": true,
+      "sourceBundleSha256": "6f4bc3da1145c47db462b932037eedc781317bcb5bfe32caf67cd6d8746be671",
+      "cacheKey": "524d3cf4067ad20479fa07f9d39c857126a2794155c3aa35c58137f61bc70a6b",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.521036,
+        "alphaBounds": {
+          "x": 118,
+          "y": 84,
+          "width": 341,
+          "height": 373,
+          "fill": 0.728516
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-flounder.webp"
+    },
     "bounds": {
       "size": [
         1.391379,
@@ -7074,6 +11234,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-mackerel.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-mackerel.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7296,
+      "sha256": "95928e27384e4fda14b7fbd740a9eec23b3983e5064164d8c3a21dfa4d29d36e",
+      "transparent": true,
+      "sourceBundleSha256": "e4d0db2944672e9e6263f8597e598a911c69d524d2f2640a55ca14920077e746",
+      "cacheKey": "9a7ddef717c686ce1aa770b7d8a5867b454882c89e4fcf4889216f8153256a3f",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 1.87053,
+        "alphaBounds": {
+          "x": 100,
+          "y": 126,
+          "width": 376,
+          "height": 285,
+          "fill": 0.734375
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-mackerel.webp"
+    },
     "bounds": {
       "size": [
         1.110676,
@@ -7125,6 +11325,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-nori.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-nori.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 4112,
+      "sha256": "32755bf1e0565dfe1f162c3265aa1e383e170ba97b7e182985f2a410046259db",
+      "transparent": true,
+      "sourceBundleSha256": "8c2672faf87a204b5b8fef70bd5427e960aedb0cc429149480b7618ac1da152f",
+      "cacheKey": "c81983d0ec82faf5b767b29abdc2657858ca5c03e434f30827a7eaa07b535277",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.928262,
+        "alphaBounds": {
+          "x": 65,
+          "y": 181,
+          "width": 382,
+          "height": 189,
+          "fill": 0.746094
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-nori.webp"
+    },
     "bounds": {
       "size": [
         1.013199,
@@ -7176,6 +11416,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-octopus.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-octopus.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 10246,
+      "sha256": "43658f1879588b57468feecc5a387e641a97f3eb51a2f6d911ef920302642c94",
+      "transparent": true,
+      "sourceBundleSha256": "fb70a69458b8a6404e69cd93d87fbdfb4c9c467ab52ba30fa1199f6fd35e274a",
+      "cacheKey": "719e0a5897988badd229d0b15fe6feb68ade59938206dc353eb0fab1e2bc7997",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 4.183617,
+        "alphaBounds": {
+          "x": 99,
+          "y": 98,
+          "width": 313,
+          "height": 364,
+          "fill": 0.710938
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-octopus.webp"
+    },
     "bounds": {
       "size": [
         1.062274,
@@ -7227,6 +11507,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-rice.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-rice.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 4786,
+      "sha256": "8950a9bdbc26b419f219e27a9a275b0faa207fcc294fc919f9047561e0c9d21b",
+      "transparent": true,
+      "sourceBundleSha256": "7c9dafb9259067e651bf4375225f5128bf047c2a38d039fdc581318b47625015",
+      "cacheKey": "3c4612dc6d6be2540a2db550294b9e649582dda9e17e4d09bf0ee2d377340347",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.314589,
+        "alphaBounds": {
+          "x": 63,
+          "y": 167,
+          "width": 386,
+          "height": 257,
+          "fill": 0.753906
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-rice.webp"
+    },
     "bounds": {
       "size": [
         1.081166,
@@ -7278,6 +11598,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-salmon.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-salmon.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9634,
+      "sha256": "4c2a897b731d8216af201c533fc10362e69cdc0d6139de2810b3deaa118dce3f",
+      "transparent": true,
+      "sourceBundleSha256": "ecbeab2985fd0b2ba76d176863b81679bbf65184402ffec3fcf6e5c6d4ff8234",
+      "cacheKey": "86b973f1e8d95a0c918b70fca8d9235e4360b5b83520b0b0981721b9fcb07491",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 1.842732,
+        "alphaBounds": {
+          "x": 78,
+          "y": 174,
+          "width": 360,
+          "height": 244,
+          "fill": 0.703125
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-salmon.webp"
+    },
     "bounds": {
       "size": [
         0.662211,
@@ -7329,6 +11689,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-salmonfish.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-salmonfish.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7488,
+      "sha256": "eb4660ff044bb552c2d03eb677e4da54e6b9a7b9adb16c104e5ee3e22eb18625",
+      "transparent": true,
+      "sourceBundleSha256": "ca82ac3cee9620b7abf5e2eead57ee5a4ccc1c260dbfa711999b57445333bded",
+      "cacheKey": "2a0fb697b58a782eb7682c5c53d6e2dfdb16251c5c45875abaeabeaeb72ddff1",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 1.81071,
+        "alphaBounds": {
+          "x": 122,
+          "y": 71,
+          "width": 279,
+          "height": 396,
+          "fill": 0.773438
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-salmonfish.webp"
+    },
     "bounds": {
       "size": [
         0.8458,
@@ -7380,6 +11780,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-seaurchin.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-seaurchin.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 5834,
+      "sha256": "bb9b6ae4ed965b941906dc29f88fed3a4c2a08dd61a62c90fd96c7788b9d9138",
+      "transparent": true,
+      "sourceBundleSha256": "33fbc5f1e5d6601a0e468ce89c4940f104bbbbfa8d2bb042016f54490bf185ca",
+      "cacheKey": "dc2aa45cc4efe9072743e984c08539ad8b93f1e34d3cbfe303ae673aa3159c52",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 1.968455,
+        "alphaBounds": {
+          "x": 61,
+          "y": 110,
+          "width": 365,
+          "height": 317,
+          "fill": 0.712891
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-seaurchin.webp"
+    },
     "bounds": {
       "size": [
         0.820723,
@@ -7431,6 +11871,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-seaurchinopen.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-seaurchinopen.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6726,
+      "sha256": "5a46eaf20ad5bffc7d5abcbf37c3e80e0ed045e187745b90dc923805e98c1f7b",
+      "transparent": true,
+      "sourceBundleSha256": "6d703a47f661f9bab552c1623c8b9ee156c33e47d84394cc6311eb490257924f",
+      "cacheKey": "a8aadcb132ff7de7c8a95167ffaf6c0a94d0e1597f69f82943078642c28d3387",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 1.911789,
+        "alphaBounds": {
+          "x": 111,
+          "y": 101,
+          "width": 293,
+          "height": 366,
+          "fill": 0.714844
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-seaurchinopen.webp"
+    },
     "bounds": {
       "size": [
         0.785682,
@@ -7482,6 +11962,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-shimesaba.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-shimesaba.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 15904,
+      "sha256": "448b04acf9f0f8e308c7aa9df4b9e89fd6719b7795710daf27d5c8024156eec0",
+      "transparent": true,
+      "sourceBundleSha256": "5f1dbd9cc97fd947fbdb4fe3433bc5cd294a65c0042b5ae9376180168126999a",
+      "cacheKey": "56daf3ff84aecbf4444d35a4ff6b019ddf623b4da5765d909f57d0cbfae4a446",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 1.267049,
+        "alphaBounds": {
+          "x": 102,
+          "y": 32,
+          "width": 380,
+          "height": 363,
+          "fill": 0.742188
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-shimesaba.webp"
+    },
     "bounds": {
       "size": [
         0.770953,
@@ -7533,6 +12053,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-slicedcucumber.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-slicedcucumber.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7644,
+      "sha256": "088147a36e4aef5fe1ce2aa8dcb7062e02849336c8c4e3b0a645c6c60f89fe86",
+      "transparent": true,
+      "sourceBundleSha256": "fabe8f998ba4b1a2b8ac1fa6cf6a10ef0f8dba93a5ed9cdc2986c86cee879005",
+      "cacheKey": "c6122139d524e3f3e5a44f211a0be000d2aeb576f00e647cc9ecd8779f83e87e",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.150283,
+        "alphaBounds": {
+          "x": 108,
+          "y": 186,
+          "width": 347,
+          "height": 188,
+          "fill": 0.677734
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-slicedcucumber.webp"
+    },
     "bounds": {
       "size": [
         1.004417,
@@ -7584,6 +12144,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-squid.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-squid.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 5318,
+      "sha256": "90d4bcc19ddecce8a03842a0f139ff831bae2168e09d24173b28f3091a6a2444",
+      "transparent": true,
+      "sourceBundleSha256": "ec76f5d3fb308dda2637d63d6f9c4184c33542447cbd0b9d0c29092a5ded217a",
+      "cacheKey": "180321d22056ff2f0dbde564b48bb647ca23bc7b1b0fbf3c4717760bf0c679d3",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 5.1955,
+        "alphaBounds": {
+          "x": 196,
+          "y": 66,
+          "width": 123,
+          "height": 356,
+          "fill": 0.695313
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-squid.webp"
+    },
     "bounds": {
       "size": [
         1.018915,
@@ -7635,6 +12235,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-tentacle.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-tentacle.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8716,
+      "sha256": "52821e415fd8b5ce54cd731971953d09f3e50c824f317b6c870da0c6ea827826",
+      "transparent": true,
+      "sourceBundleSha256": "5141a48823f5e96c8ed872e9897a166a663c49fa606c4b2db564b6aaa7ae47a1",
+      "cacheKey": "ea23f320759d94a594b56d5d874ab61d8330473a4a9c942d8cb73daa90e3eec4",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 1.624925,
+        "alphaBounds": {
+          "x": 114,
+          "y": 170,
+          "width": 351,
+          "height": 237,
+          "fill": 0.685547
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-tentacle.webp"
+    },
     "bounds": {
       "size": [
         0.759018,
@@ -7686,6 +12326,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-sushi-restaurant-kit-62423cec1420/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-tuna.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-sushi-restaurant-kit/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-tuna.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9722,
+      "sha256": "5b13a68c2eac517b29a1c194db36dd436a0e24efe2da1b8075e2957a3db445e1",
+      "transparent": true,
+      "sourceBundleSha256": "7ed9951bddb55ad37169c738bba239ad691ad4986cca67b4cb5a8f7d6ea10afe",
+      "cacheKey": "75153f6e431b32ff9314a0cb49a162de2431c32de7dca77059b3b26d2db5bea1",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.508276,
+        "alphaBounds": {
+          "x": 100,
+          "y": 153,
+          "width": 372,
+          "height": 272,
+          "fill": 0.726563
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-sushi-restaurant-kit-food-gltf-foodingredient-tuna.webp"
+    },
     "bounds": {
       "size": [
         1.564903,

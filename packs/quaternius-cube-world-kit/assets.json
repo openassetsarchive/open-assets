@@ -10,6 +10,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-animals-gltf-cat.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-animals-gltf-cat.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7674,
+      "sha256": "0d418e34eee624639924b90ca42ee9f07d1dce57248d45ebc58eece51ea7078c",
+      "transparent": true,
+      "sourceBundleSha256": "6a96392b63ba74355202a16290af3a075caad5876767e65c60ee9efaa1c47c30",
+      "cacheKey": "98e6cac47b924c7aa2e49587056bf2247c885359a6ab1eda9511fa177bd9c62b",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 4.708415,
+        "alphaBounds": {
+          "x": 78,
+          "y": 68,
+          "width": 322,
+          "height": 358,
+          "fill": 0.699219
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-animals-gltf-cat.webp"
+    },
     "bounds": {
       "size": [
         1.311152,
@@ -93,6 +133,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-animals-gltf-chick.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-animals-gltf-chick.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9614,
+      "sha256": "5acc943677b686525df37647a8a39168a32f2433ff232998e488d1aa66e0896d",
+      "transparent": true,
+      "sourceBundleSha256": "55961613acfdb5cca4ccf46d3d9582c19364af2c9dae146e3e78dab0b5a5533e",
+      "cacheKey": "469cdfed051329d9144195dbd3d846cca2739cab2c45d446cc71abe208d81f5f",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.074714,
+        "alphaBounds": {
+          "x": 68,
+          "y": 42,
+          "width": 352,
+          "height": 370,
+          "fill": 0.722656
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-animals-gltf-chick.webp"
+    },
     "bounds": {
       "size": [
         0.612562,
@@ -164,6 +244,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-animals-gltf-chicken.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-animals-gltf-chicken.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7364,
+      "sha256": "d06f5ea2845a2af4b76ca40b32d4a361eced3921732e0dad9c17080f312ab048",
+      "transparent": true,
+      "sourceBundleSha256": "85691c10dc213218747d0f127241a972b04bcf0ec4a90be39e3706d0b1367a60",
+      "cacheKey": "06bf3facf4d852a5a8598100a96242ea851dc722bdc7e256068bfd22818b3a14",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.644981,
+        "alphaBounds": {
+          "x": 115,
+          "y": 58,
+          "width": 269,
+          "height": 343,
+          "fill": 0.669922
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-animals-gltf-chicken.webp"
+    },
     "bounds": {
       "size": [
         0.612562,
@@ -235,6 +355,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-animals-gltf-dog.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-animals-gltf-dog.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9118,
+      "sha256": "3a0b5d5f5398cfdba786f5baab8cbbe6e613eb306eb932a11b3c253cee61ed49",
+      "transparent": true,
+      "sourceBundleSha256": "9e642a29db2928fcf2bc5afcd399da8472d291c6ae5344baff2d7ba6729aec3b",
+      "cacheKey": "226cabc444d9f6c173688ddead7b9abe027e0f990b564209a1b3f142a6b1a10b",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 4.731576,
+        "alphaBounds": {
+          "x": 70,
+          "y": 87,
+          "width": 326,
+          "height": 357,
+          "fill": 0.697266
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-animals-gltf-dog.webp"
+    },
     "bounds": {
       "size": [
         0.950076,
@@ -318,6 +478,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-animals-gltf-horse.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-animals-gltf-horse.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7470,
+      "sha256": "144d5b0f0a8e170e0afd3fe50210663f9fc5cb79c7b7e1c3182e9523f1a1dd05",
+      "transparent": true,
+      "sourceBundleSha256": "be104394a7e07b1fdff3c94cc7df6b9c26ce9f07cb753cfec3f8aa7eb79856ca",
+      "cacheKey": "542dd29618533cb1a8eedf263e84ee978a3c2fe4f0e25394040cae69d997d8c5",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 7.221415,
+        "alphaBounds": {
+          "x": 84,
+          "y": 102,
+          "width": 303,
+          "height": 345,
+          "fill": 0.673828
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-animals-gltf-horse.webp"
+    },
     "bounds": {
       "size": [
         1.043595,
@@ -401,6 +601,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-animals-gltf-pig.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-animals-gltf-pig.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9436,
+      "sha256": "07464d06b8301c706d8cd35af55b8fe5dd321ef2331f62627267a15d4d80f874",
+      "transparent": true,
+      "sourceBundleSha256": "7b77654c68db7132c000efa4d602bf06b170f1acc09d849bda27a76629b51422",
+      "cacheKey": "5a0268ad356dcbc282fbe1d626b0e2e3a2a4266c12069d3dacd64d8021ceb4f4",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 4.406752,
+        "alphaBounds": {
+          "x": 76,
+          "y": 95,
+          "width": 339,
+          "height": 355,
+          "fill": 0.693359
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-animals-gltf-pig.webp"
+    },
     "bounds": {
       "size": [
         0.837843,
@@ -484,6 +724,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-animals-gltf-raccoon.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-animals-gltf-raccoon.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7010,
+      "sha256": "480c30f91969de0b44fe7a5198744700c4f8cb732b02f94ad7fb41fdc48010ba",
+      "transparent": true,
+      "sourceBundleSha256": "b4a62a140f79913c6070745e489baf9e8cfd0edf694a18194efc8e301b258da5",
+      "cacheKey": "00aa5beb01e467e4dc624fa61473193d5f3f92d7e4ca7062c59e34694e81b1bb",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 5.945169,
+        "alphaBounds": {
+          "x": 51,
+          "y": 133,
+          "width": 371,
+          "height": 279,
+          "fill": 0.724609
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-animals-gltf-raccoon.webp"
+    },
     "bounds": {
       "size": [
         1.42457,
@@ -567,6 +847,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-animals-gltf-sheep.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-animals-gltf-sheep.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7416,
+      "sha256": "8d271a2de5ed618bee135b248b86fceb53b973efd9e3d30e55e1018508b53dfd",
+      "transparent": true,
+      "sourceBundleSha256": "5525c2198edd21805ca803cbbbdb13b7ce0f36672fef93b033886823ee47931f",
+      "cacheKey": "cc4566957d860f540b445b8534d545171c6de96705eb6b2bfad58194dd4fda89",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 4.701631,
+        "alphaBounds": {
+          "x": 48,
+          "y": 83,
+          "width": 374,
+          "height": 348,
+          "fill": 0.730469
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-animals-gltf-sheep.webp"
+    },
     "bounds": {
       "size": [
         0.982184,
@@ -650,6 +970,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-animals-gltf-wolf.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-animals-gltf-wolf.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8322,
+      "sha256": "847acc7d6b192a8bc191222dec03febad8807865a39d120e3681eb035f8ca1f6",
+      "transparent": true,
+      "sourceBundleSha256": "b186c40ef60ba2b3b080a357bdc603ea6cdcaa261a26fe664f545e1e2b9ef597",
+      "cacheKey": "da8db41151f31006f849287be39533c9b44991e7c563aec885874d36bb71ab3b",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 4.28433,
+        "alphaBounds": {
+          "x": 45,
+          "y": 85,
+          "width": 370,
+          "height": 366,
+          "fill": 0.722656
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-animals-gltf-wolf.webp"
+    },
     "bounds": {
       "size": [
         1.105411,
@@ -733,6 +1093,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-blank.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-blank.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9098,
+      "sha256": "61ffaf023b9a58186e35e1d87666b5e97d674ecf680cc9df25146296e2a33e05",
+      "transparent": true,
+      "sourceBundleSha256": "9e8bc73fdba39c6f489f9ffcfe92916c15fe13dd9e51a2685358d88ab627609b",
+      "cacheKey": "102008f2330fcfc00b3d42394b851e52800c09379d0b223a6174c7a8cc15ece5",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.883469,
+        "alphaBounds": {
+          "x": 77,
+          "y": 94,
+          "width": 358,
+          "height": 367,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-blocks-gltf-block-blank.webp"
+    },
     "bounds": {
       "size": [
         2,
@@ -783,6 +1183,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-brick.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-brick.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8786,
+      "sha256": "db5c02509bb496f172f681a39cd5a4c4e85c62b745db245ce298c967e4bca4b6",
+      "transparent": true,
+      "sourceBundleSha256": "b911a6ba21d08505965684a25d615b1e1df9928cb01bc26c196b54cfb12de9f8",
+      "cacheKey": "d0a67ba8155804e7eabd8db0349eaa0496edeca41b017388f1505a1be3a6fba7",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.408419,
+        "alphaBounds": {
+          "x": 78,
+          "y": 92,
+          "width": 356,
+          "height": 367,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-blocks-gltf-block-brick.webp"
+    },
     "bounds": {
       "size": [
         1.969075,
@@ -833,6 +1273,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-cheese.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-cheese.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9164,
+      "sha256": "93fb8e5d3cf16e1947fee8c40cbab62be41178fa13cf87f46397e495671caf4c",
+      "transparent": true,
+      "sourceBundleSha256": "8d05ef85d877a29022115fdd94c000cbd51926fb8c4cfb00874ea7ad8c9ea73d",
+      "cacheKey": "aa0463922ba4971d3b556a9efb0ab2b3b57ea3f70c3d8ac8735283a24a1e5aa7",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.099192,
+        "alphaBounds": {
+          "x": 76,
+          "y": 92,
+          "width": 360,
+          "height": 367,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-blocks-gltf-block-cheese.webp"
+    },
     "bounds": {
       "size": [
         1.870106,
@@ -883,6 +1363,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-coal.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-coal.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8850,
+      "sha256": "518af31d03d68fbdbf6e9dcf3781a35439579bc11acf78d4bc3494dceb7ad76a",
+      "transparent": true,
+      "sourceBundleSha256": "f32678615f294ee0e31e5a1bf78595e0a20effa0502bf9d8e1a55ea9040ee201",
+      "cacheKey": "dd48f80507789267411bff9dced1363f74aa1ed15c57e80d4784e4260cfa7bd7",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.486325,
+        "alphaBounds": {
+          "x": 65,
+          "y": 85,
+          "width": 382,
+          "height": 390,
+          "fill": 0.761719
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-blocks-gltf-block-coal.webp"
+    },
     "bounds": {
       "size": [
         2.244313,
@@ -933,6 +1453,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-crate.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-crate.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8748,
+      "sha256": "4d968ce4a368a30f8e371795cccbc716c78eaf3f51e7c29f0ad97cf606aaed7b",
+      "transparent": true,
+      "sourceBundleSha256": "9d83b1171ef8f70507c6f8737a466c346ad6b9fa43dc5e0144d6925d2fe37cfe",
+      "cacheKey": "b0495488aa069f4849b5e119db8a28b0309729115be7eaa9a33976433769fef2",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.883472,
+        "alphaBounds": {
+          "x": 77,
+          "y": 94,
+          "width": 358,
+          "height": 367,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-blocks-gltf-block-crate.webp"
+    },
     "bounds": {
       "size": [
         2,
@@ -983,6 +1543,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-crystal.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-crystal.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 12056,
+      "sha256": "3b8c3e77fff427f805f58fa687148949b4a5fe058dffbff9d52ba38864b3321a",
+      "transparent": true,
+      "sourceBundleSha256": "690bf3bafc6cadc4075d5a1cd9788451ded47c49e78f5b693f33e442995d3e88",
+      "cacheKey": "9dfa4f199ddc41ded1acd644a7f789dea044a04a40de5df6545d87e2fe1363c7",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.361909,
+        "alphaBounds": {
+          "x": 61,
+          "y": 82,
+          "width": 390,
+          "height": 398,
+          "fill": 0.777344
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-blocks-gltf-block-crystal.webp"
+    },
     "bounds": {
       "size": [
         2.201264,
@@ -1033,6 +1633,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-diamond.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-diamond.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 11138,
+      "sha256": "0f1e85df458bafd82cbcb7728cb5873f11fc63e54b78485947c278b19cd4cea9",
+      "transparent": true,
+      "sourceBundleSha256": "76a74c376e17a1d726a5c48b7f151e1798c5a25fc5b7ec446aa71eb569ce61ab",
+      "cacheKey": "aa3ac5d5ddc822e6f5f165342b3b5f8df62326f3cfb4c54b089b5998c0d25da3",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.53613,
+        "alphaBounds": {
+          "x": 67,
+          "y": 86,
+          "width": 378,
+          "height": 387,
+          "fill": 0.755859
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-blocks-gltf-block-diamond.webp"
+    },
     "bounds": {
       "size": [
         2.261546,
@@ -1083,6 +1723,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-dirt.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-dirt.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7014,
+      "sha256": "481f9875cb89668117bef871b5f106fbe63eba2965ad15d1a5a366fcc007723b",
+      "transparent": true,
+      "sourceBundleSha256": "118cd3cef09f6d4ae0c8a40290bae8f2a23da19c714a1c2bdac197793f05cfe0",
+      "cacheKey": "c85b4db3cbc97d07b5b0a47be95fa9a9e81da02d8e590ea3b6c61249edb14ed9",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.88347,
+        "alphaBounds": {
+          "x": 77,
+          "y": 94,
+          "width": 358,
+          "height": 367,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-blocks-gltf-block-dirt.webp"
+    },
     "bounds": {
       "size": [
         2.000001,
@@ -1133,6 +1813,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-grass.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-grass.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7016,
+      "sha256": "47546ca742a6c7dc9beb63b888b57e5e8a3fb1d38f92968f3930fbb433e15dac",
+      "transparent": true,
+      "sourceBundleSha256": "904a33c5116d497a88dc7dd08d39bbe91c44fb1478385ebe8e0c419d1224ae44",
+      "cacheKey": "0e76167483100934ca4355c07981ba9dc2f02c3d5d886780de73120effdc0ecd",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.88347,
+        "alphaBounds": {
+          "x": 77,
+          "y": 94,
+          "width": 358,
+          "height": 367,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-blocks-gltf-block-grass.webp"
+    },
     "bounds": {
       "size": [
         2.000001,
@@ -1183,6 +1903,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-greybricks.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-greybricks.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7782,
+      "sha256": "087363bf480ed98115b0d17d87e4aed1e1b3ad48758890d5dd1b8fa7bbd81929",
+      "transparent": true,
+      "sourceBundleSha256": "a650e6bf5038150a14bcd3e555a03c63e6e496ebf71f16e3b18196401a33d46c",
+      "cacheKey": "f66a7902cda08709c72952db2d97942e8c244f75c3a3b98aaa01ca79158c88fe",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.722193,
+        "alphaBounds": {
+          "x": 77,
+          "y": 93,
+          "width": 358,
+          "height": 367,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-blocks-gltf-block-greybricks.webp"
+    },
     "bounds": {
       "size": [
         2.008188,
@@ -1233,6 +1993,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-ice.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-ice.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7610,
+      "sha256": "203a00f185cbdea3b8c0fe4791992c4efe5e6bd939a7d2679fc5e36c77a2cfa6",
+      "transparent": true,
+      "sourceBundleSha256": "1b13f6a1c1f21e8c193f1803da4cd6172f60c0c7bd9d73a7ef97e9065a6f629d",
+      "cacheKey": "42189d60fc405f231ef73e8d87408064804ddacb52c627a8a4fca1ec04b31feb",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.88347,
+        "alphaBounds": {
+          "x": 77,
+          "y": 94,
+          "width": 358,
+          "height": 367,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-blocks-gltf-block-ice.webp"
+    },
     "bounds": {
       "size": [
         2.000001,
@@ -1283,6 +2083,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-metal.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-metal.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7464,
+      "sha256": "503d4ce70c671aaf2911fa9b84b7988a5d0e7e2817cdfd7335a8d52f27b2e401",
+      "transparent": true,
+      "sourceBundleSha256": "8c7bf955ad833c57d47d295cda7816aad844b452adc0f4e3c006111de6671bdc",
+      "cacheKey": "67927735d960b6c8142ddb8ed00a01fec8e017140b30693d6af2aad65aa886a0",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.875107,
+        "alphaBounds": {
+          "x": 77,
+          "y": 94,
+          "width": 358,
+          "height": 367,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-blocks-gltf-block-metal.webp"
+    },
     "bounds": {
       "size": [
         2.09292,
@@ -1333,6 +2173,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-snow.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-snow.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7502,
+      "sha256": "909309b92ce416aeb4ec205a3b39850c0121d6817f61f5e06d6b3232bc933a8c",
+      "transparent": true,
+      "sourceBundleSha256": "73a9af7adac78181211fd2659229c0af09afc34cc540d3657cadaaeaee987eca",
+      "cacheKey": "e24d2df8e667f6368f2889df066650eb3b7b16d7dd7801b20e1d3381547045a9",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.88347,
+        "alphaBounds": {
+          "x": 77,
+          "y": 94,
+          "width": 358,
+          "height": 367,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-blocks-gltf-block-snow.webp"
+    },
     "bounds": {
       "size": [
         2.000001,
@@ -1383,6 +2263,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-stone.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-stone.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 5164,
+      "sha256": "1fd8eedb67a06385a07acc0d4aea6c040e03026a33d9a9c1b40a310a25b9affe",
+      "transparent": true,
+      "sourceBundleSha256": "2d6d5217f37b1362fbe9f73634df00ebddd58b32e9587e1c8f81673938d7e32b",
+      "cacheKey": "d51c1bb8aaeca3cd52375695dda409c2cd0f2357d0d673d2ed7c0f1fc8366e66",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.883469,
+        "alphaBounds": {
+          "x": 77,
+          "y": 94,
+          "width": 358,
+          "height": 367,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-blocks-gltf-block-stone.webp"
+    },
     "bounds": {
       "size": [
         2,
@@ -1433,6 +2353,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-woodplanks.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-woodplanks.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 10106,
+      "sha256": "e5f3643f1430f9590f424039a725e48446e03ac67b854e459b7272c941e6d7ca",
+      "transparent": true,
+      "sourceBundleSha256": "1195841b6422103b44709884b23a97450445965ee44f8ae056a4bd06e34af556",
+      "cacheKey": "0d595511fe3f340852d2d484713412b473110c86f5f2c74d2223858c5b7dfd1d",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.88347,
+        "alphaBounds": {
+          "x": 77,
+          "y": 94,
+          "width": 358,
+          "height": 367,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-blocks-gltf-block-woodplanks.webp"
+    },
     "bounds": {
       "size": [
         2,
@@ -1483,6 +2443,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-characters-gltf-character-female-1.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-characters-gltf-character-female-1.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8232,
+      "sha256": "22bef1aab75c777e088f9c3547cb4963db54293a708317c22cf55d0544608833",
+      "transparent": true,
+      "sourceBundleSha256": "4233976d009fccc5fb5c20afd3fd34b5aa4cf705152d35e6019644ef00b79376",
+      "cacheKey": "061af834c7b8d7e16dc23899f8968f7a183b7b6115aee65fb02c15f3bf4c0894",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 5.527591,
+        "alphaBounds": {
+          "x": 104,
+          "y": 45,
+          "width": 314,
+          "height": 391,
+          "fill": 0.763672
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-characters-gltf-character-female-1.webp"
+    },
     "bounds": {
       "size": [
         2.891826,
@@ -1609,6 +2609,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-characters-gltf-character-female-2.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-characters-gltf-character-female-2.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9776,
+      "sha256": "850a707e2bfd6a96d522d3f89cc6528abf8534b6e7c4766890fc99b523b14ba5",
+      "transparent": true,
+      "sourceBundleSha256": "d15ddbe651529904ffeae88bdea00a2cc35ad8524b9637838e6189138cc67914",
+      "cacheKey": "35fdc7bf4cf043d6ada3c82f4a212a8aad0d71a90714593bfb0976e68986566d",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.341556,
+        "alphaBounds": {
+          "x": 127,
+          "y": 52,
+          "width": 354,
+          "height": 367,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-characters-gltf-character-female-2.webp"
+    },
     "bounds": {
       "size": [
         3.230726,
@@ -1735,6 +2775,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-characters-gltf-character-male-1.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-characters-gltf-character-male-1.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 10054,
+      "sha256": "70f5531a6a5d520b85fd403e8247146018a970e8fdb330ed1125cfef794a5c26",
+      "transparent": true,
+      "sourceBundleSha256": "1a8f21a1fe26b96296e6960c7b45c5facd20430473f7d04a4b0d8b41420e2ec0",
+      "cacheKey": "0af268b8276dc9379f2f753ca366a58411869a7860e3501b6148a3f83f51efc6",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 5.795301,
+        "alphaBounds": {
+          "x": 122,
+          "y": 65,
+          "width": 290,
+          "height": 370,
+          "fill": 0.722656
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-characters-gltf-character-male-1.webp"
+    },
     "bounds": {
       "size": [
         2.891826,
@@ -1861,6 +2941,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-characters-gltf-character-male-2.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-characters-gltf-character-male-2.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8242,
+      "sha256": "4466d449f7cdd14d83c6626c53e99bbb982e7aadec56a4bd28adc9c40c880aec",
+      "transparent": true,
+      "sourceBundleSha256": "79b89a468c1fadde695d4024b064fd80766f8a80449a55f3aa52cf3b2943c6ae",
+      "cacheKey": "2ffbd9193d80884a0316d5581d60951920c5777d6bcabe6dfc0213724331b30d",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 5.527591,
+        "alphaBounds": {
+          "x": 104,
+          "y": 43,
+          "width": 312,
+          "height": 395,
+          "fill": 0.771484
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-characters-gltf-character-male-2.webp"
+    },
     "bounds": {
       "size": [
         2.891826,
@@ -1987,6 +3107,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-enemies-gltf-demon.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-enemies-gltf-demon.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8218,
+      "sha256": "3e65fa8101f5da422e762322f3800e4679c15b25b629624069c4dd4ea9aafe54",
+      "transparent": true,
+      "sourceBundleSha256": "f3d5f847d2671008ac514fbd64e4d72d333bb6364e348b5017f755a79614ffc0",
+      "cacheKey": "86748f3fc259707adb5dbc1d094c2325846522349426db8f676c0ad1ecd0d15d",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 5.893402,
+        "alphaBounds": {
+          "x": 132,
+          "y": 48,
+          "width": 301,
+          "height": 377,
+          "fill": 0.736328
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-enemies-gltf-demon.webp"
+    },
     "bounds": {
       "size": [
         3.260741,
@@ -2070,6 +3230,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-enemies-gltf-giant.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-enemies-gltf-giant.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8036,
+      "sha256": "b02e970b27c0c4de4dbc86a64f89d2057c4801ef0519a3b418c02daeb7204023",
+      "transparent": true,
+      "sourceBundleSha256": "b05649bae6ffd999510199b8238bfb07c30a693b54f2e4f23ba4b88a6e4c1203",
+      "cacheKey": "f1dbd571d8a5557f5c6d3b476da62bd75e5a9fc32e651f9216d6b43c71f6aef3",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 8.41925,
+        "alphaBounds": {
+          "x": 131,
+          "y": 63,
+          "width": 248,
+          "height": 357,
+          "fill": 0.697266
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-enemies-gltf-giant.webp"
+    },
     "bounds": {
       "size": [
         5.60484,
@@ -2153,6 +3353,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-enemies-gltf-goblin.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-enemies-gltf-goblin.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8210,
+      "sha256": "4096f8d1237de2a879ff7b1b1846d61eee2dac5ca8774a9c9295aa7edf734f07",
+      "transparent": true,
+      "sourceBundleSha256": "26774e82577da85aaa07d018c575979b9d03a1b5164a23c18b0b288f01cb6a51",
+      "cacheKey": "7382efe436553576e610202ad0e7a6847cf3400cb5d5e18e298d1b5d8f13cc20",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.390872,
+        "alphaBounds": {
+          "x": 146,
+          "y": 52,
+          "width": 227,
+          "height": 375,
+          "fill": 0.732422
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-enemies-gltf-goblin.webp"
+    },
     "bounds": {
       "size": [
         3.260741,
@@ -2236,6 +3476,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-enemies-gltf-hedgehog.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-enemies-gltf-hedgehog.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8134,
+      "sha256": "ba513fcf22959ac0567c89750d3e5446efd241a4ec13ca7bb49fda59ad127f50",
+      "transparent": true,
+      "sourceBundleSha256": "6e2ce2abcda052c41fda40f74bf9de5c5dbcd75810bd95529a6628df740e9880",
+      "cacheKey": "d0fb126aeb58fc18e3cb771c4632f7c171006080fc6faf7ab85638c95155b2dd",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.619724,
+        "alphaBounds": {
+          "x": 33,
+          "y": 90,
+          "width": 387,
+          "height": 358,
+          "fill": 0.755859
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-enemies-gltf-hedgehog.webp"
+    },
     "bounds": {
       "size": [
         1.058093,
@@ -2303,6 +3583,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-enemies-gltf-skeleton.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-enemies-gltf-skeleton.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8564,
+      "sha256": "2e0fd9d89992ac69905158d4d688970f871b8606de7f8ce2141390bd142562fc",
+      "transparent": true,
+      "sourceBundleSha256": "b8aa5b198ad256dc2e002dca840063b9b315b92f496f6ace29409e44afe86564",
+      "cacheKey": "686d845407b744f29211de232b935ae5a596811faf2951e6bb091cde1458bd69",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 5.824761,
+        "alphaBounds": {
+          "x": 159,
+          "y": 53,
+          "width": 182,
+          "height": 374,
+          "fill": 0.730469
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-enemies-gltf-skeleton.webp"
+    },
     "bounds": {
       "size": [
         3.209752,
@@ -2386,6 +3706,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-enemies-gltf-skeleton-armor.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-enemies-gltf-skeleton-armor.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8074,
+      "sha256": "8a8799f6c25443367365bd2417b7975e747fda5f4c92189b713105cff0c0ef02",
+      "transparent": true,
+      "sourceBundleSha256": "dd4d7489864ded011865bff3ab0c3a27c5fef4f1e9ed203ffc1ed517a2c139d2",
+      "cacheKey": "17abe3c284d9a03753eb98cd908069964cf2def35e8270a4568c9826462225ea",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.499652,
+        "alphaBounds": {
+          "x": 127,
+          "y": 55,
+          "width": 216,
+          "height": 386,
+          "fill": 0.753906
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-enemies-gltf-skeleton-armor.webp"
+    },
     "bounds": {
       "size": [
         3.209752,
@@ -2469,6 +3829,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-enemies-gltf-wizard.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-enemies-gltf-wizard.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6564,
+      "sha256": "218d7e439008c8b40ad3d4275cf8704ec2573a9e60796b458add14648ef6f476",
+      "transparent": true,
+      "sourceBundleSha256": "c3f38645b0ce38c669dd8c13f598c6798701730fd6d59bc8e9dc00cd76fce658",
+      "cacheKey": "3f73ab8d253e31ab1c5397f74f05871e09ae92600f77e3035c0a528e11fe822a",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 9.328998,
+        "alphaBounds": {
+          "x": 152,
+          "y": 67,
+          "width": 195,
+          "height": 344,
+          "fill": 0.671875
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-enemies-gltf-wizard.webp"
+    },
     "bounds": {
       "size": [
         3.260741,
@@ -2552,6 +3952,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-enemies-gltf-yeti.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-enemies-gltf-yeti.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 10930,
+      "sha256": "c20459a941dbe72f14df395190e7b2b90254509592cbedf91549c2f8659bdb5d",
+      "transparent": true,
+      "sourceBundleSha256": "d689f69dc092ed0ed3bc29fd46f85331b6db1e3117a2b7f8d135b8830302af1e",
+      "cacheKey": "6f2d22e143e3861c060bcdeb0ccf0e56eb0e347fe1cf61860e4252c2d6b6c7e0",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.861218,
+        "alphaBounds": {
+          "x": 79,
+          "y": 53,
+          "width": 345,
+          "height": 392,
+          "fill": 0.765625
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-enemies-gltf-yeti.webp"
+    },
     "bounds": {
       "size": [
         5.10457,
@@ -2635,6 +4075,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-enemies-gltf-zombie.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-enemies-gltf-zombie.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7620,
+      "sha256": "9d64426cfde8877f9063a7ab7db59009f8fa03966a6a33e5d0157aea41f791af",
+      "transparent": true,
+      "sourceBundleSha256": "80dc32ba561e8521c28ab8ec130ad05235d85cdbb810ae1fdcd550794626e935",
+      "cacheKey": "3b67b1a4c941e03063e3595c99c667da320929688c2a21b7e4bfe3226caa48fa",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 5.915169,
+        "alphaBounds": {
+          "x": 144,
+          "y": 53,
+          "width": 200,
+          "height": 364,
+          "fill": 0.710938
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-enemies-gltf-zombie.webp"
+    },
     "bounds": {
       "size": [
         2.974734,
@@ -2718,6 +4198,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-bamboo.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-bamboo.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 5820,
+      "sha256": "a146418df4d165166395ff3c4f651d7d7dc69a2105f1dc9028db16df2bfa0c40",
+      "transparent": true,
+      "sourceBundleSha256": "fed9e96eb736b4c2cc775fe1eb49e33b44dd13fc50001b7055433c10a9e6295b",
+      "cacheKey": "cec12a44a21c3e7e33a9485fb3886109a55026aeb9b34d18faedd0709e7c3f7f",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 9.50615,
+        "alphaBounds": {
+          "x": 189,
+          "y": 54,
+          "width": 121,
+          "height": 386,
+          "fill": 0.753906
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-bamboo.webp"
+    },
     "bounds": {
       "size": [
         1.455781,
@@ -2768,6 +4288,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-bamboo-mid.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-bamboo-mid.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6148,
+      "sha256": "968b2a82483f79f352a8fd05a6b850c7e7011fb20a94d7ca2a9feaccec3bbe94",
+      "transparent": true,
+      "sourceBundleSha256": "e6c8f1558b0fb74b8c863c82fc95e0d230be667469b3b6c0cb53d1f2d49d5b87",
+      "cacheKey": "94e601b0a5b23c45885150ff5731be5ff5f3e70a5a74ce7b163e8eb3d1a9621e",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.356341,
+        "alphaBounds": {
+          "x": 158,
+          "y": 70,
+          "width": 178,
+          "height": 369,
+          "fill": 0.720703
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-bamboo-mid.webp"
+    },
     "bounds": {
       "size": [
         1.455781,
@@ -2818,6 +4378,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-bamboo-small.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-bamboo-small.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6634,
+      "sha256": "3d13e0b36e140de0be5f2a1302ef37c302536f4e46ffadd4acd19ea8d064f865",
+      "transparent": true,
+      "sourceBundleSha256": "7c1140d65505ddb2494b42d84c83d073b16ca5c8aaeeb1a9df6477bd8699209b",
+      "cacheKey": "a470ec41e34d6a7ae2fd43522471b7cbcab678b795df1a82e400d164121d8af5",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 4.625937,
+        "alphaBounds": {
+          "x": 123,
+          "y": 78,
+          "width": 244,
+          "height": 368,
+          "fill": 0.71875
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-bamboo-small.webp"
+    },
     "bounds": {
       "size": [
         1.455781,
@@ -2868,6 +4468,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-bush.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-bush.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8984,
+      "sha256": "00465c2e190a27ef24f1d839bbed044a2e14f0d983f1f2b7ccefa0b5f89556bd",
+      "transparent": true,
+      "sourceBundleSha256": "e91aa3089ab9a5ae7b131549fdfd11f530676eda744b4a8c4dea80c849ea12ff",
+      "cacheKey": "58ce8d61d0c3155c400ab17e2b016d289f4d82315bd7a7673b8442c457d370cf",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.605858,
+        "alphaBounds": {
+          "x": 85,
+          "y": 117,
+          "width": 342,
+          "height": 301,
+          "fill": 0.667969
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-bush.webp"
+    },
     "bounds": {
       "size": [
         3.085658,
@@ -2918,6 +4558,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-button.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-button.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 5878,
+      "sha256": "4e4b760a3210665b788704db54afbd2e0b6d259eca5e4ff842698a5fbd4bcaf1",
+      "transparent": true,
+      "sourceBundleSha256": "8308d8ac38ca01cd966901a1dc917d7d61c4ae7815cdaa9991b18c50d730730e",
+      "cacheKey": "0dd0de08699636804844932a66c24eff4399ddeaf1cb480927eb1cbaf16e46d6",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.821486,
+        "alphaBounds": {
+          "x": 62,
+          "y": 147,
+          "width": 388,
+          "height": 281,
+          "fill": 0.757813
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-button.webp"
+    },
     "bounds": {
       "size": [
         1.32226,
@@ -2968,6 +4648,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-cart.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-cart.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 5926,
+      "sha256": "283691f7f104089604155da7ba3eabc3892b61688c95165c8014d886a03f750b",
+      "transparent": true,
+      "sourceBundleSha256": "2662db091c45d5fbc096c188c43d232104edc809e1e4ef5d9b68746164f8f223",
+      "cacheKey": "7824e99ac3322d2bfdc3d303888e8f3227bc9507678399610c6cb144f4534de2",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 5.665184,
+        "alphaBounds": {
+          "x": 60,
+          "y": 122,
+          "width": 396,
+          "height": 320,
+          "fill": 0.773438
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-cart.webp"
+    },
     "bounds": {
       "size": [
         1.960193,
@@ -3018,6 +4738,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-chest-closed.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-chest-closed.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9978,
+      "sha256": "36ea4e68c67edb461fd5b731b7def83e3cf5a834bac4abeace906e77c05e00fa",
+      "transparent": true,
+      "sourceBundleSha256": "69e1890a34fc45cf84c2ea067bd6a6b7fa08d9aca89285cf9935a8a801093b39",
+      "cacheKey": "1a82a392bb1ea3538c67a886715b4360129d66cc9a7d9449702d3089086afc0f",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 5.755245,
+        "alphaBounds": {
+          "x": 66,
+          "y": 86,
+          "width": 385,
+          "height": 397,
+          "fill": 0.775391
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-chest-closed.webp"
+    },
     "bounds": {
       "size": [
         1.836153,
@@ -3068,6 +4828,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-chest-open.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-chest-open.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9738,
+      "sha256": "78036dc4a8eca4358c22c21c0eb8671e56d621fa14fe80c951a5ac82af8c3b5b",
+      "transparent": true,
+      "sourceBundleSha256": "96291336dfb0bfc95604c1a02a94f951522387369538f745189a75f28cc731c0",
+      "cacheKey": "0fdea1018b04e6e54f746572d2dbf456a50bcc55b8a37b637f343efddc0a4d05",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 7.682604,
+        "alphaBounds": {
+          "x": 97,
+          "y": 87,
+          "width": 318,
+          "height": 392,
+          "fill": 0.765625
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-chest-open.webp"
+    },
     "bounds": {
       "size": [
         1.836153,
@@ -3118,6 +4918,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-crystal-big.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-crystal-big.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7734,
+      "sha256": "f0368e4c3b1a3849087d80ad4b7d1f6577499d02f71ba4acb05ed505deb163e1",
+      "transparent": true,
+      "sourceBundleSha256": "858d4658b79605064cbb1a27fc485e7cc40478c4eb6e07ace5843ca511aee626",
+      "cacheKey": "be7d9ac299b5ca7b5b95d4f8eaeef00b49d4347477089724ee407918944e2e8b",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 4.434207,
+        "alphaBounds": {
+          "x": 97,
+          "y": 93,
+          "width": 329,
+          "height": 377,
+          "fill": 0.736328
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-crystal-big.webp"
+    },
     "bounds": {
       "size": [
         1.502887,
@@ -3168,6 +5008,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-crystal-small.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-crystal-small.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6478,
+      "sha256": "9d52f5241c90dd453f8c44e1d6691680d88fe21a4c619abc1236efdf05873fbd",
+      "transparent": true,
+      "sourceBundleSha256": "c210d33370a203a66bbe81e9afb395a4a51c5076418f807a53ca6525f496cd0a",
+      "cacheKey": "1481a66e0f2d77332d8a6dee2f33b75672a24e0819af6c0b6f9fdf0a50495e96",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.227485,
+        "alphaBounds": {
+          "x": 121,
+          "y": 87,
+          "width": 265,
+          "height": 386,
+          "fill": 0.753906
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-crystal-small.webp"
+    },
     "bounds": {
       "size": [
         0.778967,
@@ -3218,6 +5098,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-deadtree-1.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-deadtree-1.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6982,
+      "sha256": "26d1dc7395c36cf5a1246d9699385d6821aaf773aa59f9a6f39c3bcd9e4accef",
+      "transparent": true,
+      "sourceBundleSha256": "03399b358486d82821f17902990e40da460655d8e4d9d5595441fe0c4904bb57",
+      "cacheKey": "0c306aad9c01ce7d28af4cdaa862894344630b352f0a0a474182e9f9cb01794d",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 10.695777,
+        "alphaBounds": {
+          "x": 127,
+          "y": 64,
+          "width": 260,
+          "height": 365,
+          "fill": 0.712891
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-deadtree-1.webp"
+    },
     "bounds": {
       "size": [
         4.332027,
@@ -3268,6 +5188,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-deadtree-2.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-deadtree-2.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6258,
+      "sha256": "caf96bb7c8a4ab46b7eb68507bcf8ad3020d2e4cec3e8dd1d496223f92dc655f",
+      "transparent": true,
+      "sourceBundleSha256": "4ff64d5a04039b58bc897ae5397de9bb921b71c28226ba70732763bd67fccb55",
+      "cacheKey": "f432fd08252789ce1db981286aff573dcf8a0cf546aca8bd8ee4701a1889d26e",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 9.381983,
+        "alphaBounds": {
+          "x": 136,
+          "y": 57,
+          "width": 207,
+          "height": 359,
+          "fill": 0.701172
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-deadtree-2.webp"
+    },
     "bounds": {
       "size": [
         2.971122,
@@ -3318,6 +5278,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-deadtree-3.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-deadtree-3.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 10480,
+      "sha256": "a62eb2e8d9cdf5177cbe6f086af6cb71dd239b552b47759f253a9a9e5e118d3e",
+      "transparent": true,
+      "sourceBundleSha256": "6e10064a31e75de39afdf840b0add29bec1093ca13ca686298a4942e2a8fcda3",
+      "cacheKey": "377b1f6e8bb83a24ea694762e36ad652a20ca44c7069ffef165ec31c7499e243",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 10.596895,
+        "alphaBounds": {
+          "x": 82,
+          "y": 64,
+          "width": 374,
+          "height": 363,
+          "fill": 0.730469
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-deadtree-3.webp"
+    },
     "bounds": {
       "size": [
         5.72017,
@@ -3368,6 +5368,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-door-closed.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-door-closed.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 4154,
+      "sha256": "0d65cb5f1807636902fac9e390763cebc7114cddc980a5f44f002b2aba5bc6f9",
+      "transparent": true,
+      "sourceBundleSha256": "ac0a9ecff51ecd6c3faa7c532f2e7494e9407471a2fcd951f927abdfe7c95a13",
+      "cacheKey": "7ff5ade4c8bb5fa71d332653511ea53fec1adf469bad22a2563cf9b78e4208f7",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 9.384699,
+        "alphaBounds": {
+          "x": 190,
+          "y": 66,
+          "width": 150,
+          "height": 368,
+          "fill": 0.71875
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-door-closed.webp"
+    },
     "bounds": {
       "size": [
         2,
@@ -3418,6 +5458,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-fence-center.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-fence-center.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8798,
+      "sha256": "bada12b8daa3ce90f2ab008c956db72eca50ff1712ed4f4b99449c4e538214a8",
+      "transparent": true,
+      "sourceBundleSha256": "36a6f00f7d8f71196b4c652353f5682595d0e6583ccc5ae715ec582707fc0a3d",
+      "cacheKey": "91d2f53ccd65b31679741504b4eadbcb8f023370d6b6d9e1f8365b3326079a37",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 4.645891,
+        "alphaBounds": {
+          "x": 107,
+          "y": 70,
+          "width": 332,
+          "height": 366,
+          "fill": 0.714844
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-fence-center.webp"
+    },
     "bounds": {
       "size": [
         2,
@@ -3468,6 +5548,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-fence-corner.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-fence-corner.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7492,
+      "sha256": "b96d76fafdc30640f71ed60ddd09cb4d287414d799545ae71c1e44414fd1b0f9",
+      "transparent": true,
+      "sourceBundleSha256": "8fb5ced2421df7d3fc6791a1bf8aa5095465cd9e4faeab65d5bc550d0cf9c851",
+      "cacheKey": "386b87a2915ea663589e0fdba68c0b63ccbd1312e00cfc8686b179254c65ba55",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 4.657505,
+        "alphaBounds": {
+          "x": 175,
+          "y": 70,
+          "width": 246,
+          "height": 366,
+          "fill": 0.714844
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-fence-corner.webp"
+    },
     "bounds": {
       "size": [
         1.290604,
@@ -3518,6 +5638,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-fence-end.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-fence-end.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 5844,
+      "sha256": "863d01c80b91214f704a002d1aba9bbb59701c836b504382c3edd384e7e4c4ae",
+      "transparent": true,
+      "sourceBundleSha256": "e672d5554aca003095ea23c4412413ba50e3787f83b3ecd1e144676593d7a1b1",
+      "cacheKey": "7f997afc50e36fc3f636c01fd4fdf6d7682f32acf7807ac552ced75b7bc43fdb",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 4.831726,
+        "alphaBounds": {
+          "x": 148,
+          "y": 89,
+          "width": 225,
+          "height": 366,
+          "fill": 0.714844
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-fence-end.webp"
+    },
     "bounds": {
       "size": [
         1.290604,
@@ -3568,6 +5728,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-fence-t.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-fence-t.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 11090,
+      "sha256": "cc7f160bf05b37ee20f334094795e5f0ec89dae8fb2b5933cb96f6e2d328dceb",
+      "transparent": true,
+      "sourceBundleSha256": "c1909e9b2dd6cd1390b968364c081f50a383547a66052d8d5da6337afb10f76b",
+      "cacheKey": "a6e9337a1303633592145cfdbb159fd7516709eb64cdd805b5b407e6d707e98a",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 4.281653,
+        "alphaBounds": {
+          "x": 119,
+          "y": 42,
+          "width": 380,
+          "height": 378,
+          "fill": 0.742188
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-fence-t.webp"
+    },
     "bounds": {
       "size": [
         2,
@@ -3618,6 +5818,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-flowers-1.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-flowers-1.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9488,
+      "sha256": "9ff0e00d0f9e42ddbc45a882bfd05f57c600afb29861013bd06a269a276426e6",
+      "transparent": true,
+      "sourceBundleSha256": "da1c966d3423345a8b21f5efc9005e9cb466742fe25594617d4bb41902030bd8",
+      "cacheKey": "66efefe787ceade2b510e954bc8d1189d8b93de978ce51010ea09ed13b4f75e2",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 5.574097,
+        "alphaBounds": {
+          "x": 75,
+          "y": 135,
+          "width": 364,
+          "height": 256,
+          "fill": 0.710938
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-flowers-1.webp"
+    },
     "bounds": {
       "size": [
         1.928676,
@@ -3668,6 +5908,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-flowers-2.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-flowers-2.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 10270,
+      "sha256": "3f5ba632904b9ebea25eabf95aa6926c34e24a089c125892e6efae1aebc6e3e5",
+      "transparent": true,
+      "sourceBundleSha256": "6c682046e09332f18b41e0895589e45acc354532b4d8047ba09f68503b00a6e2",
+      "cacheKey": "316aa8b64f040bd33c588e16413aa8c4c9cc4e333f5d6ff62b932ce0555d61d5",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.549024,
+        "alphaBounds": {
+          "x": 94,
+          "y": 115,
+          "width": 356,
+          "height": 371,
+          "fill": 0.724609
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-flowers-2.webp"
+    },
     "bounds": {
       "size": [
         1.829715,
@@ -3718,6 +5998,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-grass-big.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-grass-big.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7426,
+      "sha256": "50bca5fba644e9e676aa6f2d206578f7c29479168b455b704c2e4ddbbcd18ff3",
+      "transparent": true,
+      "sourceBundleSha256": "a10216baf0a93d009b6db6415bccbaa707e5787422b3e47fb580254ad5dbe0d0",
+      "cacheKey": "521d7bed8c5805084bbafce92510d28c4fd230802af1b5906f3ff0eb5c461b64",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.717466,
+        "alphaBounds": {
+          "x": 125,
+          "y": 76,
+          "width": 281,
+          "height": 368,
+          "fill": 0.71875
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-grass-big.webp"
+    },
     "bounds": {
       "size": [
         0.775984,
@@ -3768,6 +6088,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-grass-small.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-grass-small.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 5234,
+      "sha256": "d38f0716f2d8ea53ee57c11318a880cd379637b8adce104a4546f1475bf5d43d",
+      "transparent": true,
+      "sourceBundleSha256": "e1455364ecd49ba8b57b58e853ab0ccfef31d991632f039dd073649307451994",
+      "cacheKey": "497335740f4267dd8d8443f07209920f84f26fac2825885e7c437138c57aa781",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 1.898619,
+        "alphaBounds": {
+          "x": 136,
+          "y": 88,
+          "width": 211,
+          "height": 381,
+          "fill": 0.744141
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-grass-small.webp"
+    },
     "bounds": {
       "size": [
         0.632667,
@@ -3818,6 +6178,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-key.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-key.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8884,
+      "sha256": "ffcddc7a6cd27cb8af27158bd3cf049347693008f393af908b331dfa7da799df",
+      "transparent": true,
+      "sourceBundleSha256": "94b6db760ba15170dc6eb0b09e0e42d18fbb67ad65f4c6c7d1e605c0c22a8fee",
+      "cacheKey": "28c7435ab8ae612df3fe25afe7ba95358477fe99fcd8a5c8a7ace5e5504b815e",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.364185,
+        "alphaBounds": {
+          "x": 99,
+          "y": 115,
+          "width": 372,
+          "height": 329,
+          "fill": 0.726563
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-key.webp"
+    },
     "bounds": {
       "size": [
         1.930988,
@@ -3868,6 +6268,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-lever-left.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-lever-left.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6556,
+      "sha256": "20a5860b41a028db5e95064630c81dd875b57902f2ed36529ccd2ec3b3ac2c1a",
+      "transparent": true,
+      "sourceBundleSha256": "33031cde946298d0e208977f49fe630a4d24b2fd5532cbd7764e65ea7f83cc43",
+      "cacheKey": "545335a7a9762a71ad0798563401e31b6427e648de1708a5e190339c2a1e5e1c",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 4.676728,
+        "alphaBounds": {
+          "x": 127,
+          "y": 111,
+          "width": 330,
+          "height": 366,
+          "fill": 0.714844
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-lever-left.webp"
+    },
     "bounds": {
       "size": [
         1.973799,
@@ -3918,6 +6358,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-lever-right.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-lever-right.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6308,
+      "sha256": "83fc30a45b645cd82e31f33f5b8254b585f0570ef5573e26310346f5769cdbaa",
+      "transparent": true,
+      "sourceBundleSha256": "85cc0ec5262f94d98019b925622bcae9a4bf61702ea84d3897a4db161b495f7b",
+      "cacheKey": "0cb11fedc6c24fbb26cc96630421a0f9ff227710160e4578d17510a19a7b8f56",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 4.225561,
+        "alphaBounds": {
+          "x": 53,
+          "y": 158,
+          "width": 386,
+          "height": 277,
+          "fill": 0.753906
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-lever-right.webp"
+    },
     "bounds": {
       "size": [
         1.973799,
@@ -3968,6 +6448,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-mushroom.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-mushroom.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 5188,
+      "sha256": "58d4c3948fbb16a6c9ec190ecd72ca29636247b6c62ff03875988a531bf22ca5",
+      "transparent": true,
+      "sourceBundleSha256": "4c0c607ffbcdaf43f6315d60efd3cf4a8c1c7acd69635c2f1f09b0d2937d1bde",
+      "cacheKey": "c81b993dfce4cf00b08f7e67dc89c428074cc67ef6deda5057d600e57381e4a3",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.863909,
+        "alphaBounds": {
+          "x": 138,
+          "y": 119,
+          "width": 238,
+          "height": 378,
+          "fill": 0.738281
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-mushroom.webp"
+    },
     "bounds": {
       "size": [
         1.804868,
@@ -4018,6 +6538,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-plant-2.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-plant-2.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7726,
+      "sha256": "036604df27e9875c4b9487b8fcdaf37ae529cbb705dd8d5a95244fde072fc721",
+      "transparent": true,
+      "sourceBundleSha256": "63de84fb7a4d654a87b0020e42e9e4ec086681dc4fb5616bd4a37995fc0795e2",
+      "cacheKey": "99cbc04dd8880b5c4757f4b7235b11e22d7b3ea26361fdf7c34e5249b36a8859",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 5.036635,
+        "alphaBounds": {
+          "x": 67,
+          "y": 154,
+          "width": 378,
+          "height": 185,
+          "fill": 0.738281
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-plant-2.webp"
+    },
     "bounds": {
       "size": [
         2.660381,
@@ -4068,6 +6628,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-plant-3.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-plant-3.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7976,
+      "sha256": "239923a6e1a801649c5c63d508ade03645e8c67d3f8d330148fadb94e6e8133e",
+      "transparent": true,
+      "sourceBundleSha256": "30f0a18c5a5e5043a0fc93aeecb3c2280eb5aabe3fa98d80b9dc2b54022ae0db",
+      "cacheKey": "b06e1da489e64039114db77e0757f40161a386700b3074f1b88e5340d7e9cbc2",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.434427,
+        "alphaBounds": {
+          "x": 68,
+          "y": 148,
+          "width": 376,
+          "height": 215,
+          "fill": 0.734375
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-plant-3.webp"
+    },
     "bounds": {
       "size": [
         3.317297,
@@ -4118,6 +6718,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-rail-corner.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-rail-corner.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6500,
+      "sha256": "d2dc9c0db74ea66217139ff3379aab2c8acb3df7d4dbd0dbf02310ac7afe6de2",
+      "transparent": true,
+      "sourceBundleSha256": "5590faea1cd51275e68c4cf9709f79c1eb20fe5c9ffe5e8700fc1fa313a1454a",
+      "cacheKey": "4bb6b12d8734be43a1fe0262692baf4634cdbc3ca334fa7b679b24643a4ac478",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 5.130545,
+        "alphaBounds": {
+          "x": 72,
+          "y": 208,
+          "width": 369,
+          "height": 142,
+          "fill": 0.720703
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-rail-corner.webp"
+    },
     "bounds": {
       "size": [
         1.775204,
@@ -4168,6 +6808,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-rail-incline.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-rail-incline.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7510,
+      "sha256": "e1514d7ea3e3ef66b0139a3e6afc96c0ae6cf985c33afcf7d263052d2ae6c514",
+      "transparent": true,
+      "sourceBundleSha256": "58522b0e4cfa94057c9e2eac3ba5959c2930fc48bdddc2eec988e906bcc9a204",
+      "cacheKey": "0e0f30dc06662e4d3d2c2bdad019098499b4b220f62ba047474c36e2b6749267",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 5.13772,
+        "alphaBounds": {
+          "x": 98,
+          "y": 105,
+          "width": 368,
+          "height": 264,
+          "fill": 0.71875
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-rail-incline.webp"
+    },
     "bounds": {
       "size": [
         2,
@@ -4218,6 +6898,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-rail-straight.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-rail-straight.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7246,
+      "sha256": "b777e5de2ca09b6a545b68009be3084f3b02be3ee6d9e7a2e90c3e71e39627df",
+      "transparent": true,
+      "sourceBundleSha256": "735357e38313e52375db01f23ee69bc50ab971db7d211ee20517a6c5b8b5d69c",
+      "cacheKey": "4f3434757ad9b32eb3523cf630b3af3e684f78e75f09f0312c0cc0ae7199b62b",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 5.040792,
+        "alphaBounds": {
+          "x": 81,
+          "y": 179,
+          "width": 368,
+          "height": 190,
+          "fill": 0.71875
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-rail-straight.webp"
+    },
     "bounds": {
       "size": [
         2,
@@ -4268,6 +6988,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-rock1.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-rock1.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 5066,
+      "sha256": "266dd9c61d5d15235a1d83c833468a2119dbe75eb77f2dff3f279f6373569f81",
+      "transparent": true,
+      "sourceBundleSha256": "ba95f92e99e140e2dd697fc2af5f3f400914b47a42a334b32e589488ebe03c4f",
+      "cacheKey": "20fb87b6c99f9784f0fd699dfb420b6d2c5596758d1844264608f365d66a86b3",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.6359,
+        "alphaBounds": {
+          "x": 70,
+          "y": 137,
+          "width": 373,
+          "height": 299,
+          "fill": 0.728516
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-rock1.webp"
+    },
     "bounds": {
       "size": [
         0.933928,
@@ -4318,6 +7078,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-rock2.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-rock2.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 5436,
+      "sha256": "b07612d8bc5ced6968328b21c8a0125762165ffe3cbdc7a360e35f57bd42645e",
+      "transparent": true,
+      "sourceBundleSha256": "a41bd6d5b6fd059e1e65c0867d6ed6f4b9a2727bdac1824a323a6eb23044f38e",
+      "cacheKey": "0728b30e7a1d48892627a19148c6374a0370234d4d446760b510904f4bc7078c",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.375895,
+        "alphaBounds": {
+          "x": 82,
+          "y": 128,
+          "width": 372,
+          "height": 330,
+          "fill": 0.726563
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-rock2.webp"
+    },
     "bounds": {
       "size": [
         1.269242,
@@ -4368,6 +7168,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-tree-1.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-tree-1.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 5210,
+      "sha256": "eb264aae470f1fe58669a39479ace46d439ab27d0643992d416f6c1ddaead75c",
+      "transparent": true,
+      "sourceBundleSha256": "47a720506a08a945e2babb9f53a469188e69f585313cecd95c8219fe14aea889",
+      "cacheKey": "e9faf8466f545e277bcdcf3c58b8175e4655327a2291a017b87802764ab515c9",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 13.090044,
+        "alphaBounds": {
+          "x": 124,
+          "y": 46,
+          "width": 286,
+          "height": 365,
+          "fill": 0.712891
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-tree-1.webp"
+    },
     "bounds": {
       "size": [
         6.114482,
@@ -4418,6 +7258,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-tree-2.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-tree-2.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 5300,
+      "sha256": "a0c7e5b13d571853e7708bfcb4486198c3d5d6a3a8f63966d62f1299bddcbc28",
+      "transparent": true,
+      "sourceBundleSha256": "5c020965a7a6a528d7c08522063204829f2a621efceb12a66d42574090bd1dab",
+      "cacheKey": "9d54a028ac2794e448e6532df7f0be6538436104909591fc231ca0916931de54",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 14.242792,
+        "alphaBounds": {
+          "x": 134,
+          "y": 69,
+          "width": 253,
+          "height": 358,
+          "fill": 0.699219
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-tree-2.webp"
+    },
     "bounds": {
       "size": [
         5.34656,
@@ -4468,6 +7348,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-tree-3.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-tree-3.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8706,
+      "sha256": "5f6caa4be07529a8b2df189ae989c0823361f64850c191e9040ef69d8aaba2bd",
+      "transparent": true,
+      "sourceBundleSha256": "87d0bb3c982b8bc4c839a7180b3ee6badaeee37d58e70056f215ce87dcb112bb",
+      "cacheKey": "2424123755ecb09a36aabc4114a0a9b50074d30c033079a415e20c4282e10862",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 17.610475,
+        "alphaBounds": {
+          "x": 90,
+          "y": 85,
+          "width": 374,
+          "height": 335,
+          "fill": 0.730469
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-tree-3.webp"
+    },
     "bounds": {
       "size": [
         9.133852,
@@ -4518,6 +7438,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-block-blank.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-block-blank.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7606,
+      "sha256": "eac6f66ce58c4f27b9988f37f117f8ff7daa292badff8c2ab123e1332443624a",
+      "transparent": true,
+      "sourceBundleSha256": "7b7c878de0be4da43cf30098f6616959df578b18aad60afeb6edbb7645373c04",
+      "cacheKey": "d115e06e8da6a83ce8a661a7d9fe2255d38542681b5b69a349e9b097fc58b884",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.883468,
+        "alphaBounds": {
+          "x": 77,
+          "y": 94,
+          "width": 358,
+          "height": 367,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-pixel-blocks-gltf-block-blank.webp"
+    },
     "bounds": {
       "size": [
         2,
@@ -4569,6 +7529,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-block-square.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-block-square.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8986,
+      "sha256": "211f1859cc832acf89b9a92e5a6b26fa7fbccd68e637ea2163898e58fc68a8a5",
+      "transparent": true,
+      "sourceBundleSha256": "72d927e2bef2fe98f4e045f3c3dff2b3e158c047156ab081ecc82bbdd3a5d4f1",
+      "cacheKey": "de398b71939122d9335f15db1d7c5acb492c5b8b387e1c66e7670e526c620ee4",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.883468,
+        "alphaBounds": {
+          "x": 77,
+          "y": 94,
+          "width": 358,
+          "height": 367,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-pixel-blocks-gltf-block-square.webp"
+    },
     "bounds": {
       "size": [
         2,
@@ -4620,6 +7620,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-dark.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-dark.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7304,
+      "sha256": "1089155daec712018e8cffdca94665998fc3ae331a25f5477f8700a8a0a494ae",
+      "transparent": true,
+      "sourceBundleSha256": "2622b9bf5185b436ba6bff7debdc21f8994a248344372f5bf0c8a2551eeb0750",
+      "cacheKey": "1fe4ba6141d69164123a4ae260d5a5e9345290b506fc2768a5998f024c26d6fa",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.883468,
+        "alphaBounds": {
+          "x": 77,
+          "y": 94,
+          "width": 358,
+          "height": 367,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-dark.webp"
+    },
     "bounds": {
       "size": [
         2,
@@ -4671,6 +7711,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-grey.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-grey.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8072,
+      "sha256": "85652d53eab21d24513915a33ff151d37c7e0fc1ff8eca8848f3a9a1914192fd",
+      "transparent": true,
+      "sourceBundleSha256": "ebd5eebb65b8326ecf8e8e84a10cb9746ddb3248f6bd88c6d8a7c44c4ab270a4",
+      "cacheKey": "0e9ea3dc46c11be0a6220f0e2ab729f55fbc2c67220b4d062ff9a6c3c52b6a49",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.883468,
+        "alphaBounds": {
+          "x": 77,
+          "y": 94,
+          "width": 358,
+          "height": 367,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-grey.webp"
+    },
     "bounds": {
       "size": [
         2,
@@ -4722,6 +7802,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-red.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-red.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 13914,
+      "sha256": "e5f9ef04cb7cfeda6a2a902de3af49489d6eebaea33bd15bf6aef2a61df917aa",
+      "transparent": true,
+      "sourceBundleSha256": "cc81dc4357113ef0a1337400a1dcdd2ccc8982c069e22d7fbe840eecb5d6bd54",
+      "cacheKey": "1e3136c08cc062e955be99e365a68e941d27b5d7c32ec3e443a32e27d16c14fe",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.883468,
+        "alphaBounds": {
+          "x": 77,
+          "y": 94,
+          "width": 358,
+          "height": 367,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-red.webp"
+    },
     "bounds": {
       "size": [
         2,
@@ -4773,6 +7893,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-yellow.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-yellow.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9314,
+      "sha256": "abbebcaed51bc37be61edcc9662590abfa89f0ed961d7d5e7b4572c181c2a52b",
+      "transparent": true,
+      "sourceBundleSha256": "5eb4403e229d67048ee4048b08c96816fc8e12562da85586e94f829b826805a3",
+      "cacheKey": "49606a02f822153dc62a137598eb09d3c190d5c7a65e94ba59237166ad7db3e3",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.883468,
+        "alphaBounds": {
+          "x": 77,
+          "y": 94,
+          "width": 358,
+          "height": 367,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-yellow.webp"
+    },
     "bounds": {
       "size": [
         2,
@@ -4824,6 +7984,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-coal.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-coal.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9538,
+      "sha256": "d69cec1389d94af9118d8d180ea36a5220069d8074e0e969e7554d2f16cfffce",
+      "transparent": true,
+      "sourceBundleSha256": "1be5ba753904abc736f50a2df6d26ca13527e3ecc74c8045d27b1e4b3145ceed",
+      "cacheKey": "cc92b7b0d83c253ca2907bb128064aac093ca8e7707b006cfb11e5e09b6bc2f3",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.883468,
+        "alphaBounds": {
+          "x": 77,
+          "y": 94,
+          "width": 358,
+          "height": 367,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-pixel-blocks-gltf-coal.webp"
+    },
     "bounds": {
       "size": [
         2,
@@ -4875,6 +8075,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-diamond.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-diamond.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 13784,
+      "sha256": "dc0a98935c2233e6321f2b044ab5a6d0d4b1c4474f56738e97e30abbe60a49f0",
+      "transparent": true,
+      "sourceBundleSha256": "36d3bcf7f0e6748f319796790df7ab32fc7448efd5317db3b8a5ff8ad72833a3",
+      "cacheKey": "55b4aa3aff5c891ac04501130e6e4808fe579429ca24acf711d2ce17db0e55a5",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.883468,
+        "alphaBounds": {
+          "x": 77,
+          "y": 94,
+          "width": 358,
+          "height": 367,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-pixel-blocks-gltf-diamond.webp"
+    },
     "bounds": {
       "size": [
         2,
@@ -4926,6 +8166,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-dirt.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-dirt.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 11514,
+      "sha256": "4a9c4b1b5060c03328dd3880e2f6e7a96c1aa59ff5d9456cb0297a4c98e0804e",
+      "transparent": true,
+      "sourceBundleSha256": "2e2d5eca36a89e8494b7101b9fe4c5d7dc47873dc0f9f912611152a5ffc9f4c1",
+      "cacheKey": "df726926f0df56435cbc1a98d3920cd7a52a96129794c36b694d61b869319c9b",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.883468,
+        "alphaBounds": {
+          "x": 77,
+          "y": 94,
+          "width": 358,
+          "height": 367,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-pixel-blocks-gltf-dirt.webp"
+    },
     "bounds": {
       "size": [
         2,
@@ -4977,6 +8257,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-exclamation.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-exclamation.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8160,
+      "sha256": "a3ccc8417e9023cf46963a4b9a9f4816e779ccb9edea055d87b805623128df46",
+      "transparent": true,
+      "sourceBundleSha256": "5b14014a204379f41ac9eaaf3b462081701ef9ad802a3298e93420550ec8bd2f",
+      "cacheKey": "a5b3e8c74ab27332a1e59a09d050d203a16d8a3b216e8562f0ea5c6bb3fce252",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.883468,
+        "alphaBounds": {
+          "x": 77,
+          "y": 94,
+          "width": 358,
+          "height": 367,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-pixel-blocks-gltf-exclamation.webp"
+    },
     "bounds": {
       "size": [
         2,
@@ -5028,6 +8348,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-grass.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-grass.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 11880,
+      "sha256": "ce7525bbb570cc89df80aa205fc3875b6a39e97d2d64d0696395f5ce15e66a29",
+      "transparent": true,
+      "sourceBundleSha256": "5c75f80cd6e7dc2b1b8500ba01951f56c8c3358d6f0bf4dcfba519a7bafe2304",
+      "cacheKey": "31246904b07672df2f28571336b8ab3d059aabf4ef216baed99263dc531ee84c",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.883468,
+        "alphaBounds": {
+          "x": 77,
+          "y": 94,
+          "width": 358,
+          "height": 367,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-pixel-blocks-gltf-grass.webp"
+    },
     "bounds": {
       "size": [
         2,
@@ -5079,6 +8439,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-ice.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-ice.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9366,
+      "sha256": "d3ad677967445d223595962af8a24ecd7c6db0f0557902ba5b6882810ca34493",
+      "transparent": true,
+      "sourceBundleSha256": "617225c93d2a169d9c80405a8fdf19ad000c138763696d574a9eacd9880d5edc",
+      "cacheKey": "7da2cc584841a52f2f4c309feb70ae473a38d5024e5076ac32ce4ca07573da00",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.883468,
+        "alphaBounds": {
+          "x": 77,
+          "y": 94,
+          "width": 358,
+          "height": 367,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-pixel-blocks-gltf-ice.webp"
+    },
     "bounds": {
       "size": [
         2,
@@ -5130,6 +8530,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-leaves.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-leaves.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 14830,
+      "sha256": "918b9b249117ddb4754c263eefc7e72ce40e421925d250587bf72fb11d32669c",
+      "transparent": true,
+      "sourceBundleSha256": "e91df8e2eced895af60592ea73602ee38703ff2aca8c61adc3c1fd74886dda74",
+      "cacheKey": "6fd3b227134243ca320404ceabb1fada9c178a2f3ee12d6bca422429213b1213",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.883468,
+        "alphaBounds": {
+          "x": 77,
+          "y": 94,
+          "width": 358,
+          "height": 367,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-pixel-blocks-gltf-leaves.webp"
+    },
     "bounds": {
       "size": [
         2,
@@ -5181,6 +8621,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-questionmark.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-questionmark.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8650,
+      "sha256": "2f7be917bed047f5e383e1594c6533ef7d7bf730687cc6c4c5fc442f05a0692d",
+      "transparent": true,
+      "sourceBundleSha256": "c0a52f6ac451611453fa43e08bd37ce8a6895845b1a938863bf4de5fc55bd7f0",
+      "cacheKey": "c95d3ca6f7ea9939c7f2889707d53456388bfbdf12ee3ac48502de167c38a034",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.883468,
+        "alphaBounds": {
+          "x": 77,
+          "y": 94,
+          "width": 358,
+          "height": 367,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-pixel-blocks-gltf-questionmark.webp"
+    },
     "bounds": {
       "size": [
         2,
@@ -5232,6 +8712,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-snow.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-snow.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 12230,
+      "sha256": "882a39e2c10e5bc897fad48d20eed8f47668ebef5e02cb08f8f179f23d14ee85",
+      "transparent": true,
+      "sourceBundleSha256": "62df2669c0cec3d81f94f723ca302e145bcf2c34c65cc63cfcc6c4cb7eb0b0c0",
+      "cacheKey": "1dddc6ce94123fde085448d5c3ed66b15df5b7adcdb13183993cc816ef588de3",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.883468,
+        "alphaBounds": {
+          "x": 77,
+          "y": 94,
+          "width": 358,
+          "height": 367,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-pixel-blocks-gltf-snow.webp"
+    },
     "bounds": {
       "size": [
         2,
@@ -5283,6 +8803,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-stone.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-stone.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7960,
+      "sha256": "05d09369b398b660726cf5a89e4cf4c7fd9f5a59ba5eb17cbb2f481f8df1efc1",
+      "transparent": true,
+      "sourceBundleSha256": "e506eb1423c5941d93fd483f464fd8f09a674b1137dd6472a63701bac28abf36",
+      "cacheKey": "34e75c3d870ff10fe66ff08b94c5aa44967b6c4e50dd8fbfbbc9051002ba51c3",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.883468,
+        "alphaBounds": {
+          "x": 77,
+          "y": 94,
+          "width": 358,
+          "height": 367,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-pixel-blocks-gltf-stone.webp"
+    },
     "bounds": {
       "size": [
         2,
@@ -5334,6 +8894,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-wood.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-wood.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8462,
+      "sha256": "9c8e486eb02d1f8a3eea23b99e302004d12cdc0ff4b3d87488275980ca6df8c8",
+      "transparent": true,
+      "sourceBundleSha256": "2a20b4bc48cbbfb79cd87fe24fdab6e55ba3299424f519012e94183b0cc8d015",
+      "cacheKey": "5c4cb38c9c3721f65745b4de96dbfd45635a0a7befd1d60ab0343959b573adf9",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.883468,
+        "alphaBounds": {
+          "x": 77,
+          "y": 94,
+          "width": 358,
+          "height": 367,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-pixel-blocks-gltf-wood.webp"
+    },
     "bounds": {
       "size": [
         2,
@@ -5385,6 +8985,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-woodplanks.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-woodplanks.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9888,
+      "sha256": "10ebfd30cea44e41c2e9f5683a8ec48ee67d55ddb311d1fcc10b302f8d2f5d7a",
+      "transparent": true,
+      "sourceBundleSha256": "a79c7ff2a74381a05063bd0ee4d085e6ccd5c72cdef0fe0549f581088ae84e8b",
+      "cacheKey": "3be2e6f17a5dd456f597461985942844725303dddac84b38f15bf448956367bf",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.883468,
+        "alphaBounds": {
+          "x": 77,
+          "y": 94,
+          "width": 358,
+          "height": 367,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-pixel-blocks-gltf-woodplanks.webp"
+    },
     "bounds": {
       "size": [
         2,
@@ -5436,6 +9076,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-axe-diamond.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-axe-diamond.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 5224,
+      "sha256": "2a160b9ddf5c2c7711381c617c159cde05eeff1f9ff468f94960e8dd987a9b01",
+      "transparent": true,
+      "sourceBundleSha256": "dd76e2ddf5387e9678f8ee8535714bc8c2dcab80e2d160d195ee7c436d763110",
+      "cacheKey": "0d09419a79df7ad64472aa797d3f1a30e9f5f8468cd8c06176972879a44be863",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.668563,
+        "alphaBounds": {
+          "x": 191,
+          "y": 71,
+          "width": 147,
+          "height": 374,
+          "fill": 0.730469
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-tools-gltf-axe-diamond.webp"
+    },
     "bounds": {
       "size": [
         0.737686,
@@ -5487,6 +9167,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-axe-gold.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-axe-gold.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 5272,
+      "sha256": "527bfc9a0e548a48e160e29c92ea74a0563b446d59e03cd0076be67ce1b34b98",
+      "transparent": true,
+      "sourceBundleSha256": "83dbb9068288d5452464e2eea2f83f7e89e75d9871ba9776959c7be199c15289",
+      "cacheKey": "25fed3240f530b6664f485eaf0aa04d10c904abbcabd579f832eacc9f03b6cfb",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.668563,
+        "alphaBounds": {
+          "x": 191,
+          "y": 71,
+          "width": 147,
+          "height": 374,
+          "fill": 0.730469
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-tools-gltf-axe-gold.webp"
+    },
     "bounds": {
       "size": [
         0.737686,
@@ -5538,6 +9258,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-axe-stone.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-axe-stone.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 4584,
+      "sha256": "2f80864214a6f1ae037ea51b4bbb79207bcfc7a89b69ebdaafd3a5acd34f2f1c",
+      "transparent": true,
+      "sourceBundleSha256": "3324c0083ef3183005c73087e08f57002ac66f8d9dedd56a6a9327e89ee06ab7",
+      "cacheKey": "1a5d173c2bc4f9161ae4b5a0862d3c9a3431d2a5f33e4d5ac8897c0b841520d7",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.668563,
+        "alphaBounds": {
+          "x": 191,
+          "y": 71,
+          "width": 147,
+          "height": 374,
+          "fill": 0.730469
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-tools-gltf-axe-stone.webp"
+    },
     "bounds": {
       "size": [
         0.737686,
@@ -5589,6 +9349,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-axe-wood.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-axe-wood.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 4722,
+      "sha256": "39eddc0ac8d06f4dc0a0c2f2fe5c4ca882ec28b88e9061d0ec3cd30e11cd859b",
+      "transparent": true,
+      "sourceBundleSha256": "58906b3ef4284817c25d181543173dcc15d23c8a71d25d3b6e324a6649878ea0",
+      "cacheKey": "a1e1dd7cf2599fdbbc58702a910c617c792f7d02f77794daf79173aecedb4ae3",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.668563,
+        "alphaBounds": {
+          "x": 191,
+          "y": 71,
+          "width": 147,
+          "height": 374,
+          "fill": 0.730469
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-tools-gltf-axe-wood.webp"
+    },
     "bounds": {
       "size": [
         0.737686,
@@ -5640,6 +9440,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-pickaxe-diamond.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-pickaxe-diamond.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 5734,
+      "sha256": "cbedf457f00c613e150e4f8fa1ac1cdad862d9ab7a23b014db738c25f5d836c7",
+      "transparent": true,
+      "sourceBundleSha256": "48c64e98380b7c6b417adab53a7dbe9fddf89e47f4ac1c011c77b262afc3b493",
+      "cacheKey": "08d89f6fc80f997ebe8a7ed28564f2fd542e1740975f7db2ab423645a79737b8",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.668563,
+        "alphaBounds": {
+          "x": 157,
+          "y": 61,
+          "width": 217,
+          "height": 364,
+          "fill": 0.710938
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-tools-gltf-pickaxe-diamond.webp"
+    },
     "bounds": {
       "size": [
         1.21656,
@@ -5691,6 +9531,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-pickaxe-gold.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-pickaxe-gold.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 5852,
+      "sha256": "167168e1c7f5bcd4be13c4f0084e62ea295d60b83d70f34fc80b1d9966f77abc",
+      "transparent": true,
+      "sourceBundleSha256": "71fef612daa352ace79c94a017ccfa4605eb213d441d55e7c2c324005433208c",
+      "cacheKey": "b484e4729858d0ab842cca1d6cf8928e78fb55aa6db607ced99c343eef4b7508",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.668563,
+        "alphaBounds": {
+          "x": 157,
+          "y": 61,
+          "width": 217,
+          "height": 364,
+          "fill": 0.710938
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-tools-gltf-pickaxe-gold.webp"
+    },
     "bounds": {
       "size": [
         1.21656,
@@ -5742,6 +9622,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-pickaxe-stone.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-pickaxe-stone.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 4986,
+      "sha256": "58885bb01e2a2de3ab6c98b37cc3e031203f966cd1672464e5296cc847d06438",
+      "transparent": true,
+      "sourceBundleSha256": "4956d20874e13c55f6abf6c007ec7cdbf344e4b10d2d40d33ee25a5ca70f7de1",
+      "cacheKey": "93a4bebe153e45788bb61ff397465ef41f563930bee296cc2cb795aee2aeea2c",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.668563,
+        "alphaBounds": {
+          "x": 157,
+          "y": 61,
+          "width": 217,
+          "height": 364,
+          "fill": 0.710938
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-tools-gltf-pickaxe-stone.webp"
+    },
     "bounds": {
       "size": [
         1.21656,
@@ -5793,6 +9713,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-pickaxe-wood.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-pickaxe-wood.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 5228,
+      "sha256": "7a43e7ca6614701e8d03218f4038fff71ab88260439206e13eb35ca2da0a9506",
+      "transparent": true,
+      "sourceBundleSha256": "65a793b62bff97de701d01aa4e17c67fffffec0dd0069e6def70a09aa4de9853",
+      "cacheKey": "87fe1b6a379f45a55715d9455d6b75375bf1b648131b694cfc6111c8bf53232e",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.668563,
+        "alphaBounds": {
+          "x": 157,
+          "y": 61,
+          "width": 217,
+          "height": 364,
+          "fill": 0.710938
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-tools-gltf-pickaxe-wood.webp"
+    },
     "bounds": {
       "size": [
         1.21656,
@@ -5844,6 +9804,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-shovel-diamond.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-shovel-diamond.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 4244,
+      "sha256": "f5185f8a55a6da66860a617d13f99828b982068ddd3870a110eb92af1221ac1e",
+      "transparent": true,
+      "sourceBundleSha256": "da5ab0f8664ce44fc6c3fc47f6be85cb63e938064e1a74b43f4a6b5a12701243",
+      "cacheKey": "5121a22e1e5f32d480b9ce7da447e7f8cec0d68e8b15f6cfacc531160757a632",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.627823,
+        "alphaBounds": {
+          "x": 204,
+          "y": 63,
+          "width": 109,
+          "height": 359,
+          "fill": 0.701172
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-tools-gltf-shovel-diamond.webp"
+    },
     "bounds": {
       "size": [
         0.58395,
@@ -5895,6 +9895,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-shovel-gold.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-shovel-gold.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 4406,
+      "sha256": "b84647d9e3ad35fa83e27a892a8ea1e31640bf8f8a5dbc2f4b815f48c6736bc7",
+      "transparent": true,
+      "sourceBundleSha256": "8b10da7de8bb464f1578fa8373e6ccad6fe4f7e5bcd09970e6e054f5cc69b3b0",
+      "cacheKey": "aa5b13f070664589dbebc2728198f67b7b4a01f7dbad2cbc11a2ddceff603a84",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.627823,
+        "alphaBounds": {
+          "x": 204,
+          "y": 63,
+          "width": 109,
+          "height": 359,
+          "fill": 0.701172
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-tools-gltf-shovel-gold.webp"
+    },
     "bounds": {
       "size": [
         0.58395,
@@ -5946,6 +9986,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-shovel-stone.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-shovel-stone.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 3650,
+      "sha256": "6861a671ecaa56ce54c49fdd0cf3032678d9fb797fa08dda0b3cb3b47bfd8fe8",
+      "transparent": true,
+      "sourceBundleSha256": "d545a73793508b1801492c3abf78ec2faea8d95bc2d59ef3792a92c67e556389",
+      "cacheKey": "29dfbcd4d660dd9d96f9f2e50c5e455240d998bd1154df85e3e21f6ec8a9e486",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.627823,
+        "alphaBounds": {
+          "x": 204,
+          "y": 63,
+          "width": 109,
+          "height": 359,
+          "fill": 0.701172
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-tools-gltf-shovel-stone.webp"
+    },
     "bounds": {
       "size": [
         0.58395,
@@ -5997,6 +10077,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-shovel-wood.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-shovel-wood.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 3860,
+      "sha256": "0616b4e915eeedceed5e4c1b9a66d33c978f737793c0ff527e5a5d8e0b2fef5a",
+      "transparent": true,
+      "sourceBundleSha256": "093b9b5dc0cf59635a43f256d6d881d31669f894f829cc1fe6b29c8bbb84fc14",
+      "cacheKey": "74e5b9801475547cd52959e6668b477e16bd2e929ad96556f2abc206a5efa40f",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.627823,
+        "alphaBounds": {
+          "x": 204,
+          "y": 63,
+          "width": 109,
+          "height": 359,
+          "fill": 0.701172
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-tools-gltf-shovel-wood.webp"
+    },
     "bounds": {
       "size": [
         0.58395,
@@ -6048,6 +10168,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-sword-diamond.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-sword-diamond.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 4004,
+      "sha256": "59fb7ecfb6f66acab7b30681dbfbff878d9bf2cae63e5f733124ec845435f968",
+      "transparent": true,
+      "sourceBundleSha256": "e35c1b3ad0501e9078d88a38e530cae74bdf34deb117f5ca9b27c9affac01bbf",
+      "cacheKey": "b5e2f5f54e0f229a8b3b0ff1b66f259c4801c350561fe2e4fd17fc6e073592a0",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 4.395891,
+        "alphaBounds": {
+          "x": 209,
+          "y": 67,
+          "width": 96,
+          "height": 349,
+          "fill": 0.681641
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-tools-gltf-sword-diamond.webp"
+    },
     "bounds": {
       "size": [
         0.590149,
@@ -6099,6 +10259,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-sword-gold.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-sword-gold.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 4192,
+      "sha256": "ab38dec416e835721cde744665adbfab1f0ecde0d0c05b539f46f08d630eac2d",
+      "transparent": true,
+      "sourceBundleSha256": "5ae2100f37651ce5beb655770bc48e7f30ee6c8e2141f576ddc88f1eed671b02",
+      "cacheKey": "83199869fede9d8fa6d8b0350ea58c7fa6c24687d19479fc1b2b1e40a38099e4",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 4.395891,
+        "alphaBounds": {
+          "x": 209,
+          "y": 67,
+          "width": 96,
+          "height": 349,
+          "fill": 0.681641
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-tools-gltf-sword-gold.webp"
+    },
     "bounds": {
       "size": [
         0.590149,
@@ -6150,6 +10350,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-sword-stone.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-sword-stone.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 3420,
+      "sha256": "9332e308b0a2882dd033291754ac9e64286577763c403ca25cea47cfaa5e7569",
+      "transparent": true,
+      "sourceBundleSha256": "783ac846167ea90bd50354c3fa9e2c2629031945706f1fbdd412251ff39776a3",
+      "cacheKey": "ee924269ea2831140a86a3362a12c0c16672ebf985ec4cf98da325628971be0c",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 4.395891,
+        "alphaBounds": {
+          "x": 209,
+          "y": 67,
+          "width": 96,
+          "height": 349,
+          "fill": 0.681641
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-tools-gltf-sword-stone.webp"
+    },
     "bounds": {
       "size": [
         0.590149,
@@ -6201,6 +10441,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-sword-wood.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-sword-wood.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 3724,
+      "sha256": "131ac1367b93ed7fd078dbfee625827b345c9692dbd0296e59036375c53d5291",
+      "transparent": true,
+      "sourceBundleSha256": "d3ba72cc7efa6b774417fef11b90c3cea5471301824ddb025b9cbc024ac5c57b",
+      "cacheKey": "548ab2d8927a6a313af6c1715d7865328aacd8848791fd9afa51070f6bf53f34",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 4.395891,
+        "alphaBounds": {
+          "x": 209,
+          "y": 67,
+          "width": 96,
+          "height": 349,
+          "fill": 0.681641
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-cube-world-kit-tools-gltf-sword-wood.webp"
+    },
     "bounds": {
       "size": [
         0.590149,

@@ -121,6 +121,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-characters-gltf-astronaut-barbarathebee.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-characters-gltf-astronaut-barbarathebee.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 11334,
+          "sha256": "ac471386db675d3a4a6d36ee06b8fd06866061c28ed8f66dd489b62af125c1c4",
+          "transparent": true,
+          "sourceBundleSha256": "947e64475b0041dba446725b743ff45fea0580b5e2e73887cba9271e782c8a42",
+          "cacheKey": "b74521ecdbafea742939faa35191eadfe284860cd94ddf75ca441ddc19e58053",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 6.691861,
+            "alphaBounds": {
+              "x": 104,
+              "y": 71,
+              "width": 340,
+              "height": 372,
+              "fill": 0.726563
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-characters-gltf-astronaut-barbarathebee.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -432,6 +472,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-characters-gltf-astronaut-fernandotheflamingo.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-characters-gltf-astronaut-fernandotheflamingo.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 11136,
+          "sha256": "1d1985c49d8b34508a0cf89d1832e7b2bef2d29ad38855244408eda35ed73ad1",
+          "transparent": true,
+          "sourceBundleSha256": "e0b6c6604498170a30e4a47d3806bea5f2196b3855cf029b78bdea0d7bfb2639",
+          "cacheKey": "f571b5262496586bed01f44aef08667df6fb5e4466222e517a968b3ee014edba",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 6.588591,
+            "alphaBounds": {
+              "x": 102,
+              "y": 73,
+              "width": 345,
+              "height": 376,
+              "fill": 0.734375
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-characters-gltf-astronaut-fernandotheflamingo.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -743,6 +823,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-characters-gltf-astronaut-finnthefrog.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-characters-gltf-astronaut-finnthefrog.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 11826,
+          "sha256": "5c2a5fce4aee70b3a42ab3027876aeec46db6316b5b4dfc837ffa7fcf9dfba30",
+          "transparent": true,
+          "sourceBundleSha256": "64ca155dd007d9e280a41c3b90452a29b0eff330a79e89596d3eb05e8b99fab5",
+          "cacheKey": "ffdb8c658d2085f4ada9a65e5c72533a435882cb9be2fe96ef55aa1dad7f642e",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 6.237475,
+            "alphaBounds": {
+              "x": 108,
+              "y": 67,
+              "width": 364,
+              "height": 376,
+              "fill": 0.734375
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-characters-gltf-astronaut-finnthefrog.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -1054,6 +1174,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-characters-gltf-astronaut-raetheredpanda.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-characters-gltf-astronaut-raetheredpanda.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 11816,
+          "sha256": "008c49d1f4963e77c10443bb81df3826a958c0faa4968c843175004481bca880",
+          "transparent": true,
+          "sourceBundleSha256": "0dcbc4a5ff31695bcd76fb68528ef9b9a6c5f7fa7735d9b8839cc84f462c35ab",
+          "cacheKey": "a418344c7f1ce529f66347a7bc664212f5efe062e8f6942922b9c86d5f566f62",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 7.001669,
+            "alphaBounds": {
+              "x": 112,
+              "y": 68,
+              "width": 324,
+              "height": 372,
+              "fill": 0.726563
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-characters-gltf-astronaut-raetheredpanda.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -1365,6 +1525,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-characters-gltf-enemy-extrasmall.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-characters-gltf-enemy-extrasmall.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 5940,
+          "sha256": "fe23b39b9f81efbb4f5b1f24085ace589288f97b82eb6e7bf2350f2555a3ce1d",
+          "transparent": true,
+          "sourceBundleSha256": "a80fbb1a84053a5b18fd57744b10f997a88da91be8e59e260fbd4683f6907761",
+          "cacheKey": "9a55b27c1c212358d09319f9a477c28e3e8b3bbaf9c97826e4bb70545c4331d7",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.600204,
+            "alphaBounds": {
+              "x": 143,
+              "y": 64,
+              "width": 215,
+              "height": 366,
+              "fill": 0.714844
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-characters-gltf-enemy-extrasmall.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -1558,6 +1758,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-characters-gltf-enemy-flying.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-characters-gltf-enemy-flying.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 5866,
+          "sha256": "6fc17a8cdeff301aa1c01e9101f961d4fad882634e2e466cb39132174097f0ae",
+          "transparent": true,
+          "sourceBundleSha256": "b56e21d02a2c997f15b62ec3873f34be02b56bb67e83846669e0e64423ccc45e",
+          "cacheKey": "72727e6f767888e33c4c551af04c1f7441bfb6f7317bd3f02b19b520767ef7c1",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 7.930848,
+            "alphaBounds": {
+              "x": 187,
+              "y": 63,
+              "width": 134,
+              "height": 360,
+              "fill": 0.703125
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-characters-gltf-enemy-flying.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -1751,6 +1991,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-characters-gltf-enemy-large.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-characters-gltf-enemy-large.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 7134,
+          "sha256": "eeb045add2f54f206640c012411a15933efbd3eff0d5e78e416b835ddfc286ca",
+          "transparent": true,
+          "sourceBundleSha256": "7a6867dd78aeec6c8ecea6339263dbe713e95130ddb4bcf8fb83f6bcf5724455",
+          "cacheKey": "e1dda82e418e900417e3033c176ed3006354f5755881d13454936e3c81b88683",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 8.419453,
+            "alphaBounds": {
+              "x": 165,
+              "y": 83,
+              "width": 222,
+              "height": 366,
+              "fill": 0.714844
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-characters-gltf-enemy-large.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -2016,6 +2296,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-characters-gltf-enemy-small.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-characters-gltf-enemy-small.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 6502,
+          "sha256": "f21f3d0e2eed4e3b8f60d0ff5e60438104a7363d1efd5829b3b16f70c35d80a8",
+          "transparent": true,
+          "sourceBundleSha256": "50716f617f298b3e420b8fdb5f3421e12519bb7d4710e2913a7765108146d2ba",
+          "cacheKey": "ce6365bb4fe0c707074436294bbba7511383444ea97a5a67445935c4487852c7",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 5.021,
+            "alphaBounds": {
+              "x": 151,
+              "y": 60,
+              "width": 219,
+              "height": 389,
+              "fill": 0.759766
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-characters-gltf-enemy-small.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -2209,6 +2529,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-characters-gltf-mech-barbarathebee.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-characters-gltf-mech-barbarathebee.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 13710,
+          "sha256": "177701d86c953e00e9d9721e0c513e094a97c8dad7f61ec820149b60c175c7b2",
+          "transparent": true,
+          "sourceBundleSha256": "e5b2de51bec975438c6bf8c53bc4dfb8986c3d0f487089fbd970e694ff3ae8fe",
+          "cacheKey": "0da3ee0be5a57ea14246c630a249b0cf8cd6e3237d6609d1f17d3f10205bd358",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 6.942715,
+            "alphaBounds": {
+              "x": 74,
+              "y": 69,
+              "width": 368,
+              "height": 368,
+              "fill": 0.71875
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-characters-gltf-mech-barbarathebee.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -2507,6 +2867,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-characters-gltf-mech-fernandotheflamingo.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-characters-gltf-mech-fernandotheflamingo.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 12864,
+          "sha256": "dc3068acd2c9e46ade78f9bb7f91256a731407a49baebc2615a65e2c8555acf9",
+          "transparent": true,
+          "sourceBundleSha256": "b13247938c7b7c28248fefa31d6e517fab890b7eef239c1738d2f2f5a0939f24",
+          "cacheKey": "470b84e5c88e033b37b39c1d37ef0c18c9e9769934a554762f974e99351f84e6",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 7.512118,
+            "alphaBounds": {
+              "x": 88,
+              "y": 66,
+              "width": 333,
+              "height": 387,
+              "fill": 0.755859
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-characters-gltf-mech-fernandotheflamingo.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -2805,6 +3205,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-characters-gltf-mech-finnthefrog.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-characters-gltf-mech-finnthefrog.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 13668,
+          "sha256": "77d93d4511869e13cce660e686218940568fc7d62de553b532e28e16fa3da76c",
+          "transparent": true,
+          "sourceBundleSha256": "6158126a3433f712899865df57da0ee0f2f7ed8a39213c37184b3e6b8713552a",
+          "cacheKey": "9441c08685b4f71b99744be322fd8b9315da3fd8cd6aca7c5064eb840a01c09c",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 8.919839,
+            "alphaBounds": {
+              "x": 105,
+              "y": 93,
+              "width": 307,
+              "height": 366,
+              "fill": 0.714844
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-characters-gltf-mech-finnthefrog.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -3103,6 +3543,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-characters-gltf-mech-raetheredpanda.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-characters-gltf-mech-raetheredpanda.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 13388,
+          "sha256": "b918cbe568e3de40282c5b92ec08febe2ec180b1c3559002ec07e7e3ffde6042",
+          "transparent": true,
+          "sourceBundleSha256": "e765795fc1e6b8bdd7180dec463cca561ae95660d30dc6117d7d1a922a8bcd28",
+          "cacheKey": "af37d4e6460d8ac916c9ba70216a76f891670d23b4d280e232395910337703e1",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 7.127653,
+            "alphaBounds": {
+              "x": 84,
+              "y": 72,
+              "width": 341,
+              "height": 368,
+              "fill": 0.71875
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-characters-gltf-mech-raetheredpanda.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -3401,6 +3881,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-base-large.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-base-large.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8776,
+          "sha256": "a9a6abfe1ce607a25987b50d266be217c9f4f28c65a914d4bf19ac04cc09c8e5",
+          "transparent": true,
+          "sourceBundleSha256": "d208a23ef19ffb2e64c0897c8485df535bf5afa8d03b8f9c512f861d85f113c2",
+          "cacheKey": "9f538ce1893d0570b4f0a35efd47ec10b89a8d656395a036a62bcbea774f7463",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 18.260977,
+            "alphaBounds": {
+              "x": 69,
+              "y": 132,
+              "width": 374,
+              "height": 341,
+              "fill": 0.730469
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-base-large.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -3492,6 +4012,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-building-l.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-building-l.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8352,
+          "sha256": "6650a552b4521e850d48d87c7a620ee5be733e02f95ef65ea9777c9ba91740fc",
+          "transparent": true,
+          "sourceBundleSha256": "3cb5fd88564d157268355de8e7b01fddd05bb4334e9b3cb8ecc18ad3dad631e6",
+          "cacheKey": "34ce1931171a7f9d5c37fc333a2caf01e7143fffeac9a4ea892d0dd7272d6ea6",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 22.537254,
+            "alphaBounds": {
+              "x": 71,
+              "y": 155,
+              "width": 370,
+              "height": 200,
+              "fill": 0.722656
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-building-l.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -3583,6 +4143,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-bush-1.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-bush-1.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8898,
+          "sha256": "e39c08514b4a8be9a96d868a1d29ecd9a09ecc0c9e8956a2263c04bb0c4c3383",
+          "transparent": true,
+          "sourceBundleSha256": "3642095b6cebf6e64136a7c0f1d6b567fb9473b98f11f5c648dae245fb6e970c",
+          "cacheKey": "216af66ffc8db666684b8d3220202f3bf6a2fef8be0b6ea3fad6284d02dd6988",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 6.049709,
+            "alphaBounds": {
+              "x": 119,
+              "y": 81,
+              "width": 320,
+              "height": 372,
+              "fill": 0.726563
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-bush-1.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -3674,6 +4274,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-bush-2.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-bush-2.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 7388,
+          "sha256": "c1d60ae0d7b33511484988a0e1e4f57e79a7f3c316a48c9bd66c1bd73167f1b5",
+          "transparent": true,
+          "sourceBundleSha256": "dbabb419a8c142c3b4adabe0e9bab7bfe43992f7b0d3b6b1ecfe0283a7233adf",
+          "cacheKey": "f40105e8446f70bae7ce78b2079b2a46eea4397d4f73ea5c65f884d619140a0a",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.900328,
+            "alphaBounds": {
+              "x": 137,
+              "y": 92,
+              "width": 271,
+              "height": 364,
+              "fill": 0.710938
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-bush-2.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -3765,6 +4405,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-bush-3.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-bush-3.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 6194,
+          "sha256": "84f2ea470380acc6efde329e034ce78709511886814f9be09f15b49a096d5898",
+          "transparent": true,
+          "sourceBundleSha256": "4a88641db7052b349a524868cd92c8e38f6801c5db84fc2ec50e48e550693a15",
+          "cacheKey": "33037bcd5e32ab24c2aed856b0c0bc9746dbfc02127cf4a1351aff77a21c9ffb",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.986077,
+            "alphaBounds": {
+              "x": 115,
+              "y": 93,
+              "width": 301,
+              "height": 388,
+              "fill": 0.757813
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-bush-3.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -3856,6 +4536,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-connector.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-connector.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 6846,
+          "sha256": "b72cfc913fc9606312fb2fdee0f6a0ea2a9e90f747eb0ecc98b2fb6e838f537c",
+          "transparent": true,
+          "sourceBundleSha256": "56585ef17471927b16734c18938730ff6386ce96603982cc6a5dc64b9e22fc7f",
+          "cacheKey": "32f06f0b629fb04dd4421b9d7d00379fb5a1e986f8fc336d98586a21018543fb",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 8.664873,
+            "alphaBounds": {
+              "x": 81,
+              "y": 123,
+              "width": 367,
+              "height": 295,
+              "fill": 0.716797
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-connector.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -3947,6 +4667,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-geodesicdome.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-geodesicdome.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 14864,
+          "sha256": "3f10b501f9fd833c85a64737f79a21cd78e760dc93c8dee30a29ab064dbb25f6",
+          "transparent": true,
+          "sourceBundleSha256": "5cb40bcf379caa882ed5d0ca93e0db92446e5ba98c8437b0d27b25a5dd5a5b81",
+          "cacheKey": "1b81594c47e3c1f552385abfc72fd6def64eae15fd5eacf28bdcc58461aeddf2",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 18.260977,
+            "alphaBounds": {
+              "x": 75,
+              "y": 138,
+              "width": 362,
+              "height": 341,
+              "fill": 0.707031
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-geodesicdome.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -4038,6 +4798,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-grass-1.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-grass-1.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 11606,
+          "sha256": "168c826e803f47e519d7f860a50e5701cc4123dd1f47ece9e4a74101b2bd06af",
+          "transparent": true,
+          "sourceBundleSha256": "094b67b4429d3192103f187a026254c9eb53e436755e6f2f37c49e1750586890",
+          "cacheKey": "69c69595bb924f11ff2d6cdb1b44d8aa4767077ea41cd9b25fc4aa5863b8ea8c",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.237612,
+            "alphaBounds": {
+              "x": 82,
+              "y": 137,
+              "width": 364,
+              "height": 289,
+              "fill": 0.710938
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-grass-1.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -4129,6 +4929,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-grass-2.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-grass-2.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 6956,
+          "sha256": "aa98fadcba0f9f95a558651700d61305ac00a793fcff59cd2ae0574a734d84c3",
+          "transparent": true,
+          "sourceBundleSha256": "710e8e3b2b157c9e4ebcfa75a8bb78d46e796b0e10a2dbeed43e48f337fa237e",
+          "cacheKey": "685e399dd1e1a3140044a744ad49dde56150c8ec91ffcd25312773950103fe5c",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.645965,
+            "alphaBounds": {
+              "x": 138,
+              "y": 97,
+              "width": 311,
+              "height": 366,
+              "fill": 0.714844
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-grass-2.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -4220,6 +5060,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-grass-3.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-grass-3.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8556,
+          "sha256": "07f6ab3c520eaf1b8d0eaa6302d0fcfa1b8e53572a0f471fd2b59e57dcb59114",
+          "transparent": true,
+          "sourceBundleSha256": "e38b216936a7ebb2d335539ffb241287cddc578bfce4dea1606dcb86ce6f4500",
+          "cacheKey": "97fa0538caf5c1d64a0db785fc9164d14bb26f4dbf5d1f6c09203f094fbe60c4",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 5.832979,
+            "alphaBounds": {
+              "x": 103,
+              "y": 95,
+              "width": 306,
+              "height": 365,
+              "fill": 0.712891
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-grass-3.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -4311,6 +5191,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-house-cylinder.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-house-cylinder.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 6464,
+          "sha256": "2cf6012cbd50e578e9747c25d03d40e149d9e8abcd44a88869237c45e1b90ea4",
+          "transparent": true,
+          "sourceBundleSha256": "2ef5a56a1b2a7f628952a5c8707a91b8fb50ec3983cfa5f4bd01a9e7996ff32b",
+          "cacheKey": "6f47b811a53420eb7d0de97c01d21a17ed03e710f679ccebecb7bc434b90d38b",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 12.007034,
+            "alphaBounds": {
+              "x": 107,
+              "y": 108,
+              "width": 298,
+              "height": 357,
+              "fill": 0.697266
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-house-cylinder.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -4402,6 +5322,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-house-long.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-house-long.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 9210,
+          "sha256": "dcdfc50e77928895aad231ca73a5c377eff880c2177c58ae6e51efd43bd9b824",
+          "transparent": true,
+          "sourceBundleSha256": "c00531f27ee05fc14e42379b76447cb4f815c024282d9ec444e701da9c51044e",
+          "cacheKey": "e2efb5194d60ed093cef6017d3cafa4ed4ff76c815e070205f23527d4f6ac5fc",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 16.67933,
+            "alphaBounds": {
+              "x": 56,
+              "y": 129,
+              "width": 354,
+              "height": 297,
+              "fill": 0.691406
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-house-long.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -4493,6 +5453,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-house-open.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-house-open.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 6818,
+          "sha256": "85c0d1461b1ff374adf2c4cdb033a6017067324de99867b3f7b7ceb586b415ba",
+          "transparent": true,
+          "sourceBundleSha256": "26a7cfe488d9df4d75493deed994f46a105ada21e75919b94fe11fbab380dd65",
+          "cacheKey": "9bd40a069122e8c379bd88d66085836ba97719683d0eb72a22f46b06dd5556b9",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 9.709914,
+            "alphaBounds": {
+              "x": 65,
+              "y": 85,
+              "width": 368,
+              "height": 341,
+              "fill": 0.71875
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-house-open.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -4584,6 +5584,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-house-openback.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-house-openback.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 7138,
+          "sha256": "213f8cfa1bb6aa71b76ed5f1888296144d35db2591e62fed2d1112de6ef1c953",
+          "transparent": true,
+          "sourceBundleSha256": "76d0b77ec86530005c8903411a9cb0331b3edccae2c9e631f1783e95ee947126",
+          "cacheKey": "26f508b0339bf94eca72425d10e7b2abff4ed4d30595eac3a03ff19d7ce20ff2",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 9.709914,
+            "alphaBounds": {
+              "x": 65,
+              "y": 85,
+              "width": 368,
+              "height": 341,
+              "fill": 0.71875
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-house-openback.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -4675,6 +5715,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-house-single.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-house-single.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 7432,
+          "sha256": "5e9b6b39e866c36430fc37c1cab2eeb2363b1281671a36088fe9103c85dec089",
+          "transparent": true,
+          "sourceBundleSha256": "0399d608c7305f00fdb793d2e79fa9616fe3b395799909ae9ef02b3ceb5540eb",
+          "cacheKey": "8c32e86481e3d2ac39bcc96c5df4f968110082c36d75132aa8dde5922ccd6b6b",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 9.663455,
+            "alphaBounds": {
+              "x": 57,
+              "y": 85,
+              "width": 366,
+              "height": 346,
+              "fill": 0.714844
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-house-single.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -4766,6 +5846,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-house-single-support.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-house-single-support.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 5450,
+          "sha256": "4f09c378c48051a65dc54eb1f46cf6f82dcfc84edb92bc41b916790f8c7919cf",
+          "transparent": true,
+          "sourceBundleSha256": "b171f1d9c2b324a12a40380ca37d60119038269ec4a47f50c22f41f4b35e8fdf",
+          "cacheKey": "fb463588304768c3cace4a8417d211344df7571369d99b833b3a37f045c60c26",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 10.345675,
+            "alphaBounds": {
+              "x": 67,
+              "y": 184,
+              "width": 378,
+              "height": 216,
+              "fill": 0.738281
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-house-single-support.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -4857,6 +5977,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-metalsupport.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-metalsupport.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 9290,
+          "sha256": "3904a493814ba1ade0804bedb3429296d6ed68c5810ad13a64d641dfcd439177",
+          "transparent": true,
+          "sourceBundleSha256": "f1865db5f7f894e27b539d7b12a4b120077642c59a8ac9ef79e789685e8a8eb0",
+          "cacheKey": "44da80d582c230301c8bd4232192ebb1b8bf91078ea3cd6dcf0d3a302744fc58",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 9.786843,
+            "alphaBounds": {
+              "x": 28,
+              "y": 156,
+              "width": 375,
+              "height": 231,
+              "fill": 0.732422
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-metalsupport.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -4948,6 +6108,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-planet-1.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-planet-1.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8756,
+          "sha256": "acb07cbbfbef7f331b7c12c82de13c571d41db621ead7f1c1b1159da864200b1",
+          "transparent": true,
+          "sourceBundleSha256": "0a3c53c7e1ad1a0a61b82bc6715ba95a258d10f53d0b885a322e7bb9fd7950d0",
+          "cacheKey": "c99c3a57aa6e181eaecbba078e631d122bdaee2283631e87735aa05765925de6",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 8.4065,
+            "alphaBounds": {
+              "x": 67,
+              "y": 62,
+              "width": 380,
+              "height": 387,
+              "fill": 0.755859
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-planet-1.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -5039,6 +6239,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-planet-10.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-planet-10.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 12576,
+          "sha256": "e7e2d3686fb0e408c4e24d58d4c45ee56997d292b5bd7c9690d5ceef13479923",
+          "transparent": true,
+          "sourceBundleSha256": "52eaa2d7fa11128426cc866504693467ed67b69c0de04f059911f2916807d37a",
+          "cacheKey": "1203d067dbde8dcdcad7b81d4d9b1b16196f4c3011a9efecc90e96cd13de0738",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 14.654527,
+            "alphaBounds": {
+              "x": 72,
+              "y": 93,
+              "width": 368,
+              "height": 351,
+              "fill": 0.71875
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-planet-10.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -5130,6 +6370,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-planet-11.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-planet-11.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8560,
+          "sha256": "54ed9c4c137631e8bfc4f4e2686caaa479dda5015ca2b1ab67519ffc65aa3548",
+          "transparent": true,
+          "sourceBundleSha256": "7d8d964b1a34e594bb8a25b19e74cc19404cdc060139256937b6b692f67cc536",
+          "cacheKey": "782c5dea9cc9613a876ad1335a8b89feb115bd0004b447bfca5597b6e2e21e65",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 12.297552,
+            "alphaBounds": {
+              "x": 71,
+              "y": 68,
+              "width": 373,
+              "height": 377,
+              "fill": 0.736328
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-planet-11.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -5221,6 +6501,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-planet-2.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-planet-2.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 10400,
+          "sha256": "8e6db6a9294210af47f248964423c2f863c03c1adfc8ff085b8af3cae1cfc092",
+          "transparent": true,
+          "sourceBundleSha256": "8fc46f22b44a235878796ceb5fddc5aa55678d4b723fd8f77b9a69766286ed0b",
+          "cacheKey": "2bce3c5204ee8198e03d608ad46a17a06b1628f0dc97d8250cae3b19f28e4173",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 8.220673,
+            "alphaBounds": {
+              "x": 63,
+              "y": 60,
+              "width": 390,
+              "height": 395,
+              "fill": 0.771484
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-planet-2.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -5312,6 +6632,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-planet-3.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-planet-3.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 6572,
+          "sha256": "b9d92a9ede37a6ea978240eb6bc7c0179566ea4fc99055ca454a7716aa0bc02e",
+          "transparent": true,
+          "sourceBundleSha256": "c6391483fb1a6da7b5b56102cab87ce3626ec82ea8c1b90444e2a16f66919177",
+          "cacheKey": "99065b6979f6a2012f68ee5109dc20ae85fc191dda18e681ce93d7c26290eb92",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 7.819719,
+            "alphaBounds": {
+              "x": 77,
+              "y": 52,
+              "width": 392,
+              "height": 394,
+              "fill": 0.769531
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-planet-3.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -5403,6 +6763,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-planet-4.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-planet-4.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 6822,
+          "sha256": "eb09fc80752e84491cd5e6825cd8b36d90f55b71b336ae98c821b59c7e4bf7d9",
+          "transparent": true,
+          "sourceBundleSha256": "ae5e66391171ba52f61ec9ffa5a4a11ebef8ca5f99702868c6c53a2652bf2aa4",
+          "cacheKey": "b6d0b3a393dce4cdde22e66d5330a7fadb71913479e9c09e970cdd2d5b1b8a29",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 9.614136,
+            "alphaBounds": {
+              "x": 55,
+              "y": 71,
+              "width": 347,
+              "height": 347,
+              "fill": 0.677734
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-planet-4.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -5494,6 +6894,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-planet-5.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-planet-5.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 9052,
+          "sha256": "46d71452b04c0780fd0d4cbf62671dd28dbd7c85bb629e7d488a7e10fbbf11b5",
+          "transparent": true,
+          "sourceBundleSha256": "dca12156d843f18cecaf9bf3d55f166ba6ab5495149c71a7bdeedc090aae1be5",
+          "cacheKey": "f33742479572612039420e2125f0219d649c7197e2ee29dfbd1f1a90e0949161",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 9.668842,
+            "alphaBounds": {
+              "x": 100,
+              "y": 55,
+              "width": 360,
+              "height": 394,
+              "fill": 0.769531
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-planet-5.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -5585,6 +7025,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-planet-6.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-planet-6.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 10118,
+          "sha256": "487b5a52ff43cfd2efd74cbf32e97462eb06064f53373ee31ee724a6366fbdc8",
+          "transparent": true,
+          "sourceBundleSha256": "0fca7fd0c9721f2170060ba74e099eef67ddb905de1da08987720ab44c10de1f",
+          "cacheKey": "2d9d5b3250a236ac8c407f326d4a7b0c5c12a050d4037d2be8ce0715ea1b7ea4",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 8.046126,
+            "alphaBounds": {
+              "x": 61,
+              "y": 62,
+              "width": 390,
+              "height": 388,
+              "fill": 0.761719
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-planet-6.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -5676,6 +7156,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-planet-7.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-planet-7.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 17844,
+          "sha256": "174f4d943c174af7a407d0a16dd6d064f83dd113eb02ccbf959462b9b63d2eaf",
+          "transparent": true,
+          "sourceBundleSha256": "0d25a4a2e3dee88e9dd98cc8e4d71624573e5ec8ce7905a5b964ded2f7637f04",
+          "cacheKey": "405b38c0334c14b42c623500c3e1e861dc327c2b0c990b98bb2ed4232d304b1b",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 10.291887,
+            "alphaBounds": {
+              "x": 67,
+              "y": 116,
+              "width": 390,
+              "height": 325,
+              "fill": 0.761719
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-planet-7.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -5767,6 +7287,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-planet-8.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-planet-8.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 9088,
+          "sha256": "c117df192ae53f8a015b6c842e3ab82552259669ccb94b17950d926351952ead",
+          "transparent": true,
+          "sourceBundleSha256": "052967c038bb01ed64baaf0137cc96898bf5744294ac9e827a8ef25a828cca10",
+          "cacheKey": "8585983ebf5881da2bf16ab74915bd45dad7345c75f5122f0a09fb3e7628bd09",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 8.029458,
+            "alphaBounds": {
+              "x": 62,
+              "y": 61,
+              "width": 389,
+              "height": 391,
+              "fill": 0.763672
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-planet-8.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -5858,6 +7418,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-planet-9.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-planet-9.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8270,
+          "sha256": "00e92289461786ea600ad2fb435716db204ea230685ceb542b0cf53a0348f5d8",
+          "transparent": true,
+          "sourceBundleSha256": "2d725ff9e527ee2a4e016356c4b4c9d272c9a8cc5ec0dcbb3c784605716d5246",
+          "cacheKey": "8d5832be6b45a9dcf7439e78db5ed9cf5113c225fd35a5a3529e7361eff54788",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 8.183789,
+            "alphaBounds": {
+              "x": 66,
+              "y": 65,
+              "width": 387,
+              "height": 386,
+              "fill": 0.755859
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-planet-9.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -5949,6 +7549,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-plant-1.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-plant-1.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8558,
+          "sha256": "7ae00abc27fe19b389d907af604410fdc95df9f951332ee77fec07776c7f8a3d",
+          "transparent": true,
+          "sourceBundleSha256": "5b9319f37c07729dc23da6adcd10600acef1a8109e2ec1395b8d91e6ba1579f4",
+          "cacheKey": "84a00d33e247c6b4abd9494c18997c884fdc55cb2a30d30d783b13e4d892e010",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 4.668054,
+            "alphaBounds": {
+              "x": 150,
+              "y": 55,
+              "width": 245,
+              "height": 374,
+              "fill": 0.730469
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-plant-1.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -6040,6 +7680,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-plant-2.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-plant-2.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 9780,
+          "sha256": "54179f97f937ffb20f41272a996ad2002e855555be5fcfc536cd8e238e871986",
+          "transparent": true,
+          "sourceBundleSha256": "46e497104fd9b57d4ef2c5644c3208579401629ace1698b8c3d658dedfc16d6c",
+          "cacheKey": "d20bcbfe19453726dc5b2b6875a8f263df00f89f7622389e135d55f2aed72df1",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 4.226418,
+            "alphaBounds": {
+              "x": 155,
+              "y": 47,
+              "width": 211,
+              "height": 382,
+              "fill": 0.746094
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-plant-2.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -6131,6 +7811,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-plant-3.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-plant-3.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8152,
+          "sha256": "755f9c7b925aca374629ecd55eaa5ef948756e4e15b0b57690344181d83eec22",
+          "transparent": true,
+          "sourceBundleSha256": "4b7c8a9279f891013425498cc9b252395c5d51c11b6b25533ce9367e310ee50a",
+          "cacheKey": "bb05c426bd7fc6eca7055432775c9c36bebbec5bd2fb639714fbdccbe02bfc65",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 7.039304,
+            "alphaBounds": {
+              "x": 130,
+              "y": 93,
+              "width": 227,
+              "height": 367,
+              "fill": 0.716797
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-plant-3.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -6222,6 +7942,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-ramp.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-ramp.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8246,
+          "sha256": "f87178374abc7326297b1c9852ddfdfe0cd05d34b487ffac0983ae35f92dbac0",
+          "transparent": true,
+          "sourceBundleSha256": "14b9711cf906fe377f4ddf25774a582d9acb317db7784f42da8a5c6b6e221b04",
+          "cacheKey": "27d07d03396a505ca92b5cdf32345403063065dc45d3e47dc3101e60d985b791",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 7.59667,
+            "alphaBounds": {
+              "x": 67,
+              "y": 136,
+              "width": 370,
+              "height": 301,
+              "fill": 0.722656
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-ramp.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -6313,6 +8073,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-rock-1.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-rock-1.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 5800,
+          "sha256": "7347014ca18dfcc43c74aa3a78c4d20e6a46c9e222449fa34e0883bf176341ea",
+          "transparent": true,
+          "sourceBundleSha256": "4f92521a300ec68f52bae4cbba1e4a76c8495e1a9582fbba530cb9ee2db781f3",
+          "cacheKey": "eb734a81f61cd957196f0501e8d8ca0ede402c2f89387acb6b6a4f48afdade64",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 8.424923,
+            "alphaBounds": {
+              "x": 111,
+              "y": 93,
+              "width": 306,
+              "height": 364,
+              "fill": 0.710938
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-rock-1.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -6404,6 +8204,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-rock-2.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-rock-2.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 6684,
+          "sha256": "a81313112cc8c8e2141f3a2a670bee04882c2754311046a6a981b770d586fbbf",
+          "transparent": true,
+          "sourceBundleSha256": "cfe8a14accc94569a0ea2b3f298ce69fa899903e41a29a31bd0635ba9ddfa758",
+          "cacheKey": "5f18cf8fb8954ed9c0e7166c85c0193df3d9dbd791016cdefc280fddaee4e13f",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 6.79903,
+            "alphaBounds": {
+              "x": 115,
+              "y": 99,
+              "width": 320,
+              "height": 365,
+              "fill": 0.712891
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-rock-2.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -6495,6 +8335,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-rock-3.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-rock-3.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 5910,
+          "sha256": "9d9eec4b4f8113622fc0c89f1652601f8805cfb92022fa8693627efd5ccdcb72",
+          "transparent": true,
+          "sourceBundleSha256": "6a2f2573ea6c08609e91cf9a6ae36efd3af019bdbd0bdb6f059f6d81b279cda1",
+          "cacheKey": "b23a38d8f61d5553d519e42842b03c0a5b67d7bbec7c0a04036a4a2eb7562824",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 9.391589,
+            "alphaBounds": {
+              "x": 127,
+              "y": 84,
+              "width": 252,
+              "height": 366,
+              "fill": 0.714844
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-rock-3.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -6586,6 +8466,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-rock-4.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-rock-4.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 5122,
+          "sha256": "8b0c2b360f90bed2ab6d683593a893154f1f29406b30a04974e3f62ae6413da5",
+          "transparent": true,
+          "sourceBundleSha256": "582805eb49467a0812a647f69e31ccb53c97a06c78c1e90b11911d04157e04fd",
+          "cacheKey": "7d7895a7dd025ff599da0e1af14f06a875e2b9e740dc54b97c7a5d3e566bf165",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 7.414864,
+            "alphaBounds": {
+              "x": 163,
+              "y": 77,
+              "width": 194,
+              "height": 373,
+              "fill": 0.728516
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-rock-4.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -6677,6 +8597,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-rock-large-1.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-rock-large-1.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 6882,
+          "sha256": "4fa0e3fcf83f818b42af916d677bc68a293f8c303e7f2be8384ba16443aa34df",
+          "transparent": true,
+          "sourceBundleSha256": "7fa70d37475f7e0ee2974fcd1e4e6b38ded30649dbf6d2d6ecbd29faa022dce2",
+          "cacheKey": "b0ee69d014056845705ac64eaf582bdf5518e8d401d719ab2b24a3fc5362459c",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 14.967596,
+            "alphaBounds": {
+              "x": 60,
+              "y": 145,
+              "width": 370,
+              "height": 322,
+              "fill": 0.722656
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-rock-large-1.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -6768,6 +8728,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-rock-large-2.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-rock-large-2.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 6790,
+          "sha256": "6b430067ec32e560b768785b8f8e1130e4143f0453f3b372577acc28922e70cc",
+          "transparent": true,
+          "sourceBundleSha256": "a6ccc31054ac7914a76f80218c48317a1b22e9527d4bc72e90a0a50cc0fe4614",
+          "cacheKey": "0f9c4fe52e14df2ca9fd77b57a06743eb4f13b7f69873c2d2598c0b5b90e2cb0",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 19.993497,
+            "alphaBounds": {
+              "x": 74,
+              "y": 96,
+              "width": 357,
+              "height": 367,
+              "fill": 0.716797
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-rock-large-2.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -6859,6 +8859,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-rock-large-3.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-rock-large-3.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 4968,
+          "sha256": "93f4cea09ad18c5d72093b5a5bcbde30bf018a26372013b1f9f47b31ccede57c",
+          "transparent": true,
+          "sourceBundleSha256": "8743831479a414ab5fddf6cdd8cc1bcdf28c46525deec42044729560d0474cc9",
+          "cacheKey": "123fac14d6bb24e86f2c3ff2c5934298980815d53b871a01480d95a200baa512",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 18.719809,
+            "alphaBounds": {
+              "x": 163,
+              "y": 87,
+              "width": 180,
+              "height": 366,
+              "fill": 0.714844
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-rock-large-3.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -6950,6 +8990,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-roof-antenna.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-roof-antenna.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 3800,
+          "sha256": "f1c979c63bc48a0bb9fb37ce8ac21e16a8cecdd245b0bfefd42ee4e6926939f4",
+          "transparent": true,
+          "sourceBundleSha256": "bc33fa78120117d0646c9e286e5282a227a7361ccae91a2e61216505b90c066d",
+          "cacheKey": "978f43d851abda8a8f590a09f2b28ee264e3717b62af881ef43d146ff132a305",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 7.584525,
+            "alphaBounds": {
+              "x": 186,
+              "y": 65,
+              "width": 139,
+              "height": 391,
+              "fill": 0.763672
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-roof-antenna.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -7041,6 +9121,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-roof-opening.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-roof-opening.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 6180,
+          "sha256": "7dd5a2a7a966dad9937cdfb32718e69b46e5afdb203c82048d8100c292b04c96",
+          "transparent": true,
+          "sourceBundleSha256": "7ee232f4a68b70242447cdf9fdae5d57d49ae5692b17784e0eb3d5430f436c5b",
+          "cacheKey": "058313e7939dfd7689648ec8e1c3fdf083dd488aff5cf13b59728f793cb6ef00",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.646282,
+            "alphaBounds": {
+              "x": 106,
+              "y": 102,
+              "width": 300,
+              "height": 366,
+              "fill": 0.714844
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-roof-opening.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -7132,6 +9252,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-roof-radar.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-roof-radar.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 5830,
+          "sha256": "50c5fcd621b87b959444bab5608a979edce16ddcffa30784b17b6ac126800f65",
+          "transparent": true,
+          "sourceBundleSha256": "3a00f7fc8a4913f8eea71b21340c42c007fdb81e877af60da9f195f800db47b2",
+          "cacheKey": "a2ea6cd6fafd5aebc3fa7c51b084bae51c84b6903772288c2db2981f30ca51e7",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 6.507784,
+            "alphaBounds": {
+              "x": 157,
+              "y": 80,
+              "width": 198,
+              "height": 368,
+              "fill": 0.71875
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-roof-radar.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -7223,6 +9383,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-roof-ventl.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-roof-ventl.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 4714,
+          "sha256": "5922753d8cffc4c22b814358d249cdda95a6ce7e8c548d99e6af4fa9a82037ee",
+          "transparent": true,
+          "sourceBundleSha256": "b58e772eddbc4809e1f501c3f58336ee01bafbf12751c38e4eae9753bceb9e16",
+          "cacheKey": "b9e0018cac9b04e4bcaf3c0a54716af4f489014ba4970d35299a1c26bd53eb9a",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.068871,
+            "alphaBounds": {
+              "x": 91,
+              "y": 112,
+              "width": 344,
+              "height": 264,
+              "fill": 0.671875
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-roof-ventl.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -7314,6 +9514,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-roof-ventr.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-roof-ventr.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 6076,
+          "sha256": "4685403507385b8af0ffef8c4cc2785cf6a3150e4a1b8f0773ed7fb3ebe54ad8",
+          "transparent": true,
+          "sourceBundleSha256": "b47d3066ee59804c346787a1681cea5d2d0ada8c1c42729503281adf0698fa21",
+          "cacheKey": "fbfb710a90e185aaddc8b8f39d0ad5ac92e722055120fc2f22ccf1af022af689",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.068871,
+            "alphaBounds": {
+              "x": 64,
+              "y": 92,
+              "width": 353,
+              "height": 361,
+              "fill": 0.705078
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-roof-ventr.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -7405,6 +9645,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-solarpanel-ground.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-solarpanel-ground.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 13550,
+          "sha256": "ecb61df7e0bcc1593fbbb7374e223c9640ef8521b31bd667523161b5768062b7",
+          "transparent": true,
+          "sourceBundleSha256": "b3ec7f9a0472ad5eb10454c3a27690ec89c1ade531ba447201755c6eae9fa1ad",
+          "cacheKey": "e7abf4ec3cc882409665ef129dcbbfc953b3c91d9859a90dac44ea7c8785299e",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 4.549086,
+            "alphaBounds": {
+              "x": 75,
+              "y": 109,
+              "width": 368,
+              "height": 342,
+              "fill": 0.71875
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-solarpanel-ground.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -7496,6 +9776,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-solarpanel-roof.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-solarpanel-roof.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 14638,
+          "sha256": "24717e026172da926fefa1cd3f59526df56b102657202c82187e9d86e54159cc",
+          "transparent": true,
+          "sourceBundleSha256": "5380938b08f59fa1451034eac404222f8707b1ac4ccec130db60b01c0aae12e3",
+          "cacheKey": "08b8c4b6e80afaf565170efadc8eb4e9491b4fa14d300cb15f7bd770e52c5099",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 6.999879,
+            "alphaBounds": {
+              "x": 86,
+              "y": 109,
+              "width": 367,
+              "height": 341,
+              "fill": 0.716797
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-solarpanel-roof.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -7587,6 +9907,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-solarpanel-structure.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-solarpanel-structure.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 16608,
+          "sha256": "88a330c5735b1fb2f3db81f70be0524dbf4a0425f2fc49adac1b7b3f65867d58",
+          "transparent": true,
+          "sourceBundleSha256": "827a0d44a56ee75f08d2fa353e8cda9046fa3e456d7e59f799d2b83fcf99b54a",
+          "cacheKey": "a3c15c2e16c3311e8ab215c2f01ddf6a3df3408b78891011748aeed206985f42",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 11.47535,
+            "alphaBounds": {
+              "x": 77,
+              "y": 105,
+              "width": 385,
+              "height": 359,
+              "fill": 0.751953
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-solarpanel-structure.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -7678,6 +10038,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-stairs.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-stairs.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8166,
+          "sha256": "2d9b97a1c3cec08a03e2d81a598d7c1fed2da304b36002f4f6f21bdd39b8dbb3",
+          "transparent": true,
+          "sourceBundleSha256": "9a67a2279deabb219f9aca676bea05ec05546af5354c9a528537f989161be2cb",
+          "cacheKey": "b91748d495037c78379fd7a391838f4adf96aebad9895261fe362c89652052e2",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 7.59667,
+            "alphaBounds": {
+              "x": 67,
+              "y": 136,
+              "width": 370,
+              "height": 301,
+              "fill": 0.722656
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-stairs.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -7769,6 +10169,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-tree-blob-1.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-tree-blob-1.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 7126,
+          "sha256": "210e257c0ee9fcb206120e87a568c607fb0b983ed1acc59ad906c3d96baa832d",
+          "transparent": true,
+          "sourceBundleSha256": "fa79ed34fb4779d2b5143158baf19f2657459729784faf67f96a46886e492ee8",
+          "cacheKey": "522a157124940d942a63cbbe861ce4fe6521f4f99b6384353e75aad30a784a62",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 14.399354,
+            "alphaBounds": {
+              "x": 172,
+              "y": 91,
+              "width": 186,
+              "height": 365,
+              "fill": 0.712891
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-tree-blob-1.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -7860,6 +10300,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-tree-blob-2.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-tree-blob-2.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8606,
+          "sha256": "25da6a36e988982e6306ef2fb5b732a0666c18b909bb2a0a18ff24f425c2ddee",
+          "transparent": true,
+          "sourceBundleSha256": "a8805c57b1f0a1358682fc47483b2dea9ac50f1f29132421f2a2a2f537c0e43a",
+          "cacheKey": "02058e1760c7c8f3752fecb14572c1bc1b5608ddf88f817b2afc5e1fab338802",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 12.098681,
+            "alphaBounds": {
+              "x": 134,
+              "y": 89,
+              "width": 241,
+              "height": 366,
+              "fill": 0.714844
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-tree-blob-2.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -7951,6 +10431,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-tree-blob-3.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-tree-blob-3.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 7262,
+          "sha256": "5b2cf793944eb6815f64901ee1d8ecae77db5f946e6f46d0ceb79d6bce26318b",
+          "transparent": true,
+          "sourceBundleSha256": "645977d31795b5e48825fc1221798c1932e8baf7ecd6e97fbb025db4f301df3d",
+          "cacheKey": "7982969bd951f561d2a8cba9ee94d1269f31999c0f3cfb034f82ddc0c25a460d",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 8.204482,
+            "alphaBounds": {
+              "x": 143,
+              "y": 85,
+              "width": 245,
+              "height": 368,
+              "fill": 0.71875
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-tree-blob-3.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -8042,6 +10562,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-tree-floating-1.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-tree-floating-1.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 7002,
+          "sha256": "104d8f6dd124a5c70b5114c13d619b8075a8ad8d167adddb3de77106b4c2f8a5",
+          "transparent": true,
+          "sourceBundleSha256": "39d2ab64e63aeb1b4cddf6b6e5922d336b2871a1d320e42feb99961d46734b67",
+          "cacheKey": "a4503af2135b9a5e08b3be62b08bce06d20715d23465b7f15bc9b5a460e17641",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 9.87216,
+            "alphaBounds": {
+              "x": 192,
+              "y": 69,
+              "width": 142,
+              "height": 350,
+              "fill": 0.683594
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-tree-floating-1.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -8133,6 +10693,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-tree-floating-2.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-tree-floating-2.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 7280,
+          "sha256": "4404603ca0357f891deeb719703cb45166376466602917c6b690ba595a2460a8",
+          "transparent": true,
+          "sourceBundleSha256": "1bff3c4bb623720a7ec38a506b8862c1488df7d196e8219b7639aaadb564840d",
+          "cacheKey": "63af0de868a576d9c9ca92a577c09c7d32677a0e594a70e0f8ff999e7c63112c",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 12.558776,
+            "alphaBounds": {
+              "x": 188,
+              "y": 61,
+              "width": 136,
+              "height": 347,
+              "fill": 0.677734
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-tree-floating-2.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -8224,6 +10824,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-tree-floating-3.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-tree-floating-3.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 7236,
+          "sha256": "70798522ddc55061043232be327d4ca29ac228a29555c2928760b88b61450507",
+          "transparent": true,
+          "sourceBundleSha256": "eb5a783139f6a5ca3062ba8104551f9b6fc6ab1827f29e59c4f3dc361e56a59e",
+          "cacheKey": "5adb73d3415a1efe79209ecc415199d643710296f783f8fe661aa0ab11d1526d",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 11.155886,
+            "alphaBounds": {
+              "x": 159,
+              "y": 55,
+              "width": 210,
+              "height": 373,
+              "fill": 0.728516
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-tree-floating-3.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -8315,6 +10955,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-tree-lava-1.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-tree-lava-1.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 6072,
+          "sha256": "7bbd922669243ee2902096dd8f08a2acc91f25a997fd276fef3e0e3d5c8953e6",
+          "transparent": true,
+          "sourceBundleSha256": "bb353c5f9dc437da61ac7483eec30077f2e08e75c81b334cc675383089510169",
+          "cacheKey": "02e72d5541df19d23c2633c75f4133bfe30df3938b51faadd4ad97f5abd84414",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 6.940844,
+            "alphaBounds": {
+              "x": 183,
+              "y": 72,
+              "width": 141,
+              "height": 347,
+              "fill": 0.677734
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-tree-lava-1.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -8406,6 +11086,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-tree-lava-2.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-tree-lava-2.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 6770,
+          "sha256": "35a8c7f237420e546e6a95f7c7c0bbce6ef921d2d4e93d8efe5d9871bdd79f86",
+          "transparent": true,
+          "sourceBundleSha256": "865415e6867cdf8a6835d18945c5ddbd3fcc713ab33d92e077a4b125d6d155a5",
+          "cacheKey": "eb4cc8d50248c27bc72e42fe66eb436490e29e67d202d0feb84f2dbd7762b91d",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 6.599481,
+            "alphaBounds": {
+              "x": 182,
+              "y": 66,
+              "width": 147,
+              "height": 379,
+              "fill": 0.740234
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-tree-lava-2.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -8497,6 +11217,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-tree-lava-3.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-tree-lava-3.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 7856,
+          "sha256": "ad80f4c935f0782ab8e69a18af03b25d4f74e44e4d89c03e4b67c96bc2f0d350",
+          "transparent": true,
+          "sourceBundleSha256": "9685eadc984f6379e92f055d1c64c6945a48bcf20cbdf604895abab8534b8471",
+          "cacheKey": "3979fa4df5cc93cda298a5e6df9200e6a32f9d9c4166a49e3bb39bac57e8be0d",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 4.466739,
+            "alphaBounds": {
+              "x": 154,
+              "y": 68,
+              "width": 208,
+              "height": 376,
+              "fill": 0.734375
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-tree-lava-3.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -8588,6 +11348,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-tree-light-1.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-tree-light-1.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8358,
+          "sha256": "69c65b328bc5cb86c9108473d7afc1b89efe26f22962315cccafd67f3bded494",
+          "transparent": true,
+          "sourceBundleSha256": "e7e93463d95f90b317fa2d6f557ab26538a431918ad284d1cba79bfde01a3643",
+          "cacheKey": "e8a4240a0c55d7d6fc9072c42a16c5702dec33efe6a050225b4c77f208390884",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 7.082758,
+            "alphaBounds": {
+              "x": 111,
+              "y": 36,
+              "width": 316,
+              "height": 371,
+              "fill": 0.724609
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-tree-light-1.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -8679,6 +11479,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-tree-light-2.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-tree-light-2.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 6038,
+          "sha256": "231eb3cce35f81e503c0775cf0353a250017d6504b314880e006b64a9b9bc988",
+          "transparent": true,
+          "sourceBundleSha256": "2f72589d9bc440a2421d3602c40d7c9a04f446334fe906eba50c64cdfee46219",
+          "cacheKey": "9b250a2f6a5ff361acee10344126f0387ca22933e92cb6a543d58cf79727c5f1",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 4.868825,
+            "alphaBounds": {
+              "x": 100,
+              "y": 43,
+              "width": 262,
+              "height": 369,
+              "fill": 0.720703
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-tree-light-2.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -8770,6 +11610,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-tree-spikes-1.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-tree-spikes-1.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8470,
+          "sha256": "d94666ef8c0bb183c417ae68b61ed5c72133c7d313b7aeabbc70168492b90174",
+          "transparent": true,
+          "sourceBundleSha256": "c011e54ab2b619ed6343f4e93eb119421fb9de7d363d9c2fee15e82de9dccb03",
+          "cacheKey": "8d1231167584aef78977cb57733bd23a8ef630c8a51543f1cebd0927ccbb1499",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 11.031564,
+            "alphaBounds": {
+              "x": 137,
+              "y": 75,
+              "width": 238,
+              "height": 374,
+              "fill": 0.730469
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-tree-spikes-1.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -8861,6 +11741,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-tree-spikes-2.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-tree-spikes-2.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 6862,
+          "sha256": "765896e05eea1b3104591183fe272b61c51c92c949a6cd199187b4d319bf5e5c",
+          "transparent": true,
+          "sourceBundleSha256": "b980efa21f4710c6f63a52c50b140717eaf8b0773cdd7a4184013deef5f82db5",
+          "cacheKey": "540a3c30c176e4b5bc4129b8e880534e7f5a92c4be117eca4370940b36852409",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 9.617515,
+            "alphaBounds": {
+              "x": 188,
+              "y": 57,
+              "width": 201,
+              "height": 379,
+              "fill": 0.740234
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-tree-spikes-2.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -8952,6 +11872,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-tree-spiral-1.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-tree-spiral-1.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 7292,
+          "sha256": "97f430b512610470ebd0f9c64fb59b907e9b9e4fd9fc2c92ef2cdd0b1f5126b0",
+          "transparent": true,
+          "sourceBundleSha256": "0bdee9c266362e55d0834840753d59c75525cea929254ae3db77a6757b7e29bb",
+          "cacheKey": "5009f49467d29755e058dc38c35d8065443917ae3da321676ffaa038dad6dab0",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 8.685503,
+            "alphaBounds": {
+              "x": 132,
+              "y": 39,
+              "width": 249,
+              "height": 368,
+              "fill": 0.71875
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-tree-spiral-1.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -9043,6 +12003,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-tree-spiral-2.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-tree-spiral-2.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 7110,
+          "sha256": "cf9759b77fa628d58fee135cd8baa64429bae0c2767d8e58ab6db2a4a215ffeb",
+          "transparent": true,
+          "sourceBundleSha256": "e1e14ebbb7c33398f921b9c5e7e0798c0e256c5ce802cac78da80f5ac87c6cb5",
+          "cacheKey": "77487f9af988b225f3c71d1320156d9ec73697de7d43f64bd66cc40e5063721b",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 13.24624,
+            "alphaBounds": {
+              "x": 143,
+              "y": 53,
+              "width": 222,
+              "height": 341,
+              "fill": 0.666016
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-tree-spiral-2.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -9134,6 +12134,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-tree-spiral-3.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-tree-spiral-3.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8340,
+          "sha256": "3ab67c498ab0527f6b9173a20f8693727c49dbd0cdd207d3fedeff00f6ca8c40",
+          "transparent": true,
+          "sourceBundleSha256": "d0f8b6378a85f756130225640b5e04a2426e14fa2f787ba6064f4486e8d41d94",
+          "cacheKey": "f37925dcf80accd6703424f8d1f2840e27d9be3ec9576c7c199eca544214a687",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 9.034925,
+            "alphaBounds": {
+              "x": 91,
+              "y": 68,
+              "width": 351,
+              "height": 292,
+              "fill": 0.685547
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-tree-spiral-3.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -9225,6 +12265,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-tree-swirl-1.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-tree-swirl-1.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 5874,
+          "sha256": "fac511e0fa2d8ec03f54781d719b01aca5f4f800a9b1ff6f9f98a8f987e3504d",
+          "transparent": true,
+          "sourceBundleSha256": "2d7e3d057ce7762eb9d92beb15e42ada706284525729dbc39102c2ac50d26ac4",
+          "cacheKey": "e2edd2e549204b00e0c1d1d2f82d7bb73bfd28a29f206bdf41851e5fa272904c",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 15.733619,
+            "alphaBounds": {
+              "x": 183,
+              "y": 75,
+              "width": 166,
+              "height": 348,
+              "fill": 0.679688
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-tree-swirl-1.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -9316,6 +12396,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-environment-gltf-tree-swirl-2.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-environment-gltf-tree-swirl-2.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 5558,
+          "sha256": "59eb21b67747adbfbd5c2256846c17bca01c12d434a55dd15846d324b1105fbf",
+          "transparent": true,
+          "sourceBundleSha256": "ea0258b926607f20a150f454d0c664894eabe6f42ee92201fd0de38797734273",
+          "cacheKey": "2e15404033feb6569e8af3288fda1247a363b97a47f57442dd3cbd20000355bf",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 11.030272,
+            "alphaBounds": {
+              "x": 164,
+              "y": 63,
+              "width": 190,
+              "height": 357,
+              "fill": 0.697266
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-environment-gltf-tree-swirl-2.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -9407,6 +12527,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-items-gltf-pickup-bullets.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-items-gltf-pickup-bullets.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 7802,
+          "sha256": "498ad935d2881006248943fccfb30b8fc9238e2137b323caa4f3a7710d0d6b7f",
+          "transparent": true,
+          "sourceBundleSha256": "6f9fa821e79381f127422475c0629f89043c0aa4288f34a1c9082c8e4c8a298a",
+          "cacheKey": "0bf2b8c818fd6815b69596736cc70e5912c92bbf1013af405de7eddfcc2a2513",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 2.195811,
+            "alphaBounds": {
+              "x": 138,
+              "y": 83,
+              "width": 257,
+              "height": 366,
+              "fill": 0.714844
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-items-gltf-pickup-bullets.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -9500,6 +12660,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-items-gltf-pickup-crate.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-items-gltf-pickup-crate.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 9658,
+          "sha256": "b5100a022f8b54439061a3cdc03b69c54fcdf832a6d739ae62c0300d6badb80d",
+          "transparent": true,
+          "sourceBundleSha256": "6919b54aaa6a62410e14a5cb695fb6fa3a02661cb5fdc454ba70a88b7dfa84fd",
+          "cacheKey": "58801c150260f2e85a4a2b0605f0981b2a2f35499608dbe2a82815d0e2cb927a",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 2.598167,
+            "alphaBounds": {
+              "x": 63,
+              "y": 79,
+              "width": 392,
+              "height": 398,
+              "fill": 0.777344
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-items-gltf-pickup-crate.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -9593,6 +12793,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-items-gltf-pickup-health.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-items-gltf-pickup-health.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 9544,
+          "sha256": "549c3775a5022c55208c3f0004c1d6bda804de4a99b93fed657a4ebf85f367c1",
+          "transparent": true,
+          "sourceBundleSha256": "9eab5cbb31171a782721884422567bc7934f6792811f81e4c62eb66ce55bd822",
+          "cacheKey": "448c07cba8b4e45804ceb334882817356f5fd9468516ba8bca17de74f2c388ff",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 2.710098,
+            "alphaBounds": {
+              "x": 123,
+              "y": 88,
+              "width": 289,
+              "height": 364,
+              "fill": 0.710938
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-items-gltf-pickup-health.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -9686,6 +12926,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-items-gltf-pickup-jar.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-items-gltf-pickup-jar.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 5976,
+          "sha256": "94b569222daf9ecb01baf372936e0215ca2b01e61e52426307b436332f13b4dd",
+          "transparent": true,
+          "sourceBundleSha256": "38165a0df858ca97f8c3fb1ff9327602004f2bfd5f77584141ae8fd7c660426e",
+          "cacheKey": "831f0300ccecd63b8f601f200355897fb25dd265bfd419b6b2c4631c8a6e13c4",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 2.597743,
+            "alphaBounds": {
+              "x": 139,
+              "y": 74,
+              "width": 234,
+              "height": 368,
+              "fill": 0.71875
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-items-gltf-pickup-jar.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -9779,6 +13059,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-items-gltf-pickup-keycard.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-items-gltf-pickup-keycard.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 6848,
+          "sha256": "6d9ed3fa25af94c4a577f2eeadcb8554739e353509297829064aae2868a10d31",
+          "transparent": true,
+          "sourceBundleSha256": "d2c6b921c3258a31b196e431933755b01c00a30e4f136fcdba33fa482f8cb38b",
+          "cacheKey": "7cee0755a65b27fc1dc016be788e3c0add61b3f774e58628c025f1cf2146c0d2",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 1.95566,
+            "alphaBounds": {
+              "x": 111,
+              "y": 85,
+              "width": 348,
+              "height": 369,
+              "fill": 0.720703
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-items-gltf-pickup-keycard.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -9872,6 +13192,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-items-gltf-pickup-sphere.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-items-gltf-pickup-sphere.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 10766,
+          "sha256": "6ea0e04bf3563338444e4b060db0ddf1408f211b87751c5f12c4bf254744a7da",
+          "transparent": true,
+          "sourceBundleSha256": "1feaaf298c793229bc24eebe2aa9b7e44bdcbeb07f9041e2335d8f9c9fddc8e0",
+          "cacheKey": "2b9de3c9f319f0e5c62834e0ab764ab309071c9501d97e28f526d7603e59c7b4",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 2.853463,
+            "alphaBounds": {
+              "x": 74,
+              "y": 91,
+              "width": 364,
+              "height": 368,
+              "fill": 0.71875
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-items-gltf-pickup-sphere.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -9965,6 +13325,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-items-gltf-pickup-thunder.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-items-gltf-pickup-thunder.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 13906,
+          "sha256": "a79ab3d5f4fe28fb6dcab4ba63705257f7de34a5d19e02af75763bc76e910c02",
+          "transparent": true,
+          "sourceBundleSha256": "ace2b3bc53b7351e2f00dbe020c725389e39e22c98d1863deafce54fc262e943",
+          "cacheKey": "e4ddcb708967d40e07b9bc1b5e9409e85f25df543a0436acf59f29674ccfd9af",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 2.271123,
+            "alphaBounds": {
+              "x": 79,
+              "y": 99,
+              "width": 368,
+              "height": 337,
+              "fill": 0.71875
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-items-gltf-pickup-thunder.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -10058,6 +13458,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-vehicles-gltf-rover-1.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-vehicles-gltf-rover-1.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 11782,
+          "sha256": "a319a70e9abdc426024e06bf23a0a38675222f6a9f970db8e3d3e45a546a02da",
+          "transparent": true,
+          "sourceBundleSha256": "7eb77879d7508d17ab21f5af9ad64b3634e210a9595788e3d4a87820e6ac594d",
+          "cacheKey": "71ccff957008e330f5b218a9846f4e39cb9f8ff108bdf1cf082cf3470657fb4e",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 13.63233,
+            "alphaBounds": {
+              "x": 70,
+              "y": 95,
+              "width": 367,
+              "height": 394,
+              "fill": 0.769531
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-vehicles-gltf-rover-1.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -10153,6 +13593,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-vehicles-gltf-rover-2.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-vehicles-gltf-rover-2.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 10710,
+          "sha256": "cbfbb3bdabacc0ad0dd8cc8725f4713734ebe3842924d46e32dc22f7075f79c7",
+          "transparent": true,
+          "sourceBundleSha256": "6efd83668ef1606e23ee0d822e20a56472abcd6a74b73658b2ff46564943f570",
+          "cacheKey": "08856ced3c0d0768d11df4238821665ca3988c5123216fcb61f0cda0005dba4a",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 15.776989,
+            "alphaBounds": {
+              "x": 64,
+              "y": 131,
+              "width": 370,
+              "height": 342,
+              "fill": 0.722656
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-vehicles-gltf-rover-2.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -10248,6 +13728,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-vehicles-gltf-rover-round.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-vehicles-gltf-rover-round.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8862,
+          "sha256": "2a6fa496fd54064349cb6d7f92fe00e16b29b22f068257bacd8061bb34bcb95b",
+          "transparent": true,
+          "sourceBundleSha256": "f76f1e6b53e00c37d24243b045196e0be646e3c089b17485030a8750ccc63648",
+          "cacheKey": "cd10633354103fd89387fab8bbaad84819b67efe1b6cb498fe8d2660363635fb",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 14.286222,
+            "alphaBounds": {
+              "x": 93,
+              "y": 111,
+              "width": 341,
+              "height": 369,
+              "fill": 0.720703
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-vehicles-gltf-rover-round.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -10343,6 +13863,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-vehicles-gltf-spaceship-barbarathebee.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-vehicles-gltf-spaceship-barbarathebee.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 12196,
+          "sha256": "5d2cc938e869ac29bc769cf7d9f492b0d75604f1976f754a575c8f6074afb102",
+          "transparent": true,
+          "sourceBundleSha256": "257be60f292cb4d5dc79b068aa435776bbd522b296d0257725e97f3abe99c137",
+          "cacheKey": "d5213b3041152cf815fe044c0c0b5c85d63d96671ed27a9d988aabaf1045cb64",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 15.707055,
+            "alphaBounds": {
+              "x": 131,
+              "y": 106,
+              "width": 359,
+              "height": 294,
+              "fill": 0.701172
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-vehicles-gltf-spaceship-barbarathebee.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -10438,6 +13998,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-vehicles-gltf-spaceship-fernandotheflamingo.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-vehicles-gltf-spaceship-fernandotheflamingo.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 6678,
+          "sha256": "4be4e7545db65fa0adfe53251423379cc9451711deb52e0222fa236a4eff7144",
+          "transparent": true,
+          "sourceBundleSha256": "163973af8f379bd2765d8208995b330f5d72ec627bb4ebfb7fb00e87a24b2de2",
+          "cacheKey": "12b3b9ab2169753a810d93e541a454cc64614f9a2054be83ca61dcce10023720",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 23.84687,
+            "alphaBounds": {
+              "x": 129,
+              "y": 168,
+              "width": 372,
+              "height": 174,
+              "fill": 0.726563
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-vehicles-gltf-spaceship-fernandotheflamingo.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -10533,6 +14133,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-vehicles-gltf-spaceship-finnthefrog.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-vehicles-gltf-spaceship-finnthefrog.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 10820,
+          "sha256": "601d221c72a369fe9b0161b8460d2e0965e1d451e5cf22c065b27ac788d20862",
+          "transparent": true,
+          "sourceBundleSha256": "0a52eb57e1e9cbbb3a2e15f9fb153bc87029bbc5043cb9fe995cc49d9c94eb40",
+          "cacheKey": "b6bf0c749bc88f5a59c297c8b82d009a04816f8e4e488b51e0403496649ca122",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 19.301468,
+            "alphaBounds": {
+              "x": 125,
+              "y": 157,
+              "width": 370,
+              "height": 234,
+              "fill": 0.722656
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-vehicles-gltf-spaceship-finnthefrog.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",
@@ -10628,6 +14268,46 @@
         "kind": "model",
         "format": "gltf",
         "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-ultimate-space-kit-03aecf85bc43/quaternius-ultimate-space-kit-vehicles-gltf-spaceship-raetheredpanda.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-space-kit/quaternius-ultimate-space-kit-vehicles-gltf-spaceship-raetheredpanda.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 11450,
+          "sha256": "7ddaf342019f9a915aa2a26da1e5062e25be11c49f9eb672569a411545591b36",
+          "transparent": true,
+          "sourceBundleSha256": "f9ab880c0ad45788e98882c28caf86985dc2eb343d0fd5e3aa7d4836ece1d984",
+          "cacheKey": "b7d2c9c56854869858b8f8a6530a33289feb3a046adfec8962621448350dfe86",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 1,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 23.904821,
+            "alphaBounds": {
+              "x": 95,
+              "y": 152,
+              "width": 394,
+              "height": 193,
+              "fill": 0.769531
+            }
+          },
+          "sampledAnimation": null,
+          "packRelativePath": "previews/quaternius-ultimate-space-kit-vehicles-gltf-spaceship-raetheredpanda.webp"
+        },
         "sourceUrl": "https://quaternius.com/packs/ultimatespacekit.html",
         "tags": [
           "quaternius",

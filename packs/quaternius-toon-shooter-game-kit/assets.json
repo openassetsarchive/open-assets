@@ -10,6 +10,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-characters-gltf-character-enemy.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-characters-gltf-character-enemy.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 10828,
+      "sha256": "d60d1b67eca1bdb2af9ea647e9e45c760336a897f7a68261189c71c254610eb4",
+      "transparent": true,
+      "sourceBundleSha256": "6b116856ec8fe1c2f1e6b2df65b19dc3708e87277066691a6d1ca05dd556357b",
+      "cacheKey": "be6ec9c0f90b82053dd477746a46a5ca0d4ea2a04f170760fe330692835263dd",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 5.011631,
+        "alphaBounds": {
+          "x": 90,
+          "y": 47,
+          "width": 339,
+          "height": 382,
+          "fill": 0.746094
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-characters-gltf-character-enemy.webp"
+    },
     "bounds": {
       "size": [
         2.724381,
@@ -134,6 +174,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-characters-gltf-character-hazmat.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-characters-gltf-character-hazmat.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 11552,
+      "sha256": "d55f2abf6436f229e5fda4ba40acc6feb3e324ba3ae43a8cb74748995347db82",
+      "transparent": true,
+      "sourceBundleSha256": "76d09aac73527711748b347ecaf4cd32956a3c5ee99eda11ab7174949e56b932",
+      "cacheKey": "ebc48e715eb131acd6ea8bc8b8515af452d445cd0f9a91d62f03fb2fcb8cef0b",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 5.210585,
+        "alphaBounds": {
+          "x": 89,
+          "y": 67,
+          "width": 331,
+          "height": 348,
+          "fill": 0.679688
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-characters-gltf-character-hazmat.webp"
+    },
     "bounds": {
       "size": [
         2.724381,
@@ -255,6 +335,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-characters-gltf-character-soldier.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-characters-gltf-character-soldier.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 11924,
+      "sha256": "837dc597273032c041a0f279bb3bab6f0e660d9c9ac6fada5c4dc4abc3691358",
+      "transparent": true,
+      "sourceBundleSha256": "cd0c9631549b3b7e1601cd3454b66210b30cb9bedecacae1d9697aea0251fe23",
+      "cacheKey": "6aa330c437fd058532c32b0e0fa100ded9aea45ecc6e098de53a0379773ec68c",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 5.047794,
+        "alphaBounds": {
+          "x": 91,
+          "y": 49,
+          "width": 336,
+          "height": 381,
+          "fill": 0.744141
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-characters-gltf-character-soldier.webp"
+    },
     "bounds": {
       "size": [
         2.725188,
@@ -376,6 +496,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-barrier-fixed.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-barrier-fixed.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 26854,
+      "sha256": "67bd36ee80ee8e74f6f5a201b0ad122f3360fa35fbab71898b62f96ef395cdcb",
+      "transparent": true,
+      "sourceBundleSha256": "9b3b1674ec0492b181ee7a766a405a8d3b3f939a1e684be1b75f172dff5e9869",
+      "cacheKey": "30bae6e7dd05723e39e6a2a1ec4295529c918fa21c6b541fe1f3a56225f25e66",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 9.32623,
+        "alphaBounds": {
+          "x": 141,
+          "y": 87,
+          "width": 262,
+          "height": 368,
+          "fill": 0.71875
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-barrier-fixed.webp"
+    },
     "bounds": {
       "size": [
         3.805526,
@@ -427,6 +587,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-barrier-large.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-barrier-large.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 31632,
+      "sha256": "db059354c6b085632a2d8e6a2334eb4d40f827099bac4ea34b39175c87e2205d",
+      "transparent": true,
+      "sourceBundleSha256": "51666954cabeaf22656b7a0d399dc447b26457f5e1bffcb79abe6ecb7d9483c5",
+      "cacheKey": "c7487744d66ca94a10f261ea4c439581153cc6c51bdf6344288d9c2809b544e9",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 9.32623,
+        "alphaBounds": {
+          "x": 141,
+          "y": 87,
+          "width": 262,
+          "height": 368,
+          "fill": 0.71875
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-barrier-large.webp"
+    },
     "bounds": {
       "size": [
         3.805526,
@@ -478,6 +678,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-barrier-single.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-barrier-single.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8334,
+      "sha256": "17b043a68e29e67b570bef425b5bfc5cbabaa9f8f7e9476c70595fd111b94c91",
+      "transparent": true,
+      "sourceBundleSha256": "e2264ed0c1195b01951e4e68d296c4d66b4f2d135d346891ac775f3bfb51210a",
+      "cacheKey": "a973f5207c20ee3f0c015f632b1680b84d664cc16fc745aa4355ec91b94c9213",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 4.046683,
+        "alphaBounds": {
+          "x": 99,
+          "y": 137,
+          "width": 360,
+          "height": 283,
+          "fill": 0.703125
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-barrier-single.webp"
+    },
     "bounds": {
       "size": [
         1.890243,
@@ -529,6 +769,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-barrier-trash.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-barrier-trash.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 13940,
+      "sha256": "e4ed0de95f91b4692b69edf21617b2f9b489901cd710b18935e6114d80fef225",
+      "transparent": true,
+      "sourceBundleSha256": "625f5f177bbad72b82f3cbf1e0bbf9c0d3c95938cd2780338652fee833189ddf",
+      "cacheKey": "306203f3f7a918f5553c977ce18fb97ce5d6df4e67621d079352bf2fe5c8d3af",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 7.76763,
+        "alphaBounds": {
+          "x": 102,
+          "y": 90,
+          "width": 358,
+          "height": 371,
+          "fill": 0.724609
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-barrier-trash.webp"
+    },
     "bounds": {
       "size": [
         4.488418,
@@ -580,6 +860,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-beartrap-closed.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-beartrap-closed.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 11744,
+      "sha256": "c88949aea0ebe885f84b128e967242a621659c2c3600982e0631e89257e4663b",
+      "transparent": true,
+      "sourceBundleSha256": "652742fa62c469030f5fa582df4013b1344279499962dd708ee003258b968a5c",
+      "cacheKey": "50f8d6405cd22b16a71441f0980fcf0c37be5cf3d10dcde4ad6d01ca9eb69331",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 1.893465,
+        "alphaBounds": {
+          "x": 72,
+          "y": 126,
+          "width": 371,
+          "height": 319,
+          "fill": 0.724609
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-beartrap-closed.webp"
+    },
     "bounds": {
       "size": [
         0.825001,
@@ -631,6 +951,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-beartrap-open.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-beartrap-open.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 10638,
+      "sha256": "7313136525bac39bc266e7bb97bad484e46787d87e1fd8d05df1196566018675",
+      "transparent": true,
+      "sourceBundleSha256": "92efb27a6b85ad8f3b15e5a1bde649449ad99b0ab8e6a623a1442c79c9c3e344",
+      "cacheKey": "149f1f69bc4efd7e2151a718500abb6ecf83dd27a8dd92e6319991f2fea8f322",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.038189,
+        "alphaBounds": {
+          "x": 80,
+          "y": 154,
+          "width": 371,
+          "height": 220,
+          "fill": 0.724609
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-beartrap-open.webp"
+    },
     "bounds": {
       "size": [
         0.876521,
@@ -682,6 +1042,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-brickwall-1.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-brickwall-1.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 5676,
+      "sha256": "e6d363a87e76cbf5ec96a028360807897079e307c633c756a4bf149a3039e819",
+      "transparent": true,
+      "sourceBundleSha256": "e457c6b402bee0686c381b79c1824b258a715fdd1c9bbd8eae017b66fbeadaf4",
+      "cacheKey": "133c3d64dba68a5f0589c77316f7154f38f257eab1999479612f0e90bb134fd4",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.898103,
+        "alphaBounds": {
+          "x": 101,
+          "y": 160,
+          "width": 374,
+          "height": 209,
+          "fill": 0.730469
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-brickwall-1.webp"
+    },
     "bounds": {
       "size": [
         2.237448,
@@ -733,6 +1133,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-brickwall-2.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-brickwall-2.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7676,
+      "sha256": "bbdaa8b46a35d73a3609e23f3ab4237354a9e34c8b406ca2a9ec337831d2fd57",
+      "transparent": true,
+      "sourceBundleSha256": "38e427a5e3ec6daf13e870ecf89d4441c39bc224ca8f06197f98eb7ad6c5b178",
+      "cacheKey": "4ed4379f81f5cd5a20086265000e77c61d57f6d9388d5016cf92c816d25cef3e",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.963071,
+        "alphaBounds": {
+          "x": 100,
+          "y": 131,
+          "width": 376,
+          "height": 271,
+          "fill": 0.734375
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-brickwall-2.webp"
+    },
     "bounds": {
       "size": [
         2.237449,
@@ -784,6 +1224,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-cardboardboxes-1.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-cardboardboxes-1.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6828,
+      "sha256": "400a7354aab68468387f5b2e36998657063c720f97eea90c8c064205569a89c2",
+      "transparent": true,
+      "sourceBundleSha256": "6d16fe5e83c3eed460c2f3da796fb62dac6bae1ee0d644d44c8321745a57a3a3",
+      "cacheKey": "31d9201b8eedb40dc263ccdfa356ddae139ae02956fa136dfc3db6fca28c4876",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.804326,
+        "alphaBounds": {
+          "x": 79,
+          "y": 130,
+          "width": 364,
+          "height": 296,
+          "fill": 0.710938
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-cardboardboxes-1.webp"
+    },
     "bounds": {
       "size": [
         0.975538,
@@ -835,6 +1315,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-cardboardboxes-2.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-cardboardboxes-2.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7124,
+      "sha256": "5e967b059a7f19fe0d2589dffb510a8c819193a26c3eeb1976dbee5cef76e925",
+      "transparent": true,
+      "sourceBundleSha256": "26e22e68e345198a63f5392c895306e71b61b30dcd33e753cb5de59197ca8e1b",
+      "cacheKey": "9ce914b1081741d7babf29b2c3a2d72ce5b629e7e90d480094d33f7f90fce261",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.258117,
+        "alphaBounds": {
+          "x": 78,
+          "y": 94,
+          "width": 358,
+          "height": 367,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-cardboardboxes-2.webp"
+    },
     "bounds": {
       "size": [
         0.975538,
@@ -886,6 +1406,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-cardboardboxes-3.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-cardboardboxes-3.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6346,
+      "sha256": "7a913a5f9465ff3ddca521cf840158bb7b2ceae03d325d19d256419dce9bb92d",
+      "transparent": true,
+      "sourceBundleSha256": "6348122b394bc1169eeb2603b90b4582bb6347ebaf9f09cee30e9c155d96fe84",
+      "cacheKey": "843e490e785f08d2dcbe6324d3ac4157942124d681c985985bcd94ba2871f8bb",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 5.630877,
+        "alphaBounds": {
+          "x": 150,
+          "y": 69,
+          "width": 216,
+          "height": 369,
+          "fill": 0.720703
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-cardboardboxes-3.webp"
+    },
     "bounds": {
       "size": [
         1.25524,
@@ -937,6 +1497,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-cardboardboxes-4.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-cardboardboxes-4.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7586,
+      "sha256": "74c974e7cec43554d185ce3a197eac69afa1fc7d2b3a3cf7ec22b0b08a571593",
+      "transparent": true,
+      "sourceBundleSha256": "c2d4431cda4cb860dc92d651797e1121a47b8d030056e7a4cb18468d6f15408d",
+      "cacheKey": "a050e7ed973e72e631d25d5fd3f198602e2f6b759567e5e582eafa084ad32854",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 4.900329,
+        "alphaBounds": {
+          "x": 129,
+          "y": 80,
+          "width": 262,
+          "height": 371,
+          "fill": 0.724609
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-cardboardboxes-4.webp"
+    },
     "bounds": {
       "size": [
         1.415075,
@@ -988,6 +1588,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-container-long.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-container-long.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 12016,
+      "sha256": "f4f75dfba6bb5e0f0d6e1ee479cc7ae6d771eaa83302407daeec26419bb5b0ba",
+      "transparent": true,
+      "sourceBundleSha256": "5941b8b5a74bbb631f14d54f74c4e3fcd15651196563fc57faaa29e5c351c55a",
+      "cacheKey": "8669f19a3e3f150613a0e070626952107685cea64338fb1e1785b87965141a38",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 10.582578,
+        "alphaBounds": {
+          "x": 86,
+          "y": 124,
+          "width": 366,
+          "height": 308,
+          "fill": 0.714844
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-container-long.webp"
+    },
     "bounds": {
       "size": [
         4.359495,
@@ -1039,6 +1679,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-container-small.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-container-small.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 12026,
+      "sha256": "730060b69cc063ef4362d4c963a71b35759cbc4593941b01d8b5a7d3cef5b17f",
+      "transparent": true,
+      "sourceBundleSha256": "abd680efeb469852d139159b72c5bfe4525b3f0dc820f268b4b40add99d9fd34",
+      "cacheKey": "cbcd1ed8639c09c46f653f3c0278c82f0153c8e505b7847190cd84b090cb652c",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 7.243115,
+        "alphaBounds": {
+          "x": 77,
+          "y": 93,
+          "width": 359,
+          "height": 368,
+          "fill": 0.71875
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-container-small.webp"
+    },
     "bounds": {
       "size": [
         2.194474,
@@ -1090,6 +1770,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-crate.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-crate.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9250,
+      "sha256": "7795356db1be163888529dd8312e3a88baad255fc7a7cd01ca38f11cd22e2fbb",
+      "transparent": true,
+      "sourceBundleSha256": "d6316d27bf86e6ee79767c2ce9b513b4032bc9d0d58d7c7193fea68685d12c87",
+      "cacheKey": "e52e8d41e5ef25696a32e06d1b1f6a62da320c3b540758d37ccaeac18743753f",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.600798,
+        "alphaBounds": {
+          "x": 77,
+          "y": 93,
+          "width": 358,
+          "height": 367,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-crate.webp"
+    },
     "bounds": {
       "size": [
         0.78985,
@@ -1141,6 +1861,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-debris-brokencar.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-debris-brokencar.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7826,
+      "sha256": "411d2005ba1f38d4089c7bff655e21a9bfdf3e0f6f87e898457266492e0df2d5",
+      "transparent": true,
+      "sourceBundleSha256": "bb1717983a36ff02e4bf97367bf9898a22cfc209efd9a530371fde445e9a385f",
+      "cacheKey": "34b899795df6a071a64b1c81d1c90d9c3707e4a5f38412ff64a7e48c80c1bfab",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 11.761224,
+        "alphaBounds": {
+          "x": 54,
+          "y": 169,
+          "width": 362,
+          "height": 231,
+          "fill": 0.707031
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-debris-brokencar.webp"
+    },
     "bounds": {
       "size": [
         2.641289,
@@ -1192,6 +1952,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-debris-papers-1.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-debris-papers-1.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 5734,
+      "sha256": "5a7d1f61a66cea13a18a47ba217be658b9714a585dc6e5fa72647081bb308ebd",
+      "transparent": true,
+      "sourceBundleSha256": "eda14e6a896a6191f1413983f1d27abbafb5e11d865a076a3ef030a1e7fa8e0b",
+      "cacheKey": "a23710fc9a0e563174fe47af888de890ae6525a571bfb6c741d5244907a20144",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.135494,
+        "alphaBounds": {
+          "x": 79,
+          "y": 172,
+          "width": 369,
+          "height": 191,
+          "fill": 0.720703
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-debris-papers-1.webp"
+    },
     "bounds": {
       "size": [
         0.952962,
@@ -1243,6 +2043,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-debris-papers-2.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-debris-papers-2.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6044,
+      "sha256": "169b3b7985a6265ea21672de9b59860602e34eec9e53ffa7f3fc12c1a9e8d153",
+      "transparent": true,
+      "sourceBundleSha256": "d8e39b0784d8b620033eabb1f88bcf81ab859939603f1763ebddd482cb560113",
+      "cacheKey": "06335aff72102e9a4fcb1f0dc10c4e2879a8debebeee176cca8c88e0b5640e49",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.297567,
+        "alphaBounds": {
+          "x": 76,
+          "y": 189,
+          "width": 369,
+          "height": 133,
+          "fill": 0.720703
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-debris-papers-2.webp"
+    },
     "bounds": {
       "size": [
         0.952208,
@@ -1294,6 +2134,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-debris-papers-3.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-debris-papers-3.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 5342,
+      "sha256": "52fe5b015ccdd46423da7f714d8d185b5fc5fc10054e2dae3a7f55a881cb212b",
+      "transparent": true,
+      "sourceBundleSha256": "dc15a4f716178b1790930fa02d2686b632d25373b3f5e50bc2169d28328b3161",
+      "cacheKey": "3bef4e4e3ccacab86ff5513b409eb4de8952ca283c7540345f770ab756a66610",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 1.146418,
+        "alphaBounds": {
+          "x": 54,
+          "y": 174,
+          "width": 372,
+          "height": 189,
+          "fill": 0.726563
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-debris-papers-3.webp"
+    },
     "bounds": {
       "size": [
         0.444995,
@@ -1345,6 +2225,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-debris-pile.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-debris-pile.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8762,
+      "sha256": "bef1dfeab38b49c98aaf6923a11aeab44e0a10d7f3772eabc61b0f45a80a96ee",
+      "transparent": true,
+      "sourceBundleSha256": "378b6154b50e6cbd50930079bcec02314d02982447e767d0840cb1c515a3b573",
+      "cacheKey": "8591f0afd510b2837b57651ee76a4fe7a8f6065add309cbfacc3cc4bfa5fe544",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 5.621141,
+        "alphaBounds": {
+          "x": 79,
+          "y": 183,
+          "width": 376,
+          "height": 174,
+          "fill": 0.734375
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-debris-pile.webp"
+    },
     "bounds": {
       "size": [
         2.116006,
@@ -1396,6 +2316,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-debris-tires.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-debris-tires.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6542,
+      "sha256": "f15306e23910a2c0fa85ba68d587c4224ba9984a0c59b63f9a88fa09bdde1776",
+      "transparent": true,
+      "sourceBundleSha256": "e59d7819cfe941ad07d4425e9a4c077255a1a39f76fb1fc4ac481a1b1dd72958",
+      "cacheKey": "382f6be9338fb19676cfdca252e925b95c6efc565db0610da79fd5051f582348",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.758357,
+        "alphaBounds": {
+          "x": 96,
+          "y": 148,
+          "width": 345,
+          "height": 268,
+          "fill": 0.673828
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-debris-tires.webp"
+    },
     "bounds": {
       "size": [
         1.755563,
@@ -1447,6 +2407,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-explodingbarrel.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-explodingbarrel.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8708,
+      "sha256": "8a49c9346e001475c445543320e04dc0a0cc55c8cd13dcab79507cfb8abbfbbf",
+      "transparent": true,
+      "sourceBundleSha256": "4b12337812e86e923a062c0d78e17c6e4cca6b10b6b1685f3fcd60dc6f121828",
+      "cacheKey": "c85e415c49981cca35b27e6c30dc6bafaf7d844b3a3764b113c97219a8d64266",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.777904,
+        "alphaBounds": {
+          "x": 130,
+          "y": 79,
+          "width": 252,
+          "height": 368,
+          "fill": 0.71875
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-explodingbarrel.webp"
+    },
     "bounds": {
       "size": [
         0.784985,
@@ -1498,6 +2498,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-explodingbarrel-spilled.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-explodingbarrel-spilled.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7038,
+      "sha256": "7d3d399aa4505de645c0c395d9b1db12297ef57c6068d6d2001218d4f37ae5f2",
+      "transparent": true,
+      "sourceBundleSha256": "4d4e362bc825ca0ecd7c69e4bc6c6b7826b5e9ffe356778add5079d3989ae3f0",
+      "cacheKey": "8779ee7afa5bec0cf1f0f66806191c6889903691980c1de63b131e50ccbf2c68",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 5.407321,
+        "alphaBounds": {
+          "x": 66,
+          "y": 163,
+          "width": 361,
+          "height": 207,
+          "fill": 0.705078
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-explodingbarrel-spilled.webp"
+    },
     "bounds": {
       "size": [
         2.52139,
@@ -1549,6 +2589,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-fence.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-fence.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8966,
+      "sha256": "82b1328c49e2106d3984f2064f87d1fcef95e9df90de8b88ace2b8409d2ce0d9",
+      "transparent": true,
+      "sourceBundleSha256": "c5c66aa44e57fd50c8288646489827cb8c69c648828cbe027bb1ef6a26a0879e",
+      "cacheKey": "3301524e029a2bf15f9223a11e12a77a98711bfbe29678ab2d14f7153493cedf",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.241691,
+        "alphaBounds": {
+          "x": 83,
+          "y": 52,
+          "width": 340,
+          "height": 377,
+          "fill": 0.736328
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-fence.webp"
+    },
     "bounds": {
       "size": [
         0.941278,
@@ -1600,6 +2680,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-fence-long.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-fence-long.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8644,
+      "sha256": "65680370ee314aecb01cf264ff95d5a5765f1394d6848e2305b529302dce9227",
+      "transparent": true,
+      "sourceBundleSha256": "ddb1a7b2f1a60faee9b32820d2ff3acb830f40f5d99e93f7c813446a09e4ce2d",
+      "cacheKey": "2a5b7fed717758b26253afb08cc39c9fb3e38c9ed037edd8e41eb6acca6cc1c9",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.851713,
+        "alphaBounds": {
+          "x": 87,
+          "y": 86,
+          "width": 350,
+          "height": 330,
+          "fill": 0.683594
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-fence-long.webp"
+    },
     "bounds": {
       "size": [
         1.332062,
@@ -1651,6 +2771,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-gascan.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-gascan.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7752,
+      "sha256": "886b34f013959d8d7e64de5ef8eaca34fb60323b43fb9ca3aede962d8d2e64f3",
+      "transparent": true,
+      "sourceBundleSha256": "d89497f0cf269c611a94d295fa073f96f578f9ca2e6af58d780f3011950e6a1b",
+      "cacheKey": "7f53ff896b4ff9b3dccc0212bc6fa2211ea15b473e621cf90c65728313ed09e9",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.620204,
+        "alphaBounds": {
+          "x": 143,
+          "y": 82,
+          "width": 243,
+          "height": 367,
+          "fill": 0.716797
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-gascan.webp"
+    },
     "bounds": {
       "size": [
         0.79661,
@@ -1702,6 +2862,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-gastank.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-gastank.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 10502,
+      "sha256": "0b1c8c39a5ad689a6259710a664bd67e137a5d50e123fd17dc154aec4368b943",
+      "transparent": true,
+      "sourceBundleSha256": "b53ea95b50b0d6fd4f4d21ed03d596db3fa3882933199d31966941c722ec756c",
+      "cacheKey": "7d2b107ee7badabc18e50274b456f952443b2b1e605eaade84862eabf67d4fcc",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.423897,
+        "alphaBounds": {
+          "x": 138,
+          "y": 70,
+          "width": 236,
+          "height": 369,
+          "fill": 0.720703
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-gastank.webp"
+    },
     "bounds": {
       "size": [
         1.006216,
@@ -1753,6 +2953,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-health.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-health.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9384,
+      "sha256": "375be2e026c5c3df8e00c3a10cee63d4273dfda89370f8c200c0d6bcafe4345c",
+      "transparent": true,
+      "sourceBundleSha256": "6efaac2619904fa8f6a91211ff7bfa34e2b9f3c5973272f7bac68fe5357e8a31",
+      "cacheKey": "a55ae4d41e87e2003312df63526e2eb42425ff6369add8173ced75bf78bbc678",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.094982,
+        "alphaBounds": {
+          "x": 104,
+          "y": 101,
+          "width": 331,
+          "height": 365,
+          "fill": 0.712891
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-health.webp"
+    },
     "bounds": {
       "size": [
         0.860968,
@@ -1804,6 +3044,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-key.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-key.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6798,
+      "sha256": "58e2f544918f64589fc203d3f982d5e826419539cdd0e8e71c760ab00dd08abb",
+      "transparent": true,
+      "sourceBundleSha256": "00e0fe8e4c777a4277c0272bcdb93abba51530b2ae4c4930efc094390550ab1c",
+      "cacheKey": "341fa42eb1d2788d8447ef486ce719b521752fdf30def80d2efdd6ef9ec0ffd0",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 0.966603,
+        "alphaBounds": {
+          "x": 99,
+          "y": 115,
+          "width": 372,
+          "height": 329,
+          "fill": 0.726563
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-key.webp"
+    },
     "bounds": {
       "size": [
         0.554815,
@@ -1855,6 +3135,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-landmine.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-landmine.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6638,
+      "sha256": "c80e27ed557d65b4c3256fc5ca7a7c00b1d28bc5cf347e10db4ad798a85afa35",
+      "transparent": true,
+      "sourceBundleSha256": "d42aaa3540a62241fd24245e9896eb5479dd097900fa2e52ae685db8572dae07",
+      "cacheKey": "372aa50edade34cf62bd69429883950db913668302e2c8134602e2e8d23d9e2b",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.386766,
+        "alphaBounds": {
+          "x": 84,
+          "y": 185,
+          "width": 344,
+          "height": 203,
+          "fill": 0.671875
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-landmine.webp"
+    },
     "bounds": {
       "size": [
         1.114881,
@@ -1906,6 +3226,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-metalfence.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-metalfence.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 34856,
+      "sha256": "c22739d8d51603f51aaa3ce684b561dd051d68774927d7cb44ade44631d23cfc",
+      "transparent": true,
+      "sourceBundleSha256": "36b5192394b1f26a3dbed4913a5cac15ea9d66a09b5a73fa9d0e65922b6e3e38",
+      "cacheKey": "9fe762594fa06adb3f6d92432bef9fa6f7d5e36bfac9cc7db1056012e5a2014c",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 8.223393,
+        "alphaBounds": {
+          "x": 136,
+          "y": 82,
+          "width": 280,
+          "height": 369,
+          "fill": 0.720703
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-metalfence.webp"
+    },
     "bounds": {
       "size": [
         3.548944,
@@ -1957,6 +3317,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-pallet.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-pallet.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 10308,
+      "sha256": "c46c79008f6711b209d299214a51f22c59bc0568dc5bc319c28e73d9f3085405",
+      "transparent": true,
+      "sourceBundleSha256": "8adbc7e0bc0c55b470ab991a244fd10f0f70388741c2f0d871ee59fe0e0bcef9",
+      "cacheKey": "5e700770b88b1ff22ec2f5fe6b5d9c54af34a583591c469bc56f7a06e4da9d27",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 4.901695,
+        "alphaBounds": {
+          "x": 74,
+          "y": 174,
+          "width": 370,
+          "height": 203,
+          "fill": 0.722656
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-pallet.webp"
+    },
     "bounds": {
       "size": [
         1.69602,
@@ -2008,6 +3408,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-pallet-broken.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-pallet-broken.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 10322,
+      "sha256": "a10266f156e78810ec75da5ebb89eebd85fc8b59ec914b959b3f1752cac21bf1",
+      "transparent": true,
+      "sourceBundleSha256": "89a0323d310ec09d066fb058dfa092e2d4badaec9b89673f9224873f2d7ab347",
+      "cacheKey": "7d5caa7b670837d293f0161e9b75f82dbae1d390861b956a364d43909fbbbd74",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 4.895056,
+        "alphaBounds": {
+          "x": 73,
+          "y": 174,
+          "width": 371,
+          "height": 209,
+          "fill": 0.724609
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-pallet-broken.webp"
+    },
     "bounds": {
       "size": [
         1.693723,
@@ -2059,6 +3499,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-pipes.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-pipes.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6068,
+      "sha256": "bf5e2751ce41a7ef02b8ec9ec1c9ed3c999b5320c61d60e316b962aa41f786cb",
+      "transparent": true,
+      "sourceBundleSha256": "db67cc881cc01ad1c05ff076c7c7db6395fb07b75f6c706652045133220c0e46",
+      "cacheKey": "dfb6ee689e77c4df6558dc5d435ff8a400191029d531a65230d24d332ca6905b",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 7.754039,
+        "alphaBounds": {
+          "x": 47,
+          "y": 164,
+          "width": 370,
+          "height": 247,
+          "fill": 0.722656
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-pipes.webp"
+    },
     "bounds": {
       "size": [
         1.001997,
@@ -2110,6 +3590,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-sacktrench.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-sacktrench.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7484,
+      "sha256": "701c77da128d52dc86a6f4d8e302498dd0ea8e811791d0827fde745463ba89f6",
+      "transparent": true,
+      "sourceBundleSha256": "cd60412b46fd1e87288c9fe94bdc2323087e59572e692afa437523d0e1dc93df",
+      "cacheKey": "ad528d005539f765bfc273bf5762736f51801e7249d5e9797f7b4d77d45c0c2b",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.13876,
+        "alphaBounds": {
+          "x": 104,
+          "y": 135,
+          "width": 371,
+          "height": 274,
+          "fill": 0.724609
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-sacktrench.webp"
+    },
     "bounds": {
       "size": [
         3.345142,
@@ -2161,6 +3681,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-sacktrench-small.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-sacktrench-small.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6708,
+      "sha256": "e5a7df9a45c7eb5acdc9ee8bcf8a02d4e5daef41b2f10c455549491cbf591279",
+      "transparent": true,
+      "sourceBundleSha256": "a01c33c6903d9b6dd9607f08b3b6f85d96982c161777a1f5b1f71aa3a907180e",
+      "cacheKey": "55f4727841f9a8e7ebb448cbcfc33249fa8745958e8d52db9c166c37f324277c",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 4.611347,
+        "alphaBounds": {
+          "x": 101,
+          "y": 137,
+          "width": 368,
+          "height": 264,
+          "fill": 0.71875
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-sacktrench-small.webp"
+    },
     "bounds": {
       "size": [
         2.481411,
@@ -2212,6 +3772,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-sign.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-sign.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7476,
+      "sha256": "2115794791cb99a43daabf1e1dbefdc771feefa0d4de699885c1c1db9b93f353",
+      "transparent": true,
+      "sourceBundleSha256": "712589a535159673e31b490269eddc4cdc5c685e7ec1fdc32d3397b983911fb8",
+      "cacheKey": "0b7ab9149eda8897e5639e5b79ae55523ba8e1174d90c034af93933c9978fe14",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.60158,
+        "alphaBounds": {
+          "x": 174,
+          "y": 73,
+          "width": 187,
+          "height": 369,
+          "fill": 0.720703
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-sign.webp"
+    },
     "bounds": {
       "size": [
         0.569607,
@@ -2263,6 +3863,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-sofa.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-sofa.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7800,
+      "sha256": "af91dd3b486912daf58ae3815d6b89693da1a9c900ca11c91f5fd6523146289e",
+      "transparent": true,
+      "sourceBundleSha256": "69cf28e4d40896f98760563d0cff3e3ebecac18af1db522895a9d78ecfe306b5",
+      "cacheKey": "312845a3d2c8ec1692914388114a9a12de3777a7cfecb1d8a289d5b70444728a",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 7.171621,
+        "alphaBounds": {
+          "x": 81,
+          "y": 142,
+          "width": 382,
+          "height": 293,
+          "fill": 0.746094
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-sofa.webp"
+    },
     "bounds": {
       "size": [
         3.349931,
@@ -2314,6 +3954,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-sofa-small.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-sofa-small.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7632,
+      "sha256": "303f0c0e4498cd87823d3ad410addc647e18179e4c9133fce0ab29d844bb1ee2",
+      "transparent": true,
+      "sourceBundleSha256": "ba2810932df010e85decc7bbebff9f4290b881162161133045cc108bf76b61cb",
+      "cacheKey": "26a060726ad5530a9d0dbec399426896585465ff4bd66589930bc62713f8b15e",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 5.358099,
+        "alphaBounds": {
+          "x": 78,
+          "y": 127,
+          "width": 368,
+          "height": 325,
+          "fill": 0.71875
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-sofa-small.webp"
+    },
     "bounds": {
       "size": [
         2.032244,
@@ -2365,6 +4045,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-streetlight.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-streetlight.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 3386,
+      "sha256": "a07c1a35d4719774eee0843f15c0ea668058983b415ede9b164071127fd0bf43",
+      "transparent": true,
+      "sourceBundleSha256": "9110e12dc6e6d012b4a76b5dbe3b2fe6bda2d90459a4d092088a9c9a9a8edac0",
+      "cacheKey": "956725167cb93816a9095fe5afa71f2517371adeb38712aa82aa45c19109d012",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 10.360755,
+        "alphaBounds": {
+          "x": 179,
+          "y": 43,
+          "width": 133,
+          "height": 371,
+          "fill": 0.724609
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-streetlight.webp"
+    },
     "bounds": {
       "size": [
         0.418242,
@@ -2416,6 +4136,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-structure-1.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-structure-1.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 18686,
+      "sha256": "6a4c61088e27eb1f6ba58445eeb501c8fdfe225f738faf5896d761f88bb4c04a",
+      "transparent": true,
+      "sourceBundleSha256": "f9241be0dbcb2c0cb9e54322704e7ab38b21a6b9b1796270f61e10d0e3d0a77b",
+      "cacheKey": "0fa40d4db347e010a315283419fba01782d3f8b95c367f5f9b1b54cd8308d84b",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 17.073481,
+        "alphaBounds": {
+          "x": 111,
+          "y": 140,
+          "width": 379,
+          "height": 331,
+          "fill": 0.740234
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-structure-1.webp"
+    },
     "bounds": {
       "size": [
         7.975182,
@@ -2467,6 +4227,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-structure-2.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-structure-2.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 10384,
+      "sha256": "71defee03be4a63df9b572aa1cc3137db57f22c85c69998082f3e5318e4577b5",
+      "transparent": true,
+      "sourceBundleSha256": "df0dac7ba5f5dea23114ee56bf73b663930ba107ddd6ef410c3f11f099214f29",
+      "cacheKey": "74f82e02ff6b74788b57b26ec2871b299b08f7c2f75bb031fc8e4b8881a4884d",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 22.658864,
+        "alphaBounds": {
+          "x": 144,
+          "y": 103,
+          "width": 250,
+          "height": 372,
+          "fill": 0.726563
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-structure-2.webp"
+    },
     "bounds": {
       "size": [
         10.584167,
@@ -2518,6 +4318,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-structure-3.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-structure-3.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 12226,
+      "sha256": "58d0c0823c756ca099ff665849de8831d9336b13849c86661bd0580fc02fb766",
+      "transparent": true,
+      "sourceBundleSha256": "4f8b37c414991efff864c735932cef7e0e6ff42a616ddb425756cfb39182b980",
+      "cacheKey": "5e2f96f2a0fe19ed97b7497b2c1ab16593f706c49edd0f45beb3d83fdfd28f2d",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 24.439442,
+        "alphaBounds": {
+          "x": 166,
+          "y": 104,
+          "width": 239,
+          "height": 366,
+          "fill": 0.714844
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-structure-3.webp"
+    },
     "bounds": {
       "size": [
         7.87356,
@@ -2569,6 +4409,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-structure-4.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-structure-4.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 15622,
+      "sha256": "61137777aa7da877147730e47bb93d976b7791a009842fd9147e6d5fbd24932e",
+      "transparent": true,
+      "sourceBundleSha256": "b487bef5e183354467b9b93848a73576f3d29ba764fad4fe1dd9b7bedd81ebf2",
+      "cacheKey": "d2fe1d1743200df4d8ac22d47b81b378d08b4e10b1e1fc3009366e36530f8432",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 22.235557,
+        "alphaBounds": {
+          "x": 107,
+          "y": 110,
+          "width": 355,
+          "height": 359,
+          "fill": 0.701172
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-structure-4.webp"
+    },
     "bounds": {
       "size": [
         10.386436,
@@ -2620,6 +4500,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-tank.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-tank.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 11850,
+      "sha256": "858078c082ceaad321fdd6e89f644ec63a8230e81436486140845b319c3dcbc1",
+      "transparent": true,
+      "sourceBundleSha256": "ab988873d54f4f1750d9719e94b073d3cdfcc3ce71bfc5e8d02ce12655d5c0a2",
+      "cacheKey": "7e0e6807b0313c554831c2bfb43fe3836da6d8bb7079c15824c980ccac692125",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.119295,
+        "alphaBounds": {
+          "x": 91,
+          "y": 100,
+          "width": 369,
+          "height": 365,
+          "fill": 0.720703
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-tank.webp"
+    },
     "bounds": {
       "size": [
         2.372458,
@@ -2671,6 +4591,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-trafficcone.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-trafficcone.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8744,
+      "sha256": "924d86aa7d3dc82053339bbe830c5a2c8341946a3596686c8555cc358881d3b9",
+      "transparent": true,
+      "sourceBundleSha256": "c4d343b919844dd5cdf4a2879d9c691c5ba92fa15d6cb18655fe3f2a7f4a138c",
+      "cacheKey": "a2864dc1bc26ad09d18afea66f818e27a24b1209c3132abdfc4c22f0b86ea8a4",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 1.938071,
+        "alphaBounds": {
+          "x": 88,
+          "y": 115,
+          "width": 336,
+          "height": 365,
+          "fill": 0.712891
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-trafficcone.webp"
+    },
     "bounds": {
       "size": [
         0.674568,
@@ -2722,6 +4682,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-trashcontainer.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-trashcontainer.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8152,
+      "sha256": "526acf6b7646076e2bc83ef4c2dce51315acf59e5618ca79202a0684ddcdb4fa",
+      "transparent": true,
+      "sourceBundleSha256": "49659f137164a16e92a2a9cca87ba33431896afae437acbe55447accf4071852",
+      "cacheKey": "316fd49ee47f7ed1dbeff84868daa0d579f461450fdb8a650227e669f86ccbbf",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.309777,
+        "alphaBounds": {
+          "x": 103,
+          "y": 94,
+          "width": 341,
+          "height": 365,
+          "fill": 0.712891
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-trashcontainer.webp"
+    },
     "bounds": {
       "size": [
         2.441603,
@@ -2773,6 +4773,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-trashcontainer-open.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-trashcontainer-open.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8140,
+      "sha256": "0738d370ceda645d51ac9555944adb4c872273b0e7dc947743789134d8c9986e",
+      "transparent": true,
+      "sourceBundleSha256": "7aeaf0d308a3410f30e17c4da4e1be8122a6935f32eda5afc0591075e46e12e8",
+      "cacheKey": "e291aa7e591db9e82eeba891ee3dcd52c9b8f13a852b1b900d33ad8d3f7b2e69",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 8.909164,
+        "alphaBounds": {
+          "x": 142,
+          "y": 71,
+          "width": 295,
+          "height": 370,
+          "fill": 0.722656
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-trashcontainer-open.webp"
+    },
     "bounds": {
       "size": [
         3.16288,
@@ -2824,6 +4864,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-tree-1.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-tree-1.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 5424,
+      "sha256": "8575b9a5cfc0186a03e875c7dec30f167455c6adeb3719b29870cceec823002e",
+      "transparent": true,
+      "sourceBundleSha256": "83b156daa8eaa171f937ea4e823bcfda718a4b885a23ad96775a666604a95921",
+      "cacheKey": "09a1df9fd7c415ec91afacd40bb852085db13f16708ef6637082f61f7d5141e5",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 12.554999,
+        "alphaBounds": {
+          "x": 141,
+          "y": 56,
+          "width": 245,
+          "height": 364,
+          "fill": 0.710938
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-tree-1.webp"
+    },
     "bounds": {
       "size": [
         3.438137,
@@ -2875,6 +4955,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-tree-2.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-tree-2.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 4216,
+      "sha256": "25d3d73bcb619b8341c0ad6011083de9f8ad7bd3d312a33662e957d6e1eb8d7c",
+      "transparent": true,
+      "sourceBundleSha256": "00f61af78addd437f23c54e5a670104dfeac98946f3d36846b71adaf919bc518",
+      "cacheKey": "7ec28eee0ef725890876e657a25d1313de3d0f989ff2f81232fc37c9f5d68f24",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 13.316246,
+        "alphaBounds": {
+          "x": 189,
+          "y": 64,
+          "width": 134,
+          "height": 350,
+          "fill": 0.683594
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-tree-2.webp"
+    },
     "bounds": {
       "size": [
         2.080709,
@@ -2926,6 +5046,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-tree-3.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-tree-3.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 5760,
+      "sha256": "70d299eda0f2698414906625a518c449693b4c392d92b79366c4a3fea3e79ede",
+      "transparent": true,
+      "sourceBundleSha256": "d00b5af2d10238bffc00dee04406fc3dbac041a4e75e09e0c1d941cb053bbc79",
+      "cacheKey": "d7cff46280213d06e2951d614d44065c2a5ff8edca95f9ea99a50fbcef4aa30d",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 11.965078,
+        "alphaBounds": {
+          "x": 134,
+          "y": 64,
+          "width": 255,
+          "height": 357,
+          "fill": 0.697266
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-tree-3.webp"
+    },
     "bounds": {
       "size": [
         4.266115,
@@ -2977,6 +5137,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-tree-4.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-tree-4.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 5070,
+      "sha256": "6c345de8731b6055c8c27d14d0ce46e91f6f07bed82fbbf4700dcf483e7656da",
+      "transparent": true,
+      "sourceBundleSha256": "79b106b06f21f3f4fdc8f6d2cb8d7e919baee514ea2c433e1e42ca5bb4efcb44",
+      "cacheKey": "faa83ba974cfff03c5cf2fcec1173c60265beab1e3a0474809c6068409cd7fff",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 10.866813,
+        "alphaBounds": {
+          "x": 146,
+          "y": 68,
+          "width": 237,
+          "height": 347,
+          "fill": 0.677734
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-tree-4.webp"
+    },
     "bounds": {
       "size": [
         3.302303,
@@ -3028,6 +5228,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-watertank-floor.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-watertank-floor.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6202,
+      "sha256": "980a27606ee72da6c7e249aa0a3e09f66061d378561455a3d40f55f7067bc0df",
+      "transparent": true,
+      "sourceBundleSha256": "f206f5f4bd926a75439ef512b24296319c41446f8b95b939b8dc64224dbd0bc7",
+      "cacheKey": "0afde744032c62aee9728011f3942d624ca45f17d65a372b2dce1644c2e81e10",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 9.781177,
+        "alphaBounds": {
+          "x": 66,
+          "y": 158,
+          "width": 347,
+          "height": 277,
+          "fill": 0.677734
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-watertank-floor.webp"
+    },
     "bounds": {
       "size": [
         1.760187,
@@ -3079,6 +5319,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-watertank-platform.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-watertank-platform.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8244,
+      "sha256": "ef681ff7b3a1d5500292844e90a9abac903524ab1c0936c0e12fe767fd904ff2",
+      "transparent": true,
+      "sourceBundleSha256": "5f0abce0171ad48aad87a098e7d17717aa01779cc0159bbdcc4a15f15cd9bb36",
+      "cacheKey": "e5c204f247ec039fa1d9cd1fdd113b0c295d0a2e8554103f35e2ffa8e70f6178",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 8.709551,
+        "alphaBounds": {
+          "x": 169,
+          "y": 70,
+          "width": 211,
+          "height": 369,
+          "fill": 0.720703
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-watertank-platform.webp"
+    },
     "bounds": {
       "size": [
         1.621251,
@@ -3130,6 +5410,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-environment-gltf-woodplanks.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-environment-gltf-woodplanks.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6828,
+      "sha256": "35096f01d5f1a3ebe79459576243ca2d8e4dc7dfcb9da586af366a1b59fd43e3",
+      "transparent": true,
+      "sourceBundleSha256": "bf6aff35d2503f8a4da15f63443aae1ed3167c90709f49dd37507724c970022a",
+      "cacheKey": "b622e5f5cde434f8252a77ce3d19eac934cdeee53886e242e10ea799bd3dbf46",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.700036,
+        "alphaBounds": {
+          "x": 72,
+          "y": 182,
+          "width": 345,
+          "height": 176,
+          "fill": 0.673828
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-environment-gltf-woodplanks.webp"
+    },
     "bounds": {
       "size": [
         0.716432,
@@ -3181,6 +5501,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-guns-gltf-ak.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-guns-gltf-ak.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7212,
+      "sha256": "17f81c500c48ae316c37d02215761aa408f22f3f71286e6e3f38ac9ce48a4693",
+      "transparent": true,
+      "sourceBundleSha256": "0372405cfcdb1a1648ba870af100992bf5c75397458b3b81fdd9b9e85dbac019",
+      "cacheKey": "bd9a1c27e8f25324d790e4273a01a4c4b3f100b77f3dd11a6edba0adc77fbcab",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.444926,
+        "alphaBounds": {
+          "x": 100,
+          "y": 119,
+          "width": 376,
+          "height": 234,
+          "fill": 0.734375
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-guns-gltf-ak.webp"
+    },
     "bounds": {
       "size": [
         1.422312,
@@ -3234,6 +5594,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-guns-gltf-firegrenade.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-guns-gltf-firegrenade.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8088,
+      "sha256": "330e9084866d4f2418d92d089d8df10835ac35494f02a2226bdcb0cc55d59ac7",
+      "transparent": true,
+      "sourceBundleSha256": "eec088b9a80d178138678de30538dcbdcd803e4851ba3024659ca645836a3348",
+      "cacheKey": "f703212d9727b9c2d5f0d16d0dee0fdb5c2d376c295468c455ddd9da8e01d3cb",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.058457,
+        "alphaBounds": {
+          "x": 143,
+          "y": 80,
+          "width": 224,
+          "height": 368,
+          "fill": 0.71875
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-guns-gltf-firegrenade.webp"
+    },
     "bounds": {
       "size": [
         0.569504,
@@ -3287,6 +5687,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-guns-gltf-grenade.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-guns-gltf-grenade.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8558,
+      "sha256": "2e3c95c1d5d5476a368248b535b5be1cfd70bed370e97d1e0f441bf170a8bbb7",
+      "transparent": true,
+      "sourceBundleSha256": "61f955cd803d99311aa932cd5efd04d56d51115a9c53fa9b219e4e64bfc9772c",
+      "cacheKey": "422bb901eac52abbe7cc5f1c181ec34ad570679d101132658419f4fdb0650d12",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 1.295514,
+        "alphaBounds": {
+          "x": 80,
+          "y": 52,
+          "width": 347,
+          "height": 381,
+          "fill": 0.744141
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-guns-gltf-grenade.webp"
+    },
     "bounds": {
       "size": [
         0.563672,
@@ -3340,6 +5780,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-guns-gltf-grenadelauncher.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-guns-gltf-grenadelauncher.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8088,
+      "sha256": "42869a46627239d10f30277065d8e3f7483a91356f839996fb40a206138708ae",
+      "transparent": true,
+      "sourceBundleSha256": "ed8e3a5456a6bd7f401e86b3d49d97fff0c7140f260f19d3813737702c19b814",
+      "cacheKey": "2418d86da8c3234353d373f5f0f2758028043ef5d2722803c53e56e72f83420a",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.224888,
+        "alphaBounds": {
+          "x": 69,
+          "y": 111,
+          "width": 370,
+          "height": 312,
+          "fill": 0.722656
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-guns-gltf-grenadelauncher.webp"
+    },
     "bounds": {
       "size": [
         1.204764,
@@ -3393,6 +5873,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-guns-gltf-knife-1.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-guns-gltf-knife-1.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 3364,
+      "sha256": "80e404b54bef0f4217a22ab58e16dfc1f7923fefd58905acadc559cec5ad3dcf",
+      "transparent": true,
+      "sourceBundleSha256": "468eab6f177b1f94e09eef286e4740ccb361765f689b7b5996cae716206f81ec",
+      "cacheKey": "a613d4f692ab5dbd542f407b9f2341c9c952323c978021f37e9a8e9893c2c5db",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.014899,
+        "alphaBounds": {
+          "x": 224,
+          "y": 68,
+          "width": 65,
+          "height": 343,
+          "fill": 0.669922
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-guns-gltf-knife-1.webp"
+    },
     "bounds": {
       "size": [
         0.259604,
@@ -3446,6 +5966,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-guns-gltf-knife-2.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-guns-gltf-knife-2.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 2996,
+      "sha256": "5d182176fe7e133fc93798a7456e932da69b032b0a16c386995ca8110b009b47",
+      "transparent": true,
+      "sourceBundleSha256": "deb297a921416c2ea51d78461d2c0d59aade1c23195edb0fdbae79685e2d5176",
+      "cacheKey": "36fe068cd2eb4498ef9890d563a6256056fed7b2c46577a520df13b9aaa62135",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.89598,
+        "alphaBounds": {
+          "x": 224,
+          "y": 66,
+          "width": 65,
+          "height": 353,
+          "fill": 0.689453
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-guns-gltf-knife-2.webp"
+    },
     "bounds": {
       "size": [
         0.248074,
@@ -3499,6 +6059,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-guns-gltf-pistol.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-guns-gltf-pistol.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7414,
+      "sha256": "c0f8d898f38fcbc19aa3bbcef614a63c84d917426841d28fd08f40466233138c",
+      "transparent": true,
+      "sourceBundleSha256": "8d8b55cc4b1b840e0bebb76d70f497baccc8b309217d0e2585f4133994c17035",
+      "cacheKey": "980dea975b171c29e21fe266bb306ea008e15baa3bf76b61c46b988c0744065e",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 1.52954,
+        "alphaBounds": {
+          "x": 107,
+          "y": 92,
+          "width": 340,
+          "height": 369,
+          "fill": 0.720703
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-guns-gltf-pistol.webp"
+    },
     "bounds": {
       "size": [
         0.790929,
@@ -3552,6 +6152,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-guns-gltf-revolver.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-guns-gltf-revolver.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7666,
+      "sha256": "5ce26a63548ec4091efc67c7a266bb3e22e714dfd256b365e7a9884a32a2be84",
+      "transparent": true,
+      "sourceBundleSha256": "f37bc7b483dc535bc47afc9216d75527fa8b61fc276f1b79780dbaef3655550d",
+      "cacheKey": "7ad0f1e9739a7cb7d8530b0ebbf15ae97f5db2d376147000701c577b37cd98f1",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 1.716962,
+        "alphaBounds": {
+          "x": 92,
+          "y": 91,
+          "width": 357,
+          "height": 372,
+          "fill": 0.726563
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-guns-gltf-revolver.webp"
+    },
     "bounds": {
       "size": [
         0.988804,
@@ -3605,6 +6245,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-guns-gltf-revolver-small.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-guns-gltf-revolver-small.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7260,
+      "sha256": "c7bb24fa674faadcbea31ec34688512f6e0308e6fa75ce313766eea8327d0e94",
+      "transparent": true,
+      "sourceBundleSha256": "ee1b333659169c62e466ac3e6545af8f89142b62d7c163f7d17d2fe9a50bf07b",
+      "cacheKey": "c49ae2eae42dcf4da371e0b3c7c3e99f19db4e93f34d6d69ae751f9c086918dc",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 1.419705,
+        "alphaBounds": {
+          "x": 117,
+          "y": 79,
+          "width": 298,
+          "height": 380,
+          "fill": 0.742188
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-guns-gltf-revolver-small.webp"
+    },
     "bounds": {
       "size": [
         0.663158,
@@ -3658,6 +6338,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-guns-gltf-rocketlauncher.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-guns-gltf-rocketlauncher.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7820,
+      "sha256": "424bd8113ff3af554a373f37c75e28864bc3c6fad08c58d46a040f580a5e2d2f",
+      "transparent": true,
+      "sourceBundleSha256": "e817b89389c7ce70f6af3c5f56c222fdc58c9d8779c9adcf6480a4f85f93d593",
+      "cacheKey": "22b204b64cf2873d20b14ed7ce8c65a888d553cf80f23486b1f7819b182ebcb1",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.786496,
+        "alphaBounds": {
+          "x": 112,
+          "y": 116,
+          "width": 347,
+          "height": 257,
+          "fill": 0.677734
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-guns-gltf-rocketlauncher.webp"
+    },
     "bounds": {
       "size": [
         1.301598,
@@ -3711,6 +6431,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-guns-gltf-shortcannon.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-guns-gltf-shortcannon.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 5796,
+      "sha256": "bec1030b6a05a62a59bc3683dac84743569c2a47866a294c18f05459333d1b19",
+      "transparent": true,
+      "sourceBundleSha256": "150321e870a5fd741bdde70b48153bd9d18df2a95749a08406f339f032cdd3a4",
+      "cacheKey": "ea61dde1f47071363fb7045fe5c54daa1ddac7e4cd5e4b9361aa0292bde3cf48",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.066493,
+        "alphaBounds": {
+          "x": 100,
+          "y": 141,
+          "width": 374,
+          "height": 258,
+          "fill": 0.730469
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-guns-gltf-shortcannon.webp"
+    },
     "bounds": {
       "size": [
         1.206238,
@@ -3764,6 +6524,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-guns-gltf-shotgun.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-guns-gltf-shotgun.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 5562,
+      "sha256": "eb554c6b3c5ceef8b17e49a0bfea04791051f4270aac459b51ab68c6deab2122",
+      "transparent": true,
+      "sourceBundleSha256": "aa253a46fa6f827af3a0b400022f7030362274dea144ba3b2529ad16f8117926",
+      "cacheKey": "45980103b1fca370cb09b82e3717fc72e31e7a91285132a742b46cbab06ac885",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.629163,
+        "alphaBounds": {
+          "x": 102,
+          "y": 150,
+          "width": 373,
+          "height": 241,
+          "fill": 0.728516
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-guns-gltf-shotgun.webp"
+    },
     "bounds": {
       "size": [
         1.550443,
@@ -3817,6 +6617,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-guns-gltf-shovel.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-guns-gltf-shovel.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 4302,
+      "sha256": "a17b254fd3f7a7202fbf20c36cb23ad6f6d35c66b1b6d6a74a421f564ea63575",
+      "transparent": true,
+      "sourceBundleSha256": "2b3829a78b80ba71da634d87df69fba82cc95bf522fa31691a6016cae53c7312",
+      "cacheKey": "e285e138107f2a3eece8bc1491772eeebf36b376de3d809dd52edeb17420e0ae",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.374824,
+        "alphaBounds": {
+          "x": 209,
+          "y": 68,
+          "width": 94,
+          "height": 359,
+          "fill": 0.701172
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-guns-gltf-shovel.webp"
+    },
     "bounds": {
       "size": [
         0.351916,
@@ -3870,6 +6710,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-guns-gltf-smg.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-guns-gltf-smg.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7214,
+      "sha256": "7a793cdcf0c436a57c890fc91fb31fa7fde5498d600515ea45562d6bb55bc74c",
+      "transparent": true,
+      "sourceBundleSha256": "a6893cd19b5aa35dfb920736e473cc595b90001ad8d4498a8d3cdc1abe3440e6",
+      "cacheKey": "7025d7fee27e87a2b7ec8c749ea0d30726e6d3e180a7135bcda20a2b94d51e3c",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 1.999379,
+        "alphaBounds": {
+          "x": 95,
+          "y": 106,
+          "width": 374,
+          "height": 318,
+          "fill": 0.730469
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-guns-gltf-smg.webp"
+    },
     "bounds": {
       "size": [
         1.143799,
@@ -3923,6 +6803,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-guns-gltf-sniper.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-guns-gltf-sniper.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6434,
+      "sha256": "50b4f9a99736584cec80c16da2d8f470feeddaa6ae6d714bdc17b1d5ee4294d9",
+      "transparent": true,
+      "sourceBundleSha256": "a0c00a0ac025d09855b2856ae72b728b061a370f5e931b30c381c9334c8d54f5",
+      "cacheKey": "640e8df7bef36f68073a56b320dea0a28f8fea19fcaf41a541819dbe00c10a15",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.408831,
+        "alphaBounds": {
+          "x": 103,
+          "y": 152,
+          "width": 376,
+          "height": 218,
+          "fill": 0.734375
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-guns-gltf-sniper.webp"
+    },
     "bounds": {
       "size": [
         2.052392,
@@ -3976,6 +6896,46 @@
     "kind": "model",
     "format": "gltf",
     "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-toon-shooter-game-kit-739cddbe6dc6/quaternius-toon-shooter-game-kit-guns-gltf-sniper-2.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-toon-shooter-game-kit/quaternius-toon-shooter-game-kit-guns-gltf-sniper-2.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6820,
+      "sha256": "28b1b174104d3d5606598c2abbedad4b96b638d033d21047d2ab462715928ec7",
+      "transparent": true,
+      "sourceBundleSha256": "206ff8fc70e23c5ed26fe5e1c361d4c6ba2956f52944a065a73a2a6ad22f6e5d",
+      "cacheKey": "5968c1a38e98293e8efcfdf9d69dedf9ac4b56013ff62688dcda5a505bfc19c0",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 1,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.922225,
+        "alphaBounds": {
+          "x": 101,
+          "y": 144,
+          "width": 376,
+          "height": 233,
+          "fill": 0.734375
+        }
+      },
+      "sampledAnimation": null,
+      "packRelativePath": "previews/quaternius-toon-shooter-game-kit-guns-gltf-sniper-2.webp"
+    },
     "bounds": {
       "size": [
         1.735149,
