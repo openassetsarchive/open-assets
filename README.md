@@ -52,7 +52,7 @@ Get one asset by id:
 4. If needed, use `asset-locations.json` to find the pack, then fetch `packs/<packId>/details.json` for more metadata.
 
 The direct URL to use in a project is `publicUrl`.
-If an asset has a generated thumbnail, use `preview.relativePath` relative to this catalog root.
+If an asset has a generated thumbnail, use `preview.publicUrl` as the directly loadable image URL, or `preview.relativePath` relative to this catalog root.
 The human-facing source page is `sourceUrl`.
 The canonical license reference is the pack-level `licenseUrl`.
 
@@ -129,6 +129,7 @@ If a pack changes later, the catalog will point to a new versioned release URL. 
 Preview thumbnails are derived catalog files under `previews/<packId>/<assetId>.webp`.
 They are for browsing and selection; they are not canonical asset identities.
 3D model previews are transparent WebP thumbnails framed around the rendered visible alpha bounds.
+Compact and expanded detail outputs use the same catalog-root-relative `preview.relativePath` and include `preview.publicUrl`.
 
 ## Current Scope
 

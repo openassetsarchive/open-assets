@@ -1,10 +1,11 @@
 {
   "version": 1,
-  "generatedAt": "2026-04-23T22:57:33.375Z",
+  "generatedAt": "2026-04-23T23:21:21.122Z",
   "inputDir": "/Users/me/dev/open-assets/generated/packs",
   "catalogSha256": "178cb60db856e710a266bbce2b2ddc900b217c71f140ac0456139b35bb0dc526",
   "copyDetails": true,
   "detailStrategy": "pack-bundles",
+  "publicBaseUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main",
   "counts": {
     "packs": 30,
     "assets": 7671,
