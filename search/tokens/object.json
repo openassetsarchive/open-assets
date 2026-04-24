@@ -1,7 +1,7 @@
 {
   "version": 1,
   "token": "object",
-  "count": 40,
+  "count": 48,
   "assetIds": [
     "kenney-racing-pack-png-objects-arrow-white",
     "kenney-racing-pack-png-objects-arrow-yellow",
@@ -42,6 +42,14 @@
     "kenney-racing-pack-png-objects-tribune-full",
     "kenney-racing-pack-png-objects-tribune-overhang-red",
     "kenney-racing-pack-png-objects-tribune-overhang-striped",
-    "kenney-racing-pack-spritesheets-spritesheet-objects"
+    "kenney-racing-pack-spritesheets-spritesheet-objects",
+    "quaternius-cyberpunk-game-kit-pickups-and-objects-collectible-board",
+    "quaternius-cyberpunk-game-kit-pickups-and-objects-collectible-gear",
+    "quaternius-cyberpunk-game-kit-pickups-and-objects-lever",
+    "quaternius-cyberpunk-game-kit-pickups-and-objects-lootbox",
+    "quaternius-cyberpunk-game-kit-pickups-and-objects-pickup-health",
+    "quaternius-cyberpunk-game-kit-pickups-and-objects-pickup-heart",
+    "quaternius-cyberpunk-game-kit-pickups-and-objects-pickup-tank",
+    "quaternius-cyberpunk-game-kit-pickups-and-objects-tank"
   ]
 }

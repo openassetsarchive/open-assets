@@ -1,0 +1,1690 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-24T19:22:16.386Z",
+  "pack": {
+    "id": "quaternius-ultimate-spaceships",
+    "name": "Quaternius Ultimate Spaceships",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://quaternius.com/packs/ultimatespaceships.html",
+    "tags": [
+      "quaternius",
+      "spaceship",
+      "spacecraft",
+      "sci-fi",
+      "vehicle",
+      "starfighter",
+      "low-poly",
+      "stylized-ship",
+      "color-variants",
+      "textured",
+      "space-combat",
+      "may-2021"
+    ]
+  },
+  "assetIds": [
+    "quaternius-ultimate-spaceships-bob-gltf-bob",
+    "quaternius-ultimate-spaceships-challenger-gltf-challenger",
+    "quaternius-ultimate-spaceships-dispatcher-gltf-dispatcher",
+    "quaternius-ultimate-spaceships-executioner-gltf-executioner",
+    "quaternius-ultimate-spaceships-imperial-gltf-imperial",
+    "quaternius-ultimate-spaceships-insurgent-gltf-insurgent",
+    "quaternius-ultimate-spaceships-omen-gltf-omen",
+    "quaternius-ultimate-spaceships-pancake-gltf-pancake",
+    "quaternius-ultimate-spaceships-spitfire-gltf-spitfire",
+    "quaternius-ultimate-spaceships-striker-gltf-striker",
+    "quaternius-ultimate-spaceships-zenith-gltf-zenith"
+  ],
+  "assetsById": {
+    "quaternius-ultimate-spaceships-bob-gltf-bob": {
+      "generatedAt": "2026-04-24T19:22:16.386Z",
+      "asset": {
+        "id": "quaternius-ultimate-spaceships-bob-gltf-bob",
+        "name": "Bob",
+        "description": "Stylized sci-fi spaceship (Bob).",
+        "kind": "model",
+        "format": "gltf",
+        "publicPath": "assets/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-bob-gltf-bob/quaternius-ultimate-spaceships-bob-gltf-bob.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-bob-gltf-bob/quaternius-ultimate-spaceships-bob-gltf-bob.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-bob-gltf-bob.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8714,
+          "sha256": "0c5a937e957daa882799f661990d6a931fb2f008c14e07e8e9b8383960bd6602",
+          "transparent": true,
+          "sourceBundleSha256": "33ab395f70552841693e95109ef209ecf90dda4d6b79883b359543b462c16d7d",
+          "cacheKey": "33c1572ed105ad23dc4f7a7e9ce845a085d7ee858cf99b1c4291135a3d2c4e11",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 16.955283,
+            "pan": [
+              1.013973,
+              -0.259315,
+              -0.827266
+            ],
+            "alphaBounds": {
+              "x": 75,
+              "y": 170,
+              "width": 361,
+              "height": 173,
+              "fill": 0.705078,
+              "centerOffset": {
+                "x": -0.5,
+                "y": 0.5,
+                "length": 0.707107
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-bob-gltf-bob.webp",
+          "packRelativePath": "previews/quaternius-ultimate-spaceships-bob-gltf-bob.webp"
+        },
+        "sourceUrl": "https://quaternius.com/packs/ultimatespaceships.html",
+        "tags": [
+          "quaternius",
+          "spaceship",
+          "spacecraft",
+          "sci-fi",
+          "vehicle",
+          "starfighter",
+          "low-poly",
+          "stylized-ship",
+          "color-variants",
+          "textured",
+          "space-combat",
+          "may-2021"
+        ],
+        "aliases": [
+          "space ship",
+          "ship"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -5.251112,
+              -0.874214,
+              -2.551262
+            ],
+            "max": [
+              5.251112,
+              1.161117,
+              3.060999
+            ],
+            "size": [
+              10.502223,
+              2.03533,
+              5.612261
+            ],
+            "center": [
+              0,
+              0.143452,
+              0.254869
+            ],
+            "diagonal": 12.080428
+          },
+          "triangleCount": 938,
+          "drawCallCount": 1,
+          "renderVertexCount": 2814,
+          "uploadVertexCount": 1272,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 1,
+          "externalCount": 0,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-ultimate-spaceships-challenger-gltf-challenger": {
+      "generatedAt": "2026-04-24T19:22:16.386Z",
+      "asset": {
+        "id": "quaternius-ultimate-spaceships-challenger-gltf-challenger",
+        "name": "Challenger",
+        "description": "Stylized sci-fi spaceship (Challenger).",
+        "kind": "model",
+        "format": "gltf",
+        "publicPath": "assets/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-challenger-gltf-challenger/quaternius-ultimate-spaceships-challenger-gltf-challenger.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-challenger-gltf-challenger/quaternius-ultimate-spaceships-challenger-gltf-challenger.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-challenger-gltf-challenger.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8462,
+          "sha256": "bed214a34cea683d8d675bd9159e2839c24edd4611e5633711e38d46fe13fb9f",
+          "transparent": true,
+          "sourceBundleSha256": "f28094e850930ecb85fe3f60c6d87ca74a3ed72d20f63a73e4a0dd2cd858ec97",
+          "cacheKey": "3436a1fa93c2061ca029e4326656f60f6f7ad591c45e43ed5cf319ffc0edeb13",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 25.006002,
+            "pan": [
+              0.755949,
+              -0.045202,
+              -0.723404
+            ],
+            "alphaBounds": {
+              "x": 72,
+              "y": 159,
+              "width": 369,
+              "height": 195,
+              "fill": 0.720703,
+              "centerOffset": {
+                "x": 0.5,
+                "y": 0.5,
+                "length": 0.707107
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-challenger-gltf-challenger.webp",
+          "packRelativePath": "previews/quaternius-ultimate-spaceships-challenger-gltf-challenger.webp"
+        },
+        "sourceUrl": "https://quaternius.com/packs/ultimatespaceships.html",
+        "tags": [
+          "quaternius",
+          "spaceship",
+          "spacecraft",
+          "sci-fi",
+          "vehicle",
+          "starfighter",
+          "low-poly",
+          "stylized-ship",
+          "color-variants",
+          "textured",
+          "space-combat",
+          "may-2021"
+        ],
+        "aliases": [
+          "space ship",
+          "ship"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -5.251113,
+              -0.821451,
+              -3.051916
+            ],
+            "max": [
+              5.251113,
+              2.2006,
+              7.128331
+            ],
+            "size": [
+              10.502227,
+              3.022052,
+              10.180246
+            ],
+            "center": [
+              0,
+              0.689575,
+              2.038208
+            ],
+            "diagonal": 14.935427
+          },
+          "triangleCount": 1748,
+          "drawCallCount": 1,
+          "renderVertexCount": 5244,
+          "uploadVertexCount": 2124,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 1,
+          "externalCount": 0,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-ultimate-spaceships-dispatcher-gltf-dispatcher": {
+      "generatedAt": "2026-04-24T19:22:16.386Z",
+      "asset": {
+        "id": "quaternius-ultimate-spaceships-dispatcher-gltf-dispatcher",
+        "name": "Dispatcher",
+        "description": "Stylized sci-fi spaceship (Dispatcher).",
+        "kind": "model",
+        "format": "gltf",
+        "publicPath": "assets/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-dispatcher-gltf-dispatcher/quaternius-ultimate-spaceships-dispatcher-gltf-dispatcher.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-dispatcher-gltf-dispatcher/quaternius-ultimate-spaceships-dispatcher-gltf-dispatcher.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-dispatcher-gltf-dispatcher.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 11750,
+          "sha256": "6935a5702ec5ad90fa50f6104ad96f7e0244cbb9481fa2373f5b58ffcc3bd2e2",
+          "transparent": true,
+          "sourceBundleSha256": "15f936a475a1aa73a706ecdd68f40faa4885ee46603bbfa49893db185c4b9bcf",
+          "cacheKey": "2e9af9c3b904102b167b68cacec736d5cfebb34f020a91ccc1a2e0538b0c621b",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 19.251109,
+            "pan": [
+              -0.095661,
+              -0.438667,
+              0.411501
+            ],
+            "alphaBounds": {
+              "x": 73,
+              "y": 116,
+              "width": 367,
+              "height": 280,
+              "fill": 0.716797,
+              "centerOffset": {
+                "x": 0.5,
+                "y": 0,
+                "length": 0.5
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-dispatcher-gltf-dispatcher.webp",
+          "packRelativePath": "previews/quaternius-ultimate-spaceships-dispatcher-gltf-dispatcher.webp"
+        },
+        "sourceUrl": "https://quaternius.com/packs/ultimatespaceships.html",
+        "tags": [
+          "quaternius",
+          "spaceship",
+          "spacecraft",
+          "sci-fi",
+          "vehicle",
+          "starfighter",
+          "low-poly",
+          "stylized-ship",
+          "color-variants",
+          "textured",
+          "space-combat",
+          "may-2021"
+        ],
+        "aliases": [
+          "space ship",
+          "ship"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -2.45194,
+              -1.421922,
+              -2.698364
+            ],
+            "max": [
+              2.45194,
+              1.664421,
+              7.564633
+            ],
+            "size": [
+              4.903879,
+              3.086343,
+              10.262998
+            ],
+            "center": [
+              0,
+              0.121249,
+              2.433135
+            ],
+            "diagonal": 11.785697
+          },
+          "triangleCount": 748,
+          "drawCallCount": 1,
+          "renderVertexCount": 2244,
+          "uploadVertexCount": 1169,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 1,
+          "externalCount": 0,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-ultimate-spaceships-executioner-gltf-executioner": {
+      "generatedAt": "2026-04-24T19:22:16.386Z",
+      "asset": {
+        "id": "quaternius-ultimate-spaceships-executioner-gltf-executioner",
+        "name": "Executioner",
+        "description": "Stylized sci-fi spaceship (Executioner).",
+        "kind": "model",
+        "format": "gltf",
+        "publicPath": "assets/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-executioner-gltf-executioner/quaternius-ultimate-spaceships-executioner-gltf-executioner.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-executioner-gltf-executioner/quaternius-ultimate-spaceships-executioner-gltf-executioner.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-executioner-gltf-executioner.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 9084,
+          "sha256": "c11b27a9aab54eb7b6e548ddd770f22be453984a28715893b08da3e8f91a9131",
+          "transparent": true,
+          "sourceBundleSha256": "151329f777d300b96d713f74eb467844fcc5607830060a04589ea3bc30b91f2b",
+          "cacheKey": "cb2202cfd4806ddca01449a4561e14e11d6d0e776c40b9c697f5fbfb0dab38b5",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 24.852298,
+            "pan": [
+              0.796919,
+              -0.037778,
+              -0.769719
+            ],
+            "alphaBounds": {
+              "x": 71,
+              "y": 163,
+              "width": 370,
+              "height": 186,
+              "fill": 0.722656,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-executioner-gltf-executioner.webp",
+          "packRelativePath": "previews/quaternius-ultimate-spaceships-executioner-gltf-executioner.webp"
+        },
+        "sourceUrl": "https://quaternius.com/packs/ultimatespaceships.html",
+        "tags": [
+          "quaternius",
+          "spaceship",
+          "spacecraft",
+          "sci-fi",
+          "vehicle",
+          "starfighter",
+          "low-poly",
+          "stylized-ship",
+          "color-variants",
+          "textured",
+          "space-combat",
+          "may-2021"
+        ],
+        "aliases": [
+          "space ship",
+          "ship"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -5.011061,
+              -0.774754,
+              -3.077949
+            ],
+            "max": [
+              5.011061,
+              1.07241,
+              6.124222
+            ],
+            "size": [
+              10.022121,
+              1.847164,
+              9.202171
+            ],
+            "center": [
+              0,
+              0.148828,
+              1.523137
+            ],
+            "diagonal": 13.730801
+          },
+          "triangleCount": 3388,
+          "drawCallCount": 1,
+          "renderVertexCount": 10164,
+          "uploadVertexCount": 3819,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 1,
+          "externalCount": 0,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-ultimate-spaceships-imperial-gltf-imperial": {
+      "generatedAt": "2026-04-24T19:22:16.386Z",
+      "asset": {
+        "id": "quaternius-ultimate-spaceships-imperial-gltf-imperial",
+        "name": "Imperial",
+        "description": "Stylized sci-fi spaceship (Imperial).",
+        "kind": "model",
+        "format": "gltf",
+        "publicPath": "assets/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-imperial-gltf-imperial/quaternius-ultimate-spaceships-imperial-gltf-imperial.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-imperial-gltf-imperial/quaternius-ultimate-spaceships-imperial-gltf-imperial.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-imperial-gltf-imperial.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 9992,
+          "sha256": "1089c4efcb91221f6f92ff3d26e2ef0c59a3f5789c4af768a041d27bba231b90",
+          "transparent": true,
+          "sourceBundleSha256": "9d52e6e0477010f349fe61c2fd656915de6b7ccc588a54451cd05935209a0818",
+          "cacheKey": "4b904af5481242a9e95cfa1a85ac1f61a3d25d12653e78a456dc9b4e716d18f5",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 39.708874,
+            "pan": [
+              -0.06004,
+              -0.457627,
+              0.389531
+            ],
+            "alphaBounds": {
+              "x": 78,
+              "y": 164,
+              "width": 357,
+              "height": 183,
+              "fill": 0.697266,
+              "centerOffset": {
+                "x": 0.5,
+                "y": -0.5,
+                "length": 0.707107
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-imperial-gltf-imperial.webp",
+          "packRelativePath": "previews/quaternius-ultimate-spaceships-imperial-gltf-imperial.webp"
+        },
+        "sourceUrl": "https://quaternius.com/packs/ultimatespaceships.html",
+        "tags": [
+          "quaternius",
+          "spaceship",
+          "spacecraft",
+          "sci-fi",
+          "vehicle",
+          "starfighter",
+          "low-poly",
+          "stylized-ship",
+          "color-variants",
+          "textured",
+          "space-combat",
+          "may-2021"
+        ],
+        "aliases": [
+          "space ship",
+          "ship"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -3.86476,
+              -1.314197,
+              -6.669183
+            ],
+            "max": [
+              3.86476,
+              1.989247,
+              11.879202
+            ],
+            "size": [
+              7.729521,
+              3.303444,
+              18.548385
+            ],
+            "center": [
+              0,
+              0.337525,
+              2.605009
+            ],
+            "diagonal": 20.364205
+          },
+          "triangleCount": 2642,
+          "drawCallCount": 1,
+          "renderVertexCount": 7926,
+          "uploadVertexCount": 3673,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 1,
+          "externalCount": 0,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-ultimate-spaceships-insurgent-gltf-insurgent": {
+      "generatedAt": "2026-04-24T19:22:16.386Z",
+      "asset": {
+        "id": "quaternius-ultimate-spaceships-insurgent-gltf-insurgent",
+        "name": "Insurgent",
+        "description": "Stylized sci-fi spaceship (Insurgent).",
+        "kind": "model",
+        "format": "gltf",
+        "publicPath": "assets/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-insurgent-gltf-insurgent/quaternius-ultimate-spaceships-insurgent-gltf-insurgent.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-insurgent-gltf-insurgent/quaternius-ultimate-spaceships-insurgent-gltf-insurgent.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-insurgent-gltf-insurgent.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 10374,
+          "sha256": "22c362a08fe5be799200575d30b884e2464ac7afc7aa7d80ae28d6c7a8e6729b",
+          "transparent": true,
+          "sourceBundleSha256": "81347b977833bf754014b666476feafe663a10f5e93e1eadd3d481a43ea8fbd4",
+          "cacheKey": "375d4d7fc75a45d1fe95d7ca389a588e73f1e4d3d74c1567156d167714285f2e",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 20.985861,
+            "pan": [
+              0.128189,
+              -0.086012,
+              -0.06626
+            ],
+            "alphaBounds": {
+              "x": 70,
+              "y": 146,
+              "width": 372,
+              "height": 219,
+              "fill": 0.726563,
+              "centerOffset": {
+                "x": 0,
+                "y": -0.5,
+                "length": 0.5
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-insurgent-gltf-insurgent.webp",
+          "packRelativePath": "previews/quaternius-ultimate-spaceships-insurgent-gltf-insurgent.webp"
+        },
+        "sourceUrl": "https://quaternius.com/packs/ultimatespaceships.html",
+        "tags": [
+          "quaternius",
+          "spaceship",
+          "spacecraft",
+          "sci-fi",
+          "vehicle",
+          "starfighter",
+          "low-poly",
+          "stylized-ship",
+          "color-variants",
+          "textured",
+          "space-combat",
+          "may-2021"
+        ],
+        "aliases": [
+          "space ship",
+          "ship"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -2.782761,
+              -0.931751,
+              -3.282331
+            ],
+            "max": [
+              2.782761,
+              1.938771,
+              7.668166
+            ],
+            "size": [
+              5.565521,
+              2.870522,
+              10.950497
+            ],
+            "center": [
+              0,
+              0.50351,
+              2.192918
+            ],
+            "diagonal": 12.614607
+          },
+          "triangleCount": 8292,
+          "drawCallCount": 1,
+          "renderVertexCount": 24876,
+          "uploadVertexCount": 7648,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 1,
+          "externalCount": 0,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-ultimate-spaceships-omen-gltf-omen": {
+      "generatedAt": "2026-04-24T19:22:16.386Z",
+      "asset": {
+        "id": "quaternius-ultimate-spaceships-omen-gltf-omen",
+        "name": "Omen",
+        "description": "Stylized sci-fi spaceship (Omen).",
+        "kind": "model",
+        "format": "gltf",
+        "publicPath": "assets/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-omen-gltf-omen/quaternius-ultimate-spaceships-omen-gltf-omen.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-omen-gltf-omen/quaternius-ultimate-spaceships-omen-gltf-omen.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-omen-gltf-omen.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8134,
+          "sha256": "7e6953755aac271d803703f23a22b4130f0baa5181927d4b02909f3d8a71b23c",
+          "transparent": true,
+          "sourceBundleSha256": "0e6b2c692df4ae6243df0189533504d362c591d9a18285dfc196d8755c93be45",
+          "cacheKey": "bc27fea9cae8df40881e2fae0312a6d586d4bcd63a44d1689f3e2b033c398d00",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 28.95505,
+            "pan": [
+              0.885127,
+              -0.448857,
+              -0.56195
+            ],
+            "alphaBounds": {
+              "x": 71,
+              "y": 170,
+              "width": 371,
+              "height": 172,
+              "fill": 0.724609,
+              "centerOffset": {
+                "x": 0.5,
+                "y": 0,
+                "length": 0.5
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-omen-gltf-omen.webp",
+          "packRelativePath": "previews/quaternius-ultimate-spaceships-omen-gltf-omen.webp"
+        },
+        "sourceUrl": "https://quaternius.com/packs/ultimatespaceships.html",
+        "tags": [
+          "quaternius",
+          "spaceship",
+          "spacecraft",
+          "sci-fi",
+          "vehicle",
+          "starfighter",
+          "low-poly",
+          "stylized-ship",
+          "color-variants",
+          "textured",
+          "space-combat",
+          "may-2021"
+        ],
+        "aliases": [
+          "space ship",
+          "ship"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -6.392205,
+              -1.061914,
+              -3.922895
+            ],
+            "max": [
+              6.392205,
+              2.076693,
+              8.65855
+            ],
+            "size": [
+              12.78441,
+              3.138607,
+              12.581446
+            ],
+            "center": [
+              0,
+              0.507389,
+              2.367827
+            ],
+            "diagonal": 18.209469
+          },
+          "triangleCount": 1426,
+          "drawCallCount": 1,
+          "renderVertexCount": 4278,
+          "uploadVertexCount": 1781,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 1,
+          "externalCount": 0,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-ultimate-spaceships-pancake-gltf-pancake": {
+      "generatedAt": "2026-04-24T19:22:16.386Z",
+      "asset": {
+        "id": "quaternius-ultimate-spaceships-pancake-gltf-pancake",
+        "name": "Pancake",
+        "description": "Stylized sci-fi spaceship (Pancake).",
+        "kind": "model",
+        "format": "gltf",
+        "publicPath": "assets/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-pancake-gltf-pancake/quaternius-ultimate-spaceships-pancake-gltf-pancake.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-pancake-gltf-pancake/quaternius-ultimate-spaceships-pancake-gltf-pancake.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-pancake-gltf-pancake.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 10100,
+          "sha256": "28d3a275285e085e98c6806a3c97764c1eb228f24b87a30f2cdf4f3ce14d8b60",
+          "transparent": true,
+          "sourceBundleSha256": "1926f7f5809aee49b02e00e5360204a6ac66486377056141d9314a5df9a09873",
+          "cacheKey": "34a0ab0a2b3f3dd28002da435d07bba737e684bbde2e08173bd61aceb291eec8",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 22.483439,
+            "pan": [
+              0.712431,
+              -0.72798,
+              -0.188285
+            ],
+            "alphaBounds": {
+              "x": 68,
+              "y": 160,
+              "width": 377,
+              "height": 192,
+              "fill": 0.736328,
+              "centerOffset": {
+                "x": 0.5,
+                "y": 0,
+                "length": 0.5
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-pancake-gltf-pancake.webp",
+          "packRelativePath": "previews/quaternius-ultimate-spaceships-pancake-gltf-pancake.webp"
+        },
+        "sourceUrl": "https://quaternius.com/packs/ultimatespaceships.html",
+        "tags": [
+          "quaternius",
+          "spaceship",
+          "spacecraft",
+          "sci-fi",
+          "vehicle",
+          "starfighter",
+          "low-poly",
+          "stylized-ship",
+          "color-variants",
+          "textured",
+          "space-combat",
+          "may-2021"
+        ],
+        "aliases": [
+          "space ship",
+          "ship"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -5.251111,
+              -0.975059,
+              -3.252412
+            ],
+            "max": [
+              5.251113,
+              1.624094,
+              4.980367
+            ],
+            "size": [
+              10.502224,
+              2.599153,
+              8.232779
+            ],
+            "center": [
+              0.000001,
+              0.324518,
+              0.863977
+            ],
+            "diagonal": 13.595255
+          },
+          "triangleCount": 2688,
+          "drawCallCount": 1,
+          "renderVertexCount": 8064,
+          "uploadVertexCount": 3510,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 1,
+          "externalCount": 0,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-ultimate-spaceships-spitfire-gltf-spitfire": {
+      "generatedAt": "2026-04-24T19:22:16.386Z",
+      "asset": {
+        "id": "quaternius-ultimate-spaceships-spitfire-gltf-spitfire",
+        "name": "Spitfire",
+        "description": "Stylized sci-fi spaceship (Spitfire).",
+        "kind": "model",
+        "format": "gltf",
+        "publicPath": "assets/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-spitfire-gltf-spitfire/quaternius-ultimate-spaceships-spitfire-gltf-spitfire.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-spitfire-gltf-spitfire/quaternius-ultimate-spaceships-spitfire-gltf-spitfire.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-spitfire-gltf-spitfire.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 11654,
+          "sha256": "c18a3ef5790fd3d4a2edd09b8ae2956dfb5e52ed6655f7071224584748ebe5bc",
+          "transparent": true,
+          "sourceBundleSha256": "de9ddbeb41de39b589963a503b6c97b1badbbeabef2409dddfd221d6d85f2fcc",
+          "cacheKey": "524a17996d961789e9e7426a2866b4d2e2bcf4284dc2ccb9b082818327d388fc",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 20.77906,
+            "pan": [
+              0.871152,
+              0.087508,
+              -0.934158
+            ],
+            "alphaBounds": {
+              "x": 70,
+              "y": 142,
+              "width": 373,
+              "height": 228,
+              "fill": 0.728516,
+              "centerOffset": {
+                "x": 0.5,
+                "y": 0,
+                "length": 0.5
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-spitfire-gltf-spitfire.webp",
+          "packRelativePath": "previews/quaternius-ultimate-spaceships-spitfire-gltf-spitfire.webp"
+        },
+        "sourceUrl": "https://quaternius.com/packs/ultimatespaceships.html",
+        "tags": [
+          "quaternius",
+          "spaceship",
+          "spacecraft",
+          "sci-fi",
+          "vehicle",
+          "starfighter",
+          "low-poly",
+          "stylized-ship",
+          "color-variants",
+          "textured",
+          "space-combat",
+          "may-2021"
+        ],
+        "aliases": [
+          "space ship",
+          "ship"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -5.261844,
+              -2.02536,
+              -3.139415
+            ],
+            "max": [
+              5.261844,
+              1.02982,
+              4.393893
+            ],
+            "size": [
+              10.523688,
+              3.05518,
+              7.533308
+            ],
+            "center": [
+              0,
+              -0.49777,
+              0.627239
+            ],
+            "diagonal": 13.297852
+          },
+          "triangleCount": 3512,
+          "drawCallCount": 1,
+          "renderVertexCount": 10536,
+          "uploadVertexCount": 4107,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 1,
+          "externalCount": 0,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-ultimate-spaceships-striker-gltf-striker": {
+      "generatedAt": "2026-04-24T19:22:16.386Z",
+      "asset": {
+        "id": "quaternius-ultimate-spaceships-striker-gltf-striker",
+        "name": "Striker",
+        "description": "Stylized sci-fi spaceship (Striker).",
+        "kind": "model",
+        "format": "gltf",
+        "publicPath": "assets/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-striker-gltf-striker/quaternius-ultimate-spaceships-striker-gltf-striker.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-striker-gltf-striker/quaternius-ultimate-spaceships-striker-gltf-striker.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-striker-gltf-striker.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 10630,
+          "sha256": "fbaf0a430dd94def468115edaeff17914bd40edac0962c488691b2b428dc8084",
+          "transparent": true,
+          "sourceBundleSha256": "55337d2b83bd7515723066939c29799fb6e4c1e85e124adef4e3de4e1c3f8a14",
+          "cacheKey": "203a4de332681113c4c5fa662cc2b0fabff5985698f81bd40d985f75f254f578",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 17.126835,
+            "pan": [
+              -0.225035,
+              -0.357886,
+              0.482713
+            ],
+            "alphaBounds": {
+              "x": 73,
+              "y": 149,
+              "width": 367,
+              "height": 215,
+              "fill": 0.716797,
+              "centerOffset": {
+                "x": 0.5,
+                "y": 0.5,
+                "length": 0.707107
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-striker-gltf-striker.webp",
+          "packRelativePath": "previews/quaternius-ultimate-spaceships-striker-gltf-striker.webp"
+        },
+        "sourceUrl": "https://quaternius.com/packs/ultimatespaceships.html",
+        "tags": [
+          "quaternius",
+          "spaceship",
+          "spacecraft",
+          "sci-fi",
+          "vehicle",
+          "starfighter",
+          "low-poly",
+          "stylized-ship",
+          "color-variants",
+          "textured",
+          "space-combat",
+          "may-2021"
+        ],
+        "aliases": [
+          "space ship",
+          "ship"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -2.516808,
+              -1.432785,
+              -3.529073
+            ],
+            "max": [
+              2.516808,
+              1.25186,
+              4.897094
+            ],
+            "size": [
+              5.033617,
+              2.684645,
+              8.426167
+            ],
+            "center": [
+              0,
+              -0.090463,
+              0.684011
+            ],
+            "diagonal": 10.175702
+          },
+          "triangleCount": 4530,
+          "drawCallCount": 1,
+          "renderVertexCount": 13590,
+          "uploadVertexCount": 4911,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 1,
+          "externalCount": 0,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-ultimate-spaceships-zenith-gltf-zenith": {
+      "generatedAt": "2026-04-24T19:22:16.386Z",
+      "asset": {
+        "id": "quaternius-ultimate-spaceships-zenith-gltf-zenith",
+        "name": "Zenith",
+        "description": "Stylized sci-fi spaceship (Zenith).",
+        "kind": "model",
+        "format": "gltf",
+        "publicPath": "assets/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-zenith-gltf-zenith/quaternius-ultimate-spaceships-zenith-gltf-zenith.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-zenith-gltf-zenith/quaternius-ultimate-spaceships-zenith-gltf-zenith.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-zenith-gltf-zenith.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 10240,
+          "sha256": "db926e60e3d4990dce774755d589b0102ae90783ef08682e12a717fb9f0c828a",
+          "transparent": true,
+          "sourceBundleSha256": "2348d23408a053aa449a12d31744f19a34d44abce860d6df81e2a9c2e439e885",
+          "cacheKey": "3af08fa5a70b6b22dc67627a95afb4778d0a8207c2ec3c3d73c12616818497fa",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 23.40878,
+            "pan": [
+              -0.202058,
+              0.23219,
+              0.034881
+            ],
+            "alphaBounds": {
+              "x": 72,
+              "y": 135,
+              "width": 369,
+              "height": 241,
+              "fill": 0.720703,
+              "centerOffset": {
+                "x": 0.5,
+                "y": -0.5,
+                "length": 0.707107
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-ultimate-spaceships/quaternius-ultimate-spaceships-zenith-gltf-zenith.webp",
+          "packRelativePath": "previews/quaternius-ultimate-spaceships-zenith-gltf-zenith.webp"
+        },
+        "sourceUrl": "https://quaternius.com/packs/ultimatespaceships.html",
+        "tags": [
+          "quaternius",
+          "spaceship",
+          "spacecraft",
+          "sci-fi",
+          "vehicle",
+          "starfighter",
+          "low-poly",
+          "stylized-ship",
+          "color-variants",
+          "textured",
+          "space-combat",
+          "may-2021"
+        ],
+        "aliases": [
+          "space ship",
+          "ship"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -2.813947,
+              -2.702591,
+              -3.534729
+            ],
+            "max": [
+              2.813947,
+              2.727409,
+              8.533772
+            ],
+            "size": [
+              5.627894,
+              5.43,
+              12.0685
+            ],
+            "center": [
+              0,
+              0.012409,
+              2.499521
+            ],
+            "diagonal": 14.380778
+          },
+          "triangleCount": 2152,
+          "drawCallCount": 1,
+          "renderVertexCount": 6456,
+          "uploadVertexCount": 2569,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 1,
+          "externalCount": 0,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    }
+  }
+}

@@ -1,7 +1,7 @@
 {
   "version": 1,
   "tag": "zombie",
-  "count": 34,
+  "count": 38,
   "assetIds": [
     "kenney-platformer-characters-png-zombie-limbs-arm",
     "kenney-platformer-characters-png-zombie-limbs-body-back",
@@ -36,6 +36,10 @@
     "kenney-platformer-characters-png-zombie-poses-zombie-talk",
     "kenney-platformer-characters-png-zombie-poses-zombie-walk1",
     "kenney-platformer-characters-png-zombie-poses-zombie-walk2",
-    "kenney-platformer-characters-png-zombie-zombie-tilesheet"
+    "kenney-platformer-characters-png-zombie-zombie-tilesheet",
+    "quaternius-zombie-apocalypse-kit-characters-gltf-zombie-arm",
+    "quaternius-zombie-apocalypse-kit-characters-gltf-zombie-basic",
+    "quaternius-zombie-apocalypse-kit-characters-gltf-zombie-chubby",
+    "quaternius-zombie-apocalypse-kit-characters-gltf-zombie-ribcage"
   ]
 }

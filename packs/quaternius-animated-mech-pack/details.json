@@ -1,0 +1,1561 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-24T19:22:13.138Z",
+  "pack": {
+    "id": "quaternius-animated-mech-pack",
+    "name": "Quaternius Animated Mech Pack",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://quaternius.com/packs/animatedmech.html",
+    "tags": [
+      "quaternius",
+      "animated-mech",
+      "mech",
+      "mecha",
+      "robot",
+      "sci-fi",
+      "textured",
+      "mechanical",
+      "combat",
+      "toon-mech",
+      "character",
+      "march-2021"
+    ]
+  },
+  "assetIds": [
+    "quaternius-animated-mech-pack-gltf-george",
+    "quaternius-animated-mech-pack-gltf-leela",
+    "quaternius-animated-mech-pack-gltf-mike",
+    "quaternius-animated-mech-pack-gltf-stan"
+  ],
+  "assetsById": {
+    "quaternius-animated-mech-pack-gltf-george": {
+      "generatedAt": "2026-04-24T19:22:13.138Z",
+      "asset": {
+        "id": "quaternius-animated-mech-pack-gltf-george",
+        "name": "George",
+        "description": "Textured animated mech character (George).",
+        "kind": "model",
+        "format": "gltf",
+        "publicPath": "assets/quaternius-animated-mech-pack/quaternius-animated-mech-pack-gltf-george/quaternius-animated-mech-pack-gltf-george.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-animated-mech-pack/quaternius-animated-mech-pack-gltf-george/quaternius-animated-mech-pack-gltf-george.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-animated-mech-pack/quaternius-animated-mech-pack-gltf-george.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 13168,
+          "sha256": "07a0aff9f223ebcee9a3c4deeb4155cb087914ddebb36d76844251a7903f09e7",
+          "transparent": true,
+          "sourceBundleSha256": "89ad98378d405f8ed1e98d53e229aba6c8dce1f3daedb84f040fac31aa9b9fc2",
+          "cacheKey": "bf0d795b5911461202d5ff204696a742badbc41f3c9e717513f61742a8d26f48",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 15.823352,
+            "pan": [
+              0.074903,
+              -0.091028,
+              -0.009363
+            ],
+            "alphaBounds": {
+              "x": 169,
+              "y": 72,
+              "width": 172,
+              "height": 368,
+              "fill": 0.71875,
+              "centerOffset": {
+                "x": -1,
+                "y": 0,
+                "length": 1
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-animated-mech-pack/quaternius-animated-mech-pack-gltf-george.webp",
+          "packRelativePath": "previews/quaternius-animated-mech-pack-gltf-george.webp"
+        },
+        "sourceUrl": "https://quaternius.com/packs/animatedmech.html",
+        "tags": [
+          "quaternius",
+          "animated-mech",
+          "mech",
+          "mecha",
+          "robot",
+          "sci-fi",
+          "textured",
+          "mechanical",
+          "combat",
+          "toon-mech",
+          "character",
+          "march-2021",
+          "animated-character",
+          "textured-mech",
+          "sci-fi-character",
+          "animated",
+          "rigged",
+          "skinned",
+          "skeletal-animation"
+        ],
+        "aliases": [
+          "mecha",
+          "combat robot"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -3.62834,
+              -0.019082,
+              -0.803688
+            ],
+            "max": [
+              3.62834,
+              6.508558,
+              1.654359
+            ],
+            "size": [
+              7.256681,
+              6.52764,
+              2.458047
+            ],
+            "center": [
+              0,
+              3.244738,
+              0.425336
+            ],
+            "diagonal": 10.065361
+          },
+          "triangleCount": 7864,
+          "drawCallCount": 1,
+          "renderVertexCount": 23592,
+          "uploadVertexCount": 7755,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 1,
+          "externalCount": 0,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": true,
+        "animationCount": 20,
+        "animations": [
+          {
+            "name": "Dance",
+            "durationSec": 0.8,
+            "keyframes": 717,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Death",
+            "durationSec": 1.433,
+            "keyframes": 986,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Hello",
+            "durationSec": 1.5,
+            "keyframes": 1112,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "HitRecieve_1",
+            "durationSec": 0.467,
+            "keyframes": 409,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "HitRecieve_2",
+            "durationSec": 0.467,
+            "keyframes": 409,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Idle",
+            "durationSec": 3.333,
+            "keyframes": 1475,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Jump",
+            "durationSec": 0.867,
+            "keyframes": 713,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Kick",
+            "durationSec": 0.6,
+            "keyframes": 409,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "No",
+            "durationSec": 1.4,
+            "keyframes": 680,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Pickup",
+            "durationSec": 1.4,
+            "keyframes": 885,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Punch",
+            "durationSec": 0.567,
+            "keyframes": 396,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Run",
+            "durationSec": 0.833,
+            "keyframes": 692,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Run_Holding",
+            "durationSec": 0.833,
+            "keyframes": 644,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Run_Tall",
+            "durationSec": 0.833,
+            "keyframes": 692,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Shoot",
+            "durationSec": 0.5,
+            "keyframes": 244,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "SwordSlash",
+            "durationSec": 0.6,
+            "keyframes": 409,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Walk",
+            "durationSec": 0.833,
+            "keyframes": 692,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Walk_Holding",
+            "durationSec": 0.833,
+            "keyframes": 620,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Walk_Tall",
+            "durationSec": 0.833,
+            "keyframes": 692,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Yes",
+            "durationSec": 1.4,
+            "keyframes": 680,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          }
+        ],
+        "rig": {
+          "rigged": true,
+          "skinCount": 1,
+          "jointCountTotal": 47,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": true
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_materials_unlit"
+          ],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-animated-mech-pack-gltf-leela": {
+      "generatedAt": "2026-04-24T19:22:13.138Z",
+      "asset": {
+        "id": "quaternius-animated-mech-pack-gltf-leela",
+        "name": "Leela",
+        "description": "Textured animated mech character (Leela).",
+        "kind": "model",
+        "format": "gltf",
+        "publicPath": "assets/quaternius-animated-mech-pack/quaternius-animated-mech-pack-gltf-leela/quaternius-animated-mech-pack-gltf-leela.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-animated-mech-pack/quaternius-animated-mech-pack-gltf-leela/quaternius-animated-mech-pack-gltf-leela.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-animated-mech-pack/quaternius-animated-mech-pack-gltf-leela.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 13686,
+          "sha256": "0c34778df308a0dbc823820b37f173793785cd5368ca90ca21b7291db9dd7d77",
+          "transparent": true,
+          "sourceBundleSha256": "0ac3ad9246f7b5d6740e7fbad2b8fa5509a2ad6401e217072fc3c7300ab6206d",
+          "cacheKey": "260d40b7dea65e11aacff9cd76328f86cb40d2817057ffe1a0d184cd37c051b5",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 13.268211,
+            "pan": [
+              0.030797,
+              -0.220622,
+              0.128051
+            ],
+            "alphaBounds": {
+              "x": 156,
+              "y": 73,
+              "width": 199,
+              "height": 366,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": -0.5,
+                "y": 0,
+                "length": 0.5
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-animated-mech-pack/quaternius-animated-mech-pack-gltf-leela.webp",
+          "packRelativePath": "previews/quaternius-animated-mech-pack-gltf-leela.webp"
+        },
+        "sourceUrl": "https://quaternius.com/packs/animatedmech.html",
+        "tags": [
+          "quaternius",
+          "animated-mech",
+          "mech",
+          "mecha",
+          "robot",
+          "sci-fi",
+          "textured",
+          "mechanical",
+          "combat",
+          "toon-mech",
+          "character",
+          "march-2021",
+          "animated-character",
+          "textured-mech",
+          "sci-fi-character",
+          "animated",
+          "rigged",
+          "skinned",
+          "skeletal-animation"
+        ],
+        "aliases": [
+          "mecha",
+          "combat robot"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -1.479294,
+              -0.019081,
+              -1.040262
+            ],
+            "max": [
+              1.479294,
+              5.256686,
+              1.634693
+            ],
+            "size": [
+              2.958588,
+              5.275768,
+              2.674955
+            ],
+            "center": [
+              0,
+              2.618802,
+              0.297216
+            ],
+            "diagonal": 6.6138
+          },
+          "triangleCount": 2368,
+          "drawCallCount": 1,
+          "renderVertexCount": 7104,
+          "uploadVertexCount": 3163,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 1,
+          "externalCount": 0,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": true,
+        "animationCount": 18,
+        "animations": [
+          {
+            "name": "Dance",
+            "durationSec": 1,
+            "keyframes": 413,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Death",
+            "durationSec": 1.792,
+            "keyframes": 698,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Hello",
+            "durationSec": 1.875,
+            "keyframes": 552,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "HitRecieve_1",
+            "durationSec": 0.583,
+            "keyframes": 237,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "HitRecieve_2",
+            "durationSec": 0.583,
+            "keyframes": 237,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Idle",
+            "durationSec": 4.167,
+            "keyframes": 1157,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Jump",
+            "durationSec": 1.083,
+            "keyframes": 493,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Kick",
+            "durationSec": 0.75,
+            "keyframes": 289,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "No",
+            "durationSec": 1.75,
+            "keyframes": 478,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Pickup",
+            "durationSec": 1.75,
+            "keyframes": 478,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Punch",
+            "durationSec": 0.708,
+            "keyframes": 228,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Run",
+            "durationSec": 1.042,
+            "keyframes": 476,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Run_Tall",
+            "durationSec": 1.042,
+            "keyframes": 476,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Shoot",
+            "durationSec": 0.625,
+            "keyframes": 208,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "SwordSlash",
+            "durationSec": 0.75,
+            "keyframes": 255,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Walk",
+            "durationSec": 1.042,
+            "keyframes": 476,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Walk_Tall",
+            "durationSec": 1.042,
+            "keyframes": 476,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Yes",
+            "durationSec": 1.75,
+            "keyframes": 478,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          }
+        ],
+        "rig": {
+          "rigged": true,
+          "skinCount": 1,
+          "jointCountTotal": 17,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": true
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_materials_unlit"
+          ],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-animated-mech-pack-gltf-mike": {
+      "generatedAt": "2026-04-24T19:22:13.138Z",
+      "asset": {
+        "id": "quaternius-animated-mech-pack-gltf-mike",
+        "name": "Mike",
+        "description": "Textured animated mech character (Mike).",
+        "kind": "model",
+        "format": "gltf",
+        "publicPath": "assets/quaternius-animated-mech-pack/quaternius-animated-mech-pack-gltf-mike/quaternius-animated-mech-pack-gltf-mike.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-animated-mech-pack/quaternius-animated-mech-pack-gltf-mike/quaternius-animated-mech-pack-gltf-mike.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-animated-mech-pack/quaternius-animated-mech-pack-gltf-mike.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 14024,
+          "sha256": "86e198bf703cc187180b155fef80ee725c64e0309bd079821a6f744041fba8a1",
+          "transparent": true,
+          "sourceBundleSha256": "e30f31f1a8d46e6e95d7a01f620d74813285e51b9075e20d8f4a6074ece60365",
+          "cacheKey": "05b03827fc07c86f6ef896778fcfde3b4e82574f50c63c4431c56bac77d0d1ac",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 11.795863,
+            "pan": [
+              -0.019071,
+              0.110048,
+              -0.060163
+            ],
+            "alphaBounds": {
+              "x": 110,
+              "y": 76,
+              "width": 291,
+              "height": 360,
+              "fill": 0.703125,
+              "centerOffset": {
+                "x": -0.5,
+                "y": 0,
+                "length": 0.5
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-animated-mech-pack/quaternius-animated-mech-pack-gltf-mike.webp",
+          "packRelativePath": "previews/quaternius-animated-mech-pack-gltf-mike.webp"
+        },
+        "sourceUrl": "https://quaternius.com/packs/animatedmech.html",
+        "tags": [
+          "quaternius",
+          "animated-mech",
+          "mech",
+          "mecha",
+          "robot",
+          "sci-fi",
+          "textured",
+          "mechanical",
+          "combat",
+          "toon-mech",
+          "character",
+          "march-2021",
+          "animated-character",
+          "textured-mech",
+          "sci-fi-character",
+          "animated",
+          "rigged",
+          "skinned",
+          "skeletal-animation"
+        ],
+        "aliases": [
+          "mecha",
+          "combat robot"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -4.267634,
+              0.014456,
+              -1.035403
+            ],
+            "max": [
+              4.267634,
+              5.349437,
+              0.628231
+            ],
+            "size": [
+              8.535269,
+              5.334981,
+              1.663634
+            ],
+            "center": [
+              0,
+              2.681946,
+              -0.203586
+            ],
+            "diagonal": 10.201986
+          },
+          "triangleCount": 6062,
+          "drawCallCount": 1,
+          "renderVertexCount": 18186,
+          "uploadVertexCount": 5813,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 1,
+          "externalCount": 0,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": true,
+        "animationCount": 18,
+        "animations": [
+          {
+            "name": "Dance",
+            "durationSec": 1,
+            "keyframes": 655,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Death",
+            "durationSec": 1.792,
+            "keyframes": 928,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Hello",
+            "durationSec": 1.875,
+            "keyframes": 1008,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "HitRecieve_1",
+            "durationSec": 0.583,
+            "keyframes": 367,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "HitRecieve_2",
+            "durationSec": 0.583,
+            "keyframes": 367,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Idle",
+            "durationSec": 4.167,
+            "keyframes": 1162,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Jump",
+            "durationSec": 1.083,
+            "keyframes": 597,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Kick",
+            "durationSec": 0.75,
+            "keyframes": 342,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "No",
+            "durationSec": 1.75,
+            "keyframes": 582,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Pickup",
+            "durationSec": 1.75,
+            "keyframes": 787,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Punch",
+            "durationSec": 0.708,
+            "keyframes": 348,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Run",
+            "durationSec": 1.042,
+            "keyframes": 580,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Run_Holding",
+            "durationSec": 1.042,
+            "keyframes": 532,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Shoot",
+            "durationSec": 0.625,
+            "keyframes": 228,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "SwordSlash",
+            "durationSec": 0.75,
+            "keyframes": 359,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Walk",
+            "durationSec": 1.042,
+            "keyframes": 580,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Walk_Holding",
+            "durationSec": 1.042,
+            "keyframes": 532,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Yes",
+            "durationSec": 1.75,
+            "keyframes": 582,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          }
+        ],
+        "rig": {
+          "rigged": true,
+          "skinCount": 1,
+          "jointCountTotal": 43,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": true
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_materials_unlit"
+          ],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-animated-mech-pack-gltf-stan": {
+      "generatedAt": "2026-04-24T19:22:13.138Z",
+      "asset": {
+        "id": "quaternius-animated-mech-pack-gltf-stan",
+        "name": "Stan",
+        "description": "Textured animated mech character (Stan).",
+        "kind": "model",
+        "format": "gltf",
+        "publicPath": "assets/quaternius-animated-mech-pack/quaternius-animated-mech-pack-gltf-stan/quaternius-animated-mech-pack-gltf-stan.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-animated-mech-pack/quaternius-animated-mech-pack-gltf-stan/quaternius-animated-mech-pack-gltf-stan.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-animated-mech-pack/quaternius-animated-mech-pack-gltf-stan.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 13072,
+          "sha256": "bd9c48c04be3de68486401f2915db3b53e0ac0a136a1c3668fd751bdb5a31831",
+          "transparent": true,
+          "sourceBundleSha256": "c0193ffd585240b563cce453a561cce341617c9bc8e87512722568a3a433644c",
+          "cacheKey": "7434ebddc348a47ce508196b9c8ad82ec57a604a6c94205c76d1597090cc83c2",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 13.73104,
+            "pan": [
+              -0.09013,
+              0.150709,
+              -0.01838
+            ],
+            "alphaBounds": {
+              "x": 130,
+              "y": 72,
+              "width": 253,
+              "height": 368,
+              "fill": 0.71875,
+              "centerOffset": {
+                "x": 0.5,
+                "y": 0,
+                "length": 0.5
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-animated-mech-pack/quaternius-animated-mech-pack-gltf-stan.webp",
+          "packRelativePath": "previews/quaternius-animated-mech-pack-gltf-stan.webp"
+        },
+        "sourceUrl": "https://quaternius.com/packs/animatedmech.html",
+        "tags": [
+          "quaternius",
+          "animated-mech",
+          "mech",
+          "mecha",
+          "robot",
+          "sci-fi",
+          "textured",
+          "mechanical",
+          "combat",
+          "toon-mech",
+          "character",
+          "march-2021",
+          "animated-character",
+          "textured-mech",
+          "sci-fi-character",
+          "animated",
+          "rigged",
+          "skinned",
+          "skeletal-animation"
+        ],
+        "aliases": [
+          "mecha",
+          "combat robot"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -4.274939,
+              0.015644,
+              -1.19441
+            ],
+            "max": [
+              4.274939,
+              6.477414,
+              0.373565
+            ],
+            "size": [
+              8.549878,
+              6.46177,
+              1.567976
+            ],
+            "center": [
+              0,
+              3.246529,
+              -0.410423
+            ],
+            "diagonal": 10.831133
+          },
+          "triangleCount": 6110,
+          "drawCallCount": 1,
+          "renderVertexCount": 18330,
+          "uploadVertexCount": 6339,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 1,
+          "externalCount": 0,
+          "maxResolution": [
+            2048,
+            2048
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": true,
+        "animationCount": 18,
+        "animations": [
+          {
+            "name": "Dance",
+            "durationSec": 1,
+            "keyframes": 655,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Death",
+            "durationSec": 1.792,
+            "keyframes": 928,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Hello",
+            "durationSec": 1.875,
+            "keyframes": 1008,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "HitRecieve_1",
+            "durationSec": 0.583,
+            "keyframes": 367,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "HitRecieve_2",
+            "durationSec": 0.583,
+            "keyframes": 367,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Idle",
+            "durationSec": 4.167,
+            "keyframes": 1162,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Jump",
+            "durationSec": 1.083,
+            "keyframes": 597,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Kick",
+            "durationSec": 0.75,
+            "keyframes": 342,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "No",
+            "durationSec": 1.75,
+            "keyframes": 582,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Pickup",
+            "durationSec": 1.75,
+            "keyframes": 787,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Punch",
+            "durationSec": 0.708,
+            "keyframes": 348,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Run",
+            "durationSec": 1.042,
+            "keyframes": 580,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Run_Holding",
+            "durationSec": 1.042,
+            "keyframes": 532,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Shoot",
+            "durationSec": 0.625,
+            "keyframes": 228,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "SwordSlash",
+            "durationSec": 0.75,
+            "keyframes": 359,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Walk",
+            "durationSec": 1.042,
+            "keyframes": 580,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Walk_Holding",
+            "durationSec": 1.042,
+            "keyframes": 532,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Yes",
+            "durationSec": 1.75,
+            "keyframes": 582,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          }
+        ],
+        "rig": {
+          "rigged": true,
+          "skinCount": 1,
+          "jointCountTotal": 43,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": true
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_materials_unlit"
+          ],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    }
+  }
+}

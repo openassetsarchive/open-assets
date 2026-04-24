@@ -1,0 +1,1993 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-24T19:22:14.980Z",
+  "pack": {
+    "id": "quaternius-rpg-characters",
+    "name": "Quaternius RPG Characters",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://quaternius.com/packs/rpgcharacters.html",
+    "tags": [
+      "quaternius",
+      "rpg",
+      "fantasy-character",
+      "adventurer",
+      "party",
+      "class-based",
+      "hero",
+      "stylized",
+      "textured",
+      "animated",
+      "nov-2020"
+    ]
+  },
+  "assetIds": [
+    "quaternius-rpg-characters-cleric",
+    "quaternius-rpg-characters-monk",
+    "quaternius-rpg-characters-ranger",
+    "quaternius-rpg-characters-rogue",
+    "quaternius-rpg-characters-warrior",
+    "quaternius-rpg-characters-wizard"
+  ],
+  "assetsById": {
+    "quaternius-rpg-characters-cleric": {
+      "generatedAt": "2026-04-24T19:22:14.980Z",
+      "asset": {
+        "id": "quaternius-rpg-characters-cleric",
+        "name": "Cleric",
+        "description": "Animated cleric RPG character (Cleric).",
+        "kind": "model",
+        "format": "gltf",
+        "publicPath": "assets/quaternius-rpg-characters/quaternius-rpg-characters-cleric/quaternius-rpg-characters-cleric.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-rpg-characters/quaternius-rpg-characters-cleric/quaternius-rpg-characters-cleric.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-rpg-characters/quaternius-rpg-characters-cleric.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 9108,
+          "sha256": "93332d2afa634b67f99d941bd0122f0d69e5dfee331d7a5ef9221f7587149ff5",
+          "transparent": true,
+          "sourceBundleSha256": "57a8b4960cb41c436b1a457e165236d0752aa879767218aa5aa7888864983bf0",
+          "cacheKey": "76b801022cf08fb055fd64fc0475824fb3928a0bfea89cbe77e97cb9449d53f7",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 6.502638,
+            "pan": [
+              -0.173722,
+              0.04996,
+              0.137751
+            ],
+            "alphaBounds": {
+              "x": 132,
+              "y": 75,
+              "width": 247,
+              "height": 362,
+              "fill": 0.707031,
+              "centerOffset": {
+                "x": -0.5,
+                "y": 0,
+                "length": 0.5
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-rpg-characters/quaternius-rpg-characters-cleric.webp",
+          "packRelativePath": "previews/quaternius-rpg-characters-cleric.webp"
+        },
+        "sourceUrl": "https://quaternius.com/packs/rpgcharacters.html",
+        "tags": [
+          "quaternius",
+          "rpg",
+          "fantasy-character",
+          "adventurer",
+          "party",
+          "class-based",
+          "hero",
+          "stylized",
+          "textured",
+          "animated",
+          "nov-2020",
+          "character",
+          "animated-character",
+          "fantasy-hero",
+          "rpg-class",
+          "cleric",
+          "healer",
+          "support",
+          "rigged",
+          "skinned",
+          "skeletal-animation"
+        ],
+        "aliases": [
+          "hero",
+          "adventurer"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -1.536829,
+              -0.003267,
+              -1.036762
+            ],
+            "max": [
+              1.527786,
+              2.972998,
+              1.247352
+            ],
+            "size": [
+              3.064614,
+              2.976265,
+              2.284114
+            ],
+            "center": [
+              -0.004521,
+              1.484866,
+              0.105295
+            ],
+            "diagonal": 4.844295
+          },
+          "triangleCount": 5104,
+          "drawCallCount": 4,
+          "renderVertexCount": 15312,
+          "uploadVertexCount": 6100,
+          "meshCount": 4,
+          "primitiveCount": 4
+        },
+        "materials": {
+          "count": 2,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 2
+        },
+        "textures": {
+          "count": 2,
+          "embeddedCount": 2,
+          "externalCount": 0,
+          "maxResolution": [
+            1024,
+            1024
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": true,
+        "animationCount": 11,
+        "animations": [
+          {
+            "name": "Death",
+            "durationSec": 1.167,
+            "keyframes": 2784,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Idle",
+            "durationSec": 3.125,
+            "keyframes": 7296,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Idle_Weapon",
+            "durationSec": 3.125,
+            "keyframes": 7296,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "PickUp",
+            "durationSec": 1.25,
+            "keyframes": 2976,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Punch",
+            "durationSec": 0.75,
+            "keyframes": 1824,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "RecieveHit",
+            "durationSec": 0.625,
+            "keyframes": 1536,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "RecieveHit_Attacking",
+            "durationSec": 0.625,
+            "keyframes": 1536,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Run",
+            "durationSec": 0.875,
+            "keyframes": 2112,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Spell1",
+            "durationSec": 1.208,
+            "keyframes": 2880,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Staff_Attack",
+            "durationSec": 0.75,
+            "keyframes": 1824,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Walk",
+            "durationSec": 1.25,
+            "keyframes": 2976,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          }
+        ],
+        "rig": {
+          "rigged": true,
+          "skinCount": 1,
+          "jointCountTotal": 32,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": true
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_materials_unlit"
+          ],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-rpg-characters-monk": {
+      "generatedAt": "2026-04-24T19:22:14.980Z",
+      "asset": {
+        "id": "quaternius-rpg-characters-monk",
+        "name": "Monk",
+        "description": "Animated monk RPG character (Monk).",
+        "kind": "model",
+        "format": "gltf",
+        "publicPath": "assets/quaternius-rpg-characters/quaternius-rpg-characters-monk/quaternius-rpg-characters-monk.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-rpg-characters/quaternius-rpg-characters-monk/quaternius-rpg-characters-monk.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-rpg-characters/quaternius-rpg-characters-monk.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 7022,
+          "sha256": "59cd0f1743d35776ce81d3690eb4b166a90f6938ba5089115f71e6b901c71f9a",
+          "transparent": true,
+          "sourceBundleSha256": "29511818f392b5e15e150942997bf01a1a1744c5021947359e112d7b2a8d2e09",
+          "cacheKey": "3039d7d25042c55e648cb23d052b4de809f7f2bfea30d05a32416dbdb6379b9d",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 6.239632,
+            "pan": [
+              -0.041712,
+              0.047939,
+              0.007195
+            ],
+            "alphaBounds": {
+              "x": 178,
+              "y": 70,
+              "width": 156,
+              "height": 371,
+              "fill": 0.724609,
+              "centerOffset": {
+                "x": 0,
+                "y": -0.5,
+                "length": 0.5
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-rpg-characters/quaternius-rpg-characters-monk.webp",
+          "packRelativePath": "previews/quaternius-rpg-characters-monk.webp"
+        },
+        "sourceUrl": "https://quaternius.com/packs/rpgcharacters.html",
+        "tags": [
+          "quaternius",
+          "rpg",
+          "fantasy-character",
+          "adventurer",
+          "party",
+          "class-based",
+          "hero",
+          "stylized",
+          "textured",
+          "animated",
+          "nov-2020",
+          "character",
+          "animated-character",
+          "fantasy-hero",
+          "rpg-class",
+          "monk",
+          "martial-artist",
+          "rigged",
+          "skinned",
+          "skeletal-animation"
+        ],
+        "aliases": [
+          "hero",
+          "adventurer"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -1.637978,
+              0.000427,
+              -0.477679
+            ],
+            "max": [
+              1.637795,
+              2.948156,
+              0.453575
+            ],
+            "size": [
+              3.275773,
+              2.947729,
+              0.931254
+            ],
+            "center": [
+              -0.000092,
+              1.474292,
+              -0.012052
+            ],
+            "diagonal": 4.504112
+          },
+          "triangleCount": 6714,
+          "drawCallCount": 2,
+          "renderVertexCount": 20142,
+          "uploadVertexCount": 7198,
+          "meshCount": 2,
+          "primitiveCount": 2
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 1,
+          "externalCount": 0,
+          "maxResolution": [
+            1024,
+            1024
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": true,
+        "animationCount": 11,
+        "animations": [
+          {
+            "name": "Attack",
+            "durationSec": 0.833,
+            "keyframes": 2016,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Attack2",
+            "durationSec": 0.833,
+            "keyframes": 2016,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Death",
+            "durationSec": 1.167,
+            "keyframes": 2784,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Idle",
+            "durationSec": 3.125,
+            "keyframes": 7296,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Idle_Attacking",
+            "durationSec": 1.667,
+            "keyframes": 3936,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "PickUp",
+            "durationSec": 1.25,
+            "keyframes": 2976,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "RecieveHit",
+            "durationSec": 0.625,
+            "keyframes": 1536,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "RecieveHit_2",
+            "durationSec": 0.625,
+            "keyframes": 1536,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Roll",
+            "durationSec": 1,
+            "keyframes": 2400,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Run",
+            "durationSec": 0.875,
+            "keyframes": 2112,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Walk",
+            "durationSec": 1.25,
+            "keyframes": 2976,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          }
+        ],
+        "rig": {
+          "rigged": true,
+          "skinCount": 1,
+          "jointCountTotal": 32,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": true
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_materials_unlit"
+          ],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-rpg-characters-ranger": {
+      "generatedAt": "2026-04-24T19:22:14.980Z",
+      "asset": {
+        "id": "quaternius-rpg-characters-ranger",
+        "name": "Ranger",
+        "description": "Animated ranger RPG character (Ranger).",
+        "kind": "model",
+        "format": "gltf",
+        "publicPath": "assets/quaternius-rpg-characters/quaternius-rpg-characters-ranger/quaternius-rpg-characters-ranger.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-rpg-characters/quaternius-rpg-characters-ranger/quaternius-rpg-characters-ranger.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-rpg-characters/quaternius-rpg-characters-ranger.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8208,
+          "sha256": "a3fd3cff3583abfba7e49e8ea06e1af0501e918f5eb2a1dcfdabbda87f2fbc0c",
+          "transparent": true,
+          "sourceBundleSha256": "cfccc7849f1ea7b355b1d5364e749b4f5f630e785abfffa999123c77696ca794",
+          "cacheKey": "bf2a38fc274dd79573e37ddf51d39197c2b3636911e02dbb2f484739c90eff09",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 6.386787,
+            "pan": [
+              -0.158987,
+              0.06309,
+              0.113563
+            ],
+            "alphaBounds": {
+              "x": 156,
+              "y": 78,
+              "width": 202,
+              "height": 356,
+              "fill": 0.695313,
+              "centerOffset": {
+                "x": 1,
+                "y": 0,
+                "length": 1
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-rpg-characters/quaternius-rpg-characters-ranger.webp",
+          "packRelativePath": "previews/quaternius-rpg-characters-ranger.webp"
+        },
+        "sourceUrl": "https://quaternius.com/packs/rpgcharacters.html",
+        "tags": [
+          "quaternius",
+          "rpg",
+          "fantasy-character",
+          "adventurer",
+          "party",
+          "class-based",
+          "hero",
+          "stylized",
+          "textured",
+          "animated",
+          "nov-2020",
+          "character",
+          "animated-character",
+          "fantasy-hero",
+          "rpg-class",
+          "ranger",
+          "archer",
+          "hunter",
+          "rigged",
+          "skinned",
+          "skeletal-animation"
+        ],
+        "aliases": [
+          "hero",
+          "adventurer"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -1.515523,
+              0.000437,
+              -0.883863
+            ],
+            "max": [
+              1.515524,
+              2.925777,
+              1.122953
+            ],
+            "size": [
+              3.031047,
+              2.92534,
+              2.006815
+            ],
+            "center": [
+              0,
+              1.463107,
+              0.119545
+            ],
+            "diagonal": 4.666065
+          },
+          "triangleCount": 3806,
+          "drawCallCount": 6,
+          "renderVertexCount": 11418,
+          "uploadVertexCount": 4531,
+          "meshCount": 6,
+          "primitiveCount": 6
+        },
+        "materials": {
+          "count": 2,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 2
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 1,
+          "externalCount": 0,
+          "maxResolution": [
+            1024,
+            1024
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": true,
+        "animationCount": 14,
+        "animations": [
+          {
+            "name": "Bow_Draw",
+            "durationSec": 1.25,
+            "keyframes": 2976,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Bow_Shoot",
+            "durationSec": 0.625,
+            "keyframes": 1536,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Death",
+            "durationSec": 1.167,
+            "keyframes": 2784,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Idle",
+            "durationSec": 3.125,
+            "keyframes": 7296,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Idle_Attacking",
+            "durationSec": 1.667,
+            "keyframes": 3936,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Idle_Weapon",
+            "durationSec": 3.125,
+            "keyframes": 7296,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "PickUp",
+            "durationSec": 1.25,
+            "keyframes": 2976,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Punch",
+            "durationSec": 0.75,
+            "keyframes": 1824,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "RecieveHit",
+            "durationSec": 0.625,
+            "keyframes": 1536,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "RecieveHit_2",
+            "durationSec": 0.625,
+            "keyframes": 1536,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Roll",
+            "durationSec": 1,
+            "keyframes": 2400,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Run",
+            "durationSec": 0.875,
+            "keyframes": 2112,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Run_Holding",
+            "durationSec": 0.875,
+            "keyframes": 2112,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Walk",
+            "durationSec": 1.25,
+            "keyframes": 2976,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          }
+        ],
+        "rig": {
+          "rigged": true,
+          "skinCount": 1,
+          "jointCountTotal": 32,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": true
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_materials_unlit"
+          ],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-rpg-characters-rogue": {
+      "generatedAt": "2026-04-24T19:22:14.980Z",
+      "asset": {
+        "id": "quaternius-rpg-characters-rogue",
+        "name": "Rogue",
+        "description": "Animated rogue RPG character (Rogue).",
+        "kind": "model",
+        "format": "gltf",
+        "publicPath": "assets/quaternius-rpg-characters/quaternius-rpg-characters-rogue/quaternius-rpg-characters-rogue.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-rpg-characters/quaternius-rpg-characters-rogue/quaternius-rpg-characters-rogue.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-rpg-characters/quaternius-rpg-characters-rogue.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 5774,
+          "sha256": "a12ac3efb72554737721434ace6cf529086d5cd321ad4c816717ff3b98bb43ba",
+          "transparent": true,
+          "sourceBundleSha256": "000373b819d3b98538563f3f2bf716c44ea51fd326a3ffcae157b400d9fafd98",
+          "cacheKey": "2ed3d0257a4f7c0dbdd61820c0e61dc5bc27d27b6421e9ef21011d2614bc08c2",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 6.491678,
+            "pan": [
+              -0.118228,
+              -0.024938,
+              0.136183
+            ],
+            "alphaBounds": {
+              "x": 187,
+              "y": 71,
+              "width": 139,
+              "height": 369,
+              "fill": 0.720703,
+              "centerOffset": {
+                "x": 0.5,
+                "y": -0.5,
+                "length": 0.707107
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-rpg-characters/quaternius-rpg-characters-rogue.webp",
+          "packRelativePath": "previews/quaternius-rpg-characters-rogue.webp"
+        },
+        "sourceUrl": "https://quaternius.com/packs/rpgcharacters.html",
+        "tags": [
+          "quaternius",
+          "rpg",
+          "fantasy-character",
+          "adventurer",
+          "party",
+          "class-based",
+          "hero",
+          "stylized",
+          "textured",
+          "animated",
+          "nov-2020",
+          "character",
+          "animated-character",
+          "fantasy-hero",
+          "rpg-class",
+          "rogue",
+          "thief",
+          "stealth",
+          "rigged",
+          "skinned",
+          "skeletal-animation"
+        ],
+        "aliases": [
+          "hero",
+          "adventurer"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -1.549172,
+              -0.003264,
+              -0.860902
+            ],
+            "max": [
+              1.549172,
+              2.970436,
+              0.614277
+            ],
+            "size": [
+              3.098345,
+              2.9737,
+              1.475179
+            ],
+            "center": [
+              0,
+              1.483586,
+              -0.123312
+            ],
+            "diagonal": 4.540791
+          },
+          "triangleCount": 2326,
+          "drawCallCount": 8,
+          "renderVertexCount": 6978,
+          "uploadVertexCount": 2279,
+          "meshCount": 8,
+          "primitiveCount": 8
+        },
+        "materials": {
+          "count": 2,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 2
+        },
+        "textures": {
+          "count": 2,
+          "embeddedCount": 2,
+          "externalCount": 0,
+          "maxResolution": [
+            1024,
+            1024
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": true,
+        "animationCount": 12,
+        "animations": [
+          {
+            "name": "Attacking_Idle",
+            "durationSec": 1.667,
+            "keyframes": 3936,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Dagger_Attack",
+            "durationSec": 0.75,
+            "keyframes": 1824,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Dagger_Attack2",
+            "durationSec": 1.25,
+            "keyframes": 2976,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Death",
+            "durationSec": 1.167,
+            "keyframes": 2784,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Idle",
+            "durationSec": 3.125,
+            "keyframes": 7296,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "PickUp",
+            "durationSec": 1.25,
+            "keyframes": 2976,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Punch",
+            "durationSec": 0.75,
+            "keyframes": 1824,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "RecieveHit",
+            "durationSec": 0.625,
+            "keyframes": 1536,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "RecieveHit_2",
+            "durationSec": 0.625,
+            "keyframes": 1536,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Roll",
+            "durationSec": 1,
+            "keyframes": 2400,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Run",
+            "durationSec": 0.875,
+            "keyframes": 2112,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Walk",
+            "durationSec": 1.25,
+            "keyframes": 2976,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          }
+        ],
+        "rig": {
+          "rigged": true,
+          "skinCount": 1,
+          "jointCountTotal": 32,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": true
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_materials_unlit"
+          ],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-rpg-characters-warrior": {
+      "generatedAt": "2026-04-24T19:22:14.980Z",
+      "asset": {
+        "id": "quaternius-rpg-characters-warrior",
+        "name": "Warrior",
+        "description": "Animated warrior RPG character (Warrior).",
+        "kind": "model",
+        "format": "gltf",
+        "publicPath": "assets/quaternius-rpg-characters/quaternius-rpg-characters-warrior/quaternius-rpg-characters-warrior.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-rpg-characters/quaternius-rpg-characters-warrior/quaternius-rpg-characters-warrior.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-rpg-characters/quaternius-rpg-characters-warrior.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 7918,
+          "sha256": "db8ed8c78752311c97fa442ca95ac372aa731977fb569ce5e81ebefa1cc6a8c9",
+          "transparent": true,
+          "sourceBundleSha256": "dd6d1bc1eabc43c0ed83d9895db0970926085bfd5754a6c6a0e5b0103db5ddf8",
+          "cacheKey": "deda28ae7e440a9c32bce7efc366acc881fb99fafdbfbc6f42dc67ee1ffea960",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 6.007573,
+            "pan": [
+              -0.146517,
+              0.158526,
+              0.032379
+            ],
+            "alphaBounds": {
+              "x": 100,
+              "y": 72,
+              "width": 312,
+              "height": 365,
+              "fill": 0.712891,
+              "centerOffset": {
+                "x": 0,
+                "y": -1.5,
+                "length": 1.5
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-rpg-characters/quaternius-rpg-characters-warrior.webp",
+          "packRelativePath": "previews/quaternius-rpg-characters-warrior.webp"
+        },
+        "sourceUrl": "https://quaternius.com/packs/rpgcharacters.html",
+        "tags": [
+          "quaternius",
+          "rpg",
+          "fantasy-character",
+          "adventurer",
+          "party",
+          "class-based",
+          "hero",
+          "stylized",
+          "textured",
+          "animated",
+          "nov-2020",
+          "character",
+          "animated-character",
+          "fantasy-hero",
+          "rpg-class",
+          "warrior",
+          "fighter",
+          "melee",
+          "rigged",
+          "skinned",
+          "skeletal-animation"
+        ],
+        "aliases": [
+          "hero",
+          "adventurer"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -1.521944,
+              -0.003276,
+              -0.638455
+            ],
+            "max": [
+              1.521944,
+              2.912446,
+              1.837505
+            ],
+            "size": [
+              3.043887,
+              2.915721,
+              2.47596
+            ],
+            "center": [
+              0,
+              1.454585,
+              0.599525
+            ],
+            "diagonal": 4.888462
+          },
+          "triangleCount": 5402,
+          "drawCallCount": 5,
+          "renderVertexCount": 16206,
+          "uploadVertexCount": 5846,
+          "meshCount": 5,
+          "primitiveCount": 5
+        },
+        "materials": {
+          "count": 2,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 2
+        },
+        "textures": {
+          "count": 2,
+          "embeddedCount": 2,
+          "externalCount": 0,
+          "maxResolution": [
+            1024,
+            1024
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": true,
+        "animationCount": 13,
+        "animations": [
+          {
+            "name": "Death",
+            "durationSec": 1.167,
+            "keyframes": 2784,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Idle",
+            "durationSec": 3.125,
+            "keyframes": 7296,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Idle_Attacking",
+            "durationSec": 1.667,
+            "keyframes": 3936,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Idle_Weapon",
+            "durationSec": 3.125,
+            "keyframes": 7296,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "PickUp",
+            "durationSec": 1.25,
+            "keyframes": 2976,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Punch",
+            "durationSec": 0.75,
+            "keyframes": 1824,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "RecieveHit",
+            "durationSec": 0.625,
+            "keyframes": 1536,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Roll",
+            "durationSec": 1,
+            "keyframes": 2400,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Run",
+            "durationSec": 0.875,
+            "keyframes": 2112,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Run_Weapon",
+            "durationSec": 0.875,
+            "keyframes": 2112,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Sword_Attack",
+            "durationSec": 0.833,
+            "keyframes": 2016,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Sword_Attack2",
+            "durationSec": 0.833,
+            "keyframes": 2016,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Walk",
+            "durationSec": 1.25,
+            "keyframes": 2976,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          }
+        ],
+        "rig": {
+          "rigged": true,
+          "skinCount": 1,
+          "jointCountTotal": 32,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": true
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_materials_unlit"
+          ],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "quaternius-rpg-characters-wizard": {
+      "generatedAt": "2026-04-24T19:22:14.980Z",
+      "asset": {
+        "id": "quaternius-rpg-characters-wizard",
+        "name": "Wizard",
+        "description": "Animated wizard RPG character (Wizard).",
+        "kind": "model",
+        "format": "gltf",
+        "publicPath": "assets/quaternius-rpg-characters/quaternius-rpg-characters-wizard/quaternius-rpg-characters-wizard.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-rpg-characters/quaternius-rpg-characters-wizard/quaternius-rpg-characters-wizard.gltf",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-rpg-characters/quaternius-rpg-characters-wizard.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 7978,
+          "sha256": "9d8794ddc6de93feb4181c977c6252adebfab53029dbc8dd7d4820a3d25e1c62",
+          "transparent": true,
+          "sourceBundleSha256": "15317a794b51864ace9797f76cc68e2e3a5c448687de8321533f3d90aea05831",
+          "cacheKey": "1088e6f26e8c02be5adb5be58ca3e7345c77c002629293865d19b6b078fc6103",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 6.693777,
+            "pan": [
+              -0.195804,
+              0.025714,
+              0.17729
+            ],
+            "alphaBounds": {
+              "x": 147,
+              "y": 75,
+              "width": 220,
+              "height": 362,
+              "fill": 0.707031,
+              "centerOffset": {
+                "x": 1,
+                "y": 0,
+                "length": 1
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-rpg-characters/quaternius-rpg-characters-wizard.webp",
+          "packRelativePath": "previews/quaternius-rpg-characters-wizard.webp"
+        },
+        "sourceUrl": "https://quaternius.com/packs/rpgcharacters.html",
+        "tags": [
+          "quaternius",
+          "rpg",
+          "fantasy-character",
+          "adventurer",
+          "party",
+          "class-based",
+          "hero",
+          "stylized",
+          "textured",
+          "animated",
+          "nov-2020",
+          "character",
+          "animated-character",
+          "fantasy-hero",
+          "rpg-class",
+          "wizard",
+          "mage",
+          "magic",
+          "rigged",
+          "skinned",
+          "skeletal-animation"
+        ],
+        "aliases": [
+          "hero",
+          "adventurer"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -1.526119,
+              -0.003306,
+              -1.041585
+            ],
+            "max": [
+              1.526119,
+              3.05556,
+              1.021415
+            ],
+            "size": [
+              3.052237,
+              3.058866,
+              2.063
+            ],
+            "center": [
+              0,
+              1.526127,
+              -0.010085
+            ],
+            "diagonal": 4.788401
+          },
+          "triangleCount": 5376,
+          "drawCallCount": 6,
+          "renderVertexCount": 16128,
+          "uploadVertexCount": 5413,
+          "meshCount": 6,
+          "primitiveCount": 6
+        },
+        "materials": {
+          "count": 2,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 2
+        },
+        "textures": {
+          "count": 2,
+          "embeddedCount": 2,
+          "externalCount": 0,
+          "maxResolution": [
+            1024,
+            1024
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": true,
+        "animationCount": 15,
+        "animations": [
+          {
+            "name": "Death",
+            "durationSec": 1.167,
+            "keyframes": 2784,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Idle",
+            "durationSec": 3.125,
+            "keyframes": 7296,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Idle_Attacking",
+            "durationSec": 1.667,
+            "keyframes": 3936,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Idle_Weapon",
+            "durationSec": 3.125,
+            "keyframes": 7296,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "PickUp",
+            "durationSec": 1.25,
+            "keyframes": 2976,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Punch",
+            "durationSec": 0.75,
+            "keyframes": 1824,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "RecieveHit",
+            "durationSec": 0.625,
+            "keyframes": 1536,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "RecieveHit_2",
+            "durationSec": 0.625,
+            "keyframes": 1536,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Roll",
+            "durationSec": 1,
+            "keyframes": 2400,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Run",
+            "durationSec": 0.875,
+            "keyframes": 2112,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Run_Weapon",
+            "durationSec": 0.875,
+            "keyframes": 2112,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Spell1",
+            "durationSec": 1.208,
+            "keyframes": 2880,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Spell2",
+            "durationSec": 1.458,
+            "keyframes": 3456,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Staff_Attack",
+            "durationSec": 0.75,
+            "keyframes": 1824,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "Walk",
+            "durationSec": 1.25,
+            "keyframes": 2976,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          }
+        ],
+        "rig": {
+          "rigged": true,
+          "skinCount": 1,
+          "jointCountTotal": 32,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": true
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_materials_unlit"
+          ],
+          "dependencyMode": "standalone"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    }
+  }
+}

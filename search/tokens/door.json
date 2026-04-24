@@ -1,7 +1,7 @@
 {
   "version": 1,
   "token": "door",
-  "count": 99,
+  "count": 104,
   "assetIds": [
     "kenney-car-kit-debris-door",
     "kenney-car-kit-debris-door-window",
@@ -100,7 +100,12 @@
     "kenney-retro-urban-kit-wall-a-door",
     "kenney-retro-urban-kit-wall-b-door",
     "quaternius-cube-world-kit-environment-gltf-door-closed",
+    "quaternius-cyberpunk-game-kit-platforms-door",
     "quaternius-sushi-restaurant-kit-environment-gltf-environment-counter-door",
-    "quaternius-sushi-restaurant-kit-environment-gltf-wall-door"
+    "quaternius-sushi-restaurant-kit-environment-gltf-wall-door",
+    "quaternius-ultimate-fantasy-rts-walltowers-door-firstage",
+    "quaternius-ultimate-fantasy-rts-walltowers-door-secondage",
+    "quaternius-ultimate-fantasy-rts-walltowers-doorclosed-firstage",
+    "quaternius-ultimate-fantasy-rts-walltowers-doorclosed-secondage"
   ]
 }

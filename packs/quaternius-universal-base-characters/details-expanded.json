@@ -1,0 +1,3708 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-24T19:24:02.157Z",
+  "pack": {
+    "id": "quaternius-universal-base-characters",
+    "name": "Quaternius Universal Base Characters",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://quaternius.com/packs/universalbasecharacters.html",
+    "tags": [
+      "quaternius",
+      "universal-base",
+      "base-character",
+      "humanoid",
+      "modular-character",
+      "retargetable",
+      "humanoid-rig",
+      "animation-ready",
+      "toon-proportioned",
+      "customizable",
+      "superhero",
+      "hairstyle",
+      "standard"
+    ]
+  },
+  "assetIds": [
+    "quaternius-universal-base-characters-base-characters-godot-ue-superhero-female-fullbody",
+    "quaternius-universal-base-characters-base-characters-godot-ue-superhero-male-fullbody",
+    "quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-eyebrows-female",
+    "quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-eyebrows-regular",
+    "quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-beard",
+    "quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buns",
+    "quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buzzed",
+    "quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buzzedfemale",
+    "quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-long",
+    "quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-simpleparted"
+  ],
+  "assetsById": {
+    "quaternius-universal-base-characters-base-characters-godot-ue-superhero-female-fullbody": {
+      "generatedAt": "2026-04-24T19:24:02.157Z",
+      "asset": {
+        "id": "quaternius-universal-base-characters-base-characters-godot-ue-superhero-female-fullbody",
+        "name": "Superhero Female Full Body",
+        "description": "Universal female humanoid base body (Superhero Female Full Body).",
+        "kind": "model",
+        "format": "gltf",
+        "relativePath": "Base Characters/Godot - UE/Superhero_Female_FullBody.gltf",
+        "fileName": "Superhero_Female_FullBody.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-female-fullbody/quaternius-universal-base-characters-base-characters-godot-ue-superhero-female-fullbody.gltf",
+        "file": {
+          "primaryBytes": 31652,
+          "totalBytes": 16049966,
+          "primarySha256": "215f2af81ad91eecfcee807bad19b541704b800844d997286b78d5dbed7a3b5e",
+          "bundleSha256": "22c388244b57756a9b05df78569ea0414837d84481431e2d3afe232f7766594c",
+          "resourceCount": 9
+        },
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.834433,
+              -0.008407,
+              -0.16247
+            ],
+            "max": [
+              0.834433,
+              1.766644,
+              0.140228
+            ],
+            "size": [
+              1.668866,
+              1.775051,
+              0.302697
+            ],
+            "center": [
+              0,
+              0.879118,
+              -0.011121
+            ],
+            "diagonal": 2.455106
+          },
+          "triangleCount": 15060,
+          "drawCallCount": 3,
+          "renderVertexCount": 45180,
+          "uploadVertexCount": 8844,
+          "uploadNaiveVertexCount": 8844,
+          "meshCount": 3,
+          "primitiveCount": 3,
+          "morphTargetCount": 0
+        },
+        "structure": {
+          "sceneCount": 1,
+          "defaultScene": "Scene",
+          "nodeCount": 69,
+          "materialCount": 3,
+          "textureCount": 7,
+          "skinCount": 1,
+          "animationCount": 0,
+          "meshInstanceCount": 3
+        },
+        "sceneNames": [
+          "Scene"
+        ],
+        "materials": [
+          {
+            "name": "MI_Hair_2",
+            "alphaMode": "OPAQUE",
+            "doubleSided": true,
+            "textureSlots": [
+              "baseColorTexture",
+              "normalTexture"
+            ],
+            "instances": 1
+          },
+          {
+            "name": "MI_Eyes",
+            "alphaMode": "OPAQUE",
+            "doubleSided": true,
+            "textureSlots": [
+              "baseColorTexture",
+              "normalTexture"
+            ],
+            "instances": 1
+          },
+          {
+            "name": "MI_Superhero_Female",
+            "alphaMode": "OPAQUE",
+            "doubleSided": true,
+            "textureSlots": [
+              "baseColorTexture",
+              "normalTexture",
+              "metallicRoughnessTexture"
+            ],
+            "instances": 1
+          }
+        ],
+        "textures": [
+          {
+            "name": "T_Hair_2_Normal",
+            "uri": "T_Hair_2_Normal.png",
+            "mimeType": "image/png",
+            "width": 2048,
+            "height": 2048,
+            "byteSize": 4710013,
+            "gpuByteSize": 22369620,
+            "compression": "",
+            "slots": [
+              "normalTexture"
+            ],
+            "embedded": false
+          },
+          {
+            "name": "T_Hair_2_BaseColor",
+            "uri": "T_Hair_2_BaseColor.png",
+            "mimeType": "image/png",
+            "width": 2048,
+            "height": 2048,
+            "byteSize": 1729467,
+            "gpuByteSize": 22369620,
+            "compression": "",
+            "slots": [
+              "baseColorTexture"
+            ],
+            "embedded": false
+          },
+          {
+            "name": "T_Eye_Normal.png",
+            "uri": "T_Eye_Normal.png",
+            "mimeType": "image/png",
+            "width": 256,
+            "height": 256,
+            "byteSize": 15099,
+            "gpuByteSize": 349524,
+            "compression": "",
+            "slots": [
+              "normalTexture"
+            ],
+            "embedded": false
+          },
+          {
+            "name": "T_Eye_Brown",
+            "uri": "T_Eye_Brown.png",
+            "mimeType": "image/png",
+            "width": 256,
+            "height": 256,
+            "byteSize": 35958,
+            "gpuByteSize": 349524,
+            "compression": "",
+            "slots": [
+              "baseColorTexture"
+            ],
+            "embedded": false
+          },
+          {
+            "name": "T_Superhero_Female_Normal",
+            "uri": "T_Superhero_Female_Normal.png",
+            "mimeType": "image/png",
+            "width": 2048,
+            "height": 2048,
+            "byteSize": 3940537,
+            "gpuByteSize": 22369620,
+            "compression": "",
+            "slots": [
+              "normalTexture"
+            ],
+            "embedded": false
+          },
+          {
+            "name": "T_Superhero_Female_Dark_BaseColor",
+            "uri": "T_Superhero_Female_Dark_BaseColor.png",
+            "mimeType": "image/png",
+            "width": 2048,
+            "height": 2048,
+            "byteSize": 1319410,
+            "gpuByteSize": 22369620,
+            "compression": "",
+            "slots": [
+              "baseColorTexture"
+            ],
+            "embedded": false
+          },
+          {
+            "name": "T_Superhero_Female_Roughness",
+            "uri": "T_Superhero_Female_Roughness.png",
+            "mimeType": "image/png",
+            "width": 2048,
+            "height": 2048,
+            "byteSize": 3277022,
+            "gpuByteSize": 22369620,
+            "compression": "",
+            "slots": [
+              "metallicRoughnessTexture"
+            ],
+            "embedded": false
+          }
+        ],
+        "animations": [],
+        "skins": [
+          {
+            "name": "Armature",
+            "jointCount": 65,
+            "skeletonRoot": null,
+            "hasInverseBindMatrices": true
+          }
+        ],
+        "meshes": [
+          {
+            "name": "Eyebrows",
+            "primitiveCount": 1,
+            "triangleCount": 1480,
+            "renderVertexCount": 4440,
+            "uploadVertexCount": 912,
+            "uploadNaiveVertexCount": 912,
+            "attributes": [
+              "COLOR_0",
+              "COLOR_1",
+              "JOINTS_0",
+              "NORMAL",
+              "POSITION",
+              "TEXCOORD_0",
+              "TEXCOORD_1",
+              "TEXCOORD_2",
+              "TEXCOORD_3",
+              "WEIGHTS_0"
+            ],
+            "materials": [
+              "MI_Hair_2"
+            ],
+            "modes": [
+              "4"
+            ],
+            "morphTargetCount": 0
+          },
+          {
+            "name": "Eyes",
+            "primitiveCount": 1,
+            "triangleCount": 768,
+            "renderVertexCount": 2304,
+            "uploadVertexCount": 556,
+            "uploadNaiveVertexCount": 556,
+            "attributes": [
+              "COLOR_0",
+              "COLOR_1",
+              "JOINTS_0",
+              "NORMAL",
+              "POSITION",
+              "TEXCOORD_0",
+              "TEXCOORD_1",
+              "TEXCOORD_2",
+              "TEXCOORD_3",
+              "WEIGHTS_0"
+            ],
+            "materials": [
+              "MI_Eyes"
+            ],
+            "modes": [
+              "4"
+            ],
+            "morphTargetCount": 0
+          },
+          {
+            "name": "Superhero_Female",
+            "primitiveCount": 1,
+            "triangleCount": 12812,
+            "renderVertexCount": 38436,
+            "uploadVertexCount": 7376,
+            "uploadNaiveVertexCount": 7376,
+            "attributes": [
+              "COLOR_0",
+              "COLOR_1",
+              "COLOR_2",
+              "JOINTS_0",
+              "NORMAL",
+              "POSITION",
+              "TEXCOORD_0",
+              "TEXCOORD_1",
+              "TEXCOORD_2",
+              "TEXCOORD_3",
+              "TEXCOORD_4",
+              "WEIGHTS_0"
+            ],
+            "materials": [
+              "MI_Superhero_Female"
+            ],
+            "modes": [
+              "4"
+            ],
+            "morphTargetCount": 0
+          }
+        ],
+        "resources": [
+          {
+            "kind": "model",
+            "uri": "Superhero_Female_FullBody.gltf",
+            "relativePath": "Base Characters/Godot - UE/Superhero_Female_FullBody.gltf",
+            "bytes": 31652,
+            "sha256": "215f2af81ad91eecfcee807bad19b541704b800844d997286b78d5dbed7a3b5e",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-female-fullbody/quaternius-universal-base-characters-base-characters-godot-ue-superhero-female-fullbody.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-female-fullbody/quaternius-universal-base-characters-base-characters-godot-ue-superhero-female-fullbody.gltf"
+          },
+          {
+            "kind": "buffer",
+            "uri": "Superhero_Female_FullBody.bin",
+            "relativePath": "Base Characters/Godot - UE/Superhero_Female_FullBody.bin",
+            "bytes": 990808,
+            "sha256": "3a8220a485b33d05d879115a50697728b45a151781106033afb8b8c243fca208",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-female-fullbody/resources/Base-Characters-Godot-UE-Superhero_Female_FullBody.bin",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-female-fullbody/resources/Base-Characters-Godot-UE-Superhero_Female_FullBody.bin"
+          },
+          {
+            "kind": "image",
+            "uri": "T_Eye_Brown.png",
+            "relativePath": "Base Characters/Godot - UE/T_Eye_Brown.png",
+            "bytes": 35958,
+            "sha256": "d08e3356a83211bc6ca21fe3a8e39f4b5c1a3b8f85457fc2c0fb57be09935025",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-female-fullbody/resources/Base-Characters-Godot-UE-T_Eye_Brown.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-female-fullbody/resources/Base-Characters-Godot-UE-T_Eye_Brown.png"
+          },
+          {
+            "kind": "image",
+            "uri": "T_Eye_Normal.png",
+            "relativePath": "Base Characters/Godot - UE/T_Eye_Normal.png",
+            "bytes": 15099,
+            "sha256": "9ed61f7726a54fe346a78b9e5a18905d8e2b88f86235d97f53cd207a26f3f8c7",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-female-fullbody/resources/Base-Characters-Godot-UE-T_Eye_Normal.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-female-fullbody/resources/Base-Characters-Godot-UE-T_Eye_Normal.png"
+          },
+          {
+            "kind": "image",
+            "uri": "T_Hair_2_BaseColor.png",
+            "relativePath": "Base Characters/Godot - UE/T_Hair_2_BaseColor.png",
+            "bytes": 1729467,
+            "sha256": "f9f4f2fb3eeeefb0b6f0fdef38b0770fd6607640c1c680b8139dd76697e9f9b3",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-female-fullbody/resources/Base-Characters-Godot-UE-T_Hair_2_BaseColor.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-female-fullbody/resources/Base-Characters-Godot-UE-T_Hair_2_BaseColor.png"
+          },
+          {
+            "kind": "image",
+            "uri": "T_Hair_2_Normal.png",
+            "relativePath": "Base Characters/Godot - UE/T_Hair_2_Normal.png",
+            "bytes": 4710013,
+            "sha256": "172f230aae0d4366c3cfc0402b2e6d1811b11f8487344bff28605eeacac1558d",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-female-fullbody/resources/Base-Characters-Godot-UE-T_Hair_2_Normal.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-female-fullbody/resources/Base-Characters-Godot-UE-T_Hair_2_Normal.png"
+          },
+          {
+            "kind": "image",
+            "uri": "T_Superhero_Female_Dark_BaseColor.png",
+            "relativePath": "Base Characters/Godot - UE/T_Superhero_Female_Dark_BaseColor.png",
+            "bytes": 1319410,
+            "sha256": "d366843ee7d9e9f37ec87a0e1c98c7f2e45573c08eeb80a51a6d9344e68cf288",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-female-fullbody/resources/Base-Characters-Godot-UE-T_Superhero_Female_Dark_BaseColor.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-female-fullbody/resources/Base-Characters-Godot-UE-T_Superhero_Female_Dark_BaseColor.png"
+          },
+          {
+            "kind": "image",
+            "uri": "T_Superhero_Female_Normal.png",
+            "relativePath": "Base Characters/Godot - UE/T_Superhero_Female_Normal.png",
+            "bytes": 3940537,
+            "sha256": "cf922460b43ccd31e983e34db05514c9d451dd2f9cdd01a843978e797719f859",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-female-fullbody/resources/Base-Characters-Godot-UE-T_Superhero_Female_Normal.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-female-fullbody/resources/Base-Characters-Godot-UE-T_Superhero_Female_Normal.png"
+          },
+          {
+            "kind": "image",
+            "uri": "T_Superhero_Female_Roughness.png",
+            "relativePath": "Base Characters/Godot - UE/T_Superhero_Female_Roughness.png",
+            "bytes": 3277022,
+            "sha256": "d2beabf2bd0313e32c68dcdbb80dca371a6e994fabf96efa97128bf9f14fa57b",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-female-fullbody/resources/Base-Characters-Godot-UE-T_Superhero_Female_Roughness.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-female-fullbody/resources/Base-Characters-Godot-UE-T_Superhero_Female_Roughness.png"
+          }
+        ],
+        "source": {
+          "inputRoot": "/Users/me/dev/open-assets/packs/Universal Base Characters[Standard]",
+          "absolutePath": "/Users/me/dev/open-assets/packs/Universal Base Characters[Standard]/Base Characters/Godot - UE/Superhero_Female_FullBody.gltf"
+        },
+        "metadata": {
+          "assetVersion": "2.0",
+          "generator": "glTF-Transform v4.3.0",
+          "copyright": null,
+          "extensions": {
+            "used": [],
+            "required": []
+          }
+        },
+        "search": {
+          "tags": [
+            "quaternius",
+            "universal-base",
+            "base-character",
+            "humanoid",
+            "modular-character",
+            "retargetable",
+            "humanoid-rig",
+            "animation-ready",
+            "toon-proportioned",
+            "customizable",
+            "superhero",
+            "hairstyle",
+            "standard",
+            "character",
+            "body",
+            "base-body",
+            "rigged-character",
+            "female",
+            "woman",
+            "avatar"
+          ],
+          "aliases": [
+            "avatar base",
+            "base body"
+          ],
+          "tokens": [
+            "animation",
+            "avatar",
+            "base",
+            "bodies",
+            "body",
+            "character",
+            "characters",
+            "creator",
+            "customizable",
+            "eyebrows",
+            "female",
+            "full",
+            "godot",
+            "hairstyle",
+            "hairstyles",
+            "humanoid",
+            "male",
+            "modular",
+            "proportioned",
+            "quaternius",
+            "ready",
+            "retargetable",
+            "rig",
+            "rigged",
+            "standard",
+            "superhero",
+            "toon",
+            "ue",
+            "universal",
+            "woman"
+          ]
+        },
+        "warnings": [],
+        "errors": [],
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-female-fullbody.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8376,
+          "sha256": "f960c6eac6047f531242082f38ccc999f145d87711682627c8dea194983890b7",
+          "transparent": true,
+          "sourceBundleSha256": "22c388244b57756a9b05df78569ea0414837d84481431e2d3afe232f7766594c",
+          "cacheKey": "4ffc8412155c9a3aa96538b4102ea7d2f645fba4acc608ce2c735a4b5a2e4320",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.800076,
+            "pan": [
+              0.064106,
+              0.033367,
+              -0.08813
+            ],
+            "alphaBounds": {
+              "x": 119,
+              "y": 74,
+              "width": 274,
+              "height": 364,
+              "fill": 0.710938,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-female-fullbody.webp",
+          "packRelativePath": "previews/quaternius-universal-base-characters-base-characters-godot-ue-superhero-female-fullbody.webp"
+        },
+        "packId": "quaternius-universal-base-characters",
+        "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-female-fullbody/quaternius-universal-base-characters-base-characters-godot-ue-superhero-female-fullbody.gltf",
+        "releaseUrl": null
+      }
+    },
+    "quaternius-universal-base-characters-base-characters-godot-ue-superhero-male-fullbody": {
+      "generatedAt": "2026-04-24T19:24:02.157Z",
+      "asset": {
+        "id": "quaternius-universal-base-characters-base-characters-godot-ue-superhero-male-fullbody",
+        "name": "Superhero Male Full Body",
+        "description": "Universal male humanoid base body (Superhero Male Full Body).",
+        "kind": "model",
+        "format": "gltf",
+        "relativePath": "Base Characters/Godot - UE/Superhero_Male_FullBody.gltf",
+        "fileName": "Superhero_Male_FullBody.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-male-fullbody/quaternius-universal-base-characters-base-characters-godot-ue-superhero-male-fullbody.gltf",
+        "file": {
+          "primaryBytes": 30981,
+          "totalBytes": 15487982,
+          "primarySha256": "e2a68c400eedbaed172fc0f2de8e665df66ceccab27fcbcf2152682322405ce4",
+          "bundleSha256": "9e1da3b5c8e4f0057d7031ea8a75e8d827955bcb49d5f29baa985abd02c7cff4",
+          "resourceCount": 9
+        },
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.929433,
+              -0.00951,
+              -0.163451
+            ],
+            "max": [
+              0.929433,
+              1.810077,
+              0.128038
+            ],
+            "size": [
+              1.858865,
+              1.819586,
+              0.291488
+            ],
+            "center": [
+              0,
+              0.900284,
+              -0.017707
+            ],
+            "diagonal": 2.617487
+          },
+          "triangleCount": 14318,
+          "drawCallCount": 3,
+          "renderVertexCount": 42954,
+          "uploadVertexCount": 8483,
+          "uploadNaiveVertexCount": 8483,
+          "meshCount": 3,
+          "primitiveCount": 3,
+          "morphTargetCount": 0
+        },
+        "structure": {
+          "sceneCount": 1,
+          "defaultScene": "Scene",
+          "nodeCount": 69,
+          "materialCount": 3,
+          "textureCount": 7,
+          "skinCount": 1,
+          "animationCount": 0,
+          "meshInstanceCount": 3
+        },
+        "sceneNames": [
+          "Scene"
+        ],
+        "materials": [
+          {
+            "name": "MI_Hair_1",
+            "alphaMode": "OPAQUE",
+            "doubleSided": true,
+            "textureSlots": [
+              "baseColorTexture",
+              "normalTexture"
+            ],
+            "instances": 1
+          },
+          {
+            "name": "MI_Eyes",
+            "alphaMode": "OPAQUE",
+            "doubleSided": true,
+            "textureSlots": [
+              "baseColorTexture",
+              "normalTexture"
+            ],
+            "instances": 1
+          },
+          {
+            "name": "MI_Superhero_Male",
+            "alphaMode": "OPAQUE",
+            "doubleSided": true,
+            "textureSlots": [
+              "baseColorTexture",
+              "normalTexture",
+              "metallicRoughnessTexture"
+            ],
+            "instances": 1
+          }
+        ],
+        "textures": [
+          {
+            "name": "T_Hair_1_Normal.png",
+            "uri": "T_Hair_1_Normal.png",
+            "mimeType": "image/png",
+            "width": 2048,
+            "height": 2048,
+            "byteSize": 4326126,
+            "gpuByteSize": 22369620,
+            "compression": "",
+            "slots": [
+              "normalTexture"
+            ],
+            "embedded": false
+          },
+          {
+            "name": "T_Hair_1_BaseColor",
+            "uri": "T_Hair_1_BaseColor.png",
+            "mimeType": "image/png",
+            "width": 2048,
+            "height": 2048,
+            "byteSize": 1570376,
+            "gpuByteSize": 22369620,
+            "compression": "",
+            "slots": [
+              "baseColorTexture"
+            ],
+            "embedded": false
+          },
+          {
+            "name": "T_Eye_Normal.png",
+            "uri": "T_Eye_Normal.png",
+            "mimeType": "image/png",
+            "width": 256,
+            "height": 256,
+            "byteSize": 15099,
+            "gpuByteSize": 349524,
+            "compression": "",
+            "slots": [
+              "normalTexture"
+            ],
+            "embedded": false
+          },
+          {
+            "name": "T_Eye_Brown",
+            "uri": "T_Eye_Brown.png",
+            "mimeType": "image/png",
+            "width": 256,
+            "height": 256,
+            "byteSize": 35958,
+            "gpuByteSize": 349524,
+            "compression": "",
+            "slots": [
+              "baseColorTexture"
+            ],
+            "embedded": false
+          },
+          {
+            "name": "T_Superhero_Male_Normal",
+            "uri": "T_Superhero_Male_Normal.png",
+            "mimeType": "image/png",
+            "width": 2048,
+            "height": 2048,
+            "byteSize": 4252937,
+            "gpuByteSize": 22369620,
+            "compression": "",
+            "slots": [
+              "normalTexture"
+            ],
+            "embedded": false
+          },
+          {
+            "name": "T_Superhero_Male_Dark",
+            "uri": "T_Superhero_Male_Dark.png",
+            "mimeType": "image/png",
+            "width": 2048,
+            "height": 2048,
+            "byteSize": 1384380,
+            "gpuByteSize": 22369620,
+            "compression": "",
+            "slots": [
+              "baseColorTexture"
+            ],
+            "embedded": false
+          },
+          {
+            "name": "T_Superhero_Male_Roughness",
+            "uri": "T_Superhero_Male_Roughness.png",
+            "mimeType": "image/png",
+            "width": 2048,
+            "height": 2048,
+            "byteSize": 3152049,
+            "gpuByteSize": 22369620,
+            "compression": "",
+            "slots": [
+              "metallicRoughnessTexture"
+            ],
+            "embedded": false
+          }
+        ],
+        "animations": [],
+        "skins": [
+          {
+            "name": "Armature",
+            "jointCount": 65,
+            "skeletonRoot": null,
+            "hasInverseBindMatrices": true
+          }
+        ],
+        "meshes": [
+          {
+            "name": "Face",
+            "primitiveCount": 1,
+            "triangleCount": 984,
+            "renderVertexCount": 2952,
+            "uploadVertexCount": 646,
+            "uploadNaiveVertexCount": 646,
+            "attributes": [
+              "COLOR_0",
+              "COLOR_1",
+              "JOINTS_0",
+              "NORMAL",
+              "POSITION",
+              "TEXCOORD_0",
+              "TEXCOORD_1",
+              "TEXCOORD_2",
+              "TEXCOORD_3",
+              "WEIGHTS_0"
+            ],
+            "materials": [
+              "MI_Hair_1"
+            ],
+            "modes": [
+              "4"
+            ],
+            "morphTargetCount": 0
+          },
+          {
+            "name": "Face.001",
+            "primitiveCount": 1,
+            "triangleCount": 768,
+            "renderVertexCount": 2304,
+            "uploadVertexCount": 556,
+            "uploadNaiveVertexCount": 556,
+            "attributes": [
+              "COLOR_0",
+              "COLOR_1",
+              "JOINTS_0",
+              "NORMAL",
+              "POSITION",
+              "TEXCOORD_0",
+              "TEXCOORD_1",
+              "TEXCOORD_2",
+              "TEXCOORD_3",
+              "WEIGHTS_0"
+            ],
+            "materials": [
+              "MI_Eyes"
+            ],
+            "modes": [
+              "4"
+            ],
+            "morphTargetCount": 0
+          },
+          {
+            "name": "Sphere.005_Retopology.004",
+            "primitiveCount": 1,
+            "triangleCount": 12566,
+            "renderVertexCount": 37698,
+            "uploadVertexCount": 7281,
+            "uploadNaiveVertexCount": 7281,
+            "attributes": [
+              "COLOR_0",
+              "COLOR_1",
+              "JOINTS_0",
+              "NORMAL",
+              "POSITION",
+              "TEXCOORD_0",
+              "TEXCOORD_1",
+              "WEIGHTS_0"
+            ],
+            "materials": [
+              "MI_Superhero_Male"
+            ],
+            "modes": [
+              "4"
+            ],
+            "morphTargetCount": 0
+          }
+        ],
+        "resources": [
+          {
+            "kind": "model",
+            "uri": "Superhero_Male_FullBody.gltf",
+            "relativePath": "Base Characters/Godot - UE/Superhero_Male_FullBody.gltf",
+            "bytes": 30981,
+            "sha256": "e2a68c400eedbaed172fc0f2de8e665df66ceccab27fcbcf2152682322405ce4",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-male-fullbody/quaternius-universal-base-characters-base-characters-godot-ue-superhero-male-fullbody.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-male-fullbody/quaternius-universal-base-characters-base-characters-godot-ue-superhero-male-fullbody.gltf"
+          },
+          {
+            "kind": "buffer",
+            "uri": "Superhero_Male_FullBody.bin",
+            "relativePath": "Base Characters/Godot - UE/Superhero_Male_FullBody.bin",
+            "bytes": 720076,
+            "sha256": "459003f9745853ae562a85506a2b94dd56515c1f37728f9fa3d2ce1a3e4cd92f",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-male-fullbody/resources/Base-Characters-Godot-UE-Superhero_Male_FullBody.bin",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-male-fullbody/resources/Base-Characters-Godot-UE-Superhero_Male_FullBody.bin"
+          },
+          {
+            "kind": "image",
+            "uri": "T_Eye_Brown.png",
+            "relativePath": "Base Characters/Godot - UE/T_Eye_Brown.png",
+            "bytes": 35958,
+            "sha256": "d08e3356a83211bc6ca21fe3a8e39f4b5c1a3b8f85457fc2c0fb57be09935025",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-male-fullbody/resources/Base-Characters-Godot-UE-T_Eye_Brown.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-male-fullbody/resources/Base-Characters-Godot-UE-T_Eye_Brown.png"
+          },
+          {
+            "kind": "image",
+            "uri": "T_Eye_Normal.png",
+            "relativePath": "Base Characters/Godot - UE/T_Eye_Normal.png",
+            "bytes": 15099,
+            "sha256": "9ed61f7726a54fe346a78b9e5a18905d8e2b88f86235d97f53cd207a26f3f8c7",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-male-fullbody/resources/Base-Characters-Godot-UE-T_Eye_Normal.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-male-fullbody/resources/Base-Characters-Godot-UE-T_Eye_Normal.png"
+          },
+          {
+            "kind": "image",
+            "uri": "T_Hair_1_BaseColor.png",
+            "relativePath": "Base Characters/Godot - UE/T_Hair_1_BaseColor.png",
+            "bytes": 1570376,
+            "sha256": "bc7aa863bd22ab0a995cd838cceb4d3a5186ee54ee2fb0108fad85d20c057e6e",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-male-fullbody/resources/Base-Characters-Godot-UE-T_Hair_1_BaseColor.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-male-fullbody/resources/Base-Characters-Godot-UE-T_Hair_1_BaseColor.png"
+          },
+          {
+            "kind": "image",
+            "uri": "T_Hair_1_Normal.png",
+            "relativePath": "Base Characters/Godot - UE/T_Hair_1_Normal.png",
+            "bytes": 4326126,
+            "sha256": "57fd0ad8c96a4d01b38769637e066cecaa285b456f6e48ce00863754a457affb",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-male-fullbody/resources/Base-Characters-Godot-UE-T_Hair_1_Normal.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-male-fullbody/resources/Base-Characters-Godot-UE-T_Hair_1_Normal.png"
+          },
+          {
+            "kind": "image",
+            "uri": "T_Superhero_Male_Dark.png",
+            "relativePath": "Base Characters/Godot - UE/T_Superhero_Male_Dark.png",
+            "bytes": 1384380,
+            "sha256": "df680cbc1967a61e85998bfafb8f7bc0a36dd604bb3266486c4b06b1a184bb45",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-male-fullbody/resources/Base-Characters-Godot-UE-T_Superhero_Male_Dark.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-male-fullbody/resources/Base-Characters-Godot-UE-T_Superhero_Male_Dark.png"
+          },
+          {
+            "kind": "image",
+            "uri": "T_Superhero_Male_Normal.png",
+            "relativePath": "Base Characters/Godot - UE/T_Superhero_Male_Normal.png",
+            "bytes": 4252937,
+            "sha256": "9b25cf9200216eb754b79cf4c63b5380c419780788322f3c57cdd2b3e02679a6",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-male-fullbody/resources/Base-Characters-Godot-UE-T_Superhero_Male_Normal.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-male-fullbody/resources/Base-Characters-Godot-UE-T_Superhero_Male_Normal.png"
+          },
+          {
+            "kind": "image",
+            "uri": "T_Superhero_Male_Roughness.png",
+            "relativePath": "Base Characters/Godot - UE/T_Superhero_Male_Roughness.png",
+            "bytes": 3152049,
+            "sha256": "c70dabf48574cda55644d556beae1ee7cf1bdcf68a50d259d20f2f2358f27991",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-male-fullbody/resources/Base-Characters-Godot-UE-T_Superhero_Male_Roughness.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-male-fullbody/resources/Base-Characters-Godot-UE-T_Superhero_Male_Roughness.png"
+          }
+        ],
+        "source": {
+          "inputRoot": "/Users/me/dev/open-assets/packs/Universal Base Characters[Standard]",
+          "absolutePath": "/Users/me/dev/open-assets/packs/Universal Base Characters[Standard]/Base Characters/Godot - UE/Superhero_Male_FullBody.gltf"
+        },
+        "metadata": {
+          "assetVersion": "2.0",
+          "generator": "glTF-Transform v4.3.0",
+          "copyright": null,
+          "extensions": {
+            "used": [],
+            "required": []
+          }
+        },
+        "search": {
+          "tags": [
+            "quaternius",
+            "universal-base",
+            "base-character",
+            "humanoid",
+            "modular-character",
+            "retargetable",
+            "humanoid-rig",
+            "animation-ready",
+            "toon-proportioned",
+            "customizable",
+            "superhero",
+            "hairstyle",
+            "standard",
+            "character",
+            "body",
+            "base-body",
+            "rigged-character",
+            "male",
+            "man",
+            "avatar"
+          ],
+          "aliases": [
+            "avatar base",
+            "base body"
+          ],
+          "tokens": [
+            "animation",
+            "avatar",
+            "base",
+            "bodies",
+            "body",
+            "character",
+            "characters",
+            "creator",
+            "customizable",
+            "eyebrows",
+            "female",
+            "full",
+            "godot",
+            "hairstyle",
+            "hairstyles",
+            "humanoid",
+            "male",
+            "man",
+            "modular",
+            "proportioned",
+            "quaternius",
+            "ready",
+            "retargetable",
+            "rig",
+            "rigged",
+            "standard",
+            "superhero",
+            "toon",
+            "ue",
+            "universal"
+          ]
+        },
+        "warnings": [],
+        "errors": [],
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-male-fullbody.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8004,
+          "sha256": "6b19c780f7e387b0dca484a391aa76d7872eaf5d7faea9e357d30cea86eb7aad",
+          "transparent": true,
+          "sourceBundleSha256": "9e1da3b5c8e4f0057d7031ea8a75e8d827955bcb49d5f29baa985abd02c7cff4",
+          "cacheKey": "1367e51d19918e621c6bd95a047f6dac9d512026ed10f6ec11f337ba4fc6a561",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.979507,
+            "pan": [
+              0.076423,
+              0.028391,
+              -0.096864
+            ],
+            "alphaBounds": {
+              "x": 110,
+              "y": 78,
+              "width": 292,
+              "height": 357,
+              "fill": 0.697266,
+              "centerOffset": {
+                "x": 0,
+                "y": 0.5,
+                "length": 0.5
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-male-fullbody.webp",
+          "packRelativePath": "previews/quaternius-universal-base-characters-base-characters-godot-ue-superhero-male-fullbody.webp"
+        },
+        "packId": "quaternius-universal-base-characters",
+        "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-base-characters-godot-ue-superhero-male-fullbody/quaternius-universal-base-characters-base-characters-godot-ue-superhero-male-fullbody.gltf",
+        "releaseUrl": null
+      }
+    },
+    "quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-eyebrows-female": {
+      "generatedAt": "2026-04-24T19:24:02.157Z",
+      "asset": {
+        "id": "quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-eyebrows-female",
+        "name": "Eyebrows Female",
+        "description": "Head-rigged eyebrow accessory (Eyebrows Female).",
+        "kind": "model",
+        "format": "gltf",
+        "relativePath": "Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Eyebrows_Female.gltf",
+        "fileName": "Eyebrows_Female.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-eyebrows-female/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-eyebrows-female.gltf",
+        "file": {
+          "primaryBytes": 25053,
+          "totalBytes": 6565125,
+          "primarySha256": "ec294eb3dbe1b2027090e336255fa34ade5f2182c8964530404f3af7ad45939e",
+          "bundleSha256": "5752a642e8a2ca80e04f88eed0d2a5ca85fee2b67684cba65b2607a6470a4897",
+          "resourceCount": 4
+        },
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.062999,
+              1.649289,
+              0.051284
+            ],
+            "max": [
+              0.062999,
+              1.686901,
+              0.091571
+            ],
+            "size": [
+              0.125998,
+              0.037612,
+              0.040286
+            ],
+            "center": [
+              0,
+              1.668095,
+              0.071427
+            ],
+            "diagonal": 0.137525
+          },
+          "triangleCount": 1480,
+          "drawCallCount": 1,
+          "renderVertexCount": 4440,
+          "uploadVertexCount": 912,
+          "uploadNaiveVertexCount": 912,
+          "meshCount": 1,
+          "primitiveCount": 1,
+          "morphTargetCount": 0
+        },
+        "structure": {
+          "sceneCount": 1,
+          "defaultScene": "Scene",
+          "nodeCount": 67,
+          "materialCount": 1,
+          "textureCount": 2,
+          "skinCount": 1,
+          "animationCount": 0,
+          "meshInstanceCount": 1
+        },
+        "sceneNames": [
+          "Scene"
+        ],
+        "materials": [
+          {
+            "name": "MI_Hair_2",
+            "alphaMode": "OPAQUE",
+            "doubleSided": true,
+            "textureSlots": [
+              "baseColorTexture",
+              "normalTexture"
+            ],
+            "instances": 1
+          }
+        ],
+        "textures": [
+          {
+            "name": "T_Hair_2_Normal",
+            "uri": "T_Hair_2_Normal.png",
+            "mimeType": "image/png",
+            "width": 2048,
+            "height": 2048,
+            "byteSize": 4710013,
+            "gpuByteSize": 22369620,
+            "compression": "",
+            "slots": [
+              "normalTexture"
+            ],
+            "embedded": false
+          },
+          {
+            "name": "T_Hair_2_BaseColor",
+            "uri": "T_Hair_2_BaseColor.png",
+            "mimeType": "image/png",
+            "width": 2048,
+            "height": 2048,
+            "byteSize": 1729467,
+            "gpuByteSize": 22369620,
+            "compression": "",
+            "slots": [
+              "baseColorTexture"
+            ],
+            "embedded": false
+          }
+        ],
+        "animations": [],
+        "skins": [
+          {
+            "name": "Armature",
+            "jointCount": 65,
+            "skeletonRoot": null,
+            "hasInverseBindMatrices": true
+          }
+        ],
+        "meshes": [
+          {
+            "name": "Eyebrows_Female",
+            "primitiveCount": 1,
+            "triangleCount": 1480,
+            "renderVertexCount": 4440,
+            "uploadVertexCount": 912,
+            "uploadNaiveVertexCount": 912,
+            "attributes": [
+              "COLOR_0",
+              "COLOR_1",
+              "COLOR_2",
+              "JOINTS_0",
+              "NORMAL",
+              "POSITION",
+              "TEXCOORD_0",
+              "TEXCOORD_1",
+              "TEXCOORD_2",
+              "TEXCOORD_3",
+              "WEIGHTS_0"
+            ],
+            "materials": [
+              "MI_Hair_2"
+            ],
+            "modes": [
+              "4"
+            ],
+            "morphTargetCount": 0
+          }
+        ],
+        "resources": [
+          {
+            "kind": "model",
+            "uri": "Eyebrows_Female.gltf",
+            "relativePath": "Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Eyebrows_Female.gltf",
+            "bytes": 25053,
+            "sha256": "ec294eb3dbe1b2027090e336255fa34ade5f2182c8964530404f3af7ad45939e",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-eyebrows-female/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-eyebrows-female.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-eyebrows-female/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-eyebrows-female.gltf"
+          },
+          {
+            "kind": "buffer",
+            "uri": "Eyebrows_Female.bin",
+            "relativePath": "Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Eyebrows_Female.bin",
+            "bytes": 100592,
+            "sha256": "7a450832ca276c3d8299acaf78cd83c53b4290d79375c85266286ef617932e46",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-eyebrows-female/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-Eyebrows_Female.bin",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-eyebrows-female/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-Eyebrows_Female.bin"
+          },
+          {
+            "kind": "image",
+            "uri": "T_Hair_2_BaseColor.png",
+            "relativePath": "Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/T_Hair_2_BaseColor.png",
+            "bytes": 1729467,
+            "sha256": "f9f4f2fb3eeeefb0b6f0fdef38b0770fd6607640c1c680b8139dd76697e9f9b3",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-eyebrows-female/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-T_Hair_2_BaseColor.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-eyebrows-female/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-T_Hair_2_BaseColor.png"
+          },
+          {
+            "kind": "image",
+            "uri": "T_Hair_2_Normal.png",
+            "relativePath": "Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/T_Hair_2_Normal.png",
+            "bytes": 4710013,
+            "sha256": "172f230aae0d4366c3cfc0402b2e6d1811b11f8487344bff28605eeacac1558d",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-eyebrows-female/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-T_Hair_2_Normal.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-eyebrows-female/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-T_Hair_2_Normal.png"
+          }
+        ],
+        "source": {
+          "inputRoot": "/Users/me/dev/open-assets/packs/Universal Base Characters[Standard]",
+          "absolutePath": "/Users/me/dev/open-assets/packs/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Eyebrows_Female.gltf"
+        },
+        "metadata": {
+          "assetVersion": "2.0",
+          "generator": "glTF-Transform v4.3.0",
+          "copyright": null,
+          "extensions": {
+            "used": [],
+            "required": []
+          }
+        },
+        "search": {
+          "tags": [
+            "quaternius",
+            "universal-base",
+            "base-character",
+            "humanoid",
+            "modular-character",
+            "retargetable",
+            "humanoid-rig",
+            "animation-ready",
+            "toon-proportioned",
+            "customizable",
+            "superhero",
+            "hairstyle",
+            "standard",
+            "hair",
+            "head-rigged",
+            "character-part",
+            "modular-part",
+            "eyebrows",
+            "face",
+            "facial-hair"
+          ],
+          "aliases": [
+            "hair piece",
+            "head attachment"
+          ],
+          "tokens": [
+            "accessory",
+            "animation",
+            "attachment",
+            "base",
+            "bodies",
+            "bone",
+            "character",
+            "characters",
+            "creator",
+            "customizable",
+            "eyebrow",
+            "eyebrows",
+            "face",
+            "facial",
+            "female",
+            "gl",
+            "godot",
+            "hair",
+            "hairstyle",
+            "hairstyles",
+            "head",
+            "humanoid",
+            "male",
+            "modular",
+            "part",
+            "piece",
+            "proportioned",
+            "quaternius",
+            "ready",
+            "retargetable",
+            "rig",
+            "rigged",
+            "standard",
+            "superhero",
+            "tf",
+            "to",
+            "toon",
+            "universal",
+            "unreal"
+          ]
+        },
+        "warnings": [],
+        "errors": [],
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-eyebrows-female.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 5882,
+          "sha256": "a187564e16ad31cba3b5ff2a8029cdd2f2e455ec98033bd4892d10965bbb6798",
+          "transparent": true,
+          "sourceBundleSha256": "5752a642e8a2ca80e04f88eed0d2a5ca85fee2b67684cba65b2607a6470a4897",
+          "cacheKey": "14bc73c84d3c86cf7a48fd121cc6a0dfb5f2b2431609cf18a05c3d2385a2ec7f",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 0.219514,
+            "pan": [
+              0.012174,
+              -0.002472,
+              -0.010394
+            ],
+            "alphaBounds": {
+              "x": 75,
+              "y": 135,
+              "width": 361,
+              "height": 242,
+              "fill": 0.705078,
+              "centerOffset": {
+                "x": -0.5,
+                "y": 0,
+                "length": 0.5
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-eyebrows-female.webp",
+          "packRelativePath": "previews/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-eyebrows-female.webp"
+        },
+        "packId": "quaternius-universal-base-characters",
+        "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-eyebrows-female/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-eyebrows-female.gltf",
+        "releaseUrl": null
+      }
+    },
+    "quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-eyebrows-regular": {
+      "generatedAt": "2026-04-24T19:24:02.157Z",
+      "asset": {
+        "id": "quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-eyebrows-regular",
+        "name": "Eyebrows Regular",
+        "description": "Head-rigged eyebrow accessory (Eyebrows Regular).",
+        "kind": "model",
+        "format": "gltf",
+        "relativePath": "Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Eyebrows_Regular.gltf",
+        "fileName": "Eyebrows_Regular.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-eyebrows-regular/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-eyebrows-regular.gltf",
+        "file": {
+          "primaryBytes": 23117,
+          "totalBytes": 5963275,
+          "primarySha256": "ced6afcce12cc72a27e30fc06880401aff2b3fe883a01739299a5b49e5f7509e",
+          "bundleSha256": "dcbc13c7be3e08c4dca0283a4d92640ed27671801c596a8831a19e352eeb3dab",
+          "resourceCount": 4
+        },
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.062341,
+              1.69486,
+              0.056921
+            ],
+            "max": [
+              0.062341,
+              1.725467,
+              0.094477
+            ],
+            "size": [
+              0.124681,
+              0.030608,
+              0.037556
+            ],
+            "center": [
+              0,
+              1.710164,
+              0.075699
+            ],
+            "diagonal": 0.133764
+          },
+          "triangleCount": 984,
+          "drawCallCount": 1,
+          "renderVertexCount": 2952,
+          "uploadVertexCount": 646,
+          "uploadNaiveVertexCount": 646,
+          "meshCount": 1,
+          "primitiveCount": 1,
+          "morphTargetCount": 0
+        },
+        "structure": {
+          "sceneCount": 1,
+          "defaultScene": "Scene",
+          "nodeCount": 67,
+          "materialCount": 1,
+          "textureCount": 2,
+          "skinCount": 1,
+          "animationCount": 0,
+          "meshInstanceCount": 1
+        },
+        "sceneNames": [
+          "Scene"
+        ],
+        "materials": [
+          {
+            "name": "MI_Hair_1",
+            "alphaMode": "OPAQUE",
+            "doubleSided": true,
+            "textureSlots": [
+              "baseColorTexture",
+              "normalTexture"
+            ],
+            "instances": 1
+          }
+        ],
+        "textures": [
+          {
+            "name": "T_Hair_1_Normal",
+            "uri": "T_Hair_1_Normal.png",
+            "mimeType": "image/png",
+            "width": 2048,
+            "height": 2048,
+            "byteSize": 4326126,
+            "gpuByteSize": 22369620,
+            "compression": "",
+            "slots": [
+              "normalTexture"
+            ],
+            "embedded": false
+          },
+          {
+            "name": "T_Hair_1_BaseColor",
+            "uri": "T_Hair_1_BaseColor.png",
+            "mimeType": "image/png",
+            "width": 2048,
+            "height": 2048,
+            "byteSize": 1570376,
+            "gpuByteSize": 22369620,
+            "compression": "",
+            "slots": [
+              "baseColorTexture"
+            ],
+            "embedded": false
+          }
+        ],
+        "animations": [],
+        "skins": [
+          {
+            "name": "Armature",
+            "jointCount": 65,
+            "skeletonRoot": null,
+            "hasInverseBindMatrices": true
+          }
+        ],
+        "meshes": [
+          {
+            "name": "Cube.001",
+            "primitiveCount": 1,
+            "triangleCount": 984,
+            "renderVertexCount": 2952,
+            "uploadVertexCount": 646,
+            "uploadNaiveVertexCount": 646,
+            "attributes": [
+              "JOINTS_0",
+              "NORMAL",
+              "POSITION",
+              "TEXCOORD_0",
+              "WEIGHTS_0"
+            ],
+            "materials": [
+              "MI_Hair_1"
+            ],
+            "modes": [
+              "4"
+            ],
+            "morphTargetCount": 0
+          }
+        ],
+        "resources": [
+          {
+            "kind": "model",
+            "uri": "Eyebrows_Regular.gltf",
+            "relativePath": "Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Eyebrows_Regular.gltf",
+            "bytes": 23117,
+            "sha256": "ced6afcce12cc72a27e30fc06880401aff2b3fe883a01739299a5b49e5f7509e",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-eyebrows-regular/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-eyebrows-regular.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-eyebrows-regular/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-eyebrows-regular.gltf"
+          },
+          {
+            "kind": "buffer",
+            "uri": "Eyebrows_Regular.bin",
+            "relativePath": "Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Eyebrows_Regular.bin",
+            "bytes": 43656,
+            "sha256": "11b8092c27f17b329210d057eb69019d73130154b45a396b32801975099ffdf5",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-eyebrows-regular/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-Eyebrows_Regular.bin",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-eyebrows-regular/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-Eyebrows_Regular.bin"
+          },
+          {
+            "kind": "image",
+            "uri": "T_Hair_1_BaseColor.png",
+            "relativePath": "Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/T_Hair_1_BaseColor.png",
+            "bytes": 1570376,
+            "sha256": "bc7aa863bd22ab0a995cd838cceb4d3a5186ee54ee2fb0108fad85d20c057e6e",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-eyebrows-regular/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-T_Hair_1_BaseColor.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-eyebrows-regular/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-T_Hair_1_BaseColor.png"
+          },
+          {
+            "kind": "image",
+            "uri": "T_Hair_1_Normal.png",
+            "relativePath": "Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/T_Hair_1_Normal.png",
+            "bytes": 4326126,
+            "sha256": "57fd0ad8c96a4d01b38769637e066cecaa285b456f6e48ce00863754a457affb",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-eyebrows-regular/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-T_Hair_1_Normal.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-eyebrows-regular/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-T_Hair_1_Normal.png"
+          }
+        ],
+        "source": {
+          "inputRoot": "/Users/me/dev/open-assets/packs/Universal Base Characters[Standard]",
+          "absolutePath": "/Users/me/dev/open-assets/packs/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Eyebrows_Regular.gltf"
+        },
+        "metadata": {
+          "assetVersion": "2.0",
+          "generator": "glTF-Transform v4.3.0",
+          "copyright": null,
+          "extensions": {
+            "used": [],
+            "required": []
+          }
+        },
+        "search": {
+          "tags": [
+            "quaternius",
+            "universal-base",
+            "base-character",
+            "humanoid",
+            "modular-character",
+            "retargetable",
+            "humanoid-rig",
+            "animation-ready",
+            "toon-proportioned",
+            "customizable",
+            "superhero",
+            "hairstyle",
+            "standard",
+            "hair",
+            "head-rigged",
+            "character-part",
+            "modular-part",
+            "eyebrows",
+            "face",
+            "facial-hair"
+          ],
+          "aliases": [
+            "hair piece",
+            "head attachment"
+          ],
+          "tokens": [
+            "accessory",
+            "animation",
+            "attachment",
+            "base",
+            "bodies",
+            "bone",
+            "character",
+            "characters",
+            "creator",
+            "customizable",
+            "eyebrow",
+            "eyebrows",
+            "face",
+            "facial",
+            "female",
+            "gl",
+            "godot",
+            "hair",
+            "hairstyle",
+            "hairstyles",
+            "head",
+            "humanoid",
+            "male",
+            "modular",
+            "part",
+            "piece",
+            "proportioned",
+            "quaternius",
+            "ready",
+            "regular",
+            "retargetable",
+            "rig",
+            "rigged",
+            "standard",
+            "superhero",
+            "tf",
+            "to",
+            "toon",
+            "universal",
+            "unreal"
+          ]
+        },
+        "warnings": [],
+        "errors": [],
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-eyebrows-regular.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 5536,
+          "sha256": "773bb05055c20a95e8c6685d5a6da3bc19107fb22e46dc2ab8baece85c19fb41",
+          "transparent": true,
+          "sourceBundleSha256": "dcbc13c7be3e08c4dca0283a4d92640ed27671801c596a8831a19e352eeb3dab",
+          "cacheKey": "8f042c9000e65784e8a1131cd4a8e390e92ab97221d6ba0836c318d021675ac5",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 0.216497,
+            "pan": [
+              0.010498,
+              -0.000915,
+              -0.00984
+            ],
+            "alphaBounds": {
+              "x": 76,
+              "y": 152,
+              "width": 359,
+              "height": 208,
+              "fill": 0.701172,
+              "centerOffset": {
+                "x": -0.5,
+                "y": 0,
+                "length": 0.5
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-eyebrows-regular.webp",
+          "packRelativePath": "previews/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-eyebrows-regular.webp"
+        },
+        "packId": "quaternius-universal-base-characters",
+        "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-eyebrows-regular/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-eyebrows-regular.gltf",
+        "releaseUrl": null
+      }
+    },
+    "quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-beard": {
+      "generatedAt": "2026-04-24T19:24:02.157Z",
+      "asset": {
+        "id": "quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-beard",
+        "name": "Hair Beard",
+        "description": "Head-rigged beard accessory (Hair Beard).",
+        "kind": "model",
+        "format": "gltf",
+        "relativePath": "Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_Beard.gltf",
+        "fileName": "Hair_Beard.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-beard/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-beard.gltf",
+        "file": {
+          "primaryBytes": 23104,
+          "totalBytes": 5960962,
+          "primarySha256": "80013b9791ce12c65fbe693cf669b02ef5c38091c653bf13b9415d2d8380e0ce",
+          "bundleSha256": "9509fe1b2073bd5c1d2e7c6b211caeb6b6ae804d8dbfdd7db76332bb23c09bc4",
+          "resourceCount": 4
+        },
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.080753,
+              1.549536,
+              -0.008104
+            ],
+            "max": [
+              0.080753,
+              1.689352,
+              0.09683
+            ],
+            "size": [
+              0.161506,
+              0.139815,
+              0.104935
+            ],
+            "center": [
+              0,
+              1.619444,
+              0.044363
+            ],
+            "diagonal": 0.238
+          },
+          "triangleCount": 1034,
+          "drawCallCount": 1,
+          "renderVertexCount": 3102,
+          "uploadVertexCount": 596,
+          "uploadNaiveVertexCount": 596,
+          "meshCount": 1,
+          "primitiveCount": 1,
+          "morphTargetCount": 0
+        },
+        "structure": {
+          "sceneCount": 1,
+          "defaultScene": "Scene",
+          "nodeCount": 67,
+          "materialCount": 1,
+          "textureCount": 2,
+          "skinCount": 1,
+          "animationCount": 0,
+          "meshInstanceCount": 1
+        },
+        "sceneNames": [
+          "Scene"
+        ],
+        "materials": [
+          {
+            "name": "MI_Hair_1",
+            "alphaMode": "OPAQUE",
+            "doubleSided": true,
+            "textureSlots": [
+              "baseColorTexture",
+              "normalTexture"
+            ],
+            "instances": 1
+          }
+        ],
+        "textures": [
+          {
+            "name": "T_Hair_1_Normal",
+            "uri": "T_Hair_1_Normal.png",
+            "mimeType": "image/png",
+            "width": 2048,
+            "height": 2048,
+            "byteSize": 4326126,
+            "gpuByteSize": 22369620,
+            "compression": "",
+            "slots": [
+              "normalTexture"
+            ],
+            "embedded": false
+          },
+          {
+            "name": "T_Hair_1_BaseColor",
+            "uri": "T_Hair_1_BaseColor.png",
+            "mimeType": "image/png",
+            "width": 2048,
+            "height": 2048,
+            "byteSize": 1570376,
+            "gpuByteSize": 22369620,
+            "compression": "",
+            "slots": [
+              "baseColorTexture"
+            ],
+            "embedded": false
+          }
+        ],
+        "animations": [],
+        "skins": [
+          {
+            "name": "Armature",
+            "jointCount": 65,
+            "skeletonRoot": null,
+            "hasInverseBindMatrices": true
+          }
+        ],
+        "meshes": [
+          {
+            "name": "Plane.006",
+            "primitiveCount": 1,
+            "triangleCount": 1034,
+            "renderVertexCount": 3102,
+            "uploadVertexCount": 596,
+            "uploadNaiveVertexCount": 596,
+            "attributes": [
+              "JOINTS_0",
+              "NORMAL",
+              "POSITION",
+              "TEXCOORD_0",
+              "WEIGHTS_0"
+            ],
+            "materials": [
+              "MI_Hair_1"
+            ],
+            "modes": [
+              "4"
+            ],
+            "morphTargetCount": 0
+          }
+        ],
+        "resources": [
+          {
+            "kind": "model",
+            "uri": "Hair_Beard.gltf",
+            "relativePath": "Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_Beard.gltf",
+            "bytes": 23104,
+            "sha256": "80013b9791ce12c65fbe693cf669b02ef5c38091c653bf13b9415d2d8380e0ce",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-beard/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-beard.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-beard/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-beard.gltf"
+          },
+          {
+            "kind": "buffer",
+            "uri": "Hair_Beard.bin",
+            "relativePath": "Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_Beard.bin",
+            "bytes": 41356,
+            "sha256": "bf2f46ef5808665ef31082f787bc68c51ff063e81b76ca1a51ac86a9ae723be7",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-beard/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-Hair_Beard.bin",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-beard/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-Hair_Beard.bin"
+          },
+          {
+            "kind": "image",
+            "uri": "T_Hair_1_BaseColor.png",
+            "relativePath": "Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/T_Hair_1_BaseColor.png",
+            "bytes": 1570376,
+            "sha256": "bc7aa863bd22ab0a995cd838cceb4d3a5186ee54ee2fb0108fad85d20c057e6e",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-beard/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-T_Hair_1_BaseColor.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-beard/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-T_Hair_1_BaseColor.png"
+          },
+          {
+            "kind": "image",
+            "uri": "T_Hair_1_Normal.png",
+            "relativePath": "Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/T_Hair_1_Normal.png",
+            "bytes": 4326126,
+            "sha256": "57fd0ad8c96a4d01b38769637e066cecaa285b456f6e48ce00863754a457affb",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-beard/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-T_Hair_1_Normal.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-beard/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-T_Hair_1_Normal.png"
+          }
+        ],
+        "source": {
+          "inputRoot": "/Users/me/dev/open-assets/packs/Universal Base Characters[Standard]",
+          "absolutePath": "/Users/me/dev/open-assets/packs/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_Beard.gltf"
+        },
+        "metadata": {
+          "assetVersion": "2.0",
+          "generator": "glTF-Transform v4.3.0",
+          "copyright": null,
+          "extensions": {
+            "used": [],
+            "required": []
+          }
+        },
+        "search": {
+          "tags": [
+            "quaternius",
+            "universal-base",
+            "base-character",
+            "humanoid",
+            "modular-character",
+            "retargetable",
+            "humanoid-rig",
+            "animation-ready",
+            "toon-proportioned",
+            "customizable",
+            "superhero",
+            "hairstyle",
+            "standard",
+            "hair",
+            "head-rigged",
+            "character-part",
+            "modular-part",
+            "beard",
+            "facial-hair"
+          ],
+          "aliases": [
+            "hair piece",
+            "head attachment"
+          ],
+          "tokens": [
+            "accessory",
+            "animation",
+            "attachment",
+            "base",
+            "beard",
+            "bodies",
+            "bone",
+            "character",
+            "characters",
+            "creator",
+            "customizable",
+            "eyebrows",
+            "facial",
+            "female",
+            "gl",
+            "godot",
+            "hair",
+            "hairstyle",
+            "hairstyles",
+            "head",
+            "humanoid",
+            "male",
+            "modular",
+            "part",
+            "piece",
+            "proportioned",
+            "quaternius",
+            "ready",
+            "retargetable",
+            "rig",
+            "rigged",
+            "standard",
+            "superhero",
+            "tf",
+            "to",
+            "toon",
+            "universal",
+            "unreal"
+          ]
+        },
+        "warnings": [],
+        "errors": [],
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-beard.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8470,
+          "sha256": "829ea32995a814b9744dceada9d52654aea2fe139ea15fc466f6d81759c9f747",
+          "transparent": true,
+          "sourceBundleSha256": "9509fe1b2073bd5c1d2e7c6b211caeb6b6ae804d8dbfdd7db76332bb23c09bc4",
+          "cacheKey": "c7e08140b303e5f7fcb411dbf5deb36f645c3cb22223dfac8d1117eafe24161a",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 0.345757,
+            "pan": [
+              0.009901,
+              0.00721,
+              -0.015092
+            ],
+            "alphaBounds": {
+              "x": 89,
+              "y": 71,
+              "width": 336,
+              "height": 370,
+              "fill": 0.722656,
+              "centerOffset": {
+                "x": 1,
+                "y": 0,
+                "length": 1
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-beard.webp",
+          "packRelativePath": "previews/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-beard.webp"
+        },
+        "packId": "quaternius-universal-base-characters",
+        "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-beard/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-beard.gltf",
+        "releaseUrl": null
+      }
+    },
+    "quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buns": {
+      "generatedAt": "2026-04-24T19:24:02.157Z",
+      "asset": {
+        "id": "quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buns",
+        "name": "Hair Buns",
+        "description": "Head-rigged modular hairstyle (Hair Buns).",
+        "kind": "model",
+        "format": "gltf",
+        "relativePath": "Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_Buns.gltf",
+        "fileName": "Hair_Buns.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buns/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buns.gltf",
+        "file": {
+          "primaryBytes": 23807,
+          "totalBytes": 6669203,
+          "primarySha256": "cbdd6f509ec8f1021361b53da6fa1a077b95762ebc8bc2d8acae59bb0cb263c1",
+          "bundleSha256": "0ba556149874dfdc5ee302e7a4bc21abee6b7dd7b3ef252e4a7262a4ea7bad07",
+          "resourceCount": 4
+        },
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.150757,
+              1.530052,
+              -0.134095
+            ],
+            "max": [
+              0.150757,
+              1.779152,
+              0.10266
+            ],
+            "size": [
+              0.301514,
+              0.249099,
+              0.236755
+            ],
+            "center": [
+              0,
+              1.654602,
+              -0.015718
+            ],
+            "diagonal": 0.45718
+          },
+          "triangleCount": 3284,
+          "drawCallCount": 1,
+          "renderVertexCount": 9852,
+          "uploadVertexCount": 3501,
+          "uploadNaiveVertexCount": 3501,
+          "meshCount": 1,
+          "primitiveCount": 1,
+          "morphTargetCount": 0
+        },
+        "structure": {
+          "sceneCount": 1,
+          "defaultScene": "Scene",
+          "nodeCount": 67,
+          "materialCount": 1,
+          "textureCount": 2,
+          "skinCount": 1,
+          "animationCount": 0,
+          "meshInstanceCount": 1
+        },
+        "sceneNames": [
+          "Scene"
+        ],
+        "materials": [
+          {
+            "name": "MI_Hair_2",
+            "alphaMode": "OPAQUE",
+            "doubleSided": true,
+            "textureSlots": [
+              "baseColorTexture",
+              "normalTexture"
+            ],
+            "instances": 1
+          }
+        ],
+        "textures": [
+          {
+            "name": "T_Hair_2_Normal",
+            "uri": "T_Hair_2_Normal.png",
+            "mimeType": "image/png",
+            "width": 2048,
+            "height": 2048,
+            "byteSize": 4710013,
+            "gpuByteSize": 22369620,
+            "compression": "",
+            "slots": [
+              "normalTexture"
+            ],
+            "embedded": false
+          },
+          {
+            "name": "T_Hair_2_BaseColor",
+            "uri": "T_Hair_2_BaseColor.png",
+            "mimeType": "image/png",
+            "width": 2048,
+            "height": 2048,
+            "byteSize": 1729467,
+            "gpuByteSize": 22369620,
+            "compression": "",
+            "slots": [
+              "baseColorTexture"
+            ],
+            "embedded": false
+          }
+        ],
+        "animations": [],
+        "skins": [
+          {
+            "name": "Armature",
+            "jointCount": 65,
+            "skeletonRoot": null,
+            "hasInverseBindMatrices": true
+          }
+        ],
+        "meshes": [
+          {
+            "name": "Hair_Buns",
+            "primitiveCount": 1,
+            "triangleCount": 3284,
+            "renderVertexCount": 9852,
+            "uploadVertexCount": 3501,
+            "uploadNaiveVertexCount": 3501,
+            "attributes": [
+              "JOINTS_0",
+              "NORMAL",
+              "POSITION",
+              "TEXCOORD_0",
+              "WEIGHTS_0"
+            ],
+            "materials": [
+              "MI_Hair_2"
+            ],
+            "modes": [
+              "4"
+            ],
+            "morphTargetCount": 0
+          }
+        ],
+        "resources": [
+          {
+            "kind": "model",
+            "uri": "Hair_Buns.gltf",
+            "relativePath": "Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_Buns.gltf",
+            "bytes": 23807,
+            "sha256": "cbdd6f509ec8f1021361b53da6fa1a077b95762ebc8bc2d8acae59bb0cb263c1",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buns/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buns.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buns/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buns.gltf"
+          },
+          {
+            "kind": "buffer",
+            "uri": "Hair_Buns.bin",
+            "relativePath": "Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_Buns.bin",
+            "bytes": 205916,
+            "sha256": "811606cc84f0bfdefa2e6f1396f3d94c35138308a96d78a4f447b2e7dfc6ed6c",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buns/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-Hair_Buns.bin",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buns/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-Hair_Buns.bin"
+          },
+          {
+            "kind": "image",
+            "uri": "T_Hair_2_BaseColor.png",
+            "relativePath": "Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/T_Hair_2_BaseColor.png",
+            "bytes": 1729467,
+            "sha256": "f9f4f2fb3eeeefb0b6f0fdef38b0770fd6607640c1c680b8139dd76697e9f9b3",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buns/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-T_Hair_2_BaseColor.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buns/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-T_Hair_2_BaseColor.png"
+          },
+          {
+            "kind": "image",
+            "uri": "T_Hair_2_Normal.png",
+            "relativePath": "Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/T_Hair_2_Normal.png",
+            "bytes": 4710013,
+            "sha256": "172f230aae0d4366c3cfc0402b2e6d1811b11f8487344bff28605eeacac1558d",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buns/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-T_Hair_2_Normal.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buns/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-T_Hair_2_Normal.png"
+          }
+        ],
+        "source": {
+          "inputRoot": "/Users/me/dev/open-assets/packs/Universal Base Characters[Standard]",
+          "absolutePath": "/Users/me/dev/open-assets/packs/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_Buns.gltf"
+        },
+        "metadata": {
+          "assetVersion": "2.0",
+          "generator": "glTF-Transform v4.3.0",
+          "copyright": null,
+          "extensions": {
+            "used": [],
+            "required": []
+          }
+        },
+        "search": {
+          "tags": [
+            "quaternius",
+            "universal-base",
+            "base-character",
+            "humanoid",
+            "modular-character",
+            "retargetable",
+            "humanoid-rig",
+            "animation-ready",
+            "toon-proportioned",
+            "customizable",
+            "superhero",
+            "hairstyle",
+            "standard",
+            "hair",
+            "head-rigged",
+            "character-part",
+            "modular-part"
+          ],
+          "aliases": [
+            "hair piece",
+            "head attachment"
+          ],
+          "tokens": [
+            "animation",
+            "attachment",
+            "base",
+            "bodies",
+            "bone",
+            "buns",
+            "character",
+            "characters",
+            "creator",
+            "customizable",
+            "eyebrows",
+            "female",
+            "gl",
+            "godot",
+            "hair",
+            "hairstyle",
+            "hairstyles",
+            "head",
+            "humanoid",
+            "male",
+            "modular",
+            "part",
+            "piece",
+            "proportioned",
+            "quaternius",
+            "ready",
+            "retargetable",
+            "rig",
+            "rigged",
+            "standard",
+            "superhero",
+            "tf",
+            "to",
+            "toon",
+            "universal",
+            "unreal"
+          ]
+        },
+        "warnings": [],
+        "errors": [],
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buns.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 9344,
+          "sha256": "3d64f86f04847749f578b24190e82554e9608c21dea213d2003fb38592b69177",
+          "transparent": true,
+          "sourceBundleSha256": "0ba556149874dfdc5ee302e7a4bc21abee6b7dd7b3ef252e4a7262a4ea7bad07",
+          "cacheKey": "499b36513060d0180e0e8a236412a43990ef174ffb116e03b5fe555d02682251",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 0.645488,
+            "pan": [
+              0.025648,
+              -0.009564,
+              -0.018762
+            ],
+            "alphaBounds": {
+              "x": 68,
+              "y": 70,
+              "width": 377,
+              "height": 372,
+              "fill": 0.736328,
+              "centerOffset": {
+                "x": 0.5,
+                "y": 0,
+                "length": 0.5
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buns.webp",
+          "packRelativePath": "previews/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buns.webp"
+        },
+        "packId": "quaternius-universal-base-characters",
+        "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buns/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buns.gltf",
+        "releaseUrl": null
+      }
+    },
+    "quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buzzed": {
+      "generatedAt": "2026-04-24T19:24:02.157Z",
+      "asset": {
+        "id": "quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buzzed",
+        "name": "Hair Buzzed",
+        "description": "Head-rigged modular hairstyle (Hair Buzzed).",
+        "kind": "model",
+        "format": "gltf",
+        "relativePath": "Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_Buzzed.gltf",
+        "fileName": "Hair_Buzzed.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buzzed/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buzzed.gltf",
+        "file": {
+          "primaryBytes": 23108,
+          "totalBytes": 5952982,
+          "primarySha256": "6e709c691d4feccda9788df917bf9604e751f02da21cee2bc81bcc3d26b3b580",
+          "bundleSha256": "d51b822acf646797a9d08459d088a87433040bd0946d6b2ba3281b3fee94b7e9",
+          "resourceCount": 4
+        },
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.077295,
+              1.644149,
+              -0.108033
+            ],
+            "max": [
+              0.077295,
+              1.813513,
+              0.082891
+            ],
+            "size": [
+              0.15459,
+              0.169364,
+              0.190924
+            ],
+            "center": [
+              0,
+              1.728831,
+              -0.012571
+            ],
+            "diagonal": 0.298386
+          },
+          "triangleCount": 830,
+          "drawCallCount": 1,
+          "renderVertexCount": 2490,
+          "uploadVertexCount": 466,
+          "uploadNaiveVertexCount": 466,
+          "meshCount": 1,
+          "primitiveCount": 1,
+          "morphTargetCount": 0
+        },
+        "structure": {
+          "sceneCount": 1,
+          "defaultScene": "Scene",
+          "nodeCount": 67,
+          "materialCount": 1,
+          "textureCount": 2,
+          "skinCount": 1,
+          "animationCount": 0,
+          "meshInstanceCount": 1
+        },
+        "sceneNames": [
+          "Scene"
+        ],
+        "materials": [
+          {
+            "name": "MI_Hair_1",
+            "alphaMode": "OPAQUE",
+            "doubleSided": true,
+            "textureSlots": [
+              "baseColorTexture",
+              "normalTexture"
+            ],
+            "instances": 1
+          }
+        ],
+        "textures": [
+          {
+            "name": "T_Hair_1_Normal",
+            "uri": "T_Hair_1_Normal.png",
+            "mimeType": "image/png",
+            "width": 2048,
+            "height": 2048,
+            "byteSize": 4326126,
+            "gpuByteSize": 22369620,
+            "compression": "",
+            "slots": [
+              "normalTexture"
+            ],
+            "embedded": false
+          },
+          {
+            "name": "T_Hair_1_BaseColor",
+            "uri": "T_Hair_1_BaseColor.png",
+            "mimeType": "image/png",
+            "width": 2048,
+            "height": 2048,
+            "byteSize": 1570376,
+            "gpuByteSize": 22369620,
+            "compression": "",
+            "slots": [
+              "baseColorTexture"
+            ],
+            "embedded": false
+          }
+        ],
+        "animations": [],
+        "skins": [
+          {
+            "name": "Armature",
+            "jointCount": 65,
+            "skeletonRoot": null,
+            "hasInverseBindMatrices": true
+          }
+        ],
+        "meshes": [
+          {
+            "name": "Cylinder.002",
+            "primitiveCount": 1,
+            "triangleCount": 830,
+            "renderVertexCount": 2490,
+            "uploadVertexCount": 466,
+            "uploadNaiveVertexCount": 466,
+            "attributes": [
+              "JOINTS_0",
+              "NORMAL",
+              "POSITION",
+              "TEXCOORD_0",
+              "WEIGHTS_0"
+            ],
+            "materials": [
+              "MI_Hair_1"
+            ],
+            "modes": [
+              "4"
+            ],
+            "morphTargetCount": 0
+          }
+        ],
+        "resources": [
+          {
+            "kind": "model",
+            "uri": "Hair_Buzzed.gltf",
+            "relativePath": "Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_Buzzed.gltf",
+            "bytes": 23108,
+            "sha256": "6e709c691d4feccda9788df917bf9604e751f02da21cee2bc81bcc3d26b3b580",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buzzed/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buzzed.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buzzed/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buzzed.gltf"
+          },
+          {
+            "kind": "buffer",
+            "uri": "Hair_Buzzed.bin",
+            "relativePath": "Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_Buzzed.bin",
+            "bytes": 33372,
+            "sha256": "5d4b5452ff879ed1d516694be57d1106c070c7133e747a8c9432b01ebf20e908",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buzzed/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-Hair_Buzzed.bin",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buzzed/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-Hair_Buzzed.bin"
+          },
+          {
+            "kind": "image",
+            "uri": "T_Hair_1_BaseColor.png",
+            "relativePath": "Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/T_Hair_1_BaseColor.png",
+            "bytes": 1570376,
+            "sha256": "bc7aa863bd22ab0a995cd838cceb4d3a5186ee54ee2fb0108fad85d20c057e6e",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buzzed/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-T_Hair_1_BaseColor.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buzzed/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-T_Hair_1_BaseColor.png"
+          },
+          {
+            "kind": "image",
+            "uri": "T_Hair_1_Normal.png",
+            "relativePath": "Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/T_Hair_1_Normal.png",
+            "bytes": 4326126,
+            "sha256": "57fd0ad8c96a4d01b38769637e066cecaa285b456f6e48ce00863754a457affb",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buzzed/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-T_Hair_1_Normal.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buzzed/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-T_Hair_1_Normal.png"
+          }
+        ],
+        "source": {
+          "inputRoot": "/Users/me/dev/open-assets/packs/Universal Base Characters[Standard]",
+          "absolutePath": "/Users/me/dev/open-assets/packs/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_Buzzed.gltf"
+        },
+        "metadata": {
+          "assetVersion": "2.0",
+          "generator": "glTF-Transform v4.3.0",
+          "copyright": null,
+          "extensions": {
+            "used": [],
+            "required": []
+          }
+        },
+        "search": {
+          "tags": [
+            "quaternius",
+            "universal-base",
+            "base-character",
+            "humanoid",
+            "modular-character",
+            "retargetable",
+            "humanoid-rig",
+            "animation-ready",
+            "toon-proportioned",
+            "customizable",
+            "superhero",
+            "hairstyle",
+            "standard",
+            "hair",
+            "head-rigged",
+            "character-part",
+            "modular-part"
+          ],
+          "aliases": [
+            "hair piece",
+            "head attachment"
+          ],
+          "tokens": [
+            "animation",
+            "attachment",
+            "base",
+            "bodies",
+            "bone",
+            "buzzed",
+            "character",
+            "characters",
+            "creator",
+            "customizable",
+            "eyebrows",
+            "female",
+            "gl",
+            "godot",
+            "hair",
+            "hairstyle",
+            "hairstyles",
+            "head",
+            "humanoid",
+            "male",
+            "modular",
+            "part",
+            "piece",
+            "proportioned",
+            "quaternius",
+            "ready",
+            "retargetable",
+            "rig",
+            "rigged",
+            "standard",
+            "superhero",
+            "tf",
+            "to",
+            "toon",
+            "universal",
+            "unreal"
+          ]
+        },
+        "warnings": [],
+        "errors": [],
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buzzed.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 6994,
+          "sha256": "518f16137f9f1eb411cb7db60ac62766f6c77f2177ee647c98db59cd750af702",
+          "transparent": true,
+          "sourceBundleSha256": "d51b822acf646797a9d08459d088a87433040bd0946d6b2ba3281b3fee94b7e9",
+          "cacheKey": "dd8bbb3cc3dbfad3582ebb6225f4a8c8a9898dc9f0f986bb0b0222d5495576c7",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 0.408735,
+            "pan": [
+              -0.001051,
+              0.000449,
+              0.000728
+            ],
+            "alphaBounds": {
+              "x": 78,
+              "y": 82,
+              "width": 356,
+              "height": 347,
+              "fill": 0.695313,
+              "centerOffset": {
+                "x": 0,
+                "y": -0.5,
+                "length": 0.5
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buzzed.webp",
+          "packRelativePath": "previews/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buzzed.webp"
+        },
+        "packId": "quaternius-universal-base-characters",
+        "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buzzed/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buzzed.gltf",
+        "releaseUrl": null
+      }
+    },
+    "quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buzzedfemale": {
+      "generatedAt": "2026-04-24T19:24:02.157Z",
+      "asset": {
+        "id": "quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buzzedfemale",
+        "name": "Hair Buzzed Female",
+        "description": "Head-rigged modular hairstyle (Hair Buzzed Female).",
+        "kind": "model",
+        "format": "gltf",
+        "relativePath": "Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_BuzzedFemale.gltf",
+        "fileName": "Hair_BuzzedFemale.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buzzedfemale/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buzzedfemale.gltf",
+        "file": {
+          "primaryBytes": 23779,
+          "totalBytes": 5953653,
+          "primarySha256": "096a7a4ea5bcadc588f4c1e95f04b3461f8a20f3643a0308cfd23e81e180ab32",
+          "bundleSha256": "e5336a13115e356326a8042487563a15d2b92f1f16ca7ba2c87125924fe2735b",
+          "resourceCount": 4
+        },
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.079331,
+              1.600769,
+              -0.114736
+            ],
+            "max": [
+              0.079331,
+              1.770925,
+              0.082892
+            ],
+            "size": [
+              0.158662,
+              0.170156,
+              0.197629
+            ],
+            "center": [
+              0,
+              1.685847,
+              -0.015922
+            ],
+            "diagonal": 0.30526
+          },
+          "triangleCount": 830,
+          "drawCallCount": 1,
+          "renderVertexCount": 2490,
+          "uploadVertexCount": 466,
+          "uploadNaiveVertexCount": 466,
+          "meshCount": 1,
+          "primitiveCount": 1,
+          "morphTargetCount": 0
+        },
+        "structure": {
+          "sceneCount": 1,
+          "defaultScene": "Scene",
+          "nodeCount": 67,
+          "materialCount": 1,
+          "textureCount": 2,
+          "skinCount": 1,
+          "animationCount": 0,
+          "meshInstanceCount": 1
+        },
+        "sceneNames": [
+          "Scene"
+        ],
+        "materials": [
+          {
+            "name": "MI_Hair_1",
+            "alphaMode": "OPAQUE",
+            "doubleSided": true,
+            "textureSlots": [
+              "baseColorTexture",
+              "normalTexture"
+            ],
+            "instances": 1
+          }
+        ],
+        "textures": [
+          {
+            "name": "T_Hair_1_Normal",
+            "uri": "T_Hair_1_Normal.png",
+            "mimeType": "image/png",
+            "width": 2048,
+            "height": 2048,
+            "byteSize": 4326126,
+            "gpuByteSize": 22369620,
+            "compression": "",
+            "slots": [
+              "normalTexture"
+            ],
+            "embedded": false
+          },
+          {
+            "name": "T_Hair_1_BaseColor",
+            "uri": "T_Hair_1_BaseColor.png",
+            "mimeType": "image/png",
+            "width": 2048,
+            "height": 2048,
+            "byteSize": 1570376,
+            "gpuByteSize": 22369620,
+            "compression": "",
+            "slots": [
+              "baseColorTexture"
+            ],
+            "embedded": false
+          }
+        ],
+        "animations": [],
+        "skins": [
+          {
+            "name": "Armature",
+            "jointCount": 65,
+            "skeletonRoot": null,
+            "hasInverseBindMatrices": true
+          }
+        ],
+        "meshes": [
+          {
+            "name": "Hair_BuzzedFemale",
+            "primitiveCount": 1,
+            "triangleCount": 830,
+            "renderVertexCount": 2490,
+            "uploadVertexCount": 466,
+            "uploadNaiveVertexCount": 466,
+            "attributes": [
+              "JOINTS_0",
+              "NORMAL",
+              "POSITION",
+              "TEXCOORD_0",
+              "WEIGHTS_0"
+            ],
+            "materials": [
+              "MI_Hair_1"
+            ],
+            "modes": [
+              "4"
+            ],
+            "morphTargetCount": 0
+          }
+        ],
+        "resources": [
+          {
+            "kind": "model",
+            "uri": "Hair_BuzzedFemale.gltf",
+            "relativePath": "Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_BuzzedFemale.gltf",
+            "bytes": 23779,
+            "sha256": "096a7a4ea5bcadc588f4c1e95f04b3461f8a20f3643a0308cfd23e81e180ab32",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buzzedfemale/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buzzedfemale.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buzzedfemale/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buzzedfemale.gltf"
+          },
+          {
+            "kind": "buffer",
+            "uri": "Hair_BuzzedFemale.bin",
+            "relativePath": "Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_BuzzedFemale.bin",
+            "bytes": 33372,
+            "sha256": "48fcdac8751e85c1d08ac9ff25b5c4d649e5b5d450d37ad8743b9f111a3a7e04",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buzzedfemale/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-Hair_BuzzedFemale.bin",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buzzedfemale/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-Hair_BuzzedFemale.bin"
+          },
+          {
+            "kind": "image",
+            "uri": "T_Hair_1_BaseColor.png",
+            "relativePath": "Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/T_Hair_1_BaseColor.png",
+            "bytes": 1570376,
+            "sha256": "bc7aa863bd22ab0a995cd838cceb4d3a5186ee54ee2fb0108fad85d20c057e6e",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buzzedfemale/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-T_Hair_1_BaseColor.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buzzedfemale/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-T_Hair_1_BaseColor.png"
+          },
+          {
+            "kind": "image",
+            "uri": "T_Hair_1_Normal.png",
+            "relativePath": "Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/T_Hair_1_Normal.png",
+            "bytes": 4326126,
+            "sha256": "57fd0ad8c96a4d01b38769637e066cecaa285b456f6e48ce00863754a457affb",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buzzedfemale/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-T_Hair_1_Normal.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buzzedfemale/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-T_Hair_1_Normal.png"
+          }
+        ],
+        "source": {
+          "inputRoot": "/Users/me/dev/open-assets/packs/Universal Base Characters[Standard]",
+          "absolutePath": "/Users/me/dev/open-assets/packs/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_BuzzedFemale.gltf"
+        },
+        "metadata": {
+          "assetVersion": "2.0",
+          "generator": "glTF-Transform v4.3.0",
+          "copyright": null,
+          "extensions": {
+            "used": [],
+            "required": []
+          }
+        },
+        "search": {
+          "tags": [
+            "quaternius",
+            "universal-base",
+            "base-character",
+            "humanoid",
+            "modular-character",
+            "retargetable",
+            "humanoid-rig",
+            "animation-ready",
+            "toon-proportioned",
+            "customizable",
+            "superhero",
+            "hairstyle",
+            "standard",
+            "hair",
+            "head-rigged",
+            "character-part",
+            "modular-part"
+          ],
+          "aliases": [
+            "hair piece",
+            "head attachment"
+          ],
+          "tokens": [
+            "animation",
+            "attachment",
+            "base",
+            "bodies",
+            "bone",
+            "buzzed",
+            "character",
+            "characters",
+            "creator",
+            "customizable",
+            "eyebrows",
+            "female",
+            "gl",
+            "godot",
+            "hair",
+            "hairstyle",
+            "hairstyles",
+            "head",
+            "humanoid",
+            "male",
+            "modular",
+            "part",
+            "piece",
+            "proportioned",
+            "quaternius",
+            "ready",
+            "retargetable",
+            "rig",
+            "rigged",
+            "standard",
+            "superhero",
+            "tf",
+            "to",
+            "toon",
+            "universal",
+            "unreal"
+          ]
+        },
+        "warnings": [],
+        "errors": [],
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buzzedfemale.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 6856,
+          "sha256": "f71053b53c3983d576e4ec3fe65fe819cf7e147ede7cd819e2fada104d60d062",
+          "transparent": true,
+          "sourceBundleSha256": "e5336a13115e356326a8042487563a15d2b92f1f16ca7ba2c87125924fe2735b",
+          "cacheKey": "09ecea6e8eaaf9bdab25afdea4010adf9dcf5d4ac2a8ee21a4706d7164cf1a47",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 0.423089,
+            "pan": [
+              -0.001256,
+              0.000929,
+              0.000587
+            ],
+            "alphaBounds": {
+              "x": 79,
+              "y": 89,
+              "width": 354,
+              "height": 334,
+              "fill": 0.691406,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buzzedfemale.webp",
+          "packRelativePath": "previews/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buzzedfemale.webp"
+        },
+        "packId": "quaternius-universal-base-characters",
+        "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buzzedfemale/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-buzzedfemale.gltf",
+        "releaseUrl": null
+      }
+    },
+    "quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-long": {
+      "generatedAt": "2026-04-24T19:24:02.157Z",
+      "asset": {
+        "id": "quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-long",
+        "name": "Hair Long",
+        "description": "Head-rigged modular hairstyle (Hair Long).",
+        "kind": "model",
+        "format": "gltf",
+        "relativePath": "Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_Long.gltf",
+        "fileName": "Hair_Long.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-long/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-long.gltf",
+        "file": {
+          "primaryBytes": 23813,
+          "totalBytes": 6645049,
+          "primarySha256": "27e2c63e8f98c79fb600268ffcc92b36c621b8653b5a7dcbadb08328f3f887a9",
+          "bundleSha256": "366f5bdd5e52da2f09adaa40dd72f869c32ace43b5308f5db34a8f07170c8b17",
+          "resourceCount": 4
+        },
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.122355,
+              1.500869,
+              -0.161589
+            ],
+            "max": [
+              0.122355,
+              1.777229,
+              0.108856
+            ],
+            "size": [
+              0.244711,
+              0.27636,
+              0.270445
+            ],
+            "center": [
+              0,
+              1.639049,
+              -0.026367
+            ],
+            "diagonal": 0.457601
+          },
+          "triangleCount": 2906,
+          "drawCallCount": 1,
+          "renderVertexCount": 8718,
+          "uploadVertexCount": 3080,
+          "uploadNaiveVertexCount": 3080,
+          "meshCount": 1,
+          "primitiveCount": 1,
+          "morphTargetCount": 0
+        },
+        "structure": {
+          "sceneCount": 1,
+          "defaultScene": "Scene",
+          "nodeCount": 67,
+          "materialCount": 1,
+          "textureCount": 2,
+          "skinCount": 1,
+          "animationCount": 0,
+          "meshInstanceCount": 1
+        },
+        "sceneNames": [
+          "Scene"
+        ],
+        "materials": [
+          {
+            "name": "MI_Hair_2",
+            "alphaMode": "OPAQUE",
+            "doubleSided": true,
+            "textureSlots": [
+              "baseColorTexture",
+              "normalTexture"
+            ],
+            "instances": 1
+          }
+        ],
+        "textures": [
+          {
+            "name": "T_Hair_2_Normal",
+            "uri": "T_Hair_2_Normal.png",
+            "mimeType": "image/png",
+            "width": 2048,
+            "height": 2048,
+            "byteSize": 4710013,
+            "gpuByteSize": 22369620,
+            "compression": "",
+            "slots": [
+              "normalTexture"
+            ],
+            "embedded": false
+          },
+          {
+            "name": "T_Hair_2_BaseColor",
+            "uri": "T_Hair_2_BaseColor.png",
+            "mimeType": "image/png",
+            "width": 2048,
+            "height": 2048,
+            "byteSize": 1729467,
+            "gpuByteSize": 22369620,
+            "compression": "",
+            "slots": [
+              "baseColorTexture"
+            ],
+            "embedded": false
+          }
+        ],
+        "animations": [],
+        "skins": [
+          {
+            "name": "Armature",
+            "jointCount": 65,
+            "skeletonRoot": null,
+            "hasInverseBindMatrices": true
+          }
+        ],
+        "meshes": [
+          {
+            "name": "Hair_Long",
+            "primitiveCount": 1,
+            "triangleCount": 2906,
+            "renderVertexCount": 8718,
+            "uploadVertexCount": 3080,
+            "uploadNaiveVertexCount": 3080,
+            "attributes": [
+              "JOINTS_0",
+              "NORMAL",
+              "POSITION",
+              "TEXCOORD_0",
+              "WEIGHTS_0"
+            ],
+            "materials": [
+              "MI_Hair_2"
+            ],
+            "modes": [
+              "4"
+            ],
+            "morphTargetCount": 0
+          }
+        ],
+        "resources": [
+          {
+            "kind": "model",
+            "uri": "Hair_Long.gltf",
+            "relativePath": "Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_Long.gltf",
+            "bytes": 23813,
+            "sha256": "27e2c63e8f98c79fb600268ffcc92b36c621b8653b5a7dcbadb08328f3f887a9",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-long/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-long.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-long/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-long.gltf"
+          },
+          {
+            "kind": "buffer",
+            "uri": "Hair_Long.bin",
+            "relativePath": "Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_Long.bin",
+            "bytes": 181756,
+            "sha256": "268fd531d2c2ac321783d36fcf106d15c5c76e8923eec2c8704d5fe9de953589",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-long/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-Hair_Long.bin",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-long/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-Hair_Long.bin"
+          },
+          {
+            "kind": "image",
+            "uri": "T_Hair_2_BaseColor.png",
+            "relativePath": "Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/T_Hair_2_BaseColor.png",
+            "bytes": 1729467,
+            "sha256": "f9f4f2fb3eeeefb0b6f0fdef38b0770fd6607640c1c680b8139dd76697e9f9b3",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-long/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-T_Hair_2_BaseColor.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-long/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-T_Hair_2_BaseColor.png"
+          },
+          {
+            "kind": "image",
+            "uri": "T_Hair_2_Normal.png",
+            "relativePath": "Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/T_Hair_2_Normal.png",
+            "bytes": 4710013,
+            "sha256": "172f230aae0d4366c3cfc0402b2e6d1811b11f8487344bff28605eeacac1558d",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-long/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-T_Hair_2_Normal.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-long/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-T_Hair_2_Normal.png"
+          }
+        ],
+        "source": {
+          "inputRoot": "/Users/me/dev/open-assets/packs/Universal Base Characters[Standard]",
+          "absolutePath": "/Users/me/dev/open-assets/packs/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_Long.gltf"
+        },
+        "metadata": {
+          "assetVersion": "2.0",
+          "generator": "glTF-Transform v4.3.0",
+          "copyright": null,
+          "extensions": {
+            "used": [],
+            "required": []
+          }
+        },
+        "search": {
+          "tags": [
+            "quaternius",
+            "universal-base",
+            "base-character",
+            "humanoid",
+            "modular-character",
+            "retargetable",
+            "humanoid-rig",
+            "animation-ready",
+            "toon-proportioned",
+            "customizable",
+            "superhero",
+            "hairstyle",
+            "standard",
+            "hair",
+            "head-rigged",
+            "character-part",
+            "modular-part"
+          ],
+          "aliases": [
+            "hair piece",
+            "head attachment"
+          ],
+          "tokens": [
+            "animation",
+            "attachment",
+            "base",
+            "bodies",
+            "bone",
+            "character",
+            "characters",
+            "creator",
+            "customizable",
+            "eyebrows",
+            "female",
+            "gl",
+            "godot",
+            "hair",
+            "hairstyle",
+            "hairstyles",
+            "head",
+            "humanoid",
+            "long",
+            "male",
+            "modular",
+            "part",
+            "piece",
+            "proportioned",
+            "quaternius",
+            "ready",
+            "retargetable",
+            "rig",
+            "rigged",
+            "standard",
+            "superhero",
+            "tf",
+            "to",
+            "toon",
+            "universal",
+            "unreal"
+          ]
+        },
+        "warnings": [],
+        "errors": [],
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-long.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 10850,
+          "sha256": "d48fb94e97c314a973c785e7e2c785ed500d9ac418dbe205fded2f64aa7a1320",
+          "transparent": true,
+          "sourceBundleSha256": "366f5bdd5e52da2f09adaa40dd72f869c32ace43b5308f5db34a8f07170c8b17",
+          "cacheKey": "178da76ddf43cc0e7d05e5dcd74a7d9d99524c0b53df990a9b63647e28da5c90",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 0.635549,
+            "pan": [
+              -0.008154,
+              0.000625,
+              0.007704
+            ],
+            "alphaBounds": {
+              "x": 73,
+              "y": 77,
+              "width": 366,
+              "height": 358,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-long.webp",
+          "packRelativePath": "previews/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-long.webp"
+        },
+        "packId": "quaternius-universal-base-characters",
+        "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-long/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-long.gltf",
+        "releaseUrl": null
+      }
+    },
+    "quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-simpleparted": {
+      "generatedAt": "2026-04-24T19:24:02.157Z",
+      "asset": {
+        "id": "quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-simpleparted",
+        "name": "Hair Simple Parted",
+        "description": "Head-rigged modular hairstyle (Hair Simple Parted).",
+        "kind": "model",
+        "format": "gltf",
+        "relativePath": "Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_SimpleParted.gltf",
+        "fileName": "Hair_SimpleParted.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-simpleparted/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-simpleparted.gltf",
+        "file": {
+          "primaryBytes": 23114,
+          "totalBytes": 5970948,
+          "primarySha256": "fe0f354d7f95d83d38e15c60794dcc063fa4d60550706f3d7ba51491cdc07c56",
+          "bundleSha256": "9a7975b93e991b6c90253be3227ab7d1f154154a4a6ca6be03f1b6695212f76a",
+          "resourceCount": 4
+        },
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.085425,
+              1.66056,
+              -0.108153
+            ],
+            "max": [
+              0.089996,
+              1.839722,
+              0.078796
+            ],
+            "size": [
+              0.175421,
+              0.179162,
+              0.18695
+            ],
+            "center": [
+              0.002286,
+              1.750141,
+              -0.014679
+            ],
+            "diagonal": 0.312764
+          },
+          "triangleCount": 1301,
+          "drawCallCount": 1,
+          "renderVertexCount": 3903,
+          "uploadVertexCount": 757,
+          "uploadNaiveVertexCount": 757,
+          "meshCount": 1,
+          "primitiveCount": 1,
+          "morphTargetCount": 0
+        },
+        "structure": {
+          "sceneCount": 1,
+          "defaultScene": "Scene",
+          "nodeCount": 67,
+          "materialCount": 1,
+          "textureCount": 2,
+          "skinCount": 1,
+          "animationCount": 0,
+          "meshInstanceCount": 1
+        },
+        "sceneNames": [
+          "Scene"
+        ],
+        "materials": [
+          {
+            "name": "MI_Hair_1",
+            "alphaMode": "OPAQUE",
+            "doubleSided": true,
+            "textureSlots": [
+              "baseColorTexture",
+              "normalTexture"
+            ],
+            "instances": 1
+          }
+        ],
+        "textures": [
+          {
+            "name": "T_Hair_1_Normal",
+            "uri": "T_Hair_1_Normal.png",
+            "mimeType": "image/png",
+            "width": 2048,
+            "height": 2048,
+            "byteSize": 4326126,
+            "gpuByteSize": 22369620,
+            "compression": "",
+            "slots": [
+              "normalTexture"
+            ],
+            "embedded": false
+          },
+          {
+            "name": "T_Hair_1_BaseColor",
+            "uri": "T_Hair_1_BaseColor.png",
+            "mimeType": "image/png",
+            "width": 2048,
+            "height": 2048,
+            "byteSize": 1570376,
+            "gpuByteSize": 22369620,
+            "compression": "",
+            "slots": [
+              "baseColorTexture"
+            ],
+            "embedded": false
+          }
+        ],
+        "animations": [],
+        "skins": [
+          {
+            "name": "Armature",
+            "jointCount": 65,
+            "skeletonRoot": null,
+            "hasInverseBindMatrices": true
+          }
+        ],
+        "meshes": [
+          {
+            "name": "Plane.002",
+            "primitiveCount": 1,
+            "triangleCount": 1301,
+            "renderVertexCount": 3903,
+            "uploadVertexCount": 757,
+            "uploadNaiveVertexCount": 757,
+            "attributes": [
+              "JOINTS_0",
+              "NORMAL",
+              "POSITION",
+              "TEXCOORD_0",
+              "WEIGHTS_0"
+            ],
+            "materials": [
+              "MI_Hair_1"
+            ],
+            "modes": [
+              "4"
+            ],
+            "morphTargetCount": 0
+          }
+        ],
+        "resources": [
+          {
+            "kind": "model",
+            "uri": "Hair_SimpleParted.gltf",
+            "relativePath": "Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_SimpleParted.gltf",
+            "bytes": 23114,
+            "sha256": "fe0f354d7f95d83d38e15c60794dcc063fa4d60550706f3d7ba51491cdc07c56",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-simpleparted/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-simpleparted.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-simpleparted/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-simpleparted.gltf"
+          },
+          {
+            "kind": "buffer",
+            "uri": "Hair_SimpleParted.bin",
+            "relativePath": "Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_SimpleParted.bin",
+            "bytes": 51332,
+            "sha256": "ecd7c81959f3985d6254458a440daaaa18a8bfbb1dbe111c68a04a72374d54db",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-simpleparted/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-Hair_SimpleParted.bin",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-simpleparted/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-Hair_SimpleParted.bin"
+          },
+          {
+            "kind": "image",
+            "uri": "T_Hair_1_BaseColor.png",
+            "relativePath": "Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/T_Hair_1_BaseColor.png",
+            "bytes": 1570376,
+            "sha256": "bc7aa863bd22ab0a995cd838cceb4d3a5186ee54ee2fb0108fad85d20c057e6e",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-simpleparted/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-T_Hair_1_BaseColor.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-simpleparted/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-T_Hair_1_BaseColor.png"
+          },
+          {
+            "kind": "image",
+            "uri": "T_Hair_1_Normal.png",
+            "relativePath": "Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/T_Hair_1_Normal.png",
+            "bytes": 4326126,
+            "sha256": "57fd0ad8c96a4d01b38769637e066cecaa285b456f6e48ce00863754a457affb",
+            "remote": false,
+            "embedded": false,
+            "exists": true,
+            "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-simpleparted/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-T_Hair_1_Normal.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-simpleparted/resources/Hairstyles-Rigged-to-Head-Bone-glTF-Godot-Unreal-T_Hair_1_Normal.png"
+          }
+        ],
+        "source": {
+          "inputRoot": "/Users/me/dev/open-assets/packs/Universal Base Characters[Standard]",
+          "absolutePath": "/Users/me/dev/open-assets/packs/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/Hair_SimpleParted.gltf"
+        },
+        "metadata": {
+          "assetVersion": "2.0",
+          "generator": "glTF-Transform v4.3.0",
+          "copyright": null,
+          "extensions": {
+            "used": [],
+            "required": []
+          }
+        },
+        "search": {
+          "tags": [
+            "quaternius",
+            "universal-base",
+            "base-character",
+            "humanoid",
+            "modular-character",
+            "retargetable",
+            "humanoid-rig",
+            "animation-ready",
+            "toon-proportioned",
+            "customizable",
+            "superhero",
+            "hairstyle",
+            "standard",
+            "hair",
+            "head-rigged",
+            "character-part",
+            "modular-part"
+          ],
+          "aliases": [
+            "hair piece",
+            "head attachment"
+          ],
+          "tokens": [
+            "animation",
+            "attachment",
+            "base",
+            "bodies",
+            "bone",
+            "character",
+            "characters",
+            "creator",
+            "customizable",
+            "eyebrows",
+            "female",
+            "gl",
+            "godot",
+            "hair",
+            "hairstyle",
+            "hairstyles",
+            "head",
+            "humanoid",
+            "male",
+            "modular",
+            "part",
+            "parted",
+            "piece",
+            "proportioned",
+            "quaternius",
+            "ready",
+            "retargetable",
+            "rig",
+            "rigged",
+            "simple",
+            "standard",
+            "superhero",
+            "tf",
+            "to",
+            "toon",
+            "universal",
+            "unreal"
+          ]
+        },
+        "warnings": [],
+        "errors": [],
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-simpleparted.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8374,
+          "sha256": "6d13fdbf5c1631839738adf9e3e3640448b0b1ed01d2daf72dab53d8eb4368d3",
+          "transparent": true,
+          "sourceBundleSha256": "9a7975b93e991b6c90253be3227ab7d1f154154a4a6ca6be03f1b6695212f76a",
+          "cacheKey": "e86c11c030131e3f9d60d4f2552bb1a3ec3732d2b6867438f39755e4b86b1315",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 0.400226,
+            "pan": [
+              -0.003805,
+              -0.003954,
+              0.006652
+            ],
+            "alphaBounds": {
+              "x": 66,
+              "y": 66,
+              "width": 380,
+              "height": 379,
+              "fill": 0.742188,
+              "centerOffset": {
+                "x": 0,
+                "y": -0.5,
+                "length": 0.5
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-simpleparted.webp",
+          "packRelativePath": "previews/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-simpleparted.webp"
+        },
+        "packId": "quaternius-universal-base-characters",
+        "publicPath": "assets/quaternius-universal-base-characters/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-simpleparted/quaternius-universal-base-characters-hairstyles-rigged-to-head-bone-gltf-godot-unreal-hair-simpleparted.gltf",
+        "releaseUrl": null
+      }
+    }
+  }
+}

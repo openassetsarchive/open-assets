@@ -1,0 +1,582 @@
+[
+  {
+    "id": "quaternius-animated-mech-pack-gltf-george",
+    "name": "George",
+    "description": "Textured animated mech character (George).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "glTF/George.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-animated-mech-pack/quaternius-animated-mech-pack-gltf-george/quaternius-animated-mech-pack-gltf-george.gltf",
+    "sourceUrl": "https://quaternius.com/packs/animatedmech.html",
+    "primaryBytes": 5152038,
+    "totalBytes": 5152038,
+    "primarySha256": "eccc45d82701f32d67b4480346757b1656c649d9d40e4a1484f57d660596285e",
+    "bundleSha256": "89ad98378d405f8ed1e98d53e229aba6c8dce1f3daedb84f040fac31aa9b9fc2",
+    "bounds": {
+      "min": [
+        -3.62834,
+        -0.019082,
+        -0.803688
+      ],
+      "max": [
+        3.62834,
+        6.508558,
+        1.654359
+      ],
+      "size": [
+        7.256681,
+        6.52764,
+        2.458047
+      ],
+      "center": [
+        0,
+        3.244738,
+        0.425336
+      ],
+      "diagonal": 10.065361
+    },
+    "triangleCount": 7864,
+    "drawCallCount": 1,
+    "renderVertexCount": 23592,
+    "uploadVertexCount": 7755,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 20,
+    "skinCount": 1,
+    "tags": [
+      "quaternius",
+      "animated-mech",
+      "mech",
+      "mecha",
+      "robot",
+      "sci-fi",
+      "textured",
+      "mechanical",
+      "combat",
+      "toon-mech",
+      "character",
+      "march-2021",
+      "animated-character",
+      "textured-mech",
+      "sci-fi-character"
+    ],
+    "aliases": [
+      "mecha",
+      "combat robot"
+    ],
+    "searchTokens": [
+      "animated",
+      "animations",
+      "character",
+      "characters",
+      "combat",
+      "fi",
+      "george",
+      "gl",
+      "leela",
+      "march",
+      "mech",
+      "mecha",
+      "mechanical",
+      "mike",
+      "quaternius",
+      "robot",
+      "robots",
+      "sci",
+      "stan",
+      "textured",
+      "tf",
+      "toon"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-animated-mech-pack/quaternius-animated-mech-pack-gltf-george.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 13168,
+      "sha256": "07a0aff9f223ebcee9a3c4deeb4155cb087914ddebb36d76844251a7903f09e7",
+      "transparent": true,
+      "sourceBundleSha256": "89ad98378d405f8ed1e98d53e229aba6c8dce1f3daedb84f040fac31aa9b9fc2",
+      "cacheKey": "bf0d795b5911461202d5ff204696a742badbc41f3c9e717513f61742a8d26f48",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 15.823352,
+        "pan": [
+          0.074903,
+          -0.091028,
+          -0.009363
+        ],
+        "alphaBounds": {
+          "x": 169,
+          "y": 72,
+          "width": 172,
+          "height": 368,
+          "fill": 0.71875,
+          "centerOffset": {
+            "x": -1,
+            "y": 0,
+            "length": 1
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-animated-mech-pack/quaternius-animated-mech-pack-gltf-george.webp",
+      "packRelativePath": "previews/quaternius-animated-mech-pack-gltf-george.webp"
+    },
+    "packId": "quaternius-animated-mech-pack",
+    "publicPath": "assets/quaternius-animated-mech-pack/quaternius-animated-mech-pack-gltf-george/quaternius-animated-mech-pack-gltf-george.gltf"
+  },
+  {
+    "id": "quaternius-animated-mech-pack-gltf-leela",
+    "name": "Leela",
+    "description": "Textured animated mech character (Leela).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "glTF/Leela.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-animated-mech-pack/quaternius-animated-mech-pack-gltf-leela/quaternius-animated-mech-pack-gltf-leela.gltf",
+    "sourceUrl": "https://quaternius.com/packs/animatedmech.html",
+    "primaryBytes": 3382594,
+    "totalBytes": 3382594,
+    "primarySha256": "79f9afe3172f9157c91aaa272f7aacc9bbb279bfd947a5f8c18ec3ced44b938b",
+    "bundleSha256": "0ac3ad9246f7b5d6740e7fbad2b8fa5509a2ad6401e217072fc3c7300ab6206d",
+    "bounds": {
+      "min": [
+        -1.479294,
+        -0.019081,
+        -1.040262
+      ],
+      "max": [
+        1.479294,
+        5.256686,
+        1.634693
+      ],
+      "size": [
+        2.958588,
+        5.275768,
+        2.674955
+      ],
+      "center": [
+        0,
+        2.618802,
+        0.297216
+      ],
+      "diagonal": 6.6138
+    },
+    "triangleCount": 2368,
+    "drawCallCount": 1,
+    "renderVertexCount": 7104,
+    "uploadVertexCount": 3163,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 18,
+    "skinCount": 1,
+    "tags": [
+      "quaternius",
+      "animated-mech",
+      "mech",
+      "mecha",
+      "robot",
+      "sci-fi",
+      "textured",
+      "mechanical",
+      "combat",
+      "toon-mech",
+      "character",
+      "march-2021",
+      "animated-character",
+      "textured-mech",
+      "sci-fi-character"
+    ],
+    "aliases": [
+      "mecha",
+      "combat robot"
+    ],
+    "searchTokens": [
+      "animated",
+      "animations",
+      "character",
+      "characters",
+      "combat",
+      "fi",
+      "george",
+      "gl",
+      "leela",
+      "march",
+      "mech",
+      "mecha",
+      "mechanical",
+      "mike",
+      "quaternius",
+      "robot",
+      "robots",
+      "sci",
+      "stan",
+      "textured",
+      "tf",
+      "toon"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-animated-mech-pack/quaternius-animated-mech-pack-gltf-leela.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 13686,
+      "sha256": "0c34778df308a0dbc823820b37f173793785cd5368ca90ca21b7291db9dd7d77",
+      "transparent": true,
+      "sourceBundleSha256": "0ac3ad9246f7b5d6740e7fbad2b8fa5509a2ad6401e217072fc3c7300ab6206d",
+      "cacheKey": "260d40b7dea65e11aacff9cd76328f86cb40d2817057ffe1a0d184cd37c051b5",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 13.268211,
+        "pan": [
+          0.030797,
+          -0.220622,
+          0.128051
+        ],
+        "alphaBounds": {
+          "x": 156,
+          "y": 73,
+          "width": 199,
+          "height": 366,
+          "fill": 0.714844,
+          "centerOffset": {
+            "x": -0.5,
+            "y": 0,
+            "length": 0.5
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-animated-mech-pack/quaternius-animated-mech-pack-gltf-leela.webp",
+      "packRelativePath": "previews/quaternius-animated-mech-pack-gltf-leela.webp"
+    },
+    "packId": "quaternius-animated-mech-pack",
+    "publicPath": "assets/quaternius-animated-mech-pack/quaternius-animated-mech-pack-gltf-leela/quaternius-animated-mech-pack-gltf-leela.gltf"
+  },
+  {
+    "id": "quaternius-animated-mech-pack-gltf-mike",
+    "name": "Mike",
+    "description": "Textured animated mech character (Mike).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "glTF/Mike.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-animated-mech-pack/quaternius-animated-mech-pack-gltf-mike/quaternius-animated-mech-pack-gltf-mike.gltf",
+    "sourceUrl": "https://quaternius.com/packs/animatedmech.html",
+    "primaryBytes": 4423046,
+    "totalBytes": 4423046,
+    "primarySha256": "cc742d3b4960e79e7772c06a465e20958353ab7bd3e6e50c3f46ebccb2a94fa5",
+    "bundleSha256": "e30f31f1a8d46e6e95d7a01f620d74813285e51b9075e20d8f4a6074ece60365",
+    "bounds": {
+      "min": [
+        -4.267634,
+        0.014456,
+        -1.035403
+      ],
+      "max": [
+        4.267634,
+        5.349437,
+        0.628231
+      ],
+      "size": [
+        8.535269,
+        5.334981,
+        1.663634
+      ],
+      "center": [
+        0,
+        2.681946,
+        -0.203586
+      ],
+      "diagonal": 10.201986
+    },
+    "triangleCount": 6062,
+    "drawCallCount": 1,
+    "renderVertexCount": 18186,
+    "uploadVertexCount": 5813,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 18,
+    "skinCount": 1,
+    "tags": [
+      "quaternius",
+      "animated-mech",
+      "mech",
+      "mecha",
+      "robot",
+      "sci-fi",
+      "textured",
+      "mechanical",
+      "combat",
+      "toon-mech",
+      "character",
+      "march-2021",
+      "animated-character",
+      "textured-mech",
+      "sci-fi-character"
+    ],
+    "aliases": [
+      "mecha",
+      "combat robot"
+    ],
+    "searchTokens": [
+      "animated",
+      "animations",
+      "character",
+      "characters",
+      "combat",
+      "fi",
+      "george",
+      "gl",
+      "leela",
+      "march",
+      "mech",
+      "mecha",
+      "mechanical",
+      "mike",
+      "quaternius",
+      "robot",
+      "robots",
+      "sci",
+      "stan",
+      "textured",
+      "tf",
+      "toon"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-animated-mech-pack/quaternius-animated-mech-pack-gltf-mike.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 14024,
+      "sha256": "86e198bf703cc187180b155fef80ee725c64e0309bd079821a6f744041fba8a1",
+      "transparent": true,
+      "sourceBundleSha256": "e30f31f1a8d46e6e95d7a01f620d74813285e51b9075e20d8f4a6074ece60365",
+      "cacheKey": "05b03827fc07c86f6ef896778fcfde3b4e82574f50c63c4431c56bac77d0d1ac",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 11.795863,
+        "pan": [
+          -0.019071,
+          0.110048,
+          -0.060163
+        ],
+        "alphaBounds": {
+          "x": 110,
+          "y": 76,
+          "width": 291,
+          "height": 360,
+          "fill": 0.703125,
+          "centerOffset": {
+            "x": -0.5,
+            "y": 0,
+            "length": 0.5
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-animated-mech-pack/quaternius-animated-mech-pack-gltf-mike.webp",
+      "packRelativePath": "previews/quaternius-animated-mech-pack-gltf-mike.webp"
+    },
+    "packId": "quaternius-animated-mech-pack",
+    "publicPath": "assets/quaternius-animated-mech-pack/quaternius-animated-mech-pack-gltf-mike/quaternius-animated-mech-pack-gltf-mike.gltf"
+  },
+  {
+    "id": "quaternius-animated-mech-pack-gltf-stan",
+    "name": "Stan",
+    "description": "Textured animated mech character (Stan).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "glTF/Stan.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-animated-mech-pack/quaternius-animated-mech-pack-gltf-stan/quaternius-animated-mech-pack-gltf-stan.gltf",
+    "sourceUrl": "https://quaternius.com/packs/animatedmech.html",
+    "primaryBytes": 3787080,
+    "totalBytes": 3787080,
+    "primarySha256": "e6903fee7458bbd804395c0d9dcc7545e3716bde865d05138e769d18299610b7",
+    "bundleSha256": "c0193ffd585240b563cce453a561cce341617c9bc8e87512722568a3a433644c",
+    "bounds": {
+      "min": [
+        -4.274939,
+        0.015644,
+        -1.19441
+      ],
+      "max": [
+        4.274939,
+        6.477414,
+        0.373565
+      ],
+      "size": [
+        8.549878,
+        6.46177,
+        1.567976
+      ],
+      "center": [
+        0,
+        3.246529,
+        -0.410423
+      ],
+      "diagonal": 10.831133
+    },
+    "triangleCount": 6110,
+    "drawCallCount": 1,
+    "renderVertexCount": 18330,
+    "uploadVertexCount": 6339,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 18,
+    "skinCount": 1,
+    "tags": [
+      "quaternius",
+      "animated-mech",
+      "mech",
+      "mecha",
+      "robot",
+      "sci-fi",
+      "textured",
+      "mechanical",
+      "combat",
+      "toon-mech",
+      "character",
+      "march-2021",
+      "animated-character",
+      "textured-mech",
+      "sci-fi-character"
+    ],
+    "aliases": [
+      "mecha",
+      "combat robot"
+    ],
+    "searchTokens": [
+      "animated",
+      "animations",
+      "character",
+      "characters",
+      "combat",
+      "fi",
+      "george",
+      "gl",
+      "leela",
+      "march",
+      "mech",
+      "mecha",
+      "mechanical",
+      "mike",
+      "quaternius",
+      "robot",
+      "robots",
+      "sci",
+      "stan",
+      "textured",
+      "tf",
+      "toon"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-animated-mech-pack/quaternius-animated-mech-pack-gltf-stan.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 13072,
+      "sha256": "bd9c48c04be3de68486401f2915db3b53e0ac0a136a1c3668fd751bdb5a31831",
+      "transparent": true,
+      "sourceBundleSha256": "c0193ffd585240b563cce453a561cce341617c9bc8e87512722568a3a433644c",
+      "cacheKey": "7434ebddc348a47ce508196b9c8ad82ec57a604a6c94205c76d1597090cc83c2",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 13.73104,
+        "pan": [
+          -0.09013,
+          0.150709,
+          -0.01838
+        ],
+        "alphaBounds": {
+          "x": 130,
+          "y": 72,
+          "width": 253,
+          "height": 368,
+          "fill": 0.71875,
+          "centerOffset": {
+            "x": 0.5,
+            "y": 0,
+            "length": 0.5
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-animated-mech-pack/quaternius-animated-mech-pack-gltf-stan.webp",
+      "packRelativePath": "previews/quaternius-animated-mech-pack-gltf-stan.webp"
+    },
+    "packId": "quaternius-animated-mech-pack",
+    "publicPath": "assets/quaternius-animated-mech-pack/quaternius-animated-mech-pack-gltf-stan/quaternius-animated-mech-pack-gltf-stan.gltf"
+  }
+]

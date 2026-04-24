@@ -1,7 +1,7 @@
 {
   "version": 1,
   "token": "barrier",
-  "count": 96,
+  "count": 99,
   "assetIds": [
     "kenney-city-kit-roads-construction-barrier",
     "kenney-city-kit-roads-construction-cone",
@@ -98,6 +98,9 @@
     "quaternius-toon-shooter-game-kit-environment-gltf-barrier-fixed",
     "quaternius-toon-shooter-game-kit-environment-gltf-barrier-large",
     "quaternius-toon-shooter-game-kit-environment-gltf-barrier-single",
-    "quaternius-toon-shooter-game-kit-environment-gltf-barrier-trash"
+    "quaternius-toon-shooter-game-kit-environment-gltf-barrier-trash",
+    "quaternius-zombie-apocalypse-kit-environment-gltf-plasticbarrier",
+    "quaternius-zombie-apocalypse-kit-environment-gltf-trafficbarrier-1",
+    "quaternius-zombie-apocalypse-kit-environment-gltf-trafficbarrier-2"
   ]
 }

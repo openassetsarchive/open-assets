@@ -1,7 +1,7 @@
 {
   "version": 1,
   "token": "rail",
-  "count": 121,
+  "count": 125,
   "assetIds": [
     "kenney-holiday-kit-trainset-rail-bend",
     "kenney-holiday-kit-trainset-rail-corner",
@@ -123,6 +123,10 @@
     "kenney-train-kit-train-tram-round",
     "quaternius-cube-world-kit-environment-gltf-rail-corner",
     "quaternius-cube-world-kit-environment-gltf-rail-incline",
-    "quaternius-cube-world-kit-environment-gltf-rail-straight"
+    "quaternius-cube-world-kit-environment-gltf-rail-straight",
+    "quaternius-cyberpunk-game-kit-platforms-rail-corner",
+    "quaternius-cyberpunk-game-kit-platforms-rail-corner-2",
+    "quaternius-cyberpunk-game-kit-platforms-rail-long",
+    "quaternius-cyberpunk-game-kit-platforms-rail-short"
   ]
 }

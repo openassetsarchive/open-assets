@@ -1,7 +1,7 @@
 {
   "version": 1,
   "token": "chest",
-  "count": 23,
+  "count": 25,
   "assetIds": [
     "kenney-isometric-miniature-dungeon-angle-chestclosed-e",
     "kenney-isometric-miniature-dungeon-angle-chestclosed-n",
@@ -25,6 +25,8 @@
     "quaternius-cube-world-kit-environment-gltf-chest-closed",
     "quaternius-cube-world-kit-environment-gltf-chest-open",
     "quaternius-pirate-kit-prop-chest-closed",
-    "quaternius-pirate-kit-prop-chest-gold"
+    "quaternius-pirate-kit-prop-chest-gold",
+    "quaternius-zombie-apocalypse-kit-environment-gltf-chest",
+    "quaternius-zombie-apocalypse-kit-environment-gltf-chest-special"
   ]
 }

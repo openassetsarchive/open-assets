@@ -24,8 +24,20 @@
     "count": 3
   },
   {
+    "tag": "advanced-settlement",
+    "count": 49
+  },
+  {
     "tag": "adventurer",
-    "count": 34
+    "count": 54
+  },
+  {
+    "tag": "age-progression",
+    "count": 128
+  },
+  {
+    "tag": "agriculture",
+    "count": 15
   },
   {
     "tag": "aid",
@@ -37,7 +49,7 @@
   },
   {
     "tag": "alien",
-    "count": 78
+    "count": 80
   },
   {
     "tag": "alien-sprite",
@@ -53,7 +65,7 @@
   },
   {
     "tag": "ammo",
-    "count": 6
+    "count": 9
   },
   {
     "tag": "amusement-park",
@@ -65,11 +77,39 @@
   },
   {
     "tag": "animal",
-    "count": 33
+    "count": 47
   },
   {
     "tag": "animated",
-    "count": 267
+    "count": 433
+  },
+  {
+    "tag": "animated-animal",
+    "count": 12
+  },
+  {
+    "tag": "animated-character",
+    "count": 114
+  },
+  {
+    "tag": "animated-enemy",
+    "count": 10
+  },
+  {
+    "tag": "animated-mech",
+    "count": 4
+  },
+  {
+    "tag": "animated-monster",
+    "count": 71
+  },
+  {
+    "tag": "animation-ready",
+    "count": 10
+  },
+  {
+    "tag": "antenna",
+    "count": 2
   },
   {
     "tag": "apple",
@@ -84,6 +124,14 @@
     "count": 1491
   },
   {
+    "tag": "archer",
+    "count": 1
+  },
+  {
+    "tag": "archery",
+    "count": 6
+  },
+  {
     "tag": "architecture",
     "count": 111
   },
@@ -92,12 +140,28 @@
     "count": 22
   },
   {
+    "tag": "armor",
+    "count": 2
+  },
+  {
     "tag": "asphalt",
     "count": 98
   },
   {
     "tag": "asphalt-road",
     "count": 90
+  },
+  {
+    "tag": "assault-rifle",
+    "count": 18
+  },
+  {
+    "tag": "assembled-outfit",
+    "count": 4
+  },
+  {
+    "tag": "assembled-weapon",
+    "count": 78
   },
   {
     "tag": "asteroid",
@@ -113,11 +177,15 @@
   },
   {
     "tag": "attachment",
-    "count": 7
+    "count": 15
+  },
+  {
+    "tag": "aug-2020",
+    "count": 21
   },
   {
     "tag": "avatar",
-    "count": 44
+    "count": 46
   },
   {
     "tag": "avocado",
@@ -152,12 +220,36 @@
     "count": 3
   },
   {
+    "tag": "bare-tree",
+    "count": 10
+  },
+  {
+    "tag": "bark",
+    "count": 5
+  },
+  {
+    "tag": "barracks",
+    "count": 6
+  },
+  {
     "tag": "barrel",
     "count": 11
   },
   {
+    "tag": "barricade",
+    "count": 34
+  },
+  {
     "tag": "barrier",
     "count": 65
+  },
+  {
+    "tag": "base-body",
+    "count": 2
+  },
+  {
+    "tag": "base-character",
+    "count": 10
   },
   {
     "tag": "base-pack",
@@ -169,6 +261,10 @@
   },
   {
     "tag": "basketball",
+    "count": 1
+  },
+  {
+    "tag": "bat",
     "count": 1
   },
   {
@@ -188,6 +284,10 @@
     "count": 13
   },
   {
+    "tag": "beard",
+    "count": 1
+  },
+  {
     "tag": "bed",
     "count": 3
   },
@@ -200,8 +300,20 @@
     "count": 3
   },
   {
+    "tag": "bee",
+    "count": 1
+  },
+  {
     "tag": "bench",
     "count": 6
+  },
+  {
+    "tag": "big-monster",
+    "count": 50
+  },
+  {
+    "tag": "birch",
+    "count": 5
   },
   {
     "tag": "black",
@@ -210,6 +322,10 @@
   {
     "tag": "blaster",
     "count": 40
+  },
+  {
+    "tag": "blob-monster",
+    "count": 50
   },
   {
     "tag": "block",
@@ -234,6 +350,10 @@
   {
     "tag": "boat",
     "count": 118
+  },
+  {
+    "tag": "body",
+    "count": 2
   },
   {
     "tag": "bomb",
@@ -285,7 +405,7 @@
   },
   {
     "tag": "bright",
-    "count": 3684
+    "count": 3705
   },
   {
     "tag": "brown",
@@ -293,11 +413,19 @@
   },
   {
     "tag": "building",
-    "count": 658
+    "count": 786
+  },
+  {
+    "tag": "building-tier",
+    "count": 86
   },
   {
     "tag": "buildings-expansion",
     "count": 99
+  },
+  {
+    "tag": "bull",
+    "count": 1
   },
   {
     "tag": "bullet",
@@ -313,7 +441,7 @@
   },
   {
     "tag": "bush",
-    "count": 8
+    "count": 44
   },
   {
     "tag": "button",
@@ -326,6 +454,10 @@
   {
     "tag": "cabinet",
     "count": 26
+  },
+  {
+    "tag": "cable",
+    "count": 3
   },
   {
     "tag": "cactus",
@@ -368,12 +500,16 @@
     "count": 3
   },
   {
+    "tag": "canine",
+    "count": 14
+  },
+  {
     "tag": "cannon",
     "count": 3
   },
   {
     "tag": "car",
-    "count": 659
+    "count": 665
   },
   {
     "tag": "cargo",
@@ -390,6 +526,10 @@
   {
     "tag": "cart",
     "count": 4
+  },
+  {
+    "tag": "cartoon",
+    "count": 71
   },
   {
     "tag": "cash-register",
@@ -413,7 +553,19 @@
   },
   {
     "tag": "character",
-    "count": 853
+    "count": 880
+  },
+  {
+    "tag": "character-clothing",
+    "count": 4
+  },
+  {
+    "tag": "character-outfit",
+    "count": 24
+  },
+  {
+    "tag": "character-part",
+    "count": 28
   },
   {
     "tag": "checkout",
@@ -440,12 +592,28 @@
     "count": 498
   },
   {
+    "tag": "class-based",
+    "count": 6
+  },
+  {
+    "tag": "cleric",
+    "count": 1
+  },
+  {
     "tag": "cliff",
     "count": 2
   },
   {
     "tag": "climb",
     "count": 4
+  },
+  {
+    "tag": "clothing",
+    "count": 24
+  },
+  {
+    "tag": "clothing-piece",
+    "count": 20
   },
   {
     "tag": "coaster",
@@ -465,15 +633,19 @@
   },
   {
     "tag": "collectible",
-    "count": 13
+    "count": 21
   },
   {
     "tag": "colony",
     "count": 153
   },
   {
+    "tag": "color-variants",
+    "count": 11
+  },
+  {
     "tag": "colorful",
-    "count": 2253
+    "count": 2324
   },
   {
     "tag": "column",
@@ -481,7 +653,19 @@
   },
   {
     "tag": "combat",
-    "count": 22
+    "count": 26
+  },
+  {
+    "tag": "combat-robot",
+    "count": 6
+  },
+  {
+    "tag": "communication",
+    "count": 2
+  },
+  {
+    "tag": "companion",
+    "count": 4
   },
   {
     "tag": "complete",
@@ -528,12 +712,28 @@
     "count": 14
   },
   {
+    "tag": "costume",
+    "count": 24
+  },
+  {
+    "tag": "cow",
+    "count": 1
+  },
+  {
     "tag": "crafting",
     "count": 80
   },
   {
     "tag": "crate",
     "count": 17
+  },
+  {
+    "tag": "creature",
+    "count": 83
+  },
+  {
+    "tag": "crossbow",
+    "count": 4
   },
   {
     "tag": "crutch",
@@ -556,8 +756,28 @@
     "count": 8
   },
   {
+    "tag": "customizable",
+    "count": 10
+  },
+  {
+    "tag": "cute",
+    "count": 21
+  },
+  {
     "tag": "cutting-board",
     "count": 3
+  },
+  {
+    "tag": "cyberpunk",
+    "count": 71
+  },
+  {
+    "tag": "cyberpunk-enemy",
+    "count": 10
+  },
+  {
+    "tag": "cyberpunk-hero",
+    "count": 1
   },
   {
     "tag": "damage",
@@ -572,8 +792,20 @@
     "count": 229
   },
   {
+    "tag": "dark-sci-fi",
+    "count": 71
+  },
+  {
+    "tag": "dead-tree",
+    "count": 10
+  },
+  {
     "tag": "debris",
     "count": 14
+  },
+  {
+    "tag": "deciduous",
+    "count": 5
   },
   {
     "tag": "decor",
@@ -584,8 +816,12 @@
     "count": 40
   },
   {
+    "tag": "deer",
+    "count": 1
+  },
+  {
     "tag": "defense",
-    "count": 271
+    "count": 293
   },
   {
     "tag": "defibrillator",
@@ -598,6 +834,10 @@
   {
     "tag": "deluxe",
     "count": 957
+  },
+  {
+    "tag": "demon",
+    "count": 5
   },
   {
     "tag": "desert",
@@ -637,11 +877,11 @@
   },
   {
     "tag": "dock",
-    "count": 13
+    "count": 14
   },
   {
     "tag": "dog",
-    "count": 24
+    "count": 28
   },
   {
     "tag": "door",
@@ -650,6 +890,10 @@
   {
     "tag": "doorway",
     "count": 3
+  },
+  {
+    "tag": "dragon",
+    "count": 1
   },
   {
     "tag": "drinkware",
@@ -670,6 +914,10 @@
   {
     "tag": "dungeon",
     "count": 766
+  },
+  {
+    "tag": "early-age",
+    "count": 50
   },
   {
     "tag": "effect",
@@ -709,7 +957,7 @@
   },
   {
     "tag": "enemy",
-    "count": 381
+    "count": 395
   },
   {
     "tag": "enemy-sprite",
@@ -721,7 +969,7 @@
   },
   {
     "tag": "environment",
-    "count": 525
+    "count": 647
   },
   {
     "tag": "equipment",
@@ -740,8 +988,24 @@
     "count": 12
   },
   {
+    "tag": "explosive",
+    "count": 13
+  },
+  {
     "tag": "extra-animations-and-enemy",
     "count": 172
+  },
+  {
+    "tag": "eyebrows",
+    "count": 2
+  },
+  {
+    "tag": "face",
+    "count": 2
+  },
+  {
+    "tag": "facial-hair",
+    "count": 3
   },
   {
     "tag": "factory",
@@ -749,27 +1013,63 @@
   },
   {
     "tag": "fantasy",
-    "count": 272
+    "count": 296
+  },
+  {
+    "tag": "fantasy-character",
+    "count": 6
+  },
+  {
+    "tag": "fantasy-creature",
+    "count": 9
+  },
+  {
+    "tag": "fantasy-hero",
+    "count": 6
+  },
+  {
+    "tag": "fantasy-prop",
+    "count": 128
+  },
+  {
+    "tag": "fantasy-rts",
+    "count": 128
   },
   {
     "tag": "farm",
-    "count": 459
+    "count": 474
+  },
+  {
+    "tag": "farm-animal",
+    "count": 12
   },
   {
     "tag": "female",
-    "count": 34
+    "count": 47
   },
   {
     "tag": "fence",
     "count": 39
   },
   {
+    "tag": "fighter",
+    "count": 1
+  },
+  {
     "tag": "finish-line",
     "count": 4
   },
   {
+    "tag": "firearm",
+    "count": 88
+  },
+  {
     "tag": "firetruck",
     "count": 1
+  },
+  {
+    "tag": "first-age",
+    "count": 50
   },
   {
     "tag": "fish",
@@ -808,6 +1108,14 @@
     "count": 10
   },
   {
+    "tag": "flying-creature",
+    "count": 20
+  },
+  {
+    "tag": "flying-monster",
+    "count": 50
+  },
+  {
     "tag": "foam-blaster",
     "count": 18
   },
@@ -817,15 +1125,31 @@
   },
   {
     "tag": "foliage",
-    "count": 95
+    "count": 138
   },
   {
     "tag": "food",
     "count": 435
   },
   {
+    "tag": "food-production",
+    "count": 15
+  },
+  {
+    "tag": "forest",
+    "count": 36
+  },
+  {
+    "tag": "forest-animal",
+    "count": 12
+  },
+  {
     "tag": "fort",
     "count": 13
+  },
+  {
+    "tag": "fortification",
+    "count": 18
   },
   {
     "tag": "fortified",
@@ -834,6 +1158,10 @@
   {
     "tag": "fountain",
     "count": 10
+  },
+  {
+    "tag": "fox",
+    "count": 1
   },
   {
     "tag": "fps",
@@ -856,8 +1184,16 @@
     "count": 9
   },
   {
+    "tag": "game-kit",
+    "count": 71
+  },
+  {
     "tag": "game-room",
     "count": 20
+  },
+  {
+    "tag": "gameplay-prop",
+    "count": 8
   },
   {
     "tag": "garbage",
@@ -882,6 +1218,10 @@
   {
     "tag": "ghibli",
     "count": 68
+  },
+  {
+    "tag": "ghost",
+    "count": 1
   },
   {
     "tag": "gift",
@@ -917,7 +1257,7 @@
   },
   {
     "tag": "grenade",
-    "count": 2
+    "count": 15
   },
   {
     "tag": "grey",
@@ -929,7 +1269,19 @@
   },
   {
     "tag": "gun",
-    "count": 16
+    "count": 94
+  },
+  {
+    "tag": "gun-part",
+    "count": 58
+  },
+  {
+    "tag": "hair",
+    "count": 8
+  },
+  {
+    "tag": "hairstyle",
+    "count": 10
   },
   {
     "tag": "half-pipe",
@@ -957,11 +1309,27 @@
   },
   {
     "tag": "harbor",
-    "count": 46
+    "count": 47
+  },
+  {
+    "tag": "hard-surface",
+    "count": 78
   },
   {
     "tag": "hazard",
     "count": 9
+  },
+  {
+    "tag": "head-rigged",
+    "count": 8
+  },
+  {
+    "tag": "headwear",
+    "count": 2
+  },
+  {
+    "tag": "healer",
+    "count": 1
   },
   {
     "tag": "health",
@@ -974,6 +1342,14 @@
   {
     "tag": "hedge",
     "count": 8
+  },
+  {
+    "tag": "helmet",
+    "count": 2
+  },
+  {
+    "tag": "hero",
+    "count": 6
   },
   {
     "tag": "hex-grid",
@@ -1004,8 +1380,20 @@
     "count": 161
   },
   {
+    "tag": "hood",
+    "count": 14
+  },
+  {
+    "tag": "horned-creature",
+    "count": 5
+  },
+  {
     "tag": "horror",
     "count": 91
+  },
+  {
+    "tag": "horse",
+    "count": 2
   },
   {
     "tag": "house",
@@ -1022,6 +1410,22 @@
   {
     "tag": "hud",
     "count": 34
+  },
+  {
+    "tag": "humanoid",
+    "count": 34
+  },
+  {
+    "tag": "humanoid-monster",
+    "count": 3
+  },
+  {
+    "tag": "humanoid-rig",
+    "count": 34
+  },
+  {
+    "tag": "hunter",
+    "count": 1
   },
   {
     "tag": "ice",
@@ -1041,11 +1445,23 @@
   },
   {
     "tag": "industrial",
-    "count": 281
+    "count": 352
+  },
+  {
+    "tag": "industrial-detail",
+    "count": 3
+  },
+  {
+    "tag": "industrial-prop",
+    "count": 52
   },
   {
     "tag": "infrastructure",
     "count": 72
+  },
+  {
+    "tag": "insect",
+    "count": 1
   },
   {
     "tag": "interior",
@@ -1061,7 +1477,7 @@
   },
   {
     "tag": "isometric",
-    "count": 2820
+    "count": 2948
   },
   {
     "tag": "isometric-view",
@@ -1069,7 +1485,7 @@
   },
   {
     "tag": "item",
-    "count": 89
+    "count": 97
   },
   {
     "tag": "kart",
@@ -1084,8 +1500,16 @@
     "count": 1
   },
   {
+    "tag": "kingdom",
+    "count": 128
+  },
+  {
     "tag": "kit",
     "count": 462
+  },
+  {
+    "tag": "kitbash",
+    "count": 58
   },
   {
     "tag": "kitchen",
@@ -1116,8 +1540,16 @@
     "count": 3
   },
   {
+    "tag": "large-roster",
+    "count": 50
+  },
+  {
     "tag": "laser",
     "count": 48
+  },
+  {
+    "tag": "launcher",
+    "count": 13
   },
   {
     "tag": "laundry",
@@ -1168,6 +1600,10 @@
     "count": 45
   },
   {
+    "tag": "livestock",
+    "count": 2
+  },
+  {
     "tag": "living-room",
     "count": 12
   },
@@ -1180,6 +1616,10 @@
     "count": 21
   },
   {
+    "tag": "long-range",
+    "count": 15
+  },
+  {
     "tag": "lot",
     "count": 8
   },
@@ -1189,7 +1629,7 @@
   },
   {
     "tag": "low-poly",
-    "count": 3012
+    "count": 3241
   },
   {
     "tag": "machine",
@@ -1197,11 +1637,31 @@
   },
   {
     "tag": "magazine",
-    "count": 2
+    "count": 5
+  },
+  {
+    "tag": "mage",
+    "count": 1
+  },
+  {
+    "tag": "magic",
+    "count": 1
   },
   {
     "tag": "male",
-    "count": 168
+    "count": 181
+  },
+  {
+    "tag": "man",
+    "count": 13
+  },
+  {
+    "tag": "march-2021",
+    "count": 4
+  },
+  {
+    "tag": "march-2024",
+    "count": 64
   },
   {
     "tag": "marker",
@@ -1210,6 +1670,10 @@
   {
     "tag": "market",
     "count": 27
+  },
+  {
+    "tag": "martial-artist",
+    "count": 1
   },
   {
     "tag": "mask",
@@ -1228,7 +1692,23 @@
     "count": 9
   },
   {
+    "tag": "may-2021",
+    "count": 11
+  },
+  {
     "tag": "meal",
+    "count": 4
+  },
+  {
+    "tag": "mech",
+    "count": 4
+  },
+  {
+    "tag": "mecha",
+    "count": 4
+  },
+  {
+    "tag": "mechanical",
     "count": 4
   },
   {
@@ -1241,7 +1721,15 @@
   },
   {
     "tag": "medieval",
-    "count": 272
+    "count": 400
+  },
+  {
+    "tag": "medieval-fantasy",
+    "count": 24
+  },
+  {
+    "tag": "melee",
+    "count": 11
   },
   {
     "tag": "metal",
@@ -1250,6 +1738,10 @@
   {
     "tag": "meteor",
     "count": 27
+  },
+  {
+    "tag": "military-building",
+    "count": 12
   },
   {
     "tag": "mill",
@@ -1280,16 +1772,40 @@
     "count": 1532
   },
   {
+    "tag": "modular-character",
+    "count": 34
+  },
+  {
+    "tag": "modular-part",
+    "count": 86
+  },
+  {
+    "tag": "modular-platform",
+    "count": 71
+  },
+  {
+    "tag": "modular-weapon",
+    "count": 78
+  },
+  {
+    "tag": "monk",
+    "count": 1
+  },
+  {
     "tag": "monorail",
     "count": 35
   },
   {
     "tag": "monster",
-    "count": 91
+    "count": 162
   },
   {
     "tag": "motorcycle",
     "count": 5
+  },
+  {
+    "tag": "mount",
+    "count": 12
   },
   {
     "tag": "mountain",
@@ -1313,7 +1829,27 @@
   },
   {
     "tag": "nature",
-    "count": 209
+    "count": 257
+  },
+  {
+    "tag": "neon",
+    "count": 71
+  },
+  {
+    "tag": "neon-sign",
+    "count": 14
+  },
+  {
+    "tag": "normal-map",
+    "count": 36
+  },
+  {
+    "tag": "nov-2020",
+    "count": 6
+  },
+  {
+    "tag": "nov-2021",
+    "count": 78
   },
   {
     "tag": "npc",
@@ -1340,12 +1876,28 @@
     "count": 203
   },
   {
+    "tag": "optic",
+    "count": 5
+  },
+  {
     "tag": "orange",
     "count": 1
   },
   {
+    "tag": "orc",
+    "count": 3
+  },
+  {
     "tag": "outdoor",
-    "count": 80
+    "count": 116
+  },
+  {
+    "tag": "outfit",
+    "count": 4
+  },
+  {
+    "tag": "outfit-piece",
+    "count": 20
   },
   {
     "tag": "overhang",
@@ -1370,6 +1922,10 @@
   {
     "tag": "paddle",
     "count": 15
+  },
+  {
+    "tag": "painted-organic",
+    "count": 36
   },
   {
     "tag": "pallet",
@@ -1408,6 +1964,10 @@
     "count": 7
   },
   {
+    "tag": "party",
+    "count": 6
+  },
+  {
     "tag": "patch",
     "count": 2
   },
@@ -1416,8 +1976,16 @@
     "count": 257
   },
   {
+    "tag": "pauldron",
+    "count": 2
+  },
+  {
     "tag": "pavement",
     "count": 4
+  },
+  {
+    "tag": "peasant",
+    "count": 24
   },
   {
     "tag": "pebble",
@@ -1441,7 +2009,7 @@
   },
   {
     "tag": "pickup",
-    "count": 156
+    "count": 164
   },
   {
     "tag": "piece",
@@ -1468,6 +2036,10 @@
     "count": 144
   },
   {
+    "tag": "pistol",
+    "count": 13
+  },
+  {
     "tag": "pixel",
     "count": 483
   },
@@ -1489,11 +2061,11 @@
   },
   {
     "tag": "platform",
-    "count": 111
+    "count": 163
   },
   {
     "tag": "platformer",
-    "count": 2231
+    "count": 2302
   },
   {
     "tag": "platformer-tile",
@@ -1502,6 +2074,10 @@
   {
     "tag": "player",
     "count": 198
+  },
+  {
+    "tag": "player-character",
+    "count": 1
   },
   {
     "tag": "pointer",
@@ -1516,12 +2092,24 @@
     "count": 120
   },
   {
+    "tag": "post-apocalyptic",
+    "count": 64
+  },
+  {
+    "tag": "post-apocalyptic-vehicle",
+    "count": 6
+  },
+  {
     "tag": "power-up",
     "count": 32
   },
   {
     "tag": "practice",
     "count": 5
+  },
+  {
+    "tag": "predator",
+    "count": 1
   },
   {
     "tag": "present",
@@ -1536,8 +2124,12 @@
     "count": 113
   },
   {
+    "tag": "projectile-weapon",
+    "count": 4
+  },
+  {
     "tag": "prop",
-    "count": 764
+    "count": 834
   },
   {
     "tag": "pumpkin",
@@ -1548,8 +2140,12 @@
     "count": 901
   },
   {
+    "tag": "quadruped",
+    "count": 12
+  },
+  {
     "tag": "quaternius",
-    "count": 530
+    "count": 1045
   },
   {
     "tag": "queue",
@@ -1588,6 +2184,10 @@
     "count": 22
   },
   {
+    "tag": "ranger",
+    "count": 25
+  },
+  {
     "tag": "red",
     "count": 167
   },
@@ -1609,7 +2209,7 @@
   },
   {
     "tag": "resource",
-    "count": 82
+    "count": 87
   },
   {
     "tag": "restaurant",
@@ -1618,6 +2218,10 @@
   {
     "tag": "retail",
     "count": 20
+  },
+  {
+    "tag": "retargetable",
+    "count": 34
   },
   {
     "tag": "retina",
@@ -1636,6 +2240,22 @@
     "count": 183
   },
   {
+    "tag": "rifle",
+    "count": 33
+  },
+  {
+    "tag": "rigged",
+    "count": 233
+  },
+  {
+    "tag": "rigged-character",
+    "count": 2
+  },
+  {
+    "tag": "rigged-outfit",
+    "count": 4
+  },
+  {
     "tag": "river",
     "count": 51
   },
@@ -1652,8 +2272,12 @@
     "count": 138
   },
   {
+    "tag": "robot",
+    "count": 14
+  },
+  {
     "tag": "rock",
-    "count": 64
+    "count": 105
   },
   {
     "tag": "rocket",
@@ -1664,6 +2288,10 @@
     "count": 31
   },
   {
+    "tag": "rogue",
+    "count": 1
+  },
+  {
     "tag": "roof",
     "count": 38
   },
@@ -1672,12 +2300,32 @@
     "count": 4
   },
   {
+    "tag": "roof-prop",
+    "count": 2
+  },
+  {
+    "tag": "rooftop",
+    "count": 52
+  },
+  {
     "tag": "rowboat",
     "count": 4
   },
   {
+    "tag": "rpg",
+    "count": 6
+  },
+  {
+    "tag": "rpg-class",
+    "count": 6
+  },
+  {
+    "tag": "rts",
+    "count": 128
+  },
+  {
     "tag": "ruin",
-    "count": 7
+    "count": 41
   },
   {
     "tag": "sailboat",
@@ -1705,15 +2353,27 @@
   },
   {
     "tag": "sci-fi",
-    "count": 255
+    "count": 348
+  },
+  {
+    "tag": "sci-fi-character",
+    "count": 4
+  },
+  {
+    "tag": "sci-fi-weapon",
+    "count": 20
   },
   {
     "tag": "scope",
-    "count": 3
+    "count": 5
   },
   {
     "tag": "scrap",
     "count": 5
+  },
+  {
+    "tag": "seamless-texture",
+    "count": 36
   },
   {
     "tag": "seasonal",
@@ -1722,6 +2382,10 @@
   {
     "tag": "seating",
     "count": 18
+  },
+  {
+    "tag": "second-age",
+    "count": 49
   },
   {
     "tag": "sedan-1",
@@ -1753,7 +2417,7 @@
   },
   {
     "tag": "settlement",
-    "count": 18
+    "count": 146
   },
   {
     "tag": "shelf",
@@ -1788,16 +2452,28 @@
     "count": 2
   },
   {
+    "tag": "shoulder-armor",
+    "count": 2
+  },
+  {
+    "tag": "shrub",
+    "count": 6
+  },
+  {
     "tag": "side-view",
     "count": 153
   },
   {
+    "tag": "sidearm",
+    "count": 13
+  },
+  {
     "tag": "sight",
-    "count": 3
+    "count": 6
   },
   {
     "tag": "sign",
-    "count": 4
+    "count": 18
   },
   {
     "tag": "silencer",
@@ -1824,6 +2500,18 @@
     "count": 2
   },
   {
+    "tag": "skeletal-animation",
+    "count": 200
+  },
+  {
+    "tag": "skinned",
+    "count": 233
+  },
+  {
+    "tag": "skull",
+    "count": 2
+  },
+  {
     "tag": "sled",
     "count": 2
   },
@@ -1836,12 +2524,24 @@
     "count": 12
   },
   {
+    "tag": "small-creature",
+    "count": 17
+  },
+  {
+    "tag": "smg",
+    "count": 7
+  },
+  {
     "tag": "smoke",
     "count": 2
   },
   {
     "tag": "snack",
     "count": 4
+  },
+  {
+    "tag": "sniper",
+    "count": 15
   },
   {
     "tag": "snow",
@@ -1860,8 +2560,20 @@
     "count": 823
   },
   {
+    "tag": "space-combat",
+    "count": 11
+  },
+  {
+    "tag": "space-creature",
+    "count": 2
+  },
+  {
     "tag": "spacecraft",
-    "count": 25
+    "count": 36
+  },
+  {
+    "tag": "spaceship",
+    "count": 11
   },
   {
     "tag": "spawn",
@@ -1885,7 +2597,7 @@
   },
   {
     "tag": "spooky",
-    "count": 91
+    "count": 94
   },
   {
     "tag": "sport",
@@ -1908,6 +2620,10 @@
     "count": 278
   },
   {
+    "tag": "stag",
+    "count": 1
+  },
+  {
     "tag": "stairs",
     "count": 27
   },
@@ -1916,8 +2632,16 @@
     "count": 5
   },
   {
+    "tag": "standard",
+    "count": 34
+  },
+  {
     "tag": "star",
     "count": 1
+  },
+  {
+    "tag": "starfighter",
+    "count": 11
   },
   {
     "tag": "station",
@@ -1925,6 +2649,10 @@
   },
   {
     "tag": "statue",
+    "count": 1
+  },
+  {
+    "tag": "stealth",
     "count": 1
   },
   {
@@ -1940,6 +2668,10 @@
     "count": 55
   },
   {
+    "tag": "stone-age",
+    "count": 49
+  },
+  {
     "tag": "storage",
     "count": 13
   },
@@ -1949,7 +2681,7 @@
   },
   {
     "tag": "strategy",
-    "count": 232
+    "count": 360
   },
   {
     "tag": "street",
@@ -1973,7 +2705,15 @@
   },
   {
     "tag": "stylized",
-    "count": 5302
+    "count": 5491
+  },
+  {
+    "tag": "stylized-ship",
+    "count": 11
+  },
+  {
+    "tag": "submachine-gun",
+    "count": 7
   },
   {
     "tag": "suburban",
@@ -1984,8 +2724,12 @@
     "count": 1
   },
   {
+    "tag": "superhero",
+    "count": 10
+  },
+  {
     "tag": "support",
-    "count": 27
+    "count": 28
   },
   {
     "tag": "surface",
@@ -1994,6 +2738,22 @@
   {
     "tag": "survival",
     "count": 80
+  },
+  {
+    "tag": "survival-horror",
+    "count": 64
+  },
+  {
+    "tag": "survival-prop",
+    "count": 34
+  },
+  {
+    "tag": "survival-weapon",
+    "count": 10
+  },
+  {
+    "tag": "survivor",
+    "count": 14
   },
   {
     "tag": "sushi",
@@ -2037,11 +2797,19 @@
   },
   {
     "tag": "textured",
-    "count": 229
+    "count": 350
+  },
+  {
+    "tag": "textured-mech",
+    "count": 4
   },
   {
     "tag": "theme-park",
     "count": 183
+  },
+  {
+    "tag": "thief",
+    "count": 1
   },
   {
     "tag": "throwable",
@@ -2100,6 +2868,18 @@
     "count": 98
   },
   {
+    "tag": "toon-mech",
+    "count": 4
+  },
+  {
+    "tag": "toon-proportioned",
+    "count": 10
+  },
+  {
+    "tag": "toon-survival",
+    "count": 64
+  },
+  {
     "tag": "top",
     "count": 1
   },
@@ -2109,7 +2889,7 @@
   },
   {
     "tag": "tower",
-    "count": 286
+    "count": 300
   },
   {
     "tag": "tower-defense",
@@ -2129,10 +2909,14 @@
   },
   {
     "tag": "town",
-    "count": 279
+    "count": 407
   },
   {
     "tag": "town-square",
+    "count": 10
+  },
+  {
+    "tag": "townsfolk",
     "count": 10
   },
   {
@@ -2142,6 +2926,10 @@
   {
     "tag": "toy-car",
     "count": 157
+  },
+  {
+    "tag": "toy-like",
+    "count": 21
   },
   {
     "tag": "toy-train",
@@ -2172,6 +2960,10 @@
     "count": 202
   },
   {
+    "tag": "training-building",
+    "count": 12
+  },
+  {
     "tag": "transport",
     "count": 417
   },
@@ -2189,7 +2981,7 @@
   },
   {
     "tag": "tree",
-    "count": 96
+    "count": 139
   },
   {
     "tag": "trophy",
@@ -2209,7 +3001,7 @@
   },
   {
     "tag": "trunk",
-    "count": 2
+    "count": 12
   },
   {
     "tag": "tugboat",
@@ -2217,7 +3009,7 @@
   },
   {
     "tag": "turret",
-    "count": 164
+    "count": 168
   },
   {
     "tag": "ufo",
@@ -2228,12 +3020,44 @@
     "count": 109
   },
   {
+    "tag": "ultimate-monsters",
+    "count": 50
+  },
+  {
+    "tag": "ultimate-stylized-nature",
+    "count": 36
+  },
+  {
+    "tag": "undead",
+    "count": 7
+  },
+  {
     "tag": "unit",
     "count": 8
   },
   {
+    "tag": "universal-base",
+    "count": 10
+  },
+  {
+    "tag": "upgrade-level",
+    "count": 86
+  },
+  {
     "tag": "urban",
     "count": 124
+  },
+  {
+    "tag": "urban-decay",
+    "count": 64
+  },
+  {
+    "tag": "urban-future",
+    "count": 71
+  },
+  {
+    "tag": "urban-signage",
+    "count": 14
   },
   {
     "tag": "urn",
@@ -2253,7 +3077,7 @@
   },
   {
     "tag": "vehicle",
-    "count": 1486
+    "count": 1503
   },
   {
     "tag": "vehicle-part",
@@ -2261,7 +3085,11 @@
   },
   {
     "tag": "village",
-    "count": 272
+    "count": 400
+  },
+  {
+    "tag": "villager",
+    "count": 10
   },
   {
     "tag": "voxel",
@@ -2285,11 +3113,15 @@
   },
   {
     "tag": "wall",
-    "count": 283
+    "count": 293
   },
   {
     "tag": "warehouse",
     "count": 25
+  },
+  {
+    "tag": "warrior",
+    "count": 1
   },
   {
     "tag": "washer",
@@ -2313,7 +3145,7 @@
   },
   {
     "tag": "waterfront",
-    "count": 2
+    "count": 3
   },
   {
     "tag": "watermelon",
@@ -2325,7 +3157,19 @@
   },
   {
     "tag": "weapon",
-    "count": 85
+    "count": 173
+  },
+  {
+    "tag": "weapon-part",
+    "count": 58
+  },
+  {
+    "tag": "weapon-parts",
+    "count": 78
+  },
+  {
+    "tag": "weapon-platform",
+    "count": 4
   },
   {
     "tag": "weathered",
@@ -2340,16 +3184,48 @@
     "count": 4
   },
   {
+    "tag": "whimsical",
+    "count": 21
+  },
+  {
     "tag": "white",
     "count": 14
+  },
+  {
+    "tag": "wildlife",
+    "count": 12
   },
   {
     "tag": "winter",
     "count": 99
   },
   {
+    "tag": "wire",
+    "count": 3
+  },
+  {
+    "tag": "wizard",
+    "count": 1
+  },
+  {
+    "tag": "wolf",
+    "count": 1
+  },
+  {
+    "tag": "woman",
+    "count": 13
+  },
+  {
     "tag": "wood",
     "count": 80
+  },
+  {
+    "tag": "wooden-settlement",
+    "count": 50
+  },
+  {
+    "tag": "woodland",
+    "count": 20
   },
   {
     "tag": "workbench",
@@ -2369,6 +3245,14 @@
   },
   {
     "tag": "zombie",
-    "count": 34
+    "count": 38
+  },
+  {
+    "tag": "zombie-apocalypse",
+    "count": 64
+  },
+  {
+    "tag": "zombie-survival",
+    "count": 14
   }
 ]

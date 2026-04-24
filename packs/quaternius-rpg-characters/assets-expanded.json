@@ -1,0 +1,913 @@
+[
+  {
+    "id": "quaternius-rpg-characters-cleric",
+    "name": "Cleric",
+    "description": "Animated cleric RPG character (Cleric).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "Cleric.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-rpg-characters/quaternius-rpg-characters-cleric/quaternius-rpg-characters-cleric.gltf",
+    "sourceUrl": "https://quaternius.com/packs/rpgcharacters.html",
+    "primaryBytes": 2985183,
+    "totalBytes": 2985183,
+    "primarySha256": "6497456a3fa1c151d7a6ab4f7b4c343ee416c23d9454505b950c93ea558e4601",
+    "bundleSha256": "57a8b4960cb41c436b1a457e165236d0752aa879767218aa5aa7888864983bf0",
+    "bounds": {
+      "min": [
+        -1.536829,
+        -0.003267,
+        -1.036762
+      ],
+      "max": [
+        1.527786,
+        2.972998,
+        1.247352
+      ],
+      "size": [
+        3.064614,
+        2.976265,
+        2.284114
+      ],
+      "center": [
+        -0.004521,
+        1.484866,
+        0.105295
+      ],
+      "diagonal": 4.844295
+    },
+    "triangleCount": 5104,
+    "drawCallCount": 4,
+    "renderVertexCount": 15312,
+    "uploadVertexCount": 6100,
+    "materialCount": 2,
+    "textureCount": 2,
+    "animationCount": 11,
+    "skinCount": 1,
+    "tags": [
+      "quaternius",
+      "rpg",
+      "fantasy-character",
+      "adventurer",
+      "party",
+      "class-based",
+      "hero",
+      "stylized",
+      "textured",
+      "animated",
+      "nov-2020",
+      "character",
+      "animated-character",
+      "fantasy-hero",
+      "rpg-class",
+      "cleric",
+      "healer",
+      "support"
+    ],
+    "aliases": [
+      "hero",
+      "adventurer"
+    ],
+    "searchTokens": [
+      "adventurer",
+      "adventurers",
+      "animated",
+      "based",
+      "character",
+      "characters",
+      "class",
+      "classes",
+      "cleric",
+      "fantasy",
+      "healer",
+      "hero",
+      "heroes",
+      "monk",
+      "nov",
+      "party",
+      "quaternius",
+      "ranger",
+      "rigged",
+      "rogue",
+      "rpg",
+      "stylized",
+      "support",
+      "textured",
+      "warrior",
+      "wizard"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-rpg-characters/quaternius-rpg-characters-cleric.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9108,
+      "sha256": "93332d2afa634b67f99d941bd0122f0d69e5dfee331d7a5ef9221f7587149ff5",
+      "transparent": true,
+      "sourceBundleSha256": "57a8b4960cb41c436b1a457e165236d0752aa879767218aa5aa7888864983bf0",
+      "cacheKey": "76b801022cf08fb055fd64fc0475824fb3928a0bfea89cbe77e97cb9449d53f7",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.502638,
+        "pan": [
+          -0.173722,
+          0.04996,
+          0.137751
+        ],
+        "alphaBounds": {
+          "x": 132,
+          "y": 75,
+          "width": 247,
+          "height": 362,
+          "fill": 0.707031,
+          "centerOffset": {
+            "x": -0.5,
+            "y": 0,
+            "length": 0.5
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-rpg-characters/quaternius-rpg-characters-cleric.webp",
+      "packRelativePath": "previews/quaternius-rpg-characters-cleric.webp"
+    },
+    "packId": "quaternius-rpg-characters",
+    "publicPath": "assets/quaternius-rpg-characters/quaternius-rpg-characters-cleric/quaternius-rpg-characters-cleric.gltf"
+  },
+  {
+    "id": "quaternius-rpg-characters-monk",
+    "name": "Monk",
+    "description": "Animated monk RPG character (Monk).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "Monk.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-rpg-characters/quaternius-rpg-characters-monk/quaternius-rpg-characters-monk.gltf",
+    "sourceUrl": "https://quaternius.com/packs/rpgcharacters.html",
+    "primaryBytes": 2655048,
+    "totalBytes": 2655048,
+    "primarySha256": "085c049ebb593e0edbef9f0dd1f62fce70f668f6be7be99f3a1aa5378c83e8a2",
+    "bundleSha256": "29511818f392b5e15e150942997bf01a1a1744c5021947359e112d7b2a8d2e09",
+    "bounds": {
+      "min": [
+        -1.637978,
+        0.000427,
+        -0.477679
+      ],
+      "max": [
+        1.637795,
+        2.948156,
+        0.453575
+      ],
+      "size": [
+        3.275773,
+        2.947729,
+        0.931254
+      ],
+      "center": [
+        -0.000092,
+        1.474292,
+        -0.012052
+      ],
+      "diagonal": 4.504112
+    },
+    "triangleCount": 6714,
+    "drawCallCount": 2,
+    "renderVertexCount": 20142,
+    "uploadVertexCount": 7198,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 11,
+    "skinCount": 1,
+    "tags": [
+      "quaternius",
+      "rpg",
+      "fantasy-character",
+      "adventurer",
+      "party",
+      "class-based",
+      "hero",
+      "stylized",
+      "textured",
+      "animated",
+      "nov-2020",
+      "character",
+      "animated-character",
+      "fantasy-hero",
+      "rpg-class",
+      "monk",
+      "martial-artist"
+    ],
+    "aliases": [
+      "hero",
+      "adventurer"
+    ],
+    "searchTokens": [
+      "adventurer",
+      "adventurers",
+      "animated",
+      "artist",
+      "based",
+      "character",
+      "characters",
+      "class",
+      "classes",
+      "cleric",
+      "fantasy",
+      "hero",
+      "heroes",
+      "martial",
+      "monk",
+      "nov",
+      "party",
+      "quaternius",
+      "ranger",
+      "rigged",
+      "rogue",
+      "rpg",
+      "stylized",
+      "textured",
+      "warrior",
+      "wizard"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-rpg-characters/quaternius-rpg-characters-monk.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7022,
+      "sha256": "59cd0f1743d35776ce81d3690eb4b166a90f6938ba5089115f71e6b901c71f9a",
+      "transparent": true,
+      "sourceBundleSha256": "29511818f392b5e15e150942997bf01a1a1744c5021947359e112d7b2a8d2e09",
+      "cacheKey": "3039d7d25042c55e648cb23d052b4de809f7f2bfea30d05a32416dbdb6379b9d",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.239632,
+        "pan": [
+          -0.041712,
+          0.047939,
+          0.007195
+        ],
+        "alphaBounds": {
+          "x": 178,
+          "y": 70,
+          "width": 156,
+          "height": 371,
+          "fill": 0.724609,
+          "centerOffset": {
+            "x": 0,
+            "y": -0.5,
+            "length": 0.5
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-rpg-characters/quaternius-rpg-characters-monk.webp",
+      "packRelativePath": "previews/quaternius-rpg-characters-monk.webp"
+    },
+    "packId": "quaternius-rpg-characters",
+    "publicPath": "assets/quaternius-rpg-characters/quaternius-rpg-characters-monk/quaternius-rpg-characters-monk.gltf"
+  },
+  {
+    "id": "quaternius-rpg-characters-ranger",
+    "name": "Ranger",
+    "description": "Animated ranger RPG character (Ranger).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "Ranger.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-rpg-characters/quaternius-rpg-characters-ranger/quaternius-rpg-characters-ranger.gltf",
+    "sourceUrl": "https://quaternius.com/packs/rpgcharacters.html",
+    "primaryBytes": 2987934,
+    "totalBytes": 2987934,
+    "primarySha256": "2732741d5e21c20760d7f3dd9d71812d4b796f466be1a6cba212f45483dd56ed",
+    "bundleSha256": "cfccc7849f1ea7b355b1d5364e749b4f5f630e785abfffa999123c77696ca794",
+    "bounds": {
+      "min": [
+        -1.515523,
+        0.000437,
+        -0.883863
+      ],
+      "max": [
+        1.515524,
+        2.925777,
+        1.122953
+      ],
+      "size": [
+        3.031047,
+        2.92534,
+        2.006815
+      ],
+      "center": [
+        0,
+        1.463107,
+        0.119545
+      ],
+      "diagonal": 4.666065
+    },
+    "triangleCount": 3806,
+    "drawCallCount": 6,
+    "renderVertexCount": 11418,
+    "uploadVertexCount": 4531,
+    "materialCount": 2,
+    "textureCount": 1,
+    "animationCount": 14,
+    "skinCount": 1,
+    "tags": [
+      "quaternius",
+      "rpg",
+      "fantasy-character",
+      "adventurer",
+      "party",
+      "class-based",
+      "hero",
+      "stylized",
+      "textured",
+      "animated",
+      "nov-2020",
+      "character",
+      "animated-character",
+      "fantasy-hero",
+      "rpg-class",
+      "ranger",
+      "archer",
+      "hunter"
+    ],
+    "aliases": [
+      "hero",
+      "adventurer"
+    ],
+    "searchTokens": [
+      "adventurer",
+      "adventurers",
+      "animated",
+      "archer",
+      "based",
+      "character",
+      "characters",
+      "class",
+      "classes",
+      "cleric",
+      "fantasy",
+      "hero",
+      "heroes",
+      "hunter",
+      "monk",
+      "nov",
+      "party",
+      "quaternius",
+      "ranger",
+      "rigged",
+      "rogue",
+      "rpg",
+      "stylized",
+      "textured",
+      "warrior",
+      "wizard"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-rpg-characters/quaternius-rpg-characters-ranger.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8208,
+      "sha256": "a3fd3cff3583abfba7e49e8ea06e1af0501e918f5eb2a1dcfdabbda87f2fbc0c",
+      "transparent": true,
+      "sourceBundleSha256": "cfccc7849f1ea7b355b1d5364e749b4f5f630e785abfffa999123c77696ca794",
+      "cacheKey": "bf2a38fc274dd79573e37ddf51d39197c2b3636911e02dbb2f484739c90eff09",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.386787,
+        "pan": [
+          -0.158987,
+          0.06309,
+          0.113563
+        ],
+        "alphaBounds": {
+          "x": 156,
+          "y": 78,
+          "width": 202,
+          "height": 356,
+          "fill": 0.695313,
+          "centerOffset": {
+            "x": 1,
+            "y": 0,
+            "length": 1
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-rpg-characters/quaternius-rpg-characters-ranger.webp",
+      "packRelativePath": "previews/quaternius-rpg-characters-ranger.webp"
+    },
+    "packId": "quaternius-rpg-characters",
+    "publicPath": "assets/quaternius-rpg-characters/quaternius-rpg-characters-ranger/quaternius-rpg-characters-ranger.gltf"
+  },
+  {
+    "id": "quaternius-rpg-characters-rogue",
+    "name": "Rogue",
+    "description": "Animated rogue RPG character (Rogue).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "Rogue.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-rpg-characters/quaternius-rpg-characters-rogue/quaternius-rpg-characters-rogue.gltf",
+    "sourceUrl": "https://quaternius.com/packs/rpgcharacters.html",
+    "primaryBytes": 2568479,
+    "totalBytes": 2568479,
+    "primarySha256": "5a9eaca0871cd69f554747a1d42870b3bca702ba721d941d909fc530cf18afb8",
+    "bundleSha256": "000373b819d3b98538563f3f2bf716c44ea51fd326a3ffcae157b400d9fafd98",
+    "bounds": {
+      "min": [
+        -1.549172,
+        -0.003264,
+        -0.860902
+      ],
+      "max": [
+        1.549172,
+        2.970436,
+        0.614277
+      ],
+      "size": [
+        3.098345,
+        2.9737,
+        1.475179
+      ],
+      "center": [
+        0,
+        1.483586,
+        -0.123312
+      ],
+      "diagonal": 4.540791
+    },
+    "triangleCount": 2326,
+    "drawCallCount": 8,
+    "renderVertexCount": 6978,
+    "uploadVertexCount": 2279,
+    "materialCount": 2,
+    "textureCount": 2,
+    "animationCount": 12,
+    "skinCount": 1,
+    "tags": [
+      "quaternius",
+      "rpg",
+      "fantasy-character",
+      "adventurer",
+      "party",
+      "class-based",
+      "hero",
+      "stylized",
+      "textured",
+      "animated",
+      "nov-2020",
+      "character",
+      "animated-character",
+      "fantasy-hero",
+      "rpg-class",
+      "rogue",
+      "thief",
+      "stealth"
+    ],
+    "aliases": [
+      "hero",
+      "adventurer"
+    ],
+    "searchTokens": [
+      "adventurer",
+      "adventurers",
+      "animated",
+      "based",
+      "character",
+      "characters",
+      "class",
+      "classes",
+      "cleric",
+      "fantasy",
+      "hero",
+      "heroes",
+      "monk",
+      "nov",
+      "party",
+      "quaternius",
+      "ranger",
+      "rigged",
+      "rogue",
+      "rpg",
+      "stealth",
+      "stylized",
+      "textured",
+      "thief",
+      "warrior",
+      "wizard"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-rpg-characters/quaternius-rpg-characters-rogue.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 5774,
+      "sha256": "a12ac3efb72554737721434ace6cf529086d5cd321ad4c816717ff3b98bb43ba",
+      "transparent": true,
+      "sourceBundleSha256": "000373b819d3b98538563f3f2bf716c44ea51fd326a3ffcae157b400d9fafd98",
+      "cacheKey": "2ed3d0257a4f7c0dbdd61820c0e61dc5bc27d27b6421e9ef21011d2614bc08c2",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.491678,
+        "pan": [
+          -0.118228,
+          -0.024938,
+          0.136183
+        ],
+        "alphaBounds": {
+          "x": 187,
+          "y": 71,
+          "width": 139,
+          "height": 369,
+          "fill": 0.720703,
+          "centerOffset": {
+            "x": 0.5,
+            "y": -0.5,
+            "length": 0.707107
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-rpg-characters/quaternius-rpg-characters-rogue.webp",
+      "packRelativePath": "previews/quaternius-rpg-characters-rogue.webp"
+    },
+    "packId": "quaternius-rpg-characters",
+    "publicPath": "assets/quaternius-rpg-characters/quaternius-rpg-characters-rogue/quaternius-rpg-characters-rogue.gltf"
+  },
+  {
+    "id": "quaternius-rpg-characters-warrior",
+    "name": "Warrior",
+    "description": "Animated warrior RPG character (Warrior).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "Warrior.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-rpg-characters/quaternius-rpg-characters-warrior/quaternius-rpg-characters-warrior.gltf",
+    "sourceUrl": "https://quaternius.com/packs/rpgcharacters.html",
+    "primaryBytes": 3035392,
+    "totalBytes": 3035392,
+    "primarySha256": "2bab905ce12d279e1d099c2a8de0b1ef31c9f5e8d1959b41d24470b4f4181add",
+    "bundleSha256": "dd6d1bc1eabc43c0ed83d9895db0970926085bfd5754a6c6a0e5b0103db5ddf8",
+    "bounds": {
+      "min": [
+        -1.521944,
+        -0.003276,
+        -0.638455
+      ],
+      "max": [
+        1.521944,
+        2.912446,
+        1.837505
+      ],
+      "size": [
+        3.043887,
+        2.915721,
+        2.47596
+      ],
+      "center": [
+        0,
+        1.454585,
+        0.599525
+      ],
+      "diagonal": 4.888462
+    },
+    "triangleCount": 5402,
+    "drawCallCount": 5,
+    "renderVertexCount": 16206,
+    "uploadVertexCount": 5846,
+    "materialCount": 2,
+    "textureCount": 2,
+    "animationCount": 13,
+    "skinCount": 1,
+    "tags": [
+      "quaternius",
+      "rpg",
+      "fantasy-character",
+      "adventurer",
+      "party",
+      "class-based",
+      "hero",
+      "stylized",
+      "textured",
+      "animated",
+      "nov-2020",
+      "character",
+      "animated-character",
+      "fantasy-hero",
+      "rpg-class",
+      "warrior",
+      "fighter",
+      "melee"
+    ],
+    "aliases": [
+      "hero",
+      "adventurer"
+    ],
+    "searchTokens": [
+      "adventurer",
+      "adventurers",
+      "animated",
+      "based",
+      "character",
+      "characters",
+      "class",
+      "classes",
+      "cleric",
+      "fantasy",
+      "fighter",
+      "hero",
+      "heroes",
+      "melee",
+      "monk",
+      "nov",
+      "party",
+      "quaternius",
+      "ranger",
+      "rigged",
+      "rogue",
+      "rpg",
+      "stylized",
+      "textured",
+      "warrior",
+      "wizard"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-rpg-characters/quaternius-rpg-characters-warrior.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7918,
+      "sha256": "db8ed8c78752311c97fa442ca95ac372aa731977fb569ce5e81ebefa1cc6a8c9",
+      "transparent": true,
+      "sourceBundleSha256": "dd6d1bc1eabc43c0ed83d9895db0970926085bfd5754a6c6a0e5b0103db5ddf8",
+      "cacheKey": "deda28ae7e440a9c32bce7efc366acc881fb99fafdbfbc6f42dc67ee1ffea960",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.007573,
+        "pan": [
+          -0.146517,
+          0.158526,
+          0.032379
+        ],
+        "alphaBounds": {
+          "x": 100,
+          "y": 72,
+          "width": 312,
+          "height": 365,
+          "fill": 0.712891,
+          "centerOffset": {
+            "x": 0,
+            "y": -1.5,
+            "length": 1.5
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-rpg-characters/quaternius-rpg-characters-warrior.webp",
+      "packRelativePath": "previews/quaternius-rpg-characters-warrior.webp"
+    },
+    "packId": "quaternius-rpg-characters",
+    "publicPath": "assets/quaternius-rpg-characters/quaternius-rpg-characters-warrior/quaternius-rpg-characters-warrior.gltf"
+  },
+  {
+    "id": "quaternius-rpg-characters-wizard",
+    "name": "Wizard",
+    "description": "Animated wizard RPG character (Wizard).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "Wizard.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-rpg-characters/quaternius-rpg-characters-wizard/quaternius-rpg-characters-wizard.gltf",
+    "sourceUrl": "https://quaternius.com/packs/rpgcharacters.html",
+    "primaryBytes": 3296909,
+    "totalBytes": 3296909,
+    "primarySha256": "320de17289857db6794e4eef55101ce3427e755319a4384fb6d9d9ca5206b41b",
+    "bundleSha256": "15317a794b51864ace9797f76cc68e2e3a5c448687de8321533f3d90aea05831",
+    "bounds": {
+      "min": [
+        -1.526119,
+        -0.003306,
+        -1.041585
+      ],
+      "max": [
+        1.526119,
+        3.05556,
+        1.021415
+      ],
+      "size": [
+        3.052237,
+        3.058866,
+        2.063
+      ],
+      "center": [
+        0,
+        1.526127,
+        -0.010085
+      ],
+      "diagonal": 4.788401
+    },
+    "triangleCount": 5376,
+    "drawCallCount": 6,
+    "renderVertexCount": 16128,
+    "uploadVertexCount": 5413,
+    "materialCount": 2,
+    "textureCount": 2,
+    "animationCount": 15,
+    "skinCount": 1,
+    "tags": [
+      "quaternius",
+      "rpg",
+      "fantasy-character",
+      "adventurer",
+      "party",
+      "class-based",
+      "hero",
+      "stylized",
+      "textured",
+      "animated",
+      "nov-2020",
+      "character",
+      "animated-character",
+      "fantasy-hero",
+      "rpg-class",
+      "wizard",
+      "mage",
+      "magic"
+    ],
+    "aliases": [
+      "hero",
+      "adventurer"
+    ],
+    "searchTokens": [
+      "adventurer",
+      "adventurers",
+      "animated",
+      "based",
+      "character",
+      "characters",
+      "class",
+      "classes",
+      "cleric",
+      "fantasy",
+      "hero",
+      "heroes",
+      "mage",
+      "magic",
+      "monk",
+      "nov",
+      "party",
+      "quaternius",
+      "ranger",
+      "rigged",
+      "rogue",
+      "rpg",
+      "stylized",
+      "textured",
+      "warrior",
+      "wizard"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-rpg-characters/quaternius-rpg-characters-wizard.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7978,
+      "sha256": "9d8794ddc6de93feb4181c977c6252adebfab53029dbc8dd7d4820a3d25e1c62",
+      "transparent": true,
+      "sourceBundleSha256": "15317a794b51864ace9797f76cc68e2e3a5c448687de8321533f3d90aea05831",
+      "cacheKey": "1088e6f26e8c02be5adb5be58ca3e7345c77c002629293865d19b6b078fc6103",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.693777,
+        "pan": [
+          -0.195804,
+          0.025714,
+          0.17729
+        ],
+        "alphaBounds": {
+          "x": 147,
+          "y": 75,
+          "width": 220,
+          "height": 362,
+          "fill": 0.707031,
+          "centerOffset": {
+            "x": 1,
+            "y": 0,
+            "length": 1
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-rpg-characters/quaternius-rpg-characters-wizard.webp",
+      "packRelativePath": "previews/quaternius-rpg-characters-wizard.webp"
+    },
+    "packId": "quaternius-rpg-characters",
+    "publicPath": "assets/quaternius-rpg-characters/quaternius-rpg-characters-wizard/quaternius-rpg-characters-wizard.gltf"
+  }
+]

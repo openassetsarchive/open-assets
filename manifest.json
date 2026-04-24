@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "generatedAt": "2026-04-24T18:53:38.729Z",
+  "generatedAt": "2026-04-24T19:37:04.535Z",
   "inputDir": "/Users/me/dev/open-assets/generated/packs",
-  "catalogSha256": "d8a7fed4b38249392a965ba8c6a81c35e30531833aee566970e62eb46ce1d926",
+  "catalogSha256": "328fe68514a67b6fef3d232c8f4e849b427c4c8fd2c2cf3825e3d2e3e542a20f",
   "copyDetails": true,
   "detailStrategy": "pack-bundles",
   "publicBaseUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main",
   "counts": {
-    "packs": 59,
-    "assets": 10153,
-    "runtimeFiles": 12812,
-    "previews": 3012,
-    "tokens": 2166,
-    "tags": 593,
-    "packTags": 156,
+    "packs": 72,
+    "assets": 10668,
+    "runtimeFiles": 13586,
+    "previews": 3527,
+    "tokens": 2416,
+    "tags": 814,
+    "packTags": 246,
     "kinds": 4,
     "formats": 3
   },
@@ -43,8 +43,8 @@
   "runtimeAssets": {
     "publicUrlField": "publicUrl",
     "publicPathField": "publicPath",
-    "files": 12812,
-    "bytes": 487839514,
+    "files": 13586,
+    "bytes": 2020137818,
     "baseUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main"
   },
   "taxonomy": {

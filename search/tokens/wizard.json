@@ -1,9 +1,16 @@
 {
   "version": 1,
   "token": "wizard",
-  "count": 2,
+  "count": 9,
   "assetIds": [
     "kenney-hexagon-kit-building-wizard-tower",
-    "quaternius-cube-world-kit-enemies-gltf-wizard"
+    "quaternius-cube-world-kit-enemies-gltf-wizard",
+    "quaternius-rpg-characters-cleric",
+    "quaternius-rpg-characters-monk",
+    "quaternius-rpg-characters-ranger",
+    "quaternius-rpg-characters-rogue",
+    "quaternius-rpg-characters-warrior",
+    "quaternius-rpg-characters-wizard",
+    "quaternius-ultimate-monsters-blob-gltf-wizard"
   ]
 }

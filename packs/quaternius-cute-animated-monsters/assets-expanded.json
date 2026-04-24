@@ -1,0 +1,3211 @@
+[
+  {
+    "id": "quaternius-cute-animated-monsters-alien",
+    "name": "Alien",
+    "description": "Cute animated monster character (Alien).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "Alien.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-alien/quaternius-cute-animated-monsters-alien.gltf",
+    "sourceUrl": "https://quaternius.com/packs/cutemonsters.html",
+    "primaryBytes": 566810,
+    "totalBytes": 566810,
+    "primarySha256": "adefcef5f005e49050d6e5927915da268a1a72f480a4b47d928c6ab994a02a1e",
+    "bundleSha256": "f8122f8e0d0397310be78c1fec94257d4a90e55392daa2fba34824841afaa539",
+    "bounds": {
+      "min": [
+        -1.094707,
+        -0.026005,
+        -0.686471
+      ],
+      "max": [
+        1.094707,
+        2.03128,
+        0.730485
+      ],
+      "size": [
+        2.189415,
+        2.057285,
+        1.416956
+      ],
+      "center": [
+        0,
+        1.002637,
+        0.022007
+      ],
+      "diagonal": 3.321705
+    },
+    "triangleCount": 1720,
+    "drawCallCount": 1,
+    "renderVertexCount": 5160,
+    "uploadVertexCount": 1159,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 10,
+    "skinCount": 1,
+    "tags": [
+      "quaternius",
+      "cute",
+      "animated-monster",
+      "monster",
+      "creature",
+      "cartoon",
+      "whimsical",
+      "bright",
+      "toy-like",
+      "stylized",
+      "colorful",
+      "aug-2020",
+      "animated-character"
+    ],
+    "aliases": [
+      "enemy",
+      "npc creature"
+    ],
+    "searchTokens": [
+      "alien",
+      "animated",
+      "aug",
+      "bat",
+      "bee",
+      "bright",
+      "cactus",
+      "cartoon",
+      "character",
+      "chicken",
+      "colorful",
+      "crab",
+      "creature",
+      "cthulhu",
+      "cute",
+      "cyclops",
+      "demon",
+      "dragon",
+      "enemy",
+      "ghost",
+      "like",
+      "monster",
+      "monsters",
+      "npc",
+      "quaternius",
+      "roster",
+      "stylized",
+      "toy",
+      "whimsical",
+      "yeti"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-alien.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7608,
+      "sha256": "c744b98ff1a71aff0d2ae16553a1f7a0f13b616b5df5994288b3a14e71284ace",
+      "transparent": true,
+      "sourceBundleSha256": "f8122f8e0d0397310be78c1fec94257d4a90e55392daa2fba34824841afaa539",
+      "cacheKey": "aaef2880bd506749d4a4f7c9e635046e482d4ea7d93fc362735022b5bfca76a4",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 4.687157,
+        "pan": [
+          0.053444,
+          0.010289,
+          -0.060853
+        ],
+        "alphaBounds": {
+          "x": 103,
+          "y": 66,
+          "width": 304,
+          "height": 380,
+          "fill": 0.742188,
+          "centerOffset": {
+            "x": -1,
+            "y": 0,
+            "length": 1
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-alien.webp",
+      "packRelativePath": "previews/quaternius-cute-animated-monsters-alien.webp"
+    },
+    "packId": "quaternius-cute-animated-monsters",
+    "publicPath": "assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-alien/quaternius-cute-animated-monsters-alien.gltf"
+  },
+  {
+    "id": "quaternius-cute-animated-monsters-alien-tall",
+    "name": "Alien Tall",
+    "description": "Cute animated monster character (Alien Tall).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "Alien_Tall.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-alien-tall/quaternius-cute-animated-monsters-alien-tall.gltf",
+    "sourceUrl": "https://quaternius.com/packs/cutemonsters.html",
+    "primaryBytes": 494113,
+    "totalBytes": 494113,
+    "primarySha256": "5235f4751b9ed4bb41968840904b9249166b24c3ba02c4c7001629e2c2daccb4",
+    "bundleSha256": "6ea74c0366a31dd2b0440ef6bb3fd6e92d2bd37173fcd3ddf748af528d10cd6d",
+    "bounds": {
+      "min": [
+        -1.014728,
+        -0.04187,
+        -0.844116
+      ],
+      "max": [
+        1.014728,
+        2.065813,
+        0.730486
+      ],
+      "size": [
+        2.029455,
+        2.107683,
+        1.574602
+      ],
+      "center": [
+        0,
+        1.011971,
+        -0.056815
+      ],
+      "diagonal": 3.322707
+    },
+    "triangleCount": 1592,
+    "drawCallCount": 1,
+    "renderVertexCount": 4776,
+    "uploadVertexCount": 1054,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 10,
+    "skinCount": 1,
+    "tags": [
+      "quaternius",
+      "cute",
+      "animated-monster",
+      "monster",
+      "creature",
+      "cartoon",
+      "whimsical",
+      "bright",
+      "toy-like",
+      "stylized",
+      "colorful",
+      "aug-2020",
+      "animated-character"
+    ],
+    "aliases": [
+      "enemy",
+      "npc creature"
+    ],
+    "searchTokens": [
+      "alien",
+      "animated",
+      "aug",
+      "bat",
+      "bee",
+      "bright",
+      "cactus",
+      "cartoon",
+      "character",
+      "chicken",
+      "colorful",
+      "crab",
+      "creature",
+      "cthulhu",
+      "cute",
+      "cyclops",
+      "demon",
+      "dragon",
+      "enemy",
+      "ghost",
+      "like",
+      "monster",
+      "monsters",
+      "npc",
+      "quaternius",
+      "roster",
+      "stylized",
+      "tall",
+      "toy",
+      "whimsical",
+      "yeti"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-alien-tall.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7786,
+      "sha256": "9e41dfb7640913dd7253ede735b53d8040d103450a2bfc0d442a4304deef70d6",
+      "transparent": true,
+      "sourceBundleSha256": "6ea74c0366a31dd2b0440ef6bb3fd6e92d2bd37173fcd3ddf748af528d10cd6d",
+      "cacheKey": "2623de366bd4dfc63db6578f33009a6260723261d8e319d5edb38f0ef3e8409b",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 4.858486,
+        "pan": [
+          -0.081702,
+          -0.047279,
+          0.115742
+        ],
+        "alphaBounds": {
+          "x": 116,
+          "y": 72,
+          "width": 278,
+          "height": 368,
+          "fill": 0.71875,
+          "centerOffset": {
+            "x": -1,
+            "y": 0,
+            "length": 1
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-alien-tall.webp",
+      "packRelativePath": "previews/quaternius-cute-animated-monsters-alien-tall.webp"
+    },
+    "packId": "quaternius-cute-animated-monsters",
+    "publicPath": "assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-alien-tall/quaternius-cute-animated-monsters-alien-tall.gltf"
+  },
+  {
+    "id": "quaternius-cute-animated-monsters-bat",
+    "name": "Bat",
+    "description": "Cute animated flying monster (Bat).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "Bat.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-bat/quaternius-cute-animated-monsters-bat.gltf",
+    "sourceUrl": "https://quaternius.com/packs/cutemonsters.html",
+    "primaryBytes": 515943,
+    "totalBytes": 515943,
+    "primarySha256": "47574f68f8c9e1c953a09f79e4b5f5fb1c07e240130d208fbd63bd91d0ecb63c",
+    "bundleSha256": "752ec1cc00c1a0ace62acc88adaf72b90d94b5cfe506c50a6dc2fc8c841b3481",
+    "bounds": {
+      "min": [
+        -1.603126,
+        -0.023385,
+        -0.686471
+      ],
+      "max": [
+        1.603126,
+        1.730603,
+        0.730485
+      ],
+      "size": [
+        3.206252,
+        1.753988,
+        1.416956
+      ],
+      "center": [
+        0,
+        0.853609,
+        0.022007
+      ],
+      "diagonal": 3.919731
+    },
+    "triangleCount": 1200,
+    "drawCallCount": 1,
+    "renderVertexCount": 3600,
+    "uploadVertexCount": 1008,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 4,
+    "skinCount": 1,
+    "tags": [
+      "quaternius",
+      "cute",
+      "animated-monster",
+      "monster",
+      "creature",
+      "cartoon",
+      "whimsical",
+      "bright",
+      "toy-like",
+      "stylized",
+      "colorful",
+      "aug-2020",
+      "animated-character",
+      "bat",
+      "flying-creature"
+    ],
+    "aliases": [
+      "enemy",
+      "npc creature"
+    ],
+    "searchTokens": [
+      "alien",
+      "animated",
+      "aug",
+      "bat",
+      "bee",
+      "bright",
+      "cactus",
+      "cartoon",
+      "character",
+      "chicken",
+      "colorful",
+      "crab",
+      "creature",
+      "cthulhu",
+      "cute",
+      "cyclops",
+      "demon",
+      "dragon",
+      "enemy",
+      "flying",
+      "ghost",
+      "like",
+      "monster",
+      "monsters",
+      "npc",
+      "quaternius",
+      "roster",
+      "stylized",
+      "toy",
+      "whimsical",
+      "yeti"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-bat.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6106,
+      "sha256": "11656dfa5c1581377c29de93f125d31148aa782ac636cf95241ab76ce47390e1",
+      "transparent": true,
+      "sourceBundleSha256": "752ec1cc00c1a0ace62acc88adaf72b90d94b5cfe506c50a6dc2fc8c841b3481",
+      "cacheKey": "618fec55f11c883c331e187c0fa8936ce6cebddf61649577729466483d3354ec",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 5.269424,
+        "pan": [
+          0.141179,
+          0.027243,
+          -0.160795
+        ],
+        "alphaBounds": {
+          "x": 73,
+          "y": 104,
+          "width": 364,
+          "height": 304,
+          "fill": 0.710938,
+          "centerOffset": {
+            "x": -1,
+            "y": 0,
+            "length": 1
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-bat.webp",
+      "packRelativePath": "previews/quaternius-cute-animated-monsters-bat.webp"
+    },
+    "packId": "quaternius-cute-animated-monsters",
+    "publicPath": "assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-bat/quaternius-cute-animated-monsters-bat.gltf"
+  },
+  {
+    "id": "quaternius-cute-animated-monsters-bee",
+    "name": "Bee",
+    "description": "Cute animated insect monster (Bee).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "Bee.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-bee/quaternius-cute-animated-monsters-bee.gltf",
+    "sourceUrl": "https://quaternius.com/packs/cutemonsters.html",
+    "primaryBytes": 442552,
+    "totalBytes": 442552,
+    "primarySha256": "a40c414e15f2af87b25dcc6d244ea4a2a470921340092c74fd66b8e9fe1bc0a8",
+    "bundleSha256": "ffcbc6c2bb6f724b45065764f1c226eb374fbc32de6d236390b08abb6328788a",
+    "bounds": {
+      "min": [
+        -1.445053,
+        -0.020201,
+        -0.686471
+      ],
+      "max": [
+        1.445053,
+        1.87696,
+        0.798944
+      ],
+      "size": [
+        2.890106,
+        1.897161,
+        1.485414
+      ],
+      "center": [
+        0,
+        0.928379,
+        0.056236
+      ],
+      "diagonal": 3.762763
+    },
+    "triangleCount": 1492,
+    "drawCallCount": 1,
+    "renderVertexCount": 4476,
+    "uploadVertexCount": 1387,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 4,
+    "skinCount": 1,
+    "tags": [
+      "quaternius",
+      "cute",
+      "animated-monster",
+      "monster",
+      "creature",
+      "cartoon",
+      "whimsical",
+      "bright",
+      "toy-like",
+      "stylized",
+      "colorful",
+      "aug-2020",
+      "animated-character",
+      "bee",
+      "insect",
+      "flying-creature"
+    ],
+    "aliases": [
+      "enemy",
+      "npc creature"
+    ],
+    "searchTokens": [
+      "alien",
+      "animated",
+      "aug",
+      "bat",
+      "bee",
+      "bright",
+      "cactus",
+      "cartoon",
+      "character",
+      "chicken",
+      "colorful",
+      "crab",
+      "creature",
+      "cthulhu",
+      "cute",
+      "cyclops",
+      "demon",
+      "dragon",
+      "enemy",
+      "flying",
+      "ghost",
+      "insect",
+      "like",
+      "monster",
+      "monsters",
+      "npc",
+      "quaternius",
+      "roster",
+      "stylized",
+      "toy",
+      "whimsical",
+      "yeti"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-bee.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9586,
+      "sha256": "e88637f1c8de00f1f1c085a916184b75560f6fc98315ea75cbce10e407187975",
+      "transparent": true,
+      "sourceBundleSha256": "ffcbc6c2bb6f724b45065764f1c226eb374fbc32de6d236390b08abb6328788a",
+      "cacheKey": "ace301387bdc217dd72ede815b358f34c70849411b6cb83fc0f5520e56119ff1",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 4.843934,
+        "pan": [
+          0.105602,
+          -0.041352,
+          -0.075829
+        ],
+        "alphaBounds": {
+          "x": 68,
+          "y": 95,
+          "width": 376,
+          "height": 322,
+          "fill": 0.734375,
+          "centerOffset": {
+            "x": 0,
+            "y": 0,
+            "length": 0
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-bee.webp",
+      "packRelativePath": "previews/quaternius-cute-animated-monsters-bee.webp"
+    },
+    "packId": "quaternius-cute-animated-monsters",
+    "publicPath": "assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-bee/quaternius-cute-animated-monsters-bee.gltf"
+  },
+  {
+    "id": "quaternius-cute-animated-monsters-cactus",
+    "name": "Cactus",
+    "description": "Cute animated monster character (Cactus).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "Cactus.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-cactus/quaternius-cute-animated-monsters-cactus.gltf",
+    "sourceUrl": "https://quaternius.com/packs/cutemonsters.html",
+    "primaryBytes": 605513,
+    "totalBytes": 605513,
+    "primarySha256": "0ae5c2c43d4d82726a1a917f2af8f8a48084b7ad89265a90409a278c9e271596",
+    "bundleSha256": "d7ae3f1d9d202cdc6cf59bfa9832b3438f20ed53498501af93a8a1884a9b6bbb",
+    "bounds": {
+      "min": [
+        -1.183529,
+        -0.166858,
+        -0.724677
+      ],
+      "max": [
+        1.183529,
+        2.057545,
+        0.73376
+      ],
+      "size": [
+        2.367057,
+        2.224403,
+        1.458437
+      ],
+      "center": [
+        0,
+        0.945344,
+        0.004541
+      ],
+      "diagonal": 3.560613
+    },
+    "triangleCount": 1500,
+    "drawCallCount": 1,
+    "renderVertexCount": 4500,
+    "uploadVertexCount": 1512,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 10,
+    "skinCount": 1,
+    "tags": [
+      "quaternius",
+      "cute",
+      "animated-monster",
+      "monster",
+      "creature",
+      "cartoon",
+      "whimsical",
+      "bright",
+      "toy-like",
+      "stylized",
+      "colorful",
+      "aug-2020",
+      "animated-character"
+    ],
+    "aliases": [
+      "enemy",
+      "npc creature"
+    ],
+    "searchTokens": [
+      "alien",
+      "animated",
+      "aug",
+      "bat",
+      "bee",
+      "bright",
+      "cactus",
+      "cartoon",
+      "character",
+      "chicken",
+      "colorful",
+      "crab",
+      "creature",
+      "cthulhu",
+      "cute",
+      "cyclops",
+      "demon",
+      "dragon",
+      "enemy",
+      "ghost",
+      "like",
+      "monster",
+      "monsters",
+      "npc",
+      "quaternius",
+      "roster",
+      "stylized",
+      "toy",
+      "whimsical",
+      "yeti"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-cactus.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8264,
+      "sha256": "953afdce0b69114cb736b2ad3f8d5def92e24a82fb1f6d54ee368d81d34bf4c4",
+      "transparent": true,
+      "sourceBundleSha256": "d7ae3f1d9d202cdc6cf59bfa9832b3438f20ed53498501af93a8a1884a9b6bbb",
+      "cacheKey": "0cecde5d21b8f50f0f4556fdb070f1e6b72f9f6c456f6236a9a862f2e85551ca",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 5.067459,
+        "pan": [
+          0.012443,
+          0.008343,
+          -0.01845
+        ],
+        "alphaBounds": {
+          "x": 100,
+          "y": 71,
+          "width": 312,
+          "height": 369,
+          "fill": 0.720703,
+          "centerOffset": {
+            "x": 0,
+            "y": -0.5,
+            "length": 0.5
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-cactus.webp",
+      "packRelativePath": "previews/quaternius-cute-animated-monsters-cactus.webp"
+    },
+    "packId": "quaternius-cute-animated-monsters",
+    "publicPath": "assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-cactus/quaternius-cute-animated-monsters-cactus.gltf"
+  },
+  {
+    "id": "quaternius-cute-animated-monsters-chicken",
+    "name": "Chicken",
+    "description": "Cute animated monster character (Chicken).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "Chicken.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-chicken/quaternius-cute-animated-monsters-chicken.gltf",
+    "sourceUrl": "https://quaternius.com/packs/cutemonsters.html",
+    "primaryBytes": 527755,
+    "totalBytes": 527755,
+    "primarySha256": "eefd2179dded3cd046cb1ccb002d98feedc2a929d6eed764f41994ecb546f2b7",
+    "bundleSha256": "778faed06ca39716ed6bc9ac1a96a6a4501d07a85f3e6047c4f60dfcb94e2bc3",
+    "bounds": {
+      "min": [
+        -1.134551,
+        -0.027941,
+        -0.686471
+      ],
+      "max": [
+        1.134551,
+        1.585337,
+        0.868382
+      ],
+      "size": [
+        2.269102,
+        1.613278,
+        1.554852
+      ],
+      "center": [
+        0,
+        0.778698,
+        0.090956
+      ],
+      "diagonal": 3.188896
+    },
+    "triangleCount": 1040,
+    "drawCallCount": 1,
+    "renderVertexCount": 3120,
+    "uploadVertexCount": 842,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 10,
+    "skinCount": 1,
+    "tags": [
+      "quaternius",
+      "cute",
+      "animated-monster",
+      "monster",
+      "creature",
+      "cartoon",
+      "whimsical",
+      "bright",
+      "toy-like",
+      "stylized",
+      "colorful",
+      "aug-2020",
+      "animated-character"
+    ],
+    "aliases": [
+      "enemy",
+      "npc creature"
+    ],
+    "searchTokens": [
+      "alien",
+      "animated",
+      "aug",
+      "bat",
+      "bee",
+      "bright",
+      "cactus",
+      "cartoon",
+      "character",
+      "chicken",
+      "colorful",
+      "crab",
+      "creature",
+      "cthulhu",
+      "cute",
+      "cyclops",
+      "demon",
+      "dragon",
+      "enemy",
+      "ghost",
+      "like",
+      "monster",
+      "monsters",
+      "npc",
+      "quaternius",
+      "roster",
+      "stylized",
+      "toy",
+      "whimsical",
+      "yeti"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-chicken.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8340,
+      "sha256": "282ce3ab35f7c43780046c246d43f3818d28ee602f6a8abc37940a308a1ce632",
+      "transparent": true,
+      "sourceBundleSha256": "778faed06ca39716ed6bc9ac1a96a6a4501d07a85f3e6047c4f60dfcb94e2bc3",
+      "cacheKey": "4948e0be08fba00b80b5fec1a9d7866996a0c86b1c0946dfbc87b40d61579f40",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 4.085025,
+        "pan": [
+          0.089979,
+          -0.026659,
+          -0.070784
+        ],
+        "alphaBounds": {
+          "x": 71,
+          "y": 91,
+          "width": 370,
+          "height": 332,
+          "fill": 0.722656,
+          "centerOffset": {
+            "x": 0,
+            "y": 1,
+            "length": 1
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-chicken.webp",
+      "packRelativePath": "previews/quaternius-cute-animated-monsters-chicken.webp"
+    },
+    "packId": "quaternius-cute-animated-monsters",
+    "publicPath": "assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-chicken/quaternius-cute-animated-monsters-chicken.gltf"
+  },
+  {
+    "id": "quaternius-cute-animated-monsters-crab",
+    "name": "Crab",
+    "description": "Cute animated monster character (Crab).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "Crab.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-crab/quaternius-cute-animated-monsters-crab.gltf",
+    "sourceUrl": "https://quaternius.com/packs/cutemonsters.html",
+    "primaryBytes": 569872,
+    "totalBytes": 569872,
+    "primarySha256": "603fbbbb83b940f71a37af09047949894b0f20ef28a198d76d43fcdf40529736",
+    "bundleSha256": "aa68122e1250a4e82e811437331c0b63a2035fcc984a790f162ecf57c470efc4",
+    "bounds": {
+      "min": [
+        -1.283422,
+        -0.028691,
+        -0.686471
+      ],
+      "max": [
+        1.283422,
+        1.538094,
+        0.730486
+      ],
+      "size": [
+        2.566844,
+        1.566785,
+        1.416956
+      ],
+      "center": [
+        0,
+        0.754701,
+        0.022007
+      ],
+      "diagonal": 3.324345
+    },
+    "triangleCount": 1820,
+    "drawCallCount": 1,
+    "renderVertexCount": 5460,
+    "uploadVertexCount": 1337,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 10,
+    "skinCount": 1,
+    "tags": [
+      "quaternius",
+      "cute",
+      "animated-monster",
+      "monster",
+      "creature",
+      "cartoon",
+      "whimsical",
+      "bright",
+      "toy-like",
+      "stylized",
+      "colorful",
+      "aug-2020",
+      "animated-character"
+    ],
+    "aliases": [
+      "enemy",
+      "npc creature"
+    ],
+    "searchTokens": [
+      "alien",
+      "animated",
+      "aug",
+      "bat",
+      "bee",
+      "bright",
+      "cactus",
+      "cartoon",
+      "character",
+      "chicken",
+      "colorful",
+      "crab",
+      "creature",
+      "cthulhu",
+      "cute",
+      "cyclops",
+      "demon",
+      "dragon",
+      "enemy",
+      "ghost",
+      "like",
+      "monster",
+      "monsters",
+      "npc",
+      "quaternius",
+      "roster",
+      "stylized",
+      "toy",
+      "whimsical",
+      "yeti"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-crab.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8250,
+      "sha256": "1c16d22d7864fe8e57fe1d4c480d13b4a14b02ec1b202ccbbd0e83dd578573cc",
+      "transparent": true,
+      "sourceBundleSha256": "aa68122e1250a4e82e811437331c0b63a2035fcc984a790f162ecf57c470efc4",
+      "cacheKey": "4c30f54123c3ed6ee93905f212deaa37035276c57c1ea28348c3465aec1adefb",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 4.591232,
+        "pan": [
+          0.110404,
+          -0.176933,
+          0.016988
+        ],
+        "alphaBounds": {
+          "x": 72,
+          "y": 87,
+          "width": 367,
+          "height": 338,
+          "fill": 0.716797,
+          "centerOffset": {
+            "x": -0.5,
+            "y": 0,
+            "length": 0.5
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-crab.webp",
+      "packRelativePath": "previews/quaternius-cute-animated-monsters-crab.webp"
+    },
+    "packId": "quaternius-cute-animated-monsters",
+    "publicPath": "assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-crab/quaternius-cute-animated-monsters-crab.gltf"
+  },
+  {
+    "id": "quaternius-cute-animated-monsters-cthulhu",
+    "name": "Cthulhu",
+    "description": "Cute animated monster character (Cthulhu).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "Cthulhu.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-cthulhu/quaternius-cute-animated-monsters-cthulhu.gltf",
+    "sourceUrl": "https://quaternius.com/packs/cutemonsters.html",
+    "primaryBytes": 565255,
+    "totalBytes": 565255,
+    "primarySha256": "94c94cf3ea196401d81a96f4eded3e7847545cd204ac519a79caa248e65c3ad1",
+    "bundleSha256": "2b422cc4e3cab00e5f3cc6d5807bb8a59fae63b204bdae8c60fa66393aeb31dc",
+    "bounds": {
+      "min": [
+        -1.603126,
+        -0.056671,
+        -0.686471
+      ],
+      "max": [
+        1.603126,
+        1.508136,
+        0.803385
+      ],
+      "size": [
+        3.206252,
+        1.564807,
+        1.489855
+      ],
+      "center": [
+        0,
+        0.725733,
+        0.058457
+      ],
+      "diagonal": 3.866309
+    },
+    "triangleCount": 1576,
+    "drawCallCount": 1,
+    "renderVertexCount": 4728,
+    "uploadVertexCount": 1188,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 4,
+    "skinCount": 1,
+    "tags": [
+      "quaternius",
+      "cute",
+      "animated-monster",
+      "monster",
+      "creature",
+      "cartoon",
+      "whimsical",
+      "bright",
+      "toy-like",
+      "stylized",
+      "colorful",
+      "aug-2020",
+      "animated-character"
+    ],
+    "aliases": [
+      "enemy",
+      "npc creature"
+    ],
+    "searchTokens": [
+      "alien",
+      "animated",
+      "aug",
+      "bat",
+      "bee",
+      "bright",
+      "cactus",
+      "cartoon",
+      "character",
+      "chicken",
+      "colorful",
+      "crab",
+      "creature",
+      "cthulhu",
+      "cute",
+      "cyclops",
+      "demon",
+      "dragon",
+      "enemy",
+      "ghost",
+      "like",
+      "monster",
+      "monsters",
+      "npc",
+      "quaternius",
+      "roster",
+      "stylized",
+      "toy",
+      "whimsical",
+      "yeti"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-cthulhu.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6304,
+      "sha256": "e5595399f05d5faf599557f35b83ef4990f8fa7a8da390ccd7eba5837424b184",
+      "transparent": true,
+      "sourceBundleSha256": "2b422cc4e3cab00e5f3cc6d5807bb8a59fae63b204bdae8c60fa66393aeb31dc",
+      "cacheKey": "8c4431a7753ea2e2e3282347c9b2848f36075840d1b0d0c70b89dd3005126f9a",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 5.306664,
+        "pan": [
+          0.170739,
+          -0.010794,
+          -0.162967
+        ],
+        "alphaBounds": {
+          "x": 74,
+          "y": 125,
+          "width": 363,
+          "height": 261,
+          "fill": 0.708984,
+          "centerOffset": {
+            "x": -0.5,
+            "y": -0.5,
+            "length": 0.707107
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-cthulhu.webp",
+      "packRelativePath": "previews/quaternius-cute-animated-monsters-cthulhu.webp"
+    },
+    "packId": "quaternius-cute-animated-monsters",
+    "publicPath": "assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-cthulhu/quaternius-cute-animated-monsters-cthulhu.gltf"
+  },
+  {
+    "id": "quaternius-cute-animated-monsters-cyclops",
+    "name": "Cyclops",
+    "description": "Cute animated monster character (Cyclops).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "Cyclops.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-cyclops/quaternius-cute-animated-monsters-cyclops.gltf",
+    "sourceUrl": "https://quaternius.com/packs/cutemonsters.html",
+    "primaryBytes": 572465,
+    "totalBytes": 572465,
+    "primarySha256": "641c85bac1e7009b0ded1179fcf470e2f46719cd414da97515fa05343e87ba9b",
+    "bundleSha256": "e7187b3d6f023e78df751ca7945da2b9dedc5a868542255ae64d9756eda14245",
+    "bounds": {
+      "min": [
+        -0.818337,
+        -0.030711,
+        -0.686471
+      ],
+      "max": [
+        0.818337,
+        1.63665,
+        0.786211
+      ],
+      "size": [
+        1.636674,
+        1.667361,
+        1.472681
+      ],
+      "center": [
+        0,
+        0.80297,
+        0.04987
+      ],
+      "diagonal": 2.761808
+    },
+    "triangleCount": 972,
+    "drawCallCount": 1,
+    "renderVertexCount": 2916,
+    "uploadVertexCount": 696,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 10,
+    "skinCount": 1,
+    "tags": [
+      "quaternius",
+      "cute",
+      "animated-monster",
+      "monster",
+      "creature",
+      "cartoon",
+      "whimsical",
+      "bright",
+      "toy-like",
+      "stylized",
+      "colorful",
+      "aug-2020",
+      "animated-character"
+    ],
+    "aliases": [
+      "enemy",
+      "npc creature"
+    ],
+    "searchTokens": [
+      "alien",
+      "animated",
+      "aug",
+      "bat",
+      "bee",
+      "bright",
+      "cactus",
+      "cartoon",
+      "character",
+      "chicken",
+      "colorful",
+      "crab",
+      "creature",
+      "cthulhu",
+      "cute",
+      "cyclops",
+      "demon",
+      "dragon",
+      "enemy",
+      "ghost",
+      "like",
+      "monster",
+      "monsters",
+      "npc",
+      "quaternius",
+      "roster",
+      "stylized",
+      "toy",
+      "whimsical",
+      "yeti"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-cyclops.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8720,
+      "sha256": "ce2d9916c094e76d9c82946f92dcecc4fb366bfe02f0c1daf17b4731fadc11f8",
+      "transparent": true,
+      "sourceBundleSha256": "e7187b3d6f023e78df751ca7945da2b9dedc5a868542255ae64d9756eda14245",
+      "cacheKey": "3a0477a00c1448c593fa7629ba9757108f9f70584e1abc2fa6761103bc956488",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.906908,
+        "pan": [
+          0.0169,
+          -0.029566,
+          0.004388
+        ],
+        "alphaBounds": {
+          "x": 102,
+          "y": 72,
+          "width": 308,
+          "height": 368,
+          "fill": 0.71875,
+          "centerOffset": {
+            "x": 0,
+            "y": 0,
+            "length": 0
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-cyclops.webp",
+      "packRelativePath": "previews/quaternius-cute-animated-monsters-cyclops.webp"
+    },
+    "packId": "quaternius-cute-animated-monsters",
+    "publicPath": "assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-cyclops/quaternius-cute-animated-monsters-cyclops.gltf"
+  },
+  {
+    "id": "quaternius-cute-animated-monsters-deer",
+    "name": "Deer",
+    "description": "Cute animated monster character (Deer).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "Deer.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-deer/quaternius-cute-animated-monsters-deer.gltf",
+    "sourceUrl": "https://quaternius.com/packs/cutemonsters.html",
+    "primaryBytes": 540514,
+    "totalBytes": 540514,
+    "primarySha256": "d97b3a935c8112cbcefed00171fe216c1e62d3597521893ba7aa40d23ecb34f8",
+    "bundleSha256": "e3bbdb524e213e08e282627c8466dac836d92bfc01fe52a4e1d46abdaf2e0abd",
+    "bounds": {
+      "min": [
+        -0.945746,
+        -0.04008,
+        -0.686471
+      ],
+      "max": [
+        0.945746,
+        1.857563,
+        0.759218
+      ],
+      "size": [
+        1.891492,
+        1.897643,
+        1.445688
+      ],
+      "center": [
+        0,
+        0.908741,
+        0.036373
+      ],
+      "diagonal": 3.044471
+    },
+    "triangleCount": 1180,
+    "drawCallCount": 1,
+    "renderVertexCount": 3540,
+    "uploadVertexCount": 1088,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 10,
+    "skinCount": 1,
+    "tags": [
+      "quaternius",
+      "cute",
+      "animated-monster",
+      "monster",
+      "creature",
+      "cartoon",
+      "whimsical",
+      "bright",
+      "toy-like",
+      "stylized",
+      "colorful",
+      "aug-2020",
+      "animated-character"
+    ],
+    "aliases": [
+      "enemy",
+      "npc creature"
+    ],
+    "searchTokens": [
+      "alien",
+      "animated",
+      "aug",
+      "bat",
+      "bee",
+      "bright",
+      "cactus",
+      "cartoon",
+      "character",
+      "chicken",
+      "colorful",
+      "crab",
+      "creature",
+      "cthulhu",
+      "cute",
+      "cyclops",
+      "deer",
+      "demon",
+      "dragon",
+      "enemy",
+      "ghost",
+      "like",
+      "monster",
+      "monsters",
+      "npc",
+      "quaternius",
+      "roster",
+      "stylized",
+      "toy",
+      "whimsical",
+      "yeti"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-deer.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8430,
+      "sha256": "b548f464d9746d6373d0c68368f3c3ffaea263bf317680c68cef8882075458a9",
+      "transparent": true,
+      "sourceBundleSha256": "e3bbdb524e213e08e282627c8466dac836d92bfc01fe52a4e1d46abdaf2e0abd",
+      "cacheKey": "68f2422e90571237791f30890d7062e9da677ea331118da5911d74b70b999c29",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 4.349984,
+        "pan": [
+          -0.014432,
+          -0.029185,
+          0.035445
+        ],
+        "alphaBounds": {
+          "x": 74,
+          "y": 72,
+          "width": 365,
+          "height": 367,
+          "fill": 0.716797,
+          "centerOffset": {
+            "x": 0.5,
+            "y": -0.5,
+            "length": 0.707107
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-deer.webp",
+      "packRelativePath": "previews/quaternius-cute-animated-monsters-deer.webp"
+    },
+    "packId": "quaternius-cute-animated-monsters",
+    "publicPath": "assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-deer/quaternius-cute-animated-monsters-deer.gltf"
+  },
+  {
+    "id": "quaternius-cute-animated-monsters-demon",
+    "name": "Demon",
+    "description": "Cute animated demon monster (Demon).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "Demon.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-demon/quaternius-cute-animated-monsters-demon.gltf",
+    "sourceUrl": "https://quaternius.com/packs/cutemonsters.html",
+    "primaryBytes": 578810,
+    "totalBytes": 578810,
+    "primarySha256": "89e8a15ec263b57299935a0751a819d8c344c78e9fdecb30ef76a01613efbc44",
+    "bundleSha256": "94b63b899dbd1e59aba0981807c4ba1c8e6c57a75cd4ce480f0cc1f4aec7e075",
+    "bounds": {
+      "min": [
+        -0.989031,
+        -0.052027,
+        -0.686471
+      ],
+      "max": [
+        0.989031,
+        1.572298,
+        0.730486
+      ],
+      "size": [
+        1.978062,
+        1.624325,
+        1.416956
+      ],
+      "center": [
+        0,
+        0.760136,
+        0.022007
+      ],
+      "diagonal": 2.925564
+    },
+    "triangleCount": 1640,
+    "drawCallCount": 1,
+    "renderVertexCount": 4920,
+    "uploadVertexCount": 1480,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 10,
+    "skinCount": 1,
+    "tags": [
+      "quaternius",
+      "cute",
+      "animated-monster",
+      "monster",
+      "creature",
+      "cartoon",
+      "whimsical",
+      "bright",
+      "toy-like",
+      "stylized",
+      "colorful",
+      "aug-2020",
+      "animated-character",
+      "demon",
+      "horned-creature",
+      "fantasy-creature"
+    ],
+    "aliases": [
+      "enemy",
+      "npc creature"
+    ],
+    "searchTokens": [
+      "alien",
+      "animated",
+      "aug",
+      "bat",
+      "bee",
+      "bright",
+      "cactus",
+      "cartoon",
+      "character",
+      "chicken",
+      "colorful",
+      "crab",
+      "creature",
+      "cthulhu",
+      "cute",
+      "cyclops",
+      "demon",
+      "dragon",
+      "enemy",
+      "fantasy",
+      "ghost",
+      "horned",
+      "like",
+      "monster",
+      "monsters",
+      "npc",
+      "quaternius",
+      "roster",
+      "stylized",
+      "toy",
+      "whimsical",
+      "yeti"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-demon.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9450,
+      "sha256": "5fcdb2300b424ebdd56d6dd74f24766d832b9d26aa2c5e1148101010397be5d3",
+      "transparent": true,
+      "sourceBundleSha256": "94b63b899dbd1e59aba0981807c4ba1c8e6c57a75cd4ce480f0cc1f4aec7e075",
+      "cacheKey": "d61d140240f0b595426b42d3811afdec9af104eff8021b1846aa8bca3a8bd87e",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.871228,
+        "pan": [
+          0.000258,
+          -0.028087,
+          0.019964
+        ],
+        "alphaBounds": {
+          "x": 75,
+          "y": 71,
+          "width": 361,
+          "height": 370,
+          "fill": 0.722656,
+          "centerOffset": {
+            "x": -0.5,
+            "y": 0,
+            "length": 0.5
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-demon.webp",
+      "packRelativePath": "previews/quaternius-cute-animated-monsters-demon.webp"
+    },
+    "packId": "quaternius-cute-animated-monsters",
+    "publicPath": "assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-demon/quaternius-cute-animated-monsters-demon.gltf"
+  },
+  {
+    "id": "quaternius-cute-animated-monsters-ghost",
+    "name": "Ghost",
+    "description": "Cute animated ghost monster (Ghost).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "Ghost.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-ghost/quaternius-cute-animated-monsters-ghost.gltf",
+    "sourceUrl": "https://quaternius.com/packs/cutemonsters.html",
+    "primaryBytes": 457860,
+    "totalBytes": 457860,
+    "primarySha256": "1ad3bb4f71a1050d74a6583e4f6a59d70e7189ed198c59aacf710e47d78dadd2",
+    "bundleSha256": "276aa92edac2c76e0b4bfe99db5580a77ef9ea8fd64184af201f3365985ad4c8",
+    "bounds": {
+      "min": [
+        -0.725837,
+        -0.004727,
+        -0.725837
+      ],
+      "max": [
+        0.725837,
+        1.39288,
+        0.736493
+      ],
+      "size": [
+        1.451674,
+        1.397608,
+        1.46233
+      ],
+      "center": [
+        0,
+        0.694077,
+        0.005328
+      ],
+      "diagonal": 2.489794
+    },
+    "triangleCount": 1000,
+    "drawCallCount": 1,
+    "renderVertexCount": 3000,
+    "uploadVertexCount": 877,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 10,
+    "skinCount": 1,
+    "tags": [
+      "quaternius",
+      "cute",
+      "animated-monster",
+      "monster",
+      "creature",
+      "cartoon",
+      "whimsical",
+      "bright",
+      "toy-like",
+      "stylized",
+      "colorful",
+      "aug-2020",
+      "animated-character",
+      "ghost",
+      "undead",
+      "spooky"
+    ],
+    "aliases": [
+      "enemy",
+      "npc creature"
+    ],
+    "searchTokens": [
+      "alien",
+      "animated",
+      "aug",
+      "bat",
+      "bee",
+      "bright",
+      "cactus",
+      "cartoon",
+      "character",
+      "chicken",
+      "colorful",
+      "crab",
+      "creature",
+      "cthulhu",
+      "cute",
+      "cyclops",
+      "demon",
+      "dragon",
+      "enemy",
+      "ghost",
+      "like",
+      "monster",
+      "monsters",
+      "npc",
+      "quaternius",
+      "roster",
+      "spooky",
+      "stylized",
+      "toy",
+      "undead",
+      "whimsical",
+      "yeti"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-ghost.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8212,
+      "sha256": "fcc68a0ce10bb51013db256f4dda4ceb5e09b2ca8c705b554aeaae5ccb2c8949",
+      "transparent": true,
+      "sourceBundleSha256": "276aa92edac2c76e0b4bfe99db5580a77ef9ea8fd64184af201f3365985ad4c8",
+      "cacheKey": "b883cb22c1255c1af3e6bce051c28a6e70fc1c72dc6f460a0d0a206fdeb36c49",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.770573,
+        "pan": [
+          0.013941,
+          -0.141657,
+          0.088052
+        ],
+        "alphaBounds": {
+          "x": 88,
+          "y": 66,
+          "width": 336,
+          "height": 379,
+          "fill": 0.740234,
+          "centerOffset": {
+            "x": 0,
+            "y": -0.5,
+            "length": 0.5
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-ghost.webp",
+      "packRelativePath": "previews/quaternius-cute-animated-monsters-ghost.webp"
+    },
+    "packId": "quaternius-cute-animated-monsters",
+    "publicPath": "assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-ghost/quaternius-cute-animated-monsters-ghost.gltf"
+  },
+  {
+    "id": "quaternius-cute-animated-monsters-greendemon",
+    "name": "Green Demon",
+    "description": "Cute animated demon monster (Green Demon).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "GreenDemon.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-greendemon/quaternius-cute-animated-monsters-greendemon.gltf",
+    "sourceUrl": "https://quaternius.com/packs/cutemonsters.html",
+    "primaryBytes": 565517,
+    "totalBytes": 565517,
+    "primarySha256": "e027a129ae5ec7d995dab28af44ca8ade43880f9489defec99d60ef04fb62bf0",
+    "bundleSha256": "326d24583f769288c5eb7d92f5777adfd6a7e0db76d013bc88f4880779c01055",
+    "bounds": {
+      "min": [
+        -0.842135,
+        -0.044333,
+        -0.686471
+      ],
+      "max": [
+        0.842135,
+        1.579992,
+        0.730486
+      ],
+      "size": [
+        1.68427,
+        1.624325,
+        1.416956
+      ],
+      "center": [
+        0,
+        0.767829,
+        0.022008
+      ],
+      "diagonal": 2.7355
+    },
+    "triangleCount": 1280,
+    "drawCallCount": 1,
+    "renderVertexCount": 3840,
+    "uploadVertexCount": 1169,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 10,
+    "skinCount": 1,
+    "tags": [
+      "quaternius",
+      "cute",
+      "animated-monster",
+      "monster",
+      "creature",
+      "cartoon",
+      "whimsical",
+      "bright",
+      "toy-like",
+      "stylized",
+      "colorful",
+      "aug-2020",
+      "animated-character",
+      "demon",
+      "horned-creature",
+      "fantasy-creature"
+    ],
+    "aliases": [
+      "enemy",
+      "npc creature"
+    ],
+    "searchTokens": [
+      "alien",
+      "animated",
+      "aug",
+      "bat",
+      "bee",
+      "bright",
+      "cactus",
+      "cartoon",
+      "character",
+      "chicken",
+      "colorful",
+      "crab",
+      "creature",
+      "cthulhu",
+      "cute",
+      "cyclops",
+      "demon",
+      "dragon",
+      "enemy",
+      "fantasy",
+      "ghost",
+      "green",
+      "horned",
+      "like",
+      "monster",
+      "monsters",
+      "npc",
+      "quaternius",
+      "roster",
+      "stylized",
+      "toy",
+      "whimsical",
+      "yeti"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-greendemon.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8586,
+      "sha256": "259ffe05715bacf596af3067a2b0dab977ddb4477ab5e90786cfebefd5db5a14",
+      "transparent": true,
+      "sourceBundleSha256": "326d24583f769288c5eb7d92f5777adfd6a7e0db76d013bc88f4880779c01055",
+      "cacheKey": "c5de2ebe0f54aed90c6e6ae6be56271a7ebeba6ad44eae04e75d36fabfe57729",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 4.117815,
+        "pan": [
+          -0.025533,
+          0.016111,
+          0.013933
+        ],
+        "alphaBounds": {
+          "x": 100,
+          "y": 72,
+          "width": 314,
+          "height": 368,
+          "fill": 0.71875,
+          "centerOffset": {
+            "x": 1,
+            "y": 0,
+            "length": 1
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-greendemon.webp",
+      "packRelativePath": "previews/quaternius-cute-animated-monsters-greendemon.webp"
+    },
+    "packId": "quaternius-cute-animated-monsters",
+    "publicPath": "assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-greendemon/quaternius-cute-animated-monsters-greendemon.gltf"
+  },
+  {
+    "id": "quaternius-cute-animated-monsters-mushroom",
+    "name": "Mushroom",
+    "description": "Cute animated monster character (Mushroom).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "Mushroom.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-mushroom/quaternius-cute-animated-monsters-mushroom.gltf",
+    "sourceUrl": "https://quaternius.com/packs/cutemonsters.html",
+    "primaryBytes": 413763,
+    "totalBytes": 413763,
+    "primarySha256": "9a47d42b2f8f7ae9caf0d1bf3bdf6dc037457f2f6e75d14ef0c209bb7e14a76e",
+    "bundleSha256": "74d4880586808ac82ad48a19da87e6a83b550066eb7f33acdd6fa03a6b79ddf2",
+    "bounds": {
+      "min": [
+        -0.961436,
+        -0.022365,
+        -0.981319
+      ],
+      "max": [
+        0.961436,
+        2.048411,
+        0.944006
+      ],
+      "size": [
+        1.922871,
+        2.070776,
+        1.925326
+      ],
+      "center": [
+        0,
+        1.013023,
+        -0.018657
+      ],
+      "diagonal": 3.419419
+    },
+    "triangleCount": 868,
+    "drawCallCount": 1,
+    "renderVertexCount": 2604,
+    "uploadVertexCount": 662,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 10,
+    "skinCount": 1,
+    "tags": [
+      "quaternius",
+      "cute",
+      "animated-monster",
+      "monster",
+      "creature",
+      "cartoon",
+      "whimsical",
+      "bright",
+      "toy-like",
+      "stylized",
+      "colorful",
+      "aug-2020",
+      "animated-character"
+    ],
+    "aliases": [
+      "enemy",
+      "npc creature"
+    ],
+    "searchTokens": [
+      "alien",
+      "animated",
+      "aug",
+      "bat",
+      "bee",
+      "bright",
+      "cactus",
+      "cartoon",
+      "character",
+      "chicken",
+      "colorful",
+      "crab",
+      "creature",
+      "cthulhu",
+      "cute",
+      "cyclops",
+      "demon",
+      "dragon",
+      "enemy",
+      "ghost",
+      "like",
+      "monster",
+      "monsters",
+      "mushroom",
+      "npc",
+      "quaternius",
+      "roster",
+      "stylized",
+      "toy",
+      "whimsical",
+      "yeti"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-mushroom.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9534,
+      "sha256": "e29b71b6b86546308ec80ade6067608c664d8214b5968dc632f5667b5f017599",
+      "transparent": true,
+      "sourceBundleSha256": "74d4880586808ac82ad48a19da87e6a83b550066eb7f33acdd6fa03a6b79ddf2",
+      "cacheKey": "72617b0e321ca19d348a7b2d6aa056263edcfe76ad1cc7b7114441bf0d8c34fa",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 4.773827,
+        "pan": [
+          0.004042,
+          -0.022005,
+          0.011802
+        ],
+        "alphaBounds": {
+          "x": 74,
+          "y": 71,
+          "width": 364,
+          "height": 369,
+          "fill": 0.720703,
+          "centerOffset": {
+            "x": 0,
+            "y": -0.5,
+            "length": 0.5
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-mushroom.webp",
+      "packRelativePath": "previews/quaternius-cute-animated-monsters-mushroom.webp"
+    },
+    "packId": "quaternius-cute-animated-monsters",
+    "publicPath": "assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-mushroom/quaternius-cute-animated-monsters-mushroom.gltf"
+  },
+  {
+    "id": "quaternius-cute-animated-monsters-panda",
+    "name": "Panda",
+    "description": "Cute animated monster character (Panda).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "Panda.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-panda/quaternius-cute-animated-monsters-panda.gltf",
+    "sourceUrl": "https://quaternius.com/packs/cutemonsters.html",
+    "primaryBytes": 520192,
+    "totalBytes": 520192,
+    "primarySha256": "774087a972bcabbefb0753df2543fca1d072e3527be0d8b298b4dfcb374593c3",
+    "bundleSha256": "cf63a49cb1c36b33f66f0d4ddc3d10c7a82ef495530becf4d6974e9d7e6b0d4d",
+    "bounds": {
+      "min": [
+        -0.914865,
+        -0.029779,
+        -0.686471
+      ],
+      "max": [
+        0.914865,
+        1.611424,
+        0.786416
+      ],
+      "size": [
+        1.82973,
+        1.641203,
+        1.472887
+      ],
+      "center": [
+        0,
+        0.790823,
+        0.049973
+      ],
+      "diagonal": 2.865459
+    },
+    "triangleCount": 1428,
+    "drawCallCount": 1,
+    "renderVertexCount": 4284,
+    "uploadVertexCount": 1313,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 10,
+    "skinCount": 1,
+    "tags": [
+      "quaternius",
+      "cute",
+      "animated-monster",
+      "monster",
+      "creature",
+      "cartoon",
+      "whimsical",
+      "bright",
+      "toy-like",
+      "stylized",
+      "colorful",
+      "aug-2020",
+      "animated-character"
+    ],
+    "aliases": [
+      "enemy",
+      "npc creature"
+    ],
+    "searchTokens": [
+      "alien",
+      "animated",
+      "aug",
+      "bat",
+      "bee",
+      "bright",
+      "cactus",
+      "cartoon",
+      "character",
+      "chicken",
+      "colorful",
+      "crab",
+      "creature",
+      "cthulhu",
+      "cute",
+      "cyclops",
+      "demon",
+      "dragon",
+      "enemy",
+      "ghost",
+      "like",
+      "monster",
+      "monsters",
+      "npc",
+      "panda",
+      "quaternius",
+      "roster",
+      "stylized",
+      "toy",
+      "whimsical",
+      "yeti"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-panda.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8000,
+      "sha256": "65bacfecf8a610c833cd6ec04f958e29e0a006bd1913b8e77e9c3afd06227942",
+      "transparent": true,
+      "sourceBundleSha256": "cf63a49cb1c36b33f66f0d4ddc3d10c7a82ef495530becf4d6974e9d7e6b0d4d",
+      "cacheKey": "1ab62c245273587031926fa31593e8935193b9584f80b377cd750aacffd2e970",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 4.080349,
+        "pan": [
+          0.00116,
+          0.015137,
+          -0.012059
+        ],
+        "alphaBounds": {
+          "x": 96,
+          "y": 72,
+          "width": 320,
+          "height": 368,
+          "fill": 0.71875,
+          "centerOffset": {
+            "x": 0,
+            "y": 0,
+            "length": 0
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-panda.webp",
+      "packRelativePath": "previews/quaternius-cute-animated-monsters-panda.webp"
+    },
+    "packId": "quaternius-cute-animated-monsters",
+    "publicPath": "assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-panda/quaternius-cute-animated-monsters-panda.gltf"
+  },
+  {
+    "id": "quaternius-cute-animated-monsters-penguin",
+    "name": "Penguin",
+    "description": "Cute animated monster character (Penguin).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "Penguin.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-penguin/quaternius-cute-animated-monsters-penguin.gltf",
+    "sourceUrl": "https://quaternius.com/packs/cutemonsters.html",
+    "primaryBytes": 429699,
+    "totalBytes": 429699,
+    "primarySha256": "eba50d9ccc63465ebf5e4c7223995688812a3f0690466bc39994aa564584dbad",
+    "bundleSha256": "b51e351dce9087dc2ac3b79c18e44cb2b0a23d93ffffca43a618a9b0b2f44bf5",
+    "bounds": {
+      "min": [
+        -1.134551,
+        -0.027941,
+        -0.686471
+      ],
+      "max": [
+        1.134551,
+        1.585337,
+        0.868382
+      ],
+      "size": [
+        2.269102,
+        1.613278,
+        1.554852
+      ],
+      "center": [
+        0,
+        0.778698,
+        0.090956
+      ],
+      "diagonal": 3.188896
+    },
+    "triangleCount": 1040,
+    "drawCallCount": 1,
+    "renderVertexCount": 3120,
+    "uploadVertexCount": 842,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 10,
+    "skinCount": 1,
+    "tags": [
+      "quaternius",
+      "cute",
+      "animated-monster",
+      "monster",
+      "creature",
+      "cartoon",
+      "whimsical",
+      "bright",
+      "toy-like",
+      "stylized",
+      "colorful",
+      "aug-2020",
+      "animated-character"
+    ],
+    "aliases": [
+      "enemy",
+      "npc creature"
+    ],
+    "searchTokens": [
+      "alien",
+      "animated",
+      "aug",
+      "bat",
+      "bee",
+      "bright",
+      "cactus",
+      "cartoon",
+      "character",
+      "chicken",
+      "colorful",
+      "crab",
+      "creature",
+      "cthulhu",
+      "cute",
+      "cyclops",
+      "demon",
+      "dragon",
+      "enemy",
+      "ghost",
+      "like",
+      "monster",
+      "monsters",
+      "npc",
+      "penguin",
+      "quaternius",
+      "roster",
+      "stylized",
+      "toy",
+      "whimsical",
+      "yeti"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-penguin.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6974,
+      "sha256": "6c46c4e52018ca6392b0e759da49eac88a8aece044542fb5c4a4d1571f93d4d1",
+      "transparent": true,
+      "sourceBundleSha256": "b51e351dce9087dc2ac3b79c18e44cb2b0a23d93ffffca43a618a9b0b2f44bf5",
+      "cacheKey": "2a95698f4cbb6f16b29aae158bfc44e69941bfbece8fcb3ac0774a78e46bb327",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 4.085025,
+        "pan": [
+          0.089979,
+          -0.026659,
+          -0.070784
+        ],
+        "alphaBounds": {
+          "x": 71,
+          "y": 91,
+          "width": 370,
+          "height": 332,
+          "fill": 0.722656,
+          "centerOffset": {
+            "x": 0,
+            "y": 1,
+            "length": 1
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-penguin.webp",
+      "packRelativePath": "previews/quaternius-cute-animated-monsters-penguin.webp"
+    },
+    "packId": "quaternius-cute-animated-monsters",
+    "publicPath": "assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-penguin/quaternius-cute-animated-monsters-penguin.gltf"
+  },
+  {
+    "id": "quaternius-cute-animated-monsters-pig",
+    "name": "Pig",
+    "description": "Cute animated monster character (Pig).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "Pig.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-pig/quaternius-cute-animated-monsters-pig.gltf",
+    "sourceUrl": "https://quaternius.com/packs/cutemonsters.html",
+    "primaryBytes": 492590,
+    "totalBytes": 492590,
+    "primarySha256": "8f615d73cf7297535e666219b296748acf88f6eb6323c7e752a9e8e32f11f000",
+    "bundleSha256": "3c19d2e8b71f8629d861134b1f258e8b8f5a5ebf7eca8a6271d09e3cd15da331",
+    "bounds": {
+      "min": [
+        -0.950929,
+        -0.166858,
+        -1.037425
+      ],
+      "max": [
+        0.950929,
+        1.475556,
+        0.853446
+      ],
+      "size": [
+        1.901859,
+        1.642414,
+        1.890872
+      ],
+      "center": [
+        0,
+        0.654349,
+        -0.091989
+      ],
+      "diagonal": 3.144835
+    },
+    "triangleCount": 1316,
+    "drawCallCount": 1,
+    "renderVertexCount": 3948,
+    "uploadVertexCount": 1168,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 10,
+    "skinCount": 1,
+    "tags": [
+      "quaternius",
+      "cute",
+      "animated-monster",
+      "monster",
+      "creature",
+      "cartoon",
+      "whimsical",
+      "bright",
+      "toy-like",
+      "stylized",
+      "colorful",
+      "aug-2020",
+      "animated-character"
+    ],
+    "aliases": [
+      "enemy",
+      "npc creature"
+    ],
+    "searchTokens": [
+      "alien",
+      "animated",
+      "aug",
+      "bat",
+      "bee",
+      "bright",
+      "cactus",
+      "cartoon",
+      "character",
+      "chicken",
+      "colorful",
+      "crab",
+      "creature",
+      "cthulhu",
+      "cute",
+      "cyclops",
+      "demon",
+      "dragon",
+      "enemy",
+      "ghost",
+      "like",
+      "monster",
+      "monsters",
+      "npc",
+      "pig",
+      "quaternius",
+      "roster",
+      "stylized",
+      "toy",
+      "whimsical",
+      "yeti"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-pig.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7740,
+      "sha256": "dfc67d1304f71daf3b5be7c3481fac490b037d037be4dbca67ba06592a00765a",
+      "transparent": true,
+      "sourceBundleSha256": "3c19d2e8b71f8629d861134b1f258e8b8f5a5ebf7eca8a6271d09e3cd15da331",
+      "cacheKey": "cfdbf66288b393490e4b6e714cbf264a10a4a33cb3a5c2383e41a72a1fa114a8",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 4.071521,
+        "pan": [
+          -0.039661,
+          -0.017875,
+          0.052532
+        ],
+        "alphaBounds": {
+          "x": 90,
+          "y": 65,
+          "width": 331,
+          "height": 382,
+          "fill": 0.746094,
+          "centerOffset": {
+            "x": -0.5,
+            "y": 0,
+            "length": 0.5
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-pig.webp",
+      "packRelativePath": "previews/quaternius-cute-animated-monsters-pig.webp"
+    },
+    "packId": "quaternius-cute-animated-monsters",
+    "publicPath": "assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-pig/quaternius-cute-animated-monsters-pig.gltf"
+  },
+  {
+    "id": "quaternius-cute-animated-monsters-skull",
+    "name": "Skull",
+    "description": "Cute animated monster character (Skull).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "Skull.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-skull/quaternius-cute-animated-monsters-skull.gltf",
+    "sourceUrl": "https://quaternius.com/packs/cutemonsters.html",
+    "primaryBytes": 575713,
+    "totalBytes": 575713,
+    "primarySha256": "78fbc82a830fcddd42742ffc63b8d134f9ce0fb88c93317fffb66dc31a29a6a4",
+    "bundleSha256": "d3bff616cc9c0d5758adfa6a62d5ef253f8c4a54c7680622adca4f34e9ff7eb4",
+    "bounds": {
+      "min": [
+        -0.730446,
+        -0.084983,
+        -0.730441
+      ],
+      "max": [
+        0.730446,
+        1.465099,
+        0.734393
+      ],
+      "size": [
+        1.460891,
+        1.550082,
+        1.464834
+      ],
+      "center": [
+        0,
+        0.690058,
+        0.001976
+      ],
+      "diagonal": 2.585091
+    },
+    "triangleCount": 450,
+    "drawCallCount": 1,
+    "renderVertexCount": 1350,
+    "uploadVertexCount": 514,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 10,
+    "skinCount": 1,
+    "tags": [
+      "quaternius",
+      "cute",
+      "animated-monster",
+      "monster",
+      "creature",
+      "cartoon",
+      "whimsical",
+      "bright",
+      "toy-like",
+      "stylized",
+      "colorful",
+      "aug-2020",
+      "animated-character"
+    ],
+    "aliases": [
+      "enemy",
+      "npc creature"
+    ],
+    "searchTokens": [
+      "alien",
+      "animated",
+      "aug",
+      "bat",
+      "bee",
+      "bright",
+      "cactus",
+      "cartoon",
+      "character",
+      "chicken",
+      "colorful",
+      "crab",
+      "creature",
+      "cthulhu",
+      "cute",
+      "cyclops",
+      "demon",
+      "dragon",
+      "enemy",
+      "ghost",
+      "like",
+      "monster",
+      "monsters",
+      "npc",
+      "quaternius",
+      "roster",
+      "skull",
+      "stylized",
+      "toy",
+      "whimsical",
+      "yeti"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-skull.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7252,
+      "sha256": "711be5120f1d03cdeeaf3810b04768e35f45686f925ecfb5dff433cbaac31ba6",
+      "transparent": true,
+      "sourceBundleSha256": "d3bff616cc9c0d5758adfa6a62d5ef253f8c4a54c7680622adca4f34e9ff7eb4",
+      "cacheKey": "76c1bb57990e825d3802d667939225ed89d47cb6523f507ff6a3b3c38dbe6f32",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.932832,
+        "pan": [
+          0.035563,
+          -0.094029,
+          0.032138
+        ],
+        "alphaBounds": {
+          "x": 99,
+          "y": 74,
+          "width": 314,
+          "height": 364,
+          "fill": 0.710938,
+          "centerOffset": {
+            "x": 0,
+            "y": 0,
+            "length": 0
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-skull.webp",
+      "packRelativePath": "previews/quaternius-cute-animated-monsters-skull.webp"
+    },
+    "packId": "quaternius-cute-animated-monsters",
+    "publicPath": "assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-skull/quaternius-cute-animated-monsters-skull.gltf"
+  },
+  {
+    "id": "quaternius-cute-animated-monsters-tree",
+    "name": "Tree",
+    "description": "Cute animated monster character (Tree).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "Tree.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-tree/quaternius-cute-animated-monsters-tree.gltf",
+    "sourceUrl": "https://quaternius.com/packs/cutemonsters.html",
+    "primaryBytes": 603264,
+    "totalBytes": 603264,
+    "primarySha256": "e51a249ea05a5300be0a87fd562040b85b7fa505aa1f0cb4e147eac071f1f17a",
+    "bundleSha256": "8dba4966eb38a0137500014b22c974c4806b236f6fc0b1ebb787ff9f632e6cd2",
+    "bounds": {
+      "min": [
+        -1.405703,
+        -0.040688,
+        -0.959767
+      ],
+      "max": [
+        1.405703,
+        2.805294,
+        0.7671
+      ],
+      "size": [
+        2.811405,
+        2.845982,
+        1.726867
+      ],
+      "center": [
+        0,
+        1.382303,
+        -0.096334
+      ],
+      "diagonal": 4.357257
+    },
+    "triangleCount": 1368,
+    "drawCallCount": 1,
+    "renderVertexCount": 4104,
+    "uploadVertexCount": 1498,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 9,
+    "skinCount": 1,
+    "tags": [
+      "quaternius",
+      "cute",
+      "animated-monster",
+      "monster",
+      "creature",
+      "cartoon",
+      "whimsical",
+      "bright",
+      "toy-like",
+      "stylized",
+      "colorful",
+      "aug-2020",
+      "animated-character"
+    ],
+    "aliases": [
+      "enemy",
+      "npc creature"
+    ],
+    "searchTokens": [
+      "alien",
+      "animated",
+      "aug",
+      "bat",
+      "bee",
+      "bright",
+      "cactus",
+      "cartoon",
+      "character",
+      "chicken",
+      "colorful",
+      "crab",
+      "creature",
+      "cthulhu",
+      "cute",
+      "cyclops",
+      "demon",
+      "dragon",
+      "enemy",
+      "ghost",
+      "like",
+      "monster",
+      "monsters",
+      "npc",
+      "quaternius",
+      "roster",
+      "stylized",
+      "toy",
+      "tree",
+      "whimsical",
+      "yeti"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-tree.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7352,
+      "sha256": "3f4a9b436d1d10a03c88dc832ce9d69028a4b2491f9800736814fa4e917744d0",
+      "transparent": true,
+      "sourceBundleSha256": "8dba4966eb38a0137500014b22c974c4806b236f6fc0b1ebb787ff9f632e6cd2",
+      "cacheKey": "0e50a9e582fda1196ab4bd580346c94b5309b530d2fe8de1a0b2771fd2542208",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.607066,
+        "pan": [
+          0.002468,
+          0.067168,
+          -0.050829
+        ],
+        "alphaBounds": {
+          "x": 124,
+          "y": 72,
+          "width": 264,
+          "height": 369,
+          "fill": 0.720703,
+          "centerOffset": {
+            "x": 0,
+            "y": 0.5,
+            "length": 0.5
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-tree.webp",
+      "packRelativePath": "previews/quaternius-cute-animated-monsters-tree.webp"
+    },
+    "packId": "quaternius-cute-animated-monsters",
+    "publicPath": "assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-tree/quaternius-cute-animated-monsters-tree.gltf"
+  },
+  {
+    "id": "quaternius-cute-animated-monsters-yellowdragon",
+    "name": "Yellow Dragon",
+    "description": "Cute animated dragon monster (Yellow Dragon).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "YellowDragon.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-yellowdragon/quaternius-cute-animated-monsters-yellowdragon.gltf",
+    "sourceUrl": "https://quaternius.com/packs/cutemonsters.html",
+    "primaryBytes": 634125,
+    "totalBytes": 634125,
+    "primarySha256": "36533a6e63b09126708888a5ec606f1554190b51bf177b11be120f47de453e29",
+    "bundleSha256": "94a9219422612796d4eb89c336f892358787285a963dfec347f5f847b4933063",
+    "bounds": {
+      "min": [
+        -1.603126,
+        -0.04455,
+        -0.686471
+      ],
+      "max": [
+        1.603126,
+        1.602368,
+        0.730485
+      ],
+      "size": [
+        3.206252,
+        1.646919,
+        1.416956
+      ],
+      "center": [
+        0,
+        0.778909,
+        0.022007
+      ],
+      "diagonal": 3.873004
+    },
+    "triangleCount": 1592,
+    "drawCallCount": 1,
+    "renderVertexCount": 4776,
+    "uploadVertexCount": 1402,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 4,
+    "skinCount": 1,
+    "tags": [
+      "quaternius",
+      "cute",
+      "animated-monster",
+      "monster",
+      "creature",
+      "cartoon",
+      "whimsical",
+      "bright",
+      "toy-like",
+      "stylized",
+      "colorful",
+      "aug-2020",
+      "animated-character",
+      "dragon",
+      "flying-creature",
+      "fantasy-creature"
+    ],
+    "aliases": [
+      "enemy",
+      "npc creature"
+    ],
+    "searchTokens": [
+      "alien",
+      "animated",
+      "aug",
+      "bat",
+      "bee",
+      "bright",
+      "cactus",
+      "cartoon",
+      "character",
+      "chicken",
+      "colorful",
+      "crab",
+      "creature",
+      "cthulhu",
+      "cute",
+      "cyclops",
+      "demon",
+      "dragon",
+      "enemy",
+      "fantasy",
+      "flying",
+      "ghost",
+      "like",
+      "monster",
+      "monsters",
+      "npc",
+      "quaternius",
+      "roster",
+      "stylized",
+      "toy",
+      "whimsical",
+      "yellow",
+      "yeti"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-yellowdragon.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7550,
+      "sha256": "ea8880a358bda83772c48028b505ed69cd2fb3297be03c66aaa15dff33e6ad4b",
+      "transparent": true,
+      "sourceBundleSha256": "94a9219422612796d4eb89c336f892358787285a963dfec347f5f847b4933063",
+      "cacheKey": "032dd5df48dd862fc12f0da1d26c07b232d5d6b9a239eaccc7db007d231109b4",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 5.269424,
+        "pan": [
+          0.16663,
+          -0.043453,
+          -0.135344
+        ],
+        "alphaBounds": {
+          "x": 73,
+          "y": 123,
+          "width": 365,
+          "height": 266,
+          "fill": 0.712891,
+          "centerOffset": {
+            "x": -0.5,
+            "y": 0,
+            "length": 0.5
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-yellowdragon.webp",
+      "packRelativePath": "previews/quaternius-cute-animated-monsters-yellowdragon.webp"
+    },
+    "packId": "quaternius-cute-animated-monsters",
+    "publicPath": "assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-yellowdragon/quaternius-cute-animated-monsters-yellowdragon.gltf"
+  },
+  {
+    "id": "quaternius-cute-animated-monsters-yeti",
+    "name": "Yeti",
+    "description": "Cute animated monster character (Yeti).",
+    "kind": "model",
+    "format": "gltf",
+    "relativePath": "Yeti.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-yeti/quaternius-cute-animated-monsters-yeti.gltf",
+    "sourceUrl": "https://quaternius.com/packs/cutemonsters.html",
+    "primaryBytes": 524093,
+    "totalBytes": 524093,
+    "primarySha256": "22605d71e70270da0c9991b5d36f499a7799501d160588ad2fa52a65a7bea1e9",
+    "bundleSha256": "5370deaf2973b259b41fb9beb17fe36d4da6d0baad1c64c8b2f8369206d262ce",
+    "bounds": {
+      "min": [
+        -0.842135,
+        -0.020443,
+        -0.686471
+      ],
+      "max": [
+        0.842135,
+        1.646388,
+        0.754388
+      ],
+      "size": [
+        1.68427,
+        1.666831,
+        1.440858
+      ],
+      "center": [
+        0,
+        0.812972,
+        0.033958
+      ],
+      "diagonal": 2.773295
+    },
+    "triangleCount": 1292,
+    "drawCallCount": 1,
+    "renderVertexCount": 3876,
+    "uploadVertexCount": 1113,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 10,
+    "skinCount": 1,
+    "tags": [
+      "quaternius",
+      "cute",
+      "animated-monster",
+      "monster",
+      "creature",
+      "cartoon",
+      "whimsical",
+      "bright",
+      "toy-like",
+      "stylized",
+      "colorful",
+      "aug-2020",
+      "animated-character"
+    ],
+    "aliases": [
+      "enemy",
+      "npc creature"
+    ],
+    "searchTokens": [
+      "alien",
+      "animated",
+      "aug",
+      "bat",
+      "bee",
+      "bright",
+      "cactus",
+      "cartoon",
+      "character",
+      "chicken",
+      "colorful",
+      "crab",
+      "creature",
+      "cthulhu",
+      "cute",
+      "cyclops",
+      "demon",
+      "dragon",
+      "enemy",
+      "ghost",
+      "like",
+      "monster",
+      "monsters",
+      "npc",
+      "quaternius",
+      "roster",
+      "stylized",
+      "toy",
+      "whimsical",
+      "yeti"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-yeti.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8730,
+      "sha256": "ce0d6f2c828862754a98df14eb6f925878f6512bf1feb158196bfbc568d149d9",
+      "transparent": true,
+      "sourceBundleSha256": "5370deaf2973b259b41fb9beb17fe36d4da6d0baad1c64c8b2f8369206d262ce",
+      "cacheKey": "f82e8670a4e594312fecc3f442aee5348fbc0d89e355cceb73620e525e358dfd",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 4.196063,
+        "pan": [
+          -0.005953,
+          -0.013203,
+          0.015459
+        ],
+        "alphaBounds": {
+          "x": 104,
+          "y": 72,
+          "width": 305,
+          "height": 368,
+          "fill": 0.71875,
+          "centerOffset": {
+            "x": 0.5,
+            "y": 0,
+            "length": 0.5
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-yeti.webp",
+      "packRelativePath": "previews/quaternius-cute-animated-monsters-yeti.webp"
+    },
+    "packId": "quaternius-cute-animated-monsters",
+    "publicPath": "assets/quaternius-cute-animated-monsters/quaternius-cute-animated-monsters-yeti/quaternius-cute-animated-monsters-yeti.gltf"
+  }
+]

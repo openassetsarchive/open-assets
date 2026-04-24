@@ -1,10 +1,12 @@
 {
   "version": 1,
   "token": "armor",
-  "count": 3,
+  "count": 5,
   "assetIds": [
     "kenney-tanks-png-tanks-cratearmor",
     "kenney-tanks-spritesheet-tanks-spritesheet",
-    "quaternius-cube-world-kit-enemies-gltf-skeleton-armor"
+    "quaternius-cube-world-kit-enemies-gltf-skeleton-armor",
+    "quaternius-modular-character-outfits-fantasy-modular-parts-female-ranger-acc-pauldrons",
+    "quaternius-modular-character-outfits-fantasy-modular-parts-male-ranger-acc-pauldron"
   ]
 }

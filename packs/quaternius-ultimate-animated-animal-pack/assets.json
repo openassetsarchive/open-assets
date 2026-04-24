@@ -1,0 +1,2005 @@
+[
+  {
+    "id": "quaternius-ultimate-animated-animal-pack-alpaca",
+    "packId": "quaternius-ultimate-animated-animal-pack",
+    "packName": "Quaternius Ultimate Animated Animal Pack",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/ultimateanimatedanimals.html",
+    "name": "Alpaca",
+    "description": "Animated stylized animal (Alpaca).",
+    "kind": "model",
+    "format": "gltf",
+    "publicPath": "assets/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-alpaca/quaternius-ultimate-animated-animal-pack-alpaca.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-alpaca/quaternius-ultimate-animated-animal-pack-alpaca.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-alpaca.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6754,
+      "sha256": "aa44534e089f5a98b0fc07ecac891caca9f2e0213783f62bbb780da3fe7685cd",
+      "transparent": true,
+      "sourceBundleSha256": "892042f22a586a5291c32e82040bd942ab53e47e92d82182ef608f7d3921a8ab",
+      "cacheKey": "9f087192417f5602bcc1e7f14b89132987f2f29cd27bb625d27730bb789ef578",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 11.359601,
+        "pan": [
+          -0.121923,
+          -0.087276,
+          0.184762
+        ],
+        "alphaBounds": {
+          "x": 137,
+          "y": 73,
+          "width": 238,
+          "height": 365,
+          "fill": 0.712891,
+          "centerOffset": {
+            "x": 0,
+            "y": -0.5,
+            "length": 0.5
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-alpaca.webp",
+      "packRelativePath": "previews/quaternius-ultimate-animated-animal-pack-alpaca.webp"
+    },
+    "bounds": {
+      "size": [
+        1.265538,
+        5.397588,
+        4.29939
+      ],
+      "diagonal": 7.015718
+    },
+    "triangleCount": 2060,
+    "drawCallCount": 7,
+    "renderVertexCount": 6180,
+    "materialCount": 7,
+    "textureCount": 0,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": true,
+    "animationCount": 13,
+    "animations": [
+      {
+        "name": "Attack_Headbutt",
+        "durationSec": 1
+      },
+      {
+        "name": "Attack_Kick",
+        "durationSec": 1
+      },
+      {
+        "name": "Death",
+        "durationSec": 1.042
+      },
+      {
+        "name": "Eating",
+        "durationSec": 7.5
+      },
+      {
+        "name": "Gallop",
+        "durationSec": 0.667
+      },
+      {
+        "name": "Gallop_Jump",
+        "durationSec": 1.75
+      },
+      {
+        "name": "Idle",
+        "durationSec": 4.167
+      },
+      {
+        "name": "Idle_2",
+        "durationSec": 4.167
+      },
+      {
+        "name": "Idle_Headlow",
+        "durationSec": 4.167
+      },
+      {
+        "name": "Idle_HitReact1",
+        "durationSec": 0.583
+      },
+      {
+        "name": "Idle_HitReact2",
+        "durationSec": 0.667
+      },
+      {
+        "name": "Jump_toIdle",
+        "durationSec": 1.917
+      },
+      {
+        "name": "Walk",
+        "durationSec": 1.458
+      }
+    ],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 46,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "animal",
+      "animated-animal",
+      "wildlife",
+      "quadruped",
+      "creature",
+      "farm-animal",
+      "forest-animal",
+      "canine",
+      "mount",
+      "stylized",
+      "low-poly",
+      "animated-character",
+      "animated",
+      "rigged",
+      "skinned",
+      "skeletal-animation"
+    ],
+    "aliases": [
+      "creature",
+      "beast"
+    ],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-ultimate-animated-animal-pack-bull",
+    "packId": "quaternius-ultimate-animated-animal-pack",
+    "packName": "Quaternius Ultimate Animated Animal Pack",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/ultimateanimatedanimals.html",
+    "name": "Bull",
+    "description": "Animated bull model (Bull).",
+    "kind": "model",
+    "format": "gltf",
+    "publicPath": "assets/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-bull/quaternius-ultimate-animated-animal-pack-bull.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-bull/quaternius-ultimate-animated-animal-pack-bull.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-bull.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7430,
+      "sha256": "2a46cd00e5a4c9791850effc0aecd4eb95a33dca0be05e227f6088e39ad8d035",
+      "transparent": true,
+      "sourceBundleSha256": "757a81d4c7c14b25561b1c9a0c62bc0444f52c54c393d2a7faf51a8e0feb992c",
+      "cacheKey": "6584be0c4427ea5b06dde6b9ad98cba69c6ef242907630323f63053caba75d04",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 14.616548,
+        "pan": [
+          -0.374456,
+          0.0503,
+          0.33824
+        ],
+        "alphaBounds": {
+          "x": 73,
+          "y": 100,
+          "width": 366,
+          "height": 312,
+          "fill": 0.714844,
+          "centerOffset": {
+            "x": 0,
+            "y": 0,
+            "length": 0
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-bull.webp",
+      "packRelativePath": "previews/quaternius-ultimate-animated-animal-pack-bull.webp"
+    },
+    "bounds": {
+      "size": [
+        2.513447,
+        4.586672,
+        8.066984
+      ],
+      "diagonal": 9.614115
+    },
+    "triangleCount": 2418,
+    "drawCallCount": 7,
+    "renderVertexCount": 7254,
+    "materialCount": 7,
+    "textureCount": 0,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": true,
+    "animationCount": 13,
+    "animations": [
+      {
+        "name": "Attack_Headbutt",
+        "durationSec": 1.033
+      },
+      {
+        "name": "Attack_Kick",
+        "durationSec": 1
+      },
+      {
+        "name": "Death",
+        "durationSec": 1
+      },
+      {
+        "name": "Eating",
+        "durationSec": 6
+      },
+      {
+        "name": "Gallop",
+        "durationSec": 0.6
+      },
+      {
+        "name": "Gallop_Jump",
+        "durationSec": 1.467
+      },
+      {
+        "name": "Idle",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Idle_2",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Idle_Headlow",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Idle_HitReact1",
+        "durationSec": 0.667
+      },
+      {
+        "name": "Idle_HitReact2",
+        "durationSec": 0.667
+      },
+      {
+        "name": "Jump_toIdle",
+        "durationSec": 1.733
+      },
+      {
+        "name": "Walk",
+        "durationSec": 1.167
+      }
+    ],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 42,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "animal",
+      "animated-animal",
+      "wildlife",
+      "quadruped",
+      "creature",
+      "farm-animal",
+      "forest-animal",
+      "canine",
+      "mount",
+      "stylized",
+      "low-poly",
+      "animated-character",
+      "bull",
+      "livestock",
+      "animated",
+      "rigged",
+      "skinned",
+      "skeletal-animation"
+    ],
+    "aliases": [
+      "creature",
+      "beast"
+    ],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-ultimate-animated-animal-pack-cow",
+    "packId": "quaternius-ultimate-animated-animal-pack",
+    "packName": "Quaternius Ultimate Animated Animal Pack",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/ultimateanimatedanimals.html",
+    "name": "Cow",
+    "description": "Animated cow model (Cow).",
+    "kind": "model",
+    "format": "gltf",
+    "publicPath": "assets/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-cow/quaternius-ultimate-animated-animal-pack-cow.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-cow/quaternius-ultimate-animated-animal-pack-cow.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-cow.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9638,
+      "sha256": "935e52c412f3c37e1f350738c4a25e537dfc3c183e9f23fd98a1735f25797ecf",
+      "transparent": true,
+      "sourceBundleSha256": "c8b5f178169d42534108af4623724c9eba25b8ed3bf7385f9208445e4360cfe3",
+      "cacheKey": "d9165b01433346a60c16a4daefca8b710a08a294fa63aa98e802f8c62fff6538",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 14.616548,
+        "pan": [
+          -0.388104,
+          0.088211,
+          0.324592
+        ],
+        "alphaBounds": {
+          "x": 73,
+          "y": 102,
+          "width": 366,
+          "height": 308,
+          "fill": 0.714844,
+          "centerOffset": {
+            "x": 0,
+            "y": 0,
+            "length": 0
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-cow.webp",
+      "packRelativePath": "previews/quaternius-ultimate-animated-animal-pack-cow.webp"
+    },
+    "bounds": {
+      "size": [
+        2.312188,
+        4.586672,
+        8.066984
+      ],
+      "diagonal": 9.563473
+    },
+    "triangleCount": 2450,
+    "drawCallCount": 7,
+    "renderVertexCount": 7350,
+    "materialCount": 7,
+    "textureCount": 0,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": true,
+    "animationCount": 13,
+    "animations": [
+      {
+        "name": "Attack_Headbutt",
+        "durationSec": 1.033
+      },
+      {
+        "name": "Attack_Kick",
+        "durationSec": 1
+      },
+      {
+        "name": "Death",
+        "durationSec": 1
+      },
+      {
+        "name": "Eating",
+        "durationSec": 6
+      },
+      {
+        "name": "Gallop",
+        "durationSec": 0.6
+      },
+      {
+        "name": "Gallop_Jump",
+        "durationSec": 1.467
+      },
+      {
+        "name": "Idle",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Idle_2",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Idle_Headlow",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Idle_HitReact1",
+        "durationSec": 0.667
+      },
+      {
+        "name": "Idle_HitReact2",
+        "durationSec": 0.667
+      },
+      {
+        "name": "Jump_toIdle",
+        "durationSec": 1.733
+      },
+      {
+        "name": "Walk",
+        "durationSec": 1.167
+      }
+    ],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 42,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "animal",
+      "animated-animal",
+      "wildlife",
+      "quadruped",
+      "creature",
+      "farm-animal",
+      "forest-animal",
+      "canine",
+      "mount",
+      "stylized",
+      "low-poly",
+      "animated-character",
+      "cow",
+      "livestock",
+      "animated",
+      "rigged",
+      "skinned",
+      "skeletal-animation"
+    ],
+    "aliases": [
+      "creature",
+      "beast"
+    ],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-ultimate-animated-animal-pack-deer",
+    "packId": "quaternius-ultimate-animated-animal-pack",
+    "packName": "Quaternius Ultimate Animated Animal Pack",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/ultimateanimatedanimals.html",
+    "name": "Deer",
+    "description": "Animated deer model (Deer).",
+    "kind": "model",
+    "format": "gltf",
+    "publicPath": "assets/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-deer/quaternius-ultimate-animated-animal-pack-deer.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-deer/quaternius-ultimate-animated-animal-pack-deer.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-deer.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9290,
+      "sha256": "334127e33df1d2af75e6c2e8abcef2d47a6ba88e6fc873065324027c3516e3b0",
+      "transparent": true,
+      "sourceBundleSha256": "950987d8e840bcf5f9d9f86c85a18561f790d7b8ca2895781460d699a117563b",
+      "cacheKey": "745677fb825e4610bb82c7e607a039ab8d06bcd5942f5c0c51000205a51cc2d3",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 9.41389,
+        "pan": [
+          -0.147991,
+          -0.067161,
+          0.196347
+        ],
+        "alphaBounds": {
+          "x": 106,
+          "y": 72,
+          "width": 302,
+          "height": 368,
+          "fill": 0.71875,
+          "centerOffset": {
+            "x": 1,
+            "y": 0,
+            "length": 1
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-deer.webp",
+      "packRelativePath": "previews/quaternius-ultimate-animated-animal-pack-deer.webp"
+    },
+    "bounds": {
+      "size": [
+        1.458979,
+        4.274085,
+        4.397311
+      ],
+      "diagonal": 6.303393
+    },
+    "triangleCount": 2098,
+    "drawCallCount": 7,
+    "renderVertexCount": 6294,
+    "materialCount": 7,
+    "textureCount": 0,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": true,
+    "animationCount": 13,
+    "animations": [
+      {
+        "name": "Attack_Headbutt",
+        "durationSec": 0.8
+      },
+      {
+        "name": "Attack_Kick",
+        "durationSec": 0.8
+      },
+      {
+        "name": "Death",
+        "durationSec": 0.833
+      },
+      {
+        "name": "Eating",
+        "durationSec": 6
+      },
+      {
+        "name": "Gallop",
+        "durationSec": 0.533
+      },
+      {
+        "name": "Gallop_Jump",
+        "durationSec": 1.4
+      },
+      {
+        "name": "Idle",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Idle_2",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Idle_Headlow",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Idle_HitReact1",
+        "durationSec": 0.467
+      },
+      {
+        "name": "Idle_HitReact2",
+        "durationSec": 0.533
+      },
+      {
+        "name": "Jump_toIdle",
+        "durationSec": 1.533
+      },
+      {
+        "name": "Walk",
+        "durationSec": 1.167
+      }
+    ],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 46,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "animal",
+      "animated-animal",
+      "wildlife",
+      "quadruped",
+      "creature",
+      "farm-animal",
+      "forest-animal",
+      "canine",
+      "mount",
+      "stylized",
+      "low-poly",
+      "animated-character",
+      "deer",
+      "stag",
+      "animated",
+      "rigged",
+      "skinned",
+      "skeletal-animation"
+    ],
+    "aliases": [
+      "creature",
+      "beast"
+    ],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-ultimate-animated-animal-pack-donkey",
+    "packId": "quaternius-ultimate-animated-animal-pack",
+    "packName": "Quaternius Ultimate Animated Animal Pack",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/ultimateanimatedanimals.html",
+    "name": "Donkey",
+    "description": "Animated stylized animal (Donkey).",
+    "kind": "model",
+    "format": "gltf",
+    "publicPath": "assets/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-donkey/quaternius-ultimate-animated-animal-pack-donkey.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-donkey/quaternius-ultimate-animated-animal-pack-donkey.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-donkey.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9350,
+      "sha256": "13bf657cc0aad44d28442e37fb88d7924075dd755c46371709e6c5af3a2f1d06",
+      "transparent": true,
+      "sourceBundleSha256": "7fa80150d0af58b71b571cea0189235f3e29f695d040745f0e58c8e842e47adb",
+      "cacheKey": "fbc5aba36c888b2d28fe9e29fed364f210ea557a369081e7772a23ddcdddc6f6",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 8.120351,
+        "pan": [
+          -0.157362,
+          -0.12675,
+          0.248622
+        ],
+        "alphaBounds": {
+          "x": 73,
+          "y": 70,
+          "width": 367,
+          "height": 373,
+          "fill": 0.728516,
+          "centerOffset": {
+            "x": 0.5,
+            "y": 0.5,
+            "length": 0.707107
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-donkey.webp",
+      "packRelativePath": "previews/quaternius-ultimate-animated-animal-pack-donkey.webp"
+    },
+    "bounds": {
+      "size": [
+        1.160255,
+        3.953785,
+        4.70803
+      ],
+      "diagonal": 6.256528
+    },
+    "triangleCount": 2000,
+    "drawCallCount": 8,
+    "renderVertexCount": 6000,
+    "materialCount": 8,
+    "textureCount": 0,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": true,
+    "animationCount": 13,
+    "animations": [
+      {
+        "name": "Attack_Headbutt",
+        "durationSec": 1.6
+      },
+      {
+        "name": "Attack_Kick",
+        "durationSec": 0.8
+      },
+      {
+        "name": "Death",
+        "durationSec": 1
+      },
+      {
+        "name": "Eating",
+        "durationSec": 6
+      },
+      {
+        "name": "Gallop",
+        "durationSec": 0.533
+      },
+      {
+        "name": "Gallop_Jump",
+        "durationSec": 1.4
+      },
+      {
+        "name": "Idle",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Idle_2",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Idle_Headlow",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Idle_HitReact1",
+        "durationSec": 0.467
+      },
+      {
+        "name": "Idle_HitReact2",
+        "durationSec": 0.533
+      },
+      {
+        "name": "Jump_toIdle",
+        "durationSec": 1.533
+      },
+      {
+        "name": "Walk",
+        "durationSec": 1.167
+      }
+    ],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 50,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "animal",
+      "animated-animal",
+      "wildlife",
+      "quadruped",
+      "creature",
+      "farm-animal",
+      "forest-animal",
+      "canine",
+      "mount",
+      "stylized",
+      "low-poly",
+      "animated-character",
+      "animated",
+      "rigged",
+      "skinned",
+      "skeletal-animation"
+    ],
+    "aliases": [
+      "creature",
+      "beast"
+    ],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-ultimate-animated-animal-pack-fox",
+    "packId": "quaternius-ultimate-animated-animal-pack",
+    "packName": "Quaternius Ultimate Animated Animal Pack",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/ultimateanimatedanimals.html",
+    "name": "Fox",
+    "description": "Animated fox model (Fox).",
+    "kind": "model",
+    "format": "gltf",
+    "publicPath": "assets/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-fox/quaternius-ultimate-animated-animal-pack-fox.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-fox/quaternius-ultimate-animated-animal-pack-fox.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-fox.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9038,
+      "sha256": "027647aea7c63a186ddae114bfaab27b6c60015e65653f96ea214d9c6614ee83",
+      "transparent": true,
+      "sourceBundleSha256": "8f44c9fcd3d1494b4a45a24480f123131244d4467f3c29cc657ea05014abdaec",
+      "cacheKey": "971cf0e21b11e449d66063d95b4855c3e1a2545cb0771d693f7115826308dbb2",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 9.137961,
+        "pan": [
+          -0.183938,
+          -0.340536,
+          0.429124
+        ],
+        "alphaBounds": {
+          "x": 77,
+          "y": 123,
+          "width": 360,
+          "height": 266,
+          "fill": 0.703125,
+          "centerOffset": {
+            "x": 1,
+            "y": 0,
+            "length": 1
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-fox.webp",
+      "packRelativePath": "previews/quaternius-ultimate-animated-animal-pack-fox.webp"
+    },
+    "bounds": {
+      "size": [
+        1.061666,
+        2.676697,
+        5.883055
+      ],
+      "diagonal": 6.549976
+    },
+    "triangleCount": 1848,
+    "drawCallCount": 5,
+    "renderVertexCount": 5544,
+    "materialCount": 5,
+    "textureCount": 0,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": true,
+    "animationCount": 12,
+    "animations": [
+      {
+        "name": "Attack",
+        "durationSec": 1.333
+      },
+      {
+        "name": "Death",
+        "durationSec": 1.067
+      },
+      {
+        "name": "Eating",
+        "durationSec": 2.533
+      },
+      {
+        "name": "Gallop",
+        "durationSec": 0.567
+      },
+      {
+        "name": "Gallop_Jump",
+        "durationSec": 0.933
+      },
+      {
+        "name": "Idle",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Idle_2",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Idle_2_HeadLow",
+        "durationSec": 4
+      },
+      {
+        "name": "Idle_HitReact1",
+        "durationSec": 0.667
+      },
+      {
+        "name": "Idle_HitReact2",
+        "durationSec": 0.667
+      },
+      {
+        "name": "Jump_ToIdle",
+        "durationSec": 1.333
+      },
+      {
+        "name": "Walk",
+        "durationSec": 1.067
+      }
+    ],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 51,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "animal",
+      "animated-animal",
+      "wildlife",
+      "quadruped",
+      "creature",
+      "farm-animal",
+      "forest-animal",
+      "canine",
+      "mount",
+      "stylized",
+      "low-poly",
+      "animated-character",
+      "fox",
+      "animated",
+      "rigged",
+      "skinned",
+      "skeletal-animation"
+    ],
+    "aliases": [
+      "creature",
+      "beast"
+    ],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-ultimate-animated-animal-pack-horse",
+    "packId": "quaternius-ultimate-animated-animal-pack",
+    "packName": "Quaternius Ultimate Animated Animal Pack",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/ultimateanimatedanimals.html",
+    "name": "Horse",
+    "description": "Animated horse model (Horse).",
+    "kind": "model",
+    "format": "gltf",
+    "publicPath": "assets/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-horse/quaternius-ultimate-animated-animal-pack-horse.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-horse/quaternius-ultimate-animated-animal-pack-horse.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-horse.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8882,
+      "sha256": "59de5ca06b90231840bfd120f0c60466bc494f269cdc8dc2f66630297f8501ec",
+      "transparent": true,
+      "sourceBundleSha256": "1f6d0435395db6fc2f32336b0d4b0e372092396dcb74e1397e349c33a7d7b759",
+      "cacheKey": "471f8198d253625294e53a3fbb6c4e4775017fc3af77a70542d4bee12e682120",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 10.369692,
+        "pan": [
+          -0.186152,
+          -0.228773,
+          0.350868
+        ],
+        "alphaBounds": {
+          "x": 85,
+          "y": 73,
+          "width": 341,
+          "height": 365,
+          "fill": 0.712891,
+          "centerOffset": {
+            "x": -0.5,
+            "y": -0.5,
+            "length": 0.707107
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-horse.webp",
+      "packRelativePath": "previews/quaternius-ultimate-animated-animal-pack-horse.webp"
+    },
+    "bounds": {
+      "size": [
+        1.406936,
+        4.823946,
+        5.676114
+      ],
+      "diagonal": 7.580778
+    },
+    "triangleCount": 2182,
+    "drawCallCount": 8,
+    "renderVertexCount": 6546,
+    "materialCount": 8,
+    "textureCount": 0,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": true,
+    "animationCount": 13,
+    "animations": [
+      {
+        "name": "Attack_Headbutt",
+        "durationSec": 1.033
+      },
+      {
+        "name": "Attack_Kick",
+        "durationSec": 1
+      },
+      {
+        "name": "Death",
+        "durationSec": 1
+      },
+      {
+        "name": "Eating",
+        "durationSec": 6
+      },
+      {
+        "name": "Gallop",
+        "durationSec": 0.6
+      },
+      {
+        "name": "Gallop_Jump",
+        "durationSec": 1.467
+      },
+      {
+        "name": "Idle",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Idle_2",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Idle_Headlow",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Idle_HitReact1",
+        "durationSec": 0.667
+      },
+      {
+        "name": "Idle_HitReact2",
+        "durationSec": 0.667
+      },
+      {
+        "name": "Jump_toIdle",
+        "durationSec": 1.733
+      },
+      {
+        "name": "Walk",
+        "durationSec": 1.167
+      }
+    ],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 50,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "animal",
+      "animated-animal",
+      "wildlife",
+      "quadruped",
+      "creature",
+      "farm-animal",
+      "forest-animal",
+      "canine",
+      "mount",
+      "stylized",
+      "low-poly",
+      "animated-character",
+      "horse",
+      "animated",
+      "rigged",
+      "skinned",
+      "skeletal-animation"
+    ],
+    "aliases": [
+      "creature",
+      "beast"
+    ],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-ultimate-animated-animal-pack-horse-white",
+    "packId": "quaternius-ultimate-animated-animal-pack",
+    "packName": "Quaternius Ultimate Animated Animal Pack",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/ultimateanimatedanimals.html",
+    "name": "Horse White",
+    "description": "Animated horse model (Horse White).",
+    "kind": "model",
+    "format": "gltf",
+    "publicPath": "assets/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-horse-white/quaternius-ultimate-animated-animal-pack-horse-white.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-horse-white/quaternius-ultimate-animated-animal-pack-horse-white.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-horse-white.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9574,
+      "sha256": "49f7c4b43cfe35b61fcdd42111ee1af6593491150b5ce6236d2b2dd35fe5e8a9",
+      "transparent": true,
+      "sourceBundleSha256": "3b2c10fd3ff9249b27735f95ce95f140120d90c9d603994b311c3eddf3f2875a",
+      "cacheKey": "869d58b4ff84fda305f0a723094608119064e44aaa8c6c2064c34bbcf184d22c",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 10.369692,
+        "pan": [
+          -0.186152,
+          -0.228773,
+          0.350868
+        ],
+        "alphaBounds": {
+          "x": 85,
+          "y": 73,
+          "width": 341,
+          "height": 365,
+          "fill": 0.712891,
+          "centerOffset": {
+            "x": -0.5,
+            "y": -0.5,
+            "length": 0.707107
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-horse-white.webp",
+      "packRelativePath": "previews/quaternius-ultimate-animated-animal-pack-horse-white.webp"
+    },
+    "bounds": {
+      "size": [
+        1.406936,
+        4.823946,
+        5.676114
+      ],
+      "diagonal": 7.580778
+    },
+    "triangleCount": 2182,
+    "drawCallCount": 7,
+    "renderVertexCount": 6546,
+    "materialCount": 7,
+    "textureCount": 0,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": true,
+    "animationCount": 13,
+    "animations": [
+      {
+        "name": "Attack_Headbutt",
+        "durationSec": 1.033
+      },
+      {
+        "name": "Attack_Kick",
+        "durationSec": 1
+      },
+      {
+        "name": "Death",
+        "durationSec": 1
+      },
+      {
+        "name": "Eating",
+        "durationSec": 6
+      },
+      {
+        "name": "Gallop",
+        "durationSec": 0.6
+      },
+      {
+        "name": "Gallop_Jump",
+        "durationSec": 1.467
+      },
+      {
+        "name": "Idle",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Idle_2",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Idle_Headlow",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Idle_HitReact1",
+        "durationSec": 0.667
+      },
+      {
+        "name": "Idle_HitReact2",
+        "durationSec": 0.667
+      },
+      {
+        "name": "Jump_toIdle",
+        "durationSec": 1.733
+      },
+      {
+        "name": "Walk",
+        "durationSec": 1.167
+      }
+    ],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 50,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "animal",
+      "animated-animal",
+      "wildlife",
+      "quadruped",
+      "creature",
+      "farm-animal",
+      "forest-animal",
+      "canine",
+      "mount",
+      "stylized",
+      "low-poly",
+      "animated-character",
+      "horse",
+      "animated",
+      "rigged",
+      "skinned",
+      "skeletal-animation"
+    ],
+    "aliases": [
+      "creature",
+      "beast"
+    ],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-ultimate-animated-animal-pack-husky",
+    "packId": "quaternius-ultimate-animated-animal-pack",
+    "packName": "Quaternius Ultimate Animated Animal Pack",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/ultimateanimatedanimals.html",
+    "name": "Husky",
+    "description": "Animated husky model (Husky).",
+    "kind": "model",
+    "format": "gltf",
+    "publicPath": "assets/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-husky/quaternius-ultimate-animated-animal-pack-husky.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-husky/quaternius-ultimate-animated-animal-pack-husky.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-husky.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8578,
+      "sha256": "303b798ecd8d0270cc643b7eecd401626d4edd726958470cd69a0cfb80aeaf9b",
+      "transparent": true,
+      "sourceBundleSha256": "771e9dd900f7d1c9a632112237de53123fab2a81ae88df5c371ae3c68a348924",
+      "cacheKey": "b29a158ebcb0e7455998dbb3458fe0460ac5be177fa270a8bcb13683a6730f6f",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 8.326091,
+        "pan": [
+          -0.125284,
+          -0.054831,
+          0.164763
+        ],
+        "alphaBounds": {
+          "x": 108,
+          "y": 76,
+          "width": 296,
+          "height": 360,
+          "fill": 0.703125,
+          "centerOffset": {
+            "x": 0,
+            "y": 0,
+            "length": 0
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-husky.webp",
+      "packRelativePath": "previews/quaternius-ultimate-animated-animal-pack-husky.webp"
+    },
+    "bounds": {
+      "size": [
+        0.989965,
+        3.191069,
+        3.889197
+      ],
+      "diagonal": 5.127261
+    },
+    "triangleCount": 1920,
+    "drawCallCount": 5,
+    "renderVertexCount": 5760,
+    "materialCount": 5,
+    "textureCount": 0,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": true,
+    "animationCount": 12,
+    "animations": [
+      {
+        "name": "Attack",
+        "durationSec": 1.2
+      },
+      {
+        "name": "Death",
+        "durationSec": 1.067
+      },
+      {
+        "name": "Eating",
+        "durationSec": 2.667
+      },
+      {
+        "name": "Gallop",
+        "durationSec": 0.567
+      },
+      {
+        "name": "Gallop_Jump",
+        "durationSec": 0.933
+      },
+      {
+        "name": "Idle",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Idle_2",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Idle_2_HeadLow",
+        "durationSec": 4
+      },
+      {
+        "name": "Idle_HitReact1",
+        "durationSec": 0.667
+      },
+      {
+        "name": "Idle_HitReact2",
+        "durationSec": 0.667
+      },
+      {
+        "name": "Jump_ToIdle",
+        "durationSec": 1.333
+      },
+      {
+        "name": "Walk",
+        "durationSec": 1.067
+      }
+    ],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 49,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "animal",
+      "animated-animal",
+      "wildlife",
+      "quadruped",
+      "creature",
+      "farm-animal",
+      "forest-animal",
+      "canine",
+      "mount",
+      "stylized",
+      "low-poly",
+      "animated-character",
+      "dog",
+      "companion",
+      "animated",
+      "rigged",
+      "skinned",
+      "skeletal-animation"
+    ],
+    "aliases": [
+      "creature",
+      "beast"
+    ],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-ultimate-animated-animal-pack-shibainu",
+    "packId": "quaternius-ultimate-animated-animal-pack",
+    "packName": "Quaternius Ultimate Animated Animal Pack",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/ultimateanimatedanimals.html",
+    "name": "Shiba Inu",
+    "description": "Animated Shiba Inu model (Shiba Inu).",
+    "kind": "model",
+    "format": "gltf",
+    "publicPath": "assets/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-shibainu/quaternius-ultimate-animated-animal-pack-shibainu.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-shibainu/quaternius-ultimate-animated-animal-pack-shibainu.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-shibainu.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 10896,
+      "sha256": "9bf618a7b3b20deb2925d07f83fb2a458b1931d028f2a056248ad5c87730ddca",
+      "transparent": true,
+      "sourceBundleSha256": "fad659138788ba02df3a1d7321d52693475003cf0dd7e97f5d3413ea18ca112c",
+      "cacheKey": "039e97b9487dbfe633777da5e99e95883c82a4c36c3da7ea271a6c1762324e7b",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 7.6135,
+        "pan": [
+          -0.138138,
+          -0.178073,
+          0.26635
+        ],
+        "alphaBounds": {
+          "x": 84,
+          "y": 73,
+          "width": 345,
+          "height": 366,
+          "fill": 0.714844,
+          "centerOffset": {
+            "x": 0.5,
+            "y": 0,
+            "length": 0.5
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-shibainu.webp",
+      "packRelativePath": "previews/quaternius-ultimate-animated-animal-pack-shibainu.webp"
+    },
+    "bounds": {
+      "size": [
+        1.071047,
+        3.095598,
+        3.948447
+      ],
+      "diagonal": 5.130312
+    },
+    "triangleCount": 1950,
+    "drawCallCount": 6,
+    "renderVertexCount": 5850,
+    "materialCount": 6,
+    "textureCount": 0,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": true,
+    "animationCount": 12,
+    "animations": [
+      {
+        "name": "Attack",
+        "durationSec": 1.2
+      },
+      {
+        "name": "Death",
+        "durationSec": 1.067
+      },
+      {
+        "name": "Eating",
+        "durationSec": 2.667
+      },
+      {
+        "name": "Gallop",
+        "durationSec": 0.567
+      },
+      {
+        "name": "Gallop_Jump",
+        "durationSec": 0.933
+      },
+      {
+        "name": "Idle",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Idle_2",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Idle_2_HeadLow",
+        "durationSec": 4
+      },
+      {
+        "name": "Idle_HitReact1",
+        "durationSec": 0.667
+      },
+      {
+        "name": "Idle_HitReact2",
+        "durationSec": 0.667
+      },
+      {
+        "name": "Jump_ToIdle",
+        "durationSec": 1.333
+      },
+      {
+        "name": "Walk",
+        "durationSec": 1.067
+      }
+    ],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 46,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "animal",
+      "animated-animal",
+      "wildlife",
+      "quadruped",
+      "creature",
+      "farm-animal",
+      "forest-animal",
+      "canine",
+      "mount",
+      "stylized",
+      "low-poly",
+      "animated-character",
+      "dog",
+      "companion",
+      "animated",
+      "rigged",
+      "skinned",
+      "skeletal-animation"
+    ],
+    "aliases": [
+      "creature",
+      "beast"
+    ],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-ultimate-animated-animal-pack-stag",
+    "packId": "quaternius-ultimate-animated-animal-pack",
+    "packName": "Quaternius Ultimate Animated Animal Pack",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/ultimateanimatedanimals.html",
+    "name": "Stag",
+    "description": "Animated stylized animal (Stag).",
+    "kind": "model",
+    "format": "gltf",
+    "publicPath": "assets/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-stag/quaternius-ultimate-animated-animal-pack-stag.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-stag/quaternius-ultimate-animated-animal-pack-stag.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-stag.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9848,
+      "sha256": "04a8e4d634bddbbfea906779af016665cb2f727289567632d49866b304e66d98",
+      "transparent": true,
+      "sourceBundleSha256": "38e8f0b414244209c865eda72a06d6335b891d2239a141b038376a59876c0844",
+      "cacheKey": "0e9e52983c0d6241ddbc7bfbd1774c8c637c1e69384e8496b4eb059766025fc6",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 12.181039,
+        "pan": [
+          -0.269226,
+          0.081777,
+          0.210347
+        ],
+        "alphaBounds": {
+          "x": 118,
+          "y": 73,
+          "width": 276,
+          "height": 367,
+          "fill": 0.716797,
+          "centerOffset": {
+            "x": 0,
+            "y": 0.5,
+            "length": 0.5
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-stag.webp",
+      "packRelativePath": "previews/quaternius-ultimate-animated-animal-pack-stag.webp"
+    },
+    "bounds": {
+      "size": [
+        2.536086,
+        5.378247,
+        4.837487
+      ],
+      "diagonal": 7.665412
+    },
+    "triangleCount": 3670,
+    "drawCallCount": 6,
+    "renderVertexCount": 11010,
+    "materialCount": 5,
+    "textureCount": 0,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": true,
+    "animationCount": 13,
+    "animations": [
+      {
+        "name": "Attack_Headbutt",
+        "durationSec": 0.8
+      },
+      {
+        "name": "Attack_Kick",
+        "durationSec": 0.8
+      },
+      {
+        "name": "Death",
+        "durationSec": 1.1
+      },
+      {
+        "name": "Eating",
+        "durationSec": 12.1
+      },
+      {
+        "name": "Gallop",
+        "durationSec": 0.533
+      },
+      {
+        "name": "Gallop_Jump",
+        "durationSec": 1.4
+      },
+      {
+        "name": "Idle",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Idle_2",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Idle_Headlow",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Idle_HitReact1",
+        "durationSec": 0.467
+      },
+      {
+        "name": "Idle_HitReact2",
+        "durationSec": 0.533
+      },
+      {
+        "name": "Jump_toIdle",
+        "durationSec": 1.533
+      },
+      {
+        "name": "Walk",
+        "durationSec": 1.167
+      }
+    ],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 38,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "animal",
+      "animated-animal",
+      "wildlife",
+      "quadruped",
+      "creature",
+      "farm-animal",
+      "forest-animal",
+      "canine",
+      "mount",
+      "stylized",
+      "low-poly",
+      "animated-character",
+      "animated",
+      "rigged",
+      "skinned",
+      "skeletal-animation"
+    ],
+    "aliases": [
+      "creature",
+      "beast"
+    ],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "quaternius-ultimate-animated-animal-pack-wolf",
+    "packId": "quaternius-ultimate-animated-animal-pack",
+    "packName": "Quaternius Ultimate Animated Animal Pack",
+    "license": "CC0",
+    "sourceUrl": "https://quaternius.com/packs/ultimateanimatedanimals.html",
+    "name": "Wolf",
+    "description": "Animated wolf model (Wolf).",
+    "kind": "model",
+    "format": "gltf",
+    "publicPath": "assets/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-wolf/quaternius-ultimate-animated-animal-pack-wolf.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-wolf/quaternius-ultimate-animated-animal-pack-wolf.gltf",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-wolf.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7972,
+      "sha256": "f72f8bc0c73a878f6d797723c86dbec8dc37b7d1f89b70e348ace08d3841b1ba",
+      "transparent": true,
+      "sourceBundleSha256": "b899b02a6b2b812828fbe2840cab4d9c2d18ff451a9b527e8829634a706c3202",
+      "cacheKey": "460247ae873c5c324acdd610f94d6ec545f32668da0bdb3af85dc9749ca90244",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 8.760229,
+        "pan": [
+          -0.157651,
+          -0.376606,
+          0.428808
+        ],
+        "alphaBounds": {
+          "x": 77,
+          "y": 122,
+          "width": 360,
+          "height": 269,
+          "fill": 0.703125,
+          "centerOffset": {
+            "x": 1,
+            "y": 0.5,
+            "length": 1.118034
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-ultimate-animated-animal-pack/quaternius-ultimate-animated-animal-pack-wolf.webp",
+      "packRelativePath": "previews/quaternius-ultimate-animated-animal-pack-wolf.webp"
+    },
+    "bounds": {
+      "size": [
+        1.0652,
+        2.681012,
+        5.553088
+      ],
+      "diagonal": 6.257737
+    },
+    "triangleCount": 1962,
+    "drawCallCount": 4,
+    "renderVertexCount": 5886,
+    "materialCount": 4,
+    "textureCount": 0,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": true,
+    "animationCount": 12,
+    "animations": [
+      {
+        "name": "Attack",
+        "durationSec": 1.333
+      },
+      {
+        "name": "Death",
+        "durationSec": 1.067
+      },
+      {
+        "name": "Eating",
+        "durationSec": 2.533
+      },
+      {
+        "name": "Gallop",
+        "durationSec": 0.567
+      },
+      {
+        "name": "Gallop_Jump",
+        "durationSec": 0.933
+      },
+      {
+        "name": "Idle",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Idle_2",
+        "durationSec": 3.333
+      },
+      {
+        "name": "Idle_2_HeadLow",
+        "durationSec": 4
+      },
+      {
+        "name": "Idle_HitReact1",
+        "durationSec": 0.667
+      },
+      {
+        "name": "Idle_HitReact2",
+        "durationSec": 0.667
+      },
+      {
+        "name": "Jump_ToIdle",
+        "durationSec": 1.333
+      },
+      {
+        "name": "Walk",
+        "durationSec": 1.067
+      }
+    ],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": true,
+    "skinCount": 1,
+    "jointCountTotal": 51,
+    "requiredExtensions": [],
+    "dependencyMode": "standalone",
+    "tags": [
+      "quaternius",
+      "animal",
+      "animated-animal",
+      "wildlife",
+      "quadruped",
+      "creature",
+      "farm-animal",
+      "forest-animal",
+      "canine",
+      "mount",
+      "stylized",
+      "low-poly",
+      "animated-character",
+      "wolf",
+      "predator",
+      "animated",
+      "rigged",
+      "skinned",
+      "skeletal-animation"
+    ],
+    "aliases": [
+      "creature",
+      "beast"
+    ],
+    "warningCount": 0,
+    "errorCount": 0
+  }
+]

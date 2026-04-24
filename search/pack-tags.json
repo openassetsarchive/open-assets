@@ -12,16 +12,40 @@
     "count": 1
   },
   {
+    "tag": "adventurer",
+    "count": 1
+  },
+  {
+    "tag": "age-progression",
+    "count": 1
+  },
+  {
     "tag": "amusement-park",
     "count": 1
   },
   {
     "tag": "animal",
-    "count": 1
+    "count": 2
   },
   {
     "tag": "animated",
-    "count": 4
+    "count": 5
+  },
+  {
+    "tag": "animated-animal",
+    "count": 1
+  },
+  {
+    "tag": "animated-mech",
+    "count": 1
+  },
+  {
+    "tag": "animated-monster",
+    "count": 2
+  },
+  {
+    "tag": "animation-ready",
+    "count": 1
   },
   {
     "tag": "arcade",
@@ -32,15 +56,35 @@
     "count": 1
   },
   {
+    "tag": "assembled-weapon",
+    "count": 1
+  },
+  {
+    "tag": "aug-2020",
+    "count": 1
+  },
+  {
     "tag": "avatar",
     "count": 2
+  },
+  {
+    "tag": "base-character",
+    "count": 1
   },
   {
     "tag": "battle",
     "count": 1
   },
   {
+    "tag": "big-monster",
+    "count": 1
+  },
+  {
     "tag": "blaster",
+    "count": 1
+  },
+  {
+    "tag": "blob-monster",
     "count": 1
   },
   {
@@ -65,11 +109,15 @@
   },
   {
     "tag": "bright",
-    "count": 35
+    "count": 36
   },
   {
     "tag": "building",
-    "count": 3
+    "count": 4
+  },
+  {
+    "tag": "bush",
+    "count": 1
   },
   {
     "tag": "cabin",
@@ -80,7 +128,15 @@
     "count": 1
   },
   {
+    "tag": "canine",
+    "count": 1
+  },
+  {
     "tag": "car",
+    "count": 2
+  },
+  {
+    "tag": "cartoon",
     "count": 2
   },
   {
@@ -97,11 +153,23 @@
   },
   {
     "tag": "character",
-    "count": 5
+    "count": 6
+  },
+  {
+    "tag": "character-outfit",
+    "count": 1
   },
   {
     "tag": "city",
     "count": 5
+  },
+  {
+    "tag": "class-based",
+    "count": 1
+  },
+  {
+    "tag": "clothing",
+    "count": 1
   },
   {
     "tag": "coaster",
@@ -112,15 +180,23 @@
     "count": 1
   },
   {
-    "tag": "colorful",
-    "count": 27
-  },
-  {
-    "tag": "combat",
+    "tag": "color-variants",
     "count": 1
   },
   {
+    "tag": "colorful",
+    "count": 29
+  },
+  {
+    "tag": "combat",
+    "count": 2
+  },
+  {
     "tag": "cooking",
+    "count": 1
+  },
+  {
+    "tag": "costume",
     "count": 1
   },
   {
@@ -128,12 +204,32 @@
     "count": 1
   },
   {
+    "tag": "creature",
+    "count": 3
+  },
+  {
     "tag": "cube",
     "count": 2
   },
   {
+    "tag": "customizable",
+    "count": 1
+  },
+  {
+    "tag": "cute",
+    "count": 1
+  },
+  {
+    "tag": "cyberpunk",
+    "count": 1
+  },
+  {
     "tag": "dark",
     "count": 2
+  },
+  {
+    "tag": "dark-sci-fi",
+    "count": 1
   },
   {
     "tag": "decor",
@@ -169,19 +265,47 @@
   },
   {
     "tag": "fantasy",
-    "count": 2
+    "count": 3
+  },
+  {
+    "tag": "fantasy-character",
+    "count": 1
+  },
+  {
+    "tag": "fantasy-rts",
+    "count": 1
   },
   {
     "tag": "farm",
     "count": 1
   },
   {
-    "tag": "foliage",
+    "tag": "farm-animal",
     "count": 1
+  },
+  {
+    "tag": "firearm",
+    "count": 1
+  },
+  {
+    "tag": "flying-monster",
+    "count": 1
+  },
+  {
+    "tag": "foliage",
+    "count": 2
   },
   {
     "tag": "food",
     "count": 3
+  },
+  {
+    "tag": "forest",
+    "count": 1
+  },
+  {
+    "tag": "forest-animal",
+    "count": 1
   },
   {
     "tag": "fps",
@@ -189,6 +313,10 @@
   },
   {
     "tag": "furniture",
+    "count": 1
+  },
+  {
+    "tag": "game-kit",
     "count": 1
   },
   {
@@ -204,11 +332,27 @@
     "count": 1
   },
   {
+    "tag": "gun",
+    "count": 1
+  },
+  {
+    "tag": "hairstyle",
+    "count": 1
+  },
+  {
     "tag": "halloween",
     "count": 1
   },
   {
     "tag": "harbor",
+    "count": 1
+  },
+  {
+    "tag": "hard-surface",
+    "count": 1
+  },
+  {
+    "tag": "hero",
     "count": 1
   },
   {
@@ -244,8 +388,16 @@
     "count": 1
   },
   {
+    "tag": "humanoid",
+    "count": 1
+  },
+  {
+    "tag": "humanoid-rig",
+    "count": 2
+  },
+  {
     "tag": "industrial",
-    "count": 3
+    "count": 4
   },
   {
     "tag": "infrastructure",
@@ -261,11 +413,15 @@
   },
   {
     "tag": "isometric",
-    "count": 10
+    "count": 11
   },
   {
     "tag": "kenney",
     "count": 53
+  },
+  {
+    "tag": "kingdom",
+    "count": 1
   },
   {
     "tag": "kit",
@@ -280,6 +436,10 @@
     "count": 1
   },
   {
+    "tag": "large-roster",
+    "count": 1
+  },
+  {
     "tag": "level",
     "count": 1
   },
@@ -289,15 +449,43 @@
   },
   {
     "tag": "low-poly",
-    "count": 35
+    "count": 39
+  },
+  {
+    "tag": "march-2021",
+    "count": 1
+  },
+  {
+    "tag": "march-2024",
+    "count": 1
   },
   {
     "tag": "market",
     "count": 1
   },
   {
+    "tag": "may-2021",
+    "count": 1
+  },
+  {
+    "tag": "mech",
+    "count": 1
+  },
+  {
+    "tag": "mecha",
+    "count": 1
+  },
+  {
+    "tag": "mechanical",
+    "count": 1
+  },
+  {
     "tag": "medieval",
-    "count": 2
+    "count": 3
+  },
+  {
+    "tag": "medieval-fantasy",
+    "count": 1
   },
   {
     "tag": "mini",
@@ -312,12 +500,44 @@
     "count": 12
   },
   {
+    "tag": "modular-character",
+    "count": 2
+  },
+  {
+    "tag": "modular-platform",
+    "count": 1
+  },
+  {
+    "tag": "modular-weapon",
+    "count": 1
+  },
+  {
     "tag": "monster",
+    "count": 3
+  },
+  {
+    "tag": "mount",
     "count": 1
   },
   {
     "tag": "nature",
-    "count": 2
+    "count": 3
+  },
+  {
+    "tag": "neon",
+    "count": 1
+  },
+  {
+    "tag": "normal-map",
+    "count": 1
+  },
+  {
+    "tag": "nov-2020",
+    "count": 1
+  },
+  {
+    "tag": "nov-2021",
+    "count": 1
   },
   {
     "tag": "oopi",
@@ -325,10 +545,22 @@
   },
   {
     "tag": "outdoor",
+    "count": 2
+  },
+  {
+    "tag": "painted-organic",
+    "count": 1
+  },
+  {
+    "tag": "party",
     "count": 1
   },
   {
     "tag": "path",
+    "count": 1
+  },
+  {
+    "tag": "peasant",
     "count": 1
   },
   {
@@ -349,7 +581,11 @@
   },
   {
     "tag": "platformer",
-    "count": 7
+    "count": 8
+  },
+  {
+    "tag": "post-apocalyptic",
+    "count": 1
   },
   {
     "tag": "prop",
@@ -360,8 +596,12 @@
     "count": 2
   },
   {
+    "tag": "quadruped",
+    "count": 1
+  },
+  {
     "tag": "quaternius",
-    "count": 6
+    "count": 19
   },
   {
     "tag": "racing",
@@ -377,6 +617,10 @@
   },
   {
     "tag": "ramp",
+    "count": 1
+  },
+  {
+    "tag": "ranger",
     "count": 1
   },
   {
@@ -404,6 +648,10 @@
     "count": 1
   },
   {
+    "tag": "retargetable",
+    "count": 2
+  },
+  {
     "tag": "retro",
     "count": 2
   },
@@ -420,11 +668,35 @@
     "count": 2
   },
   {
+    "tag": "robot",
+    "count": 1
+  },
+  {
+    "tag": "rock",
+    "count": 1
+  },
+  {
+    "tag": "rpg",
+    "count": 1
+  },
+  {
+    "tag": "rts",
+    "count": 1
+  },
+  {
     "tag": "sci-fi",
-    "count": 2
+    "count": 5
+  },
+  {
+    "tag": "seamless-texture",
+    "count": 1
   },
   {
     "tag": "seasonal",
+    "count": 1
+  },
+  {
+    "tag": "settlement",
     "count": 1
   },
   {
@@ -460,6 +732,18 @@
     "count": 4
   },
   {
+    "tag": "space-combat",
+    "count": 1
+  },
+  {
+    "tag": "spacecraft",
+    "count": 1
+  },
+  {
+    "tag": "spaceship",
+    "count": 1
+  },
+  {
     "tag": "spooky",
     "count": 1
   },
@@ -468,12 +752,20 @@
     "count": 2
   },
   {
+    "tag": "standard",
+    "count": 2
+  },
+  {
+    "tag": "starfighter",
+    "count": 1
+  },
+  {
     "tag": "store",
     "count": 1
   },
   {
     "tag": "strategy",
-    "count": 2
+    "count": 3
   },
   {
     "tag": "street",
@@ -481,14 +773,26 @@
   },
   {
     "tag": "stylized",
-    "count": 39
+    "count": 45
+  },
+  {
+    "tag": "stylized-ship",
+    "count": 1
   },
   {
     "tag": "suburban",
     "count": 1
   },
   {
+    "tag": "superhero",
+    "count": 1
+  },
+  {
     "tag": "survival",
+    "count": 1
+  },
+  {
+    "tag": "survival-horror",
     "count": 1
   },
   {
@@ -513,7 +817,7 @@
   },
   {
     "tag": "textured",
-    "count": 2
+    "count": 7
   },
   {
     "tag": "theme-park",
@@ -532,6 +836,18 @@
     "count": 1
   },
   {
+    "tag": "toon-mech",
+    "count": 1
+  },
+  {
+    "tag": "toon-proportioned",
+    "count": 1
+  },
+  {
+    "tag": "toon-survival",
+    "count": 1
+  },
+  {
     "tag": "top-down",
     "count": 3
   },
@@ -545,7 +861,7 @@
   },
   {
     "tag": "town",
-    "count": 3
+    "count": 4
   },
   {
     "tag": "toy",
@@ -553,6 +869,10 @@
   },
   {
     "tag": "toy-car",
+    "count": 1
+  },
+  {
+    "tag": "toy-like",
     "count": 1
   },
   {
@@ -572,6 +892,10 @@
     "count": 1
   },
   {
+    "tag": "tree",
+    "count": 1
+  },
+  {
     "tag": "tropical",
     "count": 1
   },
@@ -580,16 +904,36 @@
     "count": 1
   },
   {
+    "tag": "ultimate-monsters",
+    "count": 1
+  },
+  {
+    "tag": "ultimate-stylized-nature",
+    "count": 1
+  },
+  {
+    "tag": "universal-base",
+    "count": 1
+  },
+  {
     "tag": "urban",
     "count": 1
   },
   {
+    "tag": "urban-decay",
+    "count": 1
+  },
+  {
+    "tag": "urban-future",
+    "count": 1
+  },
+  {
     "tag": "vehicle",
-    "count": 6
+    "count": 7
   },
   {
     "tag": "village",
-    "count": 2
+    "count": 3
   },
   {
     "tag": "voxel",
@@ -613,6 +957,10 @@
   },
   {
     "tag": "weapon",
+    "count": 2
+  },
+  {
+    "tag": "weapon-parts",
     "count": 1
   },
   {
@@ -620,7 +968,19 @@
     "count": 2
   },
   {
+    "tag": "whimsical",
+    "count": 1
+  },
+  {
+    "tag": "wildlife",
+    "count": 1
+  },
+  {
     "tag": "winter",
+    "count": 1
+  },
+  {
+    "tag": "zombie-apocalypse",
     "count": 1
   }
 ]

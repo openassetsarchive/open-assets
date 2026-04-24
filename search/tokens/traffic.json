@@ -1,7 +1,7 @@
 {
   "version": 1,
   "token": "traffic",
-  "count": 114,
+  "count": 120,
   "assetIds": [
     "kenney-car-kit-ambulance",
     "kenney-car-kit-box",
@@ -116,6 +116,12 @@
     "kenney-retro-urban-kit-detail-light-double",
     "kenney-retro-urban-kit-detail-light-single",
     "kenney-retro-urban-kit-detail-light-traffic",
-    "quaternius-toon-shooter-game-kit-environment-gltf-trafficcone"
+    "quaternius-toon-shooter-game-kit-environment-gltf-trafficcone",
+    "quaternius-zombie-apocalypse-kit-environment-gltf-trafficbarrier-1",
+    "quaternius-zombie-apocalypse-kit-environment-gltf-trafficbarrier-2",
+    "quaternius-zombie-apocalypse-kit-environment-gltf-trafficcone-1",
+    "quaternius-zombie-apocalypse-kit-environment-gltf-trafficcone-2",
+    "quaternius-zombie-apocalypse-kit-environment-gltf-trafficlight-1",
+    "quaternius-zombie-apocalypse-kit-environment-gltf-trafficlight-2"
   ]
 }

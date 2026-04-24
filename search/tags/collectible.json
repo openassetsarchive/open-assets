@@ -1,7 +1,7 @@
 {
   "version": 1,
   "tag": "collectible",
-  "count": 13,
+  "count": 21,
   "assetIds": [
     "kenney-platformer-kit-coin-bronze",
     "kenney-platformer-kit-coin-gold",
@@ -15,6 +15,14 @@
     "kenney-toy-car-kit-item-coin-bronze",
     "kenney-toy-car-kit-item-coin-gold",
     "kenney-toy-car-kit-item-coin-silver",
-    "kenney-toy-car-kit-item-cone"
+    "kenney-toy-car-kit-item-cone",
+    "quaternius-cyberpunk-game-kit-pickups-and-objects-collectible-board",
+    "quaternius-cyberpunk-game-kit-pickups-and-objects-collectible-gear",
+    "quaternius-cyberpunk-game-kit-pickups-and-objects-lever",
+    "quaternius-cyberpunk-game-kit-pickups-and-objects-lootbox",
+    "quaternius-cyberpunk-game-kit-pickups-and-objects-pickup-health",
+    "quaternius-cyberpunk-game-kit-pickups-and-objects-pickup-heart",
+    "quaternius-cyberpunk-game-kit-pickups-and-objects-pickup-tank",
+    "quaternius-cyberpunk-game-kit-pickups-and-objects-tank"
   ]
 }
