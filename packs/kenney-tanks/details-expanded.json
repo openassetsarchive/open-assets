@@ -117,7 +117,7 @@
         "relativePath": "PNG/Retina/tank_arrowEmpty.png",
         "canonicalRelativePath": "PNG/tank_arrowEmpty.png",
         "fileName": "tank_arrowEmpty.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-arrowempty.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-arrowempty/kenney-tanks-png-tank-arrowempty.png",
         "file": {
           "primaryBytes": 1377,
           "totalBytes": 1377,
@@ -197,7 +197,9 @@
             "sha256": "a5e460d386d50979c827f5b8e719761eec21aa3554f37861dcd08f4274f513af",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-arrowempty/kenney-tanks-png-tank-arrowempty.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-arrowempty/kenney-tanks-png-tank-arrowempty.png"
           }
         ],
         "source": {
@@ -247,6 +249,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-arrowempty/kenney-tanks-png-tank-arrowempty.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-arrowempty.png",
         "preview": null
       }
     },
@@ -261,7 +265,7 @@
         "relativePath": "PNG/Retina/tank_arrowFull.png",
         "canonicalRelativePath": "PNG/tank_arrowFull.png",
         "fileName": "tank_arrowFull.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-arrowfull.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-arrowfull/kenney-tanks-png-tank-arrowfull.png",
         "file": {
           "primaryBytes": 1371,
           "totalBytes": 1371,
@@ -341,7 +345,9 @@
             "sha256": "726f928e4e394ead5dda6a7d5e5edabe5dc8424523250d27f6bbebf8e422f390",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-arrowfull/kenney-tanks-png-tank-arrowfull.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-arrowfull/kenney-tanks-png-tank-arrowfull.png"
           }
         ],
         "source": {
@@ -391,6 +397,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-arrowfull/kenney-tanks-png-tank-arrowfull.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-arrowfull.png",
         "preview": null
       }
     },
@@ -405,7 +413,7 @@
         "relativePath": "PNG/Retina/tank_bullet1.png",
         "canonicalRelativePath": "PNG/tank_bullet1.png",
         "fileName": "tank_bullet1.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-bullet1.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-bullet1/kenney-tanks-png-tank-bullet1.png",
         "file": {
           "primaryBytes": 349,
           "totalBytes": 349,
@@ -485,7 +493,9 @@
             "sha256": "56c8f308ce4908c29d5070ac156f41ff9b9cf6b7e340befca9969eb82ab3a003",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-bullet1/kenney-tanks-png-tank-bullet1.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-bullet1/kenney-tanks-png-tank-bullet1.png"
           }
         ],
         "source": {
@@ -534,6 +544,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-bullet1/kenney-tanks-png-tank-bullet1.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-bullet1.png",
         "preview": null
       }
     },
@@ -548,7 +560,7 @@
         "relativePath": "PNG/Retina/tank_bullet2.png",
         "canonicalRelativePath": "PNG/tank_bullet2.png",
         "fileName": "tank_bullet2.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-bullet2.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-bullet2/kenney-tanks-png-tank-bullet2.png",
         "file": {
           "primaryBytes": 609,
           "totalBytes": 609,
@@ -628,7 +640,9 @@
             "sha256": "fe3efd65264232a78f370f14fb6e5cd3b12dfd01195dcf843ea6c3d817acb4c5",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-bullet2/kenney-tanks-png-tank-bullet2.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-bullet2/kenney-tanks-png-tank-bullet2.png"
           }
         ],
         "source": {
@@ -677,6 +691,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-bullet2/kenney-tanks-png-tank-bullet2.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-bullet2.png",
         "preview": null
       }
     },
@@ -691,7 +707,7 @@
         "relativePath": "PNG/Retina/tank_bullet3.png",
         "canonicalRelativePath": "PNG/tank_bullet3.png",
         "fileName": "tank_bullet3.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-bullet3.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-bullet3/kenney-tanks-png-tank-bullet3.png",
         "file": {
           "primaryBytes": 738,
           "totalBytes": 738,
@@ -771,7 +787,9 @@
             "sha256": "7854b85cc4f9aa0f67e082ddcc0aa1e1e8614273271fff4b2fdf36f15fff6260",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-bullet3/kenney-tanks-png-tank-bullet3.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-bullet3/kenney-tanks-png-tank-bullet3.png"
           }
         ],
         "source": {
@@ -820,6 +838,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-bullet3/kenney-tanks-png-tank-bullet3.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-bullet3.png",
         "preview": null
       }
     },
@@ -834,7 +854,7 @@
         "relativePath": "PNG/Retina/tank_bullet4.png",
         "canonicalRelativePath": "PNG/tank_bullet4.png",
         "fileName": "tank_bullet4.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-bullet4.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-bullet4/kenney-tanks-png-tank-bullet4.png",
         "file": {
           "primaryBytes": 736,
           "totalBytes": 736,
@@ -914,7 +934,9 @@
             "sha256": "a23bd31be9fa84694fcc93676175956cd2b3694a96fdcbb01df862eecb880cb8",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-bullet4/kenney-tanks-png-tank-bullet4.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-bullet4/kenney-tanks-png-tank-bullet4.png"
           }
         ],
         "source": {
@@ -963,6 +985,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-bullet4/kenney-tanks-png-tank-bullet4.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-bullet4.png",
         "preview": null
       }
     },
@@ -977,7 +1001,7 @@
         "relativePath": "PNG/Retina/tank_bullet5.png",
         "canonicalRelativePath": "PNG/tank_bullet5.png",
         "fileName": "tank_bullet5.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-bullet5.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-bullet5/kenney-tanks-png-tank-bullet5.png",
         "file": {
           "primaryBytes": 382,
           "totalBytes": 382,
@@ -1057,7 +1081,9 @@
             "sha256": "e751dd506fee4919389335dd4ccaae61cd258e16f1b3307da195c82da81af065",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-bullet5/kenney-tanks-png-tank-bullet5.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-bullet5/kenney-tanks-png-tank-bullet5.png"
           }
         ],
         "source": {
@@ -1106,6 +1132,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-bullet5/kenney-tanks-png-tank-bullet5.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-bullet5.png",
         "preview": null
       }
     },
@@ -1120,7 +1148,7 @@
         "relativePath": "PNG/Retina/tank_bullet6.png",
         "canonicalRelativePath": "PNG/tank_bullet6.png",
         "fileName": "tank_bullet6.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-bullet6.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-bullet6/kenney-tanks-png-tank-bullet6.png",
         "file": {
           "primaryBytes": 659,
           "totalBytes": 659,
@@ -1200,7 +1228,9 @@
             "sha256": "8dfb1fade31cd901efe36dea9dc8d93df6308eb0a04398763f62a25dea17be3a",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-bullet6/kenney-tanks-png-tank-bullet6.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-bullet6/kenney-tanks-png-tank-bullet6.png"
           }
         ],
         "source": {
@@ -1249,6 +1279,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-bullet6/kenney-tanks-png-tank-bullet6.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-bullet6.png",
         "preview": null
       }
     },
@@ -1263,7 +1295,7 @@
         "relativePath": "PNG/Retina/tank_bulletFly.png",
         "canonicalRelativePath": "PNG/tank_bulletFly.png",
         "fileName": "tank_bulletFly.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-bulletfly.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-bulletfly/kenney-tanks-png-tank-bulletfly.png",
         "file": {
           "primaryBytes": 565,
           "totalBytes": 565,
@@ -1343,7 +1375,9 @@
             "sha256": "cc98b6331bec809538a45913d679c89675efaaa3f8d061bc7548311c172d1f89",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-bulletfly/kenney-tanks-png-tank-bulletfly.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-bulletfly/kenney-tanks-png-tank-bulletfly.png"
           }
         ],
         "source": {
@@ -1392,6 +1426,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-bulletfly/kenney-tanks-png-tank-bulletfly.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-bulletfly.png",
         "preview": null
       }
     },
@@ -1406,7 +1442,7 @@
         "relativePath": "PNG/Retina/tank_bulletFly1.png",
         "canonicalRelativePath": "PNG/tank_bulletFly1.png",
         "fileName": "tank_bulletFly1.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-bulletfly1.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-bulletfly1/kenney-tanks-png-tank-bulletfly1.png",
         "file": {
           "primaryBytes": 918,
           "totalBytes": 918,
@@ -1486,7 +1522,9 @@
             "sha256": "b0f66694213251508cd8d0434d0e7c791c056f39669feb59c9d481dad5adb129",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-bulletfly1/kenney-tanks-png-tank-bulletfly1.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-bulletfly1/kenney-tanks-png-tank-bulletfly1.png"
           }
         ],
         "source": {
@@ -1535,6 +1573,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-bulletfly1/kenney-tanks-png-tank-bulletfly1.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-bulletfly1.png",
         "preview": null
       }
     },
@@ -1549,7 +1589,7 @@
         "relativePath": "PNG/Retina/tank_bulletFly2.png",
         "canonicalRelativePath": "PNG/tank_bulletFly2.png",
         "fileName": "tank_bulletFly2.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-bulletfly2.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-bulletfly2/kenney-tanks-png-tank-bulletfly2.png",
         "file": {
           "primaryBytes": 1286,
           "totalBytes": 1286,
@@ -1629,7 +1669,9 @@
             "sha256": "adf98f73b69f209df86e6becbc0511f35b73d49f161e955820bc81f6ea21692e",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-bulletfly2/kenney-tanks-png-tank-bulletfly2.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-bulletfly2/kenney-tanks-png-tank-bulletfly2.png"
           }
         ],
         "source": {
@@ -1678,6 +1720,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-bulletfly2/kenney-tanks-png-tank-bulletfly2.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-bulletfly2.png",
         "preview": null
       }
     },
@@ -1692,7 +1736,7 @@
         "relativePath": "PNG/Retina/tank_bulletFly3.png",
         "canonicalRelativePath": "PNG/tank_bulletFly3.png",
         "fileName": "tank_bulletFly3.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-bulletfly3.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-bulletfly3/kenney-tanks-png-tank-bulletfly3.png",
         "file": {
           "primaryBytes": 1390,
           "totalBytes": 1390,
@@ -1772,7 +1816,9 @@
             "sha256": "9749afc67702075ae683359b1009b75210c67324fd9f62ad1ff8ad3a9b9657a7",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-bulletfly3/kenney-tanks-png-tank-bulletfly3.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-bulletfly3/kenney-tanks-png-tank-bulletfly3.png"
           }
         ],
         "source": {
@@ -1821,6 +1867,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-bulletfly3/kenney-tanks-png-tank-bulletfly3.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-bulletfly3.png",
         "preview": null
       }
     },
@@ -1835,7 +1883,7 @@
         "relativePath": "PNG/Retina/tank_bulletFly4.png",
         "canonicalRelativePath": "PNG/tank_bulletFly4.png",
         "fileName": "tank_bulletFly4.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-bulletfly4.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-bulletfly4/kenney-tanks-png-tank-bulletfly4.png",
         "file": {
           "primaryBytes": 1378,
           "totalBytes": 1378,
@@ -1915,7 +1963,9 @@
             "sha256": "e383555828d7b2e734cf50060dc86cfe45c96b7e82501f5aff6545d3b7491225",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-bulletfly4/kenney-tanks-png-tank-bulletfly4.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-bulletfly4/kenney-tanks-png-tank-bulletfly4.png"
           }
         ],
         "source": {
@@ -1964,6 +2014,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-bulletfly4/kenney-tanks-png-tank-bulletfly4.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-bulletfly4.png",
         "preview": null
       }
     },
@@ -1978,7 +2030,7 @@
         "relativePath": "PNG/Retina/tank_bulletFly5.png",
         "canonicalRelativePath": "PNG/tank_bulletFly5.png",
         "fileName": "tank_bulletFly5.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-bulletfly5.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-bulletfly5/kenney-tanks-png-tank-bulletfly5.png",
         "file": {
           "primaryBytes": 955,
           "totalBytes": 955,
@@ -2058,7 +2110,9 @@
             "sha256": "343571990dd4226a5cec36a29ab4902e45e7dcecd140f96fa0905072408f9e7a",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-bulletfly5/kenney-tanks-png-tank-bulletfly5.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-bulletfly5/kenney-tanks-png-tank-bulletfly5.png"
           }
         ],
         "source": {
@@ -2107,6 +2161,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-bulletfly5/kenney-tanks-png-tank-bulletfly5.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-bulletfly5.png",
         "preview": null
       }
     },
@@ -2121,7 +2177,7 @@
         "relativePath": "PNG/Retina/tank_bulletFly6.png",
         "canonicalRelativePath": "PNG/tank_bulletFly6.png",
         "fileName": "tank_bulletFly6.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-bulletfly6.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-bulletfly6/kenney-tanks-png-tank-bulletfly6.png",
         "file": {
           "primaryBytes": 1323,
           "totalBytes": 1323,
@@ -2201,7 +2257,9 @@
             "sha256": "982adba37d9c469620eacef1f5dfd509f2f9b1d3040c65bbbbc2afafd08635e6",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-bulletfly6/kenney-tanks-png-tank-bulletfly6.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-bulletfly6/kenney-tanks-png-tank-bulletfly6.png"
           }
         ],
         "source": {
@@ -2250,6 +2308,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-bulletfly6/kenney-tanks-png-tank-bulletfly6.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-bulletfly6.png",
         "preview": null
       }
     },
@@ -2264,7 +2324,7 @@
         "relativePath": "PNG/Retina/tank_explosion1.png",
         "canonicalRelativePath": "PNG/tank_explosion1.png",
         "fileName": "tank_explosion1.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-explosion1.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-explosion1/kenney-tanks-png-tank-explosion1.png",
         "file": {
           "primaryBytes": 2870,
           "totalBytes": 2870,
@@ -2344,7 +2404,9 @@
             "sha256": "e4e706d5beca50625421867ef0eeb076ae1cc0f50af61e9654f742d83e45a53e",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-explosion1/kenney-tanks-png-tank-explosion1.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-explosion1/kenney-tanks-png-tank-explosion1.png"
           }
         ],
         "source": {
@@ -2393,6 +2455,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-explosion1/kenney-tanks-png-tank-explosion1.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-explosion1.png",
         "preview": null
       }
     },
@@ -2407,7 +2471,7 @@
         "relativePath": "PNG/Retina/tank_explosion10.png",
         "canonicalRelativePath": "PNG/tank_explosion10.png",
         "fileName": "tank_explosion10.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-explosion10.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-explosion10/kenney-tanks-png-tank-explosion10.png",
         "file": {
           "primaryBytes": 534,
           "totalBytes": 534,
@@ -2487,7 +2551,9 @@
             "sha256": "d06ef08af574b44c7bcf944042c06d7e68e72c05b1c338914a44e3abad6da84f",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-explosion10/kenney-tanks-png-tank-explosion10.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-explosion10/kenney-tanks-png-tank-explosion10.png"
           }
         ],
         "source": {
@@ -2536,6 +2602,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-explosion10/kenney-tanks-png-tank-explosion10.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-explosion10.png",
         "preview": null
       }
     },
@@ -2550,7 +2618,7 @@
         "relativePath": "PNG/Retina/tank_explosion11.png",
         "canonicalRelativePath": "PNG/tank_explosion11.png",
         "fileName": "tank_explosion11.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-explosion11.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-explosion11/kenney-tanks-png-tank-explosion11.png",
         "file": {
           "primaryBytes": 1026,
           "totalBytes": 1026,
@@ -2630,7 +2698,9 @@
             "sha256": "02038a3134f8b626dcead1e7488244b2666790df1a1e79a80b88ae54b945a1d6",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-explosion11/kenney-tanks-png-tank-explosion11.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-explosion11/kenney-tanks-png-tank-explosion11.png"
           }
         ],
         "source": {
@@ -2679,6 +2749,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-explosion11/kenney-tanks-png-tank-explosion11.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-explosion11.png",
         "preview": null
       }
     },
@@ -2693,7 +2765,7 @@
         "relativePath": "PNG/Retina/tank_explosion12.png",
         "canonicalRelativePath": "PNG/tank_explosion12.png",
         "fileName": "tank_explosion12.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-explosion12.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-explosion12/kenney-tanks-png-tank-explosion12.png",
         "file": {
           "primaryBytes": 1334,
           "totalBytes": 1334,
@@ -2773,7 +2845,9 @@
             "sha256": "6dc33c1dd3784445f36ba869b3d4ea028d5133a587e88224a26d7b3c83918b94",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-explosion12/kenney-tanks-png-tank-explosion12.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-explosion12/kenney-tanks-png-tank-explosion12.png"
           }
         ],
         "source": {
@@ -2822,6 +2896,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-explosion12/kenney-tanks-png-tank-explosion12.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-explosion12.png",
         "preview": null
       }
     },
@@ -2836,7 +2912,7 @@
         "relativePath": "PNG/Retina/tank_explosion2.png",
         "canonicalRelativePath": "PNG/tank_explosion2.png",
         "fileName": "tank_explosion2.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-explosion2.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-explosion2/kenney-tanks-png-tank-explosion2.png",
         "file": {
           "primaryBytes": 1538,
           "totalBytes": 1538,
@@ -2916,7 +2992,9 @@
             "sha256": "25fd09fa6fd6566f757704b1db5e1e81fb01dd346122bfdc29b386ca6fa9a9a6",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-explosion2/kenney-tanks-png-tank-explosion2.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-explosion2/kenney-tanks-png-tank-explosion2.png"
           }
         ],
         "source": {
@@ -2965,6 +3043,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-explosion2/kenney-tanks-png-tank-explosion2.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-explosion2.png",
         "preview": null
       }
     },
@@ -2979,7 +3059,7 @@
         "relativePath": "PNG/Retina/tank_explosion3.png",
         "canonicalRelativePath": "PNG/tank_explosion3.png",
         "fileName": "tank_explosion3.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-explosion3.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-explosion3/kenney-tanks-png-tank-explosion3.png",
         "file": {
           "primaryBytes": 3360,
           "totalBytes": 3360,
@@ -3059,7 +3139,9 @@
             "sha256": "bbc87ec947de7cdf68b80d22dadab72bd069452934cdee4b386456fb777b12a0",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-explosion3/kenney-tanks-png-tank-explosion3.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-explosion3/kenney-tanks-png-tank-explosion3.png"
           }
         ],
         "source": {
@@ -3108,6 +3190,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-explosion3/kenney-tanks-png-tank-explosion3.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-explosion3.png",
         "preview": null
       }
     },
@@ -3122,7 +3206,7 @@
         "relativePath": "PNG/Retina/tank_explosion4.png",
         "canonicalRelativePath": "PNG/tank_explosion4.png",
         "fileName": "tank_explosion4.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-explosion4.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-explosion4/kenney-tanks-png-tank-explosion4.png",
         "file": {
           "primaryBytes": 4167,
           "totalBytes": 4167,
@@ -3202,7 +3286,9 @@
             "sha256": "787ed49e2f0269838b3e18438659d890152e939cb1162a0a5f82414ed9a57717",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-explosion4/kenney-tanks-png-tank-explosion4.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-explosion4/kenney-tanks-png-tank-explosion4.png"
           }
         ],
         "source": {
@@ -3251,6 +3337,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-explosion4/kenney-tanks-png-tank-explosion4.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-explosion4.png",
         "preview": null
       }
     },
@@ -3265,7 +3353,7 @@
         "relativePath": "PNG/Retina/tank_explosion5.png",
         "canonicalRelativePath": "PNG/tank_explosion5.png",
         "fileName": "tank_explosion5.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-explosion5.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-explosion5/kenney-tanks-png-tank-explosion5.png",
         "file": {
           "primaryBytes": 527,
           "totalBytes": 527,
@@ -3345,7 +3433,9 @@
             "sha256": "03b43714329de16a6d4b52cd918668a7af8cfcbe92b8a5a4a1f11b71ebf1a2aa",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-explosion5/kenney-tanks-png-tank-explosion5.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-explosion5/kenney-tanks-png-tank-explosion5.png"
           }
         ],
         "source": {
@@ -3394,6 +3484,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-explosion5/kenney-tanks-png-tank-explosion5.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-explosion5.png",
         "preview": null
       }
     },
@@ -3408,7 +3500,7 @@
         "relativePath": "PNG/Retina/tank_explosion6.png",
         "canonicalRelativePath": "PNG/tank_explosion6.png",
         "fileName": "tank_explosion6.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-explosion6.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-explosion6/kenney-tanks-png-tank-explosion6.png",
         "file": {
           "primaryBytes": 1072,
           "totalBytes": 1072,
@@ -3488,7 +3580,9 @@
             "sha256": "e00c1e32555b98a3f88e0281531211620506acf3bacee68680fd0bfe649abc14",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-explosion6/kenney-tanks-png-tank-explosion6.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-explosion6/kenney-tanks-png-tank-explosion6.png"
           }
         ],
         "source": {
@@ -3537,6 +3631,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-explosion6/kenney-tanks-png-tank-explosion6.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-explosion6.png",
         "preview": null
       }
     },
@@ -3551,7 +3647,7 @@
         "relativePath": "PNG/Retina/tank_explosion7.png",
         "canonicalRelativePath": "PNG/tank_explosion7.png",
         "fileName": "tank_explosion7.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-explosion7.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-explosion7/kenney-tanks-png-tank-explosion7.png",
         "file": {
           "primaryBytes": 1336,
           "totalBytes": 1336,
@@ -3631,7 +3727,9 @@
             "sha256": "daef26533cd557a800a5b9eaef31239d8faad31d200b6dc2712d7174edd0269c",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-explosion7/kenney-tanks-png-tank-explosion7.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-explosion7/kenney-tanks-png-tank-explosion7.png"
           }
         ],
         "source": {
@@ -3680,6 +3778,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-explosion7/kenney-tanks-png-tank-explosion7.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-explosion7.png",
         "preview": null
       }
     },
@@ -3694,7 +3794,7 @@
         "relativePath": "PNG/Retina/tank_explosion8.png",
         "canonicalRelativePath": "PNG/tank_explosion8.png",
         "fileName": "tank_explosion8.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-explosion8.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-explosion8/kenney-tanks-png-tank-explosion8.png",
         "file": {
           "primaryBytes": 1760,
           "totalBytes": 1760,
@@ -3774,7 +3874,9 @@
             "sha256": "3b55cbea2dab3cf7a0cc5c8b11cf3a4b4a8743f4b66916451efeac6f057d66dd",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-explosion8/kenney-tanks-png-tank-explosion8.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-explosion8/kenney-tanks-png-tank-explosion8.png"
           }
         ],
         "source": {
@@ -3823,6 +3925,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-explosion8/kenney-tanks-png-tank-explosion8.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-explosion8.png",
         "preview": null
       }
     },
@@ -3837,7 +3941,7 @@
         "relativePath": "PNG/Retina/tank_explosion9.png",
         "canonicalRelativePath": "PNG/tank_explosion9.png",
         "fileName": "tank_explosion9.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-explosion9.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-explosion9/kenney-tanks-png-tank-explosion9.png",
         "file": {
           "primaryBytes": 1752,
           "totalBytes": 1752,
@@ -3917,7 +4021,9 @@
             "sha256": "ae8d71889d98ef87ff8f23871d572ee7e508db7e2899abc70b5535d670ba1997",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-explosion9/kenney-tanks-png-tank-explosion9.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tank-explosion9/kenney-tanks-png-tank-explosion9.png"
           }
         ],
         "source": {
@@ -3966,6 +4072,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tank-explosion9/kenney-tanks-png-tank-explosion9.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tank-explosion9.png",
         "preview": null
       }
     },
@@ -3980,7 +4088,7 @@
         "relativePath": "PNG/Retina/tanks_barrelGreen.png",
         "canonicalRelativePath": "PNG/tanks_barrelGreen.png",
         "fileName": "tanks_barrelGreen.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-barrelgreen.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-barrelgreen/kenney-tanks-png-tanks-barrelgreen.png",
         "file": {
           "primaryBytes": 1505,
           "totalBytes": 1505,
@@ -4060,7 +4168,9 @@
             "sha256": "aceab90605f7e49273ab98db3aae880cebaf90d953d3cb3fe0040daafa2475c9",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-barrelgreen/kenney-tanks-png-tanks-barrelgreen.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-barrelgreen/kenney-tanks-png-tanks-barrelgreen.png"
           }
         ],
         "source": {
@@ -4109,6 +4219,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-barrelgreen/kenney-tanks-png-tanks-barrelgreen.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-barrelgreen.png",
         "preview": null
       }
     },
@@ -4123,7 +4235,7 @@
         "relativePath": "PNG/Retina/tanks_barrelGrey.png",
         "canonicalRelativePath": "PNG/tanks_barrelGrey.png",
         "fileName": "tanks_barrelGrey.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-barrelgrey.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-barrelgrey/kenney-tanks-png-tanks-barrelgrey.png",
         "file": {
           "primaryBytes": 841,
           "totalBytes": 841,
@@ -4203,7 +4315,9 @@
             "sha256": "dd333016291d8372a25bd1e39ffaa9d2f415fdeeb9dd7248f17393d9b76c3261",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-barrelgrey/kenney-tanks-png-tanks-barrelgrey.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-barrelgrey/kenney-tanks-png-tanks-barrelgrey.png"
           }
         ],
         "source": {
@@ -4252,6 +4366,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-barrelgrey/kenney-tanks-png-tanks-barrelgrey.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-barrelgrey.png",
         "preview": null
       }
     },
@@ -4266,7 +4382,7 @@
         "relativePath": "PNG/Retina/tanks_barrelRed.png",
         "canonicalRelativePath": "PNG/tanks_barrelRed.png",
         "fileName": "tanks_barrelRed.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-barrelred.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-barrelred/kenney-tanks-png-tanks-barrelred.png",
         "file": {
           "primaryBytes": 634,
           "totalBytes": 634,
@@ -4346,7 +4462,9 @@
             "sha256": "2c9de55a1117c5e68ddec4de95b71b9b9f5924c303ab523341b2f13f7d75b4bb",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-barrelred/kenney-tanks-png-tanks-barrelred.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-barrelred/kenney-tanks-png-tanks-barrelred.png"
           }
         ],
         "source": {
@@ -4395,6 +4513,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-barrelred/kenney-tanks-png-tanks-barrelred.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-barrelred.png",
         "preview": null
       }
     },
@@ -4409,7 +4529,7 @@
         "relativePath": "PNG/Retina/tanks_crateAmmo.png",
         "canonicalRelativePath": "PNG/tanks_crateAmmo.png",
         "fileName": "tanks_crateAmmo.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-crateammo.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-crateammo/kenney-tanks-png-tanks-crateammo.png",
         "file": {
           "primaryBytes": 662,
           "totalBytes": 662,
@@ -4489,7 +4609,9 @@
             "sha256": "137c5e0d54e80b7915791755381c4e03e8d87bfbd03ab0b47dccd74bb6a7a0dc",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-crateammo/kenney-tanks-png-tanks-crateammo.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-crateammo/kenney-tanks-png-tanks-crateammo.png"
           }
         ],
         "source": {
@@ -4538,6 +4660,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-crateammo/kenney-tanks-png-tanks-crateammo.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-crateammo.png",
         "preview": null
       }
     },
@@ -4552,7 +4676,7 @@
         "relativePath": "PNG/Retina/tanks_crateArmor.png",
         "canonicalRelativePath": "PNG/tanks_crateArmor.png",
         "fileName": "tanks_crateArmor.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-cratearmor.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-cratearmor/kenney-tanks-png-tanks-cratearmor.png",
         "file": {
           "primaryBytes": 1118,
           "totalBytes": 1118,
@@ -4632,7 +4756,9 @@
             "sha256": "6d22bdf4d805ec0a5b7cb3d59738181c69e8c552ce12e6c3606a363bd1b0009e",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-cratearmor/kenney-tanks-png-tanks-cratearmor.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-cratearmor/kenney-tanks-png-tanks-cratearmor.png"
           }
         ],
         "source": {
@@ -4681,6 +4807,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-cratearmor/kenney-tanks-png-tanks-cratearmor.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-cratearmor.png",
         "preview": null
       }
     },
@@ -4695,7 +4823,7 @@
         "relativePath": "PNG/Retina/tanks_crateRepair.png",
         "canonicalRelativePath": "PNG/tanks_crateRepair.png",
         "fileName": "tanks_crateRepair.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-craterepair.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-craterepair/kenney-tanks-png-tanks-craterepair.png",
         "file": {
           "primaryBytes": 1147,
           "totalBytes": 1147,
@@ -4775,7 +4903,9 @@
             "sha256": "f9e655554d8247038cf7b69b24d6f8150e5a070c276fc7493d1a8a313ae0b180",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-craterepair/kenney-tanks-png-tanks-craterepair.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-craterepair/kenney-tanks-png-tanks-craterepair.png"
           }
         ],
         "source": {
@@ -4824,6 +4954,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-craterepair/kenney-tanks-png-tanks-craterepair.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-craterepair.png",
         "preview": null
       }
     },
@@ -4838,7 +4970,7 @@
         "relativePath": "PNG/Retina/tanks_crateWood.png",
         "canonicalRelativePath": "PNG/tanks_crateWood.png",
         "fileName": "tanks_crateWood.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-cratewood.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-cratewood/kenney-tanks-png-tanks-cratewood.png",
         "file": {
           "primaryBytes": 696,
           "totalBytes": 696,
@@ -4918,7 +5050,9 @@
             "sha256": "8ee8e01fc40b4f2029050e3e546444a693bc662c5efb7fa3cab7b0a843d69dbe",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-cratewood/kenney-tanks-png-tanks-cratewood.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-cratewood/kenney-tanks-png-tanks-cratewood.png"
           }
         ],
         "source": {
@@ -4967,6 +5101,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-cratewood/kenney-tanks-png-tanks-cratewood.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-cratewood.png",
         "preview": null
       }
     },
@@ -4981,7 +5117,7 @@
         "relativePath": "PNG/Retina/tanks_mineOff.png",
         "canonicalRelativePath": "PNG/tanks_mineOff.png",
         "fileName": "tanks_mineOff.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-mineoff.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-mineoff/kenney-tanks-png-tanks-mineoff.png",
         "file": {
           "primaryBytes": 637,
           "totalBytes": 637,
@@ -5061,7 +5197,9 @@
             "sha256": "c25fbafd9485d02af07f451fac3bdb8450342c44e7edc6bc2e9f831a404e12a5",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-mineoff/kenney-tanks-png-tanks-mineoff.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-mineoff/kenney-tanks-png-tanks-mineoff.png"
           }
         ],
         "source": {
@@ -5110,6 +5248,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-mineoff/kenney-tanks-png-tanks-mineoff.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-mineoff.png",
         "preview": null
       }
     },
@@ -5124,7 +5264,7 @@
         "relativePath": "PNG/Retina/tanks_mineOn.png",
         "canonicalRelativePath": "PNG/tanks_mineOn.png",
         "fileName": "tanks_mineOn.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-mineon.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-mineon/kenney-tanks-png-tanks-mineon.png",
         "file": {
           "primaryBytes": 637,
           "totalBytes": 637,
@@ -5204,7 +5344,9 @@
             "sha256": "83d4378fb97b2d08ec3f86b248c494570a56f1959cf9b4a5a83f5f4be1c09421",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-mineon/kenney-tanks-png-tanks-mineon.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-mineon/kenney-tanks-png-tanks-mineon.png"
           }
         ],
         "source": {
@@ -5253,6 +5395,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-mineon/kenney-tanks-png-tanks-mineon.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-mineon.png",
         "preview": null
       }
     },
@@ -5267,7 +5411,7 @@
         "relativePath": "PNG/Retina/tanks_minePressed.png",
         "canonicalRelativePath": "PNG/tanks_minePressed.png",
         "fileName": "tanks_minePressed.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-minepressed.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-minepressed/kenney-tanks-png-tanks-minepressed.png",
         "file": {
           "primaryBytes": 390,
           "totalBytes": 390,
@@ -5347,7 +5491,9 @@
             "sha256": "788b22bb220aa288b0d30bbfc63f02c924989090e1a78c3bfefde62de3457628",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-minepressed/kenney-tanks-png-tanks-minepressed.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-minepressed/kenney-tanks-png-tanks-minepressed.png"
           }
         ],
         "source": {
@@ -5396,6 +5542,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-minepressed/kenney-tanks-png-tanks-minepressed.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-minepressed.png",
         "preview": null
       }
     },
@@ -5410,7 +5558,7 @@
         "relativePath": "PNG/Retina/tanks_tankDesert_body1.png",
         "canonicalRelativePath": "PNG/tanks_tankDesert_body1.png",
         "fileName": "tanks_tankDesert_body1.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankdesert-body1.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankdesert-body1/kenney-tanks-png-tanks-tankdesert-body1.png",
         "file": {
           "primaryBytes": 2410,
           "totalBytes": 2410,
@@ -5490,7 +5638,9 @@
             "sha256": "e1ffa64cdc0aeab8bb83c849e991d882a75ea281c8fe35ba36ce70c1fca9fc47",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankdesert-body1/kenney-tanks-png-tanks-tankdesert-body1.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankdesert-body1/kenney-tanks-png-tanks-tankdesert-body1.png"
           }
         ],
         "source": {
@@ -5538,6 +5688,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankdesert-body1/kenney-tanks-png-tanks-tankdesert-body1.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankdesert-body1.png",
         "preview": null
       }
     },
@@ -5552,7 +5704,7 @@
         "relativePath": "PNG/Retina/tanks_tankDesert_body2.png",
         "canonicalRelativePath": "PNG/tanks_tankDesert_body2.png",
         "fileName": "tanks_tankDesert_body2.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankdesert-body2.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankdesert-body2/kenney-tanks-png-tanks-tankdesert-body2.png",
         "file": {
           "primaryBytes": 2946,
           "totalBytes": 2946,
@@ -5632,7 +5784,9 @@
             "sha256": "329f935a418821a22bce756feeb12951836f6066e321f8bdde78240695e74c9f",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankdesert-body2/kenney-tanks-png-tanks-tankdesert-body2.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankdesert-body2/kenney-tanks-png-tanks-tankdesert-body2.png"
           }
         ],
         "source": {
@@ -5680,6 +5834,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankdesert-body2/kenney-tanks-png-tanks-tankdesert-body2.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankdesert-body2.png",
         "preview": null
       }
     },
@@ -5694,7 +5850,7 @@
         "relativePath": "PNG/Retina/tanks_tankDesert_body3.png",
         "canonicalRelativePath": "PNG/tanks_tankDesert_body3.png",
         "fileName": "tanks_tankDesert_body3.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankdesert-body3.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankdesert-body3/kenney-tanks-png-tanks-tankdesert-body3.png",
         "file": {
           "primaryBytes": 2512,
           "totalBytes": 2512,
@@ -5774,7 +5930,9 @@
             "sha256": "f397464337f1406fafe37794dfe9d5e5de07ad95915741cc66a0b58fae71c273",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankdesert-body3/kenney-tanks-png-tanks-tankdesert-body3.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankdesert-body3/kenney-tanks-png-tanks-tankdesert-body3.png"
           }
         ],
         "source": {
@@ -5822,6 +5980,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankdesert-body3/kenney-tanks-png-tanks-tankdesert-body3.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankdesert-body3.png",
         "preview": null
       }
     },
@@ -5836,7 +5996,7 @@
         "relativePath": "PNG/Retina/tanks_tankDesert_body4.png",
         "canonicalRelativePath": "PNG/tanks_tankDesert_body4.png",
         "fileName": "tanks_tankDesert_body4.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankdesert-body4.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankdesert-body4/kenney-tanks-png-tanks-tankdesert-body4.png",
         "file": {
           "primaryBytes": 2926,
           "totalBytes": 2926,
@@ -5916,7 +6076,9 @@
             "sha256": "f2b87b6775239ae781617363257e933fba73346706c5827df491a570a105a834",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankdesert-body4/kenney-tanks-png-tanks-tankdesert-body4.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankdesert-body4/kenney-tanks-png-tanks-tankdesert-body4.png"
           }
         ],
         "source": {
@@ -5964,6 +6126,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankdesert-body4/kenney-tanks-png-tanks-tankdesert-body4.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankdesert-body4.png",
         "preview": null
       }
     },
@@ -5978,7 +6142,7 @@
         "relativePath": "PNG/Retina/tanks_tankDesert_body5.png",
         "canonicalRelativePath": "PNG/tanks_tankDesert_body5.png",
         "fileName": "tanks_tankDesert_body5.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankdesert-body5.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankdesert-body5/kenney-tanks-png-tanks-tankdesert-body5.png",
         "file": {
           "primaryBytes": 1905,
           "totalBytes": 1905,
@@ -6058,7 +6222,9 @@
             "sha256": "5c06a86d1e1be4733bb9c14e6b1ae947ebd62c81b89e6cb9560bf28d8c16403b",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankdesert-body5/kenney-tanks-png-tanks-tankdesert-body5.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankdesert-body5/kenney-tanks-png-tanks-tankdesert-body5.png"
           }
         ],
         "source": {
@@ -6106,6 +6272,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankdesert-body5/kenney-tanks-png-tanks-tankdesert-body5.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankdesert-body5.png",
         "preview": null
       }
     },
@@ -6120,7 +6288,7 @@
         "relativePath": "PNG/Retina/tanks_tankDesert1.png",
         "canonicalRelativePath": "PNG/tanks_tankDesert1.png",
         "fileName": "tanks_tankDesert1.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankdesert1.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankdesert1/kenney-tanks-png-tanks-tankdesert1.png",
         "file": {
           "primaryBytes": 4304,
           "totalBytes": 4304,
@@ -6200,7 +6368,9 @@
             "sha256": "f8fae7146b0d52b971bc0d7d76e65d2fc7ea6282e4ea8177c02d670a4ab4ddb0",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankdesert1/kenney-tanks-png-tanks-tankdesert1.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankdesert1/kenney-tanks-png-tanks-tankdesert1.png"
           }
         ],
         "source": {
@@ -6247,6 +6417,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankdesert1/kenney-tanks-png-tanks-tankdesert1.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankdesert1.png",
         "preview": null
       }
     },
@@ -6261,7 +6433,7 @@
         "relativePath": "PNG/Retina/tanks_tankDesert2.png",
         "canonicalRelativePath": "PNG/tanks_tankDesert2.png",
         "fileName": "tanks_tankDesert2.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankdesert2.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankdesert2/kenney-tanks-png-tanks-tankdesert2.png",
         "file": {
           "primaryBytes": 4638,
           "totalBytes": 4638,
@@ -6341,7 +6513,9 @@
             "sha256": "0c19431d0cb6a98cfb9cbccf9540fe40034e24b00081d2ce453bd71ae0fae0f4",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankdesert2/kenney-tanks-png-tanks-tankdesert2.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankdesert2/kenney-tanks-png-tanks-tankdesert2.png"
           }
         ],
         "source": {
@@ -6388,6 +6562,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankdesert2/kenney-tanks-png-tanks-tankdesert2.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankdesert2.png",
         "preview": null
       }
     },
@@ -6402,7 +6578,7 @@
         "relativePath": "PNG/Retina/tanks_tankDesert3.png",
         "canonicalRelativePath": "PNG/tanks_tankDesert3.png",
         "fileName": "tanks_tankDesert3.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankdesert3.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankdesert3/kenney-tanks-png-tanks-tankdesert3.png",
         "file": {
           "primaryBytes": 4371,
           "totalBytes": 4371,
@@ -6482,7 +6658,9 @@
             "sha256": "8ab15a5f55f326aaf687e86b72718df9243968ff630a0fd55434a9196fbc9dce",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankdesert3/kenney-tanks-png-tanks-tankdesert3.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankdesert3/kenney-tanks-png-tanks-tankdesert3.png"
           }
         ],
         "source": {
@@ -6529,6 +6707,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankdesert3/kenney-tanks-png-tanks-tankdesert3.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankdesert3.png",
         "preview": null
       }
     },
@@ -6543,7 +6723,7 @@
         "relativePath": "PNG/Retina/tanks_tankDesert4.png",
         "canonicalRelativePath": "PNG/tanks_tankDesert4.png",
         "fileName": "tanks_tankDesert4.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankdesert4.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankdesert4/kenney-tanks-png-tanks-tankdesert4.png",
         "file": {
           "primaryBytes": 5095,
           "totalBytes": 5095,
@@ -6623,7 +6803,9 @@
             "sha256": "199caa27af6ead01172697ef479e1bdd2441db12ab956b8e991671c6344b58f7",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankdesert4/kenney-tanks-png-tanks-tankdesert4.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankdesert4/kenney-tanks-png-tanks-tankdesert4.png"
           }
         ],
         "source": {
@@ -6670,6 +6852,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankdesert4/kenney-tanks-png-tanks-tankdesert4.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankdesert4.png",
         "preview": null
       }
     },
@@ -6684,7 +6868,7 @@
         "relativePath": "PNG/Retina/tanks_tankDesert5.png",
         "canonicalRelativePath": "PNG/tanks_tankDesert5.png",
         "fileName": "tanks_tankDesert5.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankdesert5.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankdesert5/kenney-tanks-png-tanks-tankdesert5.png",
         "file": {
           "primaryBytes": 4413,
           "totalBytes": 4413,
@@ -6764,7 +6948,9 @@
             "sha256": "32f1c344ee6f874588fcfce073047e99691d7e2690bda54b1dbfa5f8fafcc534",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankdesert5/kenney-tanks-png-tanks-tankdesert5.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankdesert5/kenney-tanks-png-tanks-tankdesert5.png"
           }
         ],
         "source": {
@@ -6811,6 +6997,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankdesert5/kenney-tanks-png-tanks-tankdesert5.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankdesert5.png",
         "preview": null
       }
     },
@@ -6825,7 +7013,7 @@
         "relativePath": "PNG/Retina/tanks_tankGreen_body1.png",
         "canonicalRelativePath": "PNG/tanks_tankGreen_body1.png",
         "fileName": "tanks_tankGreen_body1.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankgreen-body1.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankgreen-body1/kenney-tanks-png-tanks-tankgreen-body1.png",
         "file": {
           "primaryBytes": 1660,
           "totalBytes": 1660,
@@ -6905,7 +7093,9 @@
             "sha256": "d5a9558987d57c9b95786e61b4a53e61acbff51d71ee93cff58ed21993442da6",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankgreen-body1/kenney-tanks-png-tanks-tankgreen-body1.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankgreen-body1/kenney-tanks-png-tanks-tankgreen-body1.png"
           }
         ],
         "source": {
@@ -6953,6 +7143,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankgreen-body1/kenney-tanks-png-tanks-tankgreen-body1.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankgreen-body1.png",
         "preview": null
       }
     },
@@ -6967,7 +7159,7 @@
         "relativePath": "PNG/Retina/tanks_tankGreen_body2.png",
         "canonicalRelativePath": "PNG/tanks_tankGreen_body2.png",
         "fileName": "tanks_tankGreen_body2.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankgreen-body2.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankgreen-body2/kenney-tanks-png-tanks-tankgreen-body2.png",
         "file": {
           "primaryBytes": 2100,
           "totalBytes": 2100,
@@ -7047,7 +7239,9 @@
             "sha256": "3c948134c4d7f2016197edd15f52e700a9220f9101a48b54e934cfea9b875761",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankgreen-body2/kenney-tanks-png-tanks-tankgreen-body2.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankgreen-body2/kenney-tanks-png-tanks-tankgreen-body2.png"
           }
         ],
         "source": {
@@ -7095,6 +7289,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankgreen-body2/kenney-tanks-png-tanks-tankgreen-body2.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankgreen-body2.png",
         "preview": null
       }
     },
@@ -7109,7 +7305,7 @@
         "relativePath": "PNG/Retina/tanks_tankGreen_body3.png",
         "canonicalRelativePath": "PNG/tanks_tankGreen_body3.png",
         "fileName": "tanks_tankGreen_body3.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankgreen-body3.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankgreen-body3/kenney-tanks-png-tanks-tankgreen-body3.png",
         "file": {
           "primaryBytes": 1915,
           "totalBytes": 1915,
@@ -7189,7 +7385,9 @@
             "sha256": "d89a75b15836ce560d54c6583b84c36da676054e4277cfe7d45ecd9efe66eec8",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankgreen-body3/kenney-tanks-png-tanks-tankgreen-body3.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankgreen-body3/kenney-tanks-png-tanks-tankgreen-body3.png"
           }
         ],
         "source": {
@@ -7237,6 +7435,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankgreen-body3/kenney-tanks-png-tanks-tankgreen-body3.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankgreen-body3.png",
         "preview": null
       }
     },
@@ -7251,7 +7451,7 @@
         "relativePath": "PNG/Retina/tanks_tankGreen_body4.png",
         "canonicalRelativePath": "PNG/tanks_tankGreen_body4.png",
         "fileName": "tanks_tankGreen_body4.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankgreen-body4.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankgreen-body4/kenney-tanks-png-tanks-tankgreen-body4.png",
         "file": {
           "primaryBytes": 2490,
           "totalBytes": 2490,
@@ -7331,7 +7531,9 @@
             "sha256": "9bd782392bf3d6df954454e66468dedcf78a175af9e26cca72513faa77e88ff3",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankgreen-body4/kenney-tanks-png-tanks-tankgreen-body4.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankgreen-body4/kenney-tanks-png-tanks-tankgreen-body4.png"
           }
         ],
         "source": {
@@ -7379,6 +7581,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankgreen-body4/kenney-tanks-png-tanks-tankgreen-body4.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankgreen-body4.png",
         "preview": null
       }
     },
@@ -7393,7 +7597,7 @@
         "relativePath": "PNG/Retina/tanks_tankGreen_body5.png",
         "canonicalRelativePath": "PNG/tanks_tankGreen_body5.png",
         "fileName": "tanks_tankGreen_body5.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankgreen-body5.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankgreen-body5/kenney-tanks-png-tanks-tankgreen-body5.png",
         "file": {
           "primaryBytes": 1338,
           "totalBytes": 1338,
@@ -7473,7 +7677,9 @@
             "sha256": "c7fef2e873b385bb15864a9a64c1f947feb89ac33e80078269a69f9b951063a6",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankgreen-body5/kenney-tanks-png-tanks-tankgreen-body5.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankgreen-body5/kenney-tanks-png-tanks-tankgreen-body5.png"
           }
         ],
         "source": {
@@ -7521,6 +7727,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankgreen-body5/kenney-tanks-png-tanks-tankgreen-body5.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankgreen-body5.png",
         "preview": null
       }
     },
@@ -7535,7 +7743,7 @@
         "relativePath": "PNG/Retina/tanks_tankGreen1.png",
         "canonicalRelativePath": "PNG/tanks_tankGreen1.png",
         "fileName": "tanks_tankGreen1.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankgreen1.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankgreen1/kenney-tanks-png-tanks-tankgreen1.png",
         "file": {
           "primaryBytes": 3552,
           "totalBytes": 3552,
@@ -7615,7 +7823,9 @@
             "sha256": "b30e4a73cc6b2f530612cb6c9afe83c9d04d176d11a594d14f213ec94463575a",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankgreen1/kenney-tanks-png-tanks-tankgreen1.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankgreen1/kenney-tanks-png-tanks-tankgreen1.png"
           }
         ],
         "source": {
@@ -7662,6 +7872,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankgreen1/kenney-tanks-png-tanks-tankgreen1.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankgreen1.png",
         "preview": null
       }
     },
@@ -7676,7 +7888,7 @@
         "relativePath": "PNG/Retina/tanks_tankGreen2.png",
         "canonicalRelativePath": "PNG/tanks_tankGreen2.png",
         "fileName": "tanks_tankGreen2.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankgreen2.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankgreen2/kenney-tanks-png-tanks-tankgreen2.png",
         "file": {
           "primaryBytes": 3859,
           "totalBytes": 3859,
@@ -7756,7 +7968,9 @@
             "sha256": "41e68e7864e880818c359510eb95cb8f077261d7d40e3e0fcc6d88d9bd5d184a",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankgreen2/kenney-tanks-png-tanks-tankgreen2.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankgreen2/kenney-tanks-png-tanks-tankgreen2.png"
           }
         ],
         "source": {
@@ -7803,6 +8017,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankgreen2/kenney-tanks-png-tanks-tankgreen2.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankgreen2.png",
         "preview": null
       }
     },
@@ -7817,7 +8033,7 @@
         "relativePath": "PNG/Retina/tanks_tankGreen3.png",
         "canonicalRelativePath": "PNG/tanks_tankGreen3.png",
         "fileName": "tanks_tankGreen3.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankgreen3.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankgreen3/kenney-tanks-png-tanks-tankgreen3.png",
         "file": {
           "primaryBytes": 3786,
           "totalBytes": 3786,
@@ -7897,7 +8113,9 @@
             "sha256": "d123f48dc5e9796a9beb27d650a7ff7cf0a7b5b34cfbf646fc85784e9a8e701e",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankgreen3/kenney-tanks-png-tanks-tankgreen3.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankgreen3/kenney-tanks-png-tanks-tankgreen3.png"
           }
         ],
         "source": {
@@ -7944,6 +8162,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankgreen3/kenney-tanks-png-tanks-tankgreen3.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankgreen3.png",
         "preview": null
       }
     },
@@ -7958,7 +8178,7 @@
         "relativePath": "PNG/Retina/tanks_tankGreen4.png",
         "canonicalRelativePath": "PNG/tanks_tankGreen4.png",
         "fileName": "tanks_tankGreen4.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankgreen4.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankgreen4/kenney-tanks-png-tanks-tankgreen4.png",
         "file": {
           "primaryBytes": 4901,
           "totalBytes": 4901,
@@ -8038,7 +8258,9 @@
             "sha256": "7db2281aa069ea22ace3a706084fa454dbebb00b1b320f37164659d3f58f9e09",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankgreen4/kenney-tanks-png-tanks-tankgreen4.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankgreen4/kenney-tanks-png-tanks-tankgreen4.png"
           }
         ],
         "source": {
@@ -8085,6 +8307,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankgreen4/kenney-tanks-png-tanks-tankgreen4.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankgreen4.png",
         "preview": null
       }
     },
@@ -8099,7 +8323,7 @@
         "relativePath": "PNG/Retina/tanks_tankGreen5.png",
         "canonicalRelativePath": "PNG/tanks_tankGreen5.png",
         "fileName": "tanks_tankGreen5.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankgreen5.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankgreen5/kenney-tanks-png-tanks-tankgreen5.png",
         "file": {
           "primaryBytes": 4133,
           "totalBytes": 4133,
@@ -8179,7 +8403,9 @@
             "sha256": "913ecf13630871080ddb35e42a67bb480ce4c7c1df7d58fae2e09a5cf2fef3cf",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankgreen5/kenney-tanks-png-tanks-tankgreen5.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankgreen5/kenney-tanks-png-tanks-tankgreen5.png"
           }
         ],
         "source": {
@@ -8226,6 +8452,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankgreen5/kenney-tanks-png-tanks-tankgreen5.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankgreen5.png",
         "preview": null
       }
     },
@@ -8240,7 +8468,7 @@
         "relativePath": "PNG/Retina/tanks_tankGrey_body1.png",
         "canonicalRelativePath": "PNG/tanks_tankGrey_body1.png",
         "fileName": "tanks_tankGrey_body1.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankgrey-body1.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankgrey-body1/kenney-tanks-png-tanks-tankgrey-body1.png",
         "file": {
           "primaryBytes": 1770,
           "totalBytes": 1770,
@@ -8320,7 +8548,9 @@
             "sha256": "99434432bf6ab1527bae4542c5457d40394629063dc7af03a3783eafc2c61bc9",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankgrey-body1/kenney-tanks-png-tanks-tankgrey-body1.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankgrey-body1/kenney-tanks-png-tanks-tankgrey-body1.png"
           }
         ],
         "source": {
@@ -8368,6 +8598,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankgrey-body1/kenney-tanks-png-tanks-tankgrey-body1.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankgrey-body1.png",
         "preview": null
       }
     },
@@ -8382,7 +8614,7 @@
         "relativePath": "PNG/Retina/tanks_tankGrey_body2.png",
         "canonicalRelativePath": "PNG/tanks_tankGrey_body2.png",
         "fileName": "tanks_tankGrey_body2.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankgrey-body2.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankgrey-body2/kenney-tanks-png-tanks-tankgrey-body2.png",
         "file": {
           "primaryBytes": 2333,
           "totalBytes": 2333,
@@ -8462,7 +8694,9 @@
             "sha256": "8c768bfe56f4d5484708f82d2bd2f7d7a1b2aca34932cdb69f0c75fb329dd651",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankgrey-body2/kenney-tanks-png-tanks-tankgrey-body2.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankgrey-body2/kenney-tanks-png-tanks-tankgrey-body2.png"
           }
         ],
         "source": {
@@ -8510,6 +8744,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankgrey-body2/kenney-tanks-png-tanks-tankgrey-body2.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankgrey-body2.png",
         "preview": null
       }
     },
@@ -8524,7 +8760,7 @@
         "relativePath": "PNG/Retina/tanks_tankGrey_body3.png",
         "canonicalRelativePath": "PNG/tanks_tankGrey_body3.png",
         "fileName": "tanks_tankGrey_body3.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankgrey-body3.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankgrey-body3/kenney-tanks-png-tanks-tankgrey-body3.png",
         "file": {
           "primaryBytes": 2283,
           "totalBytes": 2283,
@@ -8604,7 +8840,9 @@
             "sha256": "537d197f27b891122b38b0fe55221b0b1c60ae6a9e20e88fcd375b64bc260058",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankgrey-body3/kenney-tanks-png-tanks-tankgrey-body3.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankgrey-body3/kenney-tanks-png-tanks-tankgrey-body3.png"
           }
         ],
         "source": {
@@ -8652,6 +8890,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankgrey-body3/kenney-tanks-png-tanks-tankgrey-body3.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankgrey-body3.png",
         "preview": null
       }
     },
@@ -8666,7 +8906,7 @@
         "relativePath": "PNG/Retina/tanks_tankGrey_body4.png",
         "canonicalRelativePath": "PNG/tanks_tankGrey_body4.png",
         "fileName": "tanks_tankGrey_body4.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankgrey-body4.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankgrey-body4/kenney-tanks-png-tanks-tankgrey-body4.png",
         "file": {
           "primaryBytes": 2522,
           "totalBytes": 2522,
@@ -8746,7 +8986,9 @@
             "sha256": "e81725e12dfb21f8f8e4f87502f7a0102b5a802bc156a65c19a650f6befd0b4b",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankgrey-body4/kenney-tanks-png-tanks-tankgrey-body4.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankgrey-body4/kenney-tanks-png-tanks-tankgrey-body4.png"
           }
         ],
         "source": {
@@ -8794,6 +9036,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankgrey-body4/kenney-tanks-png-tanks-tankgrey-body4.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankgrey-body4.png",
         "preview": null
       }
     },
@@ -8808,7 +9052,7 @@
         "relativePath": "PNG/Retina/tanks_tankGrey_body5.png",
         "canonicalRelativePath": "PNG/tanks_tankGrey_body5.png",
         "fileName": "tanks_tankGrey_body5.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankgrey-body5.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankgrey-body5/kenney-tanks-png-tanks-tankgrey-body5.png",
         "file": {
           "primaryBytes": 1335,
           "totalBytes": 1335,
@@ -8888,7 +9132,9 @@
             "sha256": "00166e32c64dcf18667ff06e6c5e3632080ea8422beac762a687c5ecaff929fc",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankgrey-body5/kenney-tanks-png-tanks-tankgrey-body5.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankgrey-body5/kenney-tanks-png-tanks-tankgrey-body5.png"
           }
         ],
         "source": {
@@ -8936,6 +9182,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankgrey-body5/kenney-tanks-png-tanks-tankgrey-body5.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankgrey-body5.png",
         "preview": null
       }
     },
@@ -8950,7 +9198,7 @@
         "relativePath": "PNG/Retina/tanks_tankGrey1.png",
         "canonicalRelativePath": "PNG/tanks_tankGrey1.png",
         "fileName": "tanks_tankGrey1.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankgrey1.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankgrey1/kenney-tanks-png-tanks-tankgrey1.png",
         "file": {
           "primaryBytes": 3640,
           "totalBytes": 3640,
@@ -9030,7 +9278,9 @@
             "sha256": "e5f04dcf2f56fe77db7b966b9f82389fe2743a5e369df0180b8ac7446beacac4",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankgrey1/kenney-tanks-png-tanks-tankgrey1.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankgrey1/kenney-tanks-png-tanks-tankgrey1.png"
           }
         ],
         "source": {
@@ -9077,6 +9327,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankgrey1/kenney-tanks-png-tanks-tankgrey1.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankgrey1.png",
         "preview": null
       }
     },
@@ -9091,7 +9343,7 @@
         "relativePath": "PNG/Retina/tanks_tankGrey2.png",
         "canonicalRelativePath": "PNG/tanks_tankGrey2.png",
         "fileName": "tanks_tankGrey2.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankgrey2.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankgrey2/kenney-tanks-png-tanks-tankgrey2.png",
         "file": {
           "primaryBytes": 3980,
           "totalBytes": 3980,
@@ -9171,7 +9423,9 @@
             "sha256": "69db4ca7662f8c424da0749ca0b3109724dc264b8eee62623769bbe1cbb971cc",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankgrey2/kenney-tanks-png-tanks-tankgrey2.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankgrey2/kenney-tanks-png-tanks-tankgrey2.png"
           }
         ],
         "source": {
@@ -9218,6 +9472,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankgrey2/kenney-tanks-png-tanks-tankgrey2.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankgrey2.png",
         "preview": null
       }
     },
@@ -9232,7 +9488,7 @@
         "relativePath": "PNG/Retina/tanks_tankGrey3.png",
         "canonicalRelativePath": "PNG/tanks_tankGrey3.png",
         "fileName": "tanks_tankGrey3.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankgrey3.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankgrey3/kenney-tanks-png-tanks-tankgrey3.png",
         "file": {
           "primaryBytes": 4124,
           "totalBytes": 4124,
@@ -9312,7 +9568,9 @@
             "sha256": "4981da601df2906d7074257d6951c7ef7e362adec8913e743d8d14644f4a54f9",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankgrey3/kenney-tanks-png-tanks-tankgrey3.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankgrey3/kenney-tanks-png-tanks-tankgrey3.png"
           }
         ],
         "source": {
@@ -9359,6 +9617,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankgrey3/kenney-tanks-png-tanks-tankgrey3.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankgrey3.png",
         "preview": null
       }
     },
@@ -9373,7 +9633,7 @@
         "relativePath": "PNG/Retina/tanks_tankGrey4.png",
         "canonicalRelativePath": "PNG/tanks_tankGrey4.png",
         "fileName": "tanks_tankGrey4.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankgrey4.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankgrey4/kenney-tanks-png-tanks-tankgrey4.png",
         "file": {
           "primaryBytes": 4863,
           "totalBytes": 4863,
@@ -9453,7 +9713,9 @@
             "sha256": "15141cad7d1e4cc545779c9e8fdd0993ff47a6260dec4561c008ba1f10711f4b",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankgrey4/kenney-tanks-png-tanks-tankgrey4.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankgrey4/kenney-tanks-png-tanks-tankgrey4.png"
           }
         ],
         "source": {
@@ -9500,6 +9762,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankgrey4/kenney-tanks-png-tanks-tankgrey4.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankgrey4.png",
         "preview": null
       }
     },
@@ -9514,7 +9778,7 @@
         "relativePath": "PNG/Retina/tanks_tankGrey5.png",
         "canonicalRelativePath": "PNG/tanks_tankGrey5.png",
         "fileName": "tanks_tankGrey5.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankgrey5.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankgrey5/kenney-tanks-png-tanks-tankgrey5.png",
         "file": {
           "primaryBytes": 4169,
           "totalBytes": 4169,
@@ -9594,7 +9858,9 @@
             "sha256": "9938f6bb99c6665b04a8be9af2aec0f2f86f40634b2fe33916cc4b91cecd654d",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankgrey5/kenney-tanks-png-tanks-tankgrey5.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tankgrey5/kenney-tanks-png-tanks-tankgrey5.png"
           }
         ],
         "source": {
@@ -9641,6 +9907,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tankgrey5/kenney-tanks-png-tanks-tankgrey5.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tankgrey5.png",
         "preview": null
       }
     },
@@ -9655,7 +9923,7 @@
         "relativePath": "PNG/Retina/tanks_tankNavy_body1.png",
         "canonicalRelativePath": "PNG/tanks_tankNavy_body1.png",
         "fileName": "tanks_tankNavy_body1.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tanknavy-body1.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tanknavy-body1/kenney-tanks-png-tanks-tanknavy-body1.png",
         "file": {
           "primaryBytes": 1866,
           "totalBytes": 1866,
@@ -9735,7 +10003,9 @@
             "sha256": "4b53bacc6666399baee18c08182ec600f9f81c7d569c19e2d9ea6f04144987f5",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tanknavy-body1/kenney-tanks-png-tanks-tanknavy-body1.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tanknavy-body1/kenney-tanks-png-tanks-tanknavy-body1.png"
           }
         ],
         "source": {
@@ -9783,6 +10053,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tanknavy-body1/kenney-tanks-png-tanks-tanknavy-body1.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tanknavy-body1.png",
         "preview": null
       }
     },
@@ -9797,7 +10069,7 @@
         "relativePath": "PNG/Retina/tanks_tankNavy_body2.png",
         "canonicalRelativePath": "PNG/tanks_tankNavy_body2.png",
         "fileName": "tanks_tankNavy_body2.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tanknavy-body2.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tanknavy-body2/kenney-tanks-png-tanks-tanknavy-body2.png",
         "file": {
           "primaryBytes": 2421,
           "totalBytes": 2421,
@@ -9877,7 +10149,9 @@
             "sha256": "c7e2224d846e4dcb8f4090e9741964287eaaa56325ae3cab24ccefcfd24905cd",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tanknavy-body2/kenney-tanks-png-tanks-tanknavy-body2.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tanknavy-body2/kenney-tanks-png-tanks-tanknavy-body2.png"
           }
         ],
         "source": {
@@ -9925,6 +10199,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tanknavy-body2/kenney-tanks-png-tanks-tanknavy-body2.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tanknavy-body2.png",
         "preview": null
       }
     },
@@ -9939,7 +10215,7 @@
         "relativePath": "PNG/Retina/tanks_tankNavy_body3.png",
         "canonicalRelativePath": "PNG/tanks_tankNavy_body3.png",
         "fileName": "tanks_tankNavy_body3.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tanknavy-body3.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tanknavy-body3/kenney-tanks-png-tanks-tanknavy-body3.png",
         "file": {
           "primaryBytes": 2266,
           "totalBytes": 2266,
@@ -10019,7 +10295,9 @@
             "sha256": "b4cb418a504ece89eb33c2d485608b22693cc3ae94f6f32779fea7987a341911",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tanknavy-body3/kenney-tanks-png-tanks-tanknavy-body3.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tanknavy-body3/kenney-tanks-png-tanks-tanknavy-body3.png"
           }
         ],
         "source": {
@@ -10067,6 +10345,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tanknavy-body3/kenney-tanks-png-tanks-tanknavy-body3.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tanknavy-body3.png",
         "preview": null
       }
     },
@@ -10081,7 +10361,7 @@
         "relativePath": "PNG/Retina/tanks_tankNavy_body4.png",
         "canonicalRelativePath": "PNG/tanks_tankNavy_body4.png",
         "fileName": "tanks_tankNavy_body4.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tanknavy-body4.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tanknavy-body4/kenney-tanks-png-tanks-tanknavy-body4.png",
         "file": {
           "primaryBytes": 2678,
           "totalBytes": 2678,
@@ -10161,7 +10441,9 @@
             "sha256": "962c5dad6e0f285f488e20297bcb8e3d391d1251c107c9db42ba0d4299f8f9a1",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tanknavy-body4/kenney-tanks-png-tanks-tanknavy-body4.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tanknavy-body4/kenney-tanks-png-tanks-tanknavy-body4.png"
           }
         ],
         "source": {
@@ -10209,6 +10491,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tanknavy-body4/kenney-tanks-png-tanks-tanknavy-body4.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tanknavy-body4.png",
         "preview": null
       }
     },
@@ -10223,7 +10507,7 @@
         "relativePath": "PNG/Retina/tanks_tankNavy_body5.png",
         "canonicalRelativePath": "PNG/tanks_tankNavy_body5.png",
         "fileName": "tanks_tankNavy_body5.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tanknavy-body5.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tanknavy-body5/kenney-tanks-png-tanks-tanknavy-body5.png",
         "file": {
           "primaryBytes": 1652,
           "totalBytes": 1652,
@@ -10303,7 +10587,9 @@
             "sha256": "25b14032b9fed2245ccb564fdbcd54b05f408a1ec7b74060844b8c492b22e5d2",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tanknavy-body5/kenney-tanks-png-tanks-tanknavy-body5.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tanknavy-body5/kenney-tanks-png-tanks-tanknavy-body5.png"
           }
         ],
         "source": {
@@ -10351,6 +10637,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tanknavy-body5/kenney-tanks-png-tanks-tanknavy-body5.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tanknavy-body5.png",
         "preview": null
       }
     },
@@ -10365,7 +10653,7 @@
         "relativePath": "PNG/Retina/tanks_tankNavy1.png",
         "canonicalRelativePath": "PNG/tanks_tankNavy1.png",
         "fileName": "tanks_tankNavy1.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tanknavy1.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tanknavy1/kenney-tanks-png-tanks-tanknavy1.png",
         "file": {
           "primaryBytes": 3752,
           "totalBytes": 3752,
@@ -10445,7 +10733,9 @@
             "sha256": "1b85e753178e96c4bc8a9206a12a78de2176f3f35c99f21c350f6dd1c81e85b7",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tanknavy1/kenney-tanks-png-tanks-tanknavy1.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tanknavy1/kenney-tanks-png-tanks-tanknavy1.png"
           }
         ],
         "source": {
@@ -10492,6 +10782,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tanknavy1/kenney-tanks-png-tanks-tanknavy1.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tanknavy1.png",
         "preview": null
       }
     },
@@ -10506,7 +10798,7 @@
         "relativePath": "PNG/Retina/tanks_tankNavy2.png",
         "canonicalRelativePath": "PNG/tanks_tankNavy2.png",
         "fileName": "tanks_tankNavy2.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tanknavy2.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tanknavy2/kenney-tanks-png-tanks-tanknavy2.png",
         "file": {
           "primaryBytes": 4179,
           "totalBytes": 4179,
@@ -10586,7 +10878,9 @@
             "sha256": "df9562e0325ac4768ad15caa7dc9d14b20ca400426d0087a36da18c6048d2f25",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tanknavy2/kenney-tanks-png-tanks-tanknavy2.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tanknavy2/kenney-tanks-png-tanks-tanknavy2.png"
           }
         ],
         "source": {
@@ -10633,6 +10927,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tanknavy2/kenney-tanks-png-tanks-tanknavy2.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tanknavy2.png",
         "preview": null
       }
     },
@@ -10647,7 +10943,7 @@
         "relativePath": "PNG/Retina/tanks_tankNavy3.png",
         "canonicalRelativePath": "PNG/tanks_tankNavy3.png",
         "fileName": "tanks_tankNavy3.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tanknavy3.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tanknavy3/kenney-tanks-png-tanks-tanknavy3.png",
         "file": {
           "primaryBytes": 4117,
           "totalBytes": 4117,
@@ -10727,7 +11023,9 @@
             "sha256": "e6ebba8d24d6345767aa68a384c5d267c8c97af02c7fdd5e7eff9a4e42499944",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tanknavy3/kenney-tanks-png-tanks-tanknavy3.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tanknavy3/kenney-tanks-png-tanks-tanknavy3.png"
           }
         ],
         "source": {
@@ -10774,6 +11072,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tanknavy3/kenney-tanks-png-tanks-tanknavy3.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tanknavy3.png",
         "preview": null
       }
     },
@@ -10788,7 +11088,7 @@
         "relativePath": "PNG/Retina/tanks_tankNavy4.png",
         "canonicalRelativePath": "PNG/tanks_tankNavy4.png",
         "fileName": "tanks_tankNavy4.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tanknavy4.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tanknavy4/kenney-tanks-png-tanks-tanknavy4.png",
         "file": {
           "primaryBytes": 5039,
           "totalBytes": 5039,
@@ -10868,7 +11168,9 @@
             "sha256": "886b80068aa1937d0055239f86a14e0d602bb7e8ebb49f58d7c1694e48240e98",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tanknavy4/kenney-tanks-png-tanks-tanknavy4.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tanknavy4/kenney-tanks-png-tanks-tanknavy4.png"
           }
         ],
         "source": {
@@ -10915,6 +11217,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tanknavy4/kenney-tanks-png-tanks-tanknavy4.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tanknavy4.png",
         "preview": null
       }
     },
@@ -10929,7 +11233,7 @@
         "relativePath": "PNG/Retina/tanks_tankNavy5.png",
         "canonicalRelativePath": "PNG/tanks_tankNavy5.png",
         "fileName": "tanks_tankNavy5.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tanknavy5.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tanknavy5/kenney-tanks-png-tanks-tanknavy5.png",
         "file": {
           "primaryBytes": 4429,
           "totalBytes": 4429,
@@ -11009,7 +11313,9 @@
             "sha256": "fd308cd5386b18c8b0ddd679700c69503b018a216e76e69470f6782b382130ad",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tanknavy5/kenney-tanks-png-tanks-tanknavy5.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tanknavy5/kenney-tanks-png-tanks-tanknavy5.png"
           }
         ],
         "source": {
@@ -11056,6 +11362,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tanknavy5/kenney-tanks-png-tanks-tanknavy5.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tanknavy5.png",
         "preview": null
       }
     },
@@ -11070,7 +11378,7 @@
         "relativePath": "PNG/Retina/tanks_tankTracks1.png",
         "canonicalRelativePath": "PNG/tanks_tankTracks1.png",
         "fileName": "tanks_tankTracks1.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tanktracks1.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tanktracks1/kenney-tanks-png-tanks-tanktracks1.png",
         "file": {
           "primaryBytes": 2105,
           "totalBytes": 2105,
@@ -11150,7 +11458,9 @@
             "sha256": "88b539af4a73464724ac12b14a6bb8131c25f7a4ea5a2ec5be19b2d0966a1e16",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tanktracks1/kenney-tanks-png-tanks-tanktracks1.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tanktracks1/kenney-tanks-png-tanks-tanktracks1.png"
           }
         ],
         "source": {
@@ -11202,6 +11512,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tanktracks1/kenney-tanks-png-tanks-tanktracks1.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tanktracks1.png",
         "preview": null
       }
     },
@@ -11216,7 +11528,7 @@
         "relativePath": "PNG/Retina/tanks_tankTracks2.png",
         "canonicalRelativePath": "PNG/tanks_tankTracks2.png",
         "fileName": "tanks_tankTracks2.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tanktracks2.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tanktracks2/kenney-tanks-png-tanks-tanktracks2.png",
         "file": {
           "primaryBytes": 2030,
           "totalBytes": 2030,
@@ -11296,7 +11608,9 @@
             "sha256": "b0c2017a50a280660ce376cef1ec60fd1723a6f82c269eeb5b135d0c4785072b",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tanktracks2/kenney-tanks-png-tanks-tanktracks2.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tanktracks2/kenney-tanks-png-tanks-tanktracks2.png"
           }
         ],
         "source": {
@@ -11348,6 +11662,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tanktracks2/kenney-tanks-png-tanks-tanktracks2.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tanktracks2.png",
         "preview": null
       }
     },
@@ -11362,7 +11678,7 @@
         "relativePath": "PNG/Retina/tanks_tankTracks3.png",
         "canonicalRelativePath": "PNG/tanks_tankTracks3.png",
         "fileName": "tanks_tankTracks3.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tanktracks3.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tanktracks3/kenney-tanks-png-tanks-tanktracks3.png",
         "file": {
           "primaryBytes": 2104,
           "totalBytes": 2104,
@@ -11442,7 +11758,9 @@
             "sha256": "5a2408684e1e2a6aa65fb8480cea3abaa005e18f01e73b4923685b5dfa8ab279",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tanktracks3/kenney-tanks-png-tanks-tanktracks3.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tanktracks3/kenney-tanks-png-tanks-tanktracks3.png"
           }
         ],
         "source": {
@@ -11494,6 +11812,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tanktracks3/kenney-tanks-png-tanks-tanktracks3.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tanktracks3.png",
         "preview": null
       }
     },
@@ -11508,7 +11828,7 @@
         "relativePath": "PNG/Retina/tanks_tankTracks4.png",
         "canonicalRelativePath": "PNG/tanks_tankTracks4.png",
         "fileName": "tanks_tankTracks4.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tanktracks4.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tanktracks4/kenney-tanks-png-tanks-tanktracks4.png",
         "file": {
           "primaryBytes": 1072,
           "totalBytes": 1072,
@@ -11588,7 +11908,9 @@
             "sha256": "0f6ed93447ba1c96d372b3dce3fa9426b4b3ecc75763cac026f086b1016651cf",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tanktracks4/kenney-tanks-png-tanks-tanktracks4.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tanktracks4/kenney-tanks-png-tanks-tanktracks4.png"
           }
         ],
         "source": {
@@ -11640,6 +11962,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tanktracks4/kenney-tanks-png-tanks-tanktracks4.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tanktracks4.png",
         "preview": null
       }
     },
@@ -11654,7 +11978,7 @@
         "relativePath": "PNG/Retina/tanks_tankTracks5.png",
         "canonicalRelativePath": "PNG/tanks_tankTracks5.png",
         "fileName": "tanks_tankTracks5.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tanktracks5.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tanktracks5/kenney-tanks-png-tanks-tanktracks5.png",
         "file": {
           "primaryBytes": 1657,
           "totalBytes": 1657,
@@ -11734,7 +12058,9 @@
             "sha256": "ee81da09bc706f7e7aeef7a99dc6d80b864f32e91f234269d33db66728915bb1",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tanktracks5/kenney-tanks-png-tanks-tanktracks5.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tanktracks5/kenney-tanks-png-tanks-tanktracks5.png"
           }
         ],
         "source": {
@@ -11786,6 +12112,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tanktracks5/kenney-tanks-png-tanks-tanktracks5.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tanktracks5.png",
         "preview": null
       }
     },
@@ -11800,7 +12128,7 @@
         "relativePath": "PNG/Retina/tanks_tankTracks6.png",
         "canonicalRelativePath": "PNG/tanks_tankTracks6.png",
         "fileName": "tanks_tankTracks6.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tanktracks6.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tanktracks6/kenney-tanks-png-tanks-tanktracks6.png",
         "file": {
           "primaryBytes": 2769,
           "totalBytes": 2769,
@@ -11880,7 +12208,9 @@
             "sha256": "e5783d9d92642162b738e43ff29283d596976be530872e6d4182a4749bf8f982",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tanktracks6/kenney-tanks-png-tanks-tanktracks6.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tanktracks6/kenney-tanks-png-tanks-tanktracks6.png"
           }
         ],
         "source": {
@@ -11932,6 +12262,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tanktracks6/kenney-tanks-png-tanks-tanktracks6.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tanktracks6.png",
         "preview": null
       }
     },
@@ -11946,7 +12278,7 @@
         "relativePath": "PNG/Retina/tanks_tankTracks7.png",
         "canonicalRelativePath": "PNG/tanks_tankTracks7.png",
         "fileName": "tanks_tankTracks7.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tanktracks7.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tanktracks7/kenney-tanks-png-tanks-tanktracks7.png",
         "file": {
           "primaryBytes": 915,
           "totalBytes": 915,
@@ -12026,7 +12358,9 @@
             "sha256": "1e04f5381a3d63aa2306b59188022453cad2f954969e4f972ce856238180c0ca",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tanktracks7/kenney-tanks-png-tanks-tanktracks7.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-tanktracks7/kenney-tanks-png-tanks-tanktracks7.png"
           }
         ],
         "source": {
@@ -12078,6 +12412,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-tanktracks7/kenney-tanks-png-tanks-tanktracks7.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-tanktracks7.png",
         "preview": null
       }
     },
@@ -12092,7 +12428,7 @@
         "relativePath": "PNG/Retina/tanks_turret1.png",
         "canonicalRelativePath": "PNG/tanks_turret1.png",
         "fileName": "tanks_turret1.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-turret1.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-turret1/kenney-tanks-png-tanks-turret1.png",
         "file": {
           "primaryBytes": 283,
           "totalBytes": 283,
@@ -12172,7 +12508,9 @@
             "sha256": "69cb9dc3b604ceddd4e785f04610da5c4f38dbb0767aca3cb3a60ea1e61b4f2d",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-turret1/kenney-tanks-png-tanks-turret1.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-turret1/kenney-tanks-png-tanks-turret1.png"
           }
         ],
         "source": {
@@ -12221,6 +12559,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-turret1/kenney-tanks-png-tanks-turret1.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-turret1.png",
         "preview": null
       }
     },
@@ -12235,7 +12575,7 @@
         "relativePath": "PNG/Retina/tanks_turret2.png",
         "canonicalRelativePath": "PNG/tanks_turret2.png",
         "fileName": "tanks_turret2.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-turret2.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-turret2/kenney-tanks-png-tanks-turret2.png",
         "file": {
           "primaryBytes": 385,
           "totalBytes": 385,
@@ -12315,7 +12655,9 @@
             "sha256": "dfd40cb6b4cd7cda55a6ae29320be182174706523ee092cdcc027fd5c0f77be0",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-turret2/kenney-tanks-png-tanks-turret2.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-turret2/kenney-tanks-png-tanks-turret2.png"
           }
         ],
         "source": {
@@ -12364,6 +12706,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-turret2/kenney-tanks-png-tanks-turret2.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-turret2.png",
         "preview": null
       }
     },
@@ -12378,7 +12722,7 @@
         "relativePath": "PNG/Retina/tanks_turret3.png",
         "canonicalRelativePath": "PNG/tanks_turret3.png",
         "fileName": "tanks_turret3.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-turret3.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-turret3/kenney-tanks-png-tanks-turret3.png",
         "file": {
           "primaryBytes": 305,
           "totalBytes": 305,
@@ -12458,7 +12802,9 @@
             "sha256": "163cf5a7e355e9d181afd051790a5dff99e0b0e65306bc0020a50487996c4ae3",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-turret3/kenney-tanks-png-tanks-turret3.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-turret3/kenney-tanks-png-tanks-turret3.png"
           }
         ],
         "source": {
@@ -12507,6 +12853,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-turret3/kenney-tanks-png-tanks-turret3.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-turret3.png",
         "preview": null
       }
     },
@@ -12521,7 +12869,7 @@
         "relativePath": "PNG/Retina/tanks_turret4.png",
         "canonicalRelativePath": "PNG/tanks_turret4.png",
         "fileName": "tanks_turret4.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-turret4.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-turret4/kenney-tanks-png-tanks-turret4.png",
         "file": {
           "primaryBytes": 431,
           "totalBytes": 431,
@@ -12601,7 +12949,9 @@
             "sha256": "7900d61910c4e09ddcdf4e1a9c7955048a137d5939ceaa75de5494b68c420507",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-turret4/kenney-tanks-png-tanks-turret4.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-png-tanks-turret4/kenney-tanks-png-tanks-turret4.png"
           }
         ],
         "source": {
@@ -12650,6 +13000,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-png-tanks-turret4/kenney-tanks-png-tanks-turret4.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-png-tanks-turret4.png",
         "preview": null
       }
     },
@@ -12664,7 +13016,7 @@
         "relativePath": "Spritesheet/tanks_spritesheetRetina.png",
         "canonicalRelativePath": "Spritesheet/tanks_spritesheet.png",
         "fileName": "tanks_spritesheetRetina.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-spritesheet-tanks-spritesheet.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-spritesheet-tanks-spritesheet/kenney-tanks-spritesheet-tanks-spritesheet.png",
         "file": {
           "primaryBytes": 104737,
           "totalBytes": 112133,
@@ -13750,7 +14102,9 @@
             "sha256": "7d7b3a964f8d61913985c482694c6d9b61e43dbfd861e76c1fe24750d55463c0",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-spritesheet-tanks-spritesheet/kenney-tanks-spritesheet-tanks-spritesheet.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-spritesheet-tanks-spritesheet/kenney-tanks-spritesheet-tanks-spritesheet.png"
           },
           {
             "kind": "atlas",
@@ -13760,7 +14114,9 @@
             "sha256": "939a17af75a13e470ba579a685163b65eca33395e7d47c074cceef725f988384",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-tanks/kenney-tanks-spritesheet-tanks-spritesheet/resources/Spritesheet-tanks_spritesheetRetina.xml",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-tanks/kenney-tanks-spritesheet-tanks-spritesheet/resources/Spritesheet-tanks_spritesheetRetina.xml"
           }
         ],
         "source": {
@@ -13888,6 +14244,8 @@
         ],
         "errors": [],
         "packId": "kenney-tanks",
+        "publicPath": "assets/kenney-tanks/kenney-tanks-spritesheet-tanks-spritesheet/kenney-tanks-spritesheet-tanks-spritesheet.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-tanks-2cd2db3c8139/kenney-tanks-spritesheet-tanks-spritesheet.png",
         "preview": null
       }
     }

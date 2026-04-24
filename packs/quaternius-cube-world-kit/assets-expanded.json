@@ -6,7 +6,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Animals/glTF/Cat.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-animals-gltf-cat.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-animals-gltf-cat/quaternius-cube-world-kit-animals-gltf-cat.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 356040,
     "totalBytes": 356040,
@@ -129,7 +129,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-animals-gltf-cat.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-animals-gltf-cat.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-animals-gltf-cat/quaternius-cube-world-kit-animals-gltf-cat.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-animals-gltf-cat.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-animals-gltf-chick",
@@ -138,7 +140,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Animals/glTF/Chick.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-animals-gltf-chick.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-animals-gltf-chick/quaternius-cube-world-kit-animals-gltf-chick.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 202015,
     "totalBytes": 202015,
@@ -261,7 +263,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-animals-gltf-chick.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-animals-gltf-chick.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-animals-gltf-chick/quaternius-cube-world-kit-animals-gltf-chick.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-animals-gltf-chick.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-animals-gltf-chicken",
@@ -270,7 +274,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Animals/glTF/Chicken.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-animals-gltf-chicken.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-animals-gltf-chicken/quaternius-cube-world-kit-animals-gltf-chicken.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 219103,
     "totalBytes": 219103,
@@ -393,7 +397,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-animals-gltf-chicken.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-animals-gltf-chicken.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-animals-gltf-chicken/quaternius-cube-world-kit-animals-gltf-chicken.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-animals-gltf-chicken.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-animals-gltf-dog",
@@ -402,7 +408,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Animals/glTF/Dog.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-animals-gltf-dog.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-animals-gltf-dog/quaternius-cube-world-kit-animals-gltf-dog.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 418457,
     "totalBytes": 418457,
@@ -525,7 +531,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-animals-gltf-dog.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-animals-gltf-dog.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-animals-gltf-dog/quaternius-cube-world-kit-animals-gltf-dog.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-animals-gltf-dog.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-animals-gltf-horse",
@@ -534,7 +542,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Animals/glTF/Horse.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-animals-gltf-horse.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-animals-gltf-horse/quaternius-cube-world-kit-animals-gltf-horse.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 362781,
     "totalBytes": 362781,
@@ -657,7 +665,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-animals-gltf-horse.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-animals-gltf-horse.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-animals-gltf-horse/quaternius-cube-world-kit-animals-gltf-horse.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-animals-gltf-horse.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-animals-gltf-pig",
@@ -666,7 +676,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Animals/glTF/Pig.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-animals-gltf-pig.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-animals-gltf-pig/quaternius-cube-world-kit-animals-gltf-pig.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 428160,
     "totalBytes": 428160,
@@ -789,7 +799,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-animals-gltf-pig.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-animals-gltf-pig.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-animals-gltf-pig/quaternius-cube-world-kit-animals-gltf-pig.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-animals-gltf-pig.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-animals-gltf-raccoon",
@@ -798,7 +810,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Animals/glTF/Raccoon.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-animals-gltf-raccoon.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-animals-gltf-raccoon/quaternius-cube-world-kit-animals-gltf-raccoon.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 352639,
     "totalBytes": 352639,
@@ -921,7 +933,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-animals-gltf-raccoon.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-animals-gltf-raccoon.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-animals-gltf-raccoon/quaternius-cube-world-kit-animals-gltf-raccoon.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-animals-gltf-raccoon.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-animals-gltf-sheep",
@@ -930,7 +944,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Animals/glTF/Sheep.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-animals-gltf-sheep.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-animals-gltf-sheep/quaternius-cube-world-kit-animals-gltf-sheep.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 334973,
     "totalBytes": 334973,
@@ -1053,7 +1067,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-animals-gltf-sheep.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-animals-gltf-sheep.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-animals-gltf-sheep/quaternius-cube-world-kit-animals-gltf-sheep.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-animals-gltf-sheep.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-animals-gltf-wolf",
@@ -1062,7 +1078,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Animals/glTF/Wolf.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-animals-gltf-wolf.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-animals-gltf-wolf/quaternius-cube-world-kit-animals-gltf-wolf.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 368427,
     "totalBytes": 368427,
@@ -1185,7 +1201,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-animals-gltf-wolf.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-animals-gltf-wolf.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-animals-gltf-wolf/quaternius-cube-world-kit-animals-gltf-wolf.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-animals-gltf-wolf.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-blocks-gltf-block-blank",
@@ -1194,7 +1212,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Blocks/glTF/Block_Blank.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-blank.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-blank/quaternius-cube-world-kit-blocks-gltf-block-blank.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 17696,
     "totalBytes": 17696,
@@ -1317,7 +1335,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-blank.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-blocks-gltf-block-blank.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-blank/quaternius-cube-world-kit-blocks-gltf-block-blank.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-blank.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-blocks-gltf-block-brick",
@@ -1326,7 +1346,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Blocks/glTF/Block_Brick.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-brick.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-brick/quaternius-cube-world-kit-blocks-gltf-block-brick.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 37913,
     "totalBytes": 37913,
@@ -1449,7 +1469,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-brick.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-blocks-gltf-block-brick.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-brick/quaternius-cube-world-kit-blocks-gltf-block-brick.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-brick.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-blocks-gltf-block-cheese",
@@ -1458,7 +1480,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Blocks/glTF/Block_Cheese.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-cheese.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-cheese/quaternius-cube-world-kit-blocks-gltf-block-cheese.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 51663,
     "totalBytes": 51663,
@@ -1581,7 +1603,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-cheese.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-blocks-gltf-block-cheese.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-cheese/quaternius-cube-world-kit-blocks-gltf-block-cheese.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-cheese.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-blocks-gltf-block-coal",
@@ -1590,7 +1614,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Blocks/glTF/Block_Coal.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-coal.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-coal/quaternius-cube-world-kit-blocks-gltf-block-coal.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 72355,
     "totalBytes": 72355,
@@ -1713,7 +1737,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-coal.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-blocks-gltf-block-coal.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-coal/quaternius-cube-world-kit-blocks-gltf-block-coal.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-coal.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-blocks-gltf-block-crate",
@@ -1722,7 +1748,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Blocks/glTF/Block_Crate.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-crate.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-crate/quaternius-cube-world-kit-blocks-gltf-block-crate.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 36536,
     "totalBytes": 36536,
@@ -1845,7 +1871,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-crate.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-blocks-gltf-block-crate.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-crate/quaternius-cube-world-kit-blocks-gltf-block-crate.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-crate.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-blocks-gltf-block-crystal",
@@ -1854,7 +1882,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Blocks/glTF/Block_Crystal.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-crystal.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-crystal/quaternius-cube-world-kit-blocks-gltf-block-crystal.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 168934,
     "totalBytes": 168934,
@@ -1977,7 +2005,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-crystal.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-blocks-gltf-block-crystal.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-crystal/quaternius-cube-world-kit-blocks-gltf-block-crystal.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-crystal.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-blocks-gltf-block-diamond",
@@ -1986,7 +2016,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Blocks/glTF/Block_Diamond.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-diamond.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-diamond/quaternius-cube-world-kit-blocks-gltf-block-diamond.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 180160,
     "totalBytes": 180160,
@@ -2109,7 +2139,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-diamond.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-blocks-gltf-block-diamond.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-diamond/quaternius-cube-world-kit-blocks-gltf-block-diamond.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-diamond.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-blocks-gltf-block-dirt",
@@ -2118,7 +2150,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Blocks/glTF/Block_Dirt.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-dirt.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-dirt/quaternius-cube-world-kit-blocks-gltf-block-dirt.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 11215,
     "totalBytes": 11215,
@@ -2241,7 +2273,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-dirt.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-blocks-gltf-block-dirt.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-dirt/quaternius-cube-world-kit-blocks-gltf-block-dirt.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-dirt.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-blocks-gltf-block-grass",
@@ -2250,7 +2284,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Blocks/glTF/Block_Grass.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-grass.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-grass/quaternius-cube-world-kit-blocks-gltf-block-grass.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 11216,
     "totalBytes": 11216,
@@ -2373,7 +2407,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-grass.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-blocks-gltf-block-grass.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-grass/quaternius-cube-world-kit-blocks-gltf-block-grass.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-grass.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-blocks-gltf-block-greybricks",
@@ -2382,7 +2418,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Blocks/glTF/Block_GreyBricks.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-greybricks.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-greybricks/quaternius-cube-world-kit-blocks-gltf-block-greybricks.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 67349,
     "totalBytes": 67349,
@@ -2506,7 +2542,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-greybricks.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-blocks-gltf-block-greybricks.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-greybricks/quaternius-cube-world-kit-blocks-gltf-block-greybricks.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-greybricks.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-blocks-gltf-block-ice",
@@ -2515,7 +2553,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Blocks/glTF/Block_Ice.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-ice.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-ice/quaternius-cube-world-kit-blocks-gltf-block-ice.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 11214,
     "totalBytes": 11214,
@@ -2638,7 +2676,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-ice.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-blocks-gltf-block-ice.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-ice/quaternius-cube-world-kit-blocks-gltf-block-ice.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-ice.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-blocks-gltf-block-metal",
@@ -2647,7 +2687,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Blocks/glTF/Block_Metal.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-metal.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-metal/quaternius-cube-world-kit-blocks-gltf-block-metal.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 63233,
     "totalBytes": 63233,
@@ -2770,7 +2810,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-metal.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-blocks-gltf-block-metal.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-metal/quaternius-cube-world-kit-blocks-gltf-block-metal.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-metal.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-blocks-gltf-block-snow",
@@ -2779,7 +2821,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Blocks/glTF/Block_Snow.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-snow.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-snow/quaternius-cube-world-kit-blocks-gltf-block-snow.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 11215,
     "totalBytes": 11215,
@@ -2902,7 +2944,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-snow.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-blocks-gltf-block-snow.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-snow/quaternius-cube-world-kit-blocks-gltf-block-snow.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-snow.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-blocks-gltf-block-stone",
@@ -2911,7 +2955,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Blocks/glTF/Block_Stone.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-stone.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-stone/quaternius-cube-world-kit-blocks-gltf-block-stone.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 9061,
     "totalBytes": 9061,
@@ -3034,7 +3078,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-stone.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-blocks-gltf-block-stone.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-stone/quaternius-cube-world-kit-blocks-gltf-block-stone.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-stone.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-blocks-gltf-block-woodplanks",
@@ -3043,7 +3089,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Blocks/glTF/Block_WoodPlanks.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-woodplanks.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-woodplanks/quaternius-cube-world-kit-blocks-gltf-block-woodplanks.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 43006,
     "totalBytes": 43006,
@@ -3167,7 +3213,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-woodplanks.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-blocks-gltf-block-woodplanks.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-blocks-gltf-block-woodplanks/quaternius-cube-world-kit-blocks-gltf-block-woodplanks.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-blocks-gltf-block-woodplanks.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-characters-gltf-character-female-1",
@@ -3176,7 +3224,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Characters/glTF/Character_Female_1.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-characters-gltf-character-female-1.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-characters-gltf-character-female-1/quaternius-cube-world-kit-characters-gltf-character-female-1.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 868447,
     "totalBytes": 868447,
@@ -3304,7 +3352,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-characters-gltf-character-female-1.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-characters-gltf-character-female-1.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-characters-gltf-character-female-1/quaternius-cube-world-kit-characters-gltf-character-female-1.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-characters-gltf-character-female-1.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-characters-gltf-character-female-2",
@@ -3313,7 +3363,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Characters/glTF/Character_Female_2.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-characters-gltf-character-female-2.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-characters-gltf-character-female-2/quaternius-cube-world-kit-characters-gltf-character-female-2.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 922785,
     "totalBytes": 922785,
@@ -3441,7 +3491,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-characters-gltf-character-female-2.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-characters-gltf-character-female-2.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-characters-gltf-character-female-2/quaternius-cube-world-kit-characters-gltf-character-female-2.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-characters-gltf-character-female-2.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-characters-gltf-character-male-1",
@@ -3450,7 +3502,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Characters/glTF/Character_Male_1.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-characters-gltf-character-male-1.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-characters-gltf-character-male-1/quaternius-cube-world-kit-characters-gltf-character-male-1.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 849542,
     "totalBytes": 849542,
@@ -3578,7 +3630,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-characters-gltf-character-male-1.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-characters-gltf-character-male-1.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-characters-gltf-character-male-1/quaternius-cube-world-kit-characters-gltf-character-male-1.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-characters-gltf-character-male-1.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-characters-gltf-character-male-2",
@@ -3587,7 +3641,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Characters/glTF/Character_Male_2.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-characters-gltf-character-male-2.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-characters-gltf-character-male-2/quaternius-cube-world-kit-characters-gltf-character-male-2.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 833973,
     "totalBytes": 833973,
@@ -3715,7 +3769,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-characters-gltf-character-male-2.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-characters-gltf-character-male-2.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-characters-gltf-character-male-2/quaternius-cube-world-kit-characters-gltf-character-male-2.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-characters-gltf-character-male-2.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-enemies-gltf-demon",
@@ -3724,7 +3780,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Enemies/glTF/Demon.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-enemies-gltf-demon.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-enemies-gltf-demon/quaternius-cube-world-kit-enemies-gltf-demon.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 320858,
     "totalBytes": 320858,
@@ -3854,7 +3910,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-enemies-gltf-demon.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-enemies-gltf-demon.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-enemies-gltf-demon/quaternius-cube-world-kit-enemies-gltf-demon.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-enemies-gltf-demon.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-enemies-gltf-giant",
@@ -3863,7 +3921,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Enemies/glTF/Giant.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-enemies-gltf-giant.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-enemies-gltf-giant/quaternius-cube-world-kit-enemies-gltf-giant.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 351807,
     "totalBytes": 351807,
@@ -3993,7 +4051,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-enemies-gltf-giant.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-enemies-gltf-giant.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-enemies-gltf-giant/quaternius-cube-world-kit-enemies-gltf-giant.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-enemies-gltf-giant.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-enemies-gltf-goblin",
@@ -4002,7 +4062,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Enemies/glTF/Goblin.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-enemies-gltf-goblin.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-enemies-gltf-goblin/quaternius-cube-world-kit-enemies-gltf-goblin.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 313257,
     "totalBytes": 313257,
@@ -4132,7 +4192,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-enemies-gltf-goblin.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-enemies-gltf-goblin.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-enemies-gltf-goblin/quaternius-cube-world-kit-enemies-gltf-goblin.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-enemies-gltf-goblin.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-enemies-gltf-hedgehog",
@@ -4141,7 +4203,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Enemies/glTF/Hedgehog.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-enemies-gltf-hedgehog.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-enemies-gltf-hedgehog/quaternius-cube-world-kit-enemies-gltf-hedgehog.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 139420,
     "totalBytes": 139420,
@@ -4271,7 +4333,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-enemies-gltf-hedgehog.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-enemies-gltf-hedgehog.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-enemies-gltf-hedgehog/quaternius-cube-world-kit-enemies-gltf-hedgehog.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-enemies-gltf-hedgehog.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-enemies-gltf-skeleton",
@@ -4280,7 +4344,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Enemies/glTF/Skeleton.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-enemies-gltf-skeleton.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-enemies-gltf-skeleton/quaternius-cube-world-kit-enemies-gltf-skeleton.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 433607,
     "totalBytes": 433607,
@@ -4410,7 +4474,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-enemies-gltf-skeleton.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-enemies-gltf-skeleton.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-enemies-gltf-skeleton/quaternius-cube-world-kit-enemies-gltf-skeleton.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-enemies-gltf-skeleton.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-enemies-gltf-skeleton-armor",
@@ -4419,7 +4485,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Enemies/glTF/Skeleton_Armor.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-enemies-gltf-skeleton-armor.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-enemies-gltf-skeleton-armor/quaternius-cube-world-kit-enemies-gltf-skeleton-armor.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 609665,
     "totalBytes": 609665,
@@ -4550,7 +4616,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-enemies-gltf-skeleton-armor.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-enemies-gltf-skeleton-armor.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-enemies-gltf-skeleton-armor/quaternius-cube-world-kit-enemies-gltf-skeleton-armor.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-enemies-gltf-skeleton-armor.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-enemies-gltf-wizard",
@@ -4559,7 +4627,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Enemies/glTF/Wizard.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-enemies-gltf-wizard.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-enemies-gltf-wizard/quaternius-cube-world-kit-enemies-gltf-wizard.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 355667,
     "totalBytes": 355667,
@@ -4689,7 +4757,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-enemies-gltf-wizard.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-enemies-gltf-wizard.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-enemies-gltf-wizard/quaternius-cube-world-kit-enemies-gltf-wizard.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-enemies-gltf-wizard.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-enemies-gltf-yeti",
@@ -4698,7 +4768,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Enemies/glTF/Yeti.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-enemies-gltf-yeti.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-enemies-gltf-yeti/quaternius-cube-world-kit-enemies-gltf-yeti.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 313757,
     "totalBytes": 313757,
@@ -4828,7 +4898,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-enemies-gltf-yeti.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-enemies-gltf-yeti.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-enemies-gltf-yeti/quaternius-cube-world-kit-enemies-gltf-yeti.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-enemies-gltf-yeti.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-enemies-gltf-zombie",
@@ -4837,7 +4909,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Enemies/glTF/Zombie.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-enemies-gltf-zombie.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-enemies-gltf-zombie/quaternius-cube-world-kit-enemies-gltf-zombie.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 342611,
     "totalBytes": 342611,
@@ -4967,7 +5039,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-enemies-gltf-zombie.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-enemies-gltf-zombie.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-enemies-gltf-zombie/quaternius-cube-world-kit-enemies-gltf-zombie.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-enemies-gltf-zombie.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-environment-gltf-bamboo",
@@ -4976,7 +5050,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Environment/glTF/Bamboo.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-bamboo.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-bamboo/quaternius-cube-world-kit-environment-gltf-bamboo.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 91150,
     "totalBytes": 91150,
@@ -5098,7 +5172,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-bamboo.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-bamboo.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-bamboo/quaternius-cube-world-kit-environment-gltf-bamboo.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-bamboo.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-environment-gltf-bamboo-mid",
@@ -5107,7 +5183,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Environment/glTF/Bamboo_Mid.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-bamboo-mid.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-bamboo-mid/quaternius-cube-world-kit-environment-gltf-bamboo-mid.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 54031,
     "totalBytes": 54031,
@@ -5230,7 +5306,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-bamboo-mid.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-bamboo-mid.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-bamboo-mid/quaternius-cube-world-kit-environment-gltf-bamboo-mid.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-bamboo-mid.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-environment-gltf-bamboo-small",
@@ -5239,7 +5317,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Environment/glTF/Bamboo_Small.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-bamboo-small.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-bamboo-small/quaternius-cube-world-kit-environment-gltf-bamboo-small.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 35598,
     "totalBytes": 35598,
@@ -5362,7 +5440,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-bamboo-small.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-bamboo-small.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-bamboo-small/quaternius-cube-world-kit-environment-gltf-bamboo-small.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-bamboo-small.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-environment-gltf-bush",
@@ -5371,7 +5451,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Environment/glTF/Bush.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-bush.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-bush/quaternius-cube-world-kit-environment-gltf-bush.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 107148,
     "totalBytes": 107148,
@@ -5493,7 +5573,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-bush.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-bush.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-bush/quaternius-cube-world-kit-environment-gltf-bush.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-bush.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-environment-gltf-button",
@@ -5502,7 +5584,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Environment/glTF/Button.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-button.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-button/quaternius-cube-world-kit-environment-gltf-button.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 16026,
     "totalBytes": 16026,
@@ -5624,7 +5706,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-button.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-button.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-button/quaternius-cube-world-kit-environment-gltf-button.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-button.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-environment-gltf-cart",
@@ -5633,7 +5717,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Environment/glTF/Cart.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-cart.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-cart/quaternius-cube-world-kit-environment-gltf-cart.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 10488,
     "totalBytes": 10488,
@@ -5755,7 +5839,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-cart.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-cart.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-cart/quaternius-cube-world-kit-environment-gltf-cart.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-cart.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-environment-gltf-chest-closed",
@@ -5764,7 +5850,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Environment/glTF/Chest_Closed.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-chest-closed.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-chest-closed/quaternius-cube-world-kit-environment-gltf-chest-closed.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 194897,
     "totalBytes": 194897,
@@ -5887,7 +5973,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-chest-closed.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-chest-closed.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-chest-closed/quaternius-cube-world-kit-environment-gltf-chest-closed.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-chest-closed.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-environment-gltf-chest-open",
@@ -5896,7 +5984,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Environment/glTF/Chest_Open.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-chest-open.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-chest-open/quaternius-cube-world-kit-environment-gltf-chest-open.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 196454,
     "totalBytes": 196454,
@@ -6019,7 +6107,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-chest-open.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-chest-open.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-chest-open/quaternius-cube-world-kit-environment-gltf-chest-open.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-chest-open.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-environment-gltf-crystal-big",
@@ -6028,7 +6118,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Environment/glTF/Crystal_Big.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-crystal-big.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-crystal-big/quaternius-cube-world-kit-environment-gltf-crystal-big.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 19612,
     "totalBytes": 19612,
@@ -6151,7 +6241,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-crystal-big.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-crystal-big.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-crystal-big/quaternius-cube-world-kit-environment-gltf-crystal-big.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-crystal-big.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-environment-gltf-crystal-small",
@@ -6160,7 +6252,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Environment/glTF/Crystal_Small.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-crystal-small.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-crystal-small/quaternius-cube-world-kit-environment-gltf-crystal-small.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 13053,
     "totalBytes": 13053,
@@ -6283,7 +6375,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-crystal-small.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-crystal-small.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-crystal-small/quaternius-cube-world-kit-environment-gltf-crystal-small.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-crystal-small.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-environment-gltf-deadtree-1",
@@ -6292,7 +6386,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Environment/glTF/DeadTree_1.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-deadtree-1.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-deadtree-1/quaternius-cube-world-kit-environment-gltf-deadtree-1.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 19671,
     "totalBytes": 19671,
@@ -6415,7 +6509,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-deadtree-1.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-deadtree-1.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-deadtree-1/quaternius-cube-world-kit-environment-gltf-deadtree-1.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-deadtree-1.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-environment-gltf-deadtree-2",
@@ -6424,7 +6520,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Environment/glTF/DeadTree_2.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-deadtree-2.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-deadtree-2/quaternius-cube-world-kit-environment-gltf-deadtree-2.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 41585,
     "totalBytes": 41585,
@@ -6547,7 +6643,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-deadtree-2.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-deadtree-2.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-deadtree-2/quaternius-cube-world-kit-environment-gltf-deadtree-2.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-deadtree-2.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-environment-gltf-deadtree-3",
@@ -6556,7 +6654,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Environment/glTF/DeadTree_3.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-deadtree-3.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-deadtree-3/quaternius-cube-world-kit-environment-gltf-deadtree-3.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 63809,
     "totalBytes": 63809,
@@ -6679,7 +6777,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-deadtree-3.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-deadtree-3.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-deadtree-3/quaternius-cube-world-kit-environment-gltf-deadtree-3.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-deadtree-3.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-environment-gltf-door-closed",
@@ -6688,7 +6788,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Environment/glTF/Door_Closed.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-door-closed.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-door-closed/quaternius-cube-world-kit-environment-gltf-door-closed.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 15623,
     "totalBytes": 15623,
@@ -6811,7 +6911,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-door-closed.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-door-closed.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-door-closed/quaternius-cube-world-kit-environment-gltf-door-closed.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-door-closed.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-environment-gltf-fence-center",
@@ -6820,7 +6922,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Environment/glTF/Fence_Center.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-fence-center.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-fence-center/quaternius-cube-world-kit-environment-gltf-fence-center.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 15049,
     "totalBytes": 15049,
@@ -6943,7 +7045,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-fence-center.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-fence-center.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-fence-center/quaternius-cube-world-kit-environment-gltf-fence-center.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-fence-center.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-environment-gltf-fence-corner",
@@ -6952,7 +7056,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Environment/glTF/Fence_Corner.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-fence-corner.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-fence-corner/quaternius-cube-world-kit-environment-gltf-fence-corner.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 16602,
     "totalBytes": 16602,
@@ -7075,7 +7179,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-fence-corner.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-fence-corner.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-fence-corner/quaternius-cube-world-kit-environment-gltf-fence-corner.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-fence-corner.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-environment-gltf-fence-end",
@@ -7084,7 +7190,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Environment/glTF/Fence_End.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-fence-end.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-fence-end/quaternius-cube-world-kit-environment-gltf-fence-end.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 14408,
     "totalBytes": 14408,
@@ -7207,7 +7313,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-fence-end.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-fence-end.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-fence-end/quaternius-cube-world-kit-environment-gltf-fence-end.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-fence-end.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-environment-gltf-fence-t",
@@ -7216,7 +7324,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Environment/glTF/Fence_T.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-fence-t.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-fence-t/quaternius-cube-world-kit-environment-gltf-fence-t.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 20343,
     "totalBytes": 20343,
@@ -7338,7 +7446,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-fence-t.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-fence-t.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-fence-t/quaternius-cube-world-kit-environment-gltf-fence-t.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-fence-t.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-environment-gltf-flowers-1",
@@ -7347,7 +7457,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Environment/glTF/Flowers_1.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-flowers-1.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-flowers-1/quaternius-cube-world-kit-environment-gltf-flowers-1.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 162928,
     "totalBytes": 162928,
@@ -7469,7 +7579,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-flowers-1.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-flowers-1.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-flowers-1/quaternius-cube-world-kit-environment-gltf-flowers-1.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-flowers-1.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-environment-gltf-flowers-2",
@@ -7478,7 +7590,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Environment/glTF/Flowers_2.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-flowers-2.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-flowers-2/quaternius-cube-world-kit-environment-gltf-flowers-2.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 200640,
     "totalBytes": 200640,
@@ -7600,7 +7712,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-flowers-2.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-flowers-2.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-flowers-2/quaternius-cube-world-kit-environment-gltf-flowers-2.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-flowers-2.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-environment-gltf-grass-big",
@@ -7609,7 +7723,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Environment/glTF/Grass_Big.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-grass-big.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-grass-big/quaternius-cube-world-kit-environment-gltf-grass-big.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 22196,
     "totalBytes": 22196,
@@ -7732,7 +7846,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-grass-big.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-grass-big.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-grass-big/quaternius-cube-world-kit-environment-gltf-grass-big.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-grass-big.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-environment-gltf-grass-small",
@@ -7741,7 +7857,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Environment/glTF/Grass_Small.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-grass-small.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-grass-small/quaternius-cube-world-kit-environment-gltf-grass-small.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 14997,
     "totalBytes": 14997,
@@ -7864,7 +7980,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-grass-small.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-grass-small.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-grass-small/quaternius-cube-world-kit-environment-gltf-grass-small.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-grass-small.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-environment-gltf-key",
@@ -7873,7 +7991,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Environment/glTF/Key.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-key.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-key/quaternius-cube-world-kit-environment-gltf-key.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 26691,
     "totalBytes": 26691,
@@ -7995,7 +8113,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-key.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-key.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-key/quaternius-cube-world-kit-environment-gltf-key.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-key.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-environment-gltf-lever-left",
@@ -8004,7 +8124,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Environment/glTF/Lever_Left.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-lever-left.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-lever-left/quaternius-cube-world-kit-environment-gltf-lever-left.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 31007,
     "totalBytes": 31007,
@@ -8127,7 +8247,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-lever-left.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-lever-left.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-lever-left/quaternius-cube-world-kit-environment-gltf-lever-left.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-lever-left.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-environment-gltf-lever-right",
@@ -8136,7 +8258,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Environment/glTF/Lever_Right.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-lever-right.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-lever-right/quaternius-cube-world-kit-environment-gltf-lever-right.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 31104,
     "totalBytes": 31104,
@@ -8259,7 +8381,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-lever-right.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-lever-right.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-lever-right/quaternius-cube-world-kit-environment-gltf-lever-right.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-lever-right.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-environment-gltf-mushroom",
@@ -8268,7 +8392,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Environment/glTF/Mushroom.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-mushroom.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-mushroom/quaternius-cube-world-kit-environment-gltf-mushroom.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 58445,
     "totalBytes": 58445,
@@ -8390,7 +8514,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-mushroom.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-mushroom.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-mushroom/quaternius-cube-world-kit-environment-gltf-mushroom.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-mushroom.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-environment-gltf-plant-2",
@@ -8399,7 +8525,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Environment/glTF/Plant_2.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-plant-2.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-plant-2/quaternius-cube-world-kit-environment-gltf-plant-2.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 29356,
     "totalBytes": 29356,
@@ -8521,7 +8647,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-plant-2.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-plant-2.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-plant-2/quaternius-cube-world-kit-environment-gltf-plant-2.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-plant-2.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-environment-gltf-plant-3",
@@ -8530,7 +8658,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Environment/glTF/Plant_3.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-plant-3.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-plant-3/quaternius-cube-world-kit-environment-gltf-plant-3.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 56543,
     "totalBytes": 56543,
@@ -8652,7 +8780,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-plant-3.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-plant-3.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-plant-3/quaternius-cube-world-kit-environment-gltf-plant-3.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-plant-3.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-environment-gltf-rail-corner",
@@ -8661,7 +8791,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Environment/glTF/Rail_Corner.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-rail-corner.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-rail-corner/quaternius-cube-world-kit-environment-gltf-rail-corner.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 18866,
     "totalBytes": 18866,
@@ -8784,7 +8914,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-rail-corner.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-rail-corner.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-rail-corner/quaternius-cube-world-kit-environment-gltf-rail-corner.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-rail-corner.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-environment-gltf-rail-incline",
@@ -8793,7 +8925,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Environment/glTF/Rail_Incline.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-rail-incline.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-rail-incline/quaternius-cube-world-kit-environment-gltf-rail-incline.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 16401,
     "totalBytes": 16401,
@@ -8916,7 +9048,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-rail-incline.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-rail-incline.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-rail-incline/quaternius-cube-world-kit-environment-gltf-rail-incline.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-rail-incline.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-environment-gltf-rail-straight",
@@ -8925,7 +9059,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Environment/glTF/Rail_Straight.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-rail-straight.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-rail-straight/quaternius-cube-world-kit-environment-gltf-rail-straight.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 15333,
     "totalBytes": 15333,
@@ -9048,7 +9182,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-rail-straight.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-rail-straight.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-rail-straight/quaternius-cube-world-kit-environment-gltf-rail-straight.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-rail-straight.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-environment-gltf-rock1",
@@ -9057,7 +9193,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Environment/glTF/Rock1.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-rock1.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-rock1/quaternius-cube-world-kit-environment-gltf-rock1.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 12911,
     "totalBytes": 12911,
@@ -9179,7 +9315,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-rock1.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-rock1.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-rock1/quaternius-cube-world-kit-environment-gltf-rock1.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-rock1.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-environment-gltf-rock2",
@@ -9188,7 +9326,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Environment/glTF/Rock2.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-rock2.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-rock2/quaternius-cube-world-kit-environment-gltf-rock2.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 22839,
     "totalBytes": 22839,
@@ -9310,7 +9448,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-rock2.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-rock2.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-rock2/quaternius-cube-world-kit-environment-gltf-rock2.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-rock2.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-environment-gltf-tree-1",
@@ -9319,7 +9459,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Environment/glTF/Tree_1.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-tree-1.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-tree-1/quaternius-cube-world-kit-environment-gltf-tree-1.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 69360,
     "totalBytes": 69360,
@@ -9441,7 +9581,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-tree-1.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-tree-1.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-tree-1/quaternius-cube-world-kit-environment-gltf-tree-1.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-tree-1.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-environment-gltf-tree-2",
@@ -9450,7 +9592,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Environment/glTF/Tree_2.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-tree-2.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-tree-2/quaternius-cube-world-kit-environment-gltf-tree-2.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 51504,
     "totalBytes": 51504,
@@ -9572,7 +9714,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-tree-2.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-tree-2.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-tree-2/quaternius-cube-world-kit-environment-gltf-tree-2.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-tree-2.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-environment-gltf-tree-3",
@@ -9581,7 +9725,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Environment/glTF/Tree_3.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-tree-3.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-tree-3/quaternius-cube-world-kit-environment-gltf-tree-3.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 72502,
     "totalBytes": 72502,
@@ -9703,7 +9847,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-tree-3.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-environment-gltf-tree-3.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-environment-gltf-tree-3/quaternius-cube-world-kit-environment-gltf-tree-3.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-environment-gltf-tree-3.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-pixel-blocks-gltf-block-blank",
@@ -9712,7 +9858,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Pixel Blocks/glTF/Block_Blank.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-block-blank.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-block-blank/quaternius-cube-world-kit-pixel-blocks-gltf-block-blank.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 18161,
     "totalBytes": 18161,
@@ -9837,7 +9983,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-block-blank.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-pixel-blocks-gltf-block-blank.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-block-blank/quaternius-cube-world-kit-pixel-blocks-gltf-block-blank.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-block-blank.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-pixel-blocks-gltf-block-square",
@@ -9846,7 +9994,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Pixel Blocks/glTF/Block_Square.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-block-square.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-block-square/quaternius-cube-world-kit-pixel-blocks-gltf-block-square.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 18162,
     "totalBytes": 18162,
@@ -9971,7 +10119,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-block-square.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-pixel-blocks-gltf-block-square.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-block-square/quaternius-cube-world-kit-pixel-blocks-gltf-block-square.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-block-square.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-pixel-blocks-gltf-bricks-dark",
@@ -9980,7 +10130,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Pixel Blocks/glTF/Bricks_Dark.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-dark.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-dark/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-dark.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 18161,
     "totalBytes": 18161,
@@ -10106,7 +10256,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-dark.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-dark.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-dark/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-dark.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-dark.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-pixel-blocks-gltf-bricks-grey",
@@ -10115,7 +10267,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Pixel Blocks/glTF/Bricks_Grey.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-grey.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-grey/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-grey.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 18161,
     "totalBytes": 18161,
@@ -10241,7 +10393,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-grey.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-grey.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-grey/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-grey.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-grey.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-pixel-blocks-gltf-bricks-red",
@@ -10250,7 +10404,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Pixel Blocks/glTF/Bricks_Red.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-red.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-red/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-red.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 18160,
     "totalBytes": 18160,
@@ -10376,7 +10530,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-red.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-red.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-red/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-red.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-red.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-pixel-blocks-gltf-bricks-yellow",
@@ -10385,7 +10541,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Pixel Blocks/glTF/Bricks_Yellow.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-yellow.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-yellow/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-yellow.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 18163,
     "totalBytes": 18163,
@@ -10511,7 +10667,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-yellow.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-yellow.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-yellow/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-yellow.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-bricks-yellow.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-pixel-blocks-gltf-coal",
@@ -10520,7 +10678,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Pixel Blocks/glTF/Coal.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-coal.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-coal/quaternius-cube-world-kit-pixel-blocks-gltf-coal.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 18154,
     "totalBytes": 18154,
@@ -10645,7 +10803,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-coal.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-pixel-blocks-gltf-coal.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-coal/quaternius-cube-world-kit-pixel-blocks-gltf-coal.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-coal.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-pixel-blocks-gltf-diamond",
@@ -10654,7 +10814,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Pixel Blocks/glTF/Diamond.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-diamond.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-diamond/quaternius-cube-world-kit-pixel-blocks-gltf-diamond.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 18157,
     "totalBytes": 18157,
@@ -10779,7 +10939,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-diamond.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-pixel-blocks-gltf-diamond.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-diamond/quaternius-cube-world-kit-pixel-blocks-gltf-diamond.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-diamond.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-pixel-blocks-gltf-dirt",
@@ -10788,7 +10950,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Pixel Blocks/glTF/Dirt.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-dirt.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-dirt/quaternius-cube-world-kit-pixel-blocks-gltf-dirt.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 18154,
     "totalBytes": 18154,
@@ -10913,7 +11075,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-dirt.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-pixel-blocks-gltf-dirt.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-dirt/quaternius-cube-world-kit-pixel-blocks-gltf-dirt.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-dirt.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-pixel-blocks-gltf-exclamation",
@@ -10922,7 +11086,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Pixel Blocks/glTF/Exclamation.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-exclamation.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-exclamation/quaternius-cube-world-kit-pixel-blocks-gltf-exclamation.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 18161,
     "totalBytes": 18161,
@@ -11047,7 +11211,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-exclamation.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-pixel-blocks-gltf-exclamation.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-exclamation/quaternius-cube-world-kit-pixel-blocks-gltf-exclamation.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-exclamation.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-pixel-blocks-gltf-grass",
@@ -11056,7 +11222,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Pixel Blocks/glTF/Grass.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-grass.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-grass/quaternius-cube-world-kit-pixel-blocks-gltf-grass.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 18155,
     "totalBytes": 18155,
@@ -11181,7 +11347,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-grass.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-pixel-blocks-gltf-grass.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-grass/quaternius-cube-world-kit-pixel-blocks-gltf-grass.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-grass.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-pixel-blocks-gltf-ice",
@@ -11190,7 +11358,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Pixel Blocks/glTF/Ice.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-ice.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-ice/quaternius-cube-world-kit-pixel-blocks-gltf-ice.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 18153,
     "totalBytes": 18153,
@@ -11315,7 +11483,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-ice.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-pixel-blocks-gltf-ice.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-ice/quaternius-cube-world-kit-pixel-blocks-gltf-ice.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-ice.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-pixel-blocks-gltf-leaves",
@@ -11324,7 +11494,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Pixel Blocks/glTF/Leaves.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-leaves.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-leaves/quaternius-cube-world-kit-pixel-blocks-gltf-leaves.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 18156,
     "totalBytes": 18156,
@@ -11449,7 +11619,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-leaves.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-pixel-blocks-gltf-leaves.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-leaves/quaternius-cube-world-kit-pixel-blocks-gltf-leaves.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-leaves.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-pixel-blocks-gltf-questionmark",
@@ -11458,7 +11630,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Pixel Blocks/glTF/QuestionMark.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-questionmark.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-questionmark/quaternius-cube-world-kit-pixel-blocks-gltf-questionmark.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 18162,
     "totalBytes": 18162,
@@ -11584,7 +11756,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-questionmark.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-pixel-blocks-gltf-questionmark.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-questionmark/quaternius-cube-world-kit-pixel-blocks-gltf-questionmark.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-questionmark.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-pixel-blocks-gltf-snow",
@@ -11593,7 +11767,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Pixel Blocks/glTF/Snow.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-snow.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-snow/quaternius-cube-world-kit-pixel-blocks-gltf-snow.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 18154,
     "totalBytes": 18154,
@@ -11718,7 +11892,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-snow.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-pixel-blocks-gltf-snow.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-snow/quaternius-cube-world-kit-pixel-blocks-gltf-snow.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-snow.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-pixel-blocks-gltf-stone",
@@ -11727,7 +11903,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Pixel Blocks/glTF/Stone.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-stone.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-stone/quaternius-cube-world-kit-pixel-blocks-gltf-stone.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 18155,
     "totalBytes": 18155,
@@ -11852,7 +12028,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-stone.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-pixel-blocks-gltf-stone.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-stone/quaternius-cube-world-kit-pixel-blocks-gltf-stone.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-stone.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-pixel-blocks-gltf-wood",
@@ -11861,7 +12039,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Pixel Blocks/glTF/Wood.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-wood.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-wood/quaternius-cube-world-kit-pixel-blocks-gltf-wood.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 18154,
     "totalBytes": 18154,
@@ -11986,7 +12164,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-wood.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-pixel-blocks-gltf-wood.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-wood/quaternius-cube-world-kit-pixel-blocks-gltf-wood.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-wood.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-pixel-blocks-gltf-woodplanks",
@@ -11995,7 +12175,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Pixel Blocks/glTF/WoodPlanks.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-woodplanks.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-woodplanks/quaternius-cube-world-kit-pixel-blocks-gltf-woodplanks.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 18160,
     "totalBytes": 18160,
@@ -12121,7 +12301,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-woodplanks.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-pixel-blocks-gltf-woodplanks.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-pixel-blocks-gltf-woodplanks/quaternius-cube-world-kit-pixel-blocks-gltf-woodplanks.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-pixel-blocks-gltf-woodplanks.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-tools-gltf-axe-diamond",
@@ -12130,7 +12312,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Tools/glTF/Axe_Diamond.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-axe-diamond.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-axe-diamond/quaternius-cube-world-kit-tools-gltf-axe-diamond.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 22764,
     "totalBytes": 22764,
@@ -12256,7 +12438,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-axe-diamond.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-tools-gltf-axe-diamond.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-axe-diamond/quaternius-cube-world-kit-tools-gltf-axe-diamond.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-axe-diamond.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-tools-gltf-axe-gold",
@@ -12265,7 +12449,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Tools/glTF/Axe_Gold.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-axe-gold.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-axe-gold/quaternius-cube-world-kit-tools-gltf-axe-gold.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 22761,
     "totalBytes": 22761,
@@ -12391,7 +12575,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-axe-gold.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-tools-gltf-axe-gold.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-axe-gold/quaternius-cube-world-kit-tools-gltf-axe-gold.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-axe-gold.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-tools-gltf-axe-stone",
@@ -12400,7 +12586,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Tools/glTF/Axe_Stone.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-axe-stone.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-axe-stone/quaternius-cube-world-kit-tools-gltf-axe-stone.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 22762,
     "totalBytes": 22762,
@@ -12526,7 +12712,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-axe-stone.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-tools-gltf-axe-stone.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-axe-stone/quaternius-cube-world-kit-tools-gltf-axe-stone.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-axe-stone.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-tools-gltf-axe-wood",
@@ -12535,7 +12723,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Tools/glTF/Axe_Wood.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-axe-wood.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-axe-wood/quaternius-cube-world-kit-tools-gltf-axe-wood.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 22761,
     "totalBytes": 22761,
@@ -12661,7 +12849,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-axe-wood.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-tools-gltf-axe-wood.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-axe-wood/quaternius-cube-world-kit-tools-gltf-axe-wood.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-axe-wood.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-tools-gltf-pickaxe-diamond",
@@ -12670,7 +12860,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Tools/glTF/Pickaxe_Diamond.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-pickaxe-diamond.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-pickaxe-diamond/quaternius-cube-world-kit-tools-gltf-pickaxe-diamond.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 26826,
     "totalBytes": 26826,
@@ -12796,7 +12986,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-pickaxe-diamond.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-tools-gltf-pickaxe-diamond.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-pickaxe-diamond/quaternius-cube-world-kit-tools-gltf-pickaxe-diamond.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-pickaxe-diamond.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-tools-gltf-pickaxe-gold",
@@ -12805,7 +12997,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Tools/glTF/Pickaxe_Gold.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-pickaxe-gold.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-pickaxe-gold/quaternius-cube-world-kit-tools-gltf-pickaxe-gold.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 26823,
     "totalBytes": 26823,
@@ -12931,7 +13123,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-pickaxe-gold.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-tools-gltf-pickaxe-gold.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-pickaxe-gold/quaternius-cube-world-kit-tools-gltf-pickaxe-gold.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-pickaxe-gold.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-tools-gltf-pickaxe-stone",
@@ -12940,7 +13134,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Tools/glTF/Pickaxe_Stone.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-pickaxe-stone.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-pickaxe-stone/quaternius-cube-world-kit-tools-gltf-pickaxe-stone.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 26824,
     "totalBytes": 26824,
@@ -13066,7 +13260,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-pickaxe-stone.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-tools-gltf-pickaxe-stone.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-pickaxe-stone/quaternius-cube-world-kit-tools-gltf-pickaxe-stone.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-pickaxe-stone.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-tools-gltf-pickaxe-wood",
@@ -13075,7 +13271,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Tools/glTF/Pickaxe_Wood.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-pickaxe-wood.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-pickaxe-wood/quaternius-cube-world-kit-tools-gltf-pickaxe-wood.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 26823,
     "totalBytes": 26823,
@@ -13201,7 +13397,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-pickaxe-wood.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-tools-gltf-pickaxe-wood.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-pickaxe-wood/quaternius-cube-world-kit-tools-gltf-pickaxe-wood.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-pickaxe-wood.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-tools-gltf-shovel-diamond",
@@ -13210,7 +13408,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Tools/glTF/Shovel_Diamond.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-shovel-diamond.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-shovel-diamond/quaternius-cube-world-kit-tools-gltf-shovel-diamond.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 18736,
     "totalBytes": 18736,
@@ -13336,7 +13534,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-shovel-diamond.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-tools-gltf-shovel-diamond.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-shovel-diamond/quaternius-cube-world-kit-tools-gltf-shovel-diamond.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-shovel-diamond.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-tools-gltf-shovel-gold",
@@ -13345,7 +13545,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Tools/glTF/Shovel_Gold.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-shovel-gold.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-shovel-gold/quaternius-cube-world-kit-tools-gltf-shovel-gold.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 18733,
     "totalBytes": 18733,
@@ -13471,7 +13671,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-shovel-gold.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-tools-gltf-shovel-gold.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-shovel-gold/quaternius-cube-world-kit-tools-gltf-shovel-gold.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-shovel-gold.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-tools-gltf-shovel-stone",
@@ -13480,7 +13682,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Tools/glTF/Shovel_Stone.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-shovel-stone.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-shovel-stone/quaternius-cube-world-kit-tools-gltf-shovel-stone.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 18734,
     "totalBytes": 18734,
@@ -13606,7 +13808,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-shovel-stone.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-tools-gltf-shovel-stone.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-shovel-stone/quaternius-cube-world-kit-tools-gltf-shovel-stone.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-shovel-stone.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-tools-gltf-shovel-wood",
@@ -13615,7 +13819,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Tools/glTF/Shovel_Wood.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-shovel-wood.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-shovel-wood/quaternius-cube-world-kit-tools-gltf-shovel-wood.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 18733,
     "totalBytes": 18733,
@@ -13741,7 +13945,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-shovel-wood.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-tools-gltf-shovel-wood.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-shovel-wood/quaternius-cube-world-kit-tools-gltf-shovel-wood.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-shovel-wood.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-tools-gltf-sword-diamond",
@@ -13750,7 +13956,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Tools/glTF/Sword_Diamond.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-sword-diamond.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-sword-diamond/quaternius-cube-world-kit-tools-gltf-sword-diamond.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 15629,
     "totalBytes": 15629,
@@ -13876,7 +14082,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-sword-diamond.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-tools-gltf-sword-diamond.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-sword-diamond/quaternius-cube-world-kit-tools-gltf-sword-diamond.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-sword-diamond.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-tools-gltf-sword-gold",
@@ -13885,7 +14093,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Tools/glTF/Sword_Gold.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-sword-gold.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-sword-gold/quaternius-cube-world-kit-tools-gltf-sword-gold.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 15626,
     "totalBytes": 15626,
@@ -14011,7 +14219,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-sword-gold.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-tools-gltf-sword-gold.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-sword-gold/quaternius-cube-world-kit-tools-gltf-sword-gold.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-sword-gold.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-tools-gltf-sword-stone",
@@ -14020,7 +14230,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Tools/glTF/Sword_Stone.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-sword-stone.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-sword-stone/quaternius-cube-world-kit-tools-gltf-sword-stone.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 15755,
     "totalBytes": 15755,
@@ -14146,7 +14356,9 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-sword-stone.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-tools-gltf-sword-stone.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-sword-stone/quaternius-cube-world-kit-tools-gltf-sword-stone.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-sword-stone.gltf"
   },
   {
     "id": "quaternius-cube-world-kit-tools-gltf-sword-wood",
@@ -14155,7 +14367,7 @@
     "kind": "model",
     "format": "gltf",
     "relativePath": "Tools/glTF/Sword_Wood.gltf",
-    "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-sword-wood.gltf",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-sword-wood/quaternius-cube-world-kit-tools-gltf-sword-wood.gltf",
     "sourceUrl": "https://quaternius.com/packs/cubeworldkit.html",
     "primaryBytes": 15710,
     "totalBytes": 15710,
@@ -14281,6 +14493,8 @@
       "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-sword-wood.webp",
       "packRelativePath": "previews/quaternius-cube-world-kit-tools-gltf-sword-wood.webp"
     },
-    "packId": "quaternius-cube-world-kit"
+    "packId": "quaternius-cube-world-kit",
+    "publicPath": "assets/quaternius-cube-world-kit/quaternius-cube-world-kit-tools-gltf-sword-wood/quaternius-cube-world-kit-tools-gltf-sword-wood.gltf",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-cube-world-kit-101e15fee313/quaternius-cube-world-kit-tools-gltf-sword-wood.gltf"
   }
 ]

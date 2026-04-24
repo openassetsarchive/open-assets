@@ -116,7 +116,7 @@
         "relativePath": "PNG/Double/ballBlue.png",
         "canonicalRelativePath": "PNG/ballBlue.png",
         "fileName": "ballBlue.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-ballblue.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-ballblue/kenney-puzzle-pack-1-png-ballblue.png",
         "file": {
           "primaryBytes": 835,
           "totalBytes": 835,
@@ -196,7 +196,9 @@
             "sha256": "df6462f28326258a506fbb07571f2034a3b9976e6ce8f4b013921830c23cac04",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-ballblue/kenney-puzzle-pack-1-png-ballblue.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-ballblue/kenney-puzzle-pack-1-png-ballblue.png"
           }
         ],
         "source": {
@@ -242,6 +244,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-ballblue/kenney-puzzle-pack-1-png-ballblue.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-ballblue.png",
         "preview": null
       }
     },
@@ -256,7 +260,7 @@
         "relativePath": "PNG/Double/ballGrey.png",
         "canonicalRelativePath": "PNG/ballGrey.png",
         "fileName": "ballGrey.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-ballgrey.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-ballgrey/kenney-puzzle-pack-1-png-ballgrey.png",
         "file": {
           "primaryBytes": 821,
           "totalBytes": 821,
@@ -336,7 +340,9 @@
             "sha256": "33732942f10e02b7fdc494bfe03212a90cdf96515d81341fa07caf6307c88cca",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-ballgrey/kenney-puzzle-pack-1-png-ballgrey.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-ballgrey/kenney-puzzle-pack-1-png-ballgrey.png"
           }
         ],
         "source": {
@@ -382,6 +388,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-ballgrey/kenney-puzzle-pack-1-png-ballgrey.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-ballgrey.png",
         "preview": null
       }
     },
@@ -396,7 +404,7 @@
         "relativePath": "PNG/Double/buttonDefault.png",
         "canonicalRelativePath": "PNG/button.png",
         "fileName": "buttonDefault.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-button.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-button/kenney-puzzle-pack-1-png-button.png",
         "file": {
           "primaryBytes": 672,
           "totalBytes": 672,
@@ -476,7 +484,9 @@
             "sha256": "bf97cfdf2f8ba68c744c672ef71042464763b1b5bc0e426087ff0976d4091edb",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-button/kenney-puzzle-pack-1-png-button.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-button/kenney-puzzle-pack-1-png-button.png"
           }
         ],
         "source": {
@@ -523,6 +533,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-button/kenney-puzzle-pack-1-png-button.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-button.png",
         "preview": null
       }
     },
@@ -537,7 +549,7 @@
         "relativePath": "PNG/Double/buttonDefault_bottom.png",
         "canonicalRelativePath": "PNG/buttonDefault_bottom.png",
         "fileName": "buttonDefault_bottom.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-buttondefault-bottom.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttondefault-bottom/kenney-puzzle-pack-1-png-buttondefault-bottom.png",
         "file": {
           "primaryBytes": 126,
           "totalBytes": 126,
@@ -617,7 +629,9 @@
             "sha256": "cd1016012ddd5b2dbe61c1d5201c650e8093f1959c392ee14d42b838d38dceee",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttondefault-bottom/kenney-puzzle-pack-1-png-buttondefault-bottom.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttondefault-bottom/kenney-puzzle-pack-1-png-buttondefault-bottom.png"
           }
         ],
         "source": {
@@ -665,6 +679,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttondefault-bottom/kenney-puzzle-pack-1-png-buttondefault-bottom.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-buttondefault-bottom.png",
         "preview": null
       }
     },
@@ -679,7 +695,7 @@
         "relativePath": "PNG/Double/buttonDefault_bottomleft.png",
         "canonicalRelativePath": "PNG/buttonDefault_bottomleft.png",
         "fileName": "buttonDefault_bottomleft.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-buttondefault-bottomleft.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttondefault-bottomleft/kenney-puzzle-pack-1-png-buttondefault-bottomleft.png",
         "file": {
           "primaryBytes": 333,
           "totalBytes": 333,
@@ -759,7 +775,9 @@
             "sha256": "f4866128a268faea4e0c3150c720100e5362e65866e6aa6375e3632053f6d7c4",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttondefault-bottomleft/kenney-puzzle-pack-1-png-buttondefault-bottomleft.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttondefault-bottomleft/kenney-puzzle-pack-1-png-buttondefault-bottomleft.png"
           }
         ],
         "source": {
@@ -807,6 +825,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttondefault-bottomleft/kenney-puzzle-pack-1-png-buttondefault-bottomleft.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-buttondefault-bottomleft.png",
         "preview": null
       }
     },
@@ -821,7 +841,7 @@
         "relativePath": "PNG/Double/buttonDefault_bottomright.png",
         "canonicalRelativePath": "PNG/buttonDefault_bottomright.png",
         "fileName": "buttonDefault_bottomright.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-buttondefault-bottomright.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttondefault-bottomright/kenney-puzzle-pack-1-png-buttondefault-bottomright.png",
         "file": {
           "primaryBytes": 342,
           "totalBytes": 342,
@@ -901,7 +921,9 @@
             "sha256": "04ba5315f41caa2cb24e7e6c23f6bc79ba478aa7db6e32c7637be8fc3bd1ef4b",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttondefault-bottomright/kenney-puzzle-pack-1-png-buttondefault-bottomright.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttondefault-bottomright/kenney-puzzle-pack-1-png-buttondefault-bottomright.png"
           }
         ],
         "source": {
@@ -949,6 +971,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttondefault-bottomright/kenney-puzzle-pack-1-png-buttondefault-bottomright.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-buttondefault-bottomright.png",
         "preview": null
       }
     },
@@ -963,7 +987,7 @@
         "relativePath": "PNG/Double/buttonDefault_left.png",
         "canonicalRelativePath": "PNG/buttonDefault_left.png",
         "fileName": "buttonDefault_left.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-buttondefault-left.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttondefault-left/kenney-puzzle-pack-1-png-buttondefault-left.png",
         "file": {
           "primaryBytes": 114,
           "totalBytes": 114,
@@ -1043,7 +1067,9 @@
             "sha256": "04bcf86f39f3c7ca072d67b4162446ded86f9dd1630b20862ea1dea323985ec5",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttondefault-left/kenney-puzzle-pack-1-png-buttondefault-left.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttondefault-left/kenney-puzzle-pack-1-png-buttondefault-left.png"
           }
         ],
         "source": {
@@ -1091,6 +1117,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttondefault-left/kenney-puzzle-pack-1-png-buttondefault-left.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-buttondefault-left.png",
         "preview": null
       }
     },
@@ -1105,7 +1133,7 @@
         "relativePath": "PNG/Double/buttonDefault_mid.png",
         "canonicalRelativePath": "PNG/buttonDefault_mid.png",
         "fileName": "buttonDefault_mid.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-buttondefault-mid.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttondefault-mid/kenney-puzzle-pack-1-png-buttondefault-mid.png",
         "file": {
           "primaryBytes": 97,
           "totalBytes": 97,
@@ -1185,7 +1213,9 @@
             "sha256": "9015b9824012c67dbbc5e78280670684dab91b679eaefd5db44f1f6dc2b76489",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttondefault-mid/kenney-puzzle-pack-1-png-buttondefault-mid.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttondefault-mid/kenney-puzzle-pack-1-png-buttondefault-mid.png"
           }
         ],
         "source": {
@@ -1233,6 +1263,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttondefault-mid/kenney-puzzle-pack-1-png-buttondefault-mid.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-buttondefault-mid.png",
         "preview": null
       }
     },
@@ -1247,7 +1279,7 @@
         "relativePath": "PNG/Double/buttonDefault_right.png",
         "canonicalRelativePath": "PNG/buttonDefault_right.png",
         "fileName": "buttonDefault_right.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-buttondefault-right.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttondefault-right/kenney-puzzle-pack-1-png-buttondefault-right.png",
         "file": {
           "primaryBytes": 109,
           "totalBytes": 109,
@@ -1327,7 +1359,9 @@
             "sha256": "cb3acf366ef3d2ccb53d07110a484a957deb1b20eacca63b3e1c09e81315c58c",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttondefault-right/kenney-puzzle-pack-1-png-buttondefault-right.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttondefault-right/kenney-puzzle-pack-1-png-buttondefault-right.png"
           }
         ],
         "source": {
@@ -1375,6 +1409,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttondefault-right/kenney-puzzle-pack-1-png-buttondefault-right.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-buttondefault-right.png",
         "preview": null
       }
     },
@@ -1389,7 +1425,7 @@
         "relativePath": "PNG/Double/buttonDefault_top.png",
         "canonicalRelativePath": "PNG/buttonDefault_top.png",
         "fileName": "buttonDefault_top.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-buttondefault-top.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttondefault-top/kenney-puzzle-pack-1-png-buttondefault-top.png",
         "file": {
           "primaryBytes": 116,
           "totalBytes": 116,
@@ -1469,7 +1505,9 @@
             "sha256": "9e049829b708105e31be89b75f70f0a71bdfbe2756e17832ac501661aa98998e",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttondefault-top/kenney-puzzle-pack-1-png-buttondefault-top.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttondefault-top/kenney-puzzle-pack-1-png-buttondefault-top.png"
           }
         ],
         "source": {
@@ -1517,6 +1555,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttondefault-top/kenney-puzzle-pack-1-png-buttondefault-top.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-buttondefault-top.png",
         "preview": null
       }
     },
@@ -1531,7 +1571,7 @@
         "relativePath": "PNG/Double/buttonDefault_topleft.png",
         "canonicalRelativePath": "PNG/buttonDefault_topleft.png",
         "fileName": "buttonDefault_topleft.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-buttondefault-topleft.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttondefault-topleft/kenney-puzzle-pack-1-png-buttondefault-topleft.png",
         "file": {
           "primaryBytes": 284,
           "totalBytes": 284,
@@ -1611,7 +1651,9 @@
             "sha256": "c036a8ff976b025e0aa7fd62a8b565fbdf886063a501cb88f9415f5118fd4881",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttondefault-topleft/kenney-puzzle-pack-1-png-buttondefault-topleft.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttondefault-topleft/kenney-puzzle-pack-1-png-buttondefault-topleft.png"
           }
         ],
         "source": {
@@ -1659,6 +1701,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttondefault-topleft/kenney-puzzle-pack-1-png-buttondefault-topleft.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-buttondefault-topleft.png",
         "preview": null
       }
     },
@@ -1673,7 +1717,7 @@
         "relativePath": "PNG/Double/buttonDefault_topright.png",
         "canonicalRelativePath": "PNG/buttonDefault_topright.png",
         "fileName": "buttonDefault_topright.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-buttondefault-topright.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttondefault-topright/kenney-puzzle-pack-1-png-buttondefault-topright.png",
         "file": {
           "primaryBytes": 269,
           "totalBytes": 269,
@@ -1753,7 +1797,9 @@
             "sha256": "e7a3f47bd7809d775f9d67dee1333ea9f83bd2cc294a22beaecb213dcc92e4a1",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttondefault-topright/kenney-puzzle-pack-1-png-buttondefault-topright.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttondefault-topright/kenney-puzzle-pack-1-png-buttondefault-topright.png"
           }
         ],
         "source": {
@@ -1801,6 +1847,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttondefault-topright/kenney-puzzle-pack-1-png-buttondefault-topright.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-buttondefault-topright.png",
         "preview": null
       }
     },
@@ -1815,7 +1863,7 @@
         "relativePath": "PNG/Double/buttonSelected.png",
         "canonicalRelativePath": "PNG/buttonSelected.png",
         "fileName": "buttonSelected.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-buttonselected.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttonselected/kenney-puzzle-pack-1-png-buttonselected.png",
         "file": {
           "primaryBytes": 704,
           "totalBytes": 704,
@@ -1895,7 +1943,9 @@
             "sha256": "814a4691597f1c2424e04dd4b924014b427b809f6dbde3ad60ad32ac85263825",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttonselected/kenney-puzzle-pack-1-png-buttonselected.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttonselected/kenney-puzzle-pack-1-png-buttonselected.png"
           }
         ],
         "source": {
@@ -1943,6 +1993,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttonselected/kenney-puzzle-pack-1-png-buttonselected.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-buttonselected.png",
         "preview": null
       }
     },
@@ -1957,7 +2009,7 @@
         "relativePath": "PNG/Double/buttonSelected_bottom.png",
         "canonicalRelativePath": "PNG/buttonSelected_bottom.png",
         "fileName": "buttonSelected_bottom.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-buttonselected-bottom.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttonselected-bottom/kenney-puzzle-pack-1-png-buttonselected-bottom.png",
         "file": {
           "primaryBytes": 128,
           "totalBytes": 128,
@@ -2037,7 +2089,9 @@
             "sha256": "d34b3060ff21ea7ef41181902ff1408a6eadce02bda58e8dc1dd5b3f04e62a57",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttonselected-bottom/kenney-puzzle-pack-1-png-buttonselected-bottom.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttonselected-bottom/kenney-puzzle-pack-1-png-buttonselected-bottom.png"
           }
         ],
         "source": {
@@ -2086,6 +2140,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttonselected-bottom/kenney-puzzle-pack-1-png-buttonselected-bottom.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-buttonselected-bottom.png",
         "preview": null
       }
     },
@@ -2100,7 +2156,7 @@
         "relativePath": "PNG/Double/buttonSelected_bottomleft.png",
         "canonicalRelativePath": "PNG/buttonSelected_bottomleft.png",
         "fileName": "buttonSelected_bottomleft.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-buttonselected-bottomleft.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttonselected-bottomleft/kenney-puzzle-pack-1-png-buttonselected-bottomleft.png",
         "file": {
           "primaryBytes": 328,
           "totalBytes": 328,
@@ -2180,7 +2236,9 @@
             "sha256": "4dd08f921bf80bc4306c2c478a27e12fa18c81f8164cb070bc838a88a8b36a7f",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttonselected-bottomleft/kenney-puzzle-pack-1-png-buttonselected-bottomleft.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttonselected-bottomleft/kenney-puzzle-pack-1-png-buttonselected-bottomleft.png"
           }
         ],
         "source": {
@@ -2229,6 +2287,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttonselected-bottomleft/kenney-puzzle-pack-1-png-buttonselected-bottomleft.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-buttonselected-bottomleft.png",
         "preview": null
       }
     },
@@ -2243,7 +2303,7 @@
         "relativePath": "PNG/Double/buttonSelected_bottomright.png",
         "canonicalRelativePath": "PNG/buttonSelected_bottomright.png",
         "fileName": "buttonSelected_bottomright.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-buttonselected-bottomright.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttonselected-bottomright/kenney-puzzle-pack-1-png-buttonselected-bottomright.png",
         "file": {
           "primaryBytes": 337,
           "totalBytes": 337,
@@ -2323,7 +2383,9 @@
             "sha256": "ee4c629c7475c5a81ad868efb3263826ea0d8a681065d443ca1f76026b91c04e",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttonselected-bottomright/kenney-puzzle-pack-1-png-buttonselected-bottomright.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttonselected-bottomright/kenney-puzzle-pack-1-png-buttonselected-bottomright.png"
           }
         ],
         "source": {
@@ -2372,6 +2434,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttonselected-bottomright/kenney-puzzle-pack-1-png-buttonselected-bottomright.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-buttonselected-bottomright.png",
         "preview": null
       }
     },
@@ -2386,7 +2450,7 @@
         "relativePath": "PNG/Double/buttonSelected_left.png",
         "canonicalRelativePath": "PNG/buttonSelected_left.png",
         "fileName": "buttonSelected_left.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-buttonselected-left.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttonselected-left/kenney-puzzle-pack-1-png-buttonselected-left.png",
         "file": {
           "primaryBytes": 114,
           "totalBytes": 114,
@@ -2466,7 +2530,9 @@
             "sha256": "117334a924409140ddbc8defa676e693dc810ccb01fe48c4399ea7fa8164387e",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttonselected-left/kenney-puzzle-pack-1-png-buttonselected-left.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttonselected-left/kenney-puzzle-pack-1-png-buttonselected-left.png"
           }
         ],
         "source": {
@@ -2515,6 +2581,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttonselected-left/kenney-puzzle-pack-1-png-buttonselected-left.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-buttonselected-left.png",
         "preview": null
       }
     },
@@ -2529,7 +2597,7 @@
         "relativePath": "PNG/Double/buttonSelected_mid.png",
         "canonicalRelativePath": "PNG/buttonSelected_mid.png",
         "fileName": "buttonSelected_mid.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-buttonselected-mid.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttonselected-mid/kenney-puzzle-pack-1-png-buttonselected-mid.png",
         "file": {
           "primaryBytes": 97,
           "totalBytes": 97,
@@ -2609,7 +2677,9 @@
             "sha256": "83e0ff03818ae9b374c6e42fc187e82c7213b61bdc2dc4b2ba17d27afd9f826b",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttonselected-mid/kenney-puzzle-pack-1-png-buttonselected-mid.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttonselected-mid/kenney-puzzle-pack-1-png-buttonselected-mid.png"
           }
         ],
         "source": {
@@ -2658,6 +2728,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttonselected-mid/kenney-puzzle-pack-1-png-buttonselected-mid.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-buttonselected-mid.png",
         "preview": null
       }
     },
@@ -2672,7 +2744,7 @@
         "relativePath": "PNG/Double/buttonSelected_right.png",
         "canonicalRelativePath": "PNG/buttonSelected_right.png",
         "fileName": "buttonSelected_right.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-buttonselected-right.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttonselected-right/kenney-puzzle-pack-1-png-buttonselected-right.png",
         "file": {
           "primaryBytes": 109,
           "totalBytes": 109,
@@ -2752,7 +2824,9 @@
             "sha256": "c7e44eaee4f966e32bf0a6bee7495043ee135b0940d072544a5af65e1e52db77",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttonselected-right/kenney-puzzle-pack-1-png-buttonselected-right.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttonselected-right/kenney-puzzle-pack-1-png-buttonselected-right.png"
           }
         ],
         "source": {
@@ -2801,6 +2875,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttonselected-right/kenney-puzzle-pack-1-png-buttonselected-right.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-buttonselected-right.png",
         "preview": null
       }
     },
@@ -2815,7 +2891,7 @@
         "relativePath": "PNG/Double/buttonSelected_top.png",
         "canonicalRelativePath": "PNG/buttonSelected_top.png",
         "fileName": "buttonSelected_top.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-buttonselected-top.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttonselected-top/kenney-puzzle-pack-1-png-buttonselected-top.png",
         "file": {
           "primaryBytes": 114,
           "totalBytes": 114,
@@ -2895,7 +2971,9 @@
             "sha256": "dfa7e1000081e6bdb045fd784b72753a5b693ecdd04fa18059e2b59b841bdb03",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttonselected-top/kenney-puzzle-pack-1-png-buttonselected-top.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttonselected-top/kenney-puzzle-pack-1-png-buttonselected-top.png"
           }
         ],
         "source": {
@@ -2944,6 +3022,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttonselected-top/kenney-puzzle-pack-1-png-buttonselected-top.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-buttonselected-top.png",
         "preview": null
       }
     },
@@ -2958,7 +3038,7 @@
         "relativePath": "PNG/Double/buttonSelected_topleft.png",
         "canonicalRelativePath": "PNG/buttonSelected_topleft.png",
         "fileName": "buttonSelected_topleft.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-buttonselected-topleft.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttonselected-topleft/kenney-puzzle-pack-1-png-buttonselected-topleft.png",
         "file": {
           "primaryBytes": 284,
           "totalBytes": 284,
@@ -3038,7 +3118,9 @@
             "sha256": "0cecd6cbc9e144f06e8008094461ff3edb5530cad25c488ec16f2e13c661a3a3",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttonselected-topleft/kenney-puzzle-pack-1-png-buttonselected-topleft.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttonselected-topleft/kenney-puzzle-pack-1-png-buttonselected-topleft.png"
           }
         ],
         "source": {
@@ -3087,6 +3169,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttonselected-topleft/kenney-puzzle-pack-1-png-buttonselected-topleft.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-buttonselected-topleft.png",
         "preview": null
       }
     },
@@ -3101,7 +3185,7 @@
         "relativePath": "PNG/Double/buttonSelected_topright.png",
         "canonicalRelativePath": "PNG/buttonSelected_topright.png",
         "fileName": "buttonSelected_topright.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-buttonselected-topright.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttonselected-topright/kenney-puzzle-pack-1-png-buttonselected-topright.png",
         "file": {
           "primaryBytes": 268,
           "totalBytes": 268,
@@ -3181,7 +3265,9 @@
             "sha256": "2ffca9bb117fc38f30c4901f1fe80f38d8af10345b94a6ccdfbd6d1dcae88dd5",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttonselected-topright/kenney-puzzle-pack-1-png-buttonselected-topright.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttonselected-topright/kenney-puzzle-pack-1-png-buttonselected-topright.png"
           }
         ],
         "source": {
@@ -3230,6 +3316,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-buttonselected-topright/kenney-puzzle-pack-1-png-buttonselected-topright.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-buttonselected-topright.png",
         "preview": null
       }
     },
@@ -3244,7 +3332,7 @@
         "relativePath": "PNG/Double/element_blue_diamond.png",
         "canonicalRelativePath": "PNG/element_blue_diamond.png",
         "fileName": "element_blue_diamond.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-blue-diamond.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-blue-diamond/kenney-puzzle-pack-1-png-element-blue-diamond.png",
         "file": {
           "primaryBytes": 825,
           "totalBytes": 825,
@@ -3324,7 +3412,9 @@
             "sha256": "489199019705dbde0090c2a420492a2410595c93a9cb2af57ec00bd0024232ab",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-blue-diamond/kenney-puzzle-pack-1-png-element-blue-diamond.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-blue-diamond/kenney-puzzle-pack-1-png-element-blue-diamond.png"
           }
         ],
         "source": {
@@ -3374,6 +3464,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-blue-diamond/kenney-puzzle-pack-1-png-element-blue-diamond.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-blue-diamond.png",
         "preview": null
       }
     },
@@ -3388,7 +3480,7 @@
         "relativePath": "PNG/Double/element_blue_diamond_glossy.png",
         "canonicalRelativePath": "PNG/element_blue_diamond_glossy.png",
         "fileName": "element_blue_diamond_glossy.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-blue-diamond-glossy.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-blue-diamond-glossy/kenney-puzzle-pack-1-png-element-blue-diamond-glossy.png",
         "file": {
           "primaryBytes": 1410,
           "totalBytes": 1410,
@@ -3468,7 +3560,9 @@
             "sha256": "b38a831f7d51aa5e7daabe7697de8425942bf9238768dd7fcdf8b38c7e8053d9",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-blue-diamond-glossy/kenney-puzzle-pack-1-png-element-blue-diamond-glossy.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-blue-diamond-glossy/kenney-puzzle-pack-1-png-element-blue-diamond-glossy.png"
           }
         ],
         "source": {
@@ -3519,6 +3613,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-blue-diamond-glossy/kenney-puzzle-pack-1-png-element-blue-diamond-glossy.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-blue-diamond-glossy.png",
         "preview": null
       }
     },
@@ -3533,7 +3629,7 @@
         "relativePath": "PNG/Double/element_blue_polygon.png",
         "canonicalRelativePath": "PNG/element_blue_polygon.png",
         "fileName": "element_blue_polygon.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-blue-polygon.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-blue-polygon/kenney-puzzle-pack-1-png-element-blue-polygon.png",
         "file": {
           "primaryBytes": 1671,
           "totalBytes": 1671,
@@ -3613,7 +3709,9 @@
             "sha256": "233dc486c49e0516ad82f40a6895c47fdcaa0c30a8116f44bdb79a387f9f971a",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-blue-polygon/kenney-puzzle-pack-1-png-element-blue-polygon.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-blue-polygon/kenney-puzzle-pack-1-png-element-blue-polygon.png"
           }
         ],
         "source": {
@@ -3663,6 +3761,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-blue-polygon/kenney-puzzle-pack-1-png-element-blue-polygon.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-blue-polygon.png",
         "preview": null
       }
     },
@@ -3677,7 +3777,7 @@
         "relativePath": "PNG/Double/element_blue_polygon_glossy.png",
         "canonicalRelativePath": "PNG/element_blue_polygon_glossy.png",
         "fileName": "element_blue_polygon_glossy.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-blue-polygon-glossy.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-blue-polygon-glossy/kenney-puzzle-pack-1-png-element-blue-polygon-glossy.png",
         "file": {
           "primaryBytes": 2401,
           "totalBytes": 2401,
@@ -3757,7 +3857,9 @@
             "sha256": "f2ab3aa4543a5d77547a5e7300f5442ba9dd84dad529f06f735bbc1fef429044",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-blue-polygon-glossy/kenney-puzzle-pack-1-png-element-blue-polygon-glossy.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-blue-polygon-glossy/kenney-puzzle-pack-1-png-element-blue-polygon-glossy.png"
           }
         ],
         "source": {
@@ -3808,6 +3910,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-blue-polygon-glossy/kenney-puzzle-pack-1-png-element-blue-polygon-glossy.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-blue-polygon-glossy.png",
         "preview": null
       }
     },
@@ -3822,7 +3926,7 @@
         "relativePath": "PNG/Double/element_blue_rectangle.png",
         "canonicalRelativePath": "PNG/element_blue_rectangle.png",
         "fileName": "element_blue_rectangle.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-blue-rectangle.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-blue-rectangle/kenney-puzzle-pack-1-png-element-blue-rectangle.png",
         "file": {
           "primaryBytes": 382,
           "totalBytes": 382,
@@ -3902,7 +4006,9 @@
             "sha256": "2cf00f12ac84967bc4429d1b9fa3d407951c3f48b81a5a2f204f142e1383f80d",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-blue-rectangle/kenney-puzzle-pack-1-png-element-blue-rectangle.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-blue-rectangle/kenney-puzzle-pack-1-png-element-blue-rectangle.png"
           }
         ],
         "source": {
@@ -3952,6 +4058,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-blue-rectangle/kenney-puzzle-pack-1-png-element-blue-rectangle.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-blue-rectangle.png",
         "preview": null
       }
     },
@@ -3966,7 +4074,7 @@
         "relativePath": "PNG/Double/element_blue_rectangle_glossy.png",
         "canonicalRelativePath": "PNG/element_blue_rectangle_glossy.png",
         "fileName": "element_blue_rectangle_glossy.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-blue-rectangle-glossy.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-blue-rectangle-glossy/kenney-puzzle-pack-1-png-element-blue-rectangle-glossy.png",
         "file": {
           "primaryBytes": 829,
           "totalBytes": 829,
@@ -4046,7 +4154,9 @@
             "sha256": "3a26d8e5ec1814e3564e08751b43700ac364650506af7ad774cc680ff217cd50",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-blue-rectangle-glossy/kenney-puzzle-pack-1-png-element-blue-rectangle-glossy.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-blue-rectangle-glossy/kenney-puzzle-pack-1-png-element-blue-rectangle-glossy.png"
           }
         ],
         "source": {
@@ -4097,6 +4207,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-blue-rectangle-glossy/kenney-puzzle-pack-1-png-element-blue-rectangle-glossy.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-blue-rectangle-glossy.png",
         "preview": null
       }
     },
@@ -4111,7 +4223,7 @@
         "relativePath": "PNG/Double/element_blue_square.png",
         "canonicalRelativePath": "PNG/element_blue_square.png",
         "fileName": "element_blue_square.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-blue-square.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-blue-square/kenney-puzzle-pack-1-png-element-blue-square.png",
         "file": {
           "primaryBytes": 357,
           "totalBytes": 357,
@@ -4191,7 +4303,9 @@
             "sha256": "0cea30b415952603b9e7150ba1b473a3f56a0c2ee1abf23045bee9b348c91f78",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-blue-square/kenney-puzzle-pack-1-png-element-blue-square.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-blue-square/kenney-puzzle-pack-1-png-element-blue-square.png"
           }
         ],
         "source": {
@@ -4241,6 +4355,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-blue-square/kenney-puzzle-pack-1-png-element-blue-square.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-blue-square.png",
         "preview": null
       }
     },
@@ -4255,7 +4371,7 @@
         "relativePath": "PNG/Double/element_blue_square_glossy.png",
         "canonicalRelativePath": "PNG/element_blue_square_glossy.png",
         "fileName": "element_blue_square_glossy.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-blue-square-glossy.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-blue-square-glossy/kenney-puzzle-pack-1-png-element-blue-square-glossy.png",
         "file": {
           "primaryBytes": 807,
           "totalBytes": 807,
@@ -4335,7 +4451,9 @@
             "sha256": "d394a38a921bc7957d331f00c59b3f6e4a525f03038a8ca74ce4b655f9d3a829",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-blue-square-glossy/kenney-puzzle-pack-1-png-element-blue-square-glossy.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-blue-square-glossy/kenney-puzzle-pack-1-png-element-blue-square-glossy.png"
           }
         ],
         "source": {
@@ -4386,6 +4504,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-blue-square-glossy/kenney-puzzle-pack-1-png-element-blue-square-glossy.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-blue-square-glossy.png",
         "preview": null
       }
     },
@@ -4400,7 +4520,7 @@
         "relativePath": "PNG/Double/element_green_diamond.png",
         "canonicalRelativePath": "PNG/element_green_diamond.png",
         "fileName": "element_green_diamond.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-green-diamond.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-green-diamond/kenney-puzzle-pack-1-png-element-green-diamond.png",
         "file": {
           "primaryBytes": 919,
           "totalBytes": 919,
@@ -4480,7 +4600,9 @@
             "sha256": "98374315a388a8c45b343ce73678e47a3c9de3986d9803a0aaabd5e02c32aff7",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-green-diamond/kenney-puzzle-pack-1-png-element-green-diamond.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-green-diamond/kenney-puzzle-pack-1-png-element-green-diamond.png"
           }
         ],
         "source": {
@@ -4530,6 +4652,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-green-diamond/kenney-puzzle-pack-1-png-element-green-diamond.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-green-diamond.png",
         "preview": null
       }
     },
@@ -4544,7 +4668,7 @@
         "relativePath": "PNG/Double/element_green_diamond_glossy.png",
         "canonicalRelativePath": "PNG/element_green_diamond_glossy.png",
         "fileName": "element_green_diamond_glossy.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-green-diamond-glossy.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-green-diamond-glossy/kenney-puzzle-pack-1-png-element-green-diamond-glossy.png",
         "file": {
           "primaryBytes": 1681,
           "totalBytes": 1681,
@@ -4624,7 +4748,9 @@
             "sha256": "ddf5f55006e4e2bdb2ecc571b8a9662afbf338aa0a51d91a745d5a0efa5d7c65",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-green-diamond-glossy/kenney-puzzle-pack-1-png-element-green-diamond-glossy.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-green-diamond-glossy/kenney-puzzle-pack-1-png-element-green-diamond-glossy.png"
           }
         ],
         "source": {
@@ -4675,6 +4801,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-green-diamond-glossy/kenney-puzzle-pack-1-png-element-green-diamond-glossy.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-green-diamond-glossy.png",
         "preview": null
       }
     },
@@ -4689,7 +4817,7 @@
         "relativePath": "PNG/Double/element_green_polygon.png",
         "canonicalRelativePath": "PNG/element_green_polygon.png",
         "fileName": "element_green_polygon.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-green-polygon.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-green-polygon/kenney-puzzle-pack-1-png-element-green-polygon.png",
         "file": {
           "primaryBytes": 1725,
           "totalBytes": 1725,
@@ -4769,7 +4897,9 @@
             "sha256": "88104c7b4ecb1121c08bad598243c2d69117958a2228ef2a3fc0d7dc7404dc5b",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-green-polygon/kenney-puzzle-pack-1-png-element-green-polygon.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-green-polygon/kenney-puzzle-pack-1-png-element-green-polygon.png"
           }
         ],
         "source": {
@@ -4819,6 +4949,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-green-polygon/kenney-puzzle-pack-1-png-element-green-polygon.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-green-polygon.png",
         "preview": null
       }
     },
@@ -4833,7 +4965,7 @@
         "relativePath": "PNG/Double/element_green_polygon_glossy.png",
         "canonicalRelativePath": "PNG/element_green_polygon_glossy.png",
         "fileName": "element_green_polygon_glossy.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-green-polygon-glossy.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-green-polygon-glossy/kenney-puzzle-pack-1-png-element-green-polygon-glossy.png",
         "file": {
           "primaryBytes": 2391,
           "totalBytes": 2391,
@@ -4913,7 +5045,9 @@
             "sha256": "2f097008e54faafff97b255bc17f83b2aa643f864eb6dd151ae572fb129d988f",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-green-polygon-glossy/kenney-puzzle-pack-1-png-element-green-polygon-glossy.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-green-polygon-glossy/kenney-puzzle-pack-1-png-element-green-polygon-glossy.png"
           }
         ],
         "source": {
@@ -4964,6 +5098,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-green-polygon-glossy/kenney-puzzle-pack-1-png-element-green-polygon-glossy.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-green-polygon-glossy.png",
         "preview": null
       }
     },
@@ -4978,7 +5114,7 @@
         "relativePath": "PNG/Double/element_green_rectangle.png",
         "canonicalRelativePath": "PNG/element_green_rectangle.png",
         "fileName": "element_green_rectangle.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-green-rectangle.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-green-rectangle/kenney-puzzle-pack-1-png-element-green-rectangle.png",
         "file": {
           "primaryBytes": 387,
           "totalBytes": 387,
@@ -5058,7 +5194,9 @@
             "sha256": "790aadaeefb38f01990af1230c029fe7996aaf721db926a8c326d9396ca7fe21",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-green-rectangle/kenney-puzzle-pack-1-png-element-green-rectangle.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-green-rectangle/kenney-puzzle-pack-1-png-element-green-rectangle.png"
           }
         ],
         "source": {
@@ -5108,6 +5246,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-green-rectangle/kenney-puzzle-pack-1-png-element-green-rectangle.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-green-rectangle.png",
         "preview": null
       }
     },
@@ -5122,7 +5262,7 @@
         "relativePath": "PNG/Double/element_green_rectangle_glossy.png",
         "canonicalRelativePath": "PNG/element_green_rectangle_glossy.png",
         "fileName": "element_green_rectangle_glossy.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-green-rectangle-glossy.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-green-rectangle-glossy/kenney-puzzle-pack-1-png-element-green-rectangle-glossy.png",
         "file": {
           "primaryBytes": 845,
           "totalBytes": 845,
@@ -5202,7 +5342,9 @@
             "sha256": "fed189c1151ed70820fa35d69f03f2af4ba43db7416198b915347c09f40d93df",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-green-rectangle-glossy/kenney-puzzle-pack-1-png-element-green-rectangle-glossy.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-green-rectangle-glossy/kenney-puzzle-pack-1-png-element-green-rectangle-glossy.png"
           }
         ],
         "source": {
@@ -5253,6 +5395,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-green-rectangle-glossy/kenney-puzzle-pack-1-png-element-green-rectangle-glossy.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-green-rectangle-glossy.png",
         "preview": null
       }
     },
@@ -5267,7 +5411,7 @@
         "relativePath": "PNG/Double/element_green_square.png",
         "canonicalRelativePath": "PNG/element_green_square.png",
         "fileName": "element_green_square.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-green-square.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-green-square/kenney-puzzle-pack-1-png-element-green-square.png",
         "file": {
           "primaryBytes": 356,
           "totalBytes": 356,
@@ -5347,7 +5491,9 @@
             "sha256": "2cfcb63b990bc3c47a7391762d1eb5fe10a2173bdf7b5630444e893e9a2f139a",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-green-square/kenney-puzzle-pack-1-png-element-green-square.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-green-square/kenney-puzzle-pack-1-png-element-green-square.png"
           }
         ],
         "source": {
@@ -5397,6 +5543,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-green-square/kenney-puzzle-pack-1-png-element-green-square.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-green-square.png",
         "preview": null
       }
     },
@@ -5411,7 +5559,7 @@
         "relativePath": "PNG/Double/element_green_square_glossy.png",
         "canonicalRelativePath": "PNG/element_green_square_glossy.png",
         "fileName": "element_green_square_glossy.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-green-square-glossy.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-green-square-glossy/kenney-puzzle-pack-1-png-element-green-square-glossy.png",
         "file": {
           "primaryBytes": 820,
           "totalBytes": 820,
@@ -5491,7 +5639,9 @@
             "sha256": "d63016b8b143c8bee16373a1fbfd12150418ee74cbb269e783a44d24588f1e78",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-green-square-glossy/kenney-puzzle-pack-1-png-element-green-square-glossy.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-green-square-glossy/kenney-puzzle-pack-1-png-element-green-square-glossy.png"
           }
         ],
         "source": {
@@ -5542,6 +5692,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-green-square-glossy/kenney-puzzle-pack-1-png-element-green-square-glossy.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-green-square-glossy.png",
         "preview": null
       }
     },
@@ -5556,7 +5708,7 @@
         "relativePath": "PNG/Double/element_grey_diamond.png",
         "canonicalRelativePath": "PNG/element_grey_diamond.png",
         "fileName": "element_grey_diamond.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-grey-diamond.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-grey-diamond/kenney-puzzle-pack-1-png-element-grey-diamond.png",
         "file": {
           "primaryBytes": 808,
           "totalBytes": 808,
@@ -5636,7 +5788,9 @@
             "sha256": "25dcfa5a86d312d2decce11d19cbf566384a8e8a2dba8c61405827d161271575",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-grey-diamond/kenney-puzzle-pack-1-png-element-grey-diamond.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-grey-diamond/kenney-puzzle-pack-1-png-element-grey-diamond.png"
           }
         ],
         "source": {
@@ -5686,6 +5840,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-grey-diamond/kenney-puzzle-pack-1-png-element-grey-diamond.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-grey-diamond.png",
         "preview": null
       }
     },
@@ -5700,7 +5856,7 @@
         "relativePath": "PNG/Double/element_grey_diamond_glossy.png",
         "canonicalRelativePath": "PNG/element_grey_diamond_glossy.png",
         "fileName": "element_grey_diamond_glossy.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-grey-diamond-glossy.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-grey-diamond-glossy/kenney-puzzle-pack-1-png-element-grey-diamond-glossy.png",
         "file": {
           "primaryBytes": 953,
           "totalBytes": 953,
@@ -5780,7 +5936,9 @@
             "sha256": "ecca7fc037800fea69c881a3927aaade8721d6ecb015210b26c7cfd598446cc7",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-grey-diamond-glossy/kenney-puzzle-pack-1-png-element-grey-diamond-glossy.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-grey-diamond-glossy/kenney-puzzle-pack-1-png-element-grey-diamond-glossy.png"
           }
         ],
         "source": {
@@ -5831,6 +5989,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-grey-diamond-glossy/kenney-puzzle-pack-1-png-element-grey-diamond-glossy.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-grey-diamond-glossy.png",
         "preview": null
       }
     },
@@ -5845,7 +6005,7 @@
         "relativePath": "PNG/Double/element_grey_polygon.png",
         "canonicalRelativePath": "PNG/element_grey_polygon.png",
         "fileName": "element_grey_polygon.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-grey-polygon.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-grey-polygon/kenney-puzzle-pack-1-png-element-grey-polygon.png",
         "file": {
           "primaryBytes": 1543,
           "totalBytes": 1543,
@@ -5925,7 +6085,9 @@
             "sha256": "80ead26c8e3d27b0e625f6d264fba5c26824bfb0ae16a352fed0ff019dd3a8e1",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-grey-polygon/kenney-puzzle-pack-1-png-element-grey-polygon.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-grey-polygon/kenney-puzzle-pack-1-png-element-grey-polygon.png"
           }
         ],
         "source": {
@@ -5975,6 +6137,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-grey-polygon/kenney-puzzle-pack-1-png-element-grey-polygon.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-grey-polygon.png",
         "preview": null
       }
     },
@@ -5989,7 +6153,7 @@
         "relativePath": "PNG/Double/element_grey_polygon_glossy.png",
         "canonicalRelativePath": "PNG/element_grey_polygon_glossy.png",
         "fileName": "element_grey_polygon_glossy.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-grey-polygon-glossy.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-grey-polygon-glossy/kenney-puzzle-pack-1-png-element-grey-polygon-glossy.png",
         "file": {
           "primaryBytes": 1815,
           "totalBytes": 1815,
@@ -6069,7 +6233,9 @@
             "sha256": "a58612f0fa34edf01864872214384baf82676b19e68c23f00aae915c8f707c94",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-grey-polygon-glossy/kenney-puzzle-pack-1-png-element-grey-polygon-glossy.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-grey-polygon-glossy/kenney-puzzle-pack-1-png-element-grey-polygon-glossy.png"
           }
         ],
         "source": {
@@ -6120,6 +6286,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-grey-polygon-glossy/kenney-puzzle-pack-1-png-element-grey-polygon-glossy.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-grey-polygon-glossy.png",
         "preview": null
       }
     },
@@ -6134,7 +6302,7 @@
         "relativePath": "PNG/Double/element_grey_rectangle.png",
         "canonicalRelativePath": "PNG/element_grey_rectangle.png",
         "fileName": "element_grey_rectangle.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-grey-rectangle.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-grey-rectangle/kenney-puzzle-pack-1-png-element-grey-rectangle.png",
         "file": {
           "primaryBytes": 382,
           "totalBytes": 382,
@@ -6214,7 +6382,9 @@
             "sha256": "bcd1c9369a09bb9d7ddfff9506e951a0dffb087090d81d1f09c22b09ffd290bb",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-grey-rectangle/kenney-puzzle-pack-1-png-element-grey-rectangle.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-grey-rectangle/kenney-puzzle-pack-1-png-element-grey-rectangle.png"
           }
         ],
         "source": {
@@ -6264,6 +6434,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-grey-rectangle/kenney-puzzle-pack-1-png-element-grey-rectangle.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-grey-rectangle.png",
         "preview": null
       }
     },
@@ -6278,7 +6450,7 @@
         "relativePath": "PNG/Double/element_grey_rectangle_glossy.png",
         "canonicalRelativePath": "PNG/element_grey_rectangle_glossy.png",
         "fileName": "element_grey_rectangle_glossy.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-grey-rectangle-glossy.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-grey-rectangle-glossy/kenney-puzzle-pack-1-png-element-grey-rectangle-glossy.png",
         "file": {
           "primaryBytes": 588,
           "totalBytes": 588,
@@ -6358,7 +6530,9 @@
             "sha256": "694af67234b1de7b174471e86395f214b7af9b004756ae08bc405d4a1a5edf81",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-grey-rectangle-glossy/kenney-puzzle-pack-1-png-element-grey-rectangle-glossy.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-grey-rectangle-glossy/kenney-puzzle-pack-1-png-element-grey-rectangle-glossy.png"
           }
         ],
         "source": {
@@ -6409,6 +6583,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-grey-rectangle-glossy/kenney-puzzle-pack-1-png-element-grey-rectangle-glossy.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-grey-rectangle-glossy.png",
         "preview": null
       }
     },
@@ -6423,7 +6599,7 @@
         "relativePath": "PNG/Double/element_grey_square.png",
         "canonicalRelativePath": "PNG/element_grey_square.png",
         "fileName": "element_grey_square.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-grey-square.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-grey-square/kenney-puzzle-pack-1-png-element-grey-square.png",
         "file": {
           "primaryBytes": 357,
           "totalBytes": 357,
@@ -6503,7 +6679,9 @@
             "sha256": "c769e596db73c8fb16de144748521f8c72ec82337bec3b65b48e8f0f2802f8bd",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-grey-square/kenney-puzzle-pack-1-png-element-grey-square.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-grey-square/kenney-puzzle-pack-1-png-element-grey-square.png"
           }
         ],
         "source": {
@@ -6553,6 +6731,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-grey-square/kenney-puzzle-pack-1-png-element-grey-square.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-grey-square.png",
         "preview": null
       }
     },
@@ -6567,7 +6747,7 @@
         "relativePath": "PNG/Double/element_grey_square_glossy.png",
         "canonicalRelativePath": "PNG/element_grey_square_glossy.png",
         "fileName": "element_grey_square_glossy.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-grey-square-glossy.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-grey-square-glossy/kenney-puzzle-pack-1-png-element-grey-square-glossy.png",
         "file": {
           "primaryBytes": 569,
           "totalBytes": 569,
@@ -6647,7 +6827,9 @@
             "sha256": "f84a282ab5d5355845d5c06abdd804f9d21cbe714718986fca78b13f0ced7a14",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-grey-square-glossy/kenney-puzzle-pack-1-png-element-grey-square-glossy.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-grey-square-glossy/kenney-puzzle-pack-1-png-element-grey-square-glossy.png"
           }
         ],
         "source": {
@@ -6698,6 +6880,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-grey-square-glossy/kenney-puzzle-pack-1-png-element-grey-square-glossy.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-grey-square-glossy.png",
         "preview": null
       }
     },
@@ -6712,7 +6896,7 @@
         "relativePath": "PNG/Double/element_purple_cube_glossy.png",
         "canonicalRelativePath": "PNG/element_purple_cube_glossy.png",
         "fileName": "element_purple_cube_glossy.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-purple-cube-glossy.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-purple-cube-glossy/kenney-puzzle-pack-1-png-element-purple-cube-glossy.png",
         "file": {
           "primaryBytes": 712,
           "totalBytes": 712,
@@ -6792,7 +6976,9 @@
             "sha256": "a39148c9d5cb2329d3d14c1f6123027ae5e14c430b90701197d6b43d2cc90bed",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-purple-cube-glossy/kenney-puzzle-pack-1-png-element-purple-cube-glossy.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-purple-cube-glossy/kenney-puzzle-pack-1-png-element-purple-cube-glossy.png"
           }
         ],
         "source": {
@@ -6843,6 +7029,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-purple-cube-glossy/kenney-puzzle-pack-1-png-element-purple-cube-glossy.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-purple-cube-glossy.png",
         "preview": null
       }
     },
@@ -6857,7 +7045,7 @@
         "relativePath": "PNG/Double/element_purple_diamond.png",
         "canonicalRelativePath": "PNG/element_purple_diamond.png",
         "fileName": "element_purple_diamond.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-purple-diamond.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-purple-diamond/kenney-puzzle-pack-1-png-element-purple-diamond.png",
         "file": {
           "primaryBytes": 902,
           "totalBytes": 902,
@@ -6937,7 +7125,9 @@
             "sha256": "189f21b66532fb3574490b58d431d0b68088546324bdbefe7797df93e741ed40",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-purple-diamond/kenney-puzzle-pack-1-png-element-purple-diamond.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-purple-diamond/kenney-puzzle-pack-1-png-element-purple-diamond.png"
           }
         ],
         "source": {
@@ -6987,6 +7177,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-purple-diamond/kenney-puzzle-pack-1-png-element-purple-diamond.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-purple-diamond.png",
         "preview": null
       }
     },
@@ -7001,7 +7193,7 @@
         "relativePath": "PNG/Double/element_purple_diamond_glossy.png",
         "canonicalRelativePath": "PNG/element_purple_diamond_glossy.png",
         "fileName": "element_purple_diamond_glossy.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-purple-diamond-glossy.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-purple-diamond-glossy/kenney-puzzle-pack-1-png-element-purple-diamond-glossy.png",
         "file": {
           "primaryBytes": 1437,
           "totalBytes": 1437,
@@ -7081,7 +7273,9 @@
             "sha256": "2edf49a224430c3fd6be2c6ddc4a0677ee9cf7819ce172bd55440ae1068e4a52",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-purple-diamond-glossy/kenney-puzzle-pack-1-png-element-purple-diamond-glossy.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-purple-diamond-glossy/kenney-puzzle-pack-1-png-element-purple-diamond-glossy.png"
           }
         ],
         "source": {
@@ -7132,6 +7326,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-purple-diamond-glossy/kenney-puzzle-pack-1-png-element-purple-diamond-glossy.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-purple-diamond-glossy.png",
         "preview": null
       }
     },
@@ -7146,7 +7342,7 @@
         "relativePath": "PNG/Double/element_purple_polygon.png",
         "canonicalRelativePath": "PNG/element_purple_polygon.png",
         "fileName": "element_purple_polygon.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-purple-polygon.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-purple-polygon/kenney-puzzle-pack-1-png-element-purple-polygon.png",
         "file": {
           "primaryBytes": 1613,
           "totalBytes": 1613,
@@ -7226,7 +7422,9 @@
             "sha256": "930df649b7a43cf05b6fdf9b40ca81394a32b825e509653f8e8ee6250bc81013",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-purple-polygon/kenney-puzzle-pack-1-png-element-purple-polygon.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-purple-polygon/kenney-puzzle-pack-1-png-element-purple-polygon.png"
           }
         ],
         "source": {
@@ -7276,6 +7474,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-purple-polygon/kenney-puzzle-pack-1-png-element-purple-polygon.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-purple-polygon.png",
         "preview": null
       }
     },
@@ -7290,7 +7490,7 @@
         "relativePath": "PNG/Double/element_purple_polygon_glossy.png",
         "canonicalRelativePath": "PNG/element_purple_polygon_glossy.png",
         "fileName": "element_purple_polygon_glossy.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-purple-polygon-glossy.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-purple-polygon-glossy/kenney-puzzle-pack-1-png-element-purple-polygon-glossy.png",
         "file": {
           "primaryBytes": 2358,
           "totalBytes": 2358,
@@ -7370,7 +7570,9 @@
             "sha256": "f4485aa808f5bfb00541fc8284dd5aa00949af995c84fdd6ecdf915912b18377",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-purple-polygon-glossy/kenney-puzzle-pack-1-png-element-purple-polygon-glossy.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-purple-polygon-glossy/kenney-puzzle-pack-1-png-element-purple-polygon-glossy.png"
           }
         ],
         "source": {
@@ -7421,6 +7623,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-purple-polygon-glossy/kenney-puzzle-pack-1-png-element-purple-polygon-glossy.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-purple-polygon-glossy.png",
         "preview": null
       }
     },
@@ -7435,7 +7639,7 @@
         "relativePath": "PNG/Double/element_purple_rectangle.png",
         "canonicalRelativePath": "PNG/element_purple_rectangle.png",
         "fileName": "element_purple_rectangle.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-purple-rectangle.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-purple-rectangle/kenney-puzzle-pack-1-png-element-purple-rectangle.png",
         "file": {
           "primaryBytes": 396,
           "totalBytes": 396,
@@ -7515,7 +7719,9 @@
             "sha256": "975e6b20e3e8c971e830dab1d2827619ebdd54a81526297ffbea031373563616",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-purple-rectangle/kenney-puzzle-pack-1-png-element-purple-rectangle.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-purple-rectangle/kenney-puzzle-pack-1-png-element-purple-rectangle.png"
           }
         ],
         "source": {
@@ -7565,6 +7771,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-purple-rectangle/kenney-puzzle-pack-1-png-element-purple-rectangle.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-purple-rectangle.png",
         "preview": null
       }
     },
@@ -7579,7 +7787,7 @@
         "relativePath": "PNG/Double/element_purple_rectangle_glossy.png",
         "canonicalRelativePath": "PNG/element_purple_rectangle_glossy.png",
         "fileName": "element_purple_rectangle_glossy.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-purple-rectangle-glossy.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-purple-rectangle-glossy/kenney-puzzle-pack-1-png-element-purple-rectangle-glossy.png",
         "file": {
           "primaryBytes": 731,
           "totalBytes": 731,
@@ -7659,7 +7867,9 @@
             "sha256": "be09e662007b8c16b6b08204dcad1a7a8dbdfb5cb04cdc2ed43aac6de6b568ba",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-purple-rectangle-glossy/kenney-puzzle-pack-1-png-element-purple-rectangle-glossy.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-purple-rectangle-glossy/kenney-puzzle-pack-1-png-element-purple-rectangle-glossy.png"
           }
         ],
         "source": {
@@ -7710,6 +7920,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-purple-rectangle-glossy/kenney-puzzle-pack-1-png-element-purple-rectangle-glossy.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-purple-rectangle-glossy.png",
         "preview": null
       }
     },
@@ -7724,7 +7936,7 @@
         "relativePath": "PNG/Double/element_purple_square.png",
         "canonicalRelativePath": "PNG/element_purple_square.png",
         "fileName": "element_purple_square.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-purple-square.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-purple-square/kenney-puzzle-pack-1-png-element-purple-square.png",
         "file": {
           "primaryBytes": 357,
           "totalBytes": 357,
@@ -7804,7 +8016,9 @@
             "sha256": "3c18afe06a8857e20c855c49948ee88edce659fc37174be2097f54dd01fcb093",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-purple-square/kenney-puzzle-pack-1-png-element-purple-square.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-purple-square/kenney-puzzle-pack-1-png-element-purple-square.png"
           }
         ],
         "source": {
@@ -7854,6 +8068,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-purple-square/kenney-puzzle-pack-1-png-element-purple-square.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-purple-square.png",
         "preview": null
       }
     },
@@ -7868,7 +8084,7 @@
         "relativePath": "PNG/Double/element_red_diamond.png",
         "canonicalRelativePath": "PNG/element_red_diamond.png",
         "fileName": "element_red_diamond.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-red-diamond.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-red-diamond/kenney-puzzle-pack-1-png-element-red-diamond.png",
         "file": {
           "primaryBytes": 933,
           "totalBytes": 933,
@@ -7948,7 +8164,9 @@
             "sha256": "5bdf8a092ba507f5185607549f76d084cf339e7de77d996e8de33206526266c0",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-red-diamond/kenney-puzzle-pack-1-png-element-red-diamond.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-red-diamond/kenney-puzzle-pack-1-png-element-red-diamond.png"
           }
         ],
         "source": {
@@ -7998,6 +8216,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-red-diamond/kenney-puzzle-pack-1-png-element-red-diamond.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-red-diamond.png",
         "preview": null
       }
     },
@@ -8012,7 +8232,7 @@
         "relativePath": "PNG/Double/element_red_diamond_glossy.png",
         "canonicalRelativePath": "PNG/element_red_diamond_glossy.png",
         "fileName": "element_red_diamond_glossy.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-red-diamond-glossy.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-red-diamond-glossy/kenney-puzzle-pack-1-png-element-red-diamond-glossy.png",
         "file": {
           "primaryBytes": 1577,
           "totalBytes": 1577,
@@ -8092,7 +8312,9 @@
             "sha256": "03aafa176291071968153bcf242b155c30fea79012b81022b8f83160891de833",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-red-diamond-glossy/kenney-puzzle-pack-1-png-element-red-diamond-glossy.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-red-diamond-glossy/kenney-puzzle-pack-1-png-element-red-diamond-glossy.png"
           }
         ],
         "source": {
@@ -8143,6 +8365,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-red-diamond-glossy/kenney-puzzle-pack-1-png-element-red-diamond-glossy.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-red-diamond-glossy.png",
         "preview": null
       }
     },
@@ -8157,7 +8381,7 @@
         "relativePath": "PNG/Double/element_red_polygon.png",
         "canonicalRelativePath": "PNG/element_red_polygon.png",
         "fileName": "element_red_polygon.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-red-polygon.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-red-polygon/kenney-puzzle-pack-1-png-element-red-polygon.png",
         "file": {
           "primaryBytes": 1692,
           "totalBytes": 1692,
@@ -8237,7 +8461,9 @@
             "sha256": "d7deabb46fef2c195b1158dec9a09697118cb5743ae583bd65baf58fed4470a6",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-red-polygon/kenney-puzzle-pack-1-png-element-red-polygon.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-red-polygon/kenney-puzzle-pack-1-png-element-red-polygon.png"
           }
         ],
         "source": {
@@ -8287,6 +8513,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-red-polygon/kenney-puzzle-pack-1-png-element-red-polygon.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-red-polygon.png",
         "preview": null
       }
     },
@@ -8301,7 +8529,7 @@
         "relativePath": "PNG/Double/element_red_polygon_glossy.png",
         "canonicalRelativePath": "PNG/element_red_polygon_glossy.png",
         "fileName": "element_red_polygon_glossy.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-red-polygon-glossy.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-red-polygon-glossy/kenney-puzzle-pack-1-png-element-red-polygon-glossy.png",
         "file": {
           "primaryBytes": 2371,
           "totalBytes": 2371,
@@ -8381,7 +8609,9 @@
             "sha256": "cc7a92dbfa2d0a97e48ed6327293dbe0b93a625f6a33b1ddb22c8df523c4ecbb",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-red-polygon-glossy/kenney-puzzle-pack-1-png-element-red-polygon-glossy.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-red-polygon-glossy/kenney-puzzle-pack-1-png-element-red-polygon-glossy.png"
           }
         ],
         "source": {
@@ -8432,6 +8662,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-red-polygon-glossy/kenney-puzzle-pack-1-png-element-red-polygon-glossy.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-red-polygon-glossy.png",
         "preview": null
       }
     },
@@ -8446,7 +8678,7 @@
         "relativePath": "PNG/Double/element_red_rectangle.png",
         "canonicalRelativePath": "PNG/element_red_rectangle.png",
         "fileName": "element_red_rectangle.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-red-rectangle.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-red-rectangle/kenney-puzzle-pack-1-png-element-red-rectangle.png",
         "file": {
           "primaryBytes": 387,
           "totalBytes": 387,
@@ -8526,7 +8758,9 @@
             "sha256": "590f1f720520e5fe00bfa30b54fe4eef694a57b2aa6a44e1f39adb03c306c440",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-red-rectangle/kenney-puzzle-pack-1-png-element-red-rectangle.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-red-rectangle/kenney-puzzle-pack-1-png-element-red-rectangle.png"
           }
         ],
         "source": {
@@ -8576,6 +8810,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-red-rectangle/kenney-puzzle-pack-1-png-element-red-rectangle.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-red-rectangle.png",
         "preview": null
       }
     },
@@ -8590,7 +8826,7 @@
         "relativePath": "PNG/Double/element_red_rectangle_glossy.png",
         "canonicalRelativePath": "PNG/element_red_rectangle_glossy.png",
         "fileName": "element_red_rectangle_glossy.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-red-rectangle-glossy.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-red-rectangle-glossy/kenney-puzzle-pack-1-png-element-red-rectangle-glossy.png",
         "file": {
           "primaryBytes": 840,
           "totalBytes": 840,
@@ -8670,7 +8906,9 @@
             "sha256": "8c34c4d4456dc32d72f8e332dfaf72a8dc726580cbabf4cd98d3dff8f0b35fa6",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-red-rectangle-glossy/kenney-puzzle-pack-1-png-element-red-rectangle-glossy.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-red-rectangle-glossy/kenney-puzzle-pack-1-png-element-red-rectangle-glossy.png"
           }
         ],
         "source": {
@@ -8721,6 +8959,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-red-rectangle-glossy/kenney-puzzle-pack-1-png-element-red-rectangle-glossy.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-red-rectangle-glossy.png",
         "preview": null
       }
     },
@@ -8735,7 +8975,7 @@
         "relativePath": "PNG/Double/element_red_square.png",
         "canonicalRelativePath": "PNG/element_red_square.png",
         "fileName": "element_red_square.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-red-square.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-red-square/kenney-puzzle-pack-1-png-element-red-square.png",
         "file": {
           "primaryBytes": 356,
           "totalBytes": 356,
@@ -8815,7 +9055,9 @@
             "sha256": "10d0078f0330d4a3d550a7ef6bce63ea94aaabbace6dcdeeca6158897c85c60f",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-red-square/kenney-puzzle-pack-1-png-element-red-square.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-red-square/kenney-puzzle-pack-1-png-element-red-square.png"
           }
         ],
         "source": {
@@ -8865,6 +9107,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-red-square/kenney-puzzle-pack-1-png-element-red-square.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-red-square.png",
         "preview": null
       }
     },
@@ -8879,7 +9123,7 @@
         "relativePath": "PNG/Double/element_red_square_glossy.png",
         "canonicalRelativePath": "PNG/element_red_square_glossy.png",
         "fileName": "element_red_square_glossy.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-red-square-glossy.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-red-square-glossy/kenney-puzzle-pack-1-png-element-red-square-glossy.png",
         "file": {
           "primaryBytes": 816,
           "totalBytes": 816,
@@ -8959,7 +9203,9 @@
             "sha256": "7f2d938ce202cc9fb24b19b141246db59ce8d8ec72b6559d95538b2b12039cce",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-red-square-glossy/kenney-puzzle-pack-1-png-element-red-square-glossy.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-red-square-glossy/kenney-puzzle-pack-1-png-element-red-square-glossy.png"
           }
         ],
         "source": {
@@ -9010,6 +9256,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-red-square-glossy/kenney-puzzle-pack-1-png-element-red-square-glossy.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-red-square-glossy.png",
         "preview": null
       }
     },
@@ -9024,7 +9272,7 @@
         "relativePath": "PNG/Double/element_yellow_diamond.png",
         "canonicalRelativePath": "PNG/element_yellow_diamond.png",
         "fileName": "element_yellow_diamond.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-yellow-diamond.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-yellow-diamond/kenney-puzzle-pack-1-png-element-yellow-diamond.png",
         "file": {
           "primaryBytes": 919,
           "totalBytes": 919,
@@ -9104,7 +9352,9 @@
             "sha256": "ac06b4a7b0f42c33e80c01f836b352075edecedb003be31c8221f045c2b2b0ef",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-yellow-diamond/kenney-puzzle-pack-1-png-element-yellow-diamond.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-yellow-diamond/kenney-puzzle-pack-1-png-element-yellow-diamond.png"
           }
         ],
         "source": {
@@ -9154,6 +9404,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-yellow-diamond/kenney-puzzle-pack-1-png-element-yellow-diamond.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-yellow-diamond.png",
         "preview": null
       }
     },
@@ -9168,7 +9420,7 @@
         "relativePath": "PNG/Double/element_yellow_diamond_glossy.png",
         "canonicalRelativePath": "PNG/element_yellow_diamond_glossy.png",
         "fileName": "element_yellow_diamond_glossy.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-yellow-diamond-glossy.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-yellow-diamond-glossy/kenney-puzzle-pack-1-png-element-yellow-diamond-glossy.png",
         "file": {
           "primaryBytes": 1803,
           "totalBytes": 1803,
@@ -9248,7 +9500,9 @@
             "sha256": "cb474bb8c1897a17d5f4faa73c8c26f685ffebc1548321a52788a04d76a7750b",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-yellow-diamond-glossy/kenney-puzzle-pack-1-png-element-yellow-diamond-glossy.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-yellow-diamond-glossy/kenney-puzzle-pack-1-png-element-yellow-diamond-glossy.png"
           }
         ],
         "source": {
@@ -9299,6 +9553,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-yellow-diamond-glossy/kenney-puzzle-pack-1-png-element-yellow-diamond-glossy.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-yellow-diamond-glossy.png",
         "preview": null
       }
     },
@@ -9313,7 +9569,7 @@
         "relativePath": "PNG/Double/element_yellow_polygon.png",
         "canonicalRelativePath": "PNG/element_yellow_polygon.png",
         "fileName": "element_yellow_polygon.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-yellow-polygon.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-yellow-polygon/kenney-puzzle-pack-1-png-element-yellow-polygon.png",
         "file": {
           "primaryBytes": 1740,
           "totalBytes": 1740,
@@ -9393,7 +9649,9 @@
             "sha256": "9f8cfcbd79ef8988593267f8e50b7d87c67873baa58ecc4b33ab27c25a77378c",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-yellow-polygon/kenney-puzzle-pack-1-png-element-yellow-polygon.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-yellow-polygon/kenney-puzzle-pack-1-png-element-yellow-polygon.png"
           }
         ],
         "source": {
@@ -9443,6 +9701,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-yellow-polygon/kenney-puzzle-pack-1-png-element-yellow-polygon.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-yellow-polygon.png",
         "preview": null
       }
     },
@@ -9457,7 +9717,7 @@
         "relativePath": "PNG/Double/element_yellow_polygon_glossy.png",
         "canonicalRelativePath": "PNG/element_yellow_polygon_glossy.png",
         "fileName": "element_yellow_polygon_glossy.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-yellow-polygon-glossy.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-yellow-polygon-glossy/kenney-puzzle-pack-1-png-element-yellow-polygon-glossy.png",
         "file": {
           "primaryBytes": 2409,
           "totalBytes": 2409,
@@ -9537,7 +9797,9 @@
             "sha256": "36f7065cd63f4c2b008bf079ca80d33731079d67b8e8d00e1089994c70d9da36",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-yellow-polygon-glossy/kenney-puzzle-pack-1-png-element-yellow-polygon-glossy.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-yellow-polygon-glossy/kenney-puzzle-pack-1-png-element-yellow-polygon-glossy.png"
           }
         ],
         "source": {
@@ -9588,6 +9850,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-yellow-polygon-glossy/kenney-puzzle-pack-1-png-element-yellow-polygon-glossy.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-yellow-polygon-glossy.png",
         "preview": null
       }
     },
@@ -9602,7 +9866,7 @@
         "relativePath": "PNG/Double/element_yellow_rectangle.png",
         "canonicalRelativePath": "PNG/element_yellow_rectangle.png",
         "fileName": "element_yellow_rectangle.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-yellow-rectangle.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-yellow-rectangle/kenney-puzzle-pack-1-png-element-yellow-rectangle.png",
         "file": {
           "primaryBytes": 387,
           "totalBytes": 387,
@@ -9682,7 +9946,9 @@
             "sha256": "c30517223388c9f064cdf9958f141cca2c625788762467fd74981a8a8349210b",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-yellow-rectangle/kenney-puzzle-pack-1-png-element-yellow-rectangle.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-yellow-rectangle/kenney-puzzle-pack-1-png-element-yellow-rectangle.png"
           }
         ],
         "source": {
@@ -9732,6 +9998,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-yellow-rectangle/kenney-puzzle-pack-1-png-element-yellow-rectangle.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-yellow-rectangle.png",
         "preview": null
       }
     },
@@ -9746,7 +10014,7 @@
         "relativePath": "PNG/Double/element_yellow_rectangle_glossy.png",
         "canonicalRelativePath": "PNG/element_yellow_rectangle_glossy.png",
         "fileName": "element_yellow_rectangle_glossy.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-yellow-rectangle-glossy.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-yellow-rectangle-glossy/kenney-puzzle-pack-1-png-element-yellow-rectangle-glossy.png",
         "file": {
           "primaryBytes": 885,
           "totalBytes": 885,
@@ -9826,7 +10094,9 @@
             "sha256": "89f005e05d176575244cc67b1caea1656b1fecd4448f323c6cee0b09224a56f3",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-yellow-rectangle-glossy/kenney-puzzle-pack-1-png-element-yellow-rectangle-glossy.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-yellow-rectangle-glossy/kenney-puzzle-pack-1-png-element-yellow-rectangle-glossy.png"
           }
         ],
         "source": {
@@ -9877,6 +10147,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-yellow-rectangle-glossy/kenney-puzzle-pack-1-png-element-yellow-rectangle-glossy.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-yellow-rectangle-glossy.png",
         "preview": null
       }
     },
@@ -9891,7 +10163,7 @@
         "relativePath": "PNG/Double/element_yellow_square.png",
         "canonicalRelativePath": "PNG/element_yellow_square.png",
         "fileName": "element_yellow_square.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-yellow-square.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-yellow-square/kenney-puzzle-pack-1-png-element-yellow-square.png",
         "file": {
           "primaryBytes": 356,
           "totalBytes": 356,
@@ -9971,7 +10243,9 @@
             "sha256": "188c3f35d070b52cf2b15741e2c75ac5fc163d4c554cd46d4a63f34bb0b566ac",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-yellow-square/kenney-puzzle-pack-1-png-element-yellow-square.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-yellow-square/kenney-puzzle-pack-1-png-element-yellow-square.png"
           }
         ],
         "source": {
@@ -10021,6 +10295,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-yellow-square/kenney-puzzle-pack-1-png-element-yellow-square.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-yellow-square.png",
         "preview": null
       }
     },
@@ -10035,7 +10311,7 @@
         "relativePath": "PNG/Double/element_yellow_square_glossy.png",
         "canonicalRelativePath": "PNG/element_yellow_square_glossy.png",
         "fileName": "element_yellow_square_glossy.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-yellow-square-glossy.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-yellow-square-glossy/kenney-puzzle-pack-1-png-element-yellow-square-glossy.png",
         "file": {
           "primaryBytes": 872,
           "totalBytes": 872,
@@ -10115,7 +10391,9 @@
             "sha256": "d0485c385a5221dc216d9dbc5edf4df5eb937b773c89d817239eb8ac75ee6371",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-yellow-square-glossy/kenney-puzzle-pack-1-png-element-yellow-square-glossy.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-yellow-square-glossy/kenney-puzzle-pack-1-png-element-yellow-square-glossy.png"
           }
         ],
         "source": {
@@ -10166,6 +10444,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-element-yellow-square-glossy/kenney-puzzle-pack-1-png-element-yellow-square-glossy.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-element-yellow-square-glossy.png",
         "preview": null
       }
     },
@@ -10180,7 +10460,7 @@
         "relativePath": "PNG/Double/hand.png",
         "canonicalRelativePath": "PNG/hand.png",
         "fileName": "hand.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-hand.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-hand/kenney-puzzle-pack-1-png-hand.png",
         "file": {
           "primaryBytes": 776,
           "totalBytes": 776,
@@ -10260,7 +10540,9 @@
             "sha256": "b2c2fb9ccb421fed7cc299ee48d9f1795f98ff9f7e30b4a8ed412b6b8ead8b8f",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-hand/kenney-puzzle-pack-1-png-hand.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-hand/kenney-puzzle-pack-1-png-hand.png"
           }
         ],
         "source": {
@@ -10309,6 +10591,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-hand/kenney-puzzle-pack-1-png-hand.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-hand.png",
         "preview": null
       }
     },
@@ -10323,7 +10607,7 @@
         "relativePath": "PNG/Double/handShadow.png",
         "canonicalRelativePath": "PNG/handShadow.png",
         "fileName": "handShadow.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-handshadow.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-handshadow/kenney-puzzle-pack-1-png-handshadow.png",
         "file": {
           "primaryBytes": 1085,
           "totalBytes": 1085,
@@ -10403,7 +10687,9 @@
             "sha256": "313eecc68783b8cf38ed284278618769c0819f199a10e7e1355f4b44530b78a8",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-handshadow/kenney-puzzle-pack-1-png-handshadow.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-handshadow/kenney-puzzle-pack-1-png-handshadow.png"
           }
         ],
         "source": {
@@ -10453,6 +10739,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-handshadow/kenney-puzzle-pack-1-png-handshadow.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-handshadow.png",
         "preview": null
       }
     },
@@ -10467,7 +10755,7 @@
         "relativePath": "PNG/Double/paddleBlu.png",
         "canonicalRelativePath": "PNG/paddleBlu.png",
         "fileName": "paddleBlu.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-paddleblu.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-paddleblu/kenney-puzzle-pack-1-png-paddleblu.png",
         "file": {
           "primaryBytes": 1219,
           "totalBytes": 1219,
@@ -10547,7 +10835,9 @@
             "sha256": "6c63da570beb91a2bea6feee37c30d8714a3240d105483f5f38ded3b13346894",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-paddleblu/kenney-puzzle-pack-1-png-paddleblu.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-paddleblu/kenney-puzzle-pack-1-png-paddleblu.png"
           }
         ],
         "source": {
@@ -10593,6 +10883,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-paddleblu/kenney-puzzle-pack-1-png-paddleblu.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-paddleblu.png",
         "preview": null
       }
     },
@@ -10607,7 +10899,7 @@
         "relativePath": "PNG/Double/paddleRed.png",
         "canonicalRelativePath": "PNG/paddleRed.png",
         "fileName": "paddleRed.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-paddlered.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-paddlered/kenney-puzzle-pack-1-png-paddlered.png",
         "file": {
           "primaryBytes": 942,
           "totalBytes": 942,
@@ -10687,7 +10979,9 @@
             "sha256": "511634607330c829a8927f833a96c6264215b3bac52ee4c0d4fcb151eb6fab74",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-paddlered/kenney-puzzle-pack-1-png-paddlered.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-paddlered/kenney-puzzle-pack-1-png-paddlered.png"
           }
         ],
         "source": {
@@ -10733,6 +11027,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-paddlered/kenney-puzzle-pack-1-png-paddlered.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-paddlered.png",
         "preview": null
       }
     },
@@ -10747,7 +11043,7 @@
         "relativePath": "PNG/Double/particleCartoonStar.png",
         "canonicalRelativePath": "PNG/particleCartoonStar.png",
         "fileName": "particleCartoonStar.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-particlecartoonstar.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-particlecartoonstar/kenney-puzzle-pack-1-png-particlecartoonstar.png",
         "file": {
           "primaryBytes": 268,
           "totalBytes": 268,
@@ -10827,7 +11123,9 @@
             "sha256": "78fa393aa7560925f5161247dfa6a00f609f9fc70761ed12fdd30a63e823d9f9",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-particlecartoonstar/kenney-puzzle-pack-1-png-particlecartoonstar.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-particlecartoonstar/kenney-puzzle-pack-1-png-particlecartoonstar.png"
           }
         ],
         "source": {
@@ -10876,6 +11174,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-particlecartoonstar/kenney-puzzle-pack-1-png-particlecartoonstar.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-particlecartoonstar.png",
         "preview": null
       }
     },
@@ -10890,7 +11190,7 @@
         "relativePath": "PNG/Double/particleSmallStar.png",
         "canonicalRelativePath": "PNG/particleSmallStar.png",
         "fileName": "particleSmallStar.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-particlesmallstar.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-particlesmallstar/kenney-puzzle-pack-1-png-particlesmallstar.png",
         "file": {
           "primaryBytes": 255,
           "totalBytes": 255,
@@ -10970,7 +11270,9 @@
             "sha256": "b42b028e60d10e09a4d77e94bbf74106cbfd2ed7c204ca687fa09f0c7c09eec7",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-particlesmallstar/kenney-puzzle-pack-1-png-particlesmallstar.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-particlesmallstar/kenney-puzzle-pack-1-png-particlesmallstar.png"
           }
         ],
         "source": {
@@ -11019,6 +11321,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-particlesmallstar/kenney-puzzle-pack-1-png-particlesmallstar.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-particlesmallstar.png",
         "preview": null
       }
     },
@@ -11033,7 +11337,7 @@
         "relativePath": "PNG/Double/particleStar.png",
         "canonicalRelativePath": "PNG/particleStar.png",
         "fileName": "particleStar.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-particlestar.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-particlestar/kenney-puzzle-pack-1-png-particlestar.png",
         "file": {
           "primaryBytes": 722,
           "totalBytes": 722,
@@ -11113,7 +11417,9 @@
             "sha256": "1a631ce3dfc6bcb0962e7b17a4c0039b7d5572952c0c0a6c0779df43c5b751c8",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-particlestar/kenney-puzzle-pack-1-png-particlestar.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-particlestar/kenney-puzzle-pack-1-png-particlestar.png"
           }
         ],
         "source": {
@@ -11161,6 +11467,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-particlestar/kenney-puzzle-pack-1-png-particlestar.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-particlestar.png",
         "preview": null
       }
     },
@@ -11175,7 +11483,7 @@
         "relativePath": "PNG/Double/pointer.png",
         "canonicalRelativePath": "PNG/pointer.png",
         "fileName": "pointer.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-pointer.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-pointer/kenney-puzzle-pack-1-png-pointer.png",
         "file": {
           "primaryBytes": 473,
           "totalBytes": 473,
@@ -11255,7 +11563,9 @@
             "sha256": "53c237b69dda42524d918d7875ce486b63cd24533a1f121b8c078e2c9e8dbc2d",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-pointer/kenney-puzzle-pack-1-png-pointer.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-pointer/kenney-puzzle-pack-1-png-pointer.png"
           }
         ],
         "source": {
@@ -11304,6 +11614,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-pointer/kenney-puzzle-pack-1-png-pointer.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-pointer.png",
         "preview": null
       }
     },
@@ -11318,7 +11630,7 @@
         "relativePath": "PNG/Double/pointer_glossy.png",
         "canonicalRelativePath": "PNG/pointer_glossy.png",
         "fileName": "pointer_glossy.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-pointer-glossy.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-pointer-glossy/kenney-puzzle-pack-1-png-pointer-glossy.png",
         "file": {
           "primaryBytes": 592,
           "totalBytes": 592,
@@ -11398,7 +11710,9 @@
             "sha256": "85e92f110938e92bf9e25d34a330b0da3ad9b94e587b5b8133759b94c3e55250",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-pointer-glossy/kenney-puzzle-pack-1-png-pointer-glossy.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-pointer-glossy/kenney-puzzle-pack-1-png-pointer-glossy.png"
           }
         ],
         "source": {
@@ -11448,6 +11762,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-pointer-glossy/kenney-puzzle-pack-1-png-pointer-glossy.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-pointer-glossy.png",
         "preview": null
       }
     },
@@ -11462,7 +11778,7 @@
         "relativePath": "PNG/Double/pointer_yellow.png",
         "canonicalRelativePath": "PNG/pointer_yellow.png",
         "fileName": "pointer_yellow.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-pointer-yellow.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-pointer-yellow/kenney-puzzle-pack-1-png-pointer-yellow.png",
         "file": {
           "primaryBytes": 599,
           "totalBytes": 599,
@@ -11542,7 +11858,9 @@
             "sha256": "5923bcf75a40ae727a3dadfa90b592662b7d835157f4a850a0dfa0eb76fc4255",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-pointer-yellow/kenney-puzzle-pack-1-png-pointer-yellow.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-pointer-yellow/kenney-puzzle-pack-1-png-pointer-yellow.png"
           }
         ],
         "source": {
@@ -11592,6 +11910,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-pointer-yellow/kenney-puzzle-pack-1-png-pointer-yellow.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-pointer-yellow.png",
         "preview": null
       }
     },
@@ -11606,7 +11926,7 @@
         "relativePath": "PNG/Double/pointerShadow.png",
         "canonicalRelativePath": "PNG/pointerShadow.png",
         "fileName": "pointerShadow.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-pointershadow.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-pointershadow/kenney-puzzle-pack-1-png-pointershadow.png",
         "file": {
           "primaryBytes": 674,
           "totalBytes": 674,
@@ -11686,7 +12006,9 @@
             "sha256": "327d804712f0571c40e02dd36aa3c3401e2b1fd104734dd0b828e5a8cc2c5a59",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-pointershadow/kenney-puzzle-pack-1-png-pointershadow.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-pointershadow/kenney-puzzle-pack-1-png-pointershadow.png"
           }
         ],
         "source": {
@@ -11736,6 +12058,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-pointershadow/kenney-puzzle-pack-1-png-pointershadow.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-pointershadow.png",
         "preview": null
       }
     },
@@ -11750,7 +12074,7 @@
         "relativePath": "PNG/Double/pointerShadow_glossy.png",
         "canonicalRelativePath": "PNG/pointerShadow_glossy.png",
         "fileName": "pointerShadow_glossy.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-pointershadow-glossy.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-pointershadow-glossy/kenney-puzzle-pack-1-png-pointershadow-glossy.png",
         "file": {
           "primaryBytes": 803,
           "totalBytes": 803,
@@ -11830,7 +12154,9 @@
             "sha256": "e301033aa694d1c755761b692c0bb3641d100d82d958bfd5a6c7ccbd683eb322",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-pointershadow-glossy/kenney-puzzle-pack-1-png-pointershadow-glossy.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-pointershadow-glossy/kenney-puzzle-pack-1-png-pointershadow-glossy.png"
           }
         ],
         "source": {
@@ -11881,6 +12207,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-pointershadow-glossy/kenney-puzzle-pack-1-png-pointershadow-glossy.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-pointershadow-glossy.png",
         "preview": null
       }
     },
@@ -11895,7 +12223,7 @@
         "relativePath": "PNG/Double/pointerShadow_yellow.png",
         "canonicalRelativePath": "PNG/pointerShadow_yellow.png",
         "fileName": "pointerShadow_yellow.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-pointershadow-yellow.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-pointershadow-yellow/kenney-puzzle-pack-1-png-pointershadow-yellow.png",
         "file": {
           "primaryBytes": 809,
           "totalBytes": 809,
@@ -11975,7 +12303,9 @@
             "sha256": "7bc0ca0880dfad4ee8717f2260f911b5b39858a82765c42166e82cd0de236542",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-pointershadow-yellow/kenney-puzzle-pack-1-png-pointershadow-yellow.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-pointershadow-yellow/kenney-puzzle-pack-1-png-pointershadow-yellow.png"
           }
         ],
         "source": {
@@ -12026,6 +12356,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-pointershadow-yellow/kenney-puzzle-pack-1-png-pointershadow-yellow.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-pointershadow-yellow.png",
         "preview": null
       }
     },
@@ -12040,7 +12372,7 @@
         "relativePath": "PNG/Double/selectorA.png",
         "canonicalRelativePath": "PNG/selectorA.png",
         "fileName": "selectorA.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-selectora.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-selectora/kenney-puzzle-pack-1-png-selectora.png",
         "file": {
           "primaryBytes": 305,
           "totalBytes": 305,
@@ -12120,7 +12452,9 @@
             "sha256": "aa75392c8de035badbdcdb73ea1b01cf7843678495eb31d001468b1f7717f1ba",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-selectora/kenney-puzzle-pack-1-png-selectora.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-selectora/kenney-puzzle-pack-1-png-selectora.png"
           }
         ],
         "source": {
@@ -12167,6 +12501,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-selectora/kenney-puzzle-pack-1-png-selectora.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-selectora.png",
         "preview": null
       }
     },
@@ -12181,7 +12517,7 @@
         "relativePath": "PNG/Double/selectorB.png",
         "canonicalRelativePath": "PNG/selectorB.png",
         "fileName": "selectorB.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-selectorb.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-selectorb/kenney-puzzle-pack-1-png-selectorb.png",
         "file": {
           "primaryBytes": 233,
           "totalBytes": 233,
@@ -12261,7 +12597,9 @@
             "sha256": "9d5c14a2018133d08010fe7efdd337020c9d2267ba4110ff64f5f79ff1018f01",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-selectorb/kenney-puzzle-pack-1-png-selectorb.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-selectorb/kenney-puzzle-pack-1-png-selectorb.png"
           }
         ],
         "source": {
@@ -12308,6 +12646,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-selectorb/kenney-puzzle-pack-1-png-selectorb.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-selectorb.png",
         "preview": null
       }
     },
@@ -12322,7 +12662,7 @@
         "relativePath": "PNG/Double/selectorC.png",
         "canonicalRelativePath": "PNG/selectorC.png",
         "fileName": "selectorC.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-selectorc.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-selectorc/kenney-puzzle-pack-1-png-selectorc.png",
         "file": {
           "primaryBytes": 213,
           "totalBytes": 213,
@@ -12402,7 +12742,9 @@
             "sha256": "6aef0ba4c0c4eaf82d43dfe80b68d63c4d44c15334e20f702088335842ecb0e6",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-selectorc/kenney-puzzle-pack-1-png-selectorc.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-selectorc/kenney-puzzle-pack-1-png-selectorc.png"
           }
         ],
         "source": {
@@ -12449,6 +12791,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-png-selectorc/kenney-puzzle-pack-1-png-selectorc.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-png-selectorc.png",
         "preview": null
       }
     },
@@ -12463,7 +12807,7 @@
         "relativePath": "Spritesheet/spritesheet_double.png",
         "canonicalRelativePath": "Spritesheet/spritesheet.png",
         "fileName": "spritesheet_double.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-spritesheet-spritesheet.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-spritesheet-spritesheet/kenney-puzzle-pack-1-spritesheet-spritesheet.png",
         "file": {
           "primaryBytes": 40909,
           "totalBytes": 48409,
@@ -13527,7 +13871,9 @@
             "sha256": "e1603de4d400079ae849684cce9387446cb24283da8677ee9a5d4fb5dcf42283",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-spritesheet-spritesheet/kenney-puzzle-pack-1-spritesheet-spritesheet.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-spritesheet-spritesheet/kenney-puzzle-pack-1-spritesheet-spritesheet.png"
           },
           {
             "kind": "atlas",
@@ -13537,7 +13883,9 @@
             "sha256": "4dc57adef8836988100a61f52a4503326aa13b9e300d4ff87c1304b15292a7ee",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-spritesheet-spritesheet/resources/Spritesheet-spritesheet_double.xml",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-spritesheet-spritesheet/resources/Spritesheet-spritesheet_double.xml"
           }
         ],
         "source": {
@@ -13616,6 +13964,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-puzzle-pack-1",
+        "publicPath": "assets/kenney-puzzle-pack-1/kenney-puzzle-pack-1-spritesheet-spritesheet/kenney-puzzle-pack-1-spritesheet-spritesheet.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-puzzle-pack-1-826b42a17016/kenney-puzzle-pack-1-spritesheet-spritesheet.png",
         "preview": null
       }
     }

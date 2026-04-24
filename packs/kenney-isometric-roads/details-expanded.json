@@ -129,7 +129,7 @@
         "relativePath": "png/beach.png",
         "canonicalRelativePath": "png/beach.png",
         "fileName": "beach.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-beach.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-beach/kenney-isometric-roads-png-beach.png",
         "file": {
           "primaryBytes": 722,
           "totalBytes": 722,
@@ -209,7 +209,9 @@
             "sha256": "ff095a0f76aa545696647c2a6a451c0817a5711096b7d290dff78fa331220e1d",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-beach/kenney-isometric-roads-png-beach.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-beach/kenney-isometric-roads-png-beach.png"
           }
         ],
         "source": {
@@ -265,6 +267,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-beach/kenney-isometric-roads-png-beach.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-beach.png",
         "preview": null
       }
     },
@@ -279,7 +283,7 @@
         "relativePath": "png/beachCornerES.png",
         "canonicalRelativePath": "png/beachCornerES.png",
         "fileName": "beachCornerES.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-beachcorneres.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-beachcorneres/kenney-isometric-roads-png-beachcorneres.png",
         "file": {
           "primaryBytes": 860,
           "totalBytes": 860,
@@ -359,7 +363,9 @@
             "sha256": "337b3d3d325e8c6323121a27fa275a0d6d74ef5c2108fd8afb4a4ebb3e765764",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-beachcorneres/kenney-isometric-roads-png-beachcorneres.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-beachcorneres/kenney-isometric-roads-png-beachcorneres.png"
           }
         ],
         "source": {
@@ -418,6 +424,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-beachcorneres/kenney-isometric-roads-png-beachcorneres.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-beachcorneres.png",
         "preview": null
       }
     },
@@ -432,7 +440,7 @@
         "relativePath": "png/beachCornerNE.png",
         "canonicalRelativePath": "png/beachCornerNE.png",
         "fileName": "beachCornerNE.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-beachcornerne.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-beachcornerne/kenney-isometric-roads-png-beachcornerne.png",
         "file": {
           "primaryBytes": 942,
           "totalBytes": 942,
@@ -512,7 +520,9 @@
             "sha256": "553820bd1dfc31304938c2c6c1004511f1c8840749eb7731969bfe4ea0fab950",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-beachcornerne/kenney-isometric-roads-png-beachcornerne.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-beachcornerne/kenney-isometric-roads-png-beachcornerne.png"
           }
         ],
         "source": {
@@ -571,6 +581,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-beachcornerne/kenney-isometric-roads-png-beachcornerne.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-beachcornerne.png",
         "preview": null
       }
     },
@@ -585,7 +597,7 @@
         "relativePath": "png/beachCornerNW.png",
         "canonicalRelativePath": "png/beachCornerNW.png",
         "fileName": "beachCornerNW.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-beachcornernw.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-beachcornernw/kenney-isometric-roads-png-beachcornernw.png",
         "file": {
           "primaryBytes": 857,
           "totalBytes": 857,
@@ -665,7 +677,9 @@
             "sha256": "8c9598dda80084d178e5fb436980988891d6cca382ad48bcd2daf601ce09138e",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-beachcornernw/kenney-isometric-roads-png-beachcornernw.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-beachcornernw/kenney-isometric-roads-png-beachcornernw.png"
           }
         ],
         "source": {
@@ -724,6 +738,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-beachcornernw/kenney-isometric-roads-png-beachcornernw.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-beachcornernw.png",
         "preview": null
       }
     },
@@ -738,7 +754,7 @@
         "relativePath": "png/beachCornerSW.png",
         "canonicalRelativePath": "png/beachCornerSW.png",
         "fileName": "beachCornerSW.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-beachcornersw.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-beachcornersw/kenney-isometric-roads-png-beachcornersw.png",
         "file": {
           "primaryBytes": 839,
           "totalBytes": 839,
@@ -818,7 +834,9 @@
             "sha256": "ff7d6f1d7566107ece2835af6cc5d82e28156100f219bb2c6fa45a44bc25e6ff",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-beachcornersw/kenney-isometric-roads-png-beachcornersw.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-beachcornersw/kenney-isometric-roads-png-beachcornersw.png"
           }
         ],
         "source": {
@@ -877,6 +895,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-beachcornersw/kenney-isometric-roads-png-beachcornersw.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-beachcornersw.png",
         "preview": null
       }
     },
@@ -891,7 +911,7 @@
         "relativePath": "png/beachE.png",
         "canonicalRelativePath": "png/beachE.png",
         "fileName": "beachE.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-beache.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-beache/kenney-isometric-roads-png-beache.png",
         "file": {
           "primaryBytes": 855,
           "totalBytes": 855,
@@ -971,7 +991,9 @@
             "sha256": "740217ef70cf7f106761285e62b7ac66ae27eeda1c8218f33e89046f5b5c6f8f",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-beache/kenney-isometric-roads-png-beache.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-beache/kenney-isometric-roads-png-beache.png"
           }
         ],
         "source": {
@@ -1027,6 +1049,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-beache/kenney-isometric-roads-png-beache.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-beache.png",
         "preview": null
       }
     },
@@ -1041,7 +1065,7 @@
         "relativePath": "png/beachES.png",
         "canonicalRelativePath": "png/beachES.png",
         "fileName": "beachES.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-beaches.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-beaches/kenney-isometric-roads-png-beaches.png",
         "file": {
           "primaryBytes": 1555,
           "totalBytes": 1555,
@@ -1121,7 +1145,9 @@
             "sha256": "f0c61c7a66ef76b5dafbb7f7f462c9febd0a9401e0ceed715fc9ec79fa2c2eb8",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-beaches/kenney-isometric-roads-png-beaches.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-beaches/kenney-isometric-roads-png-beaches.png"
           }
         ],
         "source": {
@@ -1178,6 +1204,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-beaches/kenney-isometric-roads-png-beaches.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-beaches.png",
         "preview": null
       }
     },
@@ -1192,7 +1220,7 @@
         "relativePath": "png/beachN.png",
         "canonicalRelativePath": "png/beachN.png",
         "fileName": "beachN.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-beachn.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-beachn/kenney-isometric-roads-png-beachn.png",
         "file": {
           "primaryBytes": 870,
           "totalBytes": 870,
@@ -1272,7 +1300,9 @@
             "sha256": "18d4c9e2cfa8ba785c609d277f25779c2f82ea9a8812e359576e4d53a98d835f",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-beachn/kenney-isometric-roads-png-beachn.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-beachn/kenney-isometric-roads-png-beachn.png"
           }
         ],
         "source": {
@@ -1328,6 +1358,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-beachn/kenney-isometric-roads-png-beachn.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-beachn.png",
         "preview": null
       }
     },
@@ -1342,7 +1374,7 @@
         "relativePath": "png/beachNE.png",
         "canonicalRelativePath": "png/beachNE.png",
         "fileName": "beachNE.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-beachne.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-beachne/kenney-isometric-roads-png-beachne.png",
         "file": {
           "primaryBytes": 1407,
           "totalBytes": 1407,
@@ -1422,7 +1454,9 @@
             "sha256": "21e0cd9e3cb7a1dbd9c50d2f0e859c318bb5148c3d9649afa3ce3d5c8763c9d6",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-beachne/kenney-isometric-roads-png-beachne.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-beachne/kenney-isometric-roads-png-beachne.png"
           }
         ],
         "source": {
@@ -1479,6 +1513,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-beachne/kenney-isometric-roads-png-beachne.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-beachne.png",
         "preview": null
       }
     },
@@ -1493,7 +1529,7 @@
         "relativePath": "png/beachNW.png",
         "canonicalRelativePath": "png/beachNW.png",
         "fileName": "beachNW.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-beachnw.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-beachnw/kenney-isometric-roads-png-beachnw.png",
         "file": {
           "primaryBytes": 1578,
           "totalBytes": 1578,
@@ -1573,7 +1609,9 @@
             "sha256": "4200be52208e2cce09fe58ffd94c43e17335b41149f5f71470ed508b9eb03ed7",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-beachnw/kenney-isometric-roads-png-beachnw.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-beachnw/kenney-isometric-roads-png-beachnw.png"
           }
         ],
         "source": {
@@ -1630,6 +1668,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-beachnw/kenney-isometric-roads-png-beachnw.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-beachnw.png",
         "preview": null
       }
     },
@@ -1644,7 +1684,7 @@
         "relativePath": "png/beachS.png",
         "canonicalRelativePath": "png/beachS.png",
         "fileName": "beachS.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-beachs.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-beachs/kenney-isometric-roads-png-beachs.png",
         "file": {
           "primaryBytes": 775,
           "totalBytes": 775,
@@ -1724,7 +1764,9 @@
             "sha256": "42d97e2c775e2d65f43dddef022f443377e829ef81d4ce45c01e066256c3a4e9",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-beachs/kenney-isometric-roads-png-beachs.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-beachs/kenney-isometric-roads-png-beachs.png"
           }
         ],
         "source": {
@@ -1780,6 +1822,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-beachs/kenney-isometric-roads-png-beachs.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-beachs.png",
         "preview": null
       }
     },
@@ -1794,7 +1838,7 @@
         "relativePath": "png/beachSW.png",
         "canonicalRelativePath": "png/beachSW.png",
         "fileName": "beachSW.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-beachsw.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-beachsw/kenney-isometric-roads-png-beachsw.png",
         "file": {
           "primaryBytes": 1568,
           "totalBytes": 1568,
@@ -1874,7 +1918,9 @@
             "sha256": "c8f94556a41a804280d3e262db2690a10523882c12765332e8132a403deda2b9",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-beachsw/kenney-isometric-roads-png-beachsw.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-beachsw/kenney-isometric-roads-png-beachsw.png"
           }
         ],
         "source": {
@@ -1931,6 +1977,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-beachsw/kenney-isometric-roads-png-beachsw.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-beachsw.png",
         "preview": null
       }
     },
@@ -1945,7 +1993,7 @@
         "relativePath": "png/beachW.png",
         "canonicalRelativePath": "png/beachW.png",
         "fileName": "beachW.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-beachw.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-beachw/kenney-isometric-roads-png-beachw.png",
         "file": {
           "primaryBytes": 811,
           "totalBytes": 811,
@@ -2025,7 +2073,9 @@
             "sha256": "e2de3d96420ff05229a678184b05dfaa5780900ac9b471e36ab0ccb316cffd35",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-beachw/kenney-isometric-roads-png-beachw.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-beachw/kenney-isometric-roads-png-beachw.png"
           }
         ],
         "source": {
@@ -2081,6 +2131,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-beachw/kenney-isometric-roads-png-beachw.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-beachw.png",
         "preview": null
       }
     },
@@ -2095,7 +2147,7 @@
         "relativePath": "png/bridgeEW.png",
         "canonicalRelativePath": "png/bridgeEW.png",
         "fileName": "bridgeEW.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-bridgeew.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-bridgeew/kenney-isometric-roads-png-bridgeew.png",
         "file": {
           "primaryBytes": 1149,
           "totalBytes": 1149,
@@ -2175,7 +2227,9 @@
             "sha256": "7560dee78f0428976f6afbbfc949c519393c8957f32b03c4270ebfb3a249cb93",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-bridgeew/kenney-isometric-roads-png-bridgeew.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-bridgeew/kenney-isometric-roads-png-bridgeew.png"
           }
         ],
         "source": {
@@ -2231,6 +2285,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-bridgeew/kenney-isometric-roads-png-bridgeew.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-bridgeew.png",
         "preview": null
       }
     },
@@ -2245,7 +2301,7 @@
         "relativePath": "png/bridgeNS.png",
         "canonicalRelativePath": "png/bridgeNS.png",
         "fileName": "bridgeNS.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-bridgens.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-bridgens/kenney-isometric-roads-png-bridgens.png",
         "file": {
           "primaryBytes": 1105,
           "totalBytes": 1105,
@@ -2325,7 +2381,9 @@
             "sha256": "7b427b53c809920226add72021dc5b4a29637493c38348546aa00970607a33e9",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-bridgens/kenney-isometric-roads-png-bridgens.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-bridgens/kenney-isometric-roads-png-bridgens.png"
           }
         ],
         "source": {
@@ -2381,6 +2439,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-bridgens/kenney-isometric-roads-png-bridgens.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-bridgens.png",
         "preview": null
       }
     },
@@ -2395,7 +2455,7 @@
         "relativePath": "png/coniferAltShort.png",
         "canonicalRelativePath": "png/coniferAltShort.png",
         "fileName": "coniferAltShort.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-coniferaltshort.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-coniferaltshort/kenney-isometric-roads-png-coniferaltshort.png",
         "file": {
           "primaryBytes": 1244,
           "totalBytes": 1244,
@@ -2475,7 +2535,9 @@
             "sha256": "5bd4443b36fad8e23622568f930a9591935528907c33ebbb453cbba25f64175e",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-coniferaltshort/kenney-isometric-roads-png-coniferaltshort.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-coniferaltshort/kenney-isometric-roads-png-coniferaltshort.png"
           }
         ],
         "source": {
@@ -2538,6 +2600,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-coniferaltshort/kenney-isometric-roads-png-coniferaltshort.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-coniferaltshort.png",
         "preview": null
       }
     },
@@ -2552,7 +2616,7 @@
         "relativePath": "png/coniferAltTall.png",
         "canonicalRelativePath": "png/coniferAltTall.png",
         "fileName": "coniferAltTall.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-coniferalttall.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-coniferalttall/kenney-isometric-roads-png-coniferalttall.png",
         "file": {
           "primaryBytes": 1363,
           "totalBytes": 1363,
@@ -2632,7 +2696,9 @@
             "sha256": "cb083c97faa83ab27734f442f4e64ddd632a49b35d22d2ccc54c12909a800d0f",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-coniferalttall/kenney-isometric-roads-png-coniferalttall.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-coniferalttall/kenney-isometric-roads-png-coniferalttall.png"
           }
         ],
         "source": {
@@ -2695,6 +2761,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-coniferalttall/kenney-isometric-roads-png-coniferalttall.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-coniferalttall.png",
         "preview": null
       }
     },
@@ -2709,7 +2777,7 @@
         "relativePath": "png/coniferShort.png",
         "canonicalRelativePath": "png/coniferShort.png",
         "fileName": "coniferShort.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-conifershort.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-conifershort/kenney-isometric-roads-png-conifershort.png",
         "file": {
           "primaryBytes": 1238,
           "totalBytes": 1238,
@@ -2789,7 +2857,9 @@
             "sha256": "2185826214883aba2eb8ca047025c0354311c1faf36dd8180f0776f33621ab45",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-conifershort/kenney-isometric-roads-png-conifershort.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-conifershort/kenney-isometric-roads-png-conifershort.png"
           }
         ],
         "source": {
@@ -2851,6 +2921,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-conifershort/kenney-isometric-roads-png-conifershort.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-conifershort.png",
         "preview": null
       }
     },
@@ -2865,7 +2937,7 @@
         "relativePath": "png/coniferTall.png",
         "canonicalRelativePath": "png/coniferTall.png",
         "fileName": "coniferTall.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-conifertall.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-conifertall/kenney-isometric-roads-png-conifertall.png",
         "file": {
           "primaryBytes": 1392,
           "totalBytes": 1392,
@@ -2945,7 +3017,9 @@
             "sha256": "8f6917965963a5ffcf109fe3380499f9340830608abddb1f18376a5d49c88e54",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-conifertall/kenney-isometric-roads-png-conifertall.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-conifertall/kenney-isometric-roads-png-conifertall.png"
           }
         ],
         "source": {
@@ -3007,6 +3081,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-conifertall/kenney-isometric-roads-png-conifertall.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-conifertall.png",
         "preview": null
       }
     },
@@ -3021,7 +3097,7 @@
         "relativePath": "png/crossroad.png",
         "canonicalRelativePath": "png/crossroad.png",
         "fileName": "crossroad.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-crossroad.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-crossroad/kenney-isometric-roads-png-crossroad.png",
         "file": {
           "primaryBytes": 1717,
           "totalBytes": 1717,
@@ -3101,7 +3177,9 @@
             "sha256": "06703ab74edc057d4d2b1910b4af334ee62376226de5de2715985edc0468789f",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-crossroad/kenney-isometric-roads-png-crossroad.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-crossroad/kenney-isometric-roads-png-crossroad.png"
           }
         ],
         "source": {
@@ -3158,6 +3236,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-crossroad/kenney-isometric-roads-png-crossroad.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-crossroad.png",
         "preview": null
       }
     },
@@ -3172,7 +3252,7 @@
         "relativePath": "png/crossroadESW.png",
         "canonicalRelativePath": "png/crossroadESW.png",
         "fileName": "crossroadESW.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-crossroadesw.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-crossroadesw/kenney-isometric-roads-png-crossroadesw.png",
         "file": {
           "primaryBytes": 1556,
           "totalBytes": 1556,
@@ -3252,7 +3332,9 @@
             "sha256": "35878a124caa2b918f92de048a8815f312f28e9dacbe65b5a2207ac83b5d52c5",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-crossroadesw/kenney-isometric-roads-png-crossroadesw.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-crossroadesw/kenney-isometric-roads-png-crossroadesw.png"
           }
         ],
         "source": {
@@ -3310,6 +3392,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-crossroadesw/kenney-isometric-roads-png-crossroadesw.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-crossroadesw.png",
         "preview": null
       }
     },
@@ -3324,7 +3408,7 @@
         "relativePath": "png/crossroadNES.png",
         "canonicalRelativePath": "png/crossroadNES.png",
         "fileName": "crossroadNES.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-crossroadnes.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-crossroadnes/kenney-isometric-roads-png-crossroadnes.png",
         "file": {
           "primaryBytes": 1349,
           "totalBytes": 1349,
@@ -3404,7 +3488,9 @@
             "sha256": "9f9dbe9839f3381f83a05c7a59ff0b061bda9823e3392eb47601054498b944ae",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-crossroadnes/kenney-isometric-roads-png-crossroadnes.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-crossroadnes/kenney-isometric-roads-png-crossroadnes.png"
           }
         ],
         "source": {
@@ -3462,6 +3548,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-crossroadnes/kenney-isometric-roads-png-crossroadnes.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-crossroadnes.png",
         "preview": null
       }
     },
@@ -3476,7 +3564,7 @@
         "relativePath": "png/crossroadNEW.png",
         "canonicalRelativePath": "png/crossroadNEW.png",
         "fileName": "crossroadNEW.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-crossroadnew.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-crossroadnew/kenney-isometric-roads-png-crossroadnew.png",
         "file": {
           "primaryBytes": 1397,
           "totalBytes": 1397,
@@ -3556,7 +3644,9 @@
             "sha256": "65a03aebfb14ecd995e9c64cddd2a5d0a1908802d577c6a39ddd6e45c4c9d0ef",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-crossroadnew/kenney-isometric-roads-png-crossroadnew.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-crossroadnew/kenney-isometric-roads-png-crossroadnew.png"
           }
         ],
         "source": {
@@ -3614,6 +3704,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-crossroadnew/kenney-isometric-roads-png-crossroadnew.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-crossroadnew.png",
         "preview": null
       }
     },
@@ -3628,7 +3720,7 @@
         "relativePath": "png/crossroadNSW.png",
         "canonicalRelativePath": "png/crossroadNSW.png",
         "fileName": "crossroadNSW.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-crossroadnsw.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-crossroadnsw/kenney-isometric-roads-png-crossroadnsw.png",
         "file": {
           "primaryBytes": 1571,
           "totalBytes": 1571,
@@ -3708,7 +3800,9 @@
             "sha256": "849549fc70e8e43ee76e587f2e7b44035fbbc200e1771f8318708dca3bfdfd20",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-crossroadnsw/kenney-isometric-roads-png-crossroadnsw.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-crossroadnsw/kenney-isometric-roads-png-crossroadnsw.png"
           }
         ],
         "source": {
@@ -3766,6 +3860,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-crossroadnsw/kenney-isometric-roads-png-crossroadnsw.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-crossroadnsw.png",
         "preview": null
       }
     },
@@ -3780,7 +3876,7 @@
         "relativePath": "png/dirt.png",
         "canonicalRelativePath": "png/dirt.png",
         "fileName": "dirt.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-dirt.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-dirt/kenney-isometric-roads-png-dirt.png",
         "file": {
           "primaryBytes": 618,
           "totalBytes": 618,
@@ -3860,7 +3956,9 @@
             "sha256": "0dc832c1163025d6e49d96687ea8a9facf7f955fb58a7fe2a6027a8ef68c2626",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-dirt/kenney-isometric-roads-png-dirt.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-dirt/kenney-isometric-roads-png-dirt.png"
           }
         ],
         "source": {
@@ -3916,6 +4014,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-dirt/kenney-isometric-roads-png-dirt.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-dirt.png",
         "preview": null
       }
     },
@@ -3930,7 +4030,7 @@
         "relativePath": "png/dirtDouble.png",
         "canonicalRelativePath": "png/dirtDouble.png",
         "fileName": "dirtDouble.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-dirtdouble.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-dirtdouble/kenney-isometric-roads-png-dirtdouble.png",
         "file": {
           "primaryBytes": 642,
           "totalBytes": 642,
@@ -4010,7 +4110,9 @@
             "sha256": "cb8d881ac7fdba08d995fa0131721ca413e9b1db6cc22df013cb8a09c0c94ee9",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-dirtdouble/kenney-isometric-roads-png-dirtdouble.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-dirtdouble/kenney-isometric-roads-png-dirtdouble.png"
           }
         ],
         "source": {
@@ -4066,6 +4168,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-dirtdouble/kenney-isometric-roads-png-dirtdouble.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-dirtdouble.png",
         "preview": null
       }
     },
@@ -4080,7 +4184,7 @@
         "relativePath": "png/endE.png",
         "canonicalRelativePath": "png/endE.png",
         "fileName": "endE.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-ende.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-ende/kenney-isometric-roads-png-ende.png",
         "file": {
           "primaryBytes": 992,
           "totalBytes": 992,
@@ -4160,7 +4264,9 @@
             "sha256": "aed8e61038944415aa1a22a3c5e327936755b94c93137e12d53db1efa06d42cd",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-ende/kenney-isometric-roads-png-ende.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-ende/kenney-isometric-roads-png-ende.png"
           }
         ],
         "source": {
@@ -4217,6 +4323,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-ende/kenney-isometric-roads-png-ende.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-ende.png",
         "preview": null
       }
     },
@@ -4231,7 +4339,7 @@
         "relativePath": "png/endN.png",
         "canonicalRelativePath": "png/endN.png",
         "fileName": "endN.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-endn.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-endn/kenney-isometric-roads-png-endn.png",
         "file": {
           "primaryBytes": 1011,
           "totalBytes": 1011,
@@ -4311,7 +4419,9 @@
             "sha256": "4c64d801fe9763c664840d13857d5157090ae82cc8fb6065c82c629b615c60ca",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-endn/kenney-isometric-roads-png-endn.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-endn/kenney-isometric-roads-png-endn.png"
           }
         ],
         "source": {
@@ -4368,6 +4478,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-endn/kenney-isometric-roads-png-endn.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-endn.png",
         "preview": null
       }
     },
@@ -4382,7 +4494,7 @@
         "relativePath": "png/endS.png",
         "canonicalRelativePath": "png/endS.png",
         "fileName": "endS.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-ends.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-ends/kenney-isometric-roads-png-ends.png",
         "file": {
           "primaryBytes": 1102,
           "totalBytes": 1102,
@@ -4462,7 +4574,9 @@
             "sha256": "f31d721516406d850ce27a7ba465b33acc65a6f07608bc1f4e2a83a4312cd03d",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-ends/kenney-isometric-roads-png-ends.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-ends/kenney-isometric-roads-png-ends.png"
           }
         ],
         "source": {
@@ -4519,6 +4633,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-ends/kenney-isometric-roads-png-ends.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-ends.png",
         "preview": null
       }
     },
@@ -4533,7 +4649,7 @@
         "relativePath": "png/endW.png",
         "canonicalRelativePath": "png/endW.png",
         "fileName": "endW.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-endw.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-endw/kenney-isometric-roads-png-endw.png",
         "file": {
           "primaryBytes": 1173,
           "totalBytes": 1173,
@@ -4613,7 +4729,9 @@
             "sha256": "1ae34d7d038816f7eac81549e02e7091fbf9afc94ce0c08f4dfc2ca6e6058532",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-endw/kenney-isometric-roads-png-endw.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-endw/kenney-isometric-roads-png-endw.png"
           }
         ],
         "source": {
@@ -4670,6 +4788,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-endw/kenney-isometric-roads-png-endw.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-endw.png",
         "preview": null
       }
     },
@@ -4684,7 +4804,7 @@
         "relativePath": "png/exitE.png",
         "canonicalRelativePath": "png/exitE.png",
         "fileName": "exitE.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-exite.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-exite/kenney-isometric-roads-png-exite.png",
         "file": {
           "primaryBytes": 1160,
           "totalBytes": 1160,
@@ -4764,7 +4884,9 @@
             "sha256": "f5b70d6ab86d72d96886ba736fcab5fc5602a5a1890bcfa434260098fc2ff165",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-exite/kenney-isometric-roads-png-exite.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-exite/kenney-isometric-roads-png-exite.png"
           }
         ],
         "source": {
@@ -4820,6 +4942,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-exite/kenney-isometric-roads-png-exite.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-exite.png",
         "preview": null
       }
     },
@@ -4834,7 +4958,7 @@
         "relativePath": "png/exitN.png",
         "canonicalRelativePath": "png/exitN.png",
         "fileName": "exitN.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-exitn.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-exitn/kenney-isometric-roads-png-exitn.png",
         "file": {
           "primaryBytes": 1211,
           "totalBytes": 1211,
@@ -4914,7 +5038,9 @@
             "sha256": "877f19bd4dd643733c688cf79bdca8939faf1dbe780a2486765d83f8d2867a72",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-exitn/kenney-isometric-roads-png-exitn.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-exitn/kenney-isometric-roads-png-exitn.png"
           }
         ],
         "source": {
@@ -4970,6 +5096,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-exitn/kenney-isometric-roads-png-exitn.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-exitn.png",
         "preview": null
       }
     },
@@ -4984,7 +5112,7 @@
         "relativePath": "png/exitS.png",
         "canonicalRelativePath": "png/exitS.png",
         "fileName": "exitS.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-exits.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-exits/kenney-isometric-roads-png-exits.png",
         "file": {
           "primaryBytes": 1397,
           "totalBytes": 1397,
@@ -5064,7 +5192,9 @@
             "sha256": "a67b1bb1e00ac24399afd7489e9a40e958c0c0a610f23ded6bf936db683edab1",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-exits/kenney-isometric-roads-png-exits.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-exits/kenney-isometric-roads-png-exits.png"
           }
         ],
         "source": {
@@ -5120,6 +5250,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-exits/kenney-isometric-roads-png-exits.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-exits.png",
         "preview": null
       }
     },
@@ -5134,7 +5266,7 @@
         "relativePath": "png/exitW.png",
         "canonicalRelativePath": "png/exitW.png",
         "fileName": "exitW.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-exitw.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-exitw/kenney-isometric-roads-png-exitw.png",
         "file": {
           "primaryBytes": 1364,
           "totalBytes": 1364,
@@ -5214,7 +5346,9 @@
             "sha256": "bf83f928c28f8a16399a411ca97ee77aeee6b6ccd91aaeabe849c0249330bab9",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-exitw/kenney-isometric-roads-png-exitw.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-exitw/kenney-isometric-roads-png-exitw.png"
           }
         ],
         "source": {
@@ -5270,6 +5404,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-exitw/kenney-isometric-roads-png-exitw.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-exitw.png",
         "preview": null
       }
     },
@@ -5284,7 +5420,7 @@
         "relativePath": "png/grass.png",
         "canonicalRelativePath": "png/grass.png",
         "fileName": "grass.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-grass.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-grass/kenney-isometric-roads-png-grass.png",
         "file": {
           "primaryBytes": 736,
           "totalBytes": 736,
@@ -5364,7 +5500,9 @@
             "sha256": "4f76b0cdfcbf51dd8fe75fcd3980dbd440dba26127d78c5d7ef384e14e57bbe6",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-grass/kenney-isometric-roads-png-grass.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-grass/kenney-isometric-roads-png-grass.png"
           }
         ],
         "source": {
@@ -5420,6 +5558,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-grass/kenney-isometric-roads-png-grass.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-grass.png",
         "preview": null
       }
     },
@@ -5434,7 +5574,7 @@
         "relativePath": "png/grassWhole.png",
         "canonicalRelativePath": "png/grassWhole.png",
         "fileName": "grassWhole.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-grasswhole.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-grasswhole/kenney-isometric-roads-png-grasswhole.png",
         "file": {
           "primaryBytes": 686,
           "totalBytes": 686,
@@ -5514,7 +5654,9 @@
             "sha256": "a7da168d60b06e0c880d20c0caba3bd4918800bebf4f37403e58ec9592be3cf5",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-grasswhole/kenney-isometric-roads-png-grasswhole.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-grasswhole/kenney-isometric-roads-png-grasswhole.png"
           }
         ],
         "source": {
@@ -5571,6 +5713,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-grasswhole/kenney-isometric-roads-png-grasswhole.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-grasswhole.png",
         "preview": null
       }
     },
@@ -5585,7 +5729,7 @@
         "relativePath": "png/hillE.png",
         "canonicalRelativePath": "png/hillE.png",
         "fileName": "hillE.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-hille.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-hille/kenney-isometric-roads-png-hille.png",
         "file": {
           "primaryBytes": 778,
           "totalBytes": 778,
@@ -5665,7 +5809,9 @@
             "sha256": "b0f80dd62a85bef6130331558fd3b39bf72fb542db3c07c7b80712b9a8223460",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-hille/kenney-isometric-roads-png-hille.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-hille/kenney-isometric-roads-png-hille.png"
           }
         ],
         "source": {
@@ -5722,6 +5868,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-hille/kenney-isometric-roads-png-hille.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-hille.png",
         "preview": null
       }
     },
@@ -5736,7 +5884,7 @@
         "relativePath": "png/hillES.png",
         "canonicalRelativePath": "png/hillES.png",
         "fileName": "hillES.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-hilles.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-hilles/kenney-isometric-roads-png-hilles.png",
         "file": {
           "primaryBytes": 1047,
           "totalBytes": 1047,
@@ -5816,7 +5964,9 @@
             "sha256": "2a14f2e50ec9f9429fcef007681c09e84d1359d04a0a33d1b8c498129b57b8d3",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-hilles/kenney-isometric-roads-png-hilles.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-hilles/kenney-isometric-roads-png-hilles.png"
           }
         ],
         "source": {
@@ -5874,6 +6024,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-hilles/kenney-isometric-roads-png-hilles.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-hilles.png",
         "preview": null
       }
     },
@@ -5888,7 +6040,7 @@
         "relativePath": "png/hillN.png",
         "canonicalRelativePath": "png/hillN.png",
         "fileName": "hillN.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-hilln.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-hilln/kenney-isometric-roads-png-hilln.png",
         "file": {
           "primaryBytes": 796,
           "totalBytes": 796,
@@ -5968,7 +6120,9 @@
             "sha256": "9e246c9d34e4c548dba89639f304a2e6d8d05c30761c3bfca06479a1ebe91c91",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-hilln/kenney-isometric-roads-png-hilln.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-hilln/kenney-isometric-roads-png-hilln.png"
           }
         ],
         "source": {
@@ -6025,6 +6179,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-hilln/kenney-isometric-roads-png-hilln.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-hilln.png",
         "preview": null
       }
     },
@@ -6039,7 +6195,7 @@
         "relativePath": "png/hillNE.png",
         "canonicalRelativePath": "png/hillNE.png",
         "fileName": "hillNE.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-hillne.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-hillne/kenney-isometric-roads-png-hillne.png",
         "file": {
           "primaryBytes": 872,
           "totalBytes": 872,
@@ -6119,7 +6275,9 @@
             "sha256": "38690c1195f95e4b130016e760d2127704deae002b63a005ba918fe22ebe45ab",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-hillne/kenney-isometric-roads-png-hillne.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-hillne/kenney-isometric-roads-png-hillne.png"
           }
         ],
         "source": {
@@ -6177,6 +6335,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-hillne/kenney-isometric-roads-png-hillne.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-hillne.png",
         "preview": null
       }
     },
@@ -6191,7 +6351,7 @@
         "relativePath": "png/hillNW.png",
         "canonicalRelativePath": "png/hillNW.png",
         "fileName": "hillNW.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-hillnw.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-hillnw/kenney-isometric-roads-png-hillnw.png",
         "file": {
           "primaryBytes": 945,
           "totalBytes": 945,
@@ -6271,7 +6431,9 @@
             "sha256": "ecfe7727a5f356cf78c8e576a6b71ea61969afbad04baf0608dd4f4ac41fe852",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-hillnw/kenney-isometric-roads-png-hillnw.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-hillnw/kenney-isometric-roads-png-hillnw.png"
           }
         ],
         "source": {
@@ -6329,6 +6491,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-hillnw/kenney-isometric-roads-png-hillnw.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-hillnw.png",
         "preview": null
       }
     },
@@ -6343,7 +6507,7 @@
         "relativePath": "png/hillS.png",
         "canonicalRelativePath": "png/hillS.png",
         "fileName": "hillS.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-hills.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-hills/kenney-isometric-roads-png-hills.png",
         "file": {
           "primaryBytes": 1034,
           "totalBytes": 1034,
@@ -6423,7 +6587,9 @@
             "sha256": "1d21387451022d3893c1c3248ece6d744f13c6586dd52b513955acae14492915",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-hills/kenney-isometric-roads-png-hills.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-hills/kenney-isometric-roads-png-hills.png"
           }
         ],
         "source": {
@@ -6480,6 +6646,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-hills/kenney-isometric-roads-png-hills.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-hills.png",
         "preview": null
       }
     },
@@ -6494,7 +6662,7 @@
         "relativePath": "png/hillSW.png",
         "canonicalRelativePath": "png/hillSW.png",
         "fileName": "hillSW.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-hillsw.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-hillsw/kenney-isometric-roads-png-hillsw.png",
         "file": {
           "primaryBytes": 1126,
           "totalBytes": 1126,
@@ -6574,7 +6742,9 @@
             "sha256": "bf45ada316664d0d75d88ad004e1aa4c05f91bb8d7a0f92ff0acb6b2c8b1d393",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-hillsw/kenney-isometric-roads-png-hillsw.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-hillsw/kenney-isometric-roads-png-hillsw.png"
           }
         ],
         "source": {
@@ -6632,6 +6802,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-hillsw/kenney-isometric-roads-png-hillsw.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-hillsw.png",
         "preview": null
       }
     },
@@ -6646,7 +6818,7 @@
         "relativePath": "png/hillW.png",
         "canonicalRelativePath": "png/hillW.png",
         "fileName": "hillW.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-hillw.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-hillw/kenney-isometric-roads-png-hillw.png",
         "file": {
           "primaryBytes": 1030,
           "totalBytes": 1030,
@@ -6726,7 +6898,9 @@
             "sha256": "74973bbcd8a751e825108be7c466fded1b33fa8cbe168dd8bc3293e487237ead",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-hillw/kenney-isometric-roads-png-hillw.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-hillw/kenney-isometric-roads-png-hillw.png"
           }
         ],
         "source": {
@@ -6783,6 +6957,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-hillw/kenney-isometric-roads-png-hillw.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-hillw.png",
         "preview": null
       }
     },
@@ -6797,7 +6973,7 @@
         "relativePath": "png/lotE.png",
         "canonicalRelativePath": "png/lotE.png",
         "fileName": "lotE.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-lote.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-lote/kenney-isometric-roads-png-lote.png",
         "file": {
           "primaryBytes": 997,
           "totalBytes": 997,
@@ -6877,7 +7053,9 @@
             "sha256": "4b4c97572a280eec4512858fc86f58a623a95fda747666c02c09e1c6eeebb7e4",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-lote/kenney-isometric-roads-png-lote.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-lote/kenney-isometric-roads-png-lote.png"
           }
         ],
         "source": {
@@ -6934,6 +7112,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-lote/kenney-isometric-roads-png-lote.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-lote.png",
         "preview": null
       }
     },
@@ -6948,7 +7128,7 @@
         "relativePath": "png/lotES.png",
         "canonicalRelativePath": "png/lotES.png",
         "fileName": "lotES.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-lotes.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-lotes/kenney-isometric-roads-png-lotes.png",
         "file": {
           "primaryBytes": 1129,
           "totalBytes": 1129,
@@ -7028,7 +7208,9 @@
             "sha256": "06adc8333bd4fb730f34fdc837539f0e3a2ab779c4c9cb58388431cf6c8212cc",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-lotes/kenney-isometric-roads-png-lotes.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-lotes/kenney-isometric-roads-png-lotes.png"
           }
         ],
         "source": {
@@ -7086,6 +7268,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-lotes/kenney-isometric-roads-png-lotes.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-lotes.png",
         "preview": null
       }
     },
@@ -7100,7 +7284,7 @@
         "relativePath": "png/lotN.png",
         "canonicalRelativePath": "png/lotN.png",
         "fileName": "lotN.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-lotn.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-lotn/kenney-isometric-roads-png-lotn.png",
         "file": {
           "primaryBytes": 1025,
           "totalBytes": 1025,
@@ -7180,7 +7364,9 @@
             "sha256": "7a9904d31354fda86607238a64d483eafef8a07837089dd3e0cf38a681931899",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-lotn/kenney-isometric-roads-png-lotn.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-lotn/kenney-isometric-roads-png-lotn.png"
           }
         ],
         "source": {
@@ -7237,6 +7423,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-lotn/kenney-isometric-roads-png-lotn.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-lotn.png",
         "preview": null
       }
     },
@@ -7251,7 +7439,7 @@
         "relativePath": "png/lotNE.png",
         "canonicalRelativePath": "png/lotNE.png",
         "fileName": "lotNE.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-lotne.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-lotne/kenney-isometric-roads-png-lotne.png",
         "file": {
           "primaryBytes": 1147,
           "totalBytes": 1147,
@@ -7331,7 +7519,9 @@
             "sha256": "3ecc5b27348bfb86761a1ea6d24924a1f793f4338542e3c44ca361a8726cc997",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-lotne/kenney-isometric-roads-png-lotne.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-lotne/kenney-isometric-roads-png-lotne.png"
           }
         ],
         "source": {
@@ -7389,6 +7579,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-lotne/kenney-isometric-roads-png-lotne.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-lotne.png",
         "preview": null
       }
     },
@@ -7403,7 +7595,7 @@
         "relativePath": "png/lotNW.png",
         "canonicalRelativePath": "png/lotNW.png",
         "fileName": "lotNW.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-lotnw.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-lotnw/kenney-isometric-roads-png-lotnw.png",
         "file": {
           "primaryBytes": 1040,
           "totalBytes": 1040,
@@ -7483,7 +7675,9 @@
             "sha256": "fcd36f8ddc7aba93df64fed0805d71e725d05867f83dd7ed2392eea6bccda076",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-lotnw/kenney-isometric-roads-png-lotnw.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-lotnw/kenney-isometric-roads-png-lotnw.png"
           }
         ],
         "source": {
@@ -7541,6 +7735,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-lotnw/kenney-isometric-roads-png-lotnw.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-lotnw.png",
         "preview": null
       }
     },
@@ -7555,7 +7751,7 @@
         "relativePath": "png/lotS.png",
         "canonicalRelativePath": "png/lotS.png",
         "fileName": "lotS.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-lots.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-lots/kenney-isometric-roads-png-lots.png",
         "file": {
           "primaryBytes": 1056,
           "totalBytes": 1056,
@@ -7635,7 +7831,9 @@
             "sha256": "e387469b4cbb143451d3e0def107f513a45511f864adc02cee2c7d2e93aa62bd",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-lots/kenney-isometric-roads-png-lots.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-lots/kenney-isometric-roads-png-lots.png"
           }
         ],
         "source": {
@@ -7692,6 +7890,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-lots/kenney-isometric-roads-png-lots.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-lots.png",
         "preview": null
       }
     },
@@ -7706,7 +7906,7 @@
         "relativePath": "png/lotSW.png",
         "canonicalRelativePath": "png/lotSW.png",
         "fileName": "lotSW.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-lotsw.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-lotsw/kenney-isometric-roads-png-lotsw.png",
         "file": {
           "primaryBytes": 1000,
           "totalBytes": 1000,
@@ -7786,7 +7986,9 @@
             "sha256": "84851a6dcd5daf8e18357f0677e299fcb27daaebe1f5f7f8bacce5c9d08bb7ba",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-lotsw/kenney-isometric-roads-png-lotsw.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-lotsw/kenney-isometric-roads-png-lotsw.png"
           }
         ],
         "source": {
@@ -7844,6 +8046,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-lotsw/kenney-isometric-roads-png-lotsw.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-lotsw.png",
         "preview": null
       }
     },
@@ -7858,7 +8062,7 @@
         "relativePath": "png/lotW.png",
         "canonicalRelativePath": "png/lotW.png",
         "fileName": "lotW.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-lotw.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-lotw/kenney-isometric-roads-png-lotw.png",
         "file": {
           "primaryBytes": 1017,
           "totalBytes": 1017,
@@ -7938,7 +8142,9 @@
             "sha256": "820559c79786257a1f9db5475f23de5687e87494ec7cc0ee84612aca2070578c",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-lotw/kenney-isometric-roads-png-lotw.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-lotw/kenney-isometric-roads-png-lotw.png"
           }
         ],
         "source": {
@@ -7995,6 +8201,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-lotw/kenney-isometric-roads-png-lotw.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-lotw.png",
         "preview": null
       }
     },
@@ -8009,7 +8217,7 @@
         "relativePath": "png/riverBankedES.png",
         "canonicalRelativePath": "png/riverBankedES.png",
         "fileName": "riverBankedES.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-riverbankedes.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-riverbankedes/kenney-isometric-roads-png-riverbankedes.png",
         "file": {
           "primaryBytes": 1719,
           "totalBytes": 1719,
@@ -8089,7 +8297,9 @@
             "sha256": "676a77a391733c052ab8b6a7dbfeaa4c832343f9cd86d1650386be17d105df3a",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-riverbankedes/kenney-isometric-roads-png-riverbankedes.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-riverbankedes/kenney-isometric-roads-png-riverbankedes.png"
           }
         ],
         "source": {
@@ -8148,6 +8358,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-riverbankedes/kenney-isometric-roads-png-riverbankedes.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-riverbankedes.png",
         "preview": null
       }
     },
@@ -8162,7 +8374,7 @@
         "relativePath": "png/riverBankedEW.png",
         "canonicalRelativePath": "png/riverBankedEW.png",
         "fileName": "riverBankedEW.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-riverbankedew.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-riverbankedew/kenney-isometric-roads-png-riverbankedew.png",
         "file": {
           "primaryBytes": 1314,
           "totalBytes": 1314,
@@ -8242,7 +8454,9 @@
             "sha256": "88f587c20301a3837954c1fbda3d891a4415329335a20bc4ee5f7e291c206094",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-riverbankedew/kenney-isometric-roads-png-riverbankedew.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-riverbankedew/kenney-isometric-roads-png-riverbankedew.png"
           }
         ],
         "source": {
@@ -8301,6 +8515,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-riverbankedew/kenney-isometric-roads-png-riverbankedew.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-riverbankedew.png",
         "preview": null
       }
     },
@@ -8315,7 +8531,7 @@
         "relativePath": "png/riverBankedNE.png",
         "canonicalRelativePath": "png/riverBankedNE.png",
         "fileName": "riverBankedNE.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-riverbankedne.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-riverbankedne/kenney-isometric-roads-png-riverbankedne.png",
         "file": {
           "primaryBytes": 1689,
           "totalBytes": 1689,
@@ -8395,7 +8611,9 @@
             "sha256": "300e95ddc3b10c0dfd18a85414a6626ecee2aa26807884f7632ffd010c1126d9",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-riverbankedne/kenney-isometric-roads-png-riverbankedne.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-riverbankedne/kenney-isometric-roads-png-riverbankedne.png"
           }
         ],
         "source": {
@@ -8454,6 +8672,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-riverbankedne/kenney-isometric-roads-png-riverbankedne.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-riverbankedne.png",
         "preview": null
       }
     },
@@ -8468,7 +8688,7 @@
         "relativePath": "png/riverBankedNS.png",
         "canonicalRelativePath": "png/riverBankedNS.png",
         "fileName": "riverBankedNS.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-riverbankedns.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-riverbankedns/kenney-isometric-roads-png-riverbankedns.png",
         "file": {
           "primaryBytes": 1214,
           "totalBytes": 1214,
@@ -8548,7 +8768,9 @@
             "sha256": "c6db0f4319eaff543c55eb6447227b5e48f46e85f0221260a43750d9ead84f92",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-riverbankedns/kenney-isometric-roads-png-riverbankedns.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-riverbankedns/kenney-isometric-roads-png-riverbankedns.png"
           }
         ],
         "source": {
@@ -8607,6 +8829,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-riverbankedns/kenney-isometric-roads-png-riverbankedns.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-riverbankedns.png",
         "preview": null
       }
     },
@@ -8621,7 +8845,7 @@
         "relativePath": "png/riverBankedNW.png",
         "canonicalRelativePath": "png/riverBankedNW.png",
         "fileName": "riverBankedNW.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-riverbankednw.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-riverbankednw/kenney-isometric-roads-png-riverbankednw.png",
         "file": {
           "primaryBytes": 1749,
           "totalBytes": 1749,
@@ -8701,7 +8925,9 @@
             "sha256": "42fcec9b50a8c2bb96f4488d406aa6201050aec529e387a3489a029ab07d0a87",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-riverbankednw/kenney-isometric-roads-png-riverbankednw.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-riverbankednw/kenney-isometric-roads-png-riverbankednw.png"
           }
         ],
         "source": {
@@ -8760,6 +8986,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-riverbankednw/kenney-isometric-roads-png-riverbankednw.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-riverbankednw.png",
         "preview": null
       }
     },
@@ -8774,7 +9002,7 @@
         "relativePath": "png/riverBankedSW.png",
         "canonicalRelativePath": "png/riverBankedSW.png",
         "fileName": "riverBankedSW.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-riverbankedsw.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-riverbankedsw/kenney-isometric-roads-png-riverbankedsw.png",
         "file": {
           "primaryBytes": 2151,
           "totalBytes": 2151,
@@ -8854,7 +9082,9 @@
             "sha256": "939024e6ce50c574a34348f7bffd2dbb8eee9238751332d285e4477a1dbce94e",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-riverbankedsw/kenney-isometric-roads-png-riverbankedsw.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-riverbankedsw/kenney-isometric-roads-png-riverbankedsw.png"
           }
         ],
         "source": {
@@ -8913,6 +9143,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-riverbankedsw/kenney-isometric-roads-png-riverbankedsw.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-riverbankedsw.png",
         "preview": null
       }
     },
@@ -8927,7 +9159,7 @@
         "relativePath": "png/riverES.png",
         "canonicalRelativePath": "png/riverES.png",
         "fileName": "riverES.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-riveres.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-riveres/kenney-isometric-roads-png-riveres.png",
         "file": {
           "primaryBytes": 1324,
           "totalBytes": 1324,
@@ -9007,7 +9239,9 @@
             "sha256": "8d67357194e38549d9436f1b564bdfcdc94d8eb4efdd59c4b1dde35632d91a94",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-riveres/kenney-isometric-roads-png-riveres.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-riveres/kenney-isometric-roads-png-riveres.png"
           }
         ],
         "source": {
@@ -9064,6 +9298,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-riveres/kenney-isometric-roads-png-riveres.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-riveres.png",
         "preview": null
       }
     },
@@ -9078,7 +9314,7 @@
         "relativePath": "png/riverEW.png",
         "canonicalRelativePath": "png/riverEW.png",
         "fileName": "riverEW.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-riverew.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-riverew/kenney-isometric-roads-png-riverew.png",
         "file": {
           "primaryBytes": 990,
           "totalBytes": 990,
@@ -9158,7 +9394,9 @@
             "sha256": "493f57265d52f82c10fd62a3e43676a95186304fdb794e99b4c7336a9ee590d7",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-riverew/kenney-isometric-roads-png-riverew.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-riverew/kenney-isometric-roads-png-riverew.png"
           }
         ],
         "source": {
@@ -9215,6 +9453,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-riverew/kenney-isometric-roads-png-riverew.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-riverew.png",
         "preview": null
       }
     },
@@ -9229,7 +9469,7 @@
         "relativePath": "png/riverNE.png",
         "canonicalRelativePath": "png/riverNE.png",
         "fileName": "riverNE.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-riverne.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-riverne/kenney-isometric-roads-png-riverne.png",
         "file": {
           "primaryBytes": 1290,
           "totalBytes": 1290,
@@ -9309,7 +9549,9 @@
             "sha256": "a93b4ecbac4f2bd1f9e55ffc27a293e25c9999606a68cbb66e1addb5541cb8c5",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-riverne/kenney-isometric-roads-png-riverne.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-riverne/kenney-isometric-roads-png-riverne.png"
           }
         ],
         "source": {
@@ -9366,6 +9608,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-riverne/kenney-isometric-roads-png-riverne.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-riverne.png",
         "preview": null
       }
     },
@@ -9380,7 +9624,7 @@
         "relativePath": "png/riverNS.png",
         "canonicalRelativePath": "png/riverNS.png",
         "fileName": "riverNS.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-riverns.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-riverns/kenney-isometric-roads-png-riverns.png",
         "file": {
           "primaryBytes": 927,
           "totalBytes": 927,
@@ -9460,7 +9704,9 @@
             "sha256": "df4a7498d37b999af58a4463ce2d3d812a2eb914768dcd72a5d4b04008d09f05",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-riverns/kenney-isometric-roads-png-riverns.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-riverns/kenney-isometric-roads-png-riverns.png"
           }
         ],
         "source": {
@@ -9517,6 +9763,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-riverns/kenney-isometric-roads-png-riverns.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-riverns.png",
         "preview": null
       }
     },
@@ -9531,7 +9779,7 @@
         "relativePath": "png/riverNW.png",
         "canonicalRelativePath": "png/riverNW.png",
         "fileName": "riverNW.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-rivernw.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-rivernw/kenney-isometric-roads-png-rivernw.png",
         "file": {
           "primaryBytes": 1291,
           "totalBytes": 1291,
@@ -9611,7 +9859,9 @@
             "sha256": "a1af9123036ab0b6ec4c7f76758fb8f518975a3a8862669260fedc14cac97d2e",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-rivernw/kenney-isometric-roads-png-rivernw.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-rivernw/kenney-isometric-roads-png-rivernw.png"
           }
         ],
         "source": {
@@ -9668,6 +9918,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-rivernw/kenney-isometric-roads-png-rivernw.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-rivernw.png",
         "preview": null
       }
     },
@@ -9682,7 +9934,7 @@
         "relativePath": "png/riverSW.png",
         "canonicalRelativePath": "png/riverSW.png",
         "fileName": "riverSW.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-riversw.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-riversw/kenney-isometric-roads-png-riversw.png",
         "file": {
           "primaryBytes": 1501,
           "totalBytes": 1501,
@@ -9762,7 +10014,9 @@
             "sha256": "5c44c7182ba6f7a870a1cb2fc8f6f9e3baba7eef25a732c25800a4e54747bb3b",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-riversw/kenney-isometric-roads-png-riversw.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-riversw/kenney-isometric-roads-png-riversw.png"
           }
         ],
         "source": {
@@ -9819,6 +10073,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-riversw/kenney-isometric-roads-png-riversw.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-riversw.png",
         "preview": null
       }
     },
@@ -9833,7 +10089,7 @@
         "relativePath": "png/road.png",
         "canonicalRelativePath": "png/road.png",
         "fileName": "road.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-road.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-road/kenney-isometric-roads-png-road.png",
         "file": {
           "primaryBytes": 739,
           "totalBytes": 739,
@@ -9913,7 +10169,9 @@
             "sha256": "6cff0d8fea86a1bdb9ef69fb497e99c2ae0c94cc35f7642d1f549d7f9ef0a2d8",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-road/kenney-isometric-roads-png-road.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-road/kenney-isometric-roads-png-road.png"
           }
         ],
         "source": {
@@ -9967,6 +10225,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-road/kenney-isometric-roads-png-road.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-road.png",
         "preview": null
       }
     },
@@ -9981,7 +10241,7 @@
         "relativePath": "png/roadES.png",
         "canonicalRelativePath": "png/roadES.png",
         "fileName": "roadES.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-roades.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-roades/kenney-isometric-roads-png-roades.png",
         "file": {
           "primaryBytes": 1598,
           "totalBytes": 1598,
@@ -10061,7 +10321,9 @@
             "sha256": "2805f41ad5e61a536ecf85a3f3729f877178021e26f50f04735ef2eac8f52a80",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-roades/kenney-isometric-roads-png-roades.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-roades/kenney-isometric-roads-png-roades.png"
           }
         ],
         "source": {
@@ -10116,6 +10378,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-roades/kenney-isometric-roads-png-roades.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-roades.png",
         "preview": null
       }
     },
@@ -10130,7 +10394,7 @@
         "relativePath": "png/roadEW.png",
         "canonicalRelativePath": "png/roadEW.png",
         "fileName": "roadEW.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-roadew.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-roadew/kenney-isometric-roads-png-roadew.png",
         "file": {
           "primaryBytes": 1232,
           "totalBytes": 1232,
@@ -10210,7 +10474,9 @@
             "sha256": "1517f8b0d596cfa351bb4bbdfdf5c22f29faeae54622c4b3b32935d347fa2a64",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-roadew/kenney-isometric-roads-png-roadew.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-roadew/kenney-isometric-roads-png-roadew.png"
           }
         ],
         "source": {
@@ -10265,6 +10531,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-roadew/kenney-isometric-roads-png-roadew.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-roadew.png",
         "preview": null
       }
     },
@@ -10279,7 +10547,7 @@
         "relativePath": "png/roadHill2E.png",
         "canonicalRelativePath": "png/roadHill2E.png",
         "fileName": "roadHill2E.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-roadhill2e.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-roadhill2e/kenney-isometric-roads-png-roadhill2e.png",
         "file": {
           "primaryBytes": 1521,
           "totalBytes": 1521,
@@ -10359,7 +10627,9 @@
             "sha256": "6a92ead6e4ad4ec34c896a7bc24c814a19eca4e31f9ecf95673c74517edbcf6c",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-roadhill2e/kenney-isometric-roads-png-roadhill2e.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-roadhill2e/kenney-isometric-roads-png-roadhill2e.png"
           }
         ],
         "source": {
@@ -10418,6 +10688,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-roadhill2e/kenney-isometric-roads-png-roadhill2e.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-roadhill2e.png",
         "preview": null
       }
     },
@@ -10432,7 +10704,7 @@
         "relativePath": "png/roadHill2N.png",
         "canonicalRelativePath": "png/roadHill2N.png",
         "fileName": "roadHill2N.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-roadhill2n.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-roadhill2n/kenney-isometric-roads-png-roadhill2n.png",
         "file": {
           "primaryBytes": 1412,
           "totalBytes": 1412,
@@ -10512,7 +10784,9 @@
             "sha256": "718a7ae40ffde15b4d7cd3c288183d9c5f10784ecba0bd3b8147fafd58d2c4f8",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-roadhill2n/kenney-isometric-roads-png-roadhill2n.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-roadhill2n/kenney-isometric-roads-png-roadhill2n.png"
           }
         ],
         "source": {
@@ -10571,6 +10845,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-roadhill2n/kenney-isometric-roads-png-roadhill2n.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-roadhill2n.png",
         "preview": null
       }
     },
@@ -10585,7 +10861,7 @@
         "relativePath": "png/roadHill2S.png",
         "canonicalRelativePath": "png/roadHill2S.png",
         "fileName": "roadHill2S.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-roadhill2s.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-roadhill2s/kenney-isometric-roads-png-roadhill2s.png",
         "file": {
           "primaryBytes": 1481,
           "totalBytes": 1481,
@@ -10665,7 +10941,9 @@
             "sha256": "9c050318953872e19d8bfda7d38b1d754d68c874fdf0d5726e5e8fa678235aa9",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-roadhill2s/kenney-isometric-roads-png-roadhill2s.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-roadhill2s/kenney-isometric-roads-png-roadhill2s.png"
           }
         ],
         "source": {
@@ -10724,6 +11002,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-roadhill2s/kenney-isometric-roads-png-roadhill2s.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-roadhill2s.png",
         "preview": null
       }
     },
@@ -10738,7 +11018,7 @@
         "relativePath": "png/roadHill2W.png",
         "canonicalRelativePath": "png/roadHill2W.png",
         "fileName": "roadHill2W.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-roadhill2w.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-roadhill2w/kenney-isometric-roads-png-roadhill2w.png",
         "file": {
           "primaryBytes": 1585,
           "totalBytes": 1585,
@@ -10818,7 +11098,9 @@
             "sha256": "eee86488195995496dc4c86dfa61813bdceee0805bcca9d968898524e1f01460",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-roadhill2w/kenney-isometric-roads-png-roadhill2w.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-roadhill2w/kenney-isometric-roads-png-roadhill2w.png"
           }
         ],
         "source": {
@@ -10877,6 +11159,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-roadhill2w/kenney-isometric-roads-png-roadhill2w.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-roadhill2w.png",
         "preview": null
       }
     },
@@ -10891,7 +11175,7 @@
         "relativePath": "png/roadHillE.png",
         "canonicalRelativePath": "png/roadHillE.png",
         "fileName": "roadHillE.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-roadhille.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-roadhille/kenney-isometric-roads-png-roadhille.png",
         "file": {
           "primaryBytes": 1329,
           "totalBytes": 1329,
@@ -10971,7 +11255,9 @@
             "sha256": "556242b63b882a62352a63c2c0c8c160172cc7e88353defc03950959031dc82a",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-roadhille/kenney-isometric-roads-png-roadhille.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-roadhille/kenney-isometric-roads-png-roadhille.png"
           }
         ],
         "source": {
@@ -11027,6 +11313,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-roadhille/kenney-isometric-roads-png-roadhille.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-roadhille.png",
         "preview": null
       }
     },
@@ -11041,7 +11329,7 @@
         "relativePath": "png/roadHillN.png",
         "canonicalRelativePath": "png/roadHillN.png",
         "fileName": "roadHillN.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-roadhilln.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-roadhilln/kenney-isometric-roads-png-roadhilln.png",
         "file": {
           "primaryBytes": 1255,
           "totalBytes": 1255,
@@ -11121,7 +11409,9 @@
             "sha256": "3741a7c5b4a0d3fd71e938580bd595df22d3ebea6c410fb185353390c5bb1f7d",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-roadhilln/kenney-isometric-roads-png-roadhilln.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-roadhilln/kenney-isometric-roads-png-roadhilln.png"
           }
         ],
         "source": {
@@ -11177,6 +11467,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-roadhilln/kenney-isometric-roads-png-roadhilln.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-roadhilln.png",
         "preview": null
       }
     },
@@ -11191,7 +11483,7 @@
         "relativePath": "png/roadHillS.png",
         "canonicalRelativePath": "png/roadHillS.png",
         "fileName": "roadHillS.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-roadhills.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-roadhills/kenney-isometric-roads-png-roadhills.png",
         "file": {
           "primaryBytes": 1564,
           "totalBytes": 1564,
@@ -11271,7 +11563,9 @@
             "sha256": "4b5b31b22f8c789aa4db3ff4b53bf14bb19d256fba332ea9dae83cc474490d60",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-roadhills/kenney-isometric-roads-png-roadhills.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-roadhills/kenney-isometric-roads-png-roadhills.png"
           }
         ],
         "source": {
@@ -11327,6 +11621,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-roadhills/kenney-isometric-roads-png-roadhills.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-roadhills.png",
         "preview": null
       }
     },
@@ -11341,7 +11637,7 @@
         "relativePath": "png/roadHillW.png",
         "canonicalRelativePath": "png/roadHillW.png",
         "fileName": "roadHillW.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-roadhillw.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-roadhillw/kenney-isometric-roads-png-roadhillw.png",
         "file": {
           "primaryBytes": 1665,
           "totalBytes": 1665,
@@ -11421,7 +11717,9 @@
             "sha256": "4f6525e516ad39477d17a421ab08976fe18a2dfad349ecb14df80975e53b1418",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-roadhillw/kenney-isometric-roads-png-roadhillw.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-roadhillw/kenney-isometric-roads-png-roadhillw.png"
           }
         ],
         "source": {
@@ -11477,6 +11775,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-roadhillw/kenney-isometric-roads-png-roadhillw.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-roadhillw.png",
         "preview": null
       }
     },
@@ -11491,7 +11791,7 @@
         "relativePath": "png/roadNE.png",
         "canonicalRelativePath": "png/roadNE.png",
         "fileName": "roadNE.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-roadne.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-roadne/kenney-isometric-roads-png-roadne.png",
         "file": {
           "primaryBytes": 1449,
           "totalBytes": 1449,
@@ -11571,7 +11871,9 @@
             "sha256": "6c1e0ef1c0ddc852ed890da992447a7f81967ad7e39e26b88f1fe180f3fbf57e",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-roadne/kenney-isometric-roads-png-roadne.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-roadne/kenney-isometric-roads-png-roadne.png"
           }
         ],
         "source": {
@@ -11626,6 +11928,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-roadne/kenney-isometric-roads-png-roadne.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-roadne.png",
         "preview": null
       }
     },
@@ -11640,7 +11944,7 @@
         "relativePath": "png/roadNS.png",
         "canonicalRelativePath": "png/roadNS.png",
         "fileName": "roadNS.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-roadns.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-roadns/kenney-isometric-roads-png-roadns.png",
         "file": {
           "primaryBytes": 1178,
           "totalBytes": 1178,
@@ -11720,7 +12024,9 @@
             "sha256": "851f1934249a6bd8c9193eb51e30ad8a0b48860b5042d807a77888053d12d064",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-roadns/kenney-isometric-roads-png-roadns.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-roadns/kenney-isometric-roads-png-roadns.png"
           }
         ],
         "source": {
@@ -11775,6 +12081,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-roadns/kenney-isometric-roads-png-roadns.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-roadns.png",
         "preview": null
       }
     },
@@ -11789,7 +12097,7 @@
         "relativePath": "png/roadNW.png",
         "canonicalRelativePath": "png/roadNW.png",
         "fileName": "roadNW.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-roadnw.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-roadnw/kenney-isometric-roads-png-roadnw.png",
         "file": {
           "primaryBytes": 1652,
           "totalBytes": 1652,
@@ -11869,7 +12177,9 @@
             "sha256": "fd989ef020559809579c30c1d269ae9f405bd805eff53d2bb5c7ac0379cab8eb",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-roadnw/kenney-isometric-roads-png-roadnw.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-roadnw/kenney-isometric-roads-png-roadnw.png"
           }
         ],
         "source": {
@@ -11924,6 +12234,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-roadnw/kenney-isometric-roads-png-roadnw.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-roadnw.png",
         "preview": null
       }
     },
@@ -11938,7 +12250,7 @@
         "relativePath": "png/roadSW.png",
         "canonicalRelativePath": "png/roadSW.png",
         "fileName": "roadSW.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-roadsw.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-roadsw/kenney-isometric-roads-png-roadsw.png",
         "file": {
           "primaryBytes": 1699,
           "totalBytes": 1699,
@@ -12018,7 +12330,9 @@
             "sha256": "b3f59c577ca412393afa95b7231c193eb1d165695e5689221907dac731a1e60b",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-roadsw/kenney-isometric-roads-png-roadsw.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-roadsw/kenney-isometric-roads-png-roadsw.png"
           }
         ],
         "source": {
@@ -12073,6 +12387,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-roadsw/kenney-isometric-roads-png-roadsw.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-roadsw.png",
         "preview": null
       }
     },
@@ -12087,7 +12403,7 @@
         "relativePath": "png/treeAltShort.png",
         "canonicalRelativePath": "png/treeAltShort.png",
         "fileName": "treeAltShort.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-treealtshort.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-treealtshort/kenney-isometric-roads-png-treealtshort.png",
         "file": {
           "primaryBytes": 1166,
           "totalBytes": 1166,
@@ -12167,7 +12483,9 @@
             "sha256": "3913415d8fc9fbcd789cc914f525acb229020c59132f45536cd277acdb743884",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-treealtshort/kenney-isometric-roads-png-treealtshort.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-treealtshort/kenney-isometric-roads-png-treealtshort.png"
           }
         ],
         "source": {
@@ -12228,6 +12546,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-treealtshort/kenney-isometric-roads-png-treealtshort.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-treealtshort.png",
         "preview": null
       }
     },
@@ -12242,7 +12562,7 @@
         "relativePath": "png/treeAltTall.png",
         "canonicalRelativePath": "png/treeAltTall.png",
         "fileName": "treeAltTall.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-treealttall.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-treealttall/kenney-isometric-roads-png-treealttall.png",
         "file": {
           "primaryBytes": 1159,
           "totalBytes": 1159,
@@ -12322,7 +12642,9 @@
             "sha256": "417f1cff32ba3b56a98f6699ba377288f12031daaa31be77e0d32d4e8bbff190",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-treealttall/kenney-isometric-roads-png-treealttall.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-treealttall/kenney-isometric-roads-png-treealttall.png"
           }
         ],
         "source": {
@@ -12383,6 +12705,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-treealttall/kenney-isometric-roads-png-treealttall.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-treealttall.png",
         "preview": null
       }
     },
@@ -12397,7 +12721,7 @@
         "relativePath": "png/treeShort.png",
         "canonicalRelativePath": "png/treeShort.png",
         "fileName": "treeShort.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-treeshort.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-treeshort/kenney-isometric-roads-png-treeshort.png",
         "file": {
           "primaryBytes": 1173,
           "totalBytes": 1173,
@@ -12477,7 +12801,9 @@
             "sha256": "85e29a5aca3e48f3175d8054e40cf09c508bf06839274c179869b516e4e50291",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-treeshort/kenney-isometric-roads-png-treeshort.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-treeshort/kenney-isometric-roads-png-treeshort.png"
           }
         ],
         "source": {
@@ -12537,6 +12863,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-treeshort/kenney-isometric-roads-png-treeshort.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-treeshort.png",
         "preview": null
       }
     },
@@ -12551,7 +12879,7 @@
         "relativePath": "png/treeTall.png",
         "canonicalRelativePath": "png/treeTall.png",
         "fileName": "treeTall.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-treetall.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-treetall/kenney-isometric-roads-png-treetall.png",
         "file": {
           "primaryBytes": 1184,
           "totalBytes": 1184,
@@ -12631,7 +12959,9 @@
             "sha256": "c354c5da734fcdfaad75ec397400cfbe880560f7e5806b8f1a3ad6056f7dfd6c",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-treetall/kenney-isometric-roads-png-treetall.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-treetall/kenney-isometric-roads-png-treetall.png"
           }
         ],
         "source": {
@@ -12691,6 +13021,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-treetall/kenney-isometric-roads-png-treetall.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-treetall.png",
         "preview": null
       }
     },
@@ -12705,7 +13037,7 @@
         "relativePath": "png/water.png",
         "canonicalRelativePath": "png/water.png",
         "fileName": "water.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-water.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-water/kenney-isometric-roads-png-water.png",
         "file": {
           "primaryBytes": 614,
           "totalBytes": 614,
@@ -12785,7 +13117,9 @@
             "sha256": "8a7000511ee9879ff4f357bf30b97195526db6af161aa37c894094f0dcd3204c",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-water/kenney-isometric-roads-png-water.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-water/kenney-isometric-roads-png-water.png"
           }
         ],
         "source": {
@@ -12840,6 +13174,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-water/kenney-isometric-roads-png-water.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-water.png",
         "preview": null
       }
     },
@@ -12854,7 +13190,7 @@
         "relativePath": "png/waterCornerES.png",
         "canonicalRelativePath": "png/waterCornerES.png",
         "fileName": "waterCornerES.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-watercorneres.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-watercorneres/kenney-isometric-roads-png-watercorneres.png",
         "file": {
           "primaryBytes": 880,
           "totalBytes": 880,
@@ -12934,7 +13270,9 @@
             "sha256": "e3123f12d76a4d33bd66078f3ed78cd3c703cd7e90d3b06ee984c55e6d01a8cc",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-watercorneres/kenney-isometric-roads-png-watercorneres.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-watercorneres/kenney-isometric-roads-png-watercorneres.png"
           }
         ],
         "source": {
@@ -12992,6 +13330,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-watercorneres/kenney-isometric-roads-png-watercorneres.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-watercorneres.png",
         "preview": null
       }
     },
@@ -13006,7 +13346,7 @@
         "relativePath": "png/waterCornerNE.png",
         "canonicalRelativePath": "png/waterCornerNE.png",
         "fileName": "waterCornerNE.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-watercornerne.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-watercornerne/kenney-isometric-roads-png-watercornerne.png",
         "file": {
           "primaryBytes": 951,
           "totalBytes": 951,
@@ -13086,7 +13426,9 @@
             "sha256": "d9eb40a612b9130a0dfea8332d1fcb1bf02be3e2d1e2cd17c500d13b23267ab5",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-watercornerne/kenney-isometric-roads-png-watercornerne.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-watercornerne/kenney-isometric-roads-png-watercornerne.png"
           }
         ],
         "source": {
@@ -13144,6 +13486,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-watercornerne/kenney-isometric-roads-png-watercornerne.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-watercornerne.png",
         "preview": null
       }
     },
@@ -13158,7 +13502,7 @@
         "relativePath": "png/waterCornerNW.png",
         "canonicalRelativePath": "png/waterCornerNW.png",
         "fileName": "waterCornerNW.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-watercornernw.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-watercornernw/kenney-isometric-roads-png-watercornernw.png",
         "file": {
           "primaryBytes": 851,
           "totalBytes": 851,
@@ -13238,7 +13582,9 @@
             "sha256": "f71fc8a4b625e7f4397d190ebfa85fda02e73c93a01024e8efa321e978aa071a",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-watercornernw/kenney-isometric-roads-png-watercornernw.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-watercornernw/kenney-isometric-roads-png-watercornernw.png"
           }
         ],
         "source": {
@@ -13296,6 +13642,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-watercornernw/kenney-isometric-roads-png-watercornernw.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-watercornernw.png",
         "preview": null
       }
     },
@@ -13310,7 +13658,7 @@
         "relativePath": "png/waterCornerSW.png",
         "canonicalRelativePath": "png/waterCornerSW.png",
         "fileName": "waterCornerSW.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-watercornersw.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-watercornersw/kenney-isometric-roads-png-watercornersw.png",
         "file": {
           "primaryBytes": 846,
           "totalBytes": 846,
@@ -13390,7 +13738,9 @@
             "sha256": "61c34607344890b693f2862735939f1f98e87c46aa61dfb50fa9060aa305909f",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-watercornersw/kenney-isometric-roads-png-watercornersw.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-watercornersw/kenney-isometric-roads-png-watercornersw.png"
           }
         ],
         "source": {
@@ -13448,6 +13798,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-watercornersw/kenney-isometric-roads-png-watercornersw.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-watercornersw.png",
         "preview": null
       }
     },
@@ -13462,7 +13814,7 @@
         "relativePath": "png/waterE.png",
         "canonicalRelativePath": "png/waterE.png",
         "fileName": "waterE.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-watere.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-watere/kenney-isometric-roads-png-watere.png",
         "file": {
           "primaryBytes": 806,
           "totalBytes": 806,
@@ -13542,7 +13894,9 @@
             "sha256": "27136ebde69232e4b31616770e579a4ae067c7ae57a7628ffd26ab6f9e97ad11",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-watere/kenney-isometric-roads-png-watere.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-watere/kenney-isometric-roads-png-watere.png"
           }
         ],
         "source": {
@@ -13597,6 +13951,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-watere/kenney-isometric-roads-png-watere.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-watere.png",
         "preview": null
       }
     },
@@ -13611,7 +13967,7 @@
         "relativePath": "png/waterES.png",
         "canonicalRelativePath": "png/waterES.png",
         "fileName": "waterES.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-wateres.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-wateres/kenney-isometric-roads-png-wateres.png",
         "file": {
           "primaryBytes": 1128,
           "totalBytes": 1128,
@@ -13691,7 +14047,9 @@
             "sha256": "001dc2276430315a53ce5a40df36526dafa37785e2ab02b28864862efe5aa1a1",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-wateres/kenney-isometric-roads-png-wateres.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-wateres/kenney-isometric-roads-png-wateres.png"
           }
         ],
         "source": {
@@ -13747,6 +14105,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-wateres/kenney-isometric-roads-png-wateres.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-wateres.png",
         "preview": null
       }
     },
@@ -13761,7 +14121,7 @@
         "relativePath": "png/waterN.png",
         "canonicalRelativePath": "png/waterN.png",
         "fileName": "waterN.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-watern.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-watern/kenney-isometric-roads-png-watern.png",
         "file": {
           "primaryBytes": 841,
           "totalBytes": 841,
@@ -13841,7 +14201,9 @@
             "sha256": "fb5de6615841d3142930065bddf25bc13a560becf0a5e52a61f479430d8ab75d",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-watern/kenney-isometric-roads-png-watern.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-watern/kenney-isometric-roads-png-watern.png"
           }
         ],
         "source": {
@@ -13896,6 +14258,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-watern/kenney-isometric-roads-png-watern.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-watern.png",
         "preview": null
       }
     },
@@ -13910,7 +14274,7 @@
         "relativePath": "png/waterNE.png",
         "canonicalRelativePath": "png/waterNE.png",
         "fileName": "waterNE.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-waterne.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-waterne/kenney-isometric-roads-png-waterne.png",
         "file": {
           "primaryBytes": 1294,
           "totalBytes": 1294,
@@ -13990,7 +14354,9 @@
             "sha256": "a9d28b4b5ac357818ce64689293d30f84c41ff409421bdfd9cfdc65f49bad4de",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-waterne/kenney-isometric-roads-png-waterne.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-waterne/kenney-isometric-roads-png-waterne.png"
           }
         ],
         "source": {
@@ -14046,6 +14412,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-waterne/kenney-isometric-roads-png-waterne.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-waterne.png",
         "preview": null
       }
     },
@@ -14060,7 +14428,7 @@
         "relativePath": "png/waterNW.png",
         "canonicalRelativePath": "png/waterNW.png",
         "fileName": "waterNW.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-waternw.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-waternw/kenney-isometric-roads-png-waternw.png",
         "file": {
           "primaryBytes": 1103,
           "totalBytes": 1103,
@@ -14140,7 +14508,9 @@
             "sha256": "01c4bb0cc0ab0a2d7c7b6e9213eebc35efa907ffccd13bfad01c19d03c2cd5c4",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-waternw/kenney-isometric-roads-png-waternw.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-waternw/kenney-isometric-roads-png-waternw.png"
           }
         ],
         "source": {
@@ -14196,6 +14566,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-waternw/kenney-isometric-roads-png-waternw.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-waternw.png",
         "preview": null
       }
     },
@@ -14210,7 +14582,7 @@
         "relativePath": "png/waterS.png",
         "canonicalRelativePath": "png/waterS.png",
         "fileName": "waterS.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-waters.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-waters/kenney-isometric-roads-png-waters.png",
         "file": {
           "primaryBytes": 802,
           "totalBytes": 802,
@@ -14290,7 +14662,9 @@
             "sha256": "b4841dd2b828900f2ea6ac4e00c3c6532eafc4e2469c823f70330eca91de5240",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-waters/kenney-isometric-roads-png-waters.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-waters/kenney-isometric-roads-png-waters.png"
           }
         ],
         "source": {
@@ -14345,6 +14719,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-waters/kenney-isometric-roads-png-waters.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-waters.png",
         "preview": null
       }
     },
@@ -14359,7 +14735,7 @@
         "relativePath": "png/waterSW.png",
         "canonicalRelativePath": "png/waterSW.png",
         "fileName": "waterSW.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-watersw.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-watersw/kenney-isometric-roads-png-watersw.png",
         "file": {
           "primaryBytes": 983,
           "totalBytes": 983,
@@ -14439,7 +14815,9 @@
             "sha256": "1fee736dcbbb02d398db5511945dc5ba3ae17e184307d7bb61cacba20bc3196c",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-watersw/kenney-isometric-roads-png-watersw.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-watersw/kenney-isometric-roads-png-watersw.png"
           }
         ],
         "source": {
@@ -14495,6 +14873,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-watersw/kenney-isometric-roads-png-watersw.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-watersw.png",
         "preview": null
       }
     },
@@ -14509,7 +14889,7 @@
         "relativePath": "png/waterW.png",
         "canonicalRelativePath": "png/waterW.png",
         "fileName": "waterW.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-waterw.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-waterw/kenney-isometric-roads-png-waterw.png",
         "file": {
           "primaryBytes": 780,
           "totalBytes": 780,
@@ -14589,7 +14969,9 @@
             "sha256": "874ced12cdd25b2c24b142137ae337c6c43d996e7da4d419589bfba9da0b23ed",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-waterw/kenney-isometric-roads-png-waterw.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-isometric-roads/kenney-isometric-roads-png-waterw/kenney-isometric-roads-png-waterw.png"
           }
         ],
         "source": {
@@ -14644,6 +15026,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-isometric-roads",
+        "publicPath": "assets/kenney-isometric-roads/kenney-isometric-roads-png-waterw/kenney-isometric-roads-png-waterw.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-isometric-roads-43254683662d/kenney-isometric-roads-png-waterw.png",
         "preview": null
       }
     }

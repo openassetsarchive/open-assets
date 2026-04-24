@@ -131,7 +131,7 @@
         "relativePath": "Spritesheet/aliens.png",
         "canonicalRelativePath": "Spritesheet/aliens.png",
         "fileName": "aliens.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-spritesheet-aliens.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-spritesheet-aliens/kenney-hexagon-tiles-spritesheet-aliens.png",
         "file": {
           "primaryBytes": 7547,
           "totalBytes": 7964,
@@ -285,7 +285,9 @@
             "sha256": "6df80abf92187623ec710094d3e69cdd5140bf0957340b38a7cba82b417f4e2c",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-spritesheet-aliens/kenney-hexagon-tiles-spritesheet-aliens.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-spritesheet-aliens/kenney-hexagon-tiles-spritesheet-aliens.png"
           },
           {
             "kind": "atlas",
@@ -295,7 +297,9 @@
             "sha256": "d737f515b222d02531d6844f69b489064f457bf4006ec934c308a550f1659ae7",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-spritesheet-aliens/resources/Spritesheet-aliens.xml",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-spritesheet-aliens/resources/Spritesheet-aliens.xml"
           }
         ],
         "source": {
@@ -361,6 +365,8 @@
         ],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-spritesheet-aliens/kenney-hexagon-tiles-spritesheet-aliens.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-spritesheet-aliens.png",
         "preview": null
       }
     },
@@ -375,7 +381,7 @@
         "relativePath": "Spritesheet/complete.png",
         "canonicalRelativePath": "Spritesheet/complete.png",
         "fileName": "complete.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-spritesheet-complete.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-spritesheet-complete/kenney-hexagon-tiles-spritesheet-complete.png",
         "file": {
           "primaryBytes": 68762,
           "totalBytes": 76003,
@@ -1516,7 +1522,9 @@
             "sha256": "49517fcd1db179a5e1dd3ad992a37945fb1d260fb8348cedeb87a32a38cdd76c",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-spritesheet-complete/kenney-hexagon-tiles-spritesheet-complete.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-spritesheet-complete/kenney-hexagon-tiles-spritesheet-complete.png"
           },
           {
             "kind": "atlas",
@@ -1526,7 +1534,9 @@
             "sha256": "422853ef294fc4b2abe3bdbb475e6c8d320c6631b3b7b657dde8a7b2e6d91289",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-spritesheet-complete/resources/Spritesheet-complete.xml",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-spritesheet-complete/resources/Spritesheet-complete.xml"
           }
         ],
         "source": {
@@ -1619,6 +1629,8 @@
         ],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-spritesheet-complete/kenney-hexagon-tiles-spritesheet-complete.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-spritesheet-complete.png",
         "preview": null
       }
     },
@@ -1633,7 +1645,7 @@
         "relativePath": "Spritesheet/details.png",
         "canonicalRelativePath": "Spritesheet/details.png",
         "fileName": "details.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-spritesheet-details.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-spritesheet-details/kenney-hexagon-tiles-spritesheet-details.png",
         "file": {
           "primaryBytes": 6220,
           "totalBytes": 7961,
@@ -2003,7 +2015,9 @@
             "sha256": "9e1b0c5a5995f6d3360c683009337517c4e736588a50ee0ac7bf3609bfa631fb",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-spritesheet-details/kenney-hexagon-tiles-spritesheet-details.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-spritesheet-details/kenney-hexagon-tiles-spritesheet-details.png"
           },
           {
             "kind": "atlas",
@@ -2013,7 +2027,9 @@
             "sha256": "d82772bf9bbdb2c91b17c05fb3d82d4272e107484ab6bf73f2acfa444d7d605c",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-spritesheet-details/resources/Spritesheet-details.xml",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-spritesheet-details/resources/Spritesheet-details.xml"
           }
         ],
         "source": {
@@ -2091,6 +2107,8 @@
         ],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-spritesheet-details/kenney-hexagon-tiles-spritesheet-details.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-spritesheet-details.png",
         "preview": null
       }
     },
@@ -2105,7 +2123,7 @@
         "relativePath": "Spritesheet/fullTiles.png",
         "canonicalRelativePath": "Spritesheet/fullTiles.png",
         "fileName": "fullTiles.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-spritesheet-fulltiles.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-spritesheet-fulltiles/kenney-hexagon-tiles-spritesheet-fulltiles.png",
         "file": {
           "primaryBytes": 14605,
           "totalBytes": 16172,
@@ -2442,7 +2460,9 @@
             "sha256": "61b2e92de1d68b9328db8c326c7eb6d4341b21f355f24b1a76723fe1d02590dc",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-spritesheet-fulltiles/kenney-hexagon-tiles-spritesheet-fulltiles.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-spritesheet-fulltiles/kenney-hexagon-tiles-spritesheet-fulltiles.png"
           },
           {
             "kind": "atlas",
@@ -2452,7 +2472,9 @@
             "sha256": "94433cbb4b41296fe76517a101390dedda78d276c8a60ba4da394d24620123af",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-spritesheet-fulltiles/resources/Spritesheet-fullTiles.xml",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-spritesheet-fulltiles/resources/Spritesheet-fullTiles.xml"
           }
         ],
         "source": {
@@ -2519,6 +2541,8 @@
         ],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-spritesheet-fulltiles/kenney-hexagon-tiles-spritesheet-fulltiles.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-spritesheet-fulltiles.png",
         "preview": null
       }
     },
@@ -2533,7 +2557,7 @@
         "relativePath": "Spritesheet/topTiles.png",
         "canonicalRelativePath": "Spritesheet/topTiles.png",
         "fileName": "topTiles.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-spritesheet-toptiles.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-spritesheet-toptiles/kenney-hexagon-tiles-spritesheet-toptiles.png",
         "file": {
           "primaryBytes": 2609,
           "totalBytes": 3436,
@@ -2750,7 +2774,9 @@
             "sha256": "7ecc0b0c302221402aa9289b430b31d3fdf5e11418139f4e8c813343321c114e",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-spritesheet-toptiles/kenney-hexagon-tiles-spritesheet-toptiles.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-spritesheet-toptiles/kenney-hexagon-tiles-spritesheet-toptiles.png"
           },
           {
             "kind": "atlas",
@@ -2760,7 +2786,9 @@
             "sha256": "3ac707fb6cd2d91a502a701e590cf1748a7646f8f6b94a7ed7301242f3d8594f",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-spritesheet-toptiles/resources/Spritesheet-topTiles.xml",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-spritesheet-toptiles/resources/Spritesheet-topTiles.xml"
           }
         ],
         "source": {
@@ -2828,6 +2856,8 @@
         ],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-spritesheet-toptiles/kenney-hexagon-tiles-spritesheet-toptiles.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-spritesheet-toptiles.png",
         "preview": null
       }
     },
@@ -2842,7 +2872,7 @@
         "relativePath": "Spritesheet/trees.png",
         "canonicalRelativePath": "Spritesheet/trees.png",
         "fileName": "trees.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-spritesheet-trees.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-spritesheet-trees/kenney-hexagon-tiles-spritesheet-trees.png",
         "file": {
           "primaryBytes": 14651,
           "totalBytes": 16337,
@@ -3188,7 +3218,9 @@
             "sha256": "9ef694f56bc859e5c02245298871c2d04300f4a80b527f0e7adee959409c1011",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-spritesheet-trees/kenney-hexagon-tiles-spritesheet-trees.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-spritesheet-trees/kenney-hexagon-tiles-spritesheet-trees.png"
           },
           {
             "kind": "atlas",
@@ -3198,7 +3230,9 @@
             "sha256": "c29ea9bce5fb6cdc3822ddfbdc1fbb63b5eb82ab1a6edddd31d36923c034a278",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-spritesheet-trees/resources/Spritesheet-trees.xml",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-spritesheet-trees/resources/Spritesheet-trees.xml"
           }
         ],
         "source": {
@@ -3269,6 +3303,8 @@
         ],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-spritesheet-trees/kenney-hexagon-tiles-spritesheet-trees.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-spritesheet-trees.png",
         "preview": null
       }
     },
@@ -3283,7 +3319,7 @@
         "relativePath": "Tiles/alienBeige.png",
         "canonicalRelativePath": "Tiles/alienBeige.png",
         "fileName": "alienBeige.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-alienbeige.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-alienbeige/kenney-hexagon-tiles-tiles-alienbeige.png",
         "file": {
           "primaryBytes": 1607,
           "totalBytes": 1607,
@@ -3363,7 +3399,9 @@
             "sha256": "7257d930917b6bfd7358b58402dc932a868ec6f8c468e5ba7009ce539a317059",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-alienbeige/kenney-hexagon-tiles-tiles-alienbeige.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-alienbeige/kenney-hexagon-tiles-tiles-alienbeige.png"
           }
         ],
         "source": {
@@ -3423,6 +3461,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-alienbeige/kenney-hexagon-tiles-tiles-alienbeige.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-alienbeige.png",
         "preview": null
       }
     },
@@ -3437,7 +3477,7 @@
         "relativePath": "Tiles/alienBlue.png",
         "canonicalRelativePath": "Tiles/alienBlue.png",
         "fileName": "alienBlue.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-alienblue.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-alienblue/kenney-hexagon-tiles-tiles-alienblue.png",
         "file": {
           "primaryBytes": 1695,
           "totalBytes": 1695,
@@ -3517,7 +3557,9 @@
             "sha256": "6339698390d7d1e55470976b0b4797b9b5779296ee8d3f79fb577ae3bb86b888",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-alienblue/kenney-hexagon-tiles-tiles-alienblue.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-alienblue/kenney-hexagon-tiles-tiles-alienblue.png"
           }
         ],
         "source": {
@@ -3577,6 +3619,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-alienblue/kenney-hexagon-tiles-tiles-alienblue.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-alienblue.png",
         "preview": null
       }
     },
@@ -3591,7 +3635,7 @@
         "relativePath": "Tiles/alienGreen.png",
         "canonicalRelativePath": "Tiles/alienGreen.png",
         "fileName": "alienGreen.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-aliengreen.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-aliengreen/kenney-hexagon-tiles-tiles-aliengreen.png",
         "file": {
           "primaryBytes": 1726,
           "totalBytes": 1726,
@@ -3671,7 +3715,9 @@
             "sha256": "6156c6146d320c19980d2a882b50cfe069841454d74446b749f83a68d69abb2c",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-aliengreen/kenney-hexagon-tiles-tiles-aliengreen.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-aliengreen/kenney-hexagon-tiles-tiles-aliengreen.png"
           }
         ],
         "source": {
@@ -3731,6 +3777,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-aliengreen/kenney-hexagon-tiles-tiles-aliengreen.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-aliengreen.png",
         "preview": null
       }
     },
@@ -3745,7 +3793,7 @@
         "relativePath": "Tiles/alienPink.png",
         "canonicalRelativePath": "Tiles/alienPink.png",
         "fileName": "alienPink.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-alienpink.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-alienpink/kenney-hexagon-tiles-tiles-alienpink.png",
         "file": {
           "primaryBytes": 1774,
           "totalBytes": 1774,
@@ -3825,7 +3873,9 @@
             "sha256": "28ccb24dc1db3c8b4f42f660f31d1e2dba0dac11f7390dcc48648b5c085d6f10",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-alienpink/kenney-hexagon-tiles-tiles-alienpink.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-alienpink/kenney-hexagon-tiles-tiles-alienpink.png"
           }
         ],
         "source": {
@@ -3885,6 +3935,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-alienpink/kenney-hexagon-tiles-tiles-alienpink.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-alienpink.png",
         "preview": null
       }
     },
@@ -3899,7 +3951,7 @@
         "relativePath": "Tiles/alienYellow.png",
         "canonicalRelativePath": "Tiles/alienYellow.png",
         "fileName": "alienYellow.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-alienyellow.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-alienyellow/kenney-hexagon-tiles-tiles-alienyellow.png",
         "file": {
           "primaryBytes": 1535,
           "totalBytes": 1535,
@@ -3979,7 +4031,9 @@
             "sha256": "5b626454ba614298ff1fe1d59bc1d0e9c205c155f47e0bb02e236c8a80261217",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-alienyellow/kenney-hexagon-tiles-tiles-alienyellow.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-alienyellow/kenney-hexagon-tiles-tiles-alienyellow.png"
           }
         ],
         "source": {
@@ -4039,6 +4093,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-alienyellow/kenney-hexagon-tiles-tiles-alienyellow.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-alienyellow.png",
         "preview": null
       }
     },
@@ -4053,7 +4109,7 @@
         "relativePath": "Tiles/bushAutumn.png",
         "canonicalRelativePath": "Tiles/bushAutumn.png",
         "fileName": "bushAutumn.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-bushautumn.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-bushautumn/kenney-hexagon-tiles-tiles-bushautumn.png",
         "file": {
           "primaryBytes": 470,
           "totalBytes": 470,
@@ -4133,7 +4189,9 @@
             "sha256": "b16c66092ca0bef2194717dcf813056055e26fccb13ff433d68e03223dd36a9d",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-bushautumn/kenney-hexagon-tiles-tiles-bushautumn.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-bushautumn/kenney-hexagon-tiles-tiles-bushautumn.png"
           }
         ],
         "source": {
@@ -4195,6 +4253,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-bushautumn/kenney-hexagon-tiles-tiles-bushautumn.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-bushautumn.png",
         "preview": null
       }
     },
@@ -4209,7 +4269,7 @@
         "relativePath": "Tiles/bushDirt.png",
         "canonicalRelativePath": "Tiles/bushDirt.png",
         "fileName": "bushDirt.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-bushdirt.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-bushdirt/kenney-hexagon-tiles-tiles-bushdirt.png",
         "file": {
           "primaryBytes": 462,
           "totalBytes": 462,
@@ -4289,7 +4349,9 @@
             "sha256": "7c8f12dd22d0e1adf89fbf39a3d88535efdcaef9711b54a0d02ca6781e023cd1",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-bushdirt/kenney-hexagon-tiles-tiles-bushdirt.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-bushdirt/kenney-hexagon-tiles-tiles-bushdirt.png"
           }
         ],
         "source": {
@@ -4351,6 +4413,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-bushdirt/kenney-hexagon-tiles-tiles-bushdirt.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-bushdirt.png",
         "preview": null
       }
     },
@@ -4365,7 +4429,7 @@
         "relativePath": "Tiles/bushGrass.png",
         "canonicalRelativePath": "Tiles/bushGrass.png",
         "fileName": "bushGrass.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-bushgrass.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-bushgrass/kenney-hexagon-tiles-tiles-bushgrass.png",
         "file": {
           "primaryBytes": 479,
           "totalBytes": 479,
@@ -4445,7 +4509,9 @@
             "sha256": "ced2fd0a4c5b85e6643b7ac4a60f50f845333c650d1c70ff5c0630fbac835346",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-bushgrass/kenney-hexagon-tiles-tiles-bushgrass.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-bushgrass/kenney-hexagon-tiles-tiles-bushgrass.png"
           }
         ],
         "source": {
@@ -4507,6 +4573,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-bushgrass/kenney-hexagon-tiles-tiles-bushgrass.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-bushgrass.png",
         "preview": null
       }
     },
@@ -4521,7 +4589,7 @@
         "relativePath": "Tiles/bushMagic.png",
         "canonicalRelativePath": "Tiles/bushMagic.png",
         "fileName": "bushMagic.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-bushmagic.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-bushmagic/kenney-hexagon-tiles-tiles-bushmagic.png",
         "file": {
           "primaryBytes": 450,
           "totalBytes": 450,
@@ -4601,7 +4669,9 @@
             "sha256": "df0ab0bd84c6aab9e68bc5403a0d8477214e027cf8d61ab48f77bbe33405e2dd",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-bushmagic/kenney-hexagon-tiles-tiles-bushmagic.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-bushmagic/kenney-hexagon-tiles-tiles-bushmagic.png"
           }
         ],
         "source": {
@@ -4662,6 +4732,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-bushmagic/kenney-hexagon-tiles-tiles-bushmagic.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-bushmagic.png",
         "preview": null
       }
     },
@@ -4676,7 +4748,7 @@
         "relativePath": "Tiles/bushSand.png",
         "canonicalRelativePath": "Tiles/bushSand.png",
         "fileName": "bushSand.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-bushsand.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-bushsand/kenney-hexagon-tiles-tiles-bushsand.png",
         "file": {
           "primaryBytes": 467,
           "totalBytes": 467,
@@ -4756,7 +4828,9 @@
             "sha256": "e31b87da62beaaf545542ac97a30b84ad4e55776e3d9b6de1c7ae9826968ddb3",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-bushsand/kenney-hexagon-tiles-tiles-bushsand.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-bushsand/kenney-hexagon-tiles-tiles-bushsand.png"
           }
         ],
         "source": {
@@ -4818,6 +4892,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-bushsand/kenney-hexagon-tiles-tiles-bushsand.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-bushsand.png",
         "preview": null
       }
     },
@@ -4832,7 +4908,7 @@
         "relativePath": "Tiles/bushSnow.png",
         "canonicalRelativePath": "Tiles/bushSnow.png",
         "fileName": "bushSnow.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-bushsnow.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-bushsnow/kenney-hexagon-tiles-tiles-bushsnow.png",
         "file": {
           "primaryBytes": 467,
           "totalBytes": 467,
@@ -4912,7 +4988,9 @@
             "sha256": "6a9692629558956104fe9610d4c6eef4b3c80ee7d2e3cc7c03c1cb1472abe7a4",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-bushsnow/kenney-hexagon-tiles-tiles-bushsnow.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-bushsnow/kenney-hexagon-tiles-tiles-bushsnow.png"
           }
         ],
         "source": {
@@ -4973,6 +5051,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-bushsnow/kenney-hexagon-tiles-tiles-bushsnow.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-bushsnow.png",
         "preview": null
       }
     },
@@ -4987,7 +5067,7 @@
         "relativePath": "Tiles/flowerBlue.png",
         "canonicalRelativePath": "Tiles/flowerBlue.png",
         "fileName": "flowerBlue.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-flowerblue.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-flowerblue/kenney-hexagon-tiles-tiles-flowerblue.png",
         "file": {
           "primaryBytes": 387,
           "totalBytes": 387,
@@ -5067,7 +5147,9 @@
             "sha256": "b58911fae7597ee65a0626b2007890cbd546b0bfce320cfdcbe13af041d5b5de",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-flowerblue/kenney-hexagon-tiles-tiles-flowerblue.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-flowerblue/kenney-hexagon-tiles-tiles-flowerblue.png"
           }
         ],
         "source": {
@@ -5129,6 +5211,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-flowerblue/kenney-hexagon-tiles-tiles-flowerblue.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-flowerblue.png",
         "preview": null
       }
     },
@@ -5143,7 +5227,7 @@
         "relativePath": "Tiles/flowerGreen.png",
         "canonicalRelativePath": "Tiles/flowerGreen.png",
         "fileName": "flowerGreen.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-flowergreen.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-flowergreen/kenney-hexagon-tiles-tiles-flowergreen.png",
         "file": {
           "primaryBytes": 385,
           "totalBytes": 385,
@@ -5223,7 +5307,9 @@
             "sha256": "054a112c864cb1ae74fb8c84938176dd8308f6b200b2d11da99ce18130103f5a",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-flowergreen/kenney-hexagon-tiles-tiles-flowergreen.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-flowergreen/kenney-hexagon-tiles-tiles-flowergreen.png"
           }
         ],
         "source": {
@@ -5285,6 +5371,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-flowergreen/kenney-hexagon-tiles-tiles-flowergreen.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-flowergreen.png",
         "preview": null
       }
     },
@@ -5299,7 +5387,7 @@
         "relativePath": "Tiles/flowerRed.png",
         "canonicalRelativePath": "Tiles/flowerRed.png",
         "fileName": "flowerRed.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-flowerred.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-flowerred/kenney-hexagon-tiles-tiles-flowerred.png",
         "file": {
           "primaryBytes": 385,
           "totalBytes": 385,
@@ -5379,7 +5467,9 @@
             "sha256": "6f4183ae2401be098cd27ac72cbc3708f91313eec9730fceab66ab0000096b2e",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-flowerred/kenney-hexagon-tiles-tiles-flowerred.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-flowerred/kenney-hexagon-tiles-tiles-flowerred.png"
           }
         ],
         "source": {
@@ -5441,6 +5531,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-flowerred/kenney-hexagon-tiles-tiles-flowerred.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-flowerred.png",
         "preview": null
       }
     },
@@ -5455,7 +5547,7 @@
         "relativePath": "Tiles/flowerWhite.png",
         "canonicalRelativePath": "Tiles/flowerWhite.png",
         "fileName": "flowerWhite.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-flowerwhite.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-flowerwhite/kenney-hexagon-tiles-tiles-flowerwhite.png",
         "file": {
           "primaryBytes": 368,
           "totalBytes": 368,
@@ -5535,7 +5627,9 @@
             "sha256": "7f8a82ed51c3aa518bbd9c00f0f75a89fa97ab55f4a525b910f7ec65067d9353",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-flowerwhite/kenney-hexagon-tiles-tiles-flowerwhite.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-flowerwhite/kenney-hexagon-tiles-tiles-flowerwhite.png"
           }
         ],
         "source": {
@@ -5597,6 +5691,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-flowerwhite/kenney-hexagon-tiles-tiles-flowerwhite.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-flowerwhite.png",
         "preview": null
       }
     },
@@ -5611,7 +5707,7 @@
         "relativePath": "Tiles/flowerYellow.png",
         "canonicalRelativePath": "Tiles/flowerYellow.png",
         "fileName": "flowerYellow.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-floweryellow.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-floweryellow/kenney-hexagon-tiles-tiles-floweryellow.png",
         "file": {
           "primaryBytes": 374,
           "totalBytes": 374,
@@ -5691,7 +5787,9 @@
             "sha256": "808e87c80c9f475b5166fcc56aa4784f2ca8dc702b94123524e1c2bb88429a82",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-floweryellow/kenney-hexagon-tiles-tiles-floweryellow.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-floweryellow/kenney-hexagon-tiles-tiles-floweryellow.png"
           }
         ],
         "source": {
@@ -5753,6 +5851,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-floweryellow/kenney-hexagon-tiles-tiles-floweryellow.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-floweryellow.png",
         "preview": null
       }
     },
@@ -5767,7 +5867,7 @@
         "relativePath": "Tiles/hillAutumn.png",
         "canonicalRelativePath": "Tiles/hillAutumn.png",
         "fileName": "hillAutumn.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-hillautumn.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-hillautumn/kenney-hexagon-tiles-tiles-hillautumn.png",
         "file": {
           "primaryBytes": 348,
           "totalBytes": 348,
@@ -5847,7 +5947,9 @@
             "sha256": "0cae5b27003de1fdc498001fde33f538a99561aaaee7ae13a4d52fe207a65227",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-hillautumn/kenney-hexagon-tiles-tiles-hillautumn.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-hillautumn/kenney-hexagon-tiles-tiles-hillautumn.png"
           }
         ],
         "source": {
@@ -5909,6 +6011,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-hillautumn/kenney-hexagon-tiles-tiles-hillautumn.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-hillautumn.png",
         "preview": null
       }
     },
@@ -5923,7 +6027,7 @@
         "relativePath": "Tiles/hillDirt.png",
         "canonicalRelativePath": "Tiles/hillDirt.png",
         "fileName": "hillDirt.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-hilldirt.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-hilldirt/kenney-hexagon-tiles-tiles-hilldirt.png",
         "file": {
           "primaryBytes": 346,
           "totalBytes": 346,
@@ -6003,7 +6107,9 @@
             "sha256": "d3b4c482d1d351bf5aa1fda8600373f33835eda69f752683089fbfe1279555c6",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-hilldirt/kenney-hexagon-tiles-tiles-hilldirt.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-hilldirt/kenney-hexagon-tiles-tiles-hilldirt.png"
           }
         ],
         "source": {
@@ -6065,6 +6171,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-hilldirt/kenney-hexagon-tiles-tiles-hilldirt.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-hilldirt.png",
         "preview": null
       }
     },
@@ -6079,7 +6187,7 @@
         "relativePath": "Tiles/hillGrass.png",
         "canonicalRelativePath": "Tiles/hillGrass.png",
         "fileName": "hillGrass.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-hillgrass.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-hillgrass/kenney-hexagon-tiles-tiles-hillgrass.png",
         "file": {
           "primaryBytes": 356,
           "totalBytes": 356,
@@ -6159,7 +6267,9 @@
             "sha256": "fd70ea893d6808900a17056689d76a2ee84eb7cf6eddd127c2e54c0649cf0890",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-hillgrass/kenney-hexagon-tiles-tiles-hillgrass.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-hillgrass/kenney-hexagon-tiles-tiles-hillgrass.png"
           }
         ],
         "source": {
@@ -6221,6 +6331,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-hillgrass/kenney-hexagon-tiles-tiles-hillgrass.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-hillgrass.png",
         "preview": null
       }
     },
@@ -6235,7 +6347,7 @@
         "relativePath": "Tiles/hillMagic.png",
         "canonicalRelativePath": "Tiles/hillMagic.png",
         "fileName": "hillMagic.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-hillmagic.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-hillmagic/kenney-hexagon-tiles-tiles-hillmagic.png",
         "file": {
           "primaryBytes": 349,
           "totalBytes": 349,
@@ -6315,7 +6427,9 @@
             "sha256": "1494bc2104fac029075e4240e7d8b8b58a6b230902397ef8393ebf9ae473a5b2",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-hillmagic/kenney-hexagon-tiles-tiles-hillmagic.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-hillmagic/kenney-hexagon-tiles-tiles-hillmagic.png"
           }
         ],
         "source": {
@@ -6376,6 +6490,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-hillmagic/kenney-hexagon-tiles-tiles-hillmagic.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-hillmagic.png",
         "preview": null
       }
     },
@@ -6390,7 +6506,7 @@
         "relativePath": "Tiles/hillSand.png",
         "canonicalRelativePath": "Tiles/hillSand.png",
         "fileName": "hillSand.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-hillsand.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-hillsand/kenney-hexagon-tiles-tiles-hillsand.png",
         "file": {
           "primaryBytes": 335,
           "totalBytes": 335,
@@ -6470,7 +6586,9 @@
             "sha256": "048be56dec11d3e6224394957cb498aa16fcecf6cdf12de9ff2db3205b07b95a",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-hillsand/kenney-hexagon-tiles-tiles-hillsand.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-hillsand/kenney-hexagon-tiles-tiles-hillsand.png"
           }
         ],
         "source": {
@@ -6532,6 +6650,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-hillsand/kenney-hexagon-tiles-tiles-hillsand.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-hillsand.png",
         "preview": null
       }
     },
@@ -6546,7 +6666,7 @@
         "relativePath": "Tiles/hillSnow.png",
         "canonicalRelativePath": "Tiles/hillSnow.png",
         "fileName": "hillSnow.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-hillsnow.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-hillsnow/kenney-hexagon-tiles-tiles-hillsnow.png",
         "file": {
           "primaryBytes": 343,
           "totalBytes": 343,
@@ -6626,7 +6746,9 @@
             "sha256": "2a47cac38b041570ed3894bd971dd6461f14a7745abd99ef2a564b2cd170b40b",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-hillsnow/kenney-hexagon-tiles-tiles-hillsnow.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-hillsnow/kenney-hexagon-tiles-tiles-hillsnow.png"
           }
         ],
         "source": {
@@ -6687,6 +6809,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-hillsnow/kenney-hexagon-tiles-tiles-hillsnow.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-hillsnow.png",
         "preview": null
       }
     },
@@ -6701,7 +6825,7 @@
         "relativePath": "Tiles/pineAutumn_high.png",
         "canonicalRelativePath": "Tiles/pineAutumn_high.png",
         "fileName": "pineAutumn_high.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-pineautumn-high.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-pineautumn-high/kenney-hexagon-tiles-tiles-pineautumn-high.png",
         "file": {
           "primaryBytes": 1076,
           "totalBytes": 1076,
@@ -6781,7 +6905,9 @@
             "sha256": "e27cc398c5ac6fa3a9fcf2654a6546108ac963ff513577f11b76cf48657f1949",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-pineautumn-high/kenney-hexagon-tiles-tiles-pineautumn-high.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-pineautumn-high/kenney-hexagon-tiles-tiles-pineautumn-high.png"
           }
         ],
         "source": {
@@ -6846,6 +6972,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-pineautumn-high/kenney-hexagon-tiles-tiles-pineautumn-high.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-pineautumn-high.png",
         "preview": null
       }
     },
@@ -6860,7 +6988,7 @@
         "relativePath": "Tiles/pineAutumn_low.png",
         "canonicalRelativePath": "Tiles/pineAutumn_low.png",
         "fileName": "pineAutumn_low.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-pineautumn-low.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-pineautumn-low/kenney-hexagon-tiles-tiles-pineautumn-low.png",
         "file": {
           "primaryBytes": 1044,
           "totalBytes": 1044,
@@ -6940,7 +7068,9 @@
             "sha256": "f0ac3f482eea60b1763451014a5e69c44aae5e9e01207aa3b7d2a9068af3d29c",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-pineautumn-low/kenney-hexagon-tiles-tiles-pineautumn-low.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-pineautumn-low/kenney-hexagon-tiles-tiles-pineautumn-low.png"
           }
         ],
         "source": {
@@ -7005,6 +7135,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-pineautumn-low/kenney-hexagon-tiles-tiles-pineautumn-low.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-pineautumn-low.png",
         "preview": null
       }
     },
@@ -7019,7 +7151,7 @@
         "relativePath": "Tiles/pineAutumn_mid.png",
         "canonicalRelativePath": "Tiles/pineAutumn_mid.png",
         "fileName": "pineAutumn_mid.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-pineautumn-mid.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-pineautumn-mid/kenney-hexagon-tiles-tiles-pineautumn-mid.png",
         "file": {
           "primaryBytes": 1191,
           "totalBytes": 1191,
@@ -7099,7 +7231,9 @@
             "sha256": "ee496d38f89210b65dcce98de38be085cb215b052363425a16f6ec90218d90fb",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-pineautumn-mid/kenney-hexagon-tiles-tiles-pineautumn-mid.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-pineautumn-mid/kenney-hexagon-tiles-tiles-pineautumn-mid.png"
           }
         ],
         "source": {
@@ -7164,6 +7298,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-pineautumn-mid/kenney-hexagon-tiles-tiles-pineautumn-mid.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-pineautumn-mid.png",
         "preview": null
       }
     },
@@ -7178,7 +7314,7 @@
         "relativePath": "Tiles/pineBlue_high.png",
         "canonicalRelativePath": "Tiles/pineBlue_high.png",
         "fileName": "pineBlue_high.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-pineblue-high.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-pineblue-high/kenney-hexagon-tiles-tiles-pineblue-high.png",
         "file": {
           "primaryBytes": 1101,
           "totalBytes": 1101,
@@ -7258,7 +7394,9 @@
             "sha256": "2a417084731d345dcf9a442cf675a9c01b399d5da93a453b720ade7ef3c8c8a9",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-pineblue-high/kenney-hexagon-tiles-tiles-pineblue-high.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-pineblue-high/kenney-hexagon-tiles-tiles-pineblue-high.png"
           }
         ],
         "source": {
@@ -7323,6 +7461,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-pineblue-high/kenney-hexagon-tiles-tiles-pineblue-high.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-pineblue-high.png",
         "preview": null
       }
     },
@@ -7337,7 +7477,7 @@
         "relativePath": "Tiles/pineBlue_low.png",
         "canonicalRelativePath": "Tiles/pineBlue_low.png",
         "fileName": "pineBlue_low.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-pineblue-low.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-pineblue-low/kenney-hexagon-tiles-tiles-pineblue-low.png",
         "file": {
           "primaryBytes": 1063,
           "totalBytes": 1063,
@@ -7417,7 +7557,9 @@
             "sha256": "2f184dfb13e445e9a16583c0c068ea498eb6fc0ba67d7adf408baef4fcd67c33",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-pineblue-low/kenney-hexagon-tiles-tiles-pineblue-low.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-pineblue-low/kenney-hexagon-tiles-tiles-pineblue-low.png"
           }
         ],
         "source": {
@@ -7482,6 +7624,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-pineblue-low/kenney-hexagon-tiles-tiles-pineblue-low.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-pineblue-low.png",
         "preview": null
       }
     },
@@ -7496,7 +7640,7 @@
         "relativePath": "Tiles/pineBlue_mid.png",
         "canonicalRelativePath": "Tiles/pineBlue_mid.png",
         "fileName": "pineBlue_mid.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-pineblue-mid.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-pineblue-mid/kenney-hexagon-tiles-tiles-pineblue-mid.png",
         "file": {
           "primaryBytes": 1208,
           "totalBytes": 1208,
@@ -7576,7 +7720,9 @@
             "sha256": "2d94aa66b182105538760352f7a0a54b11d6c476ff43930cc7f8cad28dd0df39",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-pineblue-mid/kenney-hexagon-tiles-tiles-pineblue-mid.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-pineblue-mid/kenney-hexagon-tiles-tiles-pineblue-mid.png"
           }
         ],
         "source": {
@@ -7641,6 +7787,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-pineblue-mid/kenney-hexagon-tiles-tiles-pineblue-mid.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-pineblue-mid.png",
         "preview": null
       }
     },
@@ -7655,7 +7803,7 @@
         "relativePath": "Tiles/pineGreen_high.png",
         "canonicalRelativePath": "Tiles/pineGreen_high.png",
         "fileName": "pineGreen_high.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-pinegreen-high.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-pinegreen-high/kenney-hexagon-tiles-tiles-pinegreen-high.png",
         "file": {
           "primaryBytes": 1054,
           "totalBytes": 1054,
@@ -7735,7 +7883,9 @@
             "sha256": "e41945373efa8c516cc0dc69b631b886d9ba7d190a1b4c4bc3fc9e2dd4261b8e",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-pinegreen-high/kenney-hexagon-tiles-tiles-pinegreen-high.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-pinegreen-high/kenney-hexagon-tiles-tiles-pinegreen-high.png"
           }
         ],
         "source": {
@@ -7800,6 +7950,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-pinegreen-high/kenney-hexagon-tiles-tiles-pinegreen-high.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-pinegreen-high.png",
         "preview": null
       }
     },
@@ -7814,7 +7966,7 @@
         "relativePath": "Tiles/pineGreen_low.png",
         "canonicalRelativePath": "Tiles/pineGreen_low.png",
         "fileName": "pineGreen_low.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-pinegreen-low.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-pinegreen-low/kenney-hexagon-tiles-tiles-pinegreen-low.png",
         "file": {
           "primaryBytes": 1019,
           "totalBytes": 1019,
@@ -7894,7 +8046,9 @@
             "sha256": "e2f8cff867dea3722ed544732b9d46bfbdec6c6f141c93b39030dc78a5d07aa0",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-pinegreen-low/kenney-hexagon-tiles-tiles-pinegreen-low.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-pinegreen-low/kenney-hexagon-tiles-tiles-pinegreen-low.png"
           }
         ],
         "source": {
@@ -7959,6 +8113,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-pinegreen-low/kenney-hexagon-tiles-tiles-pinegreen-low.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-pinegreen-low.png",
         "preview": null
       }
     },
@@ -7973,7 +8129,7 @@
         "relativePath": "Tiles/pineGreen_mid.png",
         "canonicalRelativePath": "Tiles/pineGreen_mid.png",
         "fileName": "pineGreen_mid.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-pinegreen-mid.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-pinegreen-mid/kenney-hexagon-tiles-tiles-pinegreen-mid.png",
         "file": {
           "primaryBytes": 1133,
           "totalBytes": 1133,
@@ -8053,7 +8209,9 @@
             "sha256": "5f5fc581c163dd1dd12ef644f9b75d1948e9e5aab5da34eadafef44d2731bf1b",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-pinegreen-mid/kenney-hexagon-tiles-tiles-pinegreen-mid.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-pinegreen-mid/kenney-hexagon-tiles-tiles-pinegreen-mid.png"
           }
         ],
         "source": {
@@ -8118,6 +8276,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-pinegreen-mid/kenney-hexagon-tiles-tiles-pinegreen-mid.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-pinegreen-mid.png",
         "preview": null
       }
     },
@@ -8132,7 +8292,7 @@
         "relativePath": "Tiles/rockDirt.png",
         "canonicalRelativePath": "Tiles/rockDirt.png",
         "fileName": "rockDirt.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-rockdirt.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rockdirt/kenney-hexagon-tiles-tiles-rockdirt.png",
         "file": {
           "primaryBytes": 1117,
           "totalBytes": 1117,
@@ -8212,7 +8372,9 @@
             "sha256": "b83e6fbec72041a7d5659d47a013510a6f8412619f6d74449056825bd1097809",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rockdirt/kenney-hexagon-tiles-tiles-rockdirt.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rockdirt/kenney-hexagon-tiles-tiles-rockdirt.png"
           }
         ],
         "source": {
@@ -8272,6 +8434,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rockdirt/kenney-hexagon-tiles-tiles-rockdirt.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-rockdirt.png",
         "preview": null
       }
     },
@@ -8286,7 +8450,7 @@
         "relativePath": "Tiles/rockDirt_moss1.png",
         "canonicalRelativePath": "Tiles/rockDirt_moss1.png",
         "fileName": "rockDirt_moss1.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-rockdirt-moss1.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rockdirt-moss1/kenney-hexagon-tiles-tiles-rockdirt-moss1.png",
         "file": {
           "primaryBytes": 1697,
           "totalBytes": 1697,
@@ -8366,7 +8530,9 @@
             "sha256": "f496fe2f9869fc16919bd5cd770c203ef043d575bb8712338aa916098e9aa17f",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rockdirt-moss1/kenney-hexagon-tiles-tiles-rockdirt-moss1.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rockdirt-moss1/kenney-hexagon-tiles-tiles-rockdirt-moss1.png"
           }
         ],
         "source": {
@@ -8427,6 +8593,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rockdirt-moss1/kenney-hexagon-tiles-tiles-rockdirt-moss1.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-rockdirt-moss1.png",
         "preview": null
       }
     },
@@ -8441,7 +8609,7 @@
         "relativePath": "Tiles/rockDirt_moss2.png",
         "canonicalRelativePath": "Tiles/rockDirt_moss2.png",
         "fileName": "rockDirt_moss2.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-rockdirt-moss2.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rockdirt-moss2/kenney-hexagon-tiles-tiles-rockdirt-moss2.png",
         "file": {
           "primaryBytes": 1966,
           "totalBytes": 1966,
@@ -8521,7 +8689,9 @@
             "sha256": "21eba4b0a37c1d1a96fe266eb53640c3e033eaa51060a2dabe0983838773a364",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rockdirt-moss2/kenney-hexagon-tiles-tiles-rockdirt-moss2.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rockdirt-moss2/kenney-hexagon-tiles-tiles-rockdirt-moss2.png"
           }
         ],
         "source": {
@@ -8582,6 +8752,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rockdirt-moss2/kenney-hexagon-tiles-tiles-rockdirt-moss2.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-rockdirt-moss2.png",
         "preview": null
       }
     },
@@ -8596,7 +8768,7 @@
         "relativePath": "Tiles/rockDirt_moss3.png",
         "canonicalRelativePath": "Tiles/rockDirt_moss3.png",
         "fileName": "rockDirt_moss3.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-rockdirt-moss3.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rockdirt-moss3/kenney-hexagon-tiles-tiles-rockdirt-moss3.png",
         "file": {
           "primaryBytes": 1677,
           "totalBytes": 1677,
@@ -8676,7 +8848,9 @@
             "sha256": "54f6f936e9d8dcda796339ebd6d9b2989108a7771d8ef04f69d16a5b107995d6",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rockdirt-moss3/kenney-hexagon-tiles-tiles-rockdirt-moss3.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rockdirt-moss3/kenney-hexagon-tiles-tiles-rockdirt-moss3.png"
           }
         ],
         "source": {
@@ -8737,6 +8911,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rockdirt-moss3/kenney-hexagon-tiles-tiles-rockdirt-moss3.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-rockdirt-moss3.png",
         "preview": null
       }
     },
@@ -8751,7 +8927,7 @@
         "relativePath": "Tiles/rockSnow_1.png",
         "canonicalRelativePath": "Tiles/rockSnow_1.png",
         "fileName": "rockSnow_1.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-rocksnow-1.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rocksnow-1/kenney-hexagon-tiles-tiles-rocksnow-1.png",
         "file": {
           "primaryBytes": 1208,
           "totalBytes": 1208,
@@ -8831,7 +9007,9 @@
             "sha256": "d4e23e2d9b644c373452844086e8af1fcd6dad097822f5ff35fb429650c040f2",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rocksnow-1/kenney-hexagon-tiles-tiles-rocksnow-1.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rocksnow-1/kenney-hexagon-tiles-tiles-rocksnow-1.png"
           }
         ],
         "source": {
@@ -8890,6 +9068,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rocksnow-1/kenney-hexagon-tiles-tiles-rocksnow-1.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-rocksnow-1.png",
         "preview": null
       }
     },
@@ -8904,7 +9084,7 @@
         "relativePath": "Tiles/rockSnow_2.png",
         "canonicalRelativePath": "Tiles/rockSnow_2.png",
         "fileName": "rockSnow_2.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-rocksnow-2.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rocksnow-2/kenney-hexagon-tiles-tiles-rocksnow-2.png",
         "file": {
           "primaryBytes": 1455,
           "totalBytes": 1455,
@@ -8984,7 +9164,9 @@
             "sha256": "e58d604bbb56319464620629fa897cf7836936f6b7f010e72660d5d465d21154",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rocksnow-2/kenney-hexagon-tiles-tiles-rocksnow-2.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rocksnow-2/kenney-hexagon-tiles-tiles-rocksnow-2.png"
           }
         ],
         "source": {
@@ -9043,6 +9225,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rocksnow-2/kenney-hexagon-tiles-tiles-rocksnow-2.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-rocksnow-2.png",
         "preview": null
       }
     },
@@ -9057,7 +9241,7 @@
         "relativePath": "Tiles/rockSnow_3.png",
         "canonicalRelativePath": "Tiles/rockSnow_3.png",
         "fileName": "rockSnow_3.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-rocksnow-3.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rocksnow-3/kenney-hexagon-tiles-tiles-rocksnow-3.png",
         "file": {
           "primaryBytes": 1170,
           "totalBytes": 1170,
@@ -9137,7 +9321,9 @@
             "sha256": "d62f3e4247dd798b097e6fa9438b1e3f3ff8c81123b95e16e6a559154d3f4693",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rocksnow-3/kenney-hexagon-tiles-tiles-rocksnow-3.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rocksnow-3/kenney-hexagon-tiles-tiles-rocksnow-3.png"
           }
         ],
         "source": {
@@ -9196,6 +9382,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rocksnow-3/kenney-hexagon-tiles-tiles-rocksnow-3.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-rocksnow-3.png",
         "preview": null
       }
     },
@@ -9210,7 +9398,7 @@
         "relativePath": "Tiles/rockStone.png",
         "canonicalRelativePath": "Tiles/rockStone.png",
         "fileName": "rockStone.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-rockstone.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rockstone/kenney-hexagon-tiles-tiles-rockstone.png",
         "file": {
           "primaryBytes": 1068,
           "totalBytes": 1068,
@@ -9290,7 +9478,9 @@
             "sha256": "7ec7254928a449b73e32a6de757964140ad1e61ca2196b355dd3375fea22bf23",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rockstone/kenney-hexagon-tiles-tiles-rockstone.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rockstone/kenney-hexagon-tiles-tiles-rockstone.png"
           }
         ],
         "source": {
@@ -9350,6 +9540,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rockstone/kenney-hexagon-tiles-tiles-rockstone.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-rockstone.png",
         "preview": null
       }
     },
@@ -9364,7 +9556,7 @@
         "relativePath": "Tiles/rockStone_moss1.png",
         "canonicalRelativePath": "Tiles/rockStone_moss1.png",
         "fileName": "rockStone_moss1.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-rockstone-moss1.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rockstone-moss1/kenney-hexagon-tiles-tiles-rockstone-moss1.png",
         "file": {
           "primaryBytes": 1729,
           "totalBytes": 1729,
@@ -9444,7 +9636,9 @@
             "sha256": "36d78c0caabf3f09043cf8be2060588153e14b8604ae82cde0a81ae40c62d041",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rockstone-moss1/kenney-hexagon-tiles-tiles-rockstone-moss1.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rockstone-moss1/kenney-hexagon-tiles-tiles-rockstone-moss1.png"
           }
         ],
         "source": {
@@ -9505,6 +9699,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rockstone-moss1/kenney-hexagon-tiles-tiles-rockstone-moss1.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-rockstone-moss1.png",
         "preview": null
       }
     },
@@ -9519,7 +9715,7 @@
         "relativePath": "Tiles/rockStone_moss2.png",
         "canonicalRelativePath": "Tiles/rockStone_moss2.png",
         "fileName": "rockStone_moss2.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-rockstone-moss2.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rockstone-moss2/kenney-hexagon-tiles-tiles-rockstone-moss2.png",
         "file": {
           "primaryBytes": 1989,
           "totalBytes": 1989,
@@ -9599,7 +9795,9 @@
             "sha256": "36ea159b4b592847091beba8df179500be88c39204281f68b518537c3f1a0ca5",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rockstone-moss2/kenney-hexagon-tiles-tiles-rockstone-moss2.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rockstone-moss2/kenney-hexagon-tiles-tiles-rockstone-moss2.png"
           }
         ],
         "source": {
@@ -9660,6 +9858,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rockstone-moss2/kenney-hexagon-tiles-tiles-rockstone-moss2.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-rockstone-moss2.png",
         "preview": null
       }
     },
@@ -9674,7 +9874,7 @@
         "relativePath": "Tiles/rockStone_moss3.png",
         "canonicalRelativePath": "Tiles/rockStone_moss3.png",
         "fileName": "rockStone_moss3.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-rockstone-moss3.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rockstone-moss3/kenney-hexagon-tiles-tiles-rockstone-moss3.png",
         "file": {
           "primaryBytes": 1621,
           "totalBytes": 1621,
@@ -9754,7 +9954,9 @@
             "sha256": "746f6993c33bfa40140a251f1c396d41650a42a7155741704cf33668675f1cb4",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rockstone-moss3/kenney-hexagon-tiles-tiles-rockstone-moss3.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rockstone-moss3/kenney-hexagon-tiles-tiles-rockstone-moss3.png"
           }
         ],
         "source": {
@@ -9815,6 +10017,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-rockstone-moss3/kenney-hexagon-tiles-tiles-rockstone-moss3.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-rockstone-moss3.png",
         "preview": null
       }
     },
@@ -9829,7 +10033,7 @@
         "relativePath": "Tiles/smallRockDirt.png",
         "canonicalRelativePath": "Tiles/smallRockDirt.png",
         "fileName": "smallRockDirt.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-smallrockdirt.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-smallrockdirt/kenney-hexagon-tiles-tiles-smallrockdirt.png",
         "file": {
           "primaryBytes": 406,
           "totalBytes": 406,
@@ -9909,7 +10113,9 @@
             "sha256": "97bc87331a266e53e6a77cebc23cec55d0f61f870a3ec4953b0fc2a143561f43",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-smallrockdirt/kenney-hexagon-tiles-tiles-smallrockdirt.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-smallrockdirt/kenney-hexagon-tiles-tiles-smallrockdirt.png"
           }
         ],
         "source": {
@@ -9970,6 +10176,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-smallrockdirt/kenney-hexagon-tiles-tiles-smallrockdirt.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-smallrockdirt.png",
         "preview": null
       }
     },
@@ -9984,7 +10192,7 @@
         "relativePath": "Tiles/smallRockGrass.png",
         "canonicalRelativePath": "Tiles/smallRockGrass.png",
         "fileName": "smallRockGrass.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-smallrockgrass.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-smallrockgrass/kenney-hexagon-tiles-tiles-smallrockgrass.png",
         "file": {
           "primaryBytes": 409,
           "totalBytes": 409,
@@ -10064,7 +10272,9 @@
             "sha256": "1cf94eec51a6aa6b7f621eb3e5328d5acc3f0af819f81f5f792cf7fed9743857",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-smallrockgrass/kenney-hexagon-tiles-tiles-smallrockgrass.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-smallrockgrass/kenney-hexagon-tiles-tiles-smallrockgrass.png"
           }
         ],
         "source": {
@@ -10125,6 +10335,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-smallrockgrass/kenney-hexagon-tiles-tiles-smallrockgrass.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-smallrockgrass.png",
         "preview": null
       }
     },
@@ -10139,7 +10351,7 @@
         "relativePath": "Tiles/smallRockSnow.png",
         "canonicalRelativePath": "Tiles/smallRockSnow.png",
         "fileName": "smallRockSnow.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-smallrocksnow.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-smallrocksnow/kenney-hexagon-tiles-tiles-smallrocksnow.png",
         "file": {
           "primaryBytes": 396,
           "totalBytes": 396,
@@ -10219,7 +10431,9 @@
             "sha256": "19053ff57e15169a75e78a2706b50b95866e88627f72faeca630eb5a9a2e182b",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-smallrocksnow/kenney-hexagon-tiles-tiles-smallrocksnow.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-smallrocksnow/kenney-hexagon-tiles-tiles-smallrocksnow.png"
           }
         ],
         "source": {
@@ -10279,6 +10493,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-smallrocksnow/kenney-hexagon-tiles-tiles-smallrocksnow.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-smallrocksnow.png",
         "preview": null
       }
     },
@@ -10293,7 +10509,7 @@
         "relativePath": "Tiles/smallRockStone.png",
         "canonicalRelativePath": "Tiles/smallRockStone.png",
         "fileName": "smallRockStone.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-smallrockstone.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-smallrockstone/kenney-hexagon-tiles-tiles-smallrockstone.png",
         "file": {
           "primaryBytes": 390,
           "totalBytes": 390,
@@ -10373,7 +10589,9 @@
             "sha256": "ed2b6c9d8e3031439bd80492dfda283fcda8acd973eec2a6f47bf59af51996ba",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-smallrockstone/kenney-hexagon-tiles-tiles-smallrockstone.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-smallrockstone/kenney-hexagon-tiles-tiles-smallrockstone.png"
           }
         ],
         "source": {
@@ -10434,6 +10652,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-smallrockstone/kenney-hexagon-tiles-tiles-smallrockstone.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-smallrockstone.png",
         "preview": null
       }
     },
@@ -10448,7 +10668,7 @@
         "relativePath": "Tiles/tileAutumn.png",
         "canonicalRelativePath": "Tiles/tileAutumn.png",
         "fileName": "tileAutumn.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tileautumn.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tileautumn/kenney-hexagon-tiles-tiles-tileautumn.png",
         "file": {
           "primaryBytes": 2194,
           "totalBytes": 2194,
@@ -10528,7 +10748,9 @@
             "sha256": "202cd4b53c85eae4e886c6754ea908cacb964f47874403f7507ffdcde9be5b34",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tileautumn/kenney-hexagon-tiles-tiles-tileautumn.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tileautumn/kenney-hexagon-tiles-tiles-tileautumn.png"
           }
         ],
         "source": {
@@ -10585,6 +10807,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tileautumn/kenney-hexagon-tiles-tiles-tileautumn.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tileautumn.png",
         "preview": null
       }
     },
@@ -10599,7 +10823,7 @@
         "relativePath": "Tiles/tileAutumn_full.png",
         "canonicalRelativePath": "Tiles/tileAutumn_full.png",
         "fileName": "tileAutumn_full.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tileautumn-full.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tileautumn-full/kenney-hexagon-tiles-tiles-tileautumn-full.png",
         "file": {
           "primaryBytes": 1632,
           "totalBytes": 1632,
@@ -10679,7 +10903,9 @@
             "sha256": "df09eb7a9994028398c3b6d5e89c996aed30d1e81c76ab86dad9cefc47e6425e",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tileautumn-full/kenney-hexagon-tiles-tiles-tileautumn-full.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tileautumn-full/kenney-hexagon-tiles-tiles-tileautumn-full.png"
           }
         ],
         "source": {
@@ -10737,6 +10963,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tileautumn-full/kenney-hexagon-tiles-tiles-tileautumn-full.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tileautumn-full.png",
         "preview": null
       }
     },
@@ -10751,7 +10979,7 @@
         "relativePath": "Tiles/tileAutumn_tile.png",
         "canonicalRelativePath": "Tiles/tileAutumn_tile.png",
         "fileName": "tileAutumn_tile.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tileautumn-tile.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tileautumn-tile/kenney-hexagon-tiles-tiles-tileautumn-tile.png",
         "file": {
           "primaryBytes": 1402,
           "totalBytes": 1402,
@@ -10831,7 +11059,9 @@
             "sha256": "962ce713d8961b5511b611f5723f351041980154ab9ae34f6e96eba9e82aa51b",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tileautumn-tile/kenney-hexagon-tiles-tiles-tileautumn-tile.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tileautumn-tile/kenney-hexagon-tiles-tiles-tileautumn-tile.png"
           }
         ],
         "source": {
@@ -10888,6 +11118,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tileautumn-tile/kenney-hexagon-tiles-tiles-tileautumn-tile.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tileautumn-tile.png",
         "preview": null
       }
     },
@@ -10902,7 +11134,7 @@
         "relativePath": "Tiles/tileDirt.png",
         "canonicalRelativePath": "Tiles/tileDirt.png",
         "fileName": "tileDirt.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tiledirt.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tiledirt/kenney-hexagon-tiles-tiles-tiledirt.png",
         "file": {
           "primaryBytes": 2012,
           "totalBytes": 2012,
@@ -10982,7 +11214,9 @@
             "sha256": "215f3996dd758c8c76eea5243580441cdc9b71d42d8de8af59f32fb9e798099a",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tiledirt/kenney-hexagon-tiles-tiles-tiledirt.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tiledirt/kenney-hexagon-tiles-tiles-tiledirt.png"
           }
         ],
         "source": {
@@ -11039,6 +11273,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tiledirt/kenney-hexagon-tiles-tiles-tiledirt.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tiledirt.png",
         "preview": null
       }
     },
@@ -11053,7 +11289,7 @@
         "relativePath": "Tiles/tileDirt_full.png",
         "canonicalRelativePath": "Tiles/tileDirt_full.png",
         "fileName": "tileDirt_full.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tiledirt-full.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tiledirt-full/kenney-hexagon-tiles-tiles-tiledirt-full.png",
         "file": {
           "primaryBytes": 1616,
           "totalBytes": 1616,
@@ -11133,7 +11369,9 @@
             "sha256": "389a4a69f74e5c5c30bafb011d38addade4bebcc8bad80d5c2f780175663b33e",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tiledirt-full/kenney-hexagon-tiles-tiles-tiledirt-full.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tiledirt-full/kenney-hexagon-tiles-tiles-tiledirt-full.png"
           }
         ],
         "source": {
@@ -11191,6 +11429,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tiledirt-full/kenney-hexagon-tiles-tiles-tiledirt-full.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tiledirt-full.png",
         "preview": null
       }
     },
@@ -11205,7 +11445,7 @@
         "relativePath": "Tiles/tileDirt_tile.png",
         "canonicalRelativePath": "Tiles/tileDirt_tile.png",
         "fileName": "tileDirt_tile.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tiledirt-tile.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tiledirt-tile/kenney-hexagon-tiles-tiles-tiledirt-tile.png",
         "file": {
           "primaryBytes": 1401,
           "totalBytes": 1401,
@@ -11285,7 +11525,9 @@
             "sha256": "17b449c0340799a926fdebd5abbeddf967613e22c349a9c392964e243bf88b4a",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tiledirt-tile/kenney-hexagon-tiles-tiles-tiledirt-tile.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tiledirt-tile/kenney-hexagon-tiles-tiles-tiledirt-tile.png"
           }
         ],
         "source": {
@@ -11342,6 +11584,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tiledirt-tile/kenney-hexagon-tiles-tiles-tiledirt-tile.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tiledirt-tile.png",
         "preview": null
       }
     },
@@ -11356,7 +11600,7 @@
         "relativePath": "Tiles/tileGrass.png",
         "canonicalRelativePath": "Tiles/tileGrass.png",
         "fileName": "tileGrass.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilegrass.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilegrass/kenney-hexagon-tiles-tiles-tilegrass.png",
         "file": {
           "primaryBytes": 2220,
           "totalBytes": 2220,
@@ -11436,7 +11680,9 @@
             "sha256": "ecfc9be230c96162b9af8d8d76bc08026af679161c7113a274b89c70ee40c651",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilegrass/kenney-hexagon-tiles-tiles-tilegrass.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilegrass/kenney-hexagon-tiles-tiles-tilegrass.png"
           }
         ],
         "source": {
@@ -11493,6 +11739,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilegrass/kenney-hexagon-tiles-tiles-tilegrass.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilegrass.png",
         "preview": null
       }
     },
@@ -11507,7 +11755,7 @@
         "relativePath": "Tiles/tileGrass_full.png",
         "canonicalRelativePath": "Tiles/tileGrass_full.png",
         "fileName": "tileGrass_full.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilegrass-full.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilegrass-full/kenney-hexagon-tiles-tiles-tilegrass-full.png",
         "file": {
           "primaryBytes": 1621,
           "totalBytes": 1621,
@@ -11587,7 +11835,9 @@
             "sha256": "d7c66c9e554e78d25d41473545e90a9fd314b58b5eba13a78365cfe3354bb102",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilegrass-full/kenney-hexagon-tiles-tiles-tilegrass-full.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilegrass-full/kenney-hexagon-tiles-tiles-tilegrass-full.png"
           }
         ],
         "source": {
@@ -11645,6 +11895,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilegrass-full/kenney-hexagon-tiles-tiles-tilegrass-full.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilegrass-full.png",
         "preview": null
       }
     },
@@ -11659,7 +11911,7 @@
         "relativePath": "Tiles/tileGrass_tile.png",
         "canonicalRelativePath": "Tiles/tileGrass_tile.png",
         "fileName": "tileGrass_tile.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilegrass-tile.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilegrass-tile/kenney-hexagon-tiles-tiles-tilegrass-tile.png",
         "file": {
           "primaryBytes": 1401,
           "totalBytes": 1401,
@@ -11739,7 +11991,9 @@
             "sha256": "a1a33f9a649a0d2078f7cca5beb38f2dc287ff96cc3edb57989e0df272af5034",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilegrass-tile/kenney-hexagon-tiles-tiles-tilegrass-tile.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilegrass-tile/kenney-hexagon-tiles-tiles-tilegrass-tile.png"
           }
         ],
         "source": {
@@ -11796,6 +12050,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilegrass-tile/kenney-hexagon-tiles-tiles-tilegrass-tile.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilegrass-tile.png",
         "preview": null
       }
     },
@@ -11810,7 +12066,7 @@
         "relativePath": "Tiles/tileLava.png",
         "canonicalRelativePath": "Tiles/tileLava.png",
         "fileName": "tileLava.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilelava.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilelava/kenney-hexagon-tiles-tiles-tilelava.png",
         "file": {
           "primaryBytes": 1967,
           "totalBytes": 1967,
@@ -11890,7 +12146,9 @@
             "sha256": "4339afc6ee8226934170d2d5ecfbd9eb3704f77128d556803c43d665436f89a4",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilelava/kenney-hexagon-tiles-tiles-tilelava.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilelava/kenney-hexagon-tiles-tiles-tilelava.png"
           }
         ],
         "source": {
@@ -11946,6 +12204,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilelava/kenney-hexagon-tiles-tiles-tilelava.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilelava.png",
         "preview": null
       }
     },
@@ -11960,7 +12220,7 @@
         "relativePath": "Tiles/tileLava_full.png",
         "canonicalRelativePath": "Tiles/tileLava_full.png",
         "fileName": "tileLava_full.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilelava-full.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilelava-full/kenney-hexagon-tiles-tiles-tilelava-full.png",
         "file": {
           "primaryBytes": 1607,
           "totalBytes": 1607,
@@ -12040,7 +12300,9 @@
             "sha256": "d8a2c5e8f39f364aacbbe8d4c37eea90a3e230c42e4f809de0435a27024d0664",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilelava-full/kenney-hexagon-tiles-tiles-tilelava-full.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilelava-full/kenney-hexagon-tiles-tiles-tilelava-full.png"
           }
         ],
         "source": {
@@ -12097,6 +12359,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilelava-full/kenney-hexagon-tiles-tiles-tilelava-full.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilelava-full.png",
         "preview": null
       }
     },
@@ -12111,7 +12375,7 @@
         "relativePath": "Tiles/tileLava_tile.png",
         "canonicalRelativePath": "Tiles/tileLava_tile.png",
         "fileName": "tileLava_tile.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilelava-tile.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilelava-tile/kenney-hexagon-tiles-tiles-tilelava-tile.png",
         "file": {
           "primaryBytes": 1396,
           "totalBytes": 1396,
@@ -12191,7 +12455,9 @@
             "sha256": "dd766f70e0eed4fa64a1c25f58edc4273d6f158e61a8646aa834c2996381f590",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilelava-tile/kenney-hexagon-tiles-tiles-tilelava-tile.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilelava-tile/kenney-hexagon-tiles-tiles-tilelava-tile.png"
           }
         ],
         "source": {
@@ -12247,6 +12513,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilelava-tile/kenney-hexagon-tiles-tiles-tilelava-tile.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilelava-tile.png",
         "preview": null
       }
     },
@@ -12261,7 +12529,7 @@
         "relativePath": "Tiles/tileMagic.png",
         "canonicalRelativePath": "Tiles/tileMagic.png",
         "fileName": "tileMagic.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilemagic.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilemagic/kenney-hexagon-tiles-tiles-tilemagic.png",
         "file": {
           "primaryBytes": 2143,
           "totalBytes": 2143,
@@ -12341,7 +12609,9 @@
             "sha256": "b2973930469e8e13933addc2603690658fc4bfc39578429c742e8a0769f41e50",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilemagic/kenney-hexagon-tiles-tiles-tilemagic.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilemagic/kenney-hexagon-tiles-tiles-tilemagic.png"
           }
         ],
         "source": {
@@ -12397,6 +12667,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilemagic/kenney-hexagon-tiles-tiles-tilemagic.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilemagic.png",
         "preview": null
       }
     },
@@ -12411,7 +12683,7 @@
         "relativePath": "Tiles/tileMagic_full.png",
         "canonicalRelativePath": "Tiles/tileMagic_full.png",
         "fileName": "tileMagic_full.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilemagic-full.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilemagic-full/kenney-hexagon-tiles-tiles-tilemagic-full.png",
         "file": {
           "primaryBytes": 1609,
           "totalBytes": 1609,
@@ -12491,7 +12763,9 @@
             "sha256": "3c226cd7eb0b748e1247f5a551d252da3c169e49a1b68f4f0a10ce5539fef20e",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilemagic-full/kenney-hexagon-tiles-tiles-tilemagic-full.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilemagic-full/kenney-hexagon-tiles-tiles-tilemagic-full.png"
           }
         ],
         "source": {
@@ -12548,6 +12822,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilemagic-full/kenney-hexagon-tiles-tiles-tilemagic-full.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilemagic-full.png",
         "preview": null
       }
     },
@@ -12562,7 +12838,7 @@
         "relativePath": "Tiles/tileMagic_tile.png",
         "canonicalRelativePath": "Tiles/tileMagic_tile.png",
         "fileName": "tileMagic_tile.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilemagic-tile.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilemagic-tile/kenney-hexagon-tiles-tiles-tilemagic-tile.png",
         "file": {
           "primaryBytes": 1399,
           "totalBytes": 1399,
@@ -12642,7 +12918,9 @@
             "sha256": "f7d1247375e1bac754dee8c178b18fa3b404074d58b40d92bbb6213f863b7629",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilemagic-tile/kenney-hexagon-tiles-tiles-tilemagic-tile.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilemagic-tile/kenney-hexagon-tiles-tiles-tilemagic-tile.png"
           }
         ],
         "source": {
@@ -12698,6 +12976,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilemagic-tile/kenney-hexagon-tiles-tiles-tilemagic-tile.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilemagic-tile.png",
         "preview": null
       }
     },
@@ -12712,7 +12992,7 @@
         "relativePath": "Tiles/tileRock.png",
         "canonicalRelativePath": "Tiles/tileRock.png",
         "fileName": "tileRock.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilerock.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilerock/kenney-hexagon-tiles-tiles-tilerock.png",
         "file": {
           "primaryBytes": 1721,
           "totalBytes": 1721,
@@ -12792,7 +13072,9 @@
             "sha256": "12e1a9d88df76b60801c2c80ae6ace9e1b6d5595a007f16a3a83d4237704f2c2",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilerock/kenney-hexagon-tiles-tiles-tilerock.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilerock/kenney-hexagon-tiles-tiles-tilerock.png"
           }
         ],
         "source": {
@@ -12849,6 +13131,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilerock/kenney-hexagon-tiles-tiles-tilerock.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilerock.png",
         "preview": null
       }
     },
@@ -12863,7 +13147,7 @@
         "relativePath": "Tiles/tileRock_full.png",
         "canonicalRelativePath": "Tiles/tileRock_full.png",
         "fileName": "tileRock_full.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilerock-full.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilerock-full/kenney-hexagon-tiles-tiles-tilerock-full.png",
         "file": {
           "primaryBytes": 1602,
           "totalBytes": 1602,
@@ -12943,7 +13227,9 @@
             "sha256": "f3f36862c02755ff2b67ad5556853513da5ce82f186103856ab43dc502fded0d",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilerock-full/kenney-hexagon-tiles-tiles-tilerock-full.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilerock-full/kenney-hexagon-tiles-tiles-tilerock-full.png"
           }
         ],
         "source": {
@@ -13001,6 +13287,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilerock-full/kenney-hexagon-tiles-tiles-tilerock-full.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilerock-full.png",
         "preview": null
       }
     },
@@ -13015,7 +13303,7 @@
         "relativePath": "Tiles/tileRock_tile.png",
         "canonicalRelativePath": "Tiles/tileRock_tile.png",
         "fileName": "tileRock_tile.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilerock-tile.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilerock-tile/kenney-hexagon-tiles-tiles-tilerock-tile.png",
         "file": {
           "primaryBytes": 1393,
           "totalBytes": 1393,
@@ -13095,7 +13383,9 @@
             "sha256": "c24df2029099a00e028cf0cdf895fc742208fa270852318efe02b6bc50da6be4",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilerock-tile/kenney-hexagon-tiles-tiles-tilerock-tile.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilerock-tile/kenney-hexagon-tiles-tiles-tilerock-tile.png"
           }
         ],
         "source": {
@@ -13152,6 +13442,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilerock-tile/kenney-hexagon-tiles-tiles-tilerock-tile.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilerock-tile.png",
         "preview": null
       }
     },
@@ -13166,7 +13458,7 @@
         "relativePath": "Tiles/tileSand.png",
         "canonicalRelativePath": "Tiles/tileSand.png",
         "fileName": "tileSand.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilesand.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilesand/kenney-hexagon-tiles-tiles-tilesand.png",
         "file": {
           "primaryBytes": 1946,
           "totalBytes": 1946,
@@ -13246,7 +13538,9 @@
             "sha256": "d5acc931d357ea0956d582328b42a23aae03753ad1571fffafa513371a68e763",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilesand/kenney-hexagon-tiles-tiles-tilesand.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilesand/kenney-hexagon-tiles-tiles-tilesand.png"
           }
         ],
         "source": {
@@ -13303,6 +13597,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilesand/kenney-hexagon-tiles-tiles-tilesand.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilesand.png",
         "preview": null
       }
     },
@@ -13317,7 +13613,7 @@
         "relativePath": "Tiles/tileSand_full.png",
         "canonicalRelativePath": "Tiles/tileSand_full.png",
         "fileName": "tileSand_full.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilesand-full.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilesand-full/kenney-hexagon-tiles-tiles-tilesand-full.png",
         "file": {
           "primaryBytes": 1612,
           "totalBytes": 1612,
@@ -13397,7 +13693,9 @@
             "sha256": "29c532dcdc06a41450981c3dca0e18a43c4749f39bea360ff2bee316b2146a51",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilesand-full/kenney-hexagon-tiles-tiles-tilesand-full.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilesand-full/kenney-hexagon-tiles-tiles-tilesand-full.png"
           }
         ],
         "source": {
@@ -13455,6 +13753,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilesand-full/kenney-hexagon-tiles-tiles-tilesand-full.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilesand-full.png",
         "preview": null
       }
     },
@@ -13469,7 +13769,7 @@
         "relativePath": "Tiles/tileSand_tile.png",
         "canonicalRelativePath": "Tiles/tileSand_tile.png",
         "fileName": "tileSand_tile.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilesand-tile.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilesand-tile/kenney-hexagon-tiles-tiles-tilesand-tile.png",
         "file": {
           "primaryBytes": 1399,
           "totalBytes": 1399,
@@ -13549,7 +13849,9 @@
             "sha256": "9fa13554384d514b6e52be91e8a2b353a7e95167bbe30d217180a37fb8b6b41d",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilesand-tile/kenney-hexagon-tiles-tiles-tilesand-tile.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilesand-tile/kenney-hexagon-tiles-tiles-tilesand-tile.png"
           }
         ],
         "source": {
@@ -13606,6 +13908,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilesand-tile/kenney-hexagon-tiles-tiles-tilesand-tile.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilesand-tile.png",
         "preview": null
       }
     },
@@ -13620,7 +13924,7 @@
         "relativePath": "Tiles/tileSnow.png",
         "canonicalRelativePath": "Tiles/tileSnow.png",
         "fileName": "tileSnow.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilesnow.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilesnow/kenney-hexagon-tiles-tiles-tilesnow.png",
         "file": {
           "primaryBytes": 1904,
           "totalBytes": 1904,
@@ -13700,7 +14004,9 @@
             "sha256": "915c3b785158a186fc5c9c4544db59ab4499ef19cee9399a896be82fbc552a8b",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilesnow/kenney-hexagon-tiles-tiles-tilesnow.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilesnow/kenney-hexagon-tiles-tiles-tilesnow.png"
           }
         ],
         "source": {
@@ -13756,6 +14062,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilesnow/kenney-hexagon-tiles-tiles-tilesnow.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilesnow.png",
         "preview": null
       }
     },
@@ -13770,7 +14078,7 @@
         "relativePath": "Tiles/tileSnow_full.png",
         "canonicalRelativePath": "Tiles/tileSnow_full.png",
         "fileName": "tileSnow_full.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilesnow-full.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilesnow-full/kenney-hexagon-tiles-tiles-tilesnow-full.png",
         "file": {
           "primaryBytes": 1603,
           "totalBytes": 1603,
@@ -13850,7 +14158,9 @@
             "sha256": "030902f4e09254e6d6429842057ba2c2a482ad5e53ecbd70048410137218a945",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilesnow-full/kenney-hexagon-tiles-tiles-tilesnow-full.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilesnow-full/kenney-hexagon-tiles-tiles-tilesnow-full.png"
           }
         ],
         "source": {
@@ -13907,6 +14217,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilesnow-full/kenney-hexagon-tiles-tiles-tilesnow-full.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilesnow-full.png",
         "preview": null
       }
     },
@@ -13921,7 +14233,7 @@
         "relativePath": "Tiles/tileSnow_tile.png",
         "canonicalRelativePath": "Tiles/tileSnow_tile.png",
         "fileName": "tileSnow_tile.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilesnow-tile.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilesnow-tile/kenney-hexagon-tiles-tiles-tilesnow-tile.png",
         "file": {
           "primaryBytes": 1440,
           "totalBytes": 1440,
@@ -14001,7 +14313,9 @@
             "sha256": "f3970c5f36c723f8aacf7df4dc39d603a95c3fe06b6ca01e4e9f73b6b0cc95a4",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilesnow-tile/kenney-hexagon-tiles-tiles-tilesnow-tile.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilesnow-tile/kenney-hexagon-tiles-tiles-tilesnow-tile.png"
           }
         ],
         "source": {
@@ -14057,6 +14371,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilesnow-tile/kenney-hexagon-tiles-tiles-tilesnow-tile.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilesnow-tile.png",
         "preview": null
       }
     },
@@ -14071,7 +14387,7 @@
         "relativePath": "Tiles/tileStone.png",
         "canonicalRelativePath": "Tiles/tileStone.png",
         "fileName": "tileStone.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilestone.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilestone/kenney-hexagon-tiles-tiles-tilestone.png",
         "file": {
           "primaryBytes": 1698,
           "totalBytes": 1698,
@@ -14151,7 +14467,9 @@
             "sha256": "dcaed7a320eb0661a884ae053bb4a2f84270a79a942a294199334b66128e55c5",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilestone/kenney-hexagon-tiles-tiles-tilestone.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilestone/kenney-hexagon-tiles-tiles-tilestone.png"
           }
         ],
         "source": {
@@ -14208,6 +14526,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilestone/kenney-hexagon-tiles-tiles-tilestone.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilestone.png",
         "preview": null
       }
     },
@@ -14222,7 +14542,7 @@
         "relativePath": "Tiles/tileStone_bridge.png",
         "canonicalRelativePath": "Tiles/tileStone_bridge.png",
         "fileName": "tileStone_bridge.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilestone-bridge.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilestone-bridge/kenney-hexagon-tiles-tiles-tilestone-bridge.png",
         "file": {
           "primaryBytes": 1533,
           "totalBytes": 1533,
@@ -14302,7 +14622,9 @@
             "sha256": "97e220df2c5984e6fede786b8136233a52ef5870aacf5082432dd6f88f8531bb",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilestone-bridge/kenney-hexagon-tiles-tiles-tilestone-bridge.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilestone-bridge/kenney-hexagon-tiles-tiles-tilestone-bridge.png"
           }
         ],
         "source": {
@@ -14361,6 +14683,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilestone-bridge/kenney-hexagon-tiles-tiles-tilestone-bridge.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilestone-bridge.png",
         "preview": null
       }
     },
@@ -14375,7 +14699,7 @@
         "relativePath": "Tiles/tileStone_full.png",
         "canonicalRelativePath": "Tiles/tileStone_full.png",
         "fileName": "tileStone_full.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilestone-full.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilestone-full/kenney-hexagon-tiles-tiles-tilestone-full.png",
         "file": {
           "primaryBytes": 1600,
           "totalBytes": 1600,
@@ -14455,7 +14779,9 @@
             "sha256": "312e2539ddbfd0b803509d23a2553670dfedbea7f33dadb96da3165e72d4c15d",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilestone-full/kenney-hexagon-tiles-tiles-tilestone-full.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilestone-full/kenney-hexagon-tiles-tiles-tilestone-full.png"
           }
         ],
         "source": {
@@ -14513,6 +14839,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilestone-full/kenney-hexagon-tiles-tiles-tilestone-full.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilestone-full.png",
         "preview": null
       }
     },
@@ -14527,7 +14855,7 @@
         "relativePath": "Tiles/tileStone_tile.png",
         "canonicalRelativePath": "Tiles/tileStone_tile.png",
         "fileName": "tileStone_tile.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilestone-tile.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilestone-tile/kenney-hexagon-tiles-tiles-tilestone-tile.png",
         "file": {
           "primaryBytes": 1399,
           "totalBytes": 1399,
@@ -14607,7 +14935,9 @@
             "sha256": "c5b0da9a99d60cc5b9bff66c33836d17e40d81239cff8968f39eb8b20e778d23",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilestone-tile/kenney-hexagon-tiles-tiles-tilestone-tile.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilestone-tile/kenney-hexagon-tiles-tiles-tilestone-tile.png"
           }
         ],
         "source": {
@@ -14664,6 +14994,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilestone-tile/kenney-hexagon-tiles-tiles-tilestone-tile.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilestone-tile.png",
         "preview": null
       }
     },
@@ -14678,7 +15010,7 @@
         "relativePath": "Tiles/tileWater.png",
         "canonicalRelativePath": "Tiles/tileWater.png",
         "fileName": "tileWater.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilewater.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilewater/kenney-hexagon-tiles-tiles-tilewater.png",
         "file": {
           "primaryBytes": 1932,
           "totalBytes": 1932,
@@ -14758,7 +15090,9 @@
             "sha256": "ef00bc9112689bc02fcf3c2a9e33be2fa87f78465ef3c1176f546cf26cd10b46",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilewater/kenney-hexagon-tiles-tiles-tilewater.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilewater/kenney-hexagon-tiles-tiles-tilewater.png"
           }
         ],
         "source": {
@@ -14814,6 +15148,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilewater/kenney-hexagon-tiles-tiles-tilewater.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilewater.png",
         "preview": null
       }
     },
@@ -14828,7 +15164,7 @@
         "relativePath": "Tiles/tileWater_full.png",
         "canonicalRelativePath": "Tiles/tileWater_full.png",
         "fileName": "tileWater_full.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilewater-full.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilewater-full/kenney-hexagon-tiles-tiles-tilewater-full.png",
         "file": {
           "primaryBytes": 1597,
           "totalBytes": 1597,
@@ -14908,7 +15244,9 @@
             "sha256": "7cdeefcbf69919c3ea9f2cca310f27cdf939601d94cc59f5bc6d60465234f236",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilewater-full/kenney-hexagon-tiles-tiles-tilewater-full.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilewater-full/kenney-hexagon-tiles-tiles-tilewater-full.png"
           }
         ],
         "source": {
@@ -14965,6 +15303,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilewater-full/kenney-hexagon-tiles-tiles-tilewater-full.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilewater-full.png",
         "preview": null
       }
     },
@@ -14979,7 +15319,7 @@
         "relativePath": "Tiles/tileWater_shadow.png",
         "canonicalRelativePath": "Tiles/tileWater_shadow.png",
         "fileName": "tileWater_shadow.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilewater-shadow.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilewater-shadow/kenney-hexagon-tiles-tiles-tilewater-shadow.png",
         "file": {
           "primaryBytes": 1556,
           "totalBytes": 1556,
@@ -15059,7 +15399,9 @@
             "sha256": "e4ca35c754d022846db77e32fb782a1204fc3b552bd1922d2c4bd910196b1870",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilewater-shadow/kenney-hexagon-tiles-tiles-tilewater-shadow.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilewater-shadow/kenney-hexagon-tiles-tiles-tilewater-shadow.png"
           }
         ],
         "source": {
@@ -15116,6 +15458,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilewater-shadow/kenney-hexagon-tiles-tiles-tilewater-shadow.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilewater-shadow.png",
         "preview": null
       }
     },
@@ -15130,7 +15474,7 @@
         "relativePath": "Tiles/tileWater_tile.png",
         "canonicalRelativePath": "Tiles/tileWater_tile.png",
         "fileName": "tileWater_tile.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilewater-tile.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilewater-tile/kenney-hexagon-tiles-tiles-tilewater-tile.png",
         "file": {
           "primaryBytes": 1401,
           "totalBytes": 1401,
@@ -15210,7 +15554,9 @@
             "sha256": "f982bba2f36e89a7e51631e15f00eeb84f74c05946e28a6642d10fc4b85151e7",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilewater-tile/kenney-hexagon-tiles-tiles-tilewater-tile.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilewater-tile/kenney-hexagon-tiles-tiles-tilewater-tile.png"
           }
         ],
         "source": {
@@ -15266,6 +15612,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilewater-tile/kenney-hexagon-tiles-tiles-tilewater-tile.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilewater-tile.png",
         "preview": null
       }
     },
@@ -15280,7 +15628,7 @@
         "relativePath": "Tiles/tileWood_bridge.png",
         "canonicalRelativePath": "Tiles/tileWood_bridge.png",
         "fileName": "tileWood_bridge.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilewood-bridge.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilewood-bridge/kenney-hexagon-tiles-tiles-tilewood-bridge.png",
         "file": {
           "primaryBytes": 1563,
           "totalBytes": 1563,
@@ -15360,7 +15708,9 @@
             "sha256": "0f7e7efe6dd94526f67183badcc56a337c1987ddc78b71eff717a0dfd33480d6",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilewood-bridge/kenney-hexagon-tiles-tiles-tilewood-bridge.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilewood-bridge/kenney-hexagon-tiles-tiles-tilewood-bridge.png"
           }
         ],
         "source": {
@@ -15419,6 +15769,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-tilewood-bridge/kenney-hexagon-tiles-tiles-tilewood-bridge.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-tilewood-bridge.png",
         "preview": null
       }
     },
@@ -15433,7 +15785,7 @@
         "relativePath": "Tiles/treeAutumn_high.png",
         "canonicalRelativePath": "Tiles/treeAutumn_high.png",
         "fileName": "treeAutumn_high.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-treeautumn-high.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treeautumn-high/kenney-hexagon-tiles-tiles-treeautumn-high.png",
         "file": {
           "primaryBytes": 844,
           "totalBytes": 844,
@@ -15513,7 +15865,9 @@
             "sha256": "e72b3ead02bb5bdff88c28026f2ca4db47e669008a629d57ecfff87b3b05ccf8",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treeautumn-high/kenney-hexagon-tiles-tiles-treeautumn-high.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treeautumn-high/kenney-hexagon-tiles-tiles-treeautumn-high.png"
           }
         ],
         "source": {
@@ -15576,6 +15930,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treeautumn-high/kenney-hexagon-tiles-tiles-treeautumn-high.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-treeautumn-high.png",
         "preview": null
       }
     },
@@ -15590,7 +15946,7 @@
         "relativePath": "Tiles/treeAutumn_low.png",
         "canonicalRelativePath": "Tiles/treeAutumn_low.png",
         "fileName": "treeAutumn_low.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-treeautumn-low.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treeautumn-low/kenney-hexagon-tiles-tiles-treeautumn-low.png",
         "file": {
           "primaryBytes": 835,
           "totalBytes": 835,
@@ -15670,7 +16026,9 @@
             "sha256": "4d6b4326aa836a2a0d27918451f6ced118b8f46c6b8259c9a6ccdf88a7c729d2",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treeautumn-low/kenney-hexagon-tiles-tiles-treeautumn-low.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treeautumn-low/kenney-hexagon-tiles-tiles-treeautumn-low.png"
           }
         ],
         "source": {
@@ -15733,6 +16091,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treeautumn-low/kenney-hexagon-tiles-tiles-treeautumn-low.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-treeautumn-low.png",
         "preview": null
       }
     },
@@ -15747,7 +16107,7 @@
         "relativePath": "Tiles/treeAutumn_mid.png",
         "canonicalRelativePath": "Tiles/treeAutumn_mid.png",
         "fileName": "treeAutumn_mid.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-treeautumn-mid.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treeautumn-mid/kenney-hexagon-tiles-tiles-treeautumn-mid.png",
         "file": {
           "primaryBytes": 1003,
           "totalBytes": 1003,
@@ -15827,7 +16187,9 @@
             "sha256": "64585be3db95cd4510231a1d8f4ce912f4747d60020fa8bc1412aab529b2afcc",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treeautumn-mid/kenney-hexagon-tiles-tiles-treeautumn-mid.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treeautumn-mid/kenney-hexagon-tiles-tiles-treeautumn-mid.png"
           }
         ],
         "source": {
@@ -15890,6 +16252,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treeautumn-mid/kenney-hexagon-tiles-tiles-treeautumn-mid.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-treeautumn-mid.png",
         "preview": null
       }
     },
@@ -15904,7 +16268,7 @@
         "relativePath": "Tiles/treeBlue_high.png",
         "canonicalRelativePath": "Tiles/treeBlue_high.png",
         "fileName": "treeBlue_high.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-treeblue-high.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treeblue-high/kenney-hexagon-tiles-tiles-treeblue-high.png",
         "file": {
           "primaryBytes": 861,
           "totalBytes": 861,
@@ -15984,7 +16348,9 @@
             "sha256": "a484fcc2cffcf7b5bd56a0b393233b593315de14155e37b01efbe2b3d60d3532",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treeblue-high/kenney-hexagon-tiles-tiles-treeblue-high.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treeblue-high/kenney-hexagon-tiles-tiles-treeblue-high.png"
           }
         ],
         "source": {
@@ -16047,6 +16413,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treeblue-high/kenney-hexagon-tiles-tiles-treeblue-high.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-treeblue-high.png",
         "preview": null
       }
     },
@@ -16061,7 +16429,7 @@
         "relativePath": "Tiles/treeBlue_low.png",
         "canonicalRelativePath": "Tiles/treeBlue_low.png",
         "fileName": "treeBlue_low.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-treeblue-low.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treeblue-low/kenney-hexagon-tiles-tiles-treeblue-low.png",
         "file": {
           "primaryBytes": 851,
           "totalBytes": 851,
@@ -16141,7 +16509,9 @@
             "sha256": "0bc65be8c547530526cb59f057ac84d8a0909488bc26f1aef87509f6292e6492",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treeblue-low/kenney-hexagon-tiles-tiles-treeblue-low.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treeblue-low/kenney-hexagon-tiles-tiles-treeblue-low.png"
           }
         ],
         "source": {
@@ -16204,6 +16574,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treeblue-low/kenney-hexagon-tiles-tiles-treeblue-low.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-treeblue-low.png",
         "preview": null
       }
     },
@@ -16218,7 +16590,7 @@
         "relativePath": "Tiles/treeBlue_mid.png",
         "canonicalRelativePath": "Tiles/treeBlue_mid.png",
         "fileName": "treeBlue_mid.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-treeblue-mid.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treeblue-mid/kenney-hexagon-tiles-tiles-treeblue-mid.png",
         "file": {
           "primaryBytes": 1005,
           "totalBytes": 1005,
@@ -16298,7 +16670,9 @@
             "sha256": "ab37a34e73a9e8ce2fac157a5206512e86c53b4f0f07fe8cfddae7429903f128",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treeblue-mid/kenney-hexagon-tiles-tiles-treeblue-mid.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treeblue-mid/kenney-hexagon-tiles-tiles-treeblue-mid.png"
           }
         ],
         "source": {
@@ -16361,6 +16735,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treeblue-mid/kenney-hexagon-tiles-tiles-treeblue-mid.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-treeblue-mid.png",
         "preview": null
       }
     },
@@ -16375,7 +16751,7 @@
         "relativePath": "Tiles/treeCactus_1.png",
         "canonicalRelativePath": "Tiles/treeCactus_1.png",
         "fileName": "treeCactus_1.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-treecactus-1.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treecactus-1/kenney-hexagon-tiles-tiles-treecactus-1.png",
         "file": {
           "primaryBytes": 950,
           "totalBytes": 950,
@@ -16455,7 +16831,9 @@
             "sha256": "c7bda061decf30d7f3cfb328a645d706070966c15c4b0bdf3b16e22a91a537b5",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treecactus-1/kenney-hexagon-tiles-tiles-treecactus-1.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treecactus-1/kenney-hexagon-tiles-tiles-treecactus-1.png"
           }
         ],
         "source": {
@@ -16518,6 +16896,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treecactus-1/kenney-hexagon-tiles-tiles-treecactus-1.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-treecactus-1.png",
         "preview": null
       }
     },
@@ -16532,7 +16912,7 @@
         "relativePath": "Tiles/treeCactus_2.png",
         "canonicalRelativePath": "Tiles/treeCactus_2.png",
         "fileName": "treeCactus_2.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-treecactus-2.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treecactus-2/kenney-hexagon-tiles-tiles-treecactus-2.png",
         "file": {
           "primaryBytes": 774,
           "totalBytes": 774,
@@ -16612,7 +16992,9 @@
             "sha256": "733493c98cae30f187e451fb00f955883cc6a48744f5cf4f802a72e44e01e96b",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treecactus-2/kenney-hexagon-tiles-tiles-treecactus-2.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treecactus-2/kenney-hexagon-tiles-tiles-treecactus-2.png"
           }
         ],
         "source": {
@@ -16675,6 +17057,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treecactus-2/kenney-hexagon-tiles-tiles-treecactus-2.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-treecactus-2.png",
         "preview": null
       }
     },
@@ -16689,7 +17073,7 @@
         "relativePath": "Tiles/treeCactus_3.png",
         "canonicalRelativePath": "Tiles/treeCactus_3.png",
         "fileName": "treeCactus_3.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-treecactus-3.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treecactus-3/kenney-hexagon-tiles-tiles-treecactus-3.png",
         "file": {
           "primaryBytes": 943,
           "totalBytes": 943,
@@ -16769,7 +17153,9 @@
             "sha256": "ea7da2b5f5c282129da887af755a4ebe75bf662f4bcedc8a3fa0a1f113dcfaaa",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treecactus-3/kenney-hexagon-tiles-tiles-treecactus-3.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treecactus-3/kenney-hexagon-tiles-tiles-treecactus-3.png"
           }
         ],
         "source": {
@@ -16832,6 +17218,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treecactus-3/kenney-hexagon-tiles-tiles-treecactus-3.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-treecactus-3.png",
         "preview": null
       }
     },
@@ -16846,7 +17234,7 @@
         "relativePath": "Tiles/treeGreen_high.png",
         "canonicalRelativePath": "Tiles/treeGreen_high.png",
         "fileName": "treeGreen_high.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-treegreen-high.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treegreen-high/kenney-hexagon-tiles-tiles-treegreen-high.png",
         "file": {
           "primaryBytes": 800,
           "totalBytes": 800,
@@ -16926,7 +17314,9 @@
             "sha256": "72bc10ca9215fedbb57638691007d5d5d55676602551ade81e4b7fb4122814a8",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treegreen-high/kenney-hexagon-tiles-tiles-treegreen-high.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treegreen-high/kenney-hexagon-tiles-tiles-treegreen-high.png"
           }
         ],
         "source": {
@@ -16989,6 +17379,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treegreen-high/kenney-hexagon-tiles-tiles-treegreen-high.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-treegreen-high.png",
         "preview": null
       }
     },
@@ -17003,7 +17395,7 @@
         "relativePath": "Tiles/treeGreen_low.png",
         "canonicalRelativePath": "Tiles/treeGreen_low.png",
         "fileName": "treeGreen_low.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-treegreen-low.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treegreen-low/kenney-hexagon-tiles-tiles-treegreen-low.png",
         "file": {
           "primaryBytes": 791,
           "totalBytes": 791,
@@ -17083,7 +17475,9 @@
             "sha256": "e81496abfa087b69e1e1cef4b0c6a13912f1a94aa49d89c46a546acf748b76e3",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treegreen-low/kenney-hexagon-tiles-tiles-treegreen-low.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treegreen-low/kenney-hexagon-tiles-tiles-treegreen-low.png"
           }
         ],
         "source": {
@@ -17146,6 +17540,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treegreen-low/kenney-hexagon-tiles-tiles-treegreen-low.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-treegreen-low.png",
         "preview": null
       }
     },
@@ -17160,7 +17556,7 @@
         "relativePath": "Tiles/treeGreen_mid.png",
         "canonicalRelativePath": "Tiles/treeGreen_mid.png",
         "fileName": "treeGreen_mid.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-treegreen-mid.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treegreen-mid/kenney-hexagon-tiles-tiles-treegreen-mid.png",
         "file": {
           "primaryBytes": 978,
           "totalBytes": 978,
@@ -17240,7 +17636,9 @@
             "sha256": "e5263cbf92f196d2f1d602dcafb2608e585cc497e71f5fe2d0ef802fc822873d",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treegreen-mid/kenney-hexagon-tiles-tiles-treegreen-mid.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treegreen-mid/kenney-hexagon-tiles-tiles-treegreen-mid.png"
           }
         ],
         "source": {
@@ -17303,6 +17701,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-treegreen-mid/kenney-hexagon-tiles-tiles-treegreen-mid.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-treegreen-mid.png",
         "preview": null
       }
     },
@@ -17317,7 +17717,7 @@
         "relativePath": "Tiles/waveLava.png",
         "canonicalRelativePath": "Tiles/waveLava.png",
         "fileName": "waveLava.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-wavelava.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-wavelava/kenney-hexagon-tiles-tiles-wavelava.png",
         "file": {
           "primaryBytes": 417,
           "totalBytes": 417,
@@ -17397,7 +17797,9 @@
             "sha256": "96881d9adf85fd27a0264b872cff6923ec728e49cb6a2818293a2fb64b2f7b72",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-wavelava/kenney-hexagon-tiles-tiles-wavelava.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-wavelava/kenney-hexagon-tiles-tiles-wavelava.png"
           }
         ],
         "source": {
@@ -17456,6 +17858,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-wavelava/kenney-hexagon-tiles-tiles-wavelava.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-wavelava.png",
         "preview": null
       }
     },
@@ -17470,7 +17874,7 @@
         "relativePath": "Tiles/waveWater.png",
         "canonicalRelativePath": "Tiles/waveWater.png",
         "fileName": "waveWater.png",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-wavewater.png",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-wavewater/kenney-hexagon-tiles-tiles-wavewater.png",
         "file": {
           "primaryBytes": 404,
           "totalBytes": 404,
@@ -17550,7 +17954,9 @@
             "sha256": "9a691d64aa0b5994e3e6788c7eb03b51756cd5142ad562be9f1f3cfdf3e55e16",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-wavewater/kenney-hexagon-tiles-tiles-wavewater.png",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-wavewater/kenney-hexagon-tiles-tiles-wavewater.png"
           }
         ],
         "source": {
@@ -17609,6 +18015,8 @@
         "warnings": [],
         "errors": [],
         "packId": "kenney-hexagon-tiles",
+        "publicPath": "assets/kenney-hexagon-tiles/kenney-hexagon-tiles-tiles-wavewater/kenney-hexagon-tiles-tiles-wavewater.png",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-hexagon-tiles-6580e339d2cd/kenney-hexagon-tiles-tiles-wavewater.png",
         "preview": null
       }
     }

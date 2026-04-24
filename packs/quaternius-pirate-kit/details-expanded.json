@@ -100,7 +100,7 @@
         "format": "gltf",
         "relativePath": "Characters_Anne.gltf",
         "fileName": "Characters_Anne.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-characters-anne.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-characters-anne/quaternius-pirate-kit-characters-anne.gltf",
         "file": {
           "primaryBytes": 1552200,
           "totalBytes": 1552200,
@@ -1070,7 +1070,9 @@
             "sha256": "9eafbfc1250652bbfd338cfd29c258ba0e0fee31586162696ee4bc3217ac3485",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-characters-anne/quaternius-pirate-kit-characters-anne.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-characters-anne/quaternius-pirate-kit-characters-anne.gltf"
           }
         ],
         "source": {
@@ -1175,7 +1177,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-characters-anne.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-characters-anne.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-characters-anne/quaternius-pirate-kit-characters-anne.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-characters-anne.gltf"
       }
     },
     "quaternius-pirate-kit-characters-captain-barbarossa": {
@@ -1188,7 +1192,7 @@
         "format": "gltf",
         "relativePath": "Characters_Captain_Barbarossa.gltf",
         "fileName": "Characters_Captain_Barbarossa.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-characters-captain-barbarossa.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-characters-captain-barbarossa/quaternius-pirate-kit-characters-captain-barbarossa.gltf",
         "file": {
           "primaryBytes": 1335348,
           "totalBytes": 1335348,
@@ -2039,7 +2043,9 @@
             "sha256": "db9499c91a143750031bcff287cab6c9b63a0682801bb120c128e244f0d6d5c4",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-characters-captain-barbarossa/quaternius-pirate-kit-characters-captain-barbarossa.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-characters-captain-barbarossa/quaternius-pirate-kit-characters-captain-barbarossa.gltf"
           }
         ],
         "source": {
@@ -2147,7 +2153,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-characters-captain-barbarossa.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-characters-captain-barbarossa.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-characters-captain-barbarossa/quaternius-pirate-kit-characters-captain-barbarossa.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-characters-captain-barbarossa.gltf"
       }
     },
     "quaternius-pirate-kit-characters-henry": {
@@ -2160,7 +2168,7 @@
         "format": "gltf",
         "relativePath": "Characters_Henry.gltf",
         "fileName": "Characters_Henry.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-characters-henry.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-characters-henry/quaternius-pirate-kit-characters-henry.gltf",
         "file": {
           "primaryBytes": 1491195,
           "totalBytes": 1491195,
@@ -3130,7 +3138,9 @@
             "sha256": "fc52c1ea8b87a8c24e1710a75290e9f0b520d3f30d2e4be6d3616d82e41fef7e",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-characters-henry/quaternius-pirate-kit-characters-henry.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-characters-henry/quaternius-pirate-kit-characters-henry.gltf"
           }
         ],
         "source": {
@@ -3235,7 +3245,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-characters-henry.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-characters-henry.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-characters-henry/quaternius-pirate-kit-characters-henry.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-characters-henry.gltf"
       }
     },
     "quaternius-pirate-kit-characters-mako": {
@@ -3248,7 +3260,7 @@
         "format": "gltf",
         "relativePath": "Characters_Mako.gltf",
         "fileName": "Characters_Mako.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-characters-mako.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-characters-mako/quaternius-pirate-kit-characters-mako.gltf",
         "file": {
           "primaryBytes": 1800069,
           "totalBytes": 1800069,
@@ -4218,7 +4230,9 @@
             "sha256": "2c86b7ab4019a938a5164fc88176e60460fe266fa33b350eb9af275fcfd369e8",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-characters-mako/quaternius-pirate-kit-characters-mako.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-characters-mako/quaternius-pirate-kit-characters-mako.gltf"
           }
         ],
         "source": {
@@ -4323,7 +4337,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-characters-mako.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-characters-mako.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-characters-mako/quaternius-pirate-kit-characters-mako.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-characters-mako.gltf"
       }
     },
     "quaternius-pirate-kit-characters-shark": {
@@ -4336,7 +4352,7 @@
         "format": "gltf",
         "relativePath": "Characters_Shark.gltf",
         "fileName": "Characters_Shark.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-characters-shark.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-characters-shark/quaternius-pirate-kit-characters-shark.gltf",
         "file": {
           "primaryBytes": 701731,
           "totalBytes": 701731,
@@ -4572,7 +4588,9 @@
             "sha256": "1f62e757f280be1337f0ea2d0ac65d54cc448ecc20d5ed052e8012d62de4b9eb",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-characters-shark/quaternius-pirate-kit-characters-shark.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-characters-shark/quaternius-pirate-kit-characters-shark.gltf"
           }
         ],
         "source": {
@@ -4677,7 +4695,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-characters-shark.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-characters-shark.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-characters-shark/quaternius-pirate-kit-characters-shark.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-characters-shark.gltf"
       }
     },
     "quaternius-pirate-kit-characters-sharky": {
@@ -4690,7 +4710,7 @@
         "format": "gltf",
         "relativePath": "Characters_Sharky.gltf",
         "fileName": "Characters_Sharky.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-characters-sharky.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-characters-sharky/quaternius-pirate-kit-characters-sharky.gltf",
         "file": {
           "primaryBytes": 1625097,
           "totalBytes": 1625097,
@@ -5682,7 +5702,9 @@
             "sha256": "868c6f137926fe7cd8997e70e9200fa8ce0e81646866caa091dd125917bac07b",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-characters-sharky/quaternius-pirate-kit-characters-sharky.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-characters-sharky/quaternius-pirate-kit-characters-sharky.gltf"
           }
         ],
         "source": {
@@ -5787,7 +5809,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-characters-sharky.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-characters-sharky.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-characters-sharky/quaternius-pirate-kit-characters-sharky.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-characters-sharky.gltf"
       }
     },
     "quaternius-pirate-kit-characters-skeleton": {
@@ -5800,7 +5824,7 @@
         "format": "gltf",
         "relativePath": "Characters_Skeleton.gltf",
         "fileName": "Characters_Skeleton.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-characters-skeleton.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-characters-skeleton/quaternius-pirate-kit-characters-skeleton.gltf",
         "file": {
           "primaryBytes": 1731410,
           "totalBytes": 1731410,
@@ -6829,7 +6853,9 @@
             "sha256": "c4f060ac42cd3e761a0726dbd339b6e9ae10e153ff10540dffefc44c6270092b",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-characters-skeleton/quaternius-pirate-kit-characters-skeleton.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-characters-skeleton/quaternius-pirate-kit-characters-skeleton.gltf"
           }
         ],
         "source": {
@@ -6934,7 +6960,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-characters-skeleton.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-characters-skeleton.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-characters-skeleton/quaternius-pirate-kit-characters-skeleton.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-characters-skeleton.gltf"
       }
     },
     "quaternius-pirate-kit-characters-skeleton-headless": {
@@ -6947,7 +6975,7 @@
         "format": "gltf",
         "relativePath": "Characters_Skeleton_Headless.gltf",
         "fileName": "Characters_Skeleton_Headless.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-characters-skeleton-headless.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-characters-skeleton-headless/quaternius-pirate-kit-characters-skeleton-headless.gltf",
         "file": {
           "primaryBytes": 1571261,
           "totalBytes": 1571261,
@@ -7976,7 +8004,9 @@
             "sha256": "123c2f4eb47afe173616ec1bf8353f60ca26419b7c25549bab9dedd278607329",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-characters-skeleton-headless/quaternius-pirate-kit-characters-skeleton-headless.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-characters-skeleton-headless/quaternius-pirate-kit-characters-skeleton-headless.gltf"
           }
         ],
         "source": {
@@ -8083,7 +8113,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-characters-skeleton-headless.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-characters-skeleton-headless.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-characters-skeleton-headless/quaternius-pirate-kit-characters-skeleton-headless.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-characters-skeleton-headless.gltf"
       }
     },
     "quaternius-pirate-kit-characters-tentacle": {
@@ -8096,7 +8128,7 @@
         "format": "gltf",
         "relativePath": "Characters_Tentacle.gltf",
         "fileName": "Characters_Tentacle.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-characters-tentacle.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-characters-tentacle/quaternius-pirate-kit-characters-tentacle.gltf",
         "file": {
           "primaryBytes": 460501,
           "totalBytes": 460501,
@@ -8356,7 +8388,9 @@
             "sha256": "2f9215484538bc93a671d328c4a77005b8b14717fac98371d640655eb3da3918",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-characters-tentacle/quaternius-pirate-kit-characters-tentacle.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-characters-tentacle/quaternius-pirate-kit-characters-tentacle.gltf"
           }
         ],
         "source": {
@@ -8461,7 +8495,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-characters-tentacle.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-characters-tentacle.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-characters-tentacle/quaternius-pirate-kit-characters-tentacle.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-characters-tentacle.gltf"
       }
     },
     "quaternius-pirate-kit-enemy-tentacle": {
@@ -8474,7 +8510,7 @@
         "format": "gltf",
         "relativePath": "Enemy_Tentacle.gltf",
         "fileName": "Enemy_Tentacle.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-enemy-tentacle.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-enemy-tentacle/quaternius-pirate-kit-enemy-tentacle.gltf",
         "file": {
           "primaryBytes": 192936,
           "totalBytes": 192936,
@@ -8588,7 +8624,9 @@
             "sha256": "d3c3ec81b0a1315f38a0d90cc747eb3578a064ebd611b3bb3e69e4075e1ea3d5",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-enemy-tentacle/quaternius-pirate-kit-enemy-tentacle.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-enemy-tentacle/quaternius-pirate-kit-enemy-tentacle.gltf"
           }
         ],
         "source": {
@@ -8694,7 +8732,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-enemy-tentacle.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-enemy-tentacle.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-enemy-tentacle/quaternius-pirate-kit-enemy-tentacle.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-enemy-tentacle.gltf"
       }
     },
     "quaternius-pirate-kit-environment-cliff1": {
@@ -8707,7 +8747,7 @@
         "format": "gltf",
         "relativePath": "Environment_Cliff1.gltf",
         "fileName": "Environment_Cliff1.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-cliff1.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-cliff1/quaternius-pirate-kit-environment-cliff1.gltf",
         "file": {
           "primaryBytes": 270947,
           "totalBytes": 270947,
@@ -8821,7 +8861,9 @@
             "sha256": "648acbf25f9b8aa05f38e8f4f7c2421671c606cd6dd77481fadb6dc1f708a0d3",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-cliff1/quaternius-pirate-kit-environment-cliff1.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-cliff1/quaternius-pirate-kit-environment-cliff1.gltf"
           }
         ],
         "source": {
@@ -8919,7 +8961,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-cliff1.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-environment-cliff1.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-cliff1/quaternius-pirate-kit-environment-cliff1.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-cliff1.gltf"
       }
     },
     "quaternius-pirate-kit-environment-cliff2": {
@@ -8932,7 +8976,7 @@
         "format": "gltf",
         "relativePath": "Environment_Cliff2.gltf",
         "fileName": "Environment_Cliff2.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-cliff2.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-cliff2/quaternius-pirate-kit-environment-cliff2.gltf",
         "file": {
           "primaryBytes": 603616,
           "totalBytes": 603616,
@@ -9046,7 +9090,9 @@
             "sha256": "c5c022324a365158e1f2df9b53efde31cd0c2bb27fa4ec198665714c928d2826",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-cliff2/quaternius-pirate-kit-environment-cliff2.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-cliff2/quaternius-pirate-kit-environment-cliff2.gltf"
           }
         ],
         "source": {
@@ -9144,7 +9190,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-cliff2.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-environment-cliff2.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-cliff2/quaternius-pirate-kit-environment-cliff2.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-cliff2.gltf"
       }
     },
     "quaternius-pirate-kit-environment-cliff3": {
@@ -9157,7 +9205,7 @@
         "format": "gltf",
         "relativePath": "Environment_Cliff3.gltf",
         "fileName": "Environment_Cliff3.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-cliff3.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-cliff3/quaternius-pirate-kit-environment-cliff3.gltf",
         "file": {
           "primaryBytes": 624711,
           "totalBytes": 624711,
@@ -9271,7 +9319,9 @@
             "sha256": "0f0566322d2958e0081da2c2910861962ceea7096c400a46ff090bd3f86f0cd0",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-cliff3/quaternius-pirate-kit-environment-cliff3.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-cliff3/quaternius-pirate-kit-environment-cliff3.gltf"
           }
         ],
         "source": {
@@ -9369,7 +9419,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-cliff3.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-environment-cliff3.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-cliff3/quaternius-pirate-kit-environment-cliff3.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-cliff3.gltf"
       }
     },
     "quaternius-pirate-kit-environment-cliff4": {
@@ -9382,7 +9434,7 @@
         "format": "gltf",
         "relativePath": "Environment_Cliff4.gltf",
         "fileName": "Environment_Cliff4.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-cliff4.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-cliff4/quaternius-pirate-kit-environment-cliff4.gltf",
         "file": {
           "primaryBytes": 743217,
           "totalBytes": 743217,
@@ -9496,7 +9548,9 @@
             "sha256": "4f8722d63f775ee923626b6601a8493d36ad5350d085c7922ed929b9960dc1ca",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-cliff4/quaternius-pirate-kit-environment-cliff4.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-cliff4/quaternius-pirate-kit-environment-cliff4.gltf"
           }
         ],
         "source": {
@@ -9594,7 +9648,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-cliff4.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-environment-cliff4.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-cliff4/quaternius-pirate-kit-environment-cliff4.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-cliff4.gltf"
       }
     },
     "quaternius-pirate-kit-environment-dock": {
@@ -9607,7 +9663,7 @@
         "format": "gltf",
         "relativePath": "Environment_Dock.gltf",
         "fileName": "Environment_Dock.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-dock.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-dock/quaternius-pirate-kit-environment-dock.gltf",
         "file": {
           "primaryBytes": 119792,
           "totalBytes": 119792,
@@ -9721,7 +9777,9 @@
             "sha256": "cdbcd1dc78b7adb0a83f9ef475e61c5df5302c2cac9a340266b986165636d940",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-dock/quaternius-pirate-kit-environment-dock.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-dock/quaternius-pirate-kit-environment-dock.gltf"
           }
         ],
         "source": {
@@ -9819,7 +9877,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-dock.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-environment-dock.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-dock/quaternius-pirate-kit-environment-dock.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-dock.gltf"
       }
     },
     "quaternius-pirate-kit-environment-dock-broken": {
@@ -9832,7 +9892,7 @@
         "format": "gltf",
         "relativePath": "Environment_Dock_Broken.gltf",
         "fileName": "Environment_Dock_Broken.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-dock-broken.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-dock-broken/quaternius-pirate-kit-environment-dock-broken.gltf",
         "file": {
           "primaryBytes": 134208,
           "totalBytes": 134208,
@@ -9946,7 +10006,9 @@
             "sha256": "935d5a09562bb64909d70630a2719a9c4eca37aa725cb753acaff0411f838123",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-dock-broken/quaternius-pirate-kit-environment-dock-broken.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-dock-broken/quaternius-pirate-kit-environment-dock-broken.gltf"
           }
         ],
         "source": {
@@ -10045,7 +10107,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-dock-broken.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-environment-dock-broken.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-dock-broken/quaternius-pirate-kit-environment-dock-broken.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-dock-broken.gltf"
       }
     },
     "quaternius-pirate-kit-environment-dock-pole": {
@@ -10058,7 +10122,7 @@
         "format": "gltf",
         "relativePath": "Environment_Dock_Pole.gltf",
         "fileName": "Environment_Dock_Pole.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-dock-pole.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-dock-pole/quaternius-pirate-kit-environment-dock-pole.gltf",
         "file": {
           "primaryBytes": 25593,
           "totalBytes": 25593,
@@ -10172,7 +10236,9 @@
             "sha256": "f5a511f3f59283153ed470b3edd4a3f91700ee31d6fe89fd941510ac08318ced",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-dock-pole/quaternius-pirate-kit-environment-dock-pole.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-dock-pole/quaternius-pirate-kit-environment-dock-pole.gltf"
           }
         ],
         "source": {
@@ -10271,7 +10337,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-dock-pole.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-environment-dock-pole.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-dock-pole/quaternius-pirate-kit-environment-dock-pole.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-dock-pole.gltf"
       }
     },
     "quaternius-pirate-kit-environment-house1": {
@@ -10284,7 +10352,7 @@
         "format": "gltf",
         "relativePath": "Environment_House1.gltf",
         "fileName": "Environment_House1.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-house1.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-house1/quaternius-pirate-kit-environment-house1.gltf",
         "file": {
           "primaryBytes": 913785,
           "totalBytes": 913785,
@@ -10407,7 +10475,9 @@
             "sha256": "85097513cfa68d9b38398a56b1c76ab14dd9a5d0ddb93e8d78401cc7de69114d",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-house1/quaternius-pirate-kit-environment-house1.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-house1/quaternius-pirate-kit-environment-house1.gltf"
           }
         ],
         "source": {
@@ -10505,7 +10575,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-house1.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-environment-house1.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-house1/quaternius-pirate-kit-environment-house1.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-house1.gltf"
       }
     },
     "quaternius-pirate-kit-environment-house2": {
@@ -10518,7 +10590,7 @@
         "format": "gltf",
         "relativePath": "Environment_House2.gltf",
         "fileName": "Environment_House2.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-house2.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-house2/quaternius-pirate-kit-environment-house2.gltf",
         "file": {
           "primaryBytes": 360338,
           "totalBytes": 360338,
@@ -10641,7 +10713,9 @@
             "sha256": "d0b483d0b25fed781c82f0041831444503559bb885d993dd0b0d56712010026d",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-house2/quaternius-pirate-kit-environment-house2.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-house2/quaternius-pirate-kit-environment-house2.gltf"
           }
         ],
         "source": {
@@ -10739,7 +10813,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-house2.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-environment-house2.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-house2/quaternius-pirate-kit-environment-house2.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-house2.gltf"
       }
     },
     "quaternius-pirate-kit-environment-house3": {
@@ -10752,7 +10828,7 @@
         "format": "gltf",
         "relativePath": "Environment_House3.gltf",
         "fileName": "Environment_House3.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-house3.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-house3/quaternius-pirate-kit-environment-house3.gltf",
         "file": {
           "primaryBytes": 798598,
           "totalBytes": 798598,
@@ -10875,7 +10951,9 @@
             "sha256": "d4da178f124de86a7c21a66e009689dff7ad1b9a19c7a70777782343ca2511a2",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-house3/quaternius-pirate-kit-environment-house3.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-house3/quaternius-pirate-kit-environment-house3.gltf"
           }
         ],
         "source": {
@@ -10973,7 +11051,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-house3.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-environment-house3.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-house3/quaternius-pirate-kit-environment-house3.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-house3.gltf"
       }
     },
     "quaternius-pirate-kit-environment-largebones": {
@@ -10986,7 +11066,7 @@
         "format": "gltf",
         "relativePath": "Environment_LargeBones.gltf",
         "fileName": "Environment_LargeBones.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-largebones.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-largebones/quaternius-pirate-kit-environment-largebones.gltf",
         "file": {
           "primaryBytes": 100976,
           "totalBytes": 100976,
@@ -11100,7 +11180,9 @@
             "sha256": "b2b3c698f21628d654c18d2705d90dbc7e9ca0c3354cdcd16b2e8fbb87dde93e",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-largebones/quaternius-pirate-kit-environment-largebones.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-largebones/quaternius-pirate-kit-environment-largebones.gltf"
           }
         ],
         "source": {
@@ -11199,7 +11281,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-largebones.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-environment-largebones.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-largebones/quaternius-pirate-kit-environment-largebones.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-largebones.gltf"
       }
     },
     "quaternius-pirate-kit-environment-palmtree-1": {
@@ -11212,7 +11296,7 @@
         "format": "gltf",
         "relativePath": "Environment_PalmTree_1.gltf",
         "fileName": "Environment_PalmTree_1.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-palmtree-1.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-palmtree-1/quaternius-pirate-kit-environment-palmtree-1.gltf",
         "file": {
           "primaryBytes": 147125,
           "totalBytes": 147125,
@@ -11326,7 +11410,9 @@
             "sha256": "c38f9ee0f5385422a69863a0948d088b1119611b017e872417fceefdaf20ed94",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-palmtree-1/quaternius-pirate-kit-environment-palmtree-1.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-palmtree-1/quaternius-pirate-kit-environment-palmtree-1.gltf"
           }
         ],
         "source": {
@@ -11424,7 +11510,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-palmtree-1.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-environment-palmtree-1.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-palmtree-1/quaternius-pirate-kit-environment-palmtree-1.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-palmtree-1.gltf"
       }
     },
     "quaternius-pirate-kit-environment-palmtree-2": {
@@ -11437,7 +11525,7 @@
         "format": "gltf",
         "relativePath": "Environment_PalmTree_2.gltf",
         "fileName": "Environment_PalmTree_2.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-palmtree-2.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-palmtree-2/quaternius-pirate-kit-environment-palmtree-2.gltf",
         "file": {
           "primaryBytes": 141647,
           "totalBytes": 141647,
@@ -11551,7 +11639,9 @@
             "sha256": "59bf3607dcce7becd1473e96e8d5c1a23ed103aef51e9ce9f95c86278d645829",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-palmtree-2/quaternius-pirate-kit-environment-palmtree-2.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-palmtree-2/quaternius-pirate-kit-environment-palmtree-2.gltf"
           }
         ],
         "source": {
@@ -11649,7 +11739,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-palmtree-2.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-environment-palmtree-2.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-palmtree-2/quaternius-pirate-kit-environment-palmtree-2.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-palmtree-2.gltf"
       }
     },
     "quaternius-pirate-kit-environment-palmtree-3": {
@@ -11662,7 +11754,7 @@
         "format": "gltf",
         "relativePath": "Environment_PalmTree_3.gltf",
         "fileName": "Environment_PalmTree_3.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-palmtree-3.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-palmtree-3/quaternius-pirate-kit-environment-palmtree-3.gltf",
         "file": {
           "primaryBytes": 149860,
           "totalBytes": 149860,
@@ -11776,7 +11868,9 @@
             "sha256": "5bc795e2010d4ee0a6ed8e1a96446478151f804c2ac2ddeb5a01b1dadea632ca",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-palmtree-3/quaternius-pirate-kit-environment-palmtree-3.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-palmtree-3/quaternius-pirate-kit-environment-palmtree-3.gltf"
           }
         ],
         "source": {
@@ -11874,7 +11968,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-palmtree-3.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-environment-palmtree-3.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-palmtree-3/quaternius-pirate-kit-environment-palmtree-3.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-palmtree-3.gltf"
       }
     },
     "quaternius-pirate-kit-environment-rock-1": {
@@ -11887,7 +11983,7 @@
         "format": "gltf",
         "relativePath": "Environment_Rock_1.gltf",
         "fileName": "Environment_Rock_1.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-rock-1.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-rock-1/quaternius-pirate-kit-environment-rock-1.gltf",
         "file": {
           "primaryBytes": 30464,
           "totalBytes": 30464,
@@ -12001,7 +12097,9 @@
             "sha256": "57e7bb033b0db4842d1cadda86af1f3604d5504b9547fc0397001e352c89461b",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-rock-1/quaternius-pirate-kit-environment-rock-1.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-rock-1/quaternius-pirate-kit-environment-rock-1.gltf"
           }
         ],
         "source": {
@@ -12099,7 +12197,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-rock-1.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-environment-rock-1.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-rock-1/quaternius-pirate-kit-environment-rock-1.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-rock-1.gltf"
       }
     },
     "quaternius-pirate-kit-environment-rock-2": {
@@ -12112,7 +12212,7 @@
         "format": "gltf",
         "relativePath": "Environment_Rock_2.gltf",
         "fileName": "Environment_Rock_2.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-rock-2.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-rock-2/quaternius-pirate-kit-environment-rock-2.gltf",
         "file": {
           "primaryBytes": 97520,
           "totalBytes": 97520,
@@ -12226,7 +12326,9 @@
             "sha256": "06c5012110d3a513ebb05c2f9080a3232c457e19cfd4246b63311a1ee2c1518b",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-rock-2/quaternius-pirate-kit-environment-rock-2.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-rock-2/quaternius-pirate-kit-environment-rock-2.gltf"
           }
         ],
         "source": {
@@ -12324,7 +12426,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-rock-2.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-environment-rock-2.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-rock-2/quaternius-pirate-kit-environment-rock-2.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-rock-2.gltf"
       }
     },
     "quaternius-pirate-kit-environment-rock-3": {
@@ -12337,7 +12441,7 @@
         "format": "gltf",
         "relativePath": "Environment_Rock_3.gltf",
         "fileName": "Environment_Rock_3.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-rock-3.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-rock-3/quaternius-pirate-kit-environment-rock-3.gltf",
         "file": {
           "primaryBytes": 28922,
           "totalBytes": 28922,
@@ -12451,7 +12555,9 @@
             "sha256": "ee4717601b37de40126a8d1a35e2f811f1cbe4d38bab27c1bc51fe467d5198f2",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-rock-3/quaternius-pirate-kit-environment-rock-3.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-rock-3/quaternius-pirate-kit-environment-rock-3.gltf"
           }
         ],
         "source": {
@@ -12549,7 +12655,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-rock-3.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-environment-rock-3.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-rock-3/quaternius-pirate-kit-environment-rock-3.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-rock-3.gltf"
       }
     },
     "quaternius-pirate-kit-environment-rock-4": {
@@ -12562,7 +12670,7 @@
         "format": "gltf",
         "relativePath": "Environment_Rock_4.gltf",
         "fileName": "Environment_Rock_4.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-rock-4.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-rock-4/quaternius-pirate-kit-environment-rock-4.gltf",
         "file": {
           "primaryBytes": 29138,
           "totalBytes": 29138,
@@ -12676,7 +12784,9 @@
             "sha256": "1eea738b93713690f3ee0805030c14ad64db0977f256cd9ae638db061d82ecd1",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-rock-4/quaternius-pirate-kit-environment-rock-4.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-rock-4/quaternius-pirate-kit-environment-rock-4.gltf"
           }
         ],
         "source": {
@@ -12774,7 +12884,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-rock-4.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-environment-rock-4.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-rock-4/quaternius-pirate-kit-environment-rock-4.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-rock-4.gltf"
       }
     },
     "quaternius-pirate-kit-environment-rock-5": {
@@ -12787,7 +12899,7 @@
         "format": "gltf",
         "relativePath": "Environment_Rock_5.gltf",
         "fileName": "Environment_Rock_5.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-rock-5.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-rock-5/quaternius-pirate-kit-environment-rock-5.gltf",
         "file": {
           "primaryBytes": 29679,
           "totalBytes": 29679,
@@ -12901,7 +13013,9 @@
             "sha256": "46a2b61c283527b57bf9a56884f5b34cb506e6d4f0c5420027e48c3a5a92da9c",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-rock-5/quaternius-pirate-kit-environment-rock-5.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-rock-5/quaternius-pirate-kit-environment-rock-5.gltf"
           }
         ],
         "source": {
@@ -12999,7 +13113,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-rock-5.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-environment-rock-5.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-rock-5/quaternius-pirate-kit-environment-rock-5.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-rock-5.gltf"
       }
     },
     "quaternius-pirate-kit-environment-sawmill": {
@@ -13012,7 +13128,7 @@
         "format": "gltf",
         "relativePath": "Environment_Sawmill.gltf",
         "fileName": "Environment_Sawmill.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-sawmill.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-sawmill/quaternius-pirate-kit-environment-sawmill.gltf",
         "file": {
           "primaryBytes": 48299,
           "totalBytes": 48299,
@@ -13126,7 +13242,9 @@
             "sha256": "994d359a7cb9dcf232c4d4c7c2b94fe5f48e5a33dcf69b733b60271f0214cb0f",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-sawmill/quaternius-pirate-kit-environment-sawmill.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-sawmill/quaternius-pirate-kit-environment-sawmill.gltf"
           }
         ],
         "source": {
@@ -13224,7 +13342,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-sawmill.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-environment-sawmill.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-sawmill/quaternius-pirate-kit-environment-sawmill.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-sawmill.gltf"
       }
     },
     "quaternius-pirate-kit-environment-skulls": {
@@ -13237,7 +13357,7 @@
         "format": "gltf",
         "relativePath": "Environment_Skulls.gltf",
         "fileName": "Environment_Skulls.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-skulls.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-skulls/quaternius-pirate-kit-environment-skulls.gltf",
         "file": {
           "primaryBytes": 116980,
           "totalBytes": 116980,
@@ -13351,7 +13471,9 @@
             "sha256": "2b04703b2e7b1a5e3063564e4fd0d5b77ed9efcaae2d0bff217c4af5f2b5f768",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-skulls/quaternius-pirate-kit-environment-skulls.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-skulls/quaternius-pirate-kit-environment-skulls.gltf"
           }
         ],
         "source": {
@@ -13449,7 +13571,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-environment-skulls.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-environment-skulls.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-environment-skulls/quaternius-pirate-kit-environment-skulls.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-environment-skulls.gltf"
       }
     },
     "quaternius-pirate-kit-prop-anchor": {
@@ -13462,7 +13586,7 @@
         "format": "gltf",
         "relativePath": "Prop_Anchor.gltf",
         "fileName": "Prop_Anchor.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-anchor.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-anchor/quaternius-pirate-kit-prop-anchor.gltf",
         "file": {
           "primaryBytes": 43082,
           "totalBytes": 43082,
@@ -13577,7 +13701,9 @@
             "sha256": "98504894d03160b86f8b4a34d6e1b9b31bac173ce424378100f13143fd0223fc",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-anchor/quaternius-pirate-kit-prop-anchor.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-anchor/quaternius-pirate-kit-prop-anchor.gltf"
           }
         ],
         "source": {
@@ -13676,7 +13802,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-prop-anchor.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-prop-anchor.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-anchor/quaternius-pirate-kit-prop-anchor.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-anchor.gltf"
       }
     },
     "quaternius-pirate-kit-prop-barrel": {
@@ -13689,7 +13817,7 @@
         "format": "gltf",
         "relativePath": "Prop_Barrel.gltf",
         "fileName": "Prop_Barrel.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-barrel.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-barrel/quaternius-pirate-kit-prop-barrel.gltf",
         "file": {
           "primaryBytes": 45196,
           "totalBytes": 45196,
@@ -13803,7 +13931,9 @@
             "sha256": "5180ba3e2dd3a3485bf24a2e309dc5e24ec22deb2a2da15a516a02085fef66c4",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-barrel/quaternius-pirate-kit-prop-barrel.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-barrel/quaternius-pirate-kit-prop-barrel.gltf"
           }
         ],
         "source": {
@@ -13902,7 +14032,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-prop-barrel.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-prop-barrel.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-barrel/quaternius-pirate-kit-prop-barrel.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-barrel.gltf"
       }
     },
     "quaternius-pirate-kit-prop-bomb": {
@@ -13915,7 +14047,7 @@
         "format": "gltf",
         "relativePath": "Prop_Bomb.gltf",
         "fileName": "Prop_Bomb.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-bomb.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-bomb/quaternius-pirate-kit-prop-bomb.gltf",
         "file": {
           "primaryBytes": 31449,
           "totalBytes": 31449,
@@ -14029,7 +14161,9 @@
             "sha256": "51662694cfca79d985a87cea767cac7f00eff6259752d7b54064d9bb078ef5ba",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-bomb/quaternius-pirate-kit-prop-bomb.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-bomb/quaternius-pirate-kit-prop-bomb.gltf"
           }
         ],
         "source": {
@@ -14128,7 +14262,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-prop-bomb.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-prop-bomb.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-bomb/quaternius-pirate-kit-prop-bomb.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-bomb.gltf"
       }
     },
     "quaternius-pirate-kit-prop-bottle-1": {
@@ -14141,7 +14277,7 @@
         "format": "gltf",
         "relativePath": "Prop_Bottle_1.gltf",
         "fileName": "Prop_Bottle_1.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-bottle-1.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-bottle-1/quaternius-pirate-kit-prop-bottle-1.gltf",
         "file": {
           "primaryBytes": 26008,
           "totalBytes": 26008,
@@ -14255,7 +14391,9 @@
             "sha256": "426d086e8cea225ba7b200d5548448e3ce68c17e135c52b48841fd94fcd0dcd3",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-bottle-1/quaternius-pirate-kit-prop-bottle-1.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-bottle-1/quaternius-pirate-kit-prop-bottle-1.gltf"
           }
         ],
         "source": {
@@ -14354,7 +14492,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-prop-bottle-1.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-prop-bottle-1.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-bottle-1/quaternius-pirate-kit-prop-bottle-1.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-bottle-1.gltf"
       }
     },
     "quaternius-pirate-kit-prop-bottle-2": {
@@ -14367,7 +14507,7 @@
         "format": "gltf",
         "relativePath": "Prop_Bottle_2.gltf",
         "fileName": "Prop_Bottle_2.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-bottle-2.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-bottle-2/quaternius-pirate-kit-prop-bottle-2.gltf",
         "file": {
           "primaryBytes": 26008,
           "totalBytes": 26008,
@@ -14481,7 +14621,9 @@
             "sha256": "7258b3eda2e440f49da3bb71116ee204080f93b31240b2752896abcc26b61723",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-bottle-2/quaternius-pirate-kit-prop-bottle-2.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-bottle-2/quaternius-pirate-kit-prop-bottle-2.gltf"
           }
         ],
         "source": {
@@ -14580,7 +14722,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-prop-bottle-2.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-prop-bottle-2.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-bottle-2/quaternius-pirate-kit-prop-bottle-2.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-bottle-2.gltf"
       }
     },
     "quaternius-pirate-kit-prop-bucket": {
@@ -14593,7 +14737,7 @@
         "format": "gltf",
         "relativePath": "Prop_Bucket.gltf",
         "fileName": "Prop_Bucket.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-bucket.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-bucket/quaternius-pirate-kit-prop-bucket.gltf",
         "file": {
           "primaryBytes": 41601,
           "totalBytes": 41601,
@@ -14707,7 +14851,9 @@
             "sha256": "23dd284c44d7e1bc0f8e948739c47b8215715edacf2e59962cf7c92b59f7d00d",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-bucket/quaternius-pirate-kit-prop-bucket.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-bucket/quaternius-pirate-kit-prop-bucket.gltf"
           }
         ],
         "source": {
@@ -14806,7 +14952,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-prop-bucket.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-prop-bucket.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-bucket/quaternius-pirate-kit-prop-bucket.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-bucket.gltf"
       }
     },
     "quaternius-pirate-kit-prop-bucket-fishes": {
@@ -14819,7 +14967,7 @@
         "format": "gltf",
         "relativePath": "Prop_Bucket_Fishes.gltf",
         "fileName": "Prop_Bucket_Fishes.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-bucket-fishes.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-bucket-fishes/quaternius-pirate-kit-prop-bucket-fishes.gltf",
         "file": {
           "primaryBytes": 217814,
           "totalBytes": 217814,
@@ -14935,7 +15083,9 @@
             "sha256": "f366412e831a4f14b73cf4a1d15e2acc70c2588c36bdf7db24f18d235e059861",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-bucket-fishes/quaternius-pirate-kit-prop-bucket-fishes.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-bucket-fishes/quaternius-pirate-kit-prop-bucket-fishes.gltf"
           }
         ],
         "source": {
@@ -15035,7 +15185,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-prop-bucket-fishes.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-prop-bucket-fishes.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-bucket-fishes/quaternius-pirate-kit-prop-bucket-fishes.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-bucket-fishes.gltf"
       }
     },
     "quaternius-pirate-kit-prop-cannon": {
@@ -15048,7 +15200,7 @@
         "format": "gltf",
         "relativePath": "Prop_Cannon.gltf",
         "fileName": "Prop_Cannon.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-cannon.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-cannon/quaternius-pirate-kit-prop-cannon.gltf",
         "file": {
           "primaryBytes": 123358,
           "totalBytes": 123358,
@@ -15162,7 +15314,9 @@
             "sha256": "3461566b94dd978a52d27461d687d086db10abb932c812d332d38620f9141695",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-cannon/quaternius-pirate-kit-prop-cannon.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-cannon/quaternius-pirate-kit-prop-cannon.gltf"
           }
         ],
         "source": {
@@ -15261,7 +15415,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-prop-cannon.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-prop-cannon.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-cannon/quaternius-pirate-kit-prop-cannon.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-cannon.gltf"
       }
     },
     "quaternius-pirate-kit-prop-cannonball": {
@@ -15274,7 +15430,7 @@
         "format": "gltf",
         "relativePath": "Prop_CannonBall.gltf",
         "fileName": "Prop_CannonBall.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-cannonball.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-cannonball/quaternius-pirate-kit-prop-cannonball.gltf",
         "file": {
           "primaryBytes": 28656,
           "totalBytes": 28656,
@@ -15388,7 +15544,9 @@
             "sha256": "497fb5fe801448edb4cb927f8fa5d014d8ae03b5243a0dcec5598bb6d18da482",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-cannonball/quaternius-pirate-kit-prop-cannonball.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-cannonball/quaternius-pirate-kit-prop-cannonball.gltf"
           }
         ],
         "source": {
@@ -15488,7 +15646,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-prop-cannonball.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-prop-cannonball.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-cannonball/quaternius-pirate-kit-prop-cannonball.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-cannonball.gltf"
       }
     },
     "quaternius-pirate-kit-prop-chest-closed": {
@@ -15501,7 +15661,7 @@
         "format": "gltf",
         "relativePath": "Prop_Chest_Closed.gltf",
         "fileName": "Prop_Chest_Closed.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-chest-closed.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-chest-closed/quaternius-pirate-kit-prop-chest-closed.gltf",
         "file": {
           "primaryBytes": 144572,
           "totalBytes": 144572,
@@ -15615,7 +15775,9 @@
             "sha256": "18e2bcb8be38d7f1922079c7138ec9559dd423cb6688dee3ccccaba76f3f204c",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-chest-closed/quaternius-pirate-kit-prop-chest-closed.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-chest-closed/quaternius-pirate-kit-prop-chest-closed.gltf"
           }
         ],
         "source": {
@@ -15715,7 +15877,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-prop-chest-closed.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-prop-chest-closed.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-chest-closed/quaternius-pirate-kit-prop-chest-closed.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-chest-closed.gltf"
       }
     },
     "quaternius-pirate-kit-prop-chest-gold": {
@@ -15728,7 +15892,7 @@
         "format": "gltf",
         "relativePath": "Prop_Chest_Gold.gltf",
         "fileName": "Prop_Chest_Gold.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-chest-gold.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-chest-gold/quaternius-pirate-kit-prop-chest-gold.gltf",
         "file": {
           "primaryBytes": 402736,
           "totalBytes": 402736,
@@ -15842,7 +16006,9 @@
             "sha256": "6810efd30cd1a072c2f272ee76a046b278984f3f050e4d9b256d50242d958811",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-chest-gold/quaternius-pirate-kit-prop-chest-gold.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-chest-gold/quaternius-pirate-kit-prop-chest-gold.gltf"
           }
         ],
         "source": {
@@ -15942,7 +16108,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-prop-chest-gold.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-prop-chest-gold.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-chest-gold/quaternius-pirate-kit-prop-chest-gold.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-chest-gold.gltf"
       }
     },
     "quaternius-pirate-kit-prop-coins": {
@@ -15955,7 +16123,7 @@
         "format": "gltf",
         "relativePath": "Prop_Coins.gltf",
         "fileName": "Prop_Coins.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-coins.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-coins/quaternius-pirate-kit-prop-coins.gltf",
         "file": {
           "primaryBytes": 113623,
           "totalBytes": 113623,
@@ -16069,7 +16237,9 @@
             "sha256": "13ab5a39537fc661731b2053fb00c7f2799f3ab0d542a36c1c413eae60ebdf4d",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-coins/quaternius-pirate-kit-prop-coins.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-coins/quaternius-pirate-kit-prop-coins.gltf"
           }
         ],
         "source": {
@@ -16168,7 +16338,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-prop-coins.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-prop-coins.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-coins/quaternius-pirate-kit-prop-coins.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-coins.gltf"
       }
     },
     "quaternius-pirate-kit-prop-fish-mackerel": {
@@ -16181,7 +16353,7 @@
         "format": "gltf",
         "relativePath": "Prop_Fish_Mackerel.gltf",
         "fileName": "Prop_Fish_Mackerel.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-fish-mackerel.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-fish-mackerel/quaternius-pirate-kit-prop-fish-mackerel.gltf",
         "file": {
           "primaryBytes": 61094,
           "totalBytes": 61094,
@@ -16297,7 +16469,9 @@
             "sha256": "2695abf47ba7f8b15959fee50df63ea6c44ce15347323880a9c66bbd38bff92e",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-fish-mackerel/quaternius-pirate-kit-prop-fish-mackerel.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-fish-mackerel/quaternius-pirate-kit-prop-fish-mackerel.gltf"
           }
         ],
         "source": {
@@ -16397,7 +16571,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-prop-fish-mackerel.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-prop-fish-mackerel.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-fish-mackerel/quaternius-pirate-kit-prop-fish-mackerel.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-fish-mackerel.gltf"
       }
     },
     "quaternius-pirate-kit-prop-fish-tuna": {
@@ -16410,7 +16586,7 @@
         "format": "gltf",
         "relativePath": "Prop_Fish_Tuna.gltf",
         "fileName": "Prop_Fish_Tuna.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-fish-tuna.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-fish-tuna/quaternius-pirate-kit-prop-fish-tuna.gltf",
         "file": {
           "primaryBytes": 71652,
           "totalBytes": 71652,
@@ -16526,7 +16702,9 @@
             "sha256": "148d38cabae94f3d9507234155f75d269c5a276b4a67e8ed01333f476ea8b742",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-fish-tuna/quaternius-pirate-kit-prop-fish-tuna.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-fish-tuna/quaternius-pirate-kit-prop-fish-tuna.gltf"
           }
         ],
         "source": {
@@ -16626,7 +16804,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-prop-fish-tuna.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-prop-fish-tuna.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-fish-tuna/quaternius-pirate-kit-prop-fish-tuna.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-fish-tuna.gltf"
       }
     },
     "quaternius-pirate-kit-prop-goldbag": {
@@ -16639,7 +16819,7 @@
         "format": "gltf",
         "relativePath": "Prop_GoldBag.gltf",
         "fileName": "Prop_GoldBag.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-goldbag.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-goldbag/quaternius-pirate-kit-prop-goldbag.gltf",
         "file": {
           "primaryBytes": 212776,
           "totalBytes": 212776,
@@ -16753,7 +16933,9 @@
             "sha256": "cb9bfa79277c5da163ce94c5c2ab9b2567aa4b59ff02776b277b53570c2dfc00",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-goldbag/quaternius-pirate-kit-prop-goldbag.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-goldbag/quaternius-pirate-kit-prop-goldbag.gltf"
           }
         ],
         "source": {
@@ -16853,7 +17035,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-prop-goldbag.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-prop-goldbag.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-goldbag/quaternius-pirate-kit-prop-goldbag.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-goldbag.gltf"
       }
     },
     "quaternius-pirate-kit-prop-skull": {
@@ -16866,7 +17050,7 @@
         "format": "gltf",
         "relativePath": "Prop_Skull.gltf",
         "fileName": "Prop_Skull.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-skull.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-skull/quaternius-pirate-kit-prop-skull.gltf",
         "file": {
           "primaryBytes": 41597,
           "totalBytes": 41597,
@@ -16980,7 +17164,9 @@
             "sha256": "b1d1eb216788879fd0f6617f3dc65ace5d8343753b17f2e0b96f6d209ba782b2",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-skull/quaternius-pirate-kit-prop-skull.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-skull/quaternius-pirate-kit-prop-skull.gltf"
           }
         ],
         "source": {
@@ -17079,7 +17265,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-prop-skull.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-prop-skull.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-prop-skull/quaternius-pirate-kit-prop-skull.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-prop-skull.gltf"
       }
     },
     "quaternius-pirate-kit-ship-large": {
@@ -17092,7 +17280,7 @@
         "format": "gltf",
         "relativePath": "Ship_Large.gltf",
         "fileName": "Ship_Large.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ship-large.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-ship-large/quaternius-pirate-kit-ship-large.gltf",
         "file": {
           "primaryBytes": 1238178,
           "totalBytes": 1238178,
@@ -17206,7 +17394,9 @@
             "sha256": "7f4acd7490bbc3c1ceac9d6a5e0fa9006449884ca148fade96bba7e35eede2e1",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-ship-large/quaternius-pirate-kit-ship-large.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-ship-large/quaternius-pirate-kit-ship-large.gltf"
           }
         ],
         "source": {
@@ -17312,7 +17502,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-ship-large.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-ship-large.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-ship-large/quaternius-pirate-kit-ship-large.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ship-large.gltf"
       }
     },
     "quaternius-pirate-kit-ship-small": {
@@ -17325,7 +17517,7 @@
         "format": "gltf",
         "relativePath": "Ship_Small.gltf",
         "fileName": "Ship_Small.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ship-small.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-ship-small/quaternius-pirate-kit-ship-small.gltf",
         "file": {
           "primaryBytes": 317113,
           "totalBytes": 317113,
@@ -17439,7 +17631,9 @@
             "sha256": "c2596ed1eec90c9b0338109f5e66a88755db92f37c5473937fe5f463365a726f",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-ship-small/quaternius-pirate-kit-ship-small.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-ship-small/quaternius-pirate-kit-ship-small.gltf"
           }
         ],
         "source": {
@@ -17544,7 +17738,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-ship-small.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-ship-small.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-ship-small/quaternius-pirate-kit-ship-small.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ship-small.gltf"
       }
     },
     "quaternius-pirate-kit-ui-chickenleg": {
@@ -17557,7 +17753,7 @@
         "format": "gltf",
         "relativePath": "UI_ChickenLeg.gltf",
         "fileName": "UI_ChickenLeg.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-chickenleg.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-chickenleg/quaternius-pirate-kit-ui-chickenleg.gltf",
         "file": {
           "primaryBytes": 28690,
           "totalBytes": 28690,
@@ -17671,7 +17867,9 @@
             "sha256": "e53d4b8db23bbd34657919bd0f6c9a123f3a381bb40fe36aaf0374ce35e65a68",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-chickenleg/quaternius-pirate-kit-ui-chickenleg.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-chickenleg/quaternius-pirate-kit-ui-chickenleg.gltf"
           }
         ],
         "source": {
@@ -17772,7 +17970,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-ui-chickenleg.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-ui-chickenleg.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-chickenleg/quaternius-pirate-kit-ui-chickenleg.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-chickenleg.gltf"
       }
     },
     "quaternius-pirate-kit-ui-gem-blue": {
@@ -17785,7 +17985,7 @@
         "format": "gltf",
         "relativePath": "UI_Gem_Blue.gltf",
         "fileName": "UI_Gem_Blue.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-gem-blue.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-gem-blue/quaternius-pirate-kit-ui-gem-blue.gltf",
         "file": {
           "primaryBytes": 11745,
           "totalBytes": 11745,
@@ -17899,7 +18099,9 @@
             "sha256": "74f27278a59e6cf789052eb5227cd33790f51602d04fcefacd1bb726744fcc49",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-gem-blue/quaternius-pirate-kit-ui-gem-blue.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-gem-blue/quaternius-pirate-kit-ui-gem-blue.gltf"
           }
         ],
         "source": {
@@ -18000,7 +18202,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-ui-gem-blue.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-ui-gem-blue.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-gem-blue/quaternius-pirate-kit-ui-gem-blue.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-gem-blue.gltf"
       }
     },
     "quaternius-pirate-kit-ui-gem-green": {
@@ -18013,7 +18217,7 @@
         "format": "gltf",
         "relativePath": "UI_Gem_Green.gltf",
         "fileName": "UI_Gem_Green.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-gem-green.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-gem-green/quaternius-pirate-kit-ui-gem-green.gltf",
         "file": {
           "primaryBytes": 12572,
           "totalBytes": 12572,
@@ -18127,7 +18331,9 @@
             "sha256": "d3c865f4e70aa3bbef20051a3fccea5eafdbb74df86163864e8bf2dfd678495b",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-gem-green/quaternius-pirate-kit-ui-gem-green.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-gem-green/quaternius-pirate-kit-ui-gem-green.gltf"
           }
         ],
         "source": {
@@ -18228,7 +18434,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-ui-gem-green.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-ui-gem-green.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-gem-green/quaternius-pirate-kit-ui-gem-green.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-gem-green.gltf"
       }
     },
     "quaternius-pirate-kit-ui-gem-pink": {
@@ -18241,7 +18449,7 @@
         "format": "gltf",
         "relativePath": "UI_Gem_Pink.gltf",
         "fileName": "UI_Gem_Pink.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-gem-pink.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-gem-pink/quaternius-pirate-kit-ui-gem-pink.gltf",
         "file": {
           "primaryBytes": 11056,
           "totalBytes": 11056,
@@ -18355,7 +18563,9 @@
             "sha256": "eca5d441487f32f502b6ddd551192fd18d4497ed8f3ec172e609e7e65abc3e68",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-gem-pink/quaternius-pirate-kit-ui-gem-pink.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-gem-pink/quaternius-pirate-kit-ui-gem-pink.gltf"
           }
         ],
         "source": {
@@ -18456,7 +18666,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-ui-gem-pink.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-ui-gem-pink.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-gem-pink/quaternius-pirate-kit-ui-gem-pink.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-gem-pink.gltf"
       }
     },
     "quaternius-pirate-kit-ui-gold": {
@@ -18469,7 +18681,7 @@
         "format": "gltf",
         "relativePath": "UI_Gold.gltf",
         "fileName": "UI_Gold.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-gold.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-gold/quaternius-pirate-kit-ui-gold.gltf",
         "file": {
           "primaryBytes": 52784,
           "totalBytes": 52784,
@@ -18583,7 +18795,9 @@
             "sha256": "401f25cf0bb10d5b1b99259473f70165b09bdcd0fb1158090efd715db9d6c75a",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-gold/quaternius-pirate-kit-ui-gold.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-gold/quaternius-pirate-kit-ui-gold.gltf"
           }
         ],
         "source": {
@@ -18683,7 +18897,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-ui-gold.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-ui-gold.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-gold/quaternius-pirate-kit-ui-gold.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-gold.gltf"
       }
     },
     "quaternius-pirate-kit-ui-paper": {
@@ -18696,7 +18912,7 @@
         "format": "gltf",
         "relativePath": "UI_Paper.gltf",
         "fileName": "UI_Paper.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-paper.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-paper/quaternius-pirate-kit-ui-paper.gltf",
         "file": {
           "primaryBytes": 23047,
           "totalBytes": 23047,
@@ -18810,7 +19026,9 @@
             "sha256": "44174894dd2514e9a55094f0fafa08fad1f92a6fedd952ecc2be7a5988b5afcc",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-paper/quaternius-pirate-kit-ui-paper.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-paper/quaternius-pirate-kit-ui-paper.gltf"
           }
         ],
         "source": {
@@ -18910,7 +19128,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-ui-paper.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-ui-paper.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-paper/quaternius-pirate-kit-ui-paper.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-paper.gltf"
       }
     },
     "quaternius-pirate-kit-ui-red-dash": {
@@ -18923,7 +19143,7 @@
         "format": "gltf",
         "relativePath": "UI_Red_Dash.gltf",
         "fileName": "UI_Red_Dash.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-red-dash.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-red-dash/quaternius-pirate-kit-ui-red-dash.gltf",
         "file": {
           "primaryBytes": 10989,
           "totalBytes": 10989,
@@ -19037,7 +19257,9 @@
             "sha256": "4129cd1d95f69c8f3bd5f10bd0f0c7e68cde2d48a4047ff81168f78b985d6071",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-red-dash/quaternius-pirate-kit-ui-red-dash.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-red-dash/quaternius-pirate-kit-ui-red-dash.gltf"
           }
         ],
         "source": {
@@ -19138,7 +19360,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-ui-red-dash.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-ui-red-dash.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-red-dash/quaternius-pirate-kit-ui-red-dash.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-red-dash.gltf"
       }
     },
     "quaternius-pirate-kit-ui-red-x": {
@@ -19151,7 +19375,7 @@
         "format": "gltf",
         "relativePath": "UI_Red_X.gltf",
         "fileName": "UI_Red_X.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-red-x.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-red-x/quaternius-pirate-kit-ui-red-x.gltf",
         "file": {
           "primaryBytes": 25220,
           "totalBytes": 25220,
@@ -19265,7 +19489,9 @@
             "sha256": "7e1fbce870e25ba5bf0281e1fad127ef99ed6093bd859be2a4467741727b2dbb",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-red-x/quaternius-pirate-kit-ui-red-x.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-red-x/quaternius-pirate-kit-ui-red-x.gltf"
           }
         ],
         "source": {
@@ -19365,7 +19591,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-ui-red-x.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-ui-red-x.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-red-x/quaternius-pirate-kit-ui-red-x.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-red-x.gltf"
       }
     },
     "quaternius-pirate-kit-ui-rocks": {
@@ -19378,7 +19606,7 @@
         "format": "gltf",
         "relativePath": "UI_Rocks.gltf",
         "fileName": "UI_Rocks.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-rocks.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-rocks/quaternius-pirate-kit-ui-rocks.gltf",
         "file": {
           "primaryBytes": 31599,
           "totalBytes": 31599,
@@ -19492,7 +19720,9 @@
             "sha256": "73d0a4b55ac43ba79113e01c7e0dbbe87813ea1b6c367b686fe9929bfb7f7763",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-rocks/quaternius-pirate-kit-ui-rocks.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-rocks/quaternius-pirate-kit-ui-rocks.gltf"
           }
         ],
         "source": {
@@ -19592,7 +19822,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-ui-rocks.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-ui-rocks.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-rocks/quaternius-pirate-kit-ui-rocks.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-rocks.gltf"
       }
     },
     "quaternius-pirate-kit-ui-swords": {
@@ -19605,7 +19837,7 @@
         "format": "gltf",
         "relativePath": "UI_Swords.gltf",
         "fileName": "UI_Swords.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-swords.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-swords/quaternius-pirate-kit-ui-swords.gltf",
         "file": {
           "primaryBytes": 43457,
           "totalBytes": 43457,
@@ -19719,7 +19951,9 @@
             "sha256": "97dc38883ef802640d0048b4b97dc12781252c8b5035f89b0bd9af686cb5f5b5",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-swords/quaternius-pirate-kit-ui-swords.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-swords/quaternius-pirate-kit-ui-swords.gltf"
           }
         ],
         "source": {
@@ -19819,7 +20053,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-ui-swords.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-ui-swords.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-swords/quaternius-pirate-kit-ui-swords.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-swords.gltf"
       }
     },
     "quaternius-pirate-kit-ui-wheat": {
@@ -19832,7 +20068,7 @@
         "format": "gltf",
         "relativePath": "UI_Wheat.gltf",
         "fileName": "UI_Wheat.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-wheat.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-wheat/quaternius-pirate-kit-ui-wheat.gltf",
         "file": {
           "primaryBytes": 36377,
           "totalBytes": 36377,
@@ -19946,7 +20182,9 @@
             "sha256": "d526b0e0d926deffb38dc7f89d367acdf1c96e52595192ff3c8a482c762e855f",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-wheat/quaternius-pirate-kit-ui-wheat.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-wheat/quaternius-pirate-kit-ui-wheat.gltf"
           }
         ],
         "source": {
@@ -20046,7 +20284,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-ui-wheat.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-ui-wheat.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-wheat/quaternius-pirate-kit-ui-wheat.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-wheat.gltf"
       }
     },
     "quaternius-pirate-kit-ui-wood": {
@@ -20059,7 +20299,7 @@
         "format": "gltf",
         "relativePath": "UI_Wood.gltf",
         "fileName": "UI_Wood.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-wood.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-wood/quaternius-pirate-kit-ui-wood.gltf",
         "file": {
           "primaryBytes": 26026,
           "totalBytes": 26026,
@@ -20173,7 +20413,9 @@
             "sha256": "990b20e67bb623077658e4a893a91b38f8a77bc2c9ea00b70741c68d489578b1",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-wood/quaternius-pirate-kit-ui-wood.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-wood/quaternius-pirate-kit-ui-wood.gltf"
           }
         ],
         "source": {
@@ -20273,7 +20515,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-ui-wood.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-ui-wood.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-ui-wood/quaternius-pirate-kit-ui-wood.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-ui-wood.gltf"
       }
     },
     "quaternius-pirate-kit-weapon-axe": {
@@ -20286,7 +20530,7 @@
         "format": "gltf",
         "relativePath": "Weapon_Axe.gltf",
         "fileName": "Weapon_Axe.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-axe.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-axe/quaternius-pirate-kit-weapon-axe.gltf",
         "file": {
           "primaryBytes": 58689,
           "totalBytes": 58689,
@@ -20400,7 +20644,9 @@
             "sha256": "09e26ca81a09b72166214b39c0aa2b79d0de3862a14cbe43816ce86875e086d3",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-axe/quaternius-pirate-kit-weapon-axe.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-axe/quaternius-pirate-kit-weapon-axe.gltf"
           }
         ],
         "source": {
@@ -20499,7 +20745,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-weapon-axe.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-weapon-axe.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-axe/quaternius-pirate-kit-weapon-axe.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-axe.gltf"
       }
     },
     "quaternius-pirate-kit-weapon-axerifle": {
@@ -20512,7 +20760,7 @@
         "format": "gltf",
         "relativePath": "Weapon_AxeRifle.gltf",
         "fileName": "Weapon_AxeRifle.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-axerifle.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-axerifle/quaternius-pirate-kit-weapon-axerifle.gltf",
         "file": {
           "primaryBytes": 69993,
           "totalBytes": 69993,
@@ -20626,7 +20874,9 @@
             "sha256": "77f253a4614c15238c4af8ae3723bde3199be0f7d559e84e695e88a6b663b613",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-axerifle/quaternius-pirate-kit-weapon-axerifle.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-axerifle/quaternius-pirate-kit-weapon-axerifle.gltf"
           }
         ],
         "source": {
@@ -20726,7 +20976,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-weapon-axerifle.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-weapon-axerifle.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-axerifle/quaternius-pirate-kit-weapon-axerifle.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-axerifle.gltf"
       }
     },
     "quaternius-pirate-kit-weapon-cutlass": {
@@ -20739,7 +20991,7 @@
         "format": "gltf",
         "relativePath": "Weapon_Cutlass.gltf",
         "fileName": "Weapon_Cutlass.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-cutlass.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-cutlass/quaternius-pirate-kit-weapon-cutlass.gltf",
         "file": {
           "primaryBytes": 35603,
           "totalBytes": 35603,
@@ -20853,7 +21105,9 @@
             "sha256": "008b82fbb88bb5b1e4f15aa3af9bd313c54ee06a934f9fdd895463613cb3cc30",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-cutlass/quaternius-pirate-kit-weapon-cutlass.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-cutlass/quaternius-pirate-kit-weapon-cutlass.gltf"
           }
         ],
         "source": {
@@ -20957,7 +21211,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-weapon-cutlass.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-weapon-cutlass.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-cutlass/quaternius-pirate-kit-weapon-cutlass.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-cutlass.gltf"
       }
     },
     "quaternius-pirate-kit-weapon-dagger": {
@@ -20970,7 +21226,7 @@
         "format": "gltf",
         "relativePath": "Weapon_Dagger.gltf",
         "fileName": "Weapon_Dagger.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-dagger.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-dagger/quaternius-pirate-kit-weapon-dagger.gltf",
         "file": {
           "primaryBytes": 31875,
           "totalBytes": 31875,
@@ -21084,7 +21340,9 @@
             "sha256": "627b9e686eb2901f81eaf8b9cb3c9c27c780a1e491e0e43243edf80396b7d1ba",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-dagger/quaternius-pirate-kit-weapon-dagger.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-dagger/quaternius-pirate-kit-weapon-dagger.gltf"
           }
         ],
         "source": {
@@ -21183,7 +21441,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-weapon-dagger.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-weapon-dagger.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-dagger/quaternius-pirate-kit-weapon-dagger.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-dagger.gltf"
       }
     },
     "quaternius-pirate-kit-weapon-doubleaxe": {
@@ -21196,7 +21456,7 @@
         "format": "gltf",
         "relativePath": "Weapon_DoubleAxe.gltf",
         "fileName": "Weapon_DoubleAxe.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-doubleaxe.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-doubleaxe/quaternius-pirate-kit-weapon-doubleaxe.gltf",
         "file": {
           "primaryBytes": 72226,
           "totalBytes": 72226,
@@ -21310,7 +21570,9 @@
             "sha256": "04504ef42e13f077ff22d972fed0b929dee79f2c777c954ccc5ab45026775b4a",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-doubleaxe/quaternius-pirate-kit-weapon-doubleaxe.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-doubleaxe/quaternius-pirate-kit-weapon-doubleaxe.gltf"
           }
         ],
         "source": {
@@ -21410,7 +21672,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-weapon-doubleaxe.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-weapon-doubleaxe.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-doubleaxe/quaternius-pirate-kit-weapon-doubleaxe.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-doubleaxe.gltf"
       }
     },
     "quaternius-pirate-kit-weapon-doubleshotgun": {
@@ -21423,7 +21687,7 @@
         "format": "gltf",
         "relativePath": "Weapon_DoubleShotgun.gltf",
         "fileName": "Weapon_DoubleShotgun.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-doubleshotgun.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-doubleshotgun/quaternius-pirate-kit-weapon-doubleshotgun.gltf",
         "file": {
           "primaryBytes": 90240,
           "totalBytes": 90240,
@@ -21537,7 +21801,9 @@
             "sha256": "4ce9faa4b799f99c1ff584c1ec1c1dcf1fb829f89f6d1259eb2aaa2c1ef76ee8",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-doubleshotgun/quaternius-pirate-kit-weapon-doubleshotgun.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-doubleshotgun/quaternius-pirate-kit-weapon-doubleshotgun.gltf"
           }
         ],
         "source": {
@@ -21639,7 +21905,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-weapon-doubleshotgun.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-weapon-doubleshotgun.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-doubleshotgun/quaternius-pirate-kit-weapon-doubleshotgun.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-doubleshotgun.gltf"
       }
     },
     "quaternius-pirate-kit-weapon-lute": {
@@ -21652,7 +21920,7 @@
         "format": "gltf",
         "relativePath": "Weapon_Lute.gltf",
         "fileName": "Weapon_Lute.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-lute.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-lute/quaternius-pirate-kit-weapon-lute.gltf",
         "file": {
           "primaryBytes": 47376,
           "totalBytes": 47376,
@@ -21766,7 +22034,9 @@
             "sha256": "a72458c992089fdc9520908a40556048afafbdd968bb4a1281ab5fd4443ec6d4",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-lute/quaternius-pirate-kit-weapon-lute.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-lute/quaternius-pirate-kit-weapon-lute.gltf"
           }
         ],
         "source": {
@@ -21865,7 +22135,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-weapon-lute.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-weapon-lute.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-lute/quaternius-pirate-kit-weapon-lute.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-lute.gltf"
       }
     },
     "quaternius-pirate-kit-weapon-pistol": {
@@ -21878,7 +22150,7 @@
         "format": "gltf",
         "relativePath": "Weapon_Pistol.gltf",
         "fileName": "Weapon_Pistol.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-pistol.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-pistol/quaternius-pirate-kit-weapon-pistol.gltf",
         "file": {
           "primaryBytes": 71671,
           "totalBytes": 71671,
@@ -21992,7 +22264,9 @@
             "sha256": "ebc21db32ce31f043b5a1cb97a25b1ae0785dc28dc29bf6903cad7f17e2ded19",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-pistol/quaternius-pirate-kit-weapon-pistol.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-pistol/quaternius-pirate-kit-weapon-pistol.gltf"
           }
         ],
         "source": {
@@ -22091,7 +22365,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-weapon-pistol.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-weapon-pistol.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-pistol/quaternius-pirate-kit-weapon-pistol.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-pistol.gltf"
       }
     },
     "quaternius-pirate-kit-weapon-rifle": {
@@ -22104,7 +22380,7 @@
         "format": "gltf",
         "relativePath": "Weapon_Rifle.gltf",
         "fileName": "Weapon_Rifle.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-rifle.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-rifle/quaternius-pirate-kit-weapon-rifle.gltf",
         "file": {
           "primaryBytes": 77782,
           "totalBytes": 77782,
@@ -22218,7 +22494,9 @@
             "sha256": "ce0196eade690c29224a9a20a736585c1c0a31ba31b8da256fcea13e21bb9dbc",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-rifle/quaternius-pirate-kit-weapon-rifle.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-rifle/quaternius-pirate-kit-weapon-rifle.gltf"
           }
         ],
         "source": {
@@ -22317,7 +22595,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-weapon-rifle.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-weapon-rifle.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-rifle/quaternius-pirate-kit-weapon-rifle.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-rifle.gltf"
       }
     },
     "quaternius-pirate-kit-weapon-sword-1": {
@@ -22330,7 +22610,7 @@
         "format": "gltf",
         "relativePath": "Weapon_Sword_1.gltf",
         "fileName": "Weapon_Sword_1.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-sword-1.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-sword-1/quaternius-pirate-kit-weapon-sword-1.gltf",
         "file": {
           "primaryBytes": 37477,
           "totalBytes": 37477,
@@ -22444,7 +22724,9 @@
             "sha256": "3ea3c343d1271679d62ac1689cf6fa2d74ac4c6c0c21fb753b0e4c4d8e8af8a6",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-sword-1/quaternius-pirate-kit-weapon-sword-1.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-sword-1/quaternius-pirate-kit-weapon-sword-1.gltf"
           }
         ],
         "source": {
@@ -22543,7 +22825,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-weapon-sword-1.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-weapon-sword-1.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-sword-1/quaternius-pirate-kit-weapon-sword-1.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-sword-1.gltf"
       }
     },
     "quaternius-pirate-kit-weapon-sword-2": {
@@ -22556,7 +22840,7 @@
         "format": "gltf",
         "relativePath": "Weapon_Sword_2.gltf",
         "fileName": "Weapon_Sword_2.gltf",
-        "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-sword-2.gltf",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-sword-2/quaternius-pirate-kit-weapon-sword-2.gltf",
         "file": {
           "primaryBytes": 27979,
           "totalBytes": 27979,
@@ -22670,7 +22954,9 @@
             "sha256": "07d9dbad1f96175b4caaabec1c9255f16eefc4ac6e510ed96c7b623c9a959d43",
             "remote": false,
             "embedded": false,
-            "exists": true
+            "exists": true,
+            "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-sword-2/quaternius-pirate-kit-weapon-sword-2.gltf",
+            "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-sword-2/quaternius-pirate-kit-weapon-sword-2.gltf"
           }
         ],
         "source": {
@@ -22769,7 +23055,9 @@
           "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/quaternius-pirate-kit/quaternius-pirate-kit-weapon-sword-2.webp",
           "packRelativePath": "previews/quaternius-pirate-kit-weapon-sword-2.webp"
         },
-        "packId": "quaternius-pirate-kit"
+        "packId": "quaternius-pirate-kit",
+        "publicPath": "assets/quaternius-pirate-kit/quaternius-pirate-kit-weapon-sword-2/quaternius-pirate-kit-weapon-sword-2.gltf",
+        "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-quaternius-pirate-kit-11e5f28f6330/quaternius-pirate-kit-weapon-sword-2.gltf"
       }
     }
   }

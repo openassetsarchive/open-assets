@@ -51,7 +51,7 @@ Get one asset by id:
 3. Return the chosen asset's `publicUrl`.
 4. If needed, use `asset-locations.json` to find the pack, then fetch `packs/<packId>/details.json` for more metadata.
 
-The direct URL to use in a project is `publicUrl`.
+The direct browser-safe URL to use in a project is `publicUrl`.
 If an asset has a generated thumbnail, use `preview.publicUrl` as the directly loadable image URL, or `preview.relativePath` relative to this catalog root.
 The human-facing source page is `sourceUrl`.
 The canonical license reference is the pack-level `licenseUrl`.
@@ -120,11 +120,13 @@ Example token file:
 
 ## URL Behavior
 
-`publicUrl` points to a GitHub Release asset URL.
+`publicUrl` points to a `raw.githubusercontent.com` file under `assets/<packId>/<assetId>/`.
 
-These URLs are immutable for a given pack snapshot.
+These URLs are meant for direct browser/runtime loading by agents and tools.
 
-If a pack changes later, the catalog will point to a new versioned release URL. Old versioned URLs remain valid.
+For GLTF assets with external dependencies, the published `.gltf` has resource URIs rewritten to sibling files in the same catalog asset directory.
+
+Expanded debug outputs may include `releaseUrl` for GitHub Release archive mirrors. Agents should use `publicUrl`.
 
 Preview thumbnails are derived catalog files under `previews/<packId>/<assetId>.webp`.
 They are for browsing and selection; they are not canonical asset identities.

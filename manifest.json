@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-04-23T23:21:21.122Z",
+  "generatedAt": "2026-04-24T00:09:46.799Z",
   "inputDir": "/Users/me/dev/open-assets/generated/packs",
   "catalogSha256": "178cb60db856e710a266bbce2b2ddc900b217c71f140ac0456139b35bb0dc526",
   "copyDetails": true,
@@ -9,6 +9,7 @@
   "counts": {
     "packs": 30,
     "assets": 7671,
+    "runtimeFiles": 7911,
     "previews": 530,
     "tokens": 1482,
     "tags": 235,
@@ -21,6 +22,7 @@
     "allAssets": "all-assets.json",
     "allAssetsExpanded": "all-assets-expanded.json",
     "assetLocations": "asset-locations.json",
+    "assetsDir": "assets/<packId>/<assetId>",
     "previewsDir": "previews/<packId>",
     "packByIdDir": "packs/by-id",
     "packAssetsDir": "packs/<packId>/assets.json",
@@ -37,6 +39,13 @@
     "kindList": "search/kinds.json",
     "formatIndexDir": "search/formats",
     "formatList": "search/formats.json"
+  },
+  "runtimeAssets": {
+    "publicUrlField": "publicUrl",
+    "publicPathField": "publicPath",
+    "files": 7911,
+    "bytes": 388139022,
+    "baseUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main"
   },
   "taxonomy": {
     "supportedKinds": [

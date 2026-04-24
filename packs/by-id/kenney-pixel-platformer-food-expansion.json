@@ -30,7 +30,7 @@
       "kind": "tileset",
       "format": "png",
       "relativePath": "Tilemap/tilemap.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tilemap-tilemap.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tilemap-tilemap/kenney-pixel-platformer-food-expansion-tilemap-tilemap.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 5060,
       "totalBytes": 5060,
@@ -99,7 +99,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tilemap-tilemap/kenney-pixel-platformer-food-expansion-tilemap-tilemap.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tilemap-tilemap.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tilemap-tilemap-packed",
@@ -108,7 +110,7 @@
       "kind": "tileset",
       "format": "png",
       "relativePath": "Tilemap/tilemap_packed.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tilemap-tilemap-packed.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tilemap-tilemap-packed/kenney-pixel-platformer-food-expansion-tilemap-tilemap-packed.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 4645,
       "totalBytes": 4645,
@@ -178,7 +180,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tilemap-tilemap-packed/kenney-pixel-platformer-food-expansion-tilemap-tilemap-packed.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tilemap-tilemap-packed.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0000",
@@ -187,7 +191,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0000.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0000.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0000/kenney-pixel-platformer-food-expansion-tiles-tile-0000.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 192,
       "totalBytes": 192,
@@ -253,7 +257,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0000/kenney-pixel-platformer-food-expansion-tiles-tile-0000.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0000.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0001",
@@ -262,7 +268,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0001.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0001.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0001/kenney-pixel-platformer-food-expansion-tiles-tile-0001.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 179,
       "totalBytes": 179,
@@ -328,7 +334,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0001/kenney-pixel-platformer-food-expansion-tiles-tile-0001.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0001.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0002",
@@ -337,7 +345,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0002.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0002.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0002/kenney-pixel-platformer-food-expansion-tiles-tile-0002.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 168,
       "totalBytes": 168,
@@ -403,7 +411,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0002/kenney-pixel-platformer-food-expansion-tiles-tile-0002.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0002.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0003",
@@ -412,7 +422,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0003.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0003.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0003/kenney-pixel-platformer-food-expansion-tiles-tile-0003.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 180,
       "totalBytes": 180,
@@ -478,7 +488,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0003/kenney-pixel-platformer-food-expansion-tiles-tile-0003.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0003.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0004",
@@ -487,7 +499,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0004.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0004.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0004/kenney-pixel-platformer-food-expansion-tiles-tile-0004.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 192,
       "totalBytes": 192,
@@ -553,7 +565,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0004/kenney-pixel-platformer-food-expansion-tiles-tile-0004.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0004.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0005",
@@ -562,7 +576,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0005.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0005.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0005/kenney-pixel-platformer-food-expansion-tiles-tile-0005.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 182,
       "totalBytes": 182,
@@ -628,7 +642,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0005/kenney-pixel-platformer-food-expansion-tiles-tile-0005.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0005.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0006",
@@ -637,7 +653,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0006.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0006.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0006/kenney-pixel-platformer-food-expansion-tiles-tile-0006.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 168,
       "totalBytes": 168,
@@ -703,7 +719,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0006/kenney-pixel-platformer-food-expansion-tiles-tile-0006.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0006.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0007",
@@ -712,7 +730,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0007.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0007.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0007/kenney-pixel-platformer-food-expansion-tiles-tile-0007.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 188,
       "totalBytes": 188,
@@ -778,7 +796,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0007/kenney-pixel-platformer-food-expansion-tiles-tile-0007.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0007.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0008",
@@ -787,7 +807,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0008.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0008.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0008/kenney-pixel-platformer-food-expansion-tiles-tile-0008.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 210,
       "totalBytes": 210,
@@ -853,7 +873,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0008/kenney-pixel-platformer-food-expansion-tiles-tile-0008.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0008.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0009",
@@ -862,7 +884,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0009.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0009.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0009/kenney-pixel-platformer-food-expansion-tiles-tile-0009.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 215,
       "totalBytes": 215,
@@ -928,7 +950,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0009/kenney-pixel-platformer-food-expansion-tiles-tile-0009.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0009.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0010",
@@ -937,7 +961,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0010.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0010.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0010/kenney-pixel-platformer-food-expansion-tiles-tile-0010.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 166,
       "totalBytes": 166,
@@ -1003,7 +1027,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0010/kenney-pixel-platformer-food-expansion-tiles-tile-0010.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0010.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0011",
@@ -1012,7 +1038,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0011.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0011.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0011/kenney-pixel-platformer-food-expansion-tiles-tile-0011.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 142,
       "totalBytes": 142,
@@ -1078,7 +1104,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0011/kenney-pixel-platformer-food-expansion-tiles-tile-0011.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0011.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0012",
@@ -1087,7 +1115,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0012.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0012.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0012/kenney-pixel-platformer-food-expansion-tiles-tile-0012.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 164,
       "totalBytes": 164,
@@ -1153,7 +1181,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0012/kenney-pixel-platformer-food-expansion-tiles-tile-0012.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0012.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0013",
@@ -1162,7 +1192,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0013.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0013.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0013/kenney-pixel-platformer-food-expansion-tiles-tile-0013.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 188,
       "totalBytes": 188,
@@ -1228,7 +1258,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0013/kenney-pixel-platformer-food-expansion-tiles-tile-0013.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0013.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0014",
@@ -1237,7 +1269,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0014.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0014.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0014/kenney-pixel-platformer-food-expansion-tiles-tile-0014.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 247,
       "totalBytes": 247,
@@ -1303,7 +1335,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0014/kenney-pixel-platformer-food-expansion-tiles-tile-0014.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0014.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0015",
@@ -1312,7 +1346,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0015.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0015.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0015/kenney-pixel-platformer-food-expansion-tiles-tile-0015.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 219,
       "totalBytes": 219,
@@ -1378,7 +1412,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0015/kenney-pixel-platformer-food-expansion-tiles-tile-0015.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0015.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0016",
@@ -1387,7 +1423,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0016.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0016.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0016/kenney-pixel-platformer-food-expansion-tiles-tile-0016.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 188,
       "totalBytes": 188,
@@ -1453,7 +1489,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0016/kenney-pixel-platformer-food-expansion-tiles-tile-0016.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0016.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0017",
@@ -1462,7 +1500,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0017.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0017.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0017/kenney-pixel-platformer-food-expansion-tiles-tile-0017.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 180,
       "totalBytes": 180,
@@ -1528,7 +1566,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0017/kenney-pixel-platformer-food-expansion-tiles-tile-0017.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0017.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0018",
@@ -1537,7 +1577,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0018.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0018.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0018/kenney-pixel-platformer-food-expansion-tiles-tile-0018.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 174,
       "totalBytes": 174,
@@ -1603,7 +1643,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0018/kenney-pixel-platformer-food-expansion-tiles-tile-0018.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0018.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0019",
@@ -1612,7 +1654,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0019.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0019.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0019/kenney-pixel-platformer-food-expansion-tiles-tile-0019.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 180,
       "totalBytes": 180,
@@ -1678,7 +1720,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0019/kenney-pixel-platformer-food-expansion-tiles-tile-0019.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0019.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0020",
@@ -1687,7 +1731,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0020.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0020.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0020/kenney-pixel-platformer-food-expansion-tiles-tile-0020.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 188,
       "totalBytes": 188,
@@ -1753,7 +1797,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0020/kenney-pixel-platformer-food-expansion-tiles-tile-0020.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0020.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0021",
@@ -1762,7 +1808,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0021.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0021.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0021/kenney-pixel-platformer-food-expansion-tiles-tile-0021.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 180,
       "totalBytes": 180,
@@ -1828,7 +1874,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0021/kenney-pixel-platformer-food-expansion-tiles-tile-0021.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0021.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0022",
@@ -1837,7 +1885,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0022.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0022.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0022/kenney-pixel-platformer-food-expansion-tiles-tile-0022.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 174,
       "totalBytes": 174,
@@ -1903,7 +1951,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0022/kenney-pixel-platformer-food-expansion-tiles-tile-0022.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0022.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0023",
@@ -1912,7 +1962,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0023.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0023.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0023/kenney-pixel-platformer-food-expansion-tiles-tile-0023.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 180,
       "totalBytes": 180,
@@ -1978,7 +2028,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0023/kenney-pixel-platformer-food-expansion-tiles-tile-0023.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0023.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0024",
@@ -1987,7 +2039,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0024.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0024.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0024/kenney-pixel-platformer-food-expansion-tiles-tile-0024.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 121,
       "totalBytes": 121,
@@ -2053,7 +2105,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0024/kenney-pixel-platformer-food-expansion-tiles-tile-0024.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0024.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0025",
@@ -2062,7 +2116,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0025.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0025.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0025/kenney-pixel-platformer-food-expansion-tiles-tile-0025.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 216,
       "totalBytes": 216,
@@ -2128,7 +2182,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0025/kenney-pixel-platformer-food-expansion-tiles-tile-0025.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0025.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0026",
@@ -2137,7 +2193,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0026.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0026.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0026/kenney-pixel-platformer-food-expansion-tiles-tile-0026.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 188,
       "totalBytes": 188,
@@ -2203,7 +2259,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0026/kenney-pixel-platformer-food-expansion-tiles-tile-0026.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0026.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0027",
@@ -2212,7 +2270,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0027.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0027.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0027/kenney-pixel-platformer-food-expansion-tiles-tile-0027.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 160,
       "totalBytes": 160,
@@ -2278,7 +2336,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0027/kenney-pixel-platformer-food-expansion-tiles-tile-0027.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0027.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0028",
@@ -2287,7 +2347,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0028.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0028.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0028/kenney-pixel-platformer-food-expansion-tiles-tile-0028.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 188,
       "totalBytes": 188,
@@ -2353,7 +2413,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0028/kenney-pixel-platformer-food-expansion-tiles-tile-0028.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0028.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0029",
@@ -2362,7 +2424,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0029.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0029.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0029/kenney-pixel-platformer-food-expansion-tiles-tile-0029.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 207,
       "totalBytes": 207,
@@ -2428,7 +2490,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0029/kenney-pixel-platformer-food-expansion-tiles-tile-0029.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0029.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0030",
@@ -2437,7 +2501,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0030.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0030.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0030/kenney-pixel-platformer-food-expansion-tiles-tile-0030.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 171,
       "totalBytes": 171,
@@ -2503,7 +2567,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0030/kenney-pixel-platformer-food-expansion-tiles-tile-0030.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0030.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0031",
@@ -2512,7 +2578,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0031.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0031.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0031/kenney-pixel-platformer-food-expansion-tiles-tile-0031.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 198,
       "totalBytes": 198,
@@ -2578,7 +2644,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0031/kenney-pixel-platformer-food-expansion-tiles-tile-0031.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0031.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0032",
@@ -2587,7 +2655,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0032.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0032.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0032/kenney-pixel-platformer-food-expansion-tiles-tile-0032.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 143,
       "totalBytes": 143,
@@ -2653,7 +2721,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0032/kenney-pixel-platformer-food-expansion-tiles-tile-0032.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0032.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0033",
@@ -2662,7 +2732,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0033.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0033.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0033/kenney-pixel-platformer-food-expansion-tiles-tile-0033.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 142,
       "totalBytes": 142,
@@ -2728,7 +2798,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0033/kenney-pixel-platformer-food-expansion-tiles-tile-0033.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0033.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0034",
@@ -2737,7 +2809,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0034.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0034.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0034/kenney-pixel-platformer-food-expansion-tiles-tile-0034.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 152,
       "totalBytes": 152,
@@ -2803,7 +2875,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0034/kenney-pixel-platformer-food-expansion-tiles-tile-0034.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0034.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0035",
@@ -2812,7 +2886,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0035.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0035.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0035/kenney-pixel-platformer-food-expansion-tiles-tile-0035.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 143,
       "totalBytes": 143,
@@ -2878,7 +2952,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0035/kenney-pixel-platformer-food-expansion-tiles-tile-0035.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0035.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0036",
@@ -2887,7 +2963,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0036.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0036.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0036/kenney-pixel-platformer-food-expansion-tiles-tile-0036.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 164,
       "totalBytes": 164,
@@ -2953,7 +3029,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0036/kenney-pixel-platformer-food-expansion-tiles-tile-0036.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0036.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0037",
@@ -2962,7 +3040,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0037.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0037.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0037/kenney-pixel-platformer-food-expansion-tiles-tile-0037.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 166,
       "totalBytes": 166,
@@ -3028,7 +3106,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0037/kenney-pixel-platformer-food-expansion-tiles-tile-0037.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0037.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0038",
@@ -3037,7 +3117,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0038.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0038.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0038/kenney-pixel-platformer-food-expansion-tiles-tile-0038.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 165,
       "totalBytes": 165,
@@ -3103,7 +3183,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0038/kenney-pixel-platformer-food-expansion-tiles-tile-0038.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0038.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0039",
@@ -3112,7 +3194,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0039.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0039.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0039/kenney-pixel-platformer-food-expansion-tiles-tile-0039.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 167,
       "totalBytes": 167,
@@ -3178,7 +3260,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0039/kenney-pixel-platformer-food-expansion-tiles-tile-0039.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0039.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0040",
@@ -3187,7 +3271,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0040.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0040.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0040/kenney-pixel-platformer-food-expansion-tiles-tile-0040.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 189,
       "totalBytes": 189,
@@ -3253,7 +3337,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0040/kenney-pixel-platformer-food-expansion-tiles-tile-0040.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0040.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0041",
@@ -3262,7 +3348,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0041.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0041.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0041/kenney-pixel-platformer-food-expansion-tiles-tile-0041.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 205,
       "totalBytes": 205,
@@ -3328,7 +3414,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0041/kenney-pixel-platformer-food-expansion-tiles-tile-0041.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0041.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0042",
@@ -3337,7 +3425,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0042.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0042.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0042/kenney-pixel-platformer-food-expansion-tiles-tile-0042.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 175,
       "totalBytes": 175,
@@ -3403,7 +3491,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0042/kenney-pixel-platformer-food-expansion-tiles-tile-0042.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0042.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0043",
@@ -3412,7 +3502,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0043.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0043.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0043/kenney-pixel-platformer-food-expansion-tiles-tile-0043.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 221,
       "totalBytes": 221,
@@ -3478,7 +3568,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0043/kenney-pixel-platformer-food-expansion-tiles-tile-0043.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0043.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0044",
@@ -3487,7 +3579,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0044.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0044.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0044/kenney-pixel-platformer-food-expansion-tiles-tile-0044.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 138,
       "totalBytes": 138,
@@ -3553,7 +3645,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0044/kenney-pixel-platformer-food-expansion-tiles-tile-0044.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0044.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0045",
@@ -3562,7 +3656,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0045.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0045.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0045/kenney-pixel-platformer-food-expansion-tiles-tile-0045.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 197,
       "totalBytes": 197,
@@ -3628,7 +3722,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0045/kenney-pixel-platformer-food-expansion-tiles-tile-0045.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0045.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0046",
@@ -3637,7 +3733,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0046.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0046.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0046/kenney-pixel-platformer-food-expansion-tiles-tile-0046.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 151,
       "totalBytes": 151,
@@ -3703,7 +3799,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0046/kenney-pixel-platformer-food-expansion-tiles-tile-0046.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0046.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0047",
@@ -3712,7 +3810,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0047.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0047.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0047/kenney-pixel-platformer-food-expansion-tiles-tile-0047.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 184,
       "totalBytes": 184,
@@ -3778,7 +3876,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0047/kenney-pixel-platformer-food-expansion-tiles-tile-0047.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0047.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0048",
@@ -3787,7 +3887,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0048.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0048.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0048/kenney-pixel-platformer-food-expansion-tiles-tile-0048.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 170,
       "totalBytes": 170,
@@ -3853,7 +3953,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0048/kenney-pixel-platformer-food-expansion-tiles-tile-0048.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0048.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0049",
@@ -3862,7 +3964,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0049.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0049.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0049/kenney-pixel-platformer-food-expansion-tiles-tile-0049.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 161,
       "totalBytes": 161,
@@ -3928,7 +4030,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0049/kenney-pixel-platformer-food-expansion-tiles-tile-0049.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0049.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0050",
@@ -3937,7 +4041,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0050.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0050.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0050/kenney-pixel-platformer-food-expansion-tiles-tile-0050.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 155,
       "totalBytes": 155,
@@ -4003,7 +4107,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0050/kenney-pixel-platformer-food-expansion-tiles-tile-0050.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0050.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0051",
@@ -4012,7 +4118,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0051.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0051.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0051/kenney-pixel-platformer-food-expansion-tiles-tile-0051.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 162,
       "totalBytes": 162,
@@ -4078,7 +4184,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0051/kenney-pixel-platformer-food-expansion-tiles-tile-0051.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0051.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0052",
@@ -4087,7 +4195,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0052.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0052.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0052/kenney-pixel-platformer-food-expansion-tiles-tile-0052.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 170,
       "totalBytes": 170,
@@ -4153,7 +4261,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0052/kenney-pixel-platformer-food-expansion-tiles-tile-0052.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0052.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0053",
@@ -4162,7 +4272,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0053.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0053.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0053/kenney-pixel-platformer-food-expansion-tiles-tile-0053.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 161,
       "totalBytes": 161,
@@ -4228,7 +4338,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0053/kenney-pixel-platformer-food-expansion-tiles-tile-0053.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0053.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0054",
@@ -4237,7 +4349,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0054.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0054.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0054/kenney-pixel-platformer-food-expansion-tiles-tile-0054.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 155,
       "totalBytes": 155,
@@ -4303,7 +4415,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0054/kenney-pixel-platformer-food-expansion-tiles-tile-0054.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0054.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0055",
@@ -4312,7 +4426,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0055.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0055.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0055/kenney-pixel-platformer-food-expansion-tiles-tile-0055.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 162,
       "totalBytes": 162,
@@ -4378,7 +4492,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0055/kenney-pixel-platformer-food-expansion-tiles-tile-0055.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0055.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0056",
@@ -4387,7 +4503,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0056.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0056.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0056/kenney-pixel-platformer-food-expansion-tiles-tile-0056.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 204,
       "totalBytes": 204,
@@ -4453,7 +4569,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0056/kenney-pixel-platformer-food-expansion-tiles-tile-0056.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0056.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0057",
@@ -4462,7 +4580,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0057.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0057.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0057/kenney-pixel-platformer-food-expansion-tiles-tile-0057.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 142,
       "totalBytes": 142,
@@ -4528,7 +4646,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0057/kenney-pixel-platformer-food-expansion-tiles-tile-0057.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0057.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0058",
@@ -4537,7 +4657,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0058.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0058.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0058/kenney-pixel-platformer-food-expansion-tiles-tile-0058.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 185,
       "totalBytes": 185,
@@ -4603,7 +4723,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0058/kenney-pixel-platformer-food-expansion-tiles-tile-0058.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0058.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0059",
@@ -4612,7 +4734,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0059.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0059.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0059/kenney-pixel-platformer-food-expansion-tiles-tile-0059.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 195,
       "totalBytes": 195,
@@ -4678,7 +4800,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0059/kenney-pixel-platformer-food-expansion-tiles-tile-0059.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0059.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0060",
@@ -4687,7 +4811,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0060.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0060.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0060/kenney-pixel-platformer-food-expansion-tiles-tile-0060.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 196,
       "totalBytes": 196,
@@ -4753,7 +4877,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0060/kenney-pixel-platformer-food-expansion-tiles-tile-0060.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0060.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0061",
@@ -4762,7 +4888,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0061.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0061.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0061/kenney-pixel-platformer-food-expansion-tiles-tile-0061.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 195,
       "totalBytes": 195,
@@ -4828,7 +4954,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0061/kenney-pixel-platformer-food-expansion-tiles-tile-0061.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0061.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0062",
@@ -4837,7 +4965,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0062.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0062.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0062/kenney-pixel-platformer-food-expansion-tiles-tile-0062.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 138,
       "totalBytes": 138,
@@ -4903,7 +5031,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0062/kenney-pixel-platformer-food-expansion-tiles-tile-0062.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0062.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0063",
@@ -4912,7 +5042,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0063.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0063.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0063/kenney-pixel-platformer-food-expansion-tiles-tile-0063.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 191,
       "totalBytes": 191,
@@ -4978,7 +5108,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0063/kenney-pixel-platformer-food-expansion-tiles-tile-0063.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0063.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0064",
@@ -4987,7 +5119,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0064.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0064.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0064/kenney-pixel-platformer-food-expansion-tiles-tile-0064.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 213,
       "totalBytes": 213,
@@ -5053,7 +5185,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0064/kenney-pixel-platformer-food-expansion-tiles-tile-0064.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0064.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0065",
@@ -5062,7 +5196,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0065.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0065.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0065/kenney-pixel-platformer-food-expansion-tiles-tile-0065.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 207,
       "totalBytes": 207,
@@ -5128,7 +5262,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0065/kenney-pixel-platformer-food-expansion-tiles-tile-0065.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0065.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0066",
@@ -5137,7 +5273,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0066.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0066.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0066/kenney-pixel-platformer-food-expansion-tiles-tile-0066.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 156,
       "totalBytes": 156,
@@ -5203,7 +5339,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0066/kenney-pixel-platformer-food-expansion-tiles-tile-0066.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0066.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0067",
@@ -5212,7 +5350,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0067.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0067.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0067/kenney-pixel-platformer-food-expansion-tiles-tile-0067.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 160,
       "totalBytes": 160,
@@ -5278,7 +5416,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0067/kenney-pixel-platformer-food-expansion-tiles-tile-0067.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0067.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0068",
@@ -5287,7 +5427,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0068.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0068.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0068/kenney-pixel-platformer-food-expansion-tiles-tile-0068.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 213,
       "totalBytes": 213,
@@ -5353,7 +5493,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0068/kenney-pixel-platformer-food-expansion-tiles-tile-0068.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0068.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0069",
@@ -5362,7 +5504,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0069.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0069.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0069/kenney-pixel-platformer-food-expansion-tiles-tile-0069.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 207,
       "totalBytes": 207,
@@ -5428,7 +5570,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0069/kenney-pixel-platformer-food-expansion-tiles-tile-0069.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0069.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0070",
@@ -5437,7 +5581,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0070.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0070.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0070/kenney-pixel-platformer-food-expansion-tiles-tile-0070.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 156,
       "totalBytes": 156,
@@ -5503,7 +5647,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0070/kenney-pixel-platformer-food-expansion-tiles-tile-0070.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0070.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0071",
@@ -5512,7 +5658,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0071.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0071.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0071/kenney-pixel-platformer-food-expansion-tiles-tile-0071.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 160,
       "totalBytes": 160,
@@ -5578,7 +5724,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0071/kenney-pixel-platformer-food-expansion-tiles-tile-0071.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0071.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0072",
@@ -5587,7 +5735,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0072.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0072.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0072/kenney-pixel-platformer-food-expansion-tiles-tile-0072.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 192,
       "totalBytes": 192,
@@ -5653,7 +5801,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0072/kenney-pixel-platformer-food-expansion-tiles-tile-0072.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0072.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0073",
@@ -5662,7 +5812,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0073.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0073.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0073/kenney-pixel-platformer-food-expansion-tiles-tile-0073.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 189,
       "totalBytes": 189,
@@ -5728,7 +5878,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0073/kenney-pixel-platformer-food-expansion-tiles-tile-0073.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0073.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0074",
@@ -5737,7 +5889,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0074.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0074.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0074/kenney-pixel-platformer-food-expansion-tiles-tile-0074.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 189,
       "totalBytes": 189,
@@ -5803,7 +5955,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0074/kenney-pixel-platformer-food-expansion-tiles-tile-0074.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0074.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0075",
@@ -5812,7 +5966,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0075.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0075.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0075/kenney-pixel-platformer-food-expansion-tiles-tile-0075.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 223,
       "totalBytes": 223,
@@ -5878,7 +6032,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0075/kenney-pixel-platformer-food-expansion-tiles-tile-0075.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0075.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0076",
@@ -5887,7 +6043,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0076.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0076.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0076/kenney-pixel-platformer-food-expansion-tiles-tile-0076.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 225,
       "totalBytes": 225,
@@ -5953,7 +6109,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0076/kenney-pixel-platformer-food-expansion-tiles-tile-0076.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0076.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0077",
@@ -5962,7 +6120,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0077.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0077.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0077/kenney-pixel-platformer-food-expansion-tiles-tile-0077.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 207,
       "totalBytes": 207,
@@ -6028,7 +6186,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0077/kenney-pixel-platformer-food-expansion-tiles-tile-0077.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0077.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0078",
@@ -6037,7 +6197,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0078.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0078.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0078/kenney-pixel-platformer-food-expansion-tiles-tile-0078.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 163,
       "totalBytes": 163,
@@ -6103,7 +6263,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0078/kenney-pixel-platformer-food-expansion-tiles-tile-0078.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0078.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0079",
@@ -6112,7 +6274,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0079.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0079.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0079/kenney-pixel-platformer-food-expansion-tiles-tile-0079.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 203,
       "totalBytes": 203,
@@ -6178,7 +6340,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0079/kenney-pixel-platformer-food-expansion-tiles-tile-0079.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0079.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0080",
@@ -6187,7 +6351,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0080.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0080.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0080/kenney-pixel-platformer-food-expansion-tiles-tile-0080.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 206,
       "totalBytes": 206,
@@ -6253,7 +6417,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0080/kenney-pixel-platformer-food-expansion-tiles-tile-0080.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0080.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0081",
@@ -6262,7 +6428,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0081.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0081.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0081/kenney-pixel-platformer-food-expansion-tiles-tile-0081.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 206,
       "totalBytes": 206,
@@ -6328,7 +6494,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0081/kenney-pixel-platformer-food-expansion-tiles-tile-0081.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0081.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0082",
@@ -6337,7 +6505,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0082.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0082.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0082/kenney-pixel-platformer-food-expansion-tiles-tile-0082.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 210,
       "totalBytes": 210,
@@ -6403,7 +6571,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0082/kenney-pixel-platformer-food-expansion-tiles-tile-0082.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0082.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0083",
@@ -6412,7 +6582,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0083.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0083.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0083/kenney-pixel-platformer-food-expansion-tiles-tile-0083.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 201,
       "totalBytes": 201,
@@ -6478,7 +6648,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0083/kenney-pixel-platformer-food-expansion-tiles-tile-0083.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0083.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0084",
@@ -6487,7 +6659,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0084.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0084.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0084/kenney-pixel-platformer-food-expansion-tiles-tile-0084.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 167,
       "totalBytes": 167,
@@ -6553,7 +6725,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0084/kenney-pixel-platformer-food-expansion-tiles-tile-0084.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0084.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0085",
@@ -6562,7 +6736,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0085.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0085.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0085/kenney-pixel-platformer-food-expansion-tiles-tile-0085.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 214,
       "totalBytes": 214,
@@ -6628,7 +6802,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0085/kenney-pixel-platformer-food-expansion-tiles-tile-0085.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0085.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0086",
@@ -6637,7 +6813,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0086.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0086.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0086/kenney-pixel-platformer-food-expansion-tiles-tile-0086.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 187,
       "totalBytes": 187,
@@ -6703,7 +6879,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0086/kenney-pixel-platformer-food-expansion-tiles-tile-0086.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0086.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0087",
@@ -6712,7 +6890,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0087.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0087.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0087/kenney-pixel-platformer-food-expansion-tiles-tile-0087.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 195,
       "totalBytes": 195,
@@ -6778,7 +6956,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0087/kenney-pixel-platformer-food-expansion-tiles-tile-0087.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0087.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0088",
@@ -6787,7 +6967,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0088.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0088.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0088/kenney-pixel-platformer-food-expansion-tiles-tile-0088.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 217,
       "totalBytes": 217,
@@ -6853,7 +7033,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0088/kenney-pixel-platformer-food-expansion-tiles-tile-0088.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0088.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0089",
@@ -6862,7 +7044,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0089.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0089.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0089/kenney-pixel-platformer-food-expansion-tiles-tile-0089.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 182,
       "totalBytes": 182,
@@ -6928,7 +7110,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0089/kenney-pixel-platformer-food-expansion-tiles-tile-0089.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0089.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0090",
@@ -6937,7 +7121,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0090.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0090.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0090/kenney-pixel-platformer-food-expansion-tiles-tile-0090.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 220,
       "totalBytes": 220,
@@ -7003,7 +7187,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0090/kenney-pixel-platformer-food-expansion-tiles-tile-0090.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0090.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0091",
@@ -7012,7 +7198,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0091.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0091.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0091/kenney-pixel-platformer-food-expansion-tiles-tile-0091.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 227,
       "totalBytes": 227,
@@ -7078,7 +7264,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0091/kenney-pixel-platformer-food-expansion-tiles-tile-0091.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0091.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0092",
@@ -7087,7 +7275,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0092.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0092.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0092/kenney-pixel-platformer-food-expansion-tiles-tile-0092.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 237,
       "totalBytes": 237,
@@ -7153,7 +7341,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0092/kenney-pixel-platformer-food-expansion-tiles-tile-0092.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0092.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0093",
@@ -7162,7 +7352,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0093.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0093.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0093/kenney-pixel-platformer-food-expansion-tiles-tile-0093.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 223,
       "totalBytes": 223,
@@ -7228,7 +7418,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0093/kenney-pixel-platformer-food-expansion-tiles-tile-0093.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0093.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0094",
@@ -7237,7 +7429,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0094.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0094.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0094/kenney-pixel-platformer-food-expansion-tiles-tile-0094.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 154,
       "totalBytes": 154,
@@ -7303,7 +7495,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0094/kenney-pixel-platformer-food-expansion-tiles-tile-0094.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0094.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0095",
@@ -7312,7 +7506,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0095.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0095.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0095/kenney-pixel-platformer-food-expansion-tiles-tile-0095.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 224,
       "totalBytes": 224,
@@ -7378,7 +7572,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0095/kenney-pixel-platformer-food-expansion-tiles-tile-0095.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0095.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0096",
@@ -7387,7 +7583,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0096.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0096.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0096/kenney-pixel-platformer-food-expansion-tiles-tile-0096.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 146,
       "totalBytes": 146,
@@ -7453,7 +7649,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0096/kenney-pixel-platformer-food-expansion-tiles-tile-0096.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0096.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0097",
@@ -7462,7 +7660,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0097.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0097.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0097/kenney-pixel-platformer-food-expansion-tiles-tile-0097.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 146,
       "totalBytes": 146,
@@ -7528,7 +7726,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0097/kenney-pixel-platformer-food-expansion-tiles-tile-0097.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0097.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0098",
@@ -7537,7 +7737,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0098.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0098.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0098/kenney-pixel-platformer-food-expansion-tiles-tile-0098.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 196,
       "totalBytes": 196,
@@ -7603,7 +7803,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0098/kenney-pixel-platformer-food-expansion-tiles-tile-0098.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0098.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0099",
@@ -7612,7 +7814,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0099.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0099.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0099/kenney-pixel-platformer-food-expansion-tiles-tile-0099.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 167,
       "totalBytes": 167,
@@ -7678,7 +7880,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0099/kenney-pixel-platformer-food-expansion-tiles-tile-0099.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0099.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0100",
@@ -7687,7 +7891,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0100.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0100.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0100/kenney-pixel-platformer-food-expansion-tiles-tile-0100.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 150,
       "totalBytes": 150,
@@ -7753,7 +7957,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0100/kenney-pixel-platformer-food-expansion-tiles-tile-0100.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0100.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0101",
@@ -7762,7 +7968,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0101.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0101.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0101/kenney-pixel-platformer-food-expansion-tiles-tile-0101.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 191,
       "totalBytes": 191,
@@ -7828,7 +8034,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0101/kenney-pixel-platformer-food-expansion-tiles-tile-0101.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0101.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0102",
@@ -7837,7 +8045,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0102.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0102.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0102/kenney-pixel-platformer-food-expansion-tiles-tile-0102.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 188,
       "totalBytes": 188,
@@ -7903,7 +8111,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0102/kenney-pixel-platformer-food-expansion-tiles-tile-0102.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0102.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0103",
@@ -7912,7 +8122,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0103.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0103.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0103/kenney-pixel-platformer-food-expansion-tiles-tile-0103.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 214,
       "totalBytes": 214,
@@ -7978,7 +8188,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0103/kenney-pixel-platformer-food-expansion-tiles-tile-0103.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0103.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0104",
@@ -7987,7 +8199,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0104.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0104.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0104/kenney-pixel-platformer-food-expansion-tiles-tile-0104.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 208,
       "totalBytes": 208,
@@ -8053,7 +8265,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0104/kenney-pixel-platformer-food-expansion-tiles-tile-0104.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0104.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0105",
@@ -8062,7 +8276,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0105.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0105.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0105/kenney-pixel-platformer-food-expansion-tiles-tile-0105.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 202,
       "totalBytes": 202,
@@ -8128,7 +8342,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0105/kenney-pixel-platformer-food-expansion-tiles-tile-0105.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0105.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0106",
@@ -8137,7 +8353,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0106.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0106.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0106/kenney-pixel-platformer-food-expansion-tiles-tile-0106.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 207,
       "totalBytes": 207,
@@ -8203,7 +8419,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0106/kenney-pixel-platformer-food-expansion-tiles-tile-0106.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0106.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0107",
@@ -8212,7 +8430,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0107.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0107.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0107/kenney-pixel-platformer-food-expansion-tiles-tile-0107.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 195,
       "totalBytes": 195,
@@ -8278,7 +8496,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0107/kenney-pixel-platformer-food-expansion-tiles-tile-0107.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0107.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0108",
@@ -8287,7 +8507,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0108.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0108.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0108/kenney-pixel-platformer-food-expansion-tiles-tile-0108.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 222,
       "totalBytes": 222,
@@ -8353,7 +8573,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0108/kenney-pixel-platformer-food-expansion-tiles-tile-0108.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0108.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0109",
@@ -8362,7 +8584,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0109.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0109.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0109/kenney-pixel-platformer-food-expansion-tiles-tile-0109.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 236,
       "totalBytes": 236,
@@ -8428,7 +8650,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0109/kenney-pixel-platformer-food-expansion-tiles-tile-0109.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0109.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0110",
@@ -8437,7 +8661,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0110.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0110.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0110/kenney-pixel-platformer-food-expansion-tiles-tile-0110.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 209,
       "totalBytes": 209,
@@ -8503,7 +8727,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0110/kenney-pixel-platformer-food-expansion-tiles-tile-0110.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0110.png"
     },
     {
       "id": "kenney-pixel-platformer-food-expansion-tiles-tile-0111",
@@ -8512,7 +8738,7 @@
       "kind": "sprite",
       "format": "png",
       "relativePath": "Tiles/tile_0111.png",
-      "publicUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0111.png",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0111/kenney-pixel-platformer-food-expansion-tiles-tile-0111.png",
       "sourceUrl": "https://kenney.nl/assets/pixel-platformer-food-expansion",
       "primaryBytes": 226,
       "totalBytes": 226,
@@ -8578,7 +8804,9 @@
       "warningCount": 0,
       "errorCount": 0,
       "preview": null,
-      "packId": "kenney-pixel-platformer-food-expansion"
+      "packId": "kenney-pixel-platformer-food-expansion",
+      "publicPath": "assets/kenney-pixel-platformer-food-expansion/kenney-pixel-platformer-food-expansion-tiles-tile-0111/kenney-pixel-platformer-food-expansion-tiles-tile-0111.png",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-pixel-platformer-food-expansion-54d96abe0cc1/kenney-pixel-platformer-food-expansion-tiles-tile-0111.png"
     }
   ]
 }
