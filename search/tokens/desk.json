@@ -1,8 +1,11 @@
 {
   "version": 1,
   "token": "desk",
-  "count": 8,
+  "count": 17,
   "assetIds": [
+    "kenney-furniture-kit-chairdesk",
+    "kenney-furniture-kit-desk",
+    "kenney-furniture-kit-deskcorner",
     "kenney-isometric-miniature-library-angle-bookcasewidebooksdesk-e",
     "kenney-isometric-miniature-library-angle-bookcasewidebooksdesk-n",
     "kenney-isometric-miniature-library-angle-bookcasewidebooksdesk-s",
@@ -10,6 +13,12 @@
     "kenney-isometric-miniature-library-isometric-bookcasewidebooksdesk-e",
     "kenney-isometric-miniature-library-isometric-bookcasewidebooksdesk-n",
     "kenney-isometric-miniature-library-isometric-bookcasewidebooksdesk-s",
-    "kenney-isometric-miniature-library-isometric-bookcasewidebooksdesk-w"
+    "kenney-isometric-miniature-library-isometric-bookcasewidebooksdesk-w",
+    "kenney-space-kit-desk-chair",
+    "kenney-space-kit-desk-chairarms",
+    "kenney-space-kit-desk-chairstool",
+    "kenney-space-kit-desk-computer",
+    "kenney-space-kit-desk-computercorner",
+    "kenney-space-kit-desk-computerscreen"
   ]
 }

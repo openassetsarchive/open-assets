@@ -1,0 +1,3905 @@
+{
+  "version": 1,
+  "pack": {
+    "id": "kenney-mini-characters",
+    "name": "Kenney Mini Characters",
+    "description": "Bright, toy-like low-poly 3D mini character pack with compact people, accessibility aids, wheelchairs, masks, glasses, and medical props from Kenney.",
+    "creator": "Kenney",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://kenney.nl/assets/mini-characters",
+    "publicBaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-characters-30e9bcae5f0a",
+    "tags": [
+      "3d",
+      "kenney",
+      "mini",
+      "character",
+      "people",
+      "avatar",
+      "accessibility",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy"
+    ],
+    "generatedAt": "2026-04-24T10:20:46.637Z",
+    "assetCount": 26,
+    "discoveredCount": 26,
+    "failedCount": 0,
+    "sourceRoot": "/Users/me/dev/open-assets/packs/kenney_mini-characters/Models/GLB format"
+  },
+  "assets": [
+    {
+      "id": "kenney-mini-characters-aid-cane",
+      "name": "Aid Cane",
+      "description": "Mini character cane accessibility model (Aid Cane).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "aid-cane.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-characters/kenney-mini-characters-aid-cane/kenney-mini-characters-aid-cane.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-characters",
+      "primaryBytes": 8524,
+      "totalBytes": 17230,
+      "primarySha256": "cf7da205d71bfa531cc5839430392efc8f5c58887e65fe0d3c1e226776c7352a",
+      "bundleSha256": "156782e86c23e9dce8e360f159288ded08adea15576aa1099b91c40527825034",
+      "bounds": {
+        "min": [
+          -0.048,
+          0,
+          -0.182
+        ],
+        "max": [
+          0.048,
+          0.315,
+          0.048
+        ],
+        "size": [
+          0.096,
+          0.315,
+          0.23
+        ],
+        "center": [
+          0,
+          0.1575,
+          -0.067
+        ],
+        "diagonal": 0.401673
+      },
+      "triangleCount": 80,
+      "drawCallCount": 1,
+      "renderVertexCount": 240,
+      "uploadVertexCount": 132,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "character",
+        "people",
+        "avatar",
+        "accessibility",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "cane",
+        "mobility",
+        "aid",
+        "prop"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "accessibility",
+        "aid",
+        "avatar",
+        "avatars",
+        "bright",
+        "cane",
+        "character",
+        "characters",
+        "colorful",
+        "crutch",
+        "defibrillator",
+        "female",
+        "glasses",
+        "hearing",
+        "kenney",
+        "male",
+        "mask",
+        "mini",
+        "mobility",
+        "people",
+        "poly",
+        "prop",
+        "props",
+        "stylized",
+        "toy",
+        "wheelchairs"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-characters/kenney-mini-characters-aid-cane.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 6020,
+        "sha256": "3fde194660c202f882ed6833e1815b02f535a661a327bd26311725faa67511dd",
+        "transparent": true,
+        "sourceBundleSha256": "156782e86c23e9dce8e360f159288ded08adea15576aa1099b91c40527825034",
+        "cacheKey": "d1a3aabdc35a7d520142ade880833e62bc6026f9070bcc6d14012c0aef3f00f1",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.762826,
+          "pan": [
+            0.001036,
+            -0.007772,
+            0.00456
+          ],
+          "alphaBounds": {
+            "x": 151,
+            "y": 73,
+            "width": 211,
+            "height": 367,
+            "fill": 0.716797,
+            "centerOffset": {
+              "x": 0.5,
+              "y": 0.5,
+              "length": 0.707107
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-characters/kenney-mini-characters-aid-cane.webp",
+        "packRelativePath": "previews/kenney-mini-characters-aid-cane.webp"
+      },
+      "packId": "kenney-mini-characters",
+      "publicPath": "assets/kenney-mini-characters/kenney-mini-characters-aid-cane/kenney-mini-characters-aid-cane.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-characters-30e9bcae5f0a/kenney-mini-characters-aid-cane.glb"
+    },
+    {
+      "id": "kenney-mini-characters-aid-cane-blind",
+      "name": "Aid Cane Blind",
+      "description": "Mini character cane accessibility model (Aid Cane Blind).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "aid-cane-blind.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-characters/kenney-mini-characters-aid-cane-blind/kenney-mini-characters-aid-cane-blind.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-characters",
+      "primaryBytes": 6168,
+      "totalBytes": 14874,
+      "primarySha256": "b4cea9fee317e70ebbdb2c2396ff08ec1b1f532db526a81111302b40c813dea6",
+      "bundleSha256": "aaab19b97c96d738fa48737e14c8f9b5b6e53df8ce26ae2b786b7cd5b9dc011b",
+      "bounds": {
+        "min": [
+          -0.048,
+          0,
+          -0.048
+        ],
+        "max": [
+          0.048,
+          0.31,
+          0.048
+        ],
+        "size": [
+          0.096,
+          0.31,
+          0.096
+        ],
+        "center": [
+          0,
+          0.155,
+          0
+        ],
+        "diagonal": 0.338426
+      },
+      "triangleCount": 64,
+      "drawCallCount": 1,
+      "renderVertexCount": 192,
+      "uploadVertexCount": 84,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "character",
+        "people",
+        "avatar",
+        "accessibility",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "cane",
+        "mobility",
+        "aid",
+        "prop"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "accessibility",
+        "aid",
+        "avatar",
+        "avatars",
+        "blind",
+        "bright",
+        "cane",
+        "character",
+        "characters",
+        "colorful",
+        "crutch",
+        "defibrillator",
+        "female",
+        "glasses",
+        "hearing",
+        "kenney",
+        "male",
+        "mask",
+        "mini",
+        "mobility",
+        "people",
+        "poly",
+        "prop",
+        "props",
+        "stylized",
+        "toy",
+        "wheelchairs"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-characters/kenney-mini-characters-aid-cane-blind.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 5006,
+        "sha256": "33e28925a62472a6a43d2e2a25cb6406cd9da0032571935d0ec83263ba3e10bb",
+        "transparent": true,
+        "sourceBundleSha256": "aaab19b97c96d738fa48737e14c8f9b5b6e53df8ce26ae2b786b7cd5b9dc011b",
+        "cacheKey": "95adc1de4c5d75354da2dd1d76fa84413aebdb487690c118f811579c40b792cd",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.663656,
+          "pan": [
+            -0.003671,
+            0.010198,
+            -0.003671
+          ],
+          "alphaBounds": {
+            "x": 185,
+            "y": 65,
+            "width": 142,
+            "height": 381,
+            "fill": 0.744141,
+            "centerOffset": {
+              "x": 0,
+              "y": -0.5,
+              "length": 0.5
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-characters/kenney-mini-characters-aid-cane-blind.webp",
+        "packRelativePath": "previews/kenney-mini-characters-aid-cane-blind.webp"
+      },
+      "packId": "kenney-mini-characters",
+      "publicPath": "assets/kenney-mini-characters/kenney-mini-characters-aid-cane-blind/kenney-mini-characters-aid-cane-blind.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-characters-30e9bcae5f0a/kenney-mini-characters-aid-cane-blind.glb"
+    },
+    {
+      "id": "kenney-mini-characters-aid-cane-low-vision",
+      "name": "Aid Cane Low Vision",
+      "description": "Mini character cane accessibility model (Aid Cane Low Vision).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "aid-cane-low-vision.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-characters/kenney-mini-characters-aid-cane-low-vision/kenney-mini-characters-aid-cane-low-vision.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-characters",
+      "primaryBytes": 6568,
+      "totalBytes": 15274,
+      "primarySha256": "5e0e9547669e92df8560e8532017379f0f48f29b06dce20e35d5796f23e9a1df",
+      "bundleSha256": "251cbab873401b1af1a8fc00a1c318526628259392c447c40d810f4a29fe92dc",
+      "bounds": {
+        "min": [
+          -0.048,
+          0,
+          -0.048
+        ],
+        "max": [
+          0.048,
+          0.31,
+          0.048
+        ],
+        "size": [
+          0.096,
+          0.31,
+          0.096
+        ],
+        "center": [
+          0,
+          0.155,
+          0
+        ],
+        "diagonal": 0.338426
+      },
+      "triangleCount": 64,
+      "drawCallCount": 1,
+      "renderVertexCount": 192,
+      "uploadVertexCount": 92,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "character",
+        "people",
+        "avatar",
+        "accessibility",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "cane",
+        "mobility",
+        "aid",
+        "prop"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "accessibility",
+        "aid",
+        "avatar",
+        "avatars",
+        "bright",
+        "cane",
+        "character",
+        "characters",
+        "colorful",
+        "crutch",
+        "defibrillator",
+        "female",
+        "glasses",
+        "hearing",
+        "kenney",
+        "male",
+        "mask",
+        "mini",
+        "mobility",
+        "people",
+        "poly",
+        "prop",
+        "props",
+        "stylized",
+        "toy",
+        "vision",
+        "wheelchairs"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-characters/kenney-mini-characters-aid-cane-low-vision.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 5534,
+        "sha256": "264c752933928dc24956b986cb820883fe6290e621a11f4ef70476eb6992cdcb",
+        "transparent": true,
+        "sourceBundleSha256": "251cbab873401b1af1a8fc00a1c318526628259392c447c40d810f4a29fe92dc",
+        "cacheKey": "805df7ccc842489516cf3ff8fd8ca3e42d5722a8fa374792db33ea421ba29e39",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.663656,
+          "pan": [
+            -0.003671,
+            0.010198,
+            -0.003671
+          ],
+          "alphaBounds": {
+            "x": 185,
+            "y": 65,
+            "width": 142,
+            "height": 381,
+            "fill": 0.744141,
+            "centerOffset": {
+              "x": 0,
+              "y": -0.5,
+              "length": 0.5
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-characters/kenney-mini-characters-aid-cane-low-vision.webp",
+        "packRelativePath": "previews/kenney-mini-characters-aid-cane-low-vision.webp"
+      },
+      "packId": "kenney-mini-characters",
+      "publicPath": "assets/kenney-mini-characters/kenney-mini-characters-aid-cane-low-vision/kenney-mini-characters-aid-cane-low-vision.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-characters-30e9bcae5f0a/kenney-mini-characters-aid-cane-low-vision.glb"
+    },
+    {
+      "id": "kenney-mini-characters-aid-crutch",
+      "name": "Aid Crutch",
+      "description": "Mini character crutch accessibility model (Aid Crutch).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "aid-crutch.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-characters/kenney-mini-characters-aid-crutch/kenney-mini-characters-aid-crutch.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-characters",
+      "primaryBytes": 16008,
+      "totalBytes": 24714,
+      "primarySha256": "322cd65cea0acb5eefa8a7a085a33bc6215bcbf962f8f691d41c64980223ccf2",
+      "bundleSha256": "218ba54122fbe2404104f29b8caa075193de30b6dfb5283489e70ca85cdee4c4",
+      "bounds": {
+        "min": [
+          -0.098,
+          0,
+          -0.048
+        ],
+        "max": [
+          0.098,
+          0.31,
+          0.139
+        ],
+        "size": [
+          0.196,
+          0.31,
+          0.187
+        ],
+        "center": [
+          0,
+          0.155,
+          0.0455
+        ],
+        "diagonal": 0.411686
+      },
+      "triangleCount": 144,
+      "drawCallCount": 2,
+      "renderVertexCount": 432,
+      "uploadVertexCount": 256,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "character",
+        "people",
+        "avatar",
+        "accessibility",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "crutch",
+        "mobility",
+        "aid",
+        "prop"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "accessibility",
+        "aid",
+        "avatar",
+        "avatars",
+        "bright",
+        "cane",
+        "character",
+        "characters",
+        "colorful",
+        "crutch",
+        "defibrillator",
+        "female",
+        "glasses",
+        "hearing",
+        "kenney",
+        "male",
+        "mask",
+        "mini",
+        "mobility",
+        "people",
+        "poly",
+        "prop",
+        "props",
+        "stylized",
+        "toy",
+        "wheelchairs"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-characters/kenney-mini-characters-aid-crutch.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 7460,
+        "sha256": "1899f81e56107e9e77266d9d01ce505d21447b3b7c8ef4852ed7351e66d5c0af",
+        "transparent": true,
+        "sourceBundleSha256": "218ba54122fbe2404104f29b8caa075193de30b6dfb5283489e70ca85cdee4c4",
+        "cacheKey": "b84303f9351b16d5a77f9d8526c6614c1a7c3c931163a08f761a981fd8bf2c27",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.663656,
+          "pan": [
+            -0.026285,
+            0.020031,
+            0.011862
+          ],
+          "alphaBounds": {
+            "x": 112,
+            "y": 73,
+            "width": 287,
+            "height": 366,
+            "fill": 0.714844,
+            "centerOffset": {
+              "x": -0.5,
+              "y": 0,
+              "length": 0.5
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-characters/kenney-mini-characters-aid-crutch.webp",
+        "packRelativePath": "previews/kenney-mini-characters-aid-crutch.webp"
+      },
+      "packId": "kenney-mini-characters",
+      "publicPath": "assets/kenney-mini-characters/kenney-mini-characters-aid-crutch/kenney-mini-characters-aid-crutch.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-characters-30e9bcae5f0a/kenney-mini-characters-aid-crutch.glb"
+    },
+    {
+      "id": "kenney-mini-characters-aid-defibrillator-green",
+      "name": "Aid Defibrillator Green",
+      "description": "Mini character defibrillator model (Aid Defibrillator Green).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "aid-defibrillator-green.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-characters/kenney-mini-characters-aid-defibrillator-green/kenney-mini-characters-aid-defibrillator-green.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-characters",
+      "primaryBytes": 10296,
+      "totalBytes": 19002,
+      "primarySha256": "f8513662ae769afd7e277a28176bda2aff8c0f3cb096ee7bfa0e8d6cd92793a6",
+      "bundleSha256": "5d58f66851d1a01933beff0c5a9f7a3146c76945bffc205d7fdc85bf6180da68",
+      "bounds": {
+        "min": [
+          -0.112727,
+          0,
+          -0.07
+        ],
+        "max": [
+          0.112727,
+          0.29,
+          0.07
+        ],
+        "size": [
+          0.225455,
+          0.29,
+          0.14
+        ],
+        "center": [
+          0,
+          0.145,
+          0
+        ],
+        "diagonal": 0.393103
+      },
+      "triangleCount": 86,
+      "drawCallCount": 2,
+      "renderVertexCount": 258,
+      "uploadVertexCount": 144,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "character",
+        "people",
+        "avatar",
+        "accessibility",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "defibrillator",
+        "medical",
+        "aid",
+        "prop"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "accessibility",
+        "aid",
+        "avatar",
+        "avatars",
+        "bright",
+        "cane",
+        "character",
+        "characters",
+        "colorful",
+        "crutch",
+        "defibrillator",
+        "female",
+        "glasses",
+        "green",
+        "hearing",
+        "kenney",
+        "male",
+        "mask",
+        "medical",
+        "mini",
+        "people",
+        "poly",
+        "prop",
+        "props",
+        "stylized",
+        "toy",
+        "wheelchairs"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-characters/kenney-mini-characters-aid-defibrillator-green.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 6600,
+        "sha256": "1874478651824ef8280f5d49ce1e630829aa67770f08be9c67a8e14a70ebcd8e",
+        "transparent": true,
+        "sourceBundleSha256": "5d58f66851d1a01933beff0c5a9f7a3146c76945bffc205d7fdc85bf6180da68",
+        "cacheKey": "bd4c4eb4ceba9f1ae690e86265a6d93c7fb7f262317f347bd14b7d79af4fa0cd",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.756177,
+          "pan": [
+            0.009945,
+            -0.012606,
+            -0.000869
+          ],
+          "alphaBounds": {
+            "x": 128,
+            "y": 72,
+            "width": 254,
+            "height": 366,
+            "fill": 0.714844,
+            "centerOffset": {
+              "x": -1,
+              "y": -1,
+              "length": 1.414214
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-characters/kenney-mini-characters-aid-defibrillator-green.webp",
+        "packRelativePath": "previews/kenney-mini-characters-aid-defibrillator-green.webp"
+      },
+      "packId": "kenney-mini-characters",
+      "publicPath": "assets/kenney-mini-characters/kenney-mini-characters-aid-defibrillator-green/kenney-mini-characters-aid-defibrillator-green.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-characters-30e9bcae5f0a/kenney-mini-characters-aid-defibrillator-green.glb"
+    },
+    {
+      "id": "kenney-mini-characters-aid-defibrillator-red",
+      "name": "Aid Defibrillator Red",
+      "description": "Mini character defibrillator model (Aid Defibrillator Red).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "aid-defibrillator-red.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-characters/kenney-mini-characters-aid-defibrillator-red/kenney-mini-characters-aid-defibrillator-red.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-characters",
+      "primaryBytes": 10288,
+      "totalBytes": 18994,
+      "primarySha256": "5f4e6496a934030bafce051fa741e4d84d013edd05f423662e8307643e1454e5",
+      "bundleSha256": "ef3e7da9d362a02925d94df544f685238b0da719791876c934d7ab6296b4d139",
+      "bounds": {
+        "min": [
+          -0.112727,
+          0,
+          -0.07
+        ],
+        "max": [
+          0.112727,
+          0.29,
+          0.07
+        ],
+        "size": [
+          0.225455,
+          0.29,
+          0.14
+        ],
+        "center": [
+          0,
+          0.145,
+          0
+        ],
+        "diagonal": 0.393103
+      },
+      "triangleCount": 86,
+      "drawCallCount": 2,
+      "renderVertexCount": 258,
+      "uploadVertexCount": 144,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "character",
+        "people",
+        "avatar",
+        "accessibility",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "defibrillator",
+        "medical",
+        "aid",
+        "prop"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "accessibility",
+        "aid",
+        "avatar",
+        "avatars",
+        "bright",
+        "cane",
+        "character",
+        "characters",
+        "colorful",
+        "crutch",
+        "defibrillator",
+        "female",
+        "glasses",
+        "hearing",
+        "kenney",
+        "male",
+        "mask",
+        "medical",
+        "mini",
+        "people",
+        "poly",
+        "prop",
+        "props",
+        "red",
+        "stylized",
+        "toy",
+        "wheelchairs"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-characters/kenney-mini-characters-aid-defibrillator-red.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 6992,
+        "sha256": "9bb8295fa273ec736b7d745b634eeaf31d6f5f8d70945905ccf8800889220f1c",
+        "transparent": true,
+        "sourceBundleSha256": "ef3e7da9d362a02925d94df544f685238b0da719791876c934d7ab6296b4d139",
+        "cacheKey": "5fbc31dace5a5e5e92ad62fade13a31c3c9d8b099130a40273929c656aef2a36",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.756177,
+          "pan": [
+            0.009945,
+            -0.012606,
+            -0.000869
+          ],
+          "alphaBounds": {
+            "x": 128,
+            "y": 72,
+            "width": 254,
+            "height": 366,
+            "fill": 0.714844,
+            "centerOffset": {
+              "x": -1,
+              "y": -1,
+              "length": 1.414214
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-characters/kenney-mini-characters-aid-defibrillator-red.webp",
+        "packRelativePath": "previews/kenney-mini-characters-aid-defibrillator-red.webp"
+      },
+      "packId": "kenney-mini-characters",
+      "publicPath": "assets/kenney-mini-characters/kenney-mini-characters-aid-defibrillator-red/kenney-mini-characters-aid-defibrillator-red.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-characters-30e9bcae5f0a/kenney-mini-characters-aid-defibrillator-red.glb"
+    },
+    {
+      "id": "kenney-mini-characters-aid-glasses",
+      "name": "Aid Glasses",
+      "description": "Mini character glasses model (Aid Glasses).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "aid-glasses.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-characters/kenney-mini-characters-aid-glasses/kenney-mini-characters-aid-glasses.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-characters",
+      "primaryBytes": 6764,
+      "totalBytes": 15470,
+      "primarySha256": "adb8bb84ba24413068e28a800ccb8cc50060c77dc28df4cdddaee6c4d30b6289",
+      "bundleSha256": "766f003dc57b3a89891e3458d27a59f617f022de987922ae8fc747e55dc05349",
+      "bounds": {
+        "min": [
+          -0.165,
+          0,
+          -0.091796
+        ],
+        "max": [
+          0.165,
+          0.09582,
+          0.091796
+        ],
+        "size": [
+          0.33,
+          0.09582,
+          0.183591
+        ],
+        "center": [
+          0,
+          0.04791,
+          0
+        ],
+        "diagonal": 0.389599
+      },
+      "triangleCount": 52,
+      "drawCallCount": 1,
+      "renderVertexCount": 156,
+      "uploadVertexCount": 82,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "character",
+        "people",
+        "avatar",
+        "accessibility",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "glasses",
+        "accessory",
+        "aid",
+        "prop"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "accessibility",
+        "accessory",
+        "aid",
+        "avatar",
+        "avatars",
+        "bright",
+        "cane",
+        "character",
+        "characters",
+        "colorful",
+        "crutch",
+        "defibrillator",
+        "female",
+        "glasses",
+        "hearing",
+        "kenney",
+        "male",
+        "mask",
+        "mini",
+        "people",
+        "poly",
+        "prop",
+        "props",
+        "stylized",
+        "toy",
+        "wheelchairs"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-characters/kenney-mini-characters-aid-glasses.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 5872,
+        "sha256": "f47cd3029af32bea12b9ad63a136efd42c45bedb90aa567f267ef6e5eab68569",
+        "transparent": true,
+        "sourceBundleSha256": "766f003dc57b3a89891e3458d27a59f617f022de987922ae8fc747e55dc05349",
+        "cacheKey": "1ab3d510c9c4b279ba98046f46f561deccd1c2b86b6ed29a1303ea78b55c902c",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.789569,
+          "pan": [
+            0.015781,
+            -0.012521,
+            -0.006766
+          ],
+          "alphaBounds": {
+            "x": 73,
+            "y": 161,
+            "width": 366,
+            "height": 191,
+            "fill": 0.714844,
+            "centerOffset": {
+              "x": 0,
+              "y": 0.5,
+              "length": 0.5
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-characters/kenney-mini-characters-aid-glasses.webp",
+        "packRelativePath": "previews/kenney-mini-characters-aid-glasses.webp"
+      },
+      "packId": "kenney-mini-characters",
+      "publicPath": "assets/kenney-mini-characters/kenney-mini-characters-aid-glasses/kenney-mini-characters-aid-glasses.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-characters-30e9bcae5f0a/kenney-mini-characters-aid-glasses.glb"
+    },
+    {
+      "id": "kenney-mini-characters-aid-hearing",
+      "name": "Aid Hearing",
+      "description": "Mini character hearing aid model (Aid Hearing).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "aid_hearing.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-characters/kenney-mini-characters-aid-hearing/kenney-mini-characters-aid-hearing.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-characters",
+      "primaryBytes": 7212,
+      "totalBytes": 15918,
+      "primarySha256": "4e7579b5ec8d8b3f2c3d88f448e54a79683f4f824755247ddc27f6c6d7ea7c01",
+      "bundleSha256": "88da141a4458ffadf5996c4c35c027e74f34f37004f4c8c5b09da3d0da03690e",
+      "bounds": {
+        "min": [
+          -0.025,
+          0,
+          -0.078381
+        ],
+        "max": [
+          0.025,
+          0.123533,
+          0.078381
+        ],
+        "size": [
+          0.05,
+          0.123533,
+          0.156762
+        ],
+        "center": [
+          0,
+          0.061766,
+          0
+        ],
+        "diagonal": 0.205754
+      },
+      "triangleCount": 48,
+      "drawCallCount": 1,
+      "renderVertexCount": 144,
+      "uploadVertexCount": 88,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "character",
+        "people",
+        "avatar",
+        "accessibility",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "hearing-aid",
+        "aid",
+        "prop"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "accessibility",
+        "aid",
+        "avatar",
+        "avatars",
+        "bright",
+        "cane",
+        "character",
+        "characters",
+        "colorful",
+        "crutch",
+        "defibrillator",
+        "female",
+        "glasses",
+        "hearing",
+        "kenney",
+        "male",
+        "mask",
+        "mini",
+        "people",
+        "poly",
+        "prop",
+        "props",
+        "stylized",
+        "toy",
+        "wheelchairs"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-characters/kenney-mini-characters-aid-hearing.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 9272,
+        "sha256": "f603b63d17e2966ede0ce4b7207fe0ab98debaa8e7f37d897b09f4418eb94890",
+        "transparent": true,
+        "sourceBundleSha256": "88da141a4458ffadf5996c4c35c027e74f34f37004f4c8c5b09da3d0da03690e",
+        "cacheKey": "53af6e6aafc1128b3c7c5a2505564e4476c236c8efba0fdd073631c3331afd4a",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.3356,
+          "pan": [
+            -0.007235,
+            0.007919,
+            0.001533
+          ],
+          "alphaBounds": {
+            "x": 73,
+            "y": 90,
+            "width": 367,
+            "height": 333,
+            "fill": 0.716797,
+            "centerOffset": {
+              "x": 0.5,
+              "y": 0.5,
+              "length": 0.707107
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-characters/kenney-mini-characters-aid-hearing.webp",
+        "packRelativePath": "previews/kenney-mini-characters-aid-hearing.webp"
+      },
+      "packId": "kenney-mini-characters",
+      "publicPath": "assets/kenney-mini-characters/kenney-mini-characters-aid-hearing/kenney-mini-characters-aid-hearing.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-characters-30e9bcae5f0a/kenney-mini-characters-aid-hearing.glb"
+    },
+    {
+      "id": "kenney-mini-characters-aid-mask",
+      "name": "Aid Mask",
+      "description": "Mini character mask model (Aid Mask).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "aid-mask.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-characters/kenney-mini-characters-aid-mask/kenney-mini-characters-aid-mask.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-characters",
+      "primaryBytes": 15820,
+      "totalBytes": 24526,
+      "primarySha256": "92a77b92df28883f363e0b79ee0d6f0510fcd9bca7f5efa1b540e0fce4a67987",
+      "bundleSha256": "dda584e36d14849a3c6541c9cb854c2083aa425ff54d5c5aab87fb7282020fa8",
+      "bounds": {
+        "min": [
+          -0.166352,
+          -0.05,
+          0.023092
+        ],
+        "max": [
+          0.169161,
+          0.152631,
+          0.233429
+        ],
+        "size": [
+          0.335513,
+          0.202631,
+          0.210337
+        ],
+        "center": [
+          0.001404,
+          0.051315,
+          0.12826
+        ],
+        "diagonal": 0.444825
+      },
+      "triangleCount": 176,
+      "drawCallCount": 1,
+      "renderVertexCount": 528,
+      "uploadVertexCount": 268,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "character",
+        "people",
+        "avatar",
+        "accessibility",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "mask",
+        "medical",
+        "accessory",
+        "prop"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "accessibility",
+        "accessory",
+        "aid",
+        "avatar",
+        "avatars",
+        "bright",
+        "cane",
+        "character",
+        "characters",
+        "colorful",
+        "crutch",
+        "defibrillator",
+        "female",
+        "glasses",
+        "hearing",
+        "kenney",
+        "male",
+        "mask",
+        "medical",
+        "mini",
+        "people",
+        "poly",
+        "prop",
+        "props",
+        "stylized",
+        "toy",
+        "wheelchairs"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-characters/kenney-mini-characters-aid-mask.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 8958,
+        "sha256": "3d939023668d8a9b817bed40cc0052d65b8d00ae5566f6a39d79be24a1ea6124",
+        "transparent": true,
+        "sourceBundleSha256": "dda584e36d14849a3c6541c9cb854c2083aa425ff54d5c5aab87fb7282020fa8",
+        "cacheKey": "089380468ecff1b7dbda7bc26762aa18df769466083653805ee41ae8115e2d7c",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.718275,
+          "pan": [
+            0.042146,
+            -0.031929,
+            -0.019157
+          ],
+          "alphaBounds": {
+            "x": 75,
+            "y": 89,
+            "width": 360,
+            "height": 333,
+            "fill": 0.703125,
+            "centerOffset": {
+              "x": -1,
+              "y": -0.5,
+              "length": 1.118034
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-characters/kenney-mini-characters-aid-mask.webp",
+        "packRelativePath": "previews/kenney-mini-characters-aid-mask.webp"
+      },
+      "packId": "kenney-mini-characters",
+      "publicPath": "assets/kenney-mini-characters/kenney-mini-characters-aid-mask/kenney-mini-characters-aid-mask.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-characters-30e9bcae5f0a/kenney-mini-characters-aid-mask.glb"
+    },
+    {
+      "id": "kenney-mini-characters-aid-sunglasses",
+      "name": "Aid Sunglasses",
+      "description": "Mini character sunglasses model (Aid Sunglasses).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "aid-sunglasses.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-characters/kenney-mini-characters-aid-sunglasses/kenney-mini-characters-aid-sunglasses.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-characters",
+      "primaryBytes": 6324,
+      "totalBytes": 15030,
+      "primarySha256": "5532a56de76274c80941b44fd5c96ba2636ab211d17987e3944ecb5051e88020",
+      "bundleSha256": "c542c3ab1d85255b9ae6480c3f17e1637eceee540785e4466ae28ddee0cdb95d",
+      "bounds": {
+        "min": [
+          -0.165,
+          0,
+          -0.091796
+        ],
+        "max": [
+          0.165,
+          0.09582,
+          0.091796
+        ],
+        "size": [
+          0.33,
+          0.09582,
+          0.183591
+        ],
+        "center": [
+          0,
+          0.04791,
+          0
+        ],
+        "diagonal": 0.389599
+      },
+      "triangleCount": 62,
+      "drawCallCount": 1,
+      "renderVertexCount": 186,
+      "uploadVertexCount": 90,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "character",
+        "people",
+        "avatar",
+        "accessibility",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "sunglasses",
+        "accessory",
+        "prop"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "accessibility",
+        "accessory",
+        "aid",
+        "avatar",
+        "avatars",
+        "bright",
+        "cane",
+        "character",
+        "characters",
+        "colorful",
+        "crutch",
+        "defibrillator",
+        "female",
+        "glasses",
+        "hearing",
+        "kenney",
+        "male",
+        "mask",
+        "mini",
+        "people",
+        "poly",
+        "prop",
+        "props",
+        "stylized",
+        "sunglasses",
+        "toy",
+        "wheelchairs"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-characters/kenney-mini-characters-aid-sunglasses.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 4286,
+        "sha256": "91e1440a40143de746da443ec2cac6fbbeea4e80519f448016f732521b648a4f",
+        "transparent": true,
+        "sourceBundleSha256": "c542c3ab1d85255b9ae6480c3f17e1637eceee540785e4466ae28ddee0cdb95d",
+        "cacheKey": "92417cf96b817e5b496d0ecff9c48e8af179d6d21c7b415c76e20cb9e74ea167",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.806817,
+          "pan": [
+            0.011527,
+            -0.000888,
+            -0.010888
+          ],
+          "alphaBounds": {
+            "x": 74,
+            "y": 148,
+            "width": 364,
+            "height": 216,
+            "fill": 0.710938,
+            "centerOffset": {
+              "x": 0,
+              "y": 0,
+              "length": 0
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-characters/kenney-mini-characters-aid-sunglasses.webp",
+        "packRelativePath": "previews/kenney-mini-characters-aid-sunglasses.webp"
+      },
+      "packId": "kenney-mini-characters",
+      "publicPath": "assets/kenney-mini-characters/kenney-mini-characters-aid-sunglasses/kenney-mini-characters-aid-sunglasses.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-characters-30e9bcae5f0a/kenney-mini-characters-aid-sunglasses.glb"
+    },
+    {
+      "id": "kenney-mini-characters-character-female-a",
+      "name": "Character Female A",
+      "description": "Mini character model (Character Female A).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "character-female-a.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-characters/kenney-mini-characters-character-female-a/kenney-mini-characters-character-female-a.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-characters",
+      "primaryBytes": 273448,
+      "totalBytes": 282154,
+      "primarySha256": "8cfcff43460da8b421f2a7fdfb43ec177321cad2746db9497cbf128d5806e2a8",
+      "bundleSha256": "dd7fe95e299ea792fa52b93890baa3fd315b18635a027f59c48985bddb55eaf9",
+      "bounds": {
+        "min": [
+          -0.549394,
+          0,
+          -0.291892
+        ],
+        "max": [
+          0.549394,
+          0.775528,
+          0.207639
+        ],
+        "size": [
+          1.098787,
+          0.775528,
+          0.49953
+        ],
+        "center": [
+          0,
+          0.387764,
+          -0.042126
+        ],
+        "diagonal": 1.43468
+      },
+      "triangleCount": 876,
+      "drawCallCount": 2,
+      "renderVertexCount": 2628,
+      "uploadVertexCount": 1576,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 32,
+      "skinCount": 2,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "character",
+        "people",
+        "avatar",
+        "accessibility",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "person",
+        "npc"
+      ],
+      "aliases": [
+        "mini person",
+        "mini avatar"
+      ],
+      "searchTokens": [
+        "accessibility",
+        "aid",
+        "avatar",
+        "avatars",
+        "bright",
+        "cane",
+        "character",
+        "characters",
+        "colorful",
+        "crutch",
+        "defibrillator",
+        "female",
+        "glasses",
+        "hearing",
+        "kenney",
+        "male",
+        "mask",
+        "mini",
+        "npc",
+        "people",
+        "person",
+        "poly",
+        "props",
+        "stylized",
+        "toy",
+        "wheelchairs"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-characters/kenney-mini-characters-character-female-a.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 10456,
+        "sha256": "52d2c55e09e9bb39935ecc690eb78f7fee790ea8c8d7358c77839af13dc6f5c6",
+        "transparent": true,
+        "sourceBundleSha256": "dd7fe95e299ea792fa52b93890baa3fd315b18635a027f59c48985bddb55eaf9",
+        "cacheKey": "8a9f5c29277e122d2f4a4aa21d17b01629c7272c5b3ca4f81f84625311ce685a",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.824982,
+          "pan": [
+            0.02516,
+            -0.008324,
+            -0.019167
+          ],
+          "alphaBounds": {
+            "x": 76,
+            "y": 71,
+            "width": 359,
+            "height": 370,
+            "fill": 0.722656,
+            "centerOffset": {
+              "x": -0.5,
+              "y": 0,
+              "length": 0.5
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-characters/kenney-mini-characters-character-female-a.webp",
+        "packRelativePath": "previews/kenney-mini-characters-character-female-a.webp"
+      },
+      "packId": "kenney-mini-characters",
+      "publicPath": "assets/kenney-mini-characters/kenney-mini-characters-character-female-a/kenney-mini-characters-character-female-a.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-characters-30e9bcae5f0a/kenney-mini-characters-character-female-a.glb"
+    },
+    {
+      "id": "kenney-mini-characters-character-female-b",
+      "name": "Character Female B",
+      "description": "Mini character model (Character Female B).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "character-female-b.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-characters/kenney-mini-characters-character-female-b/kenney-mini-characters-character-female-b.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-characters",
+      "primaryBytes": 252140,
+      "totalBytes": 260846,
+      "primarySha256": "2288438e7baf9acc91a870c82dc00d66710bb486592cfc3474ef8ed93a03863a",
+      "bundleSha256": "1b964144fdbf4b0a468366451042553122acf3bf5ff29bc279de132bccbf1379",
+      "bounds": {
+        "min": [
+          -0.383584,
+          0,
+          -0.210883
+        ],
+        "max": [
+          0.383584,
+          0.723353,
+          0.207639
+        ],
+        "size": [
+          0.767168,
+          0.723353,
+          0.418522
+        ],
+        "center": [
+          0,
+          0.361677,
+          -0.001622
+        ],
+        "diagonal": 1.134437
+      },
+      "triangleCount": 742,
+      "drawCallCount": 2,
+      "renderVertexCount": 2226,
+      "uploadVertexCount": 1322,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 32,
+      "skinCount": 2,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "character",
+        "people",
+        "avatar",
+        "accessibility",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "person",
+        "npc"
+      ],
+      "aliases": [
+        "mini person",
+        "mini avatar"
+      ],
+      "searchTokens": [
+        "accessibility",
+        "aid",
+        "avatar",
+        "avatars",
+        "bright",
+        "cane",
+        "character",
+        "characters",
+        "colorful",
+        "crutch",
+        "defibrillator",
+        "female",
+        "glasses",
+        "hearing",
+        "kenney",
+        "male",
+        "mask",
+        "mini",
+        "npc",
+        "people",
+        "person",
+        "poly",
+        "props",
+        "stylized",
+        "toy",
+        "wheelchairs"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-characters/kenney-mini-characters-character-female-b.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 10722,
+        "sha256": "1bb365e69f784b83dc1a7a3675352fe719d691cd706f8fa4a096d0a9d68a16f4",
+        "transparent": true,
+        "sourceBundleSha256": "1b964144fdbf4b0a468366451042553122acf3bf5ff29bc279de132bccbf1379",
+        "cacheKey": "5fd1e525cb31a0ab03d8f917add3122723858c12c63c0f4030db30e9cb292f93",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.755359,
+          "pan": [
+            0.003258,
+            0.010816,
+            -0.011045
+          ],
+          "alphaBounds": {
+            "x": 117,
+            "y": 72,
+            "width": 276,
+            "height": 368,
+            "fill": 0.71875,
+            "centerOffset": {
+              "x": -1,
+              "y": 0,
+              "length": 1
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-characters/kenney-mini-characters-character-female-b.webp",
+        "packRelativePath": "previews/kenney-mini-characters-character-female-b.webp"
+      },
+      "packId": "kenney-mini-characters",
+      "publicPath": "assets/kenney-mini-characters/kenney-mini-characters-character-female-b/kenney-mini-characters-character-female-b.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-characters-30e9bcae5f0a/kenney-mini-characters-character-female-b.glb"
+    },
+    {
+      "id": "kenney-mini-characters-character-female-c",
+      "name": "Character Female C",
+      "description": "Mini character model (Character Female C).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "character-female-c.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-characters/kenney-mini-characters-character-female-c/kenney-mini-characters-character-female-c.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-characters",
+      "primaryBytes": 252040,
+      "totalBytes": 260746,
+      "primarySha256": "3cd9e1b5d6409fce0ba1af617d9e008c3069493185a4c100f49fb99a2626a055",
+      "bundleSha256": "c2c9f79810575faa0c413e60cc84ead4b8086e854bfe35e95452e7a28e8a1ae8",
+      "bounds": {
+        "min": [
+          -0.383584,
+          0,
+          -0.291892
+        ],
+        "max": [
+          0.383584,
+          0.775528,
+          0.207639
+        ],
+        "size": [
+          0.767168,
+          0.775528,
+          0.49953
+        ],
+        "center": [
+          0,
+          0.387764,
+          -0.042126
+        ],
+        "diagonal": 1.199801
+      },
+      "triangleCount": 732,
+      "drawCallCount": 2,
+      "renderVertexCount": 2196,
+      "uploadVertexCount": 1322,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 32,
+      "skinCount": 2,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "character",
+        "people",
+        "avatar",
+        "accessibility",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "person",
+        "npc"
+      ],
+      "aliases": [
+        "mini person",
+        "mini avatar"
+      ],
+      "searchTokens": [
+        "accessibility",
+        "aid",
+        "avatar",
+        "avatars",
+        "bright",
+        "cane",
+        "character",
+        "characters",
+        "colorful",
+        "crutch",
+        "defibrillator",
+        "female",
+        "glasses",
+        "hearing",
+        "kenney",
+        "male",
+        "mask",
+        "mini",
+        "npc",
+        "people",
+        "person",
+        "poly",
+        "props",
+        "stylized",
+        "toy",
+        "wheelchairs"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-characters/kenney-mini-characters-character-female-c.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 10144,
+        "sha256": "7afb6f1d0822044a6328f8641f696ed00a20569ebfa6e7ab3e58cc4f5672395c",
+        "transparent": true,
+        "sourceBundleSha256": "c2c9f79810575faa0c413e60cc84ead4b8086e854bfe35e95452e7a28e8a1ae8",
+        "cacheKey": "52f371fba675714ccf585931d228c1b5ea83b0a3545349d7dd0275a995fe6e69",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.83754,
+          "pan": [
+            -0.013281,
+            -0.007289,
+            0.018529
+          ],
+          "alphaBounds": {
+            "x": 124,
+            "y": 73,
+            "width": 262,
+            "height": 368,
+            "fill": 0.71875,
+            "centerOffset": {
+              "x": -1,
+              "y": 1,
+              "length": 1.414214
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-characters/kenney-mini-characters-character-female-c.webp",
+        "packRelativePath": "previews/kenney-mini-characters-character-female-c.webp"
+      },
+      "packId": "kenney-mini-characters",
+      "publicPath": "assets/kenney-mini-characters/kenney-mini-characters-character-female-c/kenney-mini-characters-character-female-c.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-characters-30e9bcae5f0a/kenney-mini-characters-character-female-c.glb"
+    },
+    {
+      "id": "kenney-mini-characters-character-female-d",
+      "name": "Character Female D",
+      "description": "Mini character model (Character Female D).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "character-female-d.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-characters/kenney-mini-characters-character-female-d/kenney-mini-characters-character-female-d.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-characters",
+      "primaryBytes": 258760,
+      "totalBytes": 267466,
+      "primarySha256": "67f61708743bd34f91a4c2ba8160b61bf2e7d4ec2ca6647dfe99873422561410",
+      "bundleSha256": "f8dc522fbd2cc8008be74334f092804657e240907059e4c639c8d0e1950db3fe",
+      "bounds": {
+        "min": [
+          -0.383584,
+          0,
+          -0.291892
+        ],
+        "max": [
+          0.383584,
+          0.775528,
+          0.207639
+        ],
+        "size": [
+          0.767168,
+          0.775528,
+          0.49953
+        ],
+        "center": [
+          0,
+          0.387764,
+          -0.042126
+        ],
+        "diagonal": 1.199801
+      },
+      "triangleCount": 797,
+      "drawCallCount": 2,
+      "renderVertexCount": 2391,
+      "uploadVertexCount": 1401,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 32,
+      "skinCount": 2,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "character",
+        "people",
+        "avatar",
+        "accessibility",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "person",
+        "npc"
+      ],
+      "aliases": [
+        "mini person",
+        "mini avatar"
+      ],
+      "searchTokens": [
+        "accessibility",
+        "aid",
+        "avatar",
+        "avatars",
+        "bright",
+        "cane",
+        "character",
+        "characters",
+        "colorful",
+        "crutch",
+        "defibrillator",
+        "female",
+        "glasses",
+        "hearing",
+        "kenney",
+        "male",
+        "mask",
+        "mini",
+        "npc",
+        "people",
+        "person",
+        "poly",
+        "props",
+        "stylized",
+        "toy",
+        "wheelchairs"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-characters/kenney-mini-characters-character-female-d.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 8900,
+        "sha256": "81ef44eb315a17f4edd3b864379e84afc815d02a709b8a464d9a8fe237019417",
+        "transparent": true,
+        "sourceBundleSha256": "f8dc522fbd2cc8008be74334f092804657e240907059e4c639c8d0e1950db3fe",
+        "cacheKey": "1b0a5be3408cc4349a0b26afdd49dc277bee4c27ceb7022bbb0ff0be3d1ada28",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.833036,
+          "pan": [
+            -0.015642,
+            -0.007384,
+            0.020958
+          ],
+          "alphaBounds": {
+            "x": 125,
+            "y": 72,
+            "width": 263,
+            "height": 368,
+            "fill": 0.71875,
+            "centerOffset": {
+              "x": 0.5,
+              "y": 0,
+              "length": 0.5
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-characters/kenney-mini-characters-character-female-d.webp",
+        "packRelativePath": "previews/kenney-mini-characters-character-female-d.webp"
+      },
+      "packId": "kenney-mini-characters",
+      "publicPath": "assets/kenney-mini-characters/kenney-mini-characters-character-female-d/kenney-mini-characters-character-female-d.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-characters-30e9bcae5f0a/kenney-mini-characters-character-female-d.glb"
+    },
+    {
+      "id": "kenney-mini-characters-character-female-e",
+      "name": "Character Female E",
+      "description": "Mini character model (Character Female E).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "character-female-e.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-characters/kenney-mini-characters-character-female-e/kenney-mini-characters-character-female-e.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-characters",
+      "primaryBytes": 248012,
+      "totalBytes": 256718,
+      "primarySha256": "3ee3939f80d718945fcb9199f909a92c39669e38aeec7f544536b5dce6e79f98",
+      "bundleSha256": "11d4f73a67332742ee0a206705c29998a8df14c6067f10dde8da0689a83d450c",
+      "bounds": {
+        "min": [
+          -0.383584,
+          0,
+          -0.319423
+        ],
+        "max": [
+          0.383584,
+          0.716475,
+          0.207639
+        ],
+        "size": [
+          0.767168,
+          0.716475,
+          0.527062
+        ],
+        "center": [
+          0,
+          0.358238,
+          -0.055892
+        ],
+        "diagonal": 1.174597
+      },
+      "triangleCount": 756,
+      "drawCallCount": 2,
+      "renderVertexCount": 2268,
+      "uploadVertexCount": 1270,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 32,
+      "skinCount": 2,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "character",
+        "people",
+        "avatar",
+        "accessibility",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "person",
+        "npc"
+      ],
+      "aliases": [
+        "mini person",
+        "mini avatar"
+      ],
+      "searchTokens": [
+        "accessibility",
+        "aid",
+        "avatar",
+        "avatars",
+        "bright",
+        "cane",
+        "character",
+        "characters",
+        "colorful",
+        "crutch",
+        "defibrillator",
+        "female",
+        "glasses",
+        "hearing",
+        "kenney",
+        "male",
+        "mask",
+        "mini",
+        "npc",
+        "people",
+        "person",
+        "poly",
+        "props",
+        "stylized",
+        "toy",
+        "wheelchairs"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-characters/kenney-mini-characters-character-female-e.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 9216,
+        "sha256": "6168fba185ec687819f4087b6dcbfafcfc36aaa00083f7b8da6a2871b21fd62d",
+        "transparent": true,
+        "sourceBundleSha256": "11d4f73a67332742ee0a206705c29998a8df14c6067f10dde8da0689a83d450c",
+        "cacheKey": "1be9066d2e85dd500b46536fafceecc181ca42be383d79892bb8c33a700a3815",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.728627,
+          "pan": [
+            -0.018343,
+            -0.012618,
+            0.027428
+          ],
+          "alphaBounds": {
+            "x": 114,
+            "y": 72,
+            "width": 284,
+            "height": 368,
+            "fill": 0.71875,
+            "centerOffset": {
+              "x": 0,
+              "y": 0,
+              "length": 0
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-characters/kenney-mini-characters-character-female-e.webp",
+        "packRelativePath": "previews/kenney-mini-characters-character-female-e.webp"
+      },
+      "packId": "kenney-mini-characters",
+      "publicPath": "assets/kenney-mini-characters/kenney-mini-characters-character-female-e/kenney-mini-characters-character-female-e.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-characters-30e9bcae5f0a/kenney-mini-characters-character-female-e.glb"
+    },
+    {
+      "id": "kenney-mini-characters-character-female-f",
+      "name": "Character Female F",
+      "description": "Mini character model (Character Female F).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "character-female-f.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-characters/kenney-mini-characters-character-female-f/kenney-mini-characters-character-female-f.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-characters",
+      "primaryBytes": 259488,
+      "totalBytes": 268194,
+      "primarySha256": "2ff4311897bfaf99be80d2fa13918db30f506607da0291640b2609d82b70e0ca",
+      "bundleSha256": "c1552b917e17cb0dc91e8d7b7e798c1e15340566ef9177a146b619c9a12901a8",
+      "bounds": {
+        "min": [
+          -0.383584,
+          0,
+          -0.233473
+        ],
+        "max": [
+          0.383584,
+          0.671325,
+          0.207639
+        ],
+        "size": [
+          0.767168,
+          0.671325,
+          0.441112
+        ],
+        "center": [
+          0,
+          0.335663,
+          -0.012917
+        ],
+        "diagonal": 1.110767
+      },
+      "triangleCount": 788,
+      "drawCallCount": 2,
+      "renderVertexCount": 2364,
+      "uploadVertexCount": 1410,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 32,
+      "skinCount": 2,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "character",
+        "people",
+        "avatar",
+        "accessibility",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "person",
+        "npc"
+      ],
+      "aliases": [
+        "mini person",
+        "mini avatar"
+      ],
+      "searchTokens": [
+        "accessibility",
+        "aid",
+        "avatar",
+        "avatars",
+        "bright",
+        "cane",
+        "character",
+        "characters",
+        "colorful",
+        "crutch",
+        "defibrillator",
+        "female",
+        "glasses",
+        "hearing",
+        "kenney",
+        "male",
+        "mask",
+        "mini",
+        "npc",
+        "people",
+        "person",
+        "poly",
+        "props",
+        "stylized",
+        "toy",
+        "wheelchairs"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-characters/kenney-mini-characters-character-female-f.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 10706,
+        "sha256": "cf36d29f169266a4e512de8a0dcbcf4fbfa67b587462579a84f52a9bd9d44415",
+        "transparent": true,
+        "sourceBundleSha256": "c1552b917e17cb0dc91e8d7b7e798c1e15340566ef9177a146b619c9a12901a8",
+        "cacheKey": "6c49150648636f23ff6c4c6d0799f013e914622ec808f1982bab45e9356a4881",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.642374,
+          "pan": [
+            0.012357,
+            0.005408,
+            -0.01625
+          ],
+          "alphaBounds": {
+            "x": 99,
+            "y": 74,
+            "width": 314,
+            "height": 364,
+            "fill": 0.710938,
+            "centerOffset": {
+              "x": 0,
+              "y": 0,
+              "length": 0
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-characters/kenney-mini-characters-character-female-f.webp",
+        "packRelativePath": "previews/kenney-mini-characters-character-female-f.webp"
+      },
+      "packId": "kenney-mini-characters",
+      "publicPath": "assets/kenney-mini-characters/kenney-mini-characters-character-female-f/kenney-mini-characters-character-female-f.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-characters-30e9bcae5f0a/kenney-mini-characters-character-female-f.glb"
+    },
+    {
+      "id": "kenney-mini-characters-character-male-a",
+      "name": "Character Male A",
+      "description": "Mini character model (Character Male A).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "character-male-a.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-characters/kenney-mini-characters-character-male-a/kenney-mini-characters-character-male-a.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-characters",
+      "primaryBytes": 246916,
+      "totalBytes": 255622,
+      "primarySha256": "77572792bfe2773b715b8cd8e18644b52b3e1f155fe10450254b50f9c364382a",
+      "bundleSha256": "db695fa45b1881be2c0c5b1fb192e90862fe7ee781f7a90f088295e9624646b5",
+      "bounds": {
+        "min": [
+          -0.383584,
+          0,
+          -0.172361
+        ],
+        "max": [
+          0.383584,
+          0.671325,
+          0.167639
+        ],
+        "size": [
+          0.767168,
+          0.671325,
+          0.34
+        ],
+        "center": [
+          0,
+          0.335663,
+          -0.002361
+        ],
+        "diagonal": 1.074627
+      },
+      "triangleCount": 723,
+      "drawCallCount": 2,
+      "renderVertexCount": 2169,
+      "uploadVertexCount": 1259,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 32,
+      "skinCount": 2,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "character",
+        "people",
+        "avatar",
+        "accessibility",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "person",
+        "npc"
+      ],
+      "aliases": [
+        "mini person",
+        "mini avatar"
+      ],
+      "searchTokens": [
+        "accessibility",
+        "aid",
+        "avatar",
+        "avatars",
+        "bright",
+        "cane",
+        "character",
+        "characters",
+        "colorful",
+        "crutch",
+        "defibrillator",
+        "female",
+        "glasses",
+        "hearing",
+        "kenney",
+        "male",
+        "mask",
+        "mini",
+        "npc",
+        "people",
+        "person",
+        "poly",
+        "props",
+        "stylized",
+        "toy",
+        "wheelchairs"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-characters/kenney-mini-characters-character-male-a.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 10110,
+        "sha256": "82dfc34c2be241b72436b6e0c12d40b07879670c13d4e25cccc04e1cd6240b5a",
+        "transparent": true,
+        "sourceBundleSha256": "db695fa45b1881be2c0c5b1fb192e90862fe7ee781f7a90f088295e9624646b5",
+        "cacheKey": "ea5c31436941a06c6ed77d2a0bddcd81bf0102de9ba0d4a65c449475e83dd892",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.642374,
+          "pan": [
+            0.003384,
+            0.004507,
+            -0.006629
+          ],
+          "alphaBounds": {
+            "x": 109,
+            "y": 73,
+            "width": 294,
+            "height": 367,
+            "fill": 0.716797,
+            "centerOffset": {
+              "x": 0,
+              "y": 0.5,
+              "length": 0.5
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-characters/kenney-mini-characters-character-male-a.webp",
+        "packRelativePath": "previews/kenney-mini-characters-character-male-a.webp"
+      },
+      "packId": "kenney-mini-characters",
+      "publicPath": "assets/kenney-mini-characters/kenney-mini-characters-character-male-a/kenney-mini-characters-character-male-a.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-characters-30e9bcae5f0a/kenney-mini-characters-character-male-a.glb"
+    },
+    {
+      "id": "kenney-mini-characters-character-male-b",
+      "name": "Character Male B",
+      "description": "Mini character model (Character Male B).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "character-male-b.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-characters/kenney-mini-characters-character-male-b/kenney-mini-characters-character-male-b.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-characters",
+      "primaryBytes": 247332,
+      "totalBytes": 256038,
+      "primarySha256": "791fc0c203924c175c0a3d5b60d030daf36797b039506689cf7cd01ef5253b3c",
+      "bundleSha256": "8207da820931aa71c5b7fa5c5e1cdf20ae05a9dd3721d8a6c86064397adbbb24",
+      "bounds": {
+        "min": [
+          -0.383584,
+          0,
+          -0.162861
+        ],
+        "max": [
+          0.383584,
+          0.661325,
+          0.226611
+        ],
+        "size": [
+          0.767168,
+          0.661325,
+          0.389472
+        ],
+        "center": [
+          0,
+          0.330663,
+          0.031875
+        ],
+        "diagonal": 1.085166
+      },
+      "triangleCount": 690,
+      "drawCallCount": 2,
+      "renderVertexCount": 2070,
+      "uploadVertexCount": 1266,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 32,
+      "skinCount": 2,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "character",
+        "people",
+        "avatar",
+        "accessibility",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "person",
+        "npc"
+      ],
+      "aliases": [
+        "mini person",
+        "mini avatar"
+      ],
+      "searchTokens": [
+        "accessibility",
+        "aid",
+        "avatar",
+        "avatars",
+        "bright",
+        "cane",
+        "character",
+        "characters",
+        "colorful",
+        "crutch",
+        "defibrillator",
+        "female",
+        "glasses",
+        "hearing",
+        "kenney",
+        "male",
+        "mask",
+        "mini",
+        "npc",
+        "people",
+        "person",
+        "poly",
+        "props",
+        "stylized",
+        "toy",
+        "wheelchairs"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-characters/kenney-mini-characters-character-male-b.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 10012,
+        "sha256": "273d77901d2c90624e4e52ec9d109b7bc9e8272ccfdf5a96be8c2163777840d1",
+        "transparent": true,
+        "sourceBundleSha256": "8207da820931aa71c5b7fa5c5e1cdf20ae05a9dd3721d8a6c86064397adbbb24",
+        "cacheKey": "bc08f0b9f2cde42365c8f3d8b571cc7cc72c6d55ac63522722a79f24cdf8b971",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.642374,
+          "pan": [
+            0.018277,
+            0.010816,
+            -0.026064
+          ],
+          "alphaBounds": {
+            "x": 110,
+            "y": 78,
+            "width": 291,
+            "height": 356,
+            "fill": 0.695313,
+            "centerOffset": {
+              "x": -0.5,
+              "y": 0,
+              "length": 0.5
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-characters/kenney-mini-characters-character-male-b.webp",
+        "packRelativePath": "previews/kenney-mini-characters-character-male-b.webp"
+      },
+      "packId": "kenney-mini-characters",
+      "publicPath": "assets/kenney-mini-characters/kenney-mini-characters-character-male-b/kenney-mini-characters-character-male-b.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-characters-30e9bcae5f0a/kenney-mini-characters-character-male-b.glb"
+    },
+    {
+      "id": "kenney-mini-characters-character-male-c",
+      "name": "Character Male C",
+      "description": "Mini character model (Character Male C).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "character-male-c.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-characters/kenney-mini-characters-character-male-c/kenney-mini-characters-character-male-c.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-characters",
+      "primaryBytes": 263104,
+      "totalBytes": 271810,
+      "primarySha256": "672a6506f7475bbd655da1d7ff712c1729a430f134c62385a4e5d3c1378acb40",
+      "bundleSha256": "f806fcee0731da0049d3de61419799c551d054a642a01fcc91dac7f93cca3cb8",
+      "bounds": {
+        "min": [
+          -0.383584,
+          0,
+          -0.188019
+        ],
+        "max": [
+          0.383584,
+          0.792791,
+          0.272639
+        ],
+        "size": [
+          0.767168,
+          0.792791,
+          0.460657
+        ],
+        "center": [
+          0,
+          0.396396,
+          0.04231
+        ],
+        "diagonal": 1.195521
+      },
+      "triangleCount": 793,
+      "drawCallCount": 2,
+      "renderVertexCount": 2379,
+      "uploadVertexCount": 1455,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 32,
+      "skinCount": 2,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "character",
+        "people",
+        "avatar",
+        "accessibility",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "person",
+        "npc"
+      ],
+      "aliases": [
+        "mini person",
+        "mini avatar"
+      ],
+      "searchTokens": [
+        "accessibility",
+        "aid",
+        "avatar",
+        "avatars",
+        "bright",
+        "cane",
+        "character",
+        "characters",
+        "colorful",
+        "crutch",
+        "defibrillator",
+        "female",
+        "glasses",
+        "hearing",
+        "kenney",
+        "male",
+        "mask",
+        "mini",
+        "npc",
+        "people",
+        "person",
+        "poly",
+        "props",
+        "stylized",
+        "toy",
+        "wheelchairs"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-characters/kenney-mini-characters-character-male-c.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 10558,
+        "sha256": "ec23c5b2f5f1a912e4662ef3cf39f0bdd81ac4db751ad260e102d598fd701915",
+        "transparent": true,
+        "sourceBundleSha256": "f806fcee0731da0049d3de61419799c551d054a642a01fcc91dac7f93cca3cb8",
+        "cacheKey": "e5c27bc8de06cc9c87f6ae3d3e74cbdddcdad355027e62e036981d3d6db6c953",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.77255,
+          "pan": [
+            0.009866,
+            0.009273,
+            -0.016543
+          ],
+          "alphaBounds": {
+            "x": 117,
+            "y": 72,
+            "width": 279,
+            "height": 368,
+            "fill": 0.71875,
+            "centerOffset": {
+              "x": 0.5,
+              "y": 0,
+              "length": 0.5
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-characters/kenney-mini-characters-character-male-c.webp",
+        "packRelativePath": "previews/kenney-mini-characters-character-male-c.webp"
+      },
+      "packId": "kenney-mini-characters",
+      "publicPath": "assets/kenney-mini-characters/kenney-mini-characters-character-male-c/kenney-mini-characters-character-male-c.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-characters-30e9bcae5f0a/kenney-mini-characters-character-male-c.glb"
+    },
+    {
+      "id": "kenney-mini-characters-character-male-d",
+      "name": "Character Male D",
+      "description": "Mini character model (Character Male D).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "character-male-d.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-characters/kenney-mini-characters-character-male-d/kenney-mini-characters-character-male-d.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-characters",
+      "primaryBytes": 245184,
+      "totalBytes": 253890,
+      "primarySha256": "dd12b2e75ffb1cdb45aaec3916c3d6e732929ccb4a8b89b946f69baaabfa64da",
+      "bundleSha256": "6dde84e332fca199817e90e5e54003eb558ca12fbff82e2c2da039e25c28f3e6",
+      "bounds": {
+        "min": [
+          -0.383584,
+          0,
+          -0.172361
+        ],
+        "max": [
+          0.383584,
+          0.721762,
+          0.167639
+        ],
+        "size": [
+          0.767168,
+          0.721761,
+          0.34
+        ],
+        "center": [
+          0,
+          0.360881,
+          -0.002361
+        ],
+        "diagonal": 1.106836
+      },
+      "triangleCount": 711,
+      "drawCallCount": 2,
+      "renderVertexCount": 2133,
+      "uploadVertexCount": 1239,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 32,
+      "skinCount": 2,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "character",
+        "people",
+        "avatar",
+        "accessibility",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "person",
+        "npc"
+      ],
+      "aliases": [
+        "mini person",
+        "mini avatar"
+      ],
+      "searchTokens": [
+        "accessibility",
+        "aid",
+        "avatar",
+        "avatars",
+        "bright",
+        "cane",
+        "character",
+        "characters",
+        "colorful",
+        "crutch",
+        "defibrillator",
+        "female",
+        "glasses",
+        "hearing",
+        "kenney",
+        "male",
+        "mask",
+        "mini",
+        "npc",
+        "people",
+        "person",
+        "poly",
+        "props",
+        "stylized",
+        "toy",
+        "wheelchairs"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-characters/kenney-mini-characters-character-male-d.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 8960,
+        "sha256": "3e1d9fc748a11371b55b59703439cb9c248419620aa09d555d2b54671b3f4b4b",
+        "transparent": true,
+        "sourceBundleSha256": "6dde84e332fca199817e90e5e54003eb558ca12fbff82e2c2da039e25c28f3e6",
+        "cacheKey": "db7bf558b9369a00ee14cfb4dd46c6cdc1b5860a04c8bec8a08c0efd6b679c22",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.642374,
+          "pan": [
+            0.010198,
+            -0.014421,
+            0.000185
+          ],
+          "alphaBounds": {
+            "x": 110,
+            "y": 75,
+            "width": 292,
+            "height": 363,
+            "fill": 0.708984,
+            "centerOffset": {
+              "x": 0,
+              "y": 0.5,
+              "length": 0.5
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-characters/kenney-mini-characters-character-male-d.webp",
+        "packRelativePath": "previews/kenney-mini-characters-character-male-d.webp"
+      },
+      "packId": "kenney-mini-characters",
+      "publicPath": "assets/kenney-mini-characters/kenney-mini-characters-character-male-d/kenney-mini-characters-character-male-d.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-characters-30e9bcae5f0a/kenney-mini-characters-character-male-d.glb"
+    },
+    {
+      "id": "kenney-mini-characters-character-male-e",
+      "name": "Character Male E",
+      "description": "Mini character model (Character Male E).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "character-male-e.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-characters/kenney-mini-characters-character-male-e/kenney-mini-characters-character-male-e.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-characters",
+      "primaryBytes": 242704,
+      "totalBytes": 251410,
+      "primarySha256": "cd76681090ce29861b055b0f8b2bdcf84bfccc4ca816f428df42a9bb76d6e1b6",
+      "bundleSha256": "7e37ffdfe09873a281cb56d21ede577cd83f5c6142bbe813a28a5ce255ba2dfd",
+      "bounds": {
+        "min": [
+          -0.383584,
+          0,
+          -0.172361
+        ],
+        "max": [
+          0.383584,
+          0.675967,
+          0.169605
+        ],
+        "size": [
+          0.767168,
+          0.675966,
+          0.341966
+        ],
+        "center": [
+          0,
+          0.337983,
+          -0.001378
+        ],
+        "diagonal": 1.078155
+      },
+      "triangleCount": 710,
+      "drawCallCount": 2,
+      "renderVertexCount": 2130,
+      "uploadVertexCount": 1208,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 32,
+      "skinCount": 2,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "character",
+        "people",
+        "avatar",
+        "accessibility",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "person",
+        "npc"
+      ],
+      "aliases": [
+        "mini person",
+        "mini avatar"
+      ],
+      "searchTokens": [
+        "accessibility",
+        "aid",
+        "avatar",
+        "avatars",
+        "bright",
+        "cane",
+        "character",
+        "characters",
+        "colorful",
+        "crutch",
+        "defibrillator",
+        "female",
+        "glasses",
+        "hearing",
+        "kenney",
+        "male",
+        "mask",
+        "mini",
+        "npc",
+        "people",
+        "person",
+        "poly",
+        "props",
+        "stylized",
+        "toy",
+        "wheelchairs"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-characters/kenney-mini-characters-character-male-e.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 9838,
+        "sha256": "8a11b574213fdcd08f04e6a23c95d5cc42489c67e139d1e924b6dfd03e0f5549",
+        "transparent": true,
+        "sourceBundleSha256": "7e37ffdfe09873a281cb56d21ede577cd83f5c6142bbe813a28a5ce255ba2dfd",
+        "cacheKey": "021c0403fd2ddf5e7fcdf0d19bb055108b9445708ad23914b4f54e964ba5e133",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.642374,
+          "pan": [
+            0.003708,
+            0.003605,
+            -0.006304
+          ],
+          "alphaBounds": {
+            "x": 109,
+            "y": 74,
+            "width": 294,
+            "height": 364,
+            "fill": 0.710938,
+            "centerOffset": {
+              "x": 0,
+              "y": 0,
+              "length": 0
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-characters/kenney-mini-characters-character-male-e.webp",
+        "packRelativePath": "previews/kenney-mini-characters-character-male-e.webp"
+      },
+      "packId": "kenney-mini-characters",
+      "publicPath": "assets/kenney-mini-characters/kenney-mini-characters-character-male-e/kenney-mini-characters-character-male-e.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-characters-30e9bcae5f0a/kenney-mini-characters-character-male-e.glb"
+    },
+    {
+      "id": "kenney-mini-characters-character-male-f",
+      "name": "Character Male F",
+      "description": "Mini character model (Character Male F).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "character-male-f.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-characters/kenney-mini-characters-character-male-f/kenney-mini-characters-character-male-f.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-characters",
+      "primaryBytes": 249388,
+      "totalBytes": 258094,
+      "primarySha256": "ed151fc47c5cd6be9693c524e92f045170c965819f4f81b28ed66dcc3c1085bf",
+      "bundleSha256": "0a3527796f693738ee68f04c0ee489d3c4077f9b4594e1d878b3d32d63be78dc",
+      "bounds": {
+        "min": [
+          -0.383584,
+          0,
+          -0.172361
+        ],
+        "max": [
+          0.383584,
+          0.671325,
+          0.167639
+        ],
+        "size": [
+          0.767168,
+          0.671325,
+          0.34
+        ],
+        "center": [
+          0,
+          0.335663,
+          -0.002361
+        ],
+        "diagonal": 1.074627
+      },
+      "triangleCount": 701,
+      "drawCallCount": 2,
+      "renderVertexCount": 2103,
+      "uploadVertexCount": 1291,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 32,
+      "skinCount": 2,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "character",
+        "people",
+        "avatar",
+        "accessibility",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "person",
+        "npc"
+      ],
+      "aliases": [
+        "mini person",
+        "mini avatar"
+      ],
+      "searchTokens": [
+        "accessibility",
+        "aid",
+        "avatar",
+        "avatars",
+        "bright",
+        "cane",
+        "character",
+        "characters",
+        "colorful",
+        "crutch",
+        "defibrillator",
+        "female",
+        "glasses",
+        "hearing",
+        "kenney",
+        "male",
+        "mask",
+        "mini",
+        "npc",
+        "people",
+        "person",
+        "poly",
+        "props",
+        "stylized",
+        "toy",
+        "wheelchairs"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-characters/kenney-mini-characters-character-male-f.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 9786,
+        "sha256": "e6a1f2653649223707c2b679cdaaf2d6aa01597a037084f764066883aab2a767",
+        "transparent": true,
+        "sourceBundleSha256": "0a3527796f693738ee68f04c0ee489d3c4077f9b4594e1d878b3d32d63be78dc",
+        "cacheKey": "3d60b36e23153a48be6d0c680ec9077362344d55751bb3f41f45e0c103337e0d",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.642374,
+          "pan": [
+            0.003059,
+            0.005408,
+            -0.006953
+          ],
+          "alphaBounds": {
+            "x": 109,
+            "y": 73,
+            "width": 294,
+            "height": 366,
+            "fill": 0.714844,
+            "centerOffset": {
+              "x": 0,
+              "y": 0,
+              "length": 0
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-characters/kenney-mini-characters-character-male-f.webp",
+        "packRelativePath": "previews/kenney-mini-characters-character-male-f.webp"
+      },
+      "packId": "kenney-mini-characters",
+      "publicPath": "assets/kenney-mini-characters/kenney-mini-characters-character-male-f/kenney-mini-characters-character-male-f.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-characters-30e9bcae5f0a/kenney-mini-characters-character-male-f.glb"
+    },
+    {
+      "id": "kenney-mini-characters-wheelchair",
+      "name": "Wheelchair",
+      "description": "Mini character wheelchair accessibility model (Wheelchair).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "wheelchair.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-characters/kenney-mini-characters-wheelchair/kenney-mini-characters-wheelchair.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-characters",
+      "primaryBytes": 56680,
+      "totalBytes": 65386,
+      "primarySha256": "cb7b6cbebc7bbe238ae926b26305661eb66e17659fafa8fa0c098f5e7955fabe",
+      "bundleSha256": "11e91c2be44b886febe8043c42063e4bfac1c45c153563bf790dcf425df075d3",
+      "bounds": {
+        "min": [
+          -0.25,
+          0,
+          -0.364639
+        ],
+        "max": [
+          0.25,
+          0.495,
+          0.217776
+        ],
+        "size": [
+          0.5,
+          0.495,
+          0.582415
+        ],
+        "center": [
+          0,
+          0.2475,
+          -0.073431
+        ],
+        "diagonal": 0.913363
+      },
+      "triangleCount": 656,
+      "drawCallCount": 1,
+      "renderVertexCount": 1968,
+      "uploadVertexCount": 1058,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "character",
+        "people",
+        "avatar",
+        "accessibility",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "wheelchair",
+        "mobility",
+        "aid",
+        "prop"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "accessibility",
+        "aid",
+        "avatar",
+        "avatars",
+        "bright",
+        "cane",
+        "character",
+        "characters",
+        "colorful",
+        "crutch",
+        "defibrillator",
+        "female",
+        "glasses",
+        "hearing",
+        "kenney",
+        "male",
+        "mask",
+        "mini",
+        "mobility",
+        "people",
+        "poly",
+        "prop",
+        "props",
+        "stylized",
+        "toy",
+        "wheelchair",
+        "wheelchairs"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-characters/kenney-mini-characters-wheelchair.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 9188,
+        "sha256": "aeb8e756db33ecd0d01dda6cb854c35a91a1e6dcb129e3a9fb57502b2d5d52d2",
+        "transparent": true,
+        "sourceBundleSha256": "11e91c2be44b886febe8043c42063e4bfac1c45c153563bf790dcf425df075d3",
+        "cacheKey": "0fcbb482a59d4b5a1dca7937a67bc793f8805dd107223fa5b18d9eb9de5d79af",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.589679,
+          "pan": [
+            0.019025,
+            -0.042441,
+            0.011532
+          ],
+          "alphaBounds": {
+            "x": 72,
+            "y": 66,
+            "width": 368,
+            "height": 379,
+            "fill": 0.740234,
+            "centerOffset": {
+              "x": 0,
+              "y": -0.5,
+              "length": 0.5
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-characters/kenney-mini-characters-wheelchair.webp",
+        "packRelativePath": "previews/kenney-mini-characters-wheelchair.webp"
+      },
+      "packId": "kenney-mini-characters",
+      "publicPath": "assets/kenney-mini-characters/kenney-mini-characters-wheelchair/kenney-mini-characters-wheelchair.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-characters-30e9bcae5f0a/kenney-mini-characters-wheelchair.glb"
+    },
+    {
+      "id": "kenney-mini-characters-wheelchair-deluxe",
+      "name": "Wheelchair Deluxe",
+      "description": "Mini character wheelchair accessibility model (Wheelchair Deluxe).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "wheelchair-deluxe.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-characters/kenney-mini-characters-wheelchair-deluxe/kenney-mini-characters-wheelchair-deluxe.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-characters",
+      "primaryBytes": 60588,
+      "totalBytes": 69294,
+      "primarySha256": "b72046e5ce52770fc7d7cf36623d7599e7247d6071659a39df915a9fc62e942f",
+      "bundleSha256": "58c3d3cfb4b4aa1e1fa08492b4b8514bdd5290fb3255d3909900fabb677124ab",
+      "bounds": {
+        "min": [
+          -0.289105,
+          0,
+          -0.374639
+        ],
+        "max": [
+          0.29,
+          0.495,
+          0.217776
+        ],
+        "size": [
+          0.579105,
+          0.495,
+          0.592415
+        ],
+        "center": [
+          0.000447,
+          0.2475,
+          -0.078431
+        ],
+        "diagonal": 0.965061
+      },
+      "triangleCount": 696,
+      "drawCallCount": 1,
+      "renderVertexCount": 2088,
+      "uploadVertexCount": 1134,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "character",
+        "people",
+        "avatar",
+        "accessibility",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "wheelchair",
+        "mobility",
+        "aid",
+        "prop"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "accessibility",
+        "aid",
+        "avatar",
+        "avatars",
+        "bright",
+        "cane",
+        "character",
+        "characters",
+        "colorful",
+        "crutch",
+        "defibrillator",
+        "deluxe",
+        "female",
+        "glasses",
+        "hearing",
+        "kenney",
+        "male",
+        "mask",
+        "mini",
+        "mobility",
+        "people",
+        "poly",
+        "prop",
+        "props",
+        "stylized",
+        "toy",
+        "wheelchair",
+        "wheelchairs"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-characters/kenney-mini-characters-wheelchair-deluxe.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 10382,
+        "sha256": "d8f06a25d76191489595d31c283a316a44a5f5b78919c3287dd55a20e878012a",
+        "transparent": true,
+        "sourceBundleSha256": "58c3d3cfb4b4aa1e1fa08492b4b8514bdd5290fb3255d3909900fabb677124ab",
+        "cacheKey": "3beffbcc6ea1bf26b62617e8511df2721b44a5855a855daf5a23a3895c55dfac",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.603212,
+          "pan": [
+            0.018807,
+            -0.042719,
+            0.01195
+          ],
+          "alphaBounds": {
+            "x": 71,
+            "y": 67,
+            "width": 369,
+            "height": 377,
+            "fill": 0.736328,
+            "centerOffset": {
+              "x": -0.5,
+              "y": -0.5,
+              "length": 0.707107
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-characters/kenney-mini-characters-wheelchair-deluxe.webp",
+        "packRelativePath": "previews/kenney-mini-characters-wheelchair-deluxe.webp"
+      },
+      "packId": "kenney-mini-characters",
+      "publicPath": "assets/kenney-mini-characters/kenney-mini-characters-wheelchair-deluxe/kenney-mini-characters-wheelchair-deluxe.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-characters-30e9bcae5f0a/kenney-mini-characters-wheelchair-deluxe.glb"
+    },
+    {
+      "id": "kenney-mini-characters-wheelchair-power",
+      "name": "Wheelchair Power",
+      "description": "Mini character wheelchair accessibility model (Wheelchair Power).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "wheelchair-power.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-characters/kenney-mini-characters-wheelchair-power/kenney-mini-characters-wheelchair-power.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-characters",
+      "primaryBytes": 76664,
+      "totalBytes": 85370,
+      "primarySha256": "b930df2def526f066295e24a441d4406df4ef9183997e5bb6a6740608346929c",
+      "bundleSha256": "8b9ab86a794d27f82572c9d5035c5e601cfc2b0c9a34e3f35063cc53fcbfef42",
+      "bounds": {
+        "min": [
+          -0.24,
+          0,
+          -0.252224
+        ],
+        "max": [
+          0.24,
+          0.571692,
+          0.258717
+        ],
+        "size": [
+          0.48,
+          0.571692,
+          0.510941
+        ],
+        "center": [
+          0,
+          0.285846,
+          0.003247
+        ],
+        "diagonal": 0.904595
+      },
+      "triangleCount": 880,
+      "drawCallCount": 1,
+      "renderVertexCount": 2640,
+      "uploadVertexCount": 1446,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "character",
+        "people",
+        "avatar",
+        "accessibility",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "wheelchair",
+        "mobility",
+        "aid",
+        "prop"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "accessibility",
+        "aid",
+        "avatar",
+        "avatars",
+        "bright",
+        "cane",
+        "character",
+        "characters",
+        "colorful",
+        "crutch",
+        "defibrillator",
+        "female",
+        "glasses",
+        "hearing",
+        "kenney",
+        "male",
+        "mask",
+        "mini",
+        "mobility",
+        "people",
+        "poly",
+        "power",
+        "prop",
+        "props",
+        "stylized",
+        "toy",
+        "wheelchair",
+        "wheelchairs"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-characters/kenney-mini-characters-wheelchair-power.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 8176,
+        "sha256": "3ac2abb0b1ed5f640b5daae25d0edc326c5c61ed9e4b7e7600271bf71c52ec63",
+        "transparent": true,
+        "sourceBundleSha256": "8b9ab86a794d27f82572c9d5035c5e601cfc2b0c9a34e3f35063cc53fcbfef42",
+        "cacheKey": "3c7be0eeb903887c9366650d71c1ff3b164a2d26316cc3d7d9487c6eb166da18",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.566584,
+          "pan": [
+            0.02132,
+            -0.030681,
+            0.00077
+          ],
+          "alphaBounds": {
+            "x": 106,
+            "y": 68,
+            "width": 300,
+            "height": 376,
+            "fill": 0.734375,
+            "centerOffset": {
+              "x": 0,
+              "y": 0,
+              "length": 0
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-characters/kenney-mini-characters-wheelchair-power.webp",
+        "packRelativePath": "previews/kenney-mini-characters-wheelchair-power.webp"
+      },
+      "packId": "kenney-mini-characters",
+      "publicPath": "assets/kenney-mini-characters/kenney-mini-characters-wheelchair-power/kenney-mini-characters-wheelchair-power.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-characters-30e9bcae5f0a/kenney-mini-characters-wheelchair-power.glb"
+    },
+    {
+      "id": "kenney-mini-characters-wheelchair-power-deluxe",
+      "name": "Wheelchair Power Deluxe",
+      "description": "Mini character wheelchair accessibility model (Wheelchair Power Deluxe).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "wheelchair-power-deluxe.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-characters/kenney-mini-characters-wheelchair-power-deluxe/kenney-mini-characters-wheelchair-power-deluxe.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-characters",
+      "primaryBytes": 90512,
+      "totalBytes": 99218,
+      "primarySha256": "de6016ef540ce2849420e73264303cd9eaea37d335037990037fd33296c9caf4",
+      "bundleSha256": "e6ccbca4bcb421a3973bc5be05a4cca61c5d5664db9daeba923f3b37040440f4",
+      "bounds": {
+        "min": [
+          -0.24,
+          0,
+          -0.252224
+        ],
+        "max": [
+          0.24,
+          0.625274,
+          0.258717
+        ],
+        "size": [
+          0.48,
+          0.625274,
+          0.510941
+        ],
+        "center": [
+          0,
+          0.312637,
+          0.003247
+        ],
+        "diagonal": 0.939376
+      },
+      "triangleCount": 1040,
+      "drawCallCount": 1,
+      "renderVertexCount": 3120,
+      "uploadVertexCount": 1714,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "character",
+        "people",
+        "avatar",
+        "accessibility",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "wheelchair",
+        "mobility",
+        "aid",
+        "prop"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "accessibility",
+        "aid",
+        "avatar",
+        "avatars",
+        "bright",
+        "cane",
+        "character",
+        "characters",
+        "colorful",
+        "crutch",
+        "defibrillator",
+        "deluxe",
+        "female",
+        "glasses",
+        "hearing",
+        "kenney",
+        "male",
+        "mask",
+        "mini",
+        "mobility",
+        "people",
+        "poly",
+        "power",
+        "prop",
+        "props",
+        "stylized",
+        "toy",
+        "wheelchair",
+        "wheelchairs"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-characters/kenney-mini-characters-wheelchair-power-deluxe.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 8824,
+        "sha256": "1bddb61b8aebece1c770db1519fd67e78c2b3895a204c80fea0c18d21788dc59",
+        "transparent": true,
+        "sourceBundleSha256": "e6ccbca4bcb421a3973bc5be05a4cca61c5d5664db9daeba923f3b37040440f4",
+        "cacheKey": "12c5e8b51cd8f47013a96b49eab096bf715377e98c414ec8e6251a9fcd9c42e9",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.695767,
+          "pan": [
+            0.021227,
+            -0.033057,
+            0.002574
+          ],
+          "alphaBounds": {
+            "x": 118,
+            "y": 72,
+            "width": 277,
+            "height": 367,
+            "fill": 0.716797,
+            "centerOffset": {
+              "x": 0.5,
+              "y": -0.5,
+              "length": 0.707107
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-characters/kenney-mini-characters-wheelchair-power-deluxe.webp",
+        "packRelativePath": "previews/kenney-mini-characters-wheelchair-power-deluxe.webp"
+      },
+      "packId": "kenney-mini-characters",
+      "publicPath": "assets/kenney-mini-characters/kenney-mini-characters-wheelchair-power-deluxe/kenney-mini-characters-wheelchair-power-deluxe.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-characters-30e9bcae5f0a/kenney-mini-characters-wheelchair-power-deluxe.glb"
+    }
+  ]
+}

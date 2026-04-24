@@ -9571,7 +9571,8 @@
       "button",
       "switch",
       "mechanism",
-      "puzzle"
+      "puzzle",
+      "animated"
     ],
     "aliases": [],
     "warningCount": 0,
@@ -9695,7 +9696,8 @@
       "button",
       "switch",
       "mechanism",
-      "puzzle"
+      "puzzle",
+      "animated"
     ],
     "aliases": [],
     "warningCount": 0,
@@ -9906,7 +9908,10 @@
       "oopi",
       "character",
       "player",
-      "animated"
+      "animated",
+      "rigged",
+      "skinned",
+      "skeletal-animation"
     ],
     "aliases": [],
     "warningCount": 0,
@@ -10117,7 +10122,10 @@
       "oopi",
       "character",
       "player",
-      "animated"
+      "animated",
+      "rigged",
+      "skinned",
+      "skeletal-animation"
     ],
     "aliases": [],
     "warningCount": 0,
@@ -10328,7 +10336,10 @@
       "oopi",
       "character",
       "player",
-      "animated"
+      "animated",
+      "rigged",
+      "skinned",
+      "skeletal-animation"
     ],
     "aliases": [],
     "warningCount": 0,
@@ -10539,7 +10550,10 @@
       "oopi",
       "character",
       "player",
-      "animated"
+      "animated",
+      "rigged",
+      "skinned",
+      "skeletal-animation"
     ],
     "aliases": [],
     "warningCount": 0,
@@ -10750,7 +10764,10 @@
       "oopi",
       "character",
       "player",
-      "animated"
+      "animated",
+      "rigged",
+      "skinned",
+      "skeletal-animation"
     ],
     "aliases": [],
     "warningCount": 0,
@@ -10870,7 +10887,8 @@
       "bright",
       "colorful",
       "toy",
-      "oopi"
+      "oopi",
+      "animated"
     ],
     "aliases": [],
     "warningCount": 0,
@@ -14650,7 +14668,8 @@
       "lever",
       "switch",
       "mechanism",
-      "puzzle"
+      "puzzle",
+      "animated"
     ],
     "aliases": [],
     "warningCount": 0,
@@ -16636,7 +16655,8 @@
       "oopi",
       "hazard",
       "trap",
-      "spikes"
+      "spikes",
+      "animated"
     ],
     "aliases": [],
     "warningCount": 0,
@@ -16759,7 +16779,8 @@
       "oopi",
       "hazard",
       "trap",
-      "spikes"
+      "spikes",
+      "animated"
     ],
     "aliases": [],
     "warningCount": 0,

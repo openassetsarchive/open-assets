@@ -1,8 +1,17 @@
 {
   "version": 1,
   "token": "chair",
-  "count": 16,
+  "count": 28,
   "assetIds": [
+    "kenney-furniture-kit-chair",
+    "kenney-furniture-kit-chaircushion",
+    "kenney-furniture-kit-chairdesk",
+    "kenney-furniture-kit-chairmoderncushion",
+    "kenney-furniture-kit-chairmodernframecushion",
+    "kenney-furniture-kit-chairrounded",
+    "kenney-furniture-kit-loungechair",
+    "kenney-furniture-kit-loungechairrelax",
+    "kenney-furniture-kit-loungedesignchair",
     "kenney-isometric-miniature-dungeon-angle-chair-e",
     "kenney-isometric-miniature-dungeon-angle-chair-n",
     "kenney-isometric-miniature-dungeon-angle-chair-s",
@@ -18,6 +27,9 @@
     "kenney-isometric-miniature-library-isometric-librarychair-e",
     "kenney-isometric-miniature-library-isometric-librarychair-n",
     "kenney-isometric-miniature-library-isometric-librarychair-s",
-    "kenney-isometric-miniature-library-isometric-librarychair-w"
+    "kenney-isometric-miniature-library-isometric-librarychair-w",
+    "kenney-space-kit-desk-chair",
+    "kenney-space-kit-desk-chairarms",
+    "kenney-space-kit-desk-chairstool"
   ]
 }

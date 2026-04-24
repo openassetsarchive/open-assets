@@ -5,7 +5,7 @@
   },
   {
     "tag": "3d",
-    "count": 752
+    "count": 2482
   },
   {
     "tag": "abstract",
@@ -16,12 +16,28 @@
     "count": 32
   },
   {
+    "tag": "accessibility",
+    "count": 26
+  },
+  {
+    "tag": "accessory",
+    "count": 3
+  },
+  {
     "tag": "adventurer",
     "count": 34
   },
   {
+    "tag": "aid",
+    "count": 12
+  },
+  {
+    "tag": "air-hockey",
+    "count": 1
+  },
+  {
     "tag": "alien",
-    "count": 77
+    "count": 78
   },
   {
     "tag": "alien-sprite",
@@ -40,6 +56,10 @@
     "count": 6
   },
   {
+    "tag": "amusement-park",
+    "count": 183
+  },
+  {
     "tag": "angle",
     "count": 660
   },
@@ -52,16 +72,28 @@
     "count": 267
   },
   {
+    "tag": "apple",
+    "count": 2
+  },
+  {
+    "tag": "appliance",
+    "count": 25
+  },
+  {
     "tag": "arcade",
-    "count": 1471
+    "count": 1491
   },
   {
     "tag": "architecture",
     "count": 111
   },
   {
+    "tag": "arena",
+    "count": 22
+  },
+  {
     "tag": "asphalt",
-    "count": 90
+    "count": 98
   },
   {
     "tag": "asphalt-road",
@@ -73,7 +105,7 @@
   },
   {
     "tag": "astronaut",
-    "count": 22
+    "count": 24
   },
   {
     "tag": "atlas",
@@ -85,7 +117,11 @@
   },
   {
     "tag": "avatar",
-    "count": 18
+    "count": 44
+  },
+  {
+    "tag": "avocado",
+    "count": 2
   },
   {
     "tag": "back-tile",
@@ -96,8 +132,16 @@
     "count": 70
   },
   {
+    "tag": "bakery",
+    "count": 4
+  },
+  {
     "tag": "ball",
     "count": 43
+  },
+  {
+    "tag": "banana",
+    "count": 1
   },
   {
     "tag": "banked",
@@ -105,23 +149,59 @@
   },
   {
     "tag": "banner",
-    "count": 2
+    "count": 3
   },
   {
     "tag": "barrel",
-    "count": 7
+    "count": 11
   },
   {
     "tag": "barrier",
-    "count": 43
+    "count": 65
   },
   {
     "tag": "base-pack",
     "count": 342
   },
   {
+    "tag": "basket",
+    "count": 2
+  },
+  {
+    "tag": "basketball",
+    "count": 1
+  },
+  {
+    "tag": "bathroom",
+    "count": 5
+  },
+  {
+    "tag": "battle",
+    "count": 22
+  },
+  {
+    "tag": "battlement",
+    "count": 4
+  },
+  {
     "tag": "beach",
     "count": 13
+  },
+  {
+    "tag": "bed",
+    "count": 3
+  },
+  {
+    "tag": "bedroll",
+    "count": 3
+  },
+  {
+    "tag": "bedroom",
+    "count": 3
+  },
+  {
+    "tag": "bench",
+    "count": 6
   },
   {
     "tag": "black",
@@ -148,12 +228,32 @@
     "count": 121
   },
   {
-    "tag": "boat",
+    "tag": "board-game",
     "count": 72
+  },
+  {
+    "tag": "boat",
+    "count": 118
   },
   {
     "tag": "bomb",
     "count": 1
+  },
+  {
+    "tag": "book",
+    "count": 6
+  },
+  {
+    "tag": "bookcase",
+    "count": 6
+  },
+  {
+    "tag": "border",
+    "count": 2
+  },
+  {
+    "tag": "bottle",
+    "count": 3
   },
   {
     "tag": "bounce",
@@ -164,7 +264,15 @@
     "count": 9
   },
   {
+    "tag": "bowl",
+    "count": 7
+  },
+  {
     "tag": "box",
+    "count": 1
+  },
+  {
+    "tag": "bread",
     "count": 1
   },
   {
@@ -173,11 +281,11 @@
   },
   {
     "tag": "bridge",
-    "count": 14
+    "count": 15
   },
   {
     "tag": "bright",
-    "count": 2183
+    "count": 3684
   },
   {
     "tag": "brown",
@@ -185,7 +293,7 @@
   },
   {
     "tag": "building",
-    "count": 389
+    "count": 658
   },
   {
     "tag": "buildings-expansion",
@@ -196,6 +304,14 @@
     "count": 13
   },
   {
+    "tag": "buoy",
+    "count": 2
+  },
+  {
+    "tag": "burger",
+    "count": 4
+  },
+  {
     "tag": "bush",
     "count": 8
   },
@@ -204,8 +320,32 @@
     "count": 22
   },
   {
+    "tag": "cabin",
+    "count": 99
+  },
+  {
+    "tag": "cabinet",
+    "count": 26
+  },
+  {
     "tag": "cactus",
     "count": 3
+  },
+  {
+    "tag": "cake",
+    "count": 3
+  },
+  {
+    "tag": "camp",
+    "count": 80
+  },
+  {
+    "tag": "campfire",
+    "count": 3
+  },
+  {
+    "tag": "can",
+    "count": 5
   },
   {
     "tag": "candle",
@@ -213,11 +353,19 @@
   },
   {
     "tag": "candy",
-    "count": 96
+    "count": 98
+  },
+  {
+    "tag": "candy-cane",
+    "count": 2
   },
   {
     "tag": "candy-expansion",
     "count": 96
+  },
+  {
+    "tag": "cane",
+    "count": 3
   },
   {
     "tag": "cannon",
@@ -225,11 +373,15 @@
   },
   {
     "tag": "car",
-    "count": 651
+    "count": 659
   },
   {
     "tag": "cargo",
-    "count": 4
+    "count": 24
+  },
+  {
+    "tag": "carriage",
+    "count": 12
   },
   {
     "tag": "cars",
@@ -237,11 +389,15 @@
   },
   {
     "tag": "cart",
-    "count": 2
+    "count": 4
+  },
+  {
+    "tag": "cash-register",
+    "count": 1
   },
   {
     "tag": "castle",
-    "count": 4
+    "count": 109
   },
   {
     "tag": "cat",
@@ -252,8 +408,16 @@
     "count": 91
   },
   {
+    "tag": "chair",
+    "count": 6
+  },
+  {
     "tag": "character",
-    "count": 818
+    "count": 853
+  },
+  {
+    "tag": "checkout",
+    "count": 1
   },
   {
     "tag": "chest",
@@ -264,16 +428,32 @@
     "count": 4
   },
   {
+    "tag": "chocolate",
+    "count": 2
+  },
+  {
     "tag": "city",
-    "count": 279
+    "count": 418
   },
   {
     "tag": "civilian",
     "count": 498
   },
   {
+    "tag": "cliff",
+    "count": 2
+  },
+  {
     "tag": "climb",
-    "count": 3
+    "count": 4
+  },
+  {
+    "tag": "coaster",
+    "count": 183
+  },
+  {
+    "tag": "coat-rack",
+    "count": 2
   },
   {
     "tag": "coffin",
@@ -281,15 +461,27 @@
   },
   {
     "tag": "coin",
-    "count": 44
+    "count": 47
   },
   {
     "tag": "collectible",
-    "count": 7
+    "count": 13
+  },
+  {
+    "tag": "colony",
+    "count": 153
   },
   {
     "tag": "colorful",
-    "count": 752
+    "count": 2253
+  },
+  {
+    "tag": "column",
+    "count": 7
+  },
+  {
+    "tag": "combat",
+    "count": 22
   },
   {
     "tag": "complete",
@@ -300,12 +492,20 @@
     "count": 8
   },
   {
+    "tag": "computer",
+    "count": 9
+  },
+  {
     "tag": "conifer",
     "count": 4
   },
   {
+    "tag": "connector",
+    "count": 1
+  },
+  {
     "tag": "construction",
-    "count": 3
+    "count": 6
   },
   {
     "tag": "consumable",
@@ -313,15 +513,31 @@
   },
   {
     "tag": "container",
-    "count": 8
+    "count": 23
+  },
+  {
+    "tag": "cooking",
+    "count": 200
   },
   {
     "tag": "corner",
     "count": 8
   },
   {
+    "tag": "corridor",
+    "count": 14
+  },
+  {
+    "tag": "crafting",
+    "count": 80
+  },
+  {
     "tag": "crate",
-    "count": 13
+    "count": 17
+  },
+  {
+    "tag": "crutch",
+    "count": 1
   },
   {
     "tag": "crypt",
@@ -332,12 +548,28 @@
     "count": 131
   },
   {
+    "tag": "cup",
+    "count": 5
+  },
+  {
     "tag": "cursor",
     "count": 8
   },
   {
+    "tag": "cutting-board",
+    "count": 3
+  },
+  {
     "tag": "damage",
     "count": 9
+  },
+  {
+    "tag": "damaged",
+    "count": 18
+  },
+  {
+    "tag": "dark",
+    "count": 229
   },
   {
     "tag": "debris",
@@ -345,15 +577,19 @@
   },
   {
     "tag": "decor",
-    "count": 2
+    "count": 243
   },
   {
     "tag": "decoration",
-    "count": 25
+    "count": 40
   },
   {
     "tag": "defense",
-    "count": 233
+    "count": 271
+  },
+  {
+    "tag": "defibrillator",
+    "count": 2
   },
   {
     "tag": "delivery",
@@ -364,20 +600,44 @@
     "count": 957
   },
   {
+    "tag": "desert",
+    "count": 3
+  },
+  {
+    "tag": "desk",
+    "count": 8
+  },
+  {
+    "tag": "dessert",
+    "count": 7
+  },
+  {
     "tag": "detail",
-    "count": 44
+    "count": 83
+  },
+  {
+    "tag": "diesel",
+    "count": 6
   },
   {
     "tag": "dirt",
-    "count": 106
+    "count": 117
   },
   {
     "tag": "dirt-road",
     "count": 90
   },
   {
+    "tag": "dishware",
+    "count": 10
+  },
+  {
+    "tag": "display",
+    "count": 5
+  },
+  {
     "tag": "dock",
-    "count": 9
+    "count": 13
   },
   {
     "tag": "dog",
@@ -385,19 +645,43 @@
   },
   {
     "tag": "door",
-    "count": 4
+    "count": 6
+  },
+  {
+    "tag": "doorway",
+    "count": 3
+  },
+  {
+    "tag": "drinkware",
+    "count": 5
   },
   {
     "tag": "driveway",
     "count": 2
   },
   {
+    "tag": "dryer",
+    "count": 1
+  },
+  {
+    "tag": "dumpster",
+    "count": 2
+  },
+  {
     "tag": "dungeon",
-    "count": 744
+    "count": 766
   },
   {
     "tag": "effect",
-    "count": 86
+    "count": 87
+  },
+  {
+    "tag": "electric",
+    "count": 15
+  },
+  {
+    "tag": "electronics",
+    "count": 6
   },
   {
     "tag": "element",
@@ -416,24 +700,32 @@
     "count": 35
   },
   {
+    "tag": "employee",
+    "count": 3
+  },
+  {
     "tag": "endcap",
     "count": 8
   },
   {
     "tag": "enemy",
-    "count": 221
+    "count": 381
   },
   {
     "tag": "enemy-sprite",
     "count": 100
   },
   {
+    "tag": "entrance",
+    "count": 2
+  },
+  {
     "tag": "environment",
-    "count": 296
+    "count": 525
   },
   {
     "tag": "equipment",
-    "count": 40
+    "count": 46
   },
   {
     "tag": "exit",
@@ -457,7 +749,7 @@
   },
   {
     "tag": "fantasy",
-    "count": 167
+    "count": 272
   },
   {
     "tag": "farm",
@@ -469,15 +761,35 @@
   },
   {
     "tag": "fence",
-    "count": 33
+    "count": 39
+  },
+  {
+    "tag": "finish-line",
+    "count": 4
   },
   {
     "tag": "firetruck",
     "count": 1
   },
   {
+    "tag": "fish",
+    "count": 2
+  },
+  {
+    "tag": "fishing",
+    "count": 1
+  },
+  {
+    "tag": "fixture",
+    "count": 5
+  },
+  {
     "tag": "flag",
     "count": 8
+  },
+  {
+    "tag": "floor",
+    "count": 18
   },
   {
     "tag": "flower",
@@ -486,6 +798,14 @@
   {
     "tag": "flowers",
     "count": 2
+  },
+  {
+    "tag": "flume",
+    "count": 23
+  },
+  {
+    "tag": "flying",
+    "count": 10
   },
   {
     "tag": "foam-blaster",
@@ -497,15 +817,19 @@
   },
   {
     "tag": "foliage",
-    "count": 76
+    "count": 95
   },
   {
     "tag": "food",
-    "count": 231
+    "count": 435
   },
   {
     "tag": "fort",
     "count": 13
+  },
+  {
+    "tag": "fortified",
+    "count": 49
   },
   {
     "tag": "fountain",
@@ -514,6 +838,26 @@
   {
     "tag": "fps",
     "count": 74
+  },
+  {
+    "tag": "freezer",
+    "count": 2
+  },
+  {
+    "tag": "fruit",
+    "count": 8
+  },
+  {
+    "tag": "furniture",
+    "count": 143
+  },
+  {
+    "tag": "game",
+    "count": 9
+  },
+  {
+    "tag": "game-room",
+    "count": 20
   },
   {
     "tag": "garbage",
@@ -528,6 +872,10 @@
     "count": 12
   },
   {
+    "tag": "gate",
+    "count": 4
+  },
+  {
     "tag": "gem",
     "count": 49
   },
@@ -536,8 +884,20 @@
     "count": 68
   },
   {
+    "tag": "gift",
+    "count": 6
+  },
+  {
+    "tag": "glasses",
+    "count": 1
+  },
+  {
+    "tag": "grapes",
+    "count": 1
+  },
+  {
     "tag": "grass",
-    "count": 67
+    "count": 78
   },
   {
     "tag": "grave",
@@ -564,8 +924,16 @@
     "count": 110
   },
   {
+    "tag": "grind-rail",
+    "count": 4
+  },
+  {
     "tag": "gun",
     "count": 16
+  },
+  {
+    "tag": "half-pipe",
+    "count": 1
   },
   {
     "tag": "halloween",
@@ -576,6 +944,22 @@
     "count": 2
   },
   {
+    "tag": "hangar",
+    "count": 7
+  },
+  {
+    "tag": "hanging",
+    "count": 23
+  },
+  {
+    "tag": "hanukkah",
+    "count": 3
+  },
+  {
+    "tag": "harbor",
+    "count": 46
+  },
+  {
     "tag": "hazard",
     "count": 9
   },
@@ -584,16 +968,20 @@
     "count": 1
   },
   {
+    "tag": "hearing-aid",
+    "count": 1
+  },
+  {
     "tag": "hedge",
     "count": 8
   },
   {
     "tag": "hex-grid",
-    "count": 99
+    "count": 171
   },
   {
     "tag": "hexagon",
-    "count": 99
+    "count": 171
   },
   {
     "tag": "hexagonal",
@@ -608,8 +996,12 @@
     "count": 24
   },
   {
+    "tag": "holiday",
+    "count": 99
+  },
+  {
     "tag": "home",
-    "count": 21
+    "count": 161
   },
   {
     "tag": "horror",
@@ -617,7 +1009,15 @@
   },
   {
     "tag": "house",
-    "count": 40
+    "count": 180
+  },
+  {
+    "tag": "houseboat",
+    "count": 4
+  },
+  {
+    "tag": "household",
+    "count": 140
   },
   {
     "tag": "hud",
@@ -641,7 +1041,7 @@
   },
   {
     "tag": "industrial",
-    "count": 139
+    "count": 281
   },
   {
     "tag": "infrastructure",
@@ -649,7 +1049,7 @@
   },
   {
     "tag": "interior",
-    "count": 50
+    "count": 236
   },
   {
     "tag": "intersection",
@@ -669,7 +1069,7 @@
   },
   {
     "tag": "item",
-    "count": 83
+    "count": 89
   },
   {
     "tag": "kart",
@@ -677,7 +1077,7 @@
   },
   {
     "tag": "kenney",
-    "count": 7893
+    "count": 9623
   },
   {
     "tag": "key",
@@ -688,12 +1088,20 @@
     "count": 462
   },
   {
-    "tag": "ladder",
+    "tag": "kitchen",
+    "count": 220
+  },
+  {
+    "tag": "kwanzaa",
     "count": 3
   },
   {
+    "tag": "ladder",
+    "count": 4
+  },
+  {
     "tag": "lamp",
-    "count": 6
+    "count": 12
   },
   {
     "tag": "landmark",
@@ -712,6 +1120,10 @@
     "count": 48
   },
   {
+    "tag": "laundry",
+    "count": 3
+  },
+  {
     "tag": "level",
     "count": 153
   },
@@ -725,7 +1137,7 @@
   },
   {
     "tag": "level-piece",
-    "count": 8
+    "count": 14
   },
   {
     "tag": "lever",
@@ -737,10 +1149,18 @@
   },
   {
     "tag": "light",
-    "count": 8
+    "count": 11
+  },
+  {
+    "tag": "lighting",
+    "count": 6
   },
   {
     "tag": "lightpost",
+    "count": 3
+  },
+  {
+    "tag": "lights",
     "count": 3
   },
   {
@@ -748,16 +1168,32 @@
     "count": 45
   },
   {
+    "tag": "living-room",
+    "count": 12
+  },
+  {
     "tag": "lock",
     "count": 1
+  },
+  {
+    "tag": "locomotive",
+    "count": 21
   },
   {
     "tag": "lot",
     "count": 8
   },
   {
+    "tag": "lounge",
+    "count": 9
+  },
+  {
     "tag": "low-poly",
-    "count": 1282
+    "count": 3012
+  },
+  {
+    "tag": "machine",
+    "count": 13
   },
   {
     "tag": "magazine",
@@ -768,16 +1204,32 @@
     "count": 168
   },
   {
+    "tag": "marker",
+    "count": 6
+  },
+  {
     "tag": "market",
-    "count": 7
+    "count": 27
+  },
+  {
+    "tag": "mask",
+    "count": 1
   },
   {
     "tag": "mast",
     "count": 2
   },
   {
+    "tag": "material",
+    "count": 4
+  },
+  {
     "tag": "mausoleum",
     "count": 9
+  },
+  {
+    "tag": "meal",
+    "count": 4
   },
   {
     "tag": "mechanism",
@@ -785,15 +1237,19 @@
   },
   {
     "tag": "medical",
-    "count": 1
+    "count": 4
   },
   {
     "tag": "medieval",
-    "count": 167
+    "count": 272
+  },
+  {
+    "tag": "metal",
+    "count": 8
   },
   {
     "tag": "meteor",
-    "count": 24
+    "count": 27
   },
   {
     "tag": "mill",
@@ -804,6 +1260,10 @@
     "count": 3
   },
   {
+    "tag": "mini",
+    "count": 108
+  },
+  {
     "tag": "miniature",
     "count": 1488
   },
@@ -812,8 +1272,16 @@
     "count": 40
   },
   {
+    "tag": "mobility",
+    "count": 8
+  },
+  {
     "tag": "modular",
-    "count": 392
+    "count": 1532
+  },
+  {
+    "tag": "monorail",
+    "count": 35
   },
   {
     "tag": "monster",
@@ -822,6 +1290,14 @@
   {
     "tag": "motorcycle",
     "count": 5
+  },
+  {
+    "tag": "mountain",
+    "count": 4
+  },
+  {
+    "tag": "mouse-coaster",
+    "count": 23
   },
   {
     "tag": "moving-platform",
@@ -837,11 +1313,11 @@
   },
   {
     "tag": "nature",
-    "count": 110
+    "count": 209
   },
   {
     "tag": "npc",
-    "count": 18
+    "count": 39
   },
   {
     "tag": "object",
@@ -849,11 +1325,31 @@
   },
   {
     "tag": "obstacle",
-    "count": 67
+    "count": 74
+  },
+  {
+    "tag": "ocean-liner",
+    "count": 2
+  },
+  {
+    "tag": "office",
+    "count": 5
   },
   {
     "tag": "oopi",
     "count": 203
+  },
+  {
+    "tag": "orange",
+    "count": 1
+  },
+  {
+    "tag": "outdoor",
+    "count": 80
+  },
+  {
+    "tag": "overhang",
+    "count": 4
   },
   {
     "tag": "p1-walk",
@@ -868,12 +1364,28 @@
     "count": 12
   },
   {
+    "tag": "packaged-food",
+    "count": 5
+  },
+  {
     "tag": "paddle",
     "count": 15
   },
   {
+    "tag": "pallet",
+    "count": 2
+  },
+  {
     "tag": "palm",
     "count": 4
+  },
+  {
+    "tag": "panel",
+    "count": 5
+  },
+  {
+    "tag": "park",
+    "count": 1
   },
   {
     "tag": "part",
@@ -896,8 +1408,12 @@
     "count": 7
   },
   {
+    "tag": "patch",
+    "count": 2
+  },
+  {
     "tag": "path",
-    "count": 68
+    "count": 257
   },
   {
     "tag": "pavement",
@@ -906,6 +1422,14 @@
   {
     "tag": "pebble",
     "count": 11
+  },
+  {
+    "tag": "people",
+    "count": 26
+  },
+  {
+    "tag": "person",
+    "count": 12
   },
   {
     "tag": "pet",
@@ -917,7 +1441,7 @@
   },
   {
     "tag": "pickup",
-    "count": 150
+    "count": 156
   },
   {
     "tag": "piece",
@@ -928,12 +1452,16 @@
     "count": 2
   },
   {
+    "tag": "pinball",
+    "count": 1
+  },
+  {
     "tag": "pine",
     "count": 18
   },
   {
     "tag": "pipe",
-    "count": 90
+    "count": 108
   },
   {
     "tag": "pirate",
@@ -944,6 +1472,10 @@
     "count": 483
   },
   {
+    "tag": "planet",
+    "count": 13
+  },
+  {
     "tag": "plant",
     "count": 46
   },
@@ -952,8 +1484,12 @@
     "count": 1
   },
   {
+    "tag": "plate",
+    "count": 6
+  },
+  {
     "tag": "platform",
-    "count": 94
+    "count": 111
   },
   {
     "tag": "platformer",
@@ -988,12 +1524,20 @@
     "count": 5
   },
   {
+    "tag": "present",
+    "count": 6
+  },
+  {
+    "tag": "prize",
+    "count": 2
+  },
+  {
     "tag": "projectile",
-    "count": 105
+    "count": 113
   },
   {
     "tag": "prop",
-    "count": 461
+    "count": 764
   },
   {
     "tag": "pumpkin",
@@ -1008,16 +1552,40 @@
     "count": 530
   },
   {
+    "tag": "queue",
+    "count": 6
+  },
+  {
+    "tag": "race",
+    "count": 2
+  },
+  {
     "tag": "race-car",
     "count": 2
   },
   {
     "tag": "racer",
-    "count": 18
+    "count": 26
   },
   {
     "tag": "racing",
-    "count": 477
+    "count": 634
+  },
+  {
+    "tag": "rail",
+    "count": 113
+  },
+  {
+    "tag": "railing",
+    "count": 4
+  },
+  {
+    "tag": "railroad",
+    "count": 103
+  },
+  {
+    "tag": "ramp",
+    "count": 22
   },
   {
     "tag": "red",
@@ -1040,20 +1608,40 @@
     "count": 40
   },
   {
+    "tag": "resource",
+    "count": 82
+  },
+  {
     "tag": "restaurant",
-    "count": 117
+    "count": 317
+  },
+  {
+    "tag": "retail",
+    "count": 20
   },
   {
     "tag": "retina",
     "count": 88
   },
   {
+    "tag": "retro",
+    "count": 229
+  },
+  {
+    "tag": "reward",
+    "count": 3
+  },
+  {
+    "tag": "ride",
+    "count": 183
+  },
+  {
     "tag": "river",
-    "count": 36
+    "count": 51
   },
   {
     "tag": "road",
-    "count": 494
+    "count": 570
   },
   {
     "tag": "road-detail",
@@ -1065,11 +1653,11 @@
   },
   {
     "tag": "rock",
-    "count": 51
+    "count": 64
   },
   {
     "tag": "rocket",
-    "count": 35
+    "count": 45
   },
   {
     "tag": "rocket-part",
@@ -1077,7 +1665,7 @@
   },
   {
     "tag": "roof",
-    "count": 26
+    "count": 38
   },
   {
     "tag": "roof-detail",
@@ -1085,11 +1673,19 @@
   },
   {
     "tag": "rowboat",
+    "count": 4
+  },
+  {
+    "tag": "ruin",
+    "count": 7
+  },
+  {
+    "tag": "sailboat",
     "count": 2
   },
   {
     "tag": "sand",
-    "count": 108
+    "count": 111
   },
   {
     "tag": "sand-road",
@@ -1100,12 +1696,32 @@
     "count": 1
   },
   {
+    "tag": "scaffold",
+    "count": 6
+  },
+  {
+    "tag": "scaffolding",
+    "count": 3
+  },
+  {
     "tag": "sci-fi",
-    "count": 92
+    "count": 255
   },
   {
     "tag": "scope",
     "count": 3
+  },
+  {
+    "tag": "scrap",
+    "count": 5
+  },
+  {
+    "tag": "seasonal",
+    "count": 99
+  },
+  {
+    "tag": "seating",
+    "count": 18
   },
   {
     "tag": "sedan-1",
@@ -1124,6 +1740,10 @@
     "count": 80
   },
   {
+    "tag": "selection",
+    "count": 2
+  },
+  {
     "tag": "selector",
     "count": 3
   },
@@ -1132,8 +1752,20 @@
     "count": 2
   },
   {
+    "tag": "settlement",
+    "count": 18
+  },
+  {
+    "tag": "shelf",
+    "count": 3
+  },
+  {
+    "tag": "shelter",
+    "count": 12
+  },
+  {
     "tag": "ship",
-    "count": 126
+    "count": 174
   },
   {
     "tag": "ship-part",
@@ -1145,7 +1777,15 @@
   },
   {
     "tag": "shop",
-    "count": 5
+    "count": 45
+  },
+  {
+    "tag": "shopkeeper",
+    "count": 1
+  },
+  {
+    "tag": "shopping",
+    "count": 2
   },
   {
     "tag": "side-view",
@@ -1168,32 +1808,80 @@
     "count": 97
   },
   {
+    "tag": "skate",
+    "count": 20
+  },
+  {
+    "tag": "skateboard",
+    "count": 1
+  },
+  {
+    "tag": "skatepark",
+    "count": 20
+  },
+  {
+    "tag": "skater",
+    "count": 2
+  },
+  {
+    "tag": "sled",
+    "count": 2
+  },
+  {
+    "tag": "sleep",
+    "count": 3
+  },
+  {
     "tag": "slope",
     "count": 12
   },
   {
     "tag": "smoke",
-    "count": 1
+    "count": 2
+  },
+  {
+    "tag": "snack",
+    "count": 4
   },
   {
     "tag": "snow",
-    "count": 39
+    "count": 188
+  },
+  {
+    "tag": "sofa",
+    "count": 9
   },
   {
     "tag": "soldier",
-    "count": 34
+    "count": 35
   },
   {
     "tag": "space",
-    "count": 670
+    "count": 823
+  },
+  {
+    "tag": "spacecraft",
+    "count": 25
+  },
+  {
+    "tag": "spawn",
+    "count": 2
   },
   {
     "tag": "special",
     "count": 12
   },
   {
+    "tag": "speedboat",
+    "count": 10
+  },
+  {
     "tag": "spikes",
     "count": 4
+  },
+  {
+    "tag": "spline",
+    "count": 3
   },
   {
     "tag": "spooky",
@@ -1205,7 +1893,7 @@
   },
   {
     "tag": "sports",
-    "count": 203
+    "count": 224
   },
   {
     "tag": "sports-car",
@@ -1221,7 +1909,7 @@
   },
   {
     "tag": "stairs",
-    "count": 13
+    "count": 27
   },
   {
     "tag": "stall",
@@ -1236,44 +1924,92 @@
     "count": 31
   },
   {
-    "tag": "stone",
+    "tag": "statue",
     "count": 1
   },
   {
+    "tag": "steel",
+    "count": 23
+  },
+  {
+    "tag": "stocking",
+    "count": 4
+  },
+  {
+    "tag": "stone",
+    "count": 55
+  },
+  {
+    "tag": "storage",
+    "count": 13
+  },
+  {
+    "tag": "store",
+    "count": 20
+  },
+  {
+    "tag": "strategy",
+    "count": 232
+  },
+  {
     "tag": "street",
-    "count": 81
+    "count": 205
   },
   {
     "tag": "street-light",
     "count": 6
   },
   {
+    "tag": "streetlight",
+    "count": 3
+  },
+  {
+    "tag": "striped",
+    "count": 43
+  },
+  {
     "tag": "structure",
-    "count": 65
+    "count": 107
   },
   {
     "tag": "stylized",
-    "count": 3572
+    "count": 5302
   },
   {
     "tag": "suburban",
     "count": 40
   },
   {
+    "tag": "sunglasses",
+    "count": 1
+  },
+  {
     "tag": "support",
+    "count": 27
+  },
+  {
+    "tag": "surface",
     "count": 2
   },
   {
+    "tag": "survival",
+    "count": 80
+  },
+  {
     "tag": "sushi",
-    "count": 117
+    "count": 119
   },
   {
     "tag": "switch",
     "count": 3
   },
   {
+    "tag": "table",
+    "count": 11
+  },
+  {
     "tag": "tabletop",
-    "count": 1488
+    "count": 1560
   },
   {
     "tag": "tank",
@@ -1288,8 +2024,24 @@
     "count": 17
   },
   {
+    "tag": "television",
+    "count": 3
+  },
+  {
+    "tag": "tent",
+    "count": 3
+  },
+  {
     "tag": "terrain",
-    "count": 289
+    "count": 574
+  },
+  {
+    "tag": "textured",
+    "count": 229
+  },
+  {
+    "tag": "theme-park",
+    "count": 183
   },
   {
     "tag": "throwable",
@@ -1297,7 +2049,7 @@
   },
   {
     "tag": "tile",
-    "count": 2993
+    "count": 3406
   },
   {
     "tag": "tilemap",
@@ -1345,7 +2097,7 @@
   },
   {
     "tag": "tool",
-    "count": 18
+    "count": 98
   },
   {
     "tag": "top",
@@ -1357,11 +2109,11 @@
   },
   {
     "tag": "tower",
-    "count": 242
+    "count": 286
   },
   {
     "tag": "tower-defense",
-    "count": 233
+    "count": 393
   },
   {
     "tag": "towers-brown",
@@ -1385,7 +2137,15 @@
   },
   {
     "tag": "toy",
-    "count": 2183
+    "count": 3684
+  },
+  {
+    "tag": "toy-car",
+    "count": 157
+  },
+  {
+    "tag": "toy-train",
+    "count": 13
   },
   {
     "tag": "toy-weapon",
@@ -1393,7 +2153,7 @@
   },
   {
     "tag": "track",
-    "count": 7
+    "count": 468
   },
   {
     "tag": "tractor",
@@ -1401,15 +2161,19 @@
   },
   {
     "tag": "traffic",
-    "count": 60
+    "count": 63
   },
   {
     "tag": "traffic-cone",
     "count": 2
   },
   {
+    "tag": "train",
+    "count": 202
+  },
+  {
     "tag": "transport",
-    "count": 50
+    "count": 417
   },
   {
     "tag": "transportation",
@@ -1425,7 +2189,11 @@
   },
   {
     "tag": "tree",
-    "count": 73
+    "count": 96
+  },
+  {
+    "tag": "trophy",
+    "count": 1
   },
   {
     "tag": "tropical",
@@ -1433,7 +2201,7 @@
   },
   {
     "tag": "truck",
-    "count": 4
+    "count": 9
   },
   {
     "tag": "truck-1",
@@ -1444,20 +2212,36 @@
     "count": 2
   },
   {
+    "tag": "tugboat",
+    "count": 3
+  },
+  {
     "tag": "turret",
-    "count": 4
+    "count": 164
   },
   {
     "tag": "ufo",
-    "count": 4
+    "count": 14
   },
   {
     "tag": "ui",
-    "count": 107
+    "count": 109
+  },
+  {
+    "tag": "unit",
+    "count": 8
+  },
+  {
+    "tag": "urban",
+    "count": 124
   },
   {
     "tag": "urn",
     "count": 2
+  },
+  {
+    "tag": "utensil",
+    "count": 5
   },
   {
     "tag": "utility",
@@ -1469,7 +2253,7 @@
   },
   {
     "tag": "vehicle",
-    "count": 1125
+    "count": 1486
   },
   {
     "tag": "vehicle-part",
@@ -1477,7 +2261,7 @@
   },
   {
     "tag": "village",
-    "count": 167
+    "count": 272
   },
   {
     "tag": "voxel",
@@ -1488,28 +2272,52 @@
     "count": 55
   },
   {
+    "tag": "wagon",
+    "count": 12
+  },
+  {
     "tag": "walk",
     "count": 3
   },
   {
     "tag": "walkway",
-    "count": 5
+    "count": 11
   },
   {
     "tag": "wall",
-    "count": 179
+    "count": 283
   },
   {
     "tag": "warehouse",
     "count": 25
   },
   {
+    "tag": "washer",
+    "count": 2
+  },
+  {
     "tag": "water",
-    "count": 77
+    "count": 96
+  },
+  {
+    "tag": "water-ride",
+    "count": 23
+  },
+  {
+    "tag": "watercraft",
+    "count": 48
   },
   {
     "tag": "waterfall",
     "count": 14
+  },
+  {
+    "tag": "waterfront",
+    "count": 2
+  },
+  {
+    "tag": "watermelon",
+    "count": 1
   },
   {
     "tag": "wave",
@@ -1517,19 +2325,35 @@
   },
   {
     "tag": "weapon",
-    "count": 74
+    "count": 85
+  },
+  {
+    "tag": "weathered",
+    "count": 229
   },
   {
     "tag": "wheel",
     "count": 8
   },
   {
+    "tag": "wheelchair",
+    "count": 4
+  },
+  {
     "tag": "white",
     "count": 14
   },
   {
+    "tag": "winter",
+    "count": 99
+  },
+  {
     "tag": "wood",
-    "count": 30
+    "count": 80
+  },
+  {
+    "tag": "workbench",
+    "count": 3
   },
   {
     "tag": "wreckage",

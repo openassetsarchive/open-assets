@@ -5,7 +5,15 @@
   },
   {
     "tag": "3d",
-    "count": 11
+    "count": 29
+  },
+  {
+    "tag": "accessibility",
+    "count": 1
+  },
+  {
+    "tag": "amusement-park",
+    "count": 1
   },
   {
     "tag": "animal",
@@ -17,10 +25,18 @@
   },
   {
     "tag": "arcade",
-    "count": 9
+    "count": 10
+  },
+  {
+    "tag": "arena",
+    "count": 1
   },
   {
     "tag": "avatar",
+    "count": 2
+  },
+  {
+    "tag": "battle",
     "count": 1
   },
   {
@@ -36,8 +52,12 @@
     "count": 2
   },
   {
-    "tag": "boat",
+    "tag": "board-game",
     "count": 1
+  },
+  {
+    "tag": "boat",
+    "count": 2
   },
   {
     "tag": "brick-breaker",
@@ -45,15 +65,27 @@
   },
   {
     "tag": "bright",
-    "count": 19
+    "count": 35
   },
   {
     "tag": "building",
     "count": 3
   },
   {
+    "tag": "cabin",
+    "count": 1
+  },
+  {
+    "tag": "camp",
+    "count": 1
+  },
+  {
     "tag": "car",
     "count": 2
+  },
+  {
+    "tag": "castle",
+    "count": 1
   },
   {
     "tag": "cat",
@@ -65,18 +97,46 @@
   },
   {
     "tag": "character",
-    "count": 4
+    "count": 5
   },
   {
     "tag": "city",
-    "count": 4
+    "count": 5
+  },
+  {
+    "tag": "coaster",
+    "count": 1
+  },
+  {
+    "tag": "colony",
+    "count": 1
   },
   {
     "tag": "colorful",
-    "count": 11
+    "count": 27
+  },
+  {
+    "tag": "combat",
+    "count": 1
+  },
+  {
+    "tag": "cooking",
+    "count": 1
+  },
+  {
+    "tag": "crafting",
+    "count": 1
   },
   {
     "tag": "cube",
+    "count": 2
+  },
+  {
+    "tag": "dark",
+    "count": 2
+  },
+  {
+    "tag": "decor",
     "count": 2
   },
   {
@@ -93,11 +153,15 @@
   },
   {
     "tag": "dungeon",
+    "count": 2
+  },
+  {
+    "tag": "enemy",
     "count": 1
   },
   {
     "tag": "environment",
-    "count": 1
+    "count": 3
   },
   {
     "tag": "factory",
@@ -105,7 +169,7 @@
   },
   {
     "tag": "fantasy",
-    "count": 1
+    "count": 2
   },
   {
     "tag": "farm",
@@ -117,10 +181,18 @@
   },
   {
     "tag": "food",
-    "count": 2
+    "count": 3
   },
   {
     "tag": "fps",
+    "count": 1
+  },
+  {
+    "tag": "furniture",
+    "count": 1
+  },
+  {
+    "tag": "game-room",
     "count": 1
   },
   {
@@ -136,15 +208,27 @@
     "count": 1
   },
   {
-    "tag": "hex-grid",
+    "tag": "harbor",
     "count": 1
+  },
+  {
+    "tag": "hex-grid",
+    "count": 2
   },
   {
     "tag": "hexagon",
-    "count": 1
+    "count": 2
   },
   {
     "tag": "hexagonal",
+    "count": 1
+  },
+  {
+    "tag": "holiday",
+    "count": 1
+  },
+  {
+    "tag": "home",
     "count": 1
   },
   {
@@ -153,15 +237,23 @@
   },
   {
     "tag": "house",
+    "count": 2
+  },
+  {
+    "tag": "household",
     "count": 1
   },
   {
     "tag": "industrial",
-    "count": 2
+    "count": 3
   },
   {
     "tag": "infrastructure",
     "count": 1
+  },
+  {
+    "tag": "interior",
+    "count": 3
   },
   {
     "tag": "island",
@@ -173,11 +265,15 @@
   },
   {
     "tag": "kenney",
-    "count": 35
+    "count": 53
   },
   {
     "tag": "kit",
     "count": 5
+  },
+  {
+    "tag": "kitchen",
+    "count": 1
   },
   {
     "tag": "landscape",
@@ -193,11 +289,19 @@
   },
   {
     "tag": "low-poly",
-    "count": 17
+    "count": 35
+  },
+  {
+    "tag": "market",
+    "count": 1
   },
   {
     "tag": "medieval",
-    "count": 1
+    "count": 2
+  },
+  {
+    "tag": "mini",
+    "count": 5
   },
   {
     "tag": "miniature",
@@ -205,7 +309,7 @@
   },
   {
     "tag": "modular",
-    "count": 3
+    "count": 12
   },
   {
     "tag": "monster",
@@ -213,11 +317,23 @@
   },
   {
     "tag": "nature",
-    "count": 1
+    "count": 2
   },
   {
     "tag": "oopi",
     "count": 2
+  },
+  {
+    "tag": "outdoor",
+    "count": 1
+  },
+  {
+    "tag": "path",
+    "count": 1
+  },
+  {
+    "tag": "people",
+    "count": 1
   },
   {
     "tag": "pet",
@@ -236,6 +352,10 @@
     "count": 7
   },
   {
+    "tag": "prop",
+    "count": 1
+  },
+  {
     "tag": "puzzle",
     "count": 2
   },
@@ -245,7 +365,19 @@
   },
   {
     "tag": "racing",
-    "count": 2
+    "count": 3
+  },
+  {
+    "tag": "rail",
+    "count": 1
+  },
+  {
+    "tag": "railroad",
+    "count": 1
+  },
+  {
+    "tag": "ramp",
+    "count": 1
   },
   {
     "tag": "remastered",
@@ -260,7 +392,23 @@
     "count": 1
   },
   {
+    "tag": "resource",
+    "count": 1
+  },
+  {
     "tag": "restaurant",
+    "count": 2
+  },
+  {
+    "tag": "retail",
+    "count": 1
+  },
+  {
+    "tag": "retro",
+    "count": 2
+  },
+  {
+    "tag": "ride",
     "count": 1
   },
   {
@@ -273,23 +421,43 @@
   },
   {
     "tag": "sci-fi",
+    "count": 2
+  },
+  {
+    "tag": "seasonal",
     "count": 1
   },
   {
     "tag": "ship",
-    "count": 1
+    "count": 2
   },
   {
     "tag": "shooter",
     "count": 3
   },
   {
+    "tag": "shop",
+    "count": 2
+  },
+  {
     "tag": "side-view",
     "count": 1
   },
   {
+    "tag": "skate",
+    "count": 1
+  },
+  {
+    "tag": "skatepark",
+    "count": 1
+  },
+  {
+    "tag": "snow",
+    "count": 1
+  },
+  {
     "tag": "space",
-    "count": 3
+    "count": 4
   },
   {
     "tag": "spooky",
@@ -297,18 +465,30 @@
   },
   {
     "tag": "sports",
+    "count": 2
+  },
+  {
+    "tag": "store",
     "count": 1
+  },
+  {
+    "tag": "strategy",
+    "count": 2
   },
   {
     "tag": "street",
-    "count": 1
+    "count": 2
   },
   {
     "tag": "stylized",
-    "count": 21
+    "count": 39
   },
   {
     "tag": "suburban",
+    "count": 1
+  },
+  {
+    "tag": "survival",
     "count": 1
   },
   {
@@ -317,7 +497,7 @@
   },
   {
     "tag": "tabletop",
-    "count": 3
+    "count": 4
   },
   {
     "tag": "tank",
@@ -329,11 +509,27 @@
   },
   {
     "tag": "terrain",
+    "count": 2
+  },
+  {
+    "tag": "textured",
+    "count": 2
+  },
+  {
+    "tag": "theme-park",
     "count": 1
+  },
+  {
+    "tag": "tile",
+    "count": 2
   },
   {
     "tag": "tiles",
     "count": 2
+  },
+  {
+    "tag": "tool",
+    "count": 1
   },
   {
     "tag": "top-down",
@@ -345,7 +541,7 @@
   },
   {
     "tag": "tower-defense",
-    "count": 1
+    "count": 2
   },
   {
     "tag": "town",
@@ -353,11 +549,23 @@
   },
   {
     "tag": "toy",
-    "count": 19
+    "count": 35
+  },
+  {
+    "tag": "toy-car",
+    "count": 1
+  },
+  {
+    "tag": "track",
+    "count": 3
+  },
+  {
+    "tag": "train",
+    "count": 2
   },
   {
     "tag": "transport",
-    "count": 1
+    "count": 4
   },
   {
     "tag": "transportation",
@@ -368,12 +576,20 @@
     "count": 1
   },
   {
+    "tag": "turret",
+    "count": 1
+  },
+  {
+    "tag": "urban",
+    "count": 1
+  },
+  {
     "tag": "vehicle",
-    "count": 3
+    "count": 6
   },
   {
     "tag": "village",
-    "count": 1
+    "count": 2
   },
   {
     "tag": "voxel",
@@ -392,7 +608,19 @@
     "count": 1
   },
   {
+    "tag": "watercraft",
+    "count": 1
+  },
+  {
     "tag": "weapon",
+    "count": 1
+  },
+  {
+    "tag": "weathered",
+    "count": 2
+  },
+  {
+    "tag": "winter",
     "count": 1
   }
 ]

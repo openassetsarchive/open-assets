@@ -1,11 +1,12 @@
 {
   "version": 1,
   "token": "bridge",
-  "count": 132,
+  "count": 135,
   "assetIds": [
     "kenney-city-kit-roads-bridge-pillar",
     "kenney-city-kit-roads-bridge-pillar-wide",
     "kenney-city-kit-roads-road-bridge",
+    "kenney-hexagon-kit-bridge",
     "kenney-hexagon-tiles-spritesheet-complete",
     "kenney-hexagon-tiles-tiles-tilestone-bridge",
     "kenney-hexagon-tiles-tiles-tilewood-bridge",
@@ -134,6 +135,8 @@
     "kenney-new-platformer-pack-spritesheets-spritesheet-tiles",
     "kenney-platformer-art-deluxe-base-pack-tiles-bridge",
     "kenney-platformer-art-deluxe-base-pack-tiles-bridgelogs",
-    "kenney-platformer-art-deluxe-base-pack-tiles-tiles-spritesheet"
+    "kenney-platformer-art-deluxe-base-pack-tiles-tiles-spritesheet",
+    "kenney-tower-defense-kit-3d-snow-tile-river-bridge",
+    "kenney-tower-defense-kit-3d-tile-river-bridge"
   ]
 }

@@ -1,11 +1,17 @@
 {
   "version": 1,
   "token": "ring",
-  "count": 4,
+  "count": 10,
   "assetIds": [
+    "kenney-coaster-kit-support-large-horizontal-ring",
+    "kenney-coaster-kit-support-small-horizontal-ring",
     "kenney-new-platformer-pack-sprites-enemies-worm-ring-move-a",
     "kenney-new-platformer-pack-sprites-enemies-worm-ring-move-b",
     "kenney-new-platformer-pack-sprites-enemies-worm-ring-rest",
-    "kenney-new-platformer-pack-spritesheets-spritesheet-enemies"
+    "kenney-new-platformer-pack-spritesheets-spritesheet-enemies",
+    "kenney-space-kit-pipe-ring",
+    "kenney-space-kit-pipe-ringhigh",
+    "kenney-space-kit-pipe-ringhighend",
+    "kenney-space-kit-pipe-ringsupport"
   ]
 }

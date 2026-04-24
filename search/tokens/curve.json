@@ -1,7 +1,7 @@
 {
   "version": 1,
   "token": "curve",
-  "count": 19,
+  "count": 35,
   "assetIds": [
     "kenney-city-kit-roads-road-curve",
     "kenney-city-kit-roads-road-curve-barrier",
@@ -11,16 +11,32 @@
     "kenney-city-kit-roads-road-slant-curve",
     "kenney-city-kit-roads-road-slant-curve-barrier",
     "kenney-city-kit-roads-road-slant-flat-curve",
+    "kenney-coaster-kit-coaster-flume-curve",
+    "kenney-coaster-kit-coaster-hanging-curve",
+    "kenney-coaster-kit-coaster-monorail-curve",
+    "kenney-coaster-kit-coaster-mouse-curve",
+    "kenney-coaster-kit-coaster-steel-curve",
+    "kenney-coaster-kit-coaster-wood-curve",
     "kenney-graveyard-kit-brick-wall-curve",
     "kenney-graveyard-kit-brick-wall-curve-small",
     "kenney-graveyard-kit-iron-fence-border-curve",
     "kenney-graveyard-kit-iron-fence-curve",
     "kenney-graveyard-kit-stone-wall-curve",
+    "kenney-mini-skate-rail-curve",
     "kenney-platformer-kit-block-grass-curve",
     "kenney-platformer-kit-block-grass-curve-half",
     "kenney-platformer-kit-block-grass-curve-low",
     "kenney-platformer-kit-block-snow-curve",
     "kenney-platformer-kit-block-snow-curve-half",
-    "kenney-platformer-kit-block-snow-curve-low"
+    "kenney-platformer-kit-block-snow-curve-low",
+    "kenney-toy-car-kit-track-narrow-curve",
+    "kenney-toy-car-kit-track-road-narrow-curve",
+    "kenney-toy-car-kit-track-road-wide-curve",
+    "kenney-toy-car-kit-track-striped-narrow-curve",
+    "kenney-toy-car-kit-track-striped-wide-curve",
+    "kenney-toy-car-kit-track-wide-curve",
+    "kenney-train-kit-railroad-curve",
+    "kenney-train-kit-railroad-damaged-curve",
+    "kenney-train-kit-railroad-rail-curve"
   ]
 }

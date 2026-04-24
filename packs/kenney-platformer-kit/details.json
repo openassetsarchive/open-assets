@@ -13410,7 +13410,8 @@
           "button",
           "switch",
           "mechanism",
-          "puzzle"
+          "puzzle",
+          "animated"
         ],
         "aliases": [],
         "geometry": {
@@ -13604,7 +13605,8 @@
           "button",
           "switch",
           "mechanism",
-          "puzzle"
+          "puzzle",
+          "animated"
         ],
         "aliases": [],
         "geometry": {
@@ -13797,7 +13799,10 @@
           "oopi",
           "character",
           "player",
-          "animated"
+          "animated",
+          "rigged",
+          "skinned",
+          "skeletal-animation"
         ],
         "aliases": [],
         "geometry": {
@@ -14239,7 +14244,10 @@
           "oopi",
           "character",
           "player",
-          "animated"
+          "animated",
+          "rigged",
+          "skinned",
+          "skeletal-animation"
         ],
         "aliases": [],
         "geometry": {
@@ -14681,7 +14689,10 @@
           "oopi",
           "character",
           "player",
-          "animated"
+          "animated",
+          "rigged",
+          "skinned",
+          "skeletal-animation"
         ],
         "aliases": [],
         "geometry": {
@@ -15123,7 +15134,10 @@
           "oopi",
           "character",
           "player",
-          "animated"
+          "animated",
+          "rigged",
+          "skinned",
+          "skeletal-animation"
         ],
         "aliases": [],
         "geometry": {
@@ -15565,7 +15579,10 @@
           "oopi",
           "character",
           "player",
-          "animated"
+          "animated",
+          "rigged",
+          "skinned",
+          "skeletal-animation"
         ],
         "aliases": [],
         "geometry": {
@@ -16004,7 +16021,8 @@
           "bright",
           "colorful",
           "toy",
-          "oopi"
+          "oopi",
+          "animated"
         ],
         "aliases": [],
         "geometry": {
@@ -21327,7 +21345,8 @@
           "lever",
           "switch",
           "mechanism",
-          "puzzle"
+          "puzzle",
+          "animated"
         ],
         "aliases": [],
         "geometry": {
@@ -24114,7 +24133,8 @@
           "oopi",
           "hazard",
           "trap",
-          "spikes"
+          "spikes",
+          "animated"
         ],
         "aliases": [],
         "geometry": {
@@ -24307,7 +24327,8 @@
           "oopi",
           "hazard",
           "trap",
-          "spikes"
+          "spikes",
+          "animated"
         ],
         "aliases": [],
         "geometry": {

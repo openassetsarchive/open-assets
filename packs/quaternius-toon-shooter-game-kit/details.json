@@ -165,7 +165,10 @@
           "animated",
           "kit",
           "character",
-          "enemy"
+          "enemy",
+          "rigged",
+          "skinned",
+          "skeletal-animation"
         ],
         "aliases": [
           "npc",
@@ -514,7 +517,10 @@
           "fps",
           "animated",
           "kit",
-          "character"
+          "character",
+          "rigged",
+          "skinned",
+          "skeletal-animation"
         ],
         "aliases": [
           "npc"
@@ -861,7 +867,10 @@
           "fps",
           "animated",
           "kit",
-          "character"
+          "character",
+          "rigged",
+          "skinned",
+          "skeletal-animation"
         ],
         "aliases": [
           "npc"

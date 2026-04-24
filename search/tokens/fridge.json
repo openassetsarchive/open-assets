@@ -1,8 +1,12 @@
 {
   "version": 1,
   "token": "fridge",
-  "count": 2,
+  "count": 6,
   "assetIds": [
+    "kenney-furniture-kit-kitchenfridge",
+    "kenney-furniture-kit-kitchenfridgebuiltin",
+    "kenney-furniture-kit-kitchenfridgelarge",
+    "kenney-furniture-kit-kitchenfridgesmall",
     "quaternius-sushi-restaurant-kit-environment-gltf-environment-canfridge",
     "quaternius-sushi-restaurant-kit-environment-gltf-environment-fridge"
   ]

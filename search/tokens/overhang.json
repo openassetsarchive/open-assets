@@ -1,9 +1,11 @@
 {
   "version": 1,
   "token": "overhang",
-  "count": 54,
+  "count": 60,
   "assetIds": [
     "kenney-fantasy-town-kit-overhang",
+    "kenney-holiday-kit-cabin-overhang-door-rotate",
+    "kenney-holiday-kit-cabin-overhang-doorway",
     "kenney-new-platformer-pack-sprites-tiles-terrain-dirt-horizontal-overhang-left",
     "kenney-new-platformer-pack-sprites-tiles-terrain-dirt-horizontal-overhang-right",
     "kenney-new-platformer-pack-sprites-tiles-terrain-grass-horizontal-overhang-left",
@@ -56,6 +58,10 @@
     "kenney-platformer-kit-platform-overhang",
     "kenney-racing-pack-png-objects-tribune-overhang-red",
     "kenney-racing-pack-png-objects-tribune-overhang-striped",
-    "kenney-racing-pack-spritesheets-spritesheet-objects"
+    "kenney-racing-pack-spritesheets-spritesheet-objects",
+    "kenney-retro-fantasy-kit-overhang",
+    "kenney-retro-fantasy-kit-overhang-fence",
+    "kenney-retro-fantasy-kit-overhang-round",
+    "kenney-retro-fantasy-kit-overhang-round-railing"
   ]
 }

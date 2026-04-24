@@ -1,8 +1,10 @@
 {
   "version": 1,
   "tag": "platform",
-  "count": 94,
+  "count": 111,
   "assetIds": [
+    "kenney-mini-skate-structure-platform",
+    "kenney-mini-skate-structure-wood",
     "kenney-pirate-kit-platform",
     "kenney-pirate-kit-platform-planks",
     "kenney-pirate-kit-structure-fence",
@@ -96,6 +98,21 @@
     "kenney-platformer-kit-platform",
     "kenney-platformer-kit-platform-fortified",
     "kenney-platformer-kit-platform-overhang",
-    "kenney-platformer-kit-platform-ramp"
+    "kenney-platformer-kit-platform-ramp",
+    "kenney-retro-fantasy-kit-dock-corner",
+    "kenney-retro-fantasy-kit-dock-side",
+    "kenney-space-kit-platform-center",
+    "kenney-space-kit-platform-corner",
+    "kenney-space-kit-platform-corneropen",
+    "kenney-space-kit-platform-cornerround",
+    "kenney-space-kit-platform-end",
+    "kenney-space-kit-platform-high",
+    "kenney-space-kit-platform-large",
+    "kenney-space-kit-platform-long",
+    "kenney-space-kit-platform-low",
+    "kenney-space-kit-platform-side",
+    "kenney-space-kit-platform-small",
+    "kenney-space-kit-platform-smalldiagonal",
+    "kenney-space-kit-platform-straight"
   ]
 }

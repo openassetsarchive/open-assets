@@ -1,12 +1,16 @@
 {
   "version": 1,
   "token": "race",
-  "count": 5,
+  "count": 9,
   "assetIds": [
     "kenney-car-kit-race",
     "kenney-car-kit-race-future",
     "kenney-racing-pack-png-objects-barrier-red-race",
     "kenney-racing-pack-png-objects-barrier-white-race",
-    "kenney-racing-pack-spritesheets-spritesheet-objects"
+    "kenney-racing-pack-spritesheets-spritesheet-objects",
+    "kenney-toy-car-kit-gate",
+    "kenney-toy-car-kit-gate-finish",
+    "kenney-watercraft-kit-gate",
+    "kenney-watercraft-kit-gate-finish"
   ]
 }

@@ -1,0 +1,2990 @@
+{
+  "version": 1,
+  "pack": {
+    "id": "kenney-mini-arcade",
+    "name": "Kenney Mini Arcade",
+    "description": "Bright, toy-like low-poly 3D mini arcade interior kit with arcade cabinets, prize machines, ticket machines, sports cabinets, walls, checkout props, and arcade characters from Kenney.",
+    "creator": "Kenney",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://kenney.nl/assets/mini-arcade",
+    "publicBaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-arcade-0cfad8169d4a",
+    "tags": [
+      "3d",
+      "kenney",
+      "mini",
+      "arcade",
+      "interior",
+      "game-room",
+      "shop",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy"
+    ],
+    "generatedAt": "2026-04-24T10:20:46.419Z",
+    "assetCount": 20,
+    "discoveredCount": 20,
+    "failedCount": 0,
+    "sourceRoot": "/Users/me/dev/open-assets/packs/kenney_mini-arcade/Models/GLB format"
+  },
+  "assets": [
+    {
+      "id": "kenney-mini-arcade-air-hockey",
+      "name": "Air Hockey",
+      "description": "Mini arcade air hockey table model (Air Hockey).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "air-hockey.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arcade/kenney-mini-arcade-air-hockey/kenney-mini-arcade-air-hockey.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-arcade",
+      "primaryBytes": 42052,
+      "totalBytes": 50758,
+      "primarySha256": "b69b39ff7ebdd1da885b704252f4fc185689d97d1c601576bb94b0a00ba7215e",
+      "bundleSha256": "dd8be808e6f5464a52776d39222417e4a4bd37a90b717af7b497d58efd393f51",
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.35
+        ],
+        "max": [
+          0.5,
+          0.5,
+          0.35
+        ],
+        "size": [
+          1,
+          0.5,
+          0.7
+        ],
+        "center": [
+          0,
+          0.25,
+          0
+        ],
+        "diagonal": 1.319091
+      },
+      "triangleCount": 438,
+      "drawCallCount": 4,
+      "renderVertexCount": 1314,
+      "uploadVertexCount": 716,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "arcade",
+        "interior",
+        "game-room",
+        "shop",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "air-hockey",
+        "game",
+        "table"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "air",
+        "arcade",
+        "basketball",
+        "bright",
+        "cash",
+        "characters",
+        "claw",
+        "colorful",
+        "dance",
+        "game",
+        "hockey",
+        "interior",
+        "kenney",
+        "machine",
+        "mini",
+        "pinball",
+        "poly",
+        "prize",
+        "register",
+        "room",
+        "shop",
+        "stylized",
+        "table",
+        "ticket",
+        "toy",
+        "vending"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-arcade/kenney-mini-arcade-air-hockey.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 9658,
+        "sha256": "869999864c3b95084f02565f51e26b58ecd1fb7675977c4820778f9444d0b0ab",
+        "transparent": true,
+        "sourceBundleSha256": "dd8be808e6f5464a52776d39222417e4a4bd37a90b717af7b497d58efd393f51",
+        "cacheKey": "ce4b9a60c18f166893a2785f0df889a7f9bf890304b482984a693c1eb2f2cadb",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 2.502974,
+          "pan": [
+            0.045448,
+            -0.086127,
+            0.016563
+          ],
+          "alphaBounds": {
+            "x": 73,
+            "y": 121,
+            "width": 367,
+            "height": 270,
+            "fill": 0.716797,
+            "centerOffset": {
+              "x": 0.5,
+              "y": 0,
+              "length": 0.5
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arcade/kenney-mini-arcade-air-hockey.webp",
+        "packRelativePath": "previews/kenney-mini-arcade-air-hockey.webp"
+      },
+      "packId": "kenney-mini-arcade",
+      "publicPath": "assets/kenney-mini-arcade/kenney-mini-arcade-air-hockey/kenney-mini-arcade-air-hockey.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-arcade-0cfad8169d4a/kenney-mini-arcade-air-hockey.glb"
+    },
+    {
+      "id": "kenney-mini-arcade-arcade-machine",
+      "name": "Arcade Machine",
+      "description": "Mini arcade machine model (Arcade Machine).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "arcade-machine.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arcade/kenney-mini-arcade-arcade-machine/kenney-mini-arcade-arcade-machine.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-arcade",
+      "primaryBytes": 38896,
+      "totalBytes": 47602,
+      "primarySha256": "90e346f68873daae2b4ce6e8e48f9f85486d537c07527b0516191b8f6eda787b",
+      "bundleSha256": "80f25056c0bc5cea43845f0dfa23e30b5c6de49c23bbbec66d80e81c573d95fe",
+      "bounds": {
+        "min": [
+          -0.2,
+          0,
+          -0.24375
+        ],
+        "max": [
+          0.2,
+          0.725,
+          0.29375
+        ],
+        "size": [
+          0.4,
+          0.725,
+          0.5375
+        ],
+        "center": [
+          0,
+          0.3625,
+          0.025
+        ],
+        "diagonal": 0.987183
+      },
+      "triangleCount": 392,
+      "drawCallCount": 1,
+      "renderVertexCount": 1176,
+      "uploadVertexCount": 724,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "arcade",
+        "interior",
+        "game-room",
+        "shop",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "cabinet",
+        "game",
+        "machine",
+        "prop"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "air",
+        "arcade",
+        "basketball",
+        "bright",
+        "cabinet",
+        "cash",
+        "characters",
+        "claw",
+        "colorful",
+        "dance",
+        "game",
+        "hockey",
+        "interior",
+        "kenney",
+        "machine",
+        "mini",
+        "pinball",
+        "poly",
+        "prize",
+        "prop",
+        "register",
+        "room",
+        "shop",
+        "stylized",
+        "ticket",
+        "toy",
+        "vending"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-arcade/kenney-mini-arcade-arcade-machine.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 8556,
+        "sha256": "6c9064d6f05a9dbcbae496ddae46682d3f27b656af4a84d1520f8c6ddc8efd7c",
+        "transparent": true,
+        "sourceBundleSha256": "80f25056c0bc5cea43845f0dfa23e30b5c6de49c23bbbec66d80e81c573d95fe",
+        "cacheKey": "c0800098ae5cc4f58d6d263bfdaee1bd7ce1f67188bd46b8cb46c036840b2fe6",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.856759,
+          "pan": [
+            0.016815,
+            -0.029812,
+            0.00465
+          ],
+          "alphaBounds": {
+            "x": 114,
+            "y": 71,
+            "width": 283,
+            "height": 368,
+            "fill": 0.71875,
+            "centerOffset": {
+              "x": -0.5,
+              "y": -1,
+              "length": 1.118034
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arcade/kenney-mini-arcade-arcade-machine.webp",
+        "packRelativePath": "previews/kenney-mini-arcade-arcade-machine.webp"
+      },
+      "packId": "kenney-mini-arcade",
+      "publicPath": "assets/kenney-mini-arcade/kenney-mini-arcade-arcade-machine/kenney-mini-arcade-arcade-machine.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-arcade-0cfad8169d4a/kenney-mini-arcade-arcade-machine.glb"
+    },
+    {
+      "id": "kenney-mini-arcade-basketball-game",
+      "name": "Basketball Game",
+      "description": "Mini arcade basketball game model (Basketball Game).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "basketball-game.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arcade/kenney-mini-arcade-basketball-game/kenney-mini-arcade-basketball-game.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-arcade",
+      "primaryBytes": 49532,
+      "totalBytes": 58238,
+      "primarySha256": "37ea452e319ec7be854b103952af2b4a9c588303fd988aec24c571b50ccd6aef",
+      "bundleSha256": "6c055903942d7974c6ca6a5a426634ee9d35bc171ede283d02da4db3376260c4",
+      "bounds": {
+        "min": [
+          -0.325,
+          0,
+          -0.5
+        ],
+        "max": [
+          0.325,
+          0.8,
+          0.5125
+        ],
+        "size": [
+          0.65,
+          0.8,
+          1.0125
+        ],
+        "center": [
+          0,
+          0.4,
+          0.00625
+        ],
+        "diagonal": 1.444872
+      },
+      "triangleCount": 526,
+      "drawCallCount": 2,
+      "renderVertexCount": 1578,
+      "uploadVertexCount": 910,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "arcade",
+        "interior",
+        "game-room",
+        "shop",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "basketball",
+        "game",
+        "sports"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "air",
+        "arcade",
+        "basketball",
+        "bright",
+        "cash",
+        "characters",
+        "claw",
+        "colorful",
+        "dance",
+        "game",
+        "hockey",
+        "interior",
+        "kenney",
+        "machine",
+        "mini",
+        "pinball",
+        "poly",
+        "prize",
+        "register",
+        "room",
+        "shop",
+        "sports",
+        "stylized",
+        "ticket",
+        "toy",
+        "vending"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-arcade/kenney-mini-arcade-basketball-game.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 12964,
+        "sha256": "0392b4261a908ccb9de25f437056b2584cefdcd4f575376194fcb8ffed71f141",
+        "transparent": true,
+        "sourceBundleSha256": "6c055903942d7974c6ca6a5a426634ee9d35bc171ede283d02da4db3376260c4",
+        "cacheKey": "416b1d99e1f914f91205606be46328091db356fa0b3b66eec7b391e33516aab2",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 2.587181,
+          "pan": [
+            0.036624,
+            -0.051918,
+            0.000757
+          ],
+          "alphaBounds": {
+            "x": 89,
+            "y": 74,
+            "width": 334,
+            "height": 364,
+            "fill": 0.710938,
+            "centerOffset": {
+              "x": 0,
+              "y": 0,
+              "length": 0
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arcade/kenney-mini-arcade-basketball-game.webp",
+        "packRelativePath": "previews/kenney-mini-arcade-basketball-game.webp"
+      },
+      "packId": "kenney-mini-arcade",
+      "publicPath": "assets/kenney-mini-arcade/kenney-mini-arcade-basketball-game/kenney-mini-arcade-basketball-game.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-arcade-0cfad8169d4a/kenney-mini-arcade-basketball-game.glb"
+    },
+    {
+      "id": "kenney-mini-arcade-cash-register",
+      "name": "Cash Register",
+      "description": null,
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "cash-register.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arcade/kenney-mini-arcade-cash-register/kenney-mini-arcade-cash-register.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-arcade",
+      "primaryBytes": 25124,
+      "totalBytes": 33830,
+      "primarySha256": "51d57ddbc623921a54782c40add49664072b192d66b0fa7c16f18f0fb0185c8f",
+      "bundleSha256": "7195cc1796fc401ecec698c233dfa0dc9000cd561e812f5d8af0fd37d4d937fa",
+      "bounds": {
+        "min": [
+          -0.45,
+          0,
+          -0.25
+        ],
+        "max": [
+          0.45,
+          0.5449,
+          0.25
+        ],
+        "size": [
+          0.9,
+          0.5449,
+          0.5
+        ],
+        "center": [
+          0,
+          0.27245,
+          0
+        ],
+        "diagonal": 1.164867
+      },
+      "triangleCount": 262,
+      "drawCallCount": 1,
+      "renderVertexCount": 786,
+      "uploadVertexCount": 454,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "arcade",
+        "interior",
+        "game-room",
+        "shop",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "air",
+        "arcade",
+        "basketball",
+        "bright",
+        "cash",
+        "characters",
+        "claw",
+        "colorful",
+        "dance",
+        "game",
+        "hockey",
+        "interior",
+        "kenney",
+        "machine",
+        "mini",
+        "pinball",
+        "poly",
+        "prize",
+        "register",
+        "room",
+        "shop",
+        "stylized",
+        "ticket",
+        "toy",
+        "vending"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-arcade/kenney-mini-arcade-cash-register.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 9742,
+        "sha256": "d4a0216c0ce75aa43d72d2c34558b0a7041a4ec13b63867e5b27b3300c6588ff",
+        "transparent": true,
+        "sourceBundleSha256": "7195cc1796fc401ecec698c233dfa0dc9000cd561e812f5d8af0fd37d4d937fa",
+        "cacheKey": "be082008b38506005cf49ae008b49119d519eb94a9cea08be380fc56a6582150",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 2.017478,
+          "pan": [
+            0.055465,
+            -0.098137,
+            0.015193
+          ],
+          "alphaBounds": {
+            "x": 72,
+            "y": 112,
+            "width": 368,
+            "height": 288,
+            "fill": 0.71875,
+            "centerOffset": {
+              "x": 0,
+              "y": 0,
+              "length": 0
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arcade/kenney-mini-arcade-cash-register.webp",
+        "packRelativePath": "previews/kenney-mini-arcade-cash-register.webp"
+      },
+      "packId": "kenney-mini-arcade",
+      "publicPath": "assets/kenney-mini-arcade/kenney-mini-arcade-cash-register/kenney-mini-arcade-cash-register.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-arcade-0cfad8169d4a/kenney-mini-arcade-cash-register.glb"
+    },
+    {
+      "id": "kenney-mini-arcade-character-employee",
+      "name": "Character Employee",
+      "description": "Mini arcade character model (Character Employee).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "character-employee.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arcade/kenney-mini-arcade-character-employee/kenney-mini-arcade-character-employee.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-arcade",
+      "primaryBytes": 216500,
+      "totalBytes": 225206,
+      "primarySha256": "f9b627a6fe1b7ce12f67c05c8e045967ec278b543816804e44686a1b669b9871",
+      "bundleSha256": "963e5507af762e32ab75d218b6d183e896954deea081befb86d80a23e048ba63",
+      "bounds": {
+        "min": [
+          -0.390282,
+          0,
+          -0.210883
+        ],
+        "max": [
+          0.390282,
+          0.723353,
+          0.190489
+        ],
+        "size": [
+          0.780564,
+          0.723353,
+          0.401372
+        ],
+        "center": [
+          0,
+          0.361677,
+          -0.010197
+        ],
+        "diagonal": 1.137374
+      },
+      "triangleCount": 524,
+      "drawCallCount": 2,
+      "renderVertexCount": 1572,
+      "uploadVertexCount": 898,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 32,
+      "skinCount": 2,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "arcade",
+        "interior",
+        "game-room",
+        "shop",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "character",
+        "npc",
+        "employee"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "air",
+        "arcade",
+        "basketball",
+        "bright",
+        "cash",
+        "character",
+        "characters",
+        "claw",
+        "colorful",
+        "dance",
+        "employee",
+        "game",
+        "hockey",
+        "interior",
+        "kenney",
+        "machine",
+        "mini",
+        "npc",
+        "pinball",
+        "poly",
+        "prize",
+        "register",
+        "room",
+        "shop",
+        "stylized",
+        "ticket",
+        "toy",
+        "vending"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-arcade/kenney-mini-arcade-character-employee.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 10770,
+        "sha256": "69841f0604f44b917adf7c411d089cf31834fabc398a825b3e72bcb3c585d3f1",
+        "transparent": true,
+        "sourceBundleSha256": "963e5507af762e32ab75d218b6d183e896954deea081befb86d80a23e048ba63",
+        "cacheKey": "548febca40943901e61a0367debc5cfa9f7e5be892afdcd87ea6518e43bdf490",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.78601,
+          "pan": [
+            -0.000593,
+            0.003668,
+            -0.002048
+          ],
+          "alphaBounds": {
+            "x": 117,
+            "y": 72,
+            "width": 276,
+            "height": 368,
+            "fill": 0.71875,
+            "centerOffset": {
+              "x": -1,
+              "y": 0,
+              "length": 1
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arcade/kenney-mini-arcade-character-employee.webp",
+        "packRelativePath": "previews/kenney-mini-arcade-character-employee.webp"
+      },
+      "packId": "kenney-mini-arcade",
+      "publicPath": "assets/kenney-mini-arcade/kenney-mini-arcade-character-employee/kenney-mini-arcade-character-employee.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-arcade-0cfad8169d4a/kenney-mini-arcade-character-employee.glb"
+    },
+    {
+      "id": "kenney-mini-arcade-character-gamer",
+      "name": "Character Gamer",
+      "description": "Mini arcade character model (Character Gamer).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "character-gamer.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arcade/kenney-mini-arcade-character-gamer/kenney-mini-arcade-character-gamer.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-arcade",
+      "primaryBytes": 211864,
+      "totalBytes": 220570,
+      "primarySha256": "7709431fc39cb60dffe81e3e047e7f1dbaae4a5b13019d3230c7759ad50612d5",
+      "bundleSha256": "eec83fc23c157fc1611ca4137989fd5751f650e38f57afe1276757fe9f0bd9d4",
+      "bounds": {
+        "min": [
+          -0.390282,
+          0,
+          -0.244861
+        ],
+        "max": [
+          0.390282,
+          0.773273,
+          0.274087
+        ],
+        "size": [
+          0.780564,
+          0.773273,
+          0.518949
+        ],
+        "center": [
+          0,
+          0.386636,
+          0.014613
+        ],
+        "diagonal": 1.215129
+      },
+      "triangleCount": 477,
+      "drawCallCount": 2,
+      "renderVertexCount": 1431,
+      "uploadVertexCount": 844,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 32,
+      "skinCount": 2,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "arcade",
+        "interior",
+        "game-room",
+        "shop",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "character",
+        "npc",
+        "employee"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "air",
+        "arcade",
+        "basketball",
+        "bright",
+        "cash",
+        "character",
+        "characters",
+        "claw",
+        "colorful",
+        "dance",
+        "employee",
+        "game",
+        "gamer",
+        "hockey",
+        "interior",
+        "kenney",
+        "machine",
+        "mini",
+        "npc",
+        "pinball",
+        "poly",
+        "prize",
+        "register",
+        "room",
+        "shop",
+        "stylized",
+        "ticket",
+        "toy",
+        "vending"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-arcade/kenney-mini-arcade-character-gamer.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 10292,
+        "sha256": "01cc3170b83b58c037c76598cea3c78ba2f51a1b6ea849790a29aeca04379f4a",
+        "transparent": true,
+        "sourceBundleSha256": "eec83fc23c157fc1611ca4137989fd5751f650e38f57afe1276757fe9f0bd9d4",
+        "cacheKey": "e122ce3e67a280ec524eb26a6205f4d34d5eb83d8fbaa3d5fad972b67704ec0c",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.776944,
+          "pan": [
+            0.005619,
+            -0.005502,
+            -0.001657
+          ],
+          "alphaBounds": {
+            "x": 113,
+            "y": 72,
+            "width": 286,
+            "height": 368,
+            "fill": 0.71875,
+            "centerOffset": {
+              "x": 0,
+              "y": 0,
+              "length": 0
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arcade/kenney-mini-arcade-character-gamer.webp",
+        "packRelativePath": "previews/kenney-mini-arcade-character-gamer.webp"
+      },
+      "packId": "kenney-mini-arcade",
+      "publicPath": "assets/kenney-mini-arcade/kenney-mini-arcade-character-gamer/kenney-mini-arcade-character-gamer.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-arcade-0cfad8169d4a/kenney-mini-arcade-character-gamer.glb"
+    },
+    {
+      "id": "kenney-mini-arcade-claw-machine",
+      "name": "Claw Machine",
+      "description": "Mini arcade machine model (Claw Machine).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "claw-machine.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arcade/kenney-mini-arcade-claw-machine/kenney-mini-arcade-claw-machine.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-arcade",
+      "primaryBytes": 72932,
+      "totalBytes": 81638,
+      "primarySha256": "7639b404b51c8f6bcc6656fc3204da8ea668173eb5dea60c04f57a63ffa455a0",
+      "bundleSha256": "e7a59af15441982e6bbfe34165ab335842245a27b68e97ff731610ae34b704b3",
+      "bounds": {
+        "min": [
+          -0.3265,
+          0,
+          -0.346593
+        ],
+        "max": [
+          0.3265,
+          0.95,
+          0.346593
+        ],
+        "size": [
+          0.653,
+          0.95,
+          0.693185
+        ],
+        "center": [
+          0,
+          0.475,
+          0
+        ],
+        "diagonal": 1.345145
+      },
+      "triangleCount": 730,
+      "drawCallCount": 3,
+      "renderVertexCount": 2190,
+      "uploadVertexCount": 1304,
+      "materialCount": 2,
+      "textureCount": 1,
+      "animationCount": 1,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "arcade",
+        "interior",
+        "game-room",
+        "shop",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "machine",
+        "game",
+        "prop"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "air",
+        "arcade",
+        "basketball",
+        "bright",
+        "cash",
+        "characters",
+        "claw",
+        "colorful",
+        "dance",
+        "game",
+        "hockey",
+        "interior",
+        "kenney",
+        "machine",
+        "mini",
+        "pinball",
+        "poly",
+        "prize",
+        "prop",
+        "register",
+        "room",
+        "shop",
+        "stylized",
+        "ticket",
+        "toy",
+        "vending"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-arcade/kenney-mini-arcade-claw-machine.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 10418,
+        "sha256": "10e3efcb0032c7fe45938b38279611833832c6600e02ebae3ff9e8eb499af6c9",
+        "transparent": true,
+        "sourceBundleSha256": "e7a59af15441982e6bbfe34165ab335842245a27b68e97ff731610ae34b704b3",
+        "cacheKey": "f6778807f6ec8845d16b177c50d87bceb78399c4207ada4c05daab412f7d2718",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 2.488165,
+          "pan": [
+            0.02451,
+            -0.068083,
+            0.02451
+          ],
+          "alphaBounds": {
+            "x": 107,
+            "y": 73,
+            "width": 298,
+            "height": 367,
+            "fill": 0.716797,
+            "centerOffset": {
+              "x": 0,
+              "y": 0.5,
+              "length": 0.5
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arcade/kenney-mini-arcade-claw-machine.webp",
+        "packRelativePath": "previews/kenney-mini-arcade-claw-machine.webp"
+      },
+      "packId": "kenney-mini-arcade",
+      "publicPath": "assets/kenney-mini-arcade/kenney-mini-arcade-claw-machine/kenney-mini-arcade-claw-machine.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-arcade-0cfad8169d4a/kenney-mini-arcade-claw-machine.glb"
+    },
+    {
+      "id": "kenney-mini-arcade-column",
+      "name": "Column",
+      "description": null,
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "column.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arcade/kenney-mini-arcade-column/kenney-mini-arcade-column.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-arcade",
+      "primaryBytes": 19004,
+      "totalBytes": 27710,
+      "primarySha256": "df70ed16fff6d9d353e786677ea144e79bfa7172c7e695f6d31015ecfb712513",
+      "bundleSha256": "f9246f596fb2c6dd12b30feaf241bcdc4cb62e3983de07a490ca7b6aaa5b5fdc",
+      "bounds": {
+        "min": [
+          -0.362893,
+          0,
+          -0.362893
+        ],
+        "max": [
+          0.362893,
+          1,
+          0.362893
+        ],
+        "size": [
+          0.725785,
+          1,
+          0.725785
+        ],
+        "center": [
+          0,
+          0.5,
+          0
+        ],
+        "diagonal": 1.433014
+      },
+      "triangleCount": 188,
+      "drawCallCount": 1,
+      "renderVertexCount": 564,
+      "uploadVertexCount": 336,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "arcade",
+        "interior",
+        "game-room",
+        "shop",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "air",
+        "arcade",
+        "basketball",
+        "bright",
+        "cash",
+        "characters",
+        "claw",
+        "colorful",
+        "column",
+        "dance",
+        "game",
+        "hockey",
+        "interior",
+        "kenney",
+        "machine",
+        "mini",
+        "pinball",
+        "poly",
+        "prize",
+        "register",
+        "room",
+        "shop",
+        "stylized",
+        "ticket",
+        "toy",
+        "vending"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-arcade/kenney-mini-arcade-column.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 5744,
+        "sha256": "2e3b70781bcc402afbe7b7af4fc2864f1216b2b961900a9a04764184c1d9c9e1",
+        "transparent": true,
+        "sourceBundleSha256": "f9246f596fb2c6dd12b30feaf241bcdc4cb62e3983de07a490ca7b6aaa5b5fdc",
+        "cacheKey": "24b7b293b2ff9fee1e9ac635c76c686c1d267beeff8eb1bba8a950ade93f0994",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 2.561047,
+          "pan": [
+            0,
+            0,
+            0
+          ],
+          "alphaBounds": {
+            "x": 129,
+            "y": 70,
+            "width": 254,
+            "height": 370,
+            "fill": 0.722656,
+            "centerOffset": {
+              "x": 0,
+              "y": -1,
+              "length": 1
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arcade/kenney-mini-arcade-column.webp",
+        "packRelativePath": "previews/kenney-mini-arcade-column.webp"
+      },
+      "packId": "kenney-mini-arcade",
+      "publicPath": "assets/kenney-mini-arcade/kenney-mini-arcade-column/kenney-mini-arcade-column.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-arcade-0cfad8169d4a/kenney-mini-arcade-column.glb"
+    },
+    {
+      "id": "kenney-mini-arcade-dance-machine",
+      "name": "Dance Machine",
+      "description": "Mini arcade machine model (Dance Machine).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "dance-machine.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arcade/kenney-mini-arcade-dance-machine/kenney-mini-arcade-dance-machine.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-arcade",
+      "primaryBytes": 62536,
+      "totalBytes": 71242,
+      "primarySha256": "6e95079a00b096b2201c00e7b5fa0284fd68a3f3512f5c6823025189e4b15eec",
+      "bundleSha256": "3282293bfd32444555397f1f0440061e41bfea03287b3dd040dfeaabad01ebdf",
+      "bounds": {
+        "min": [
+          -0.361603,
+          0,
+          -0.5125
+        ],
+        "max": [
+          0.361603,
+          0.95,
+          0.5125
+        ],
+        "size": [
+          0.723205,
+          0.95,
+          1.025
+        ],
+        "center": [
+          0,
+          0.475,
+          0
+        ],
+        "diagonal": 1.573579
+      },
+      "triangleCount": 654,
+      "drawCallCount": 2,
+      "renderVertexCount": 1962,
+      "uploadVertexCount": 1158,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "arcade",
+        "interior",
+        "game-room",
+        "shop",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "machine",
+        "game",
+        "prop"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "air",
+        "arcade",
+        "basketball",
+        "bright",
+        "cash",
+        "characters",
+        "claw",
+        "colorful",
+        "dance",
+        "game",
+        "hockey",
+        "interior",
+        "kenney",
+        "machine",
+        "mini",
+        "pinball",
+        "poly",
+        "prize",
+        "prop",
+        "register",
+        "room",
+        "shop",
+        "stylized",
+        "ticket",
+        "toy",
+        "vending"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-arcade/kenney-mini-arcade-dance-machine.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 11608,
+        "sha256": "4f345395b739ffcdefff20c065d51134a089b33d8948bef96c836568b88ecdbc",
+        "transparent": true,
+        "sourceBundleSha256": "3282293bfd32444555397f1f0440061e41bfea03287b3dd040dfeaabad01ebdf",
+        "cacheKey": "92622eeba8f14bd161395e707c41672c1d1052777f7d8ec1a498b9bfd14cc5b0",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 2.785792,
+          "pan": [
+            0.051999,
+            -0.062159,
+            -0.007244
+          ],
+          "alphaBounds": {
+            "x": 94,
+            "y": 67,
+            "width": 324,
+            "height": 378,
+            "fill": 0.738281,
+            "centerOffset": {
+              "x": 0,
+              "y": 0,
+              "length": 0
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arcade/kenney-mini-arcade-dance-machine.webp",
+        "packRelativePath": "previews/kenney-mini-arcade-dance-machine.webp"
+      },
+      "packId": "kenney-mini-arcade",
+      "publicPath": "assets/kenney-mini-arcade/kenney-mini-arcade-dance-machine/kenney-mini-arcade-dance-machine.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-arcade-0cfad8169d4a/kenney-mini-arcade-dance-machine.glb"
+    },
+    {
+      "id": "kenney-mini-arcade-floor",
+      "name": "Floor",
+      "description": "Mini arcade floor model (Floor).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "floor.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arcade/kenney-mini-arcade-floor/kenney-mini-arcade-floor.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-arcade",
+      "primaryBytes": 3928,
+      "totalBytes": 12634,
+      "primarySha256": "bc95d67ef3e2242478eb3518a02f542b22d699fff83c9a98302b826b336e551b",
+      "bundleSha256": "7ced4b782c89dd29b46b4110ceae72d4c0c9a39713d0ade68a178419ed4a26a0",
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0.025,
+          0.5
+        ],
+        "size": [
+          1,
+          0.025,
+          1
+        ],
+        "center": [
+          0,
+          0.0125,
+          0
+        ],
+        "diagonal": 1.414435
+      },
+      "triangleCount": 24,
+      "drawCallCount": 1,
+      "renderVertexCount": 72,
+      "uploadVertexCount": 46,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "arcade",
+        "interior",
+        "game-room",
+        "shop",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "floor",
+        "tile"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "air",
+        "arcade",
+        "basketball",
+        "bright",
+        "cash",
+        "characters",
+        "claw",
+        "colorful",
+        "dance",
+        "floor",
+        "game",
+        "hockey",
+        "interior",
+        "kenney",
+        "machine",
+        "mini",
+        "pinball",
+        "poly",
+        "prize",
+        "register",
+        "room",
+        "shop",
+        "stylized",
+        "ticket",
+        "tile",
+        "toy",
+        "vending"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-arcade/kenney-mini-arcade-floor.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 4380,
+        "sha256": "4a46ea109a8cabb41c188e65365468b24f0cf5c706ba1688e4b70c983866738b",
+        "transparent": true,
+        "sourceBundleSha256": "7ced4b782c89dd29b46b4110ceae72d4c0c9a39713d0ade68a178419ed4a26a0",
+        "cacheKey": "8294e6147cf53421d8beea6079fff1f02ea1ca350c9925cf8eeff40ab91af0cc",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 3.107172,
+          "pan": [
+            0.02355,
+            -0.065416,
+            0.02355
+          ],
+          "alphaBounds": {
+            "x": 72,
+            "y": 168,
+            "width": 368,
+            "height": 173,
+            "fill": 0.71875,
+            "centerOffset": {
+              "x": 0,
+              "y": -1.5,
+              "length": 1.5
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arcade/kenney-mini-arcade-floor.webp",
+        "packRelativePath": "previews/kenney-mini-arcade-floor.webp"
+      },
+      "packId": "kenney-mini-arcade",
+      "publicPath": "assets/kenney-mini-arcade/kenney-mini-arcade-floor/kenney-mini-arcade-floor.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-arcade-0cfad8169d4a/kenney-mini-arcade-floor.glb"
+    },
+    {
+      "id": "kenney-mini-arcade-gambling-machine",
+      "name": "Gambling Machine",
+      "description": "Mini arcade machine model (Gambling Machine).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "gambling-machine.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arcade/kenney-mini-arcade-gambling-machine/kenney-mini-arcade-gambling-machine.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-arcade",
+      "primaryBytes": 55048,
+      "totalBytes": 63754,
+      "primarySha256": "732737877fa312ab9523f290aae80ac4f345552096bf407779d0c6d4a60665ea",
+      "bundleSha256": "3e67c18ba54cf0fb1fa2349280a9f33468534d9414aeb6960c89d98ac2deb04e",
+      "bounds": {
+        "min": [
+          -0.225,
+          0,
+          -0.24375
+        ],
+        "max": [
+          0.2995,
+          0.775882,
+          0.24375
+        ],
+        "size": [
+          0.5245,
+          0.775882,
+          0.4875
+        ],
+        "center": [
+          0.03725,
+          0.387941,
+          0
+        ],
+        "diagonal": 1.055817
+      },
+      "triangleCount": 626,
+      "drawCallCount": 1,
+      "renderVertexCount": 1878,
+      "uploadVertexCount": 1031,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "arcade",
+        "interior",
+        "game-room",
+        "shop",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "machine",
+        "game",
+        "prop"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "air",
+        "arcade",
+        "basketball",
+        "bright",
+        "cash",
+        "characters",
+        "claw",
+        "colorful",
+        "dance",
+        "gambling",
+        "game",
+        "hockey",
+        "interior",
+        "kenney",
+        "machine",
+        "mini",
+        "pinball",
+        "poly",
+        "prize",
+        "prop",
+        "register",
+        "room",
+        "shop",
+        "stylized",
+        "ticket",
+        "toy",
+        "vending"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-arcade/kenney-mini-arcade-gambling-machine.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 10132,
+        "sha256": "2191460e39a72fda2666775e9d4082e16dab7e3d56acbea83764a2d85c885a72",
+        "transparent": true,
+        "sourceBundleSha256": "3e67c18ba54cf0fb1fa2349280a9f33468534d9414aeb6960c89d98ac2deb04e",
+        "cacheKey": "69bce6366524141e3270a3fb2ea2d34a638b5251bbe9a3e04cc2acf619fc562d",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.838378,
+          "pan": [
+            -0.010528,
+            -0.010939,
+            0.018404
+          ],
+          "alphaBounds": {
+            "x": 125,
+            "y": 71,
+            "width": 262,
+            "height": 370,
+            "fill": 0.722656,
+            "centerOffset": {
+              "x": 0,
+              "y": 0,
+              "length": 0
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arcade/kenney-mini-arcade-gambling-machine.webp",
+        "packRelativePath": "previews/kenney-mini-arcade-gambling-machine.webp"
+      },
+      "packId": "kenney-mini-arcade",
+      "publicPath": "assets/kenney-mini-arcade/kenney-mini-arcade-gambling-machine/kenney-mini-arcade-gambling-machine.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-arcade-0cfad8169d4a/kenney-mini-arcade-gambling-machine.glb"
+    },
+    {
+      "id": "kenney-mini-arcade-pinball",
+      "name": "Pinball",
+      "description": "Mini arcade pinball model (Pinball).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "pinball.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arcade/kenney-mini-arcade-pinball/kenney-mini-arcade-pinball.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-arcade",
+      "primaryBytes": 58828,
+      "totalBytes": 67534,
+      "primarySha256": "2193f7630f83cc6ad5f5447b10a1a2c22fad65d279f39acb8c718d35b58d7578",
+      "bundleSha256": "81a8f48f0e61e3b96b6d300000b5c4131091a8fb1b0cf8ac15f707970d757b39",
+      "bounds": {
+        "min": [
+          -0.25,
+          0,
+          -0.325
+        ],
+        "max": [
+          0.25,
+          0.741667,
+          0.425
+        ],
+        "size": [
+          0.5,
+          0.741667,
+          0.75
+        ],
+        "center": [
+          0,
+          0.370833,
+          0.05
+        ],
+        "diagonal": 1.167292
+      },
+      "triangleCount": 592,
+      "drawCallCount": 2,
+      "renderVertexCount": 1776,
+      "uploadVertexCount": 1084,
+      "materialCount": 2,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "arcade",
+        "interior",
+        "game-room",
+        "shop",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "pinball",
+        "game",
+        "machine"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "air",
+        "arcade",
+        "basketball",
+        "bright",
+        "cash",
+        "characters",
+        "claw",
+        "colorful",
+        "dance",
+        "game",
+        "hockey",
+        "interior",
+        "kenney",
+        "machine",
+        "mini",
+        "pinball",
+        "poly",
+        "prize",
+        "register",
+        "room",
+        "shop",
+        "stylized",
+        "ticket",
+        "toy",
+        "vending"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-arcade/kenney-mini-arcade-pinball.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 9668,
+        "sha256": "4439e353168cdea2ddfeb1b1f277eb58799c595f5dd009d9bd5c539edecd9103",
+        "transparent": true,
+        "sourceBundleSha256": "81a8f48f0e61e3b96b6d300000b5c4131091a8fb1b0cf8ac15f707970d757b39",
+        "cacheKey": "2300bb1a7074dda63d592e81be684034ff6db799cb6deab146dcea884313c946",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 2.055193,
+          "pan": [
+            0.049824,
+            -0.007966,
+            -0.044088
+          ],
+          "alphaBounds": {
+            "x": 101,
+            "y": 65,
+            "width": 310,
+            "height": 382,
+            "fill": 0.746094,
+            "centerOffset": {
+              "x": 0,
+              "y": 0,
+              "length": 0
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arcade/kenney-mini-arcade-pinball.webp",
+        "packRelativePath": "previews/kenney-mini-arcade-pinball.webp"
+      },
+      "packId": "kenney-mini-arcade",
+      "publicPath": "assets/kenney-mini-arcade/kenney-mini-arcade-pinball/kenney-mini-arcade-pinball.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-arcade-0cfad8169d4a/kenney-mini-arcade-pinball.glb"
+    },
+    {
+      "id": "kenney-mini-arcade-prize-wheel",
+      "name": "Prize Wheel",
+      "description": "Mini arcade prize model (Prize Wheel).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "prize-wheel.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arcade/kenney-mini-arcade-prize-wheel/kenney-mini-arcade-prize-wheel.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-arcade",
+      "primaryBytes": 22556,
+      "totalBytes": 31262,
+      "primarySha256": "48d50607e4529d2dab1fc35b52d0996d53838f6915421222042068855f45a662",
+      "bundleSha256": "bd13438627e7e7f69b70633536c5e5ec44c302a76e587627fb64e1b7360b95b2",
+      "bounds": {
+        "min": [
+          -0.3,
+          0,
+          -0.15
+        ],
+        "max": [
+          0.3,
+          0.85,
+          0.1515
+        ],
+        "size": [
+          0.6,
+          0.85,
+          0.3015
+        ],
+        "center": [
+          0,
+          0.425,
+          0.00075
+        ],
+        "diagonal": 1.083237
+      },
+      "triangleCount": 224,
+      "drawCallCount": 2,
+      "renderVertexCount": 672,
+      "uploadVertexCount": 370,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 1,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "arcade",
+        "interior",
+        "game-room",
+        "shop",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "prize",
+        "reward",
+        "prop"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "air",
+        "arcade",
+        "basketball",
+        "bright",
+        "cash",
+        "characters",
+        "claw",
+        "colorful",
+        "dance",
+        "game",
+        "hockey",
+        "interior",
+        "kenney",
+        "machine",
+        "mini",
+        "pinball",
+        "poly",
+        "prize",
+        "prop",
+        "register",
+        "reward",
+        "room",
+        "shop",
+        "stylized",
+        "ticket",
+        "toy",
+        "vending",
+        "wheel"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-arcade/kenney-mini-arcade-prize-wheel.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 8286,
+        "sha256": "eb2c9a74dffa9a67be3bd4713bb2ab537ef834b60a9137aa558d798530b96c0d",
+        "transparent": true,
+        "sourceBundleSha256": "bd13438627e7e7f69b70633536c5e5ec44c302a76e587627fb64e1b7360b95b2",
+        "cacheKey": "00af7b99487a93d3bf1e74d8ee428e27e9a1d0bb9b70c0b48e5ecfe269294ba0",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.944886,
+          "pan": [
+            -0.010096,
+            -0.015978,
+            0.0216
+          ],
+          "alphaBounds": {
+            "x": 143,
+            "y": 72,
+            "width": 226,
+            "height": 369,
+            "fill": 0.720703,
+            "centerOffset": {
+              "x": 0,
+              "y": 0.5,
+              "length": 0.5
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arcade/kenney-mini-arcade-prize-wheel.webp",
+        "packRelativePath": "previews/kenney-mini-arcade-prize-wheel.webp"
+      },
+      "packId": "kenney-mini-arcade",
+      "publicPath": "assets/kenney-mini-arcade/kenney-mini-arcade-prize-wheel/kenney-mini-arcade-prize-wheel.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-arcade-0cfad8169d4a/kenney-mini-arcade-prize-wheel.glb"
+    },
+    {
+      "id": "kenney-mini-arcade-prizes",
+      "name": "Prizes",
+      "description": "Mini arcade prize model (Prizes).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "prizes.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arcade/kenney-mini-arcade-prizes/kenney-mini-arcade-prizes.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-arcade",
+      "primaryBytes": 42184,
+      "totalBytes": 50890,
+      "primarySha256": "30af871712b051cb348773ac5b212384d1888280c81a74d90ef73652e10bc322",
+      "bundleSha256": "1b044bf60d41b9dcc4602739c0f58314c30987275c3b37de778dd7f9dedcd25a",
+      "bounds": {
+        "min": [
+          -0.4,
+          0,
+          -0.2
+        ],
+        "max": [
+          0.4,
+          0.8,
+          0.2
+        ],
+        "size": [
+          0.8,
+          0.8,
+          0.4
+        ],
+        "center": [
+          0,
+          0.4,
+          0
+        ],
+        "diagonal": 1.2
+      },
+      "triangleCount": 464,
+      "drawCallCount": 1,
+      "renderVertexCount": 1392,
+      "uploadVertexCount": 784,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "arcade",
+        "interior",
+        "game-room",
+        "shop",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "prize",
+        "reward",
+        "prop"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "air",
+        "arcade",
+        "basketball",
+        "bright",
+        "cash",
+        "characters",
+        "claw",
+        "colorful",
+        "dance",
+        "game",
+        "hockey",
+        "interior",
+        "kenney",
+        "machine",
+        "mini",
+        "pinball",
+        "poly",
+        "prize",
+        "prizes",
+        "prop",
+        "register",
+        "reward",
+        "room",
+        "shop",
+        "stylized",
+        "ticket",
+        "toy",
+        "vending"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-arcade/kenney-mini-arcade-prizes.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 14000,
+        "sha256": "63135283651459d183c73a142e78c7b0f6ba59397dfba77ff870a79f20a1e58f",
+        "transparent": true,
+        "sourceBundleSha256": "1b044bf60d41b9dcc4602739c0f58314c30987275c3b37de778dd7f9dedcd25a",
+        "cacheKey": "1e8279171fe7c4f3e8f6907a569744e71aa5ab9ceca8775f833c8f27f7efbe3a",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 2.414377,
+          "pan": [
+            0.050534,
+            -0.043583,
+            -0.019153
+          ],
+          "alphaBounds": {
+            "x": 113,
+            "y": 73,
+            "width": 286,
+            "height": 366,
+            "fill": 0.714844,
+            "centerOffset": {
+              "x": 0,
+              "y": 0,
+              "length": 0
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arcade/kenney-mini-arcade-prizes.webp",
+        "packRelativePath": "previews/kenney-mini-arcade-prizes.webp"
+      },
+      "packId": "kenney-mini-arcade",
+      "publicPath": "assets/kenney-mini-arcade/kenney-mini-arcade-prizes/kenney-mini-arcade-prizes.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-arcade-0cfad8169d4a/kenney-mini-arcade-prizes.glb"
+    },
+    {
+      "id": "kenney-mini-arcade-ticket-machine",
+      "name": "Ticket Machine",
+      "description": "Mini arcade machine model (Ticket Machine).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "ticket-machine.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arcade/kenney-mini-arcade-ticket-machine/kenney-mini-arcade-ticket-machine.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-arcade",
+      "primaryBytes": 28432,
+      "totalBytes": 37138,
+      "primarySha256": "f3795c03bc37aeddc954a97d4f10cbaf80081152e5e21c98d101909d747d9cf0",
+      "bundleSha256": "32759c77db9418d8dc9ce8869527372d430bbbeecf316f11c66e07bbfdd6199f",
+      "bounds": {
+        "min": [
+          -0.2,
+          0,
+          -0.1625
+        ],
+        "max": [
+          0.2,
+          0.925,
+          0.233332
+        ],
+        "size": [
+          0.4,
+          0.925,
+          0.395832
+        ],
+        "center": [
+          0,
+          0.4625,
+          0.035416
+        ],
+        "diagonal": 1.082732
+      },
+      "triangleCount": 277,
+      "drawCallCount": 2,
+      "renderVertexCount": 831,
+      "uploadVertexCount": 465,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 1,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "arcade",
+        "interior",
+        "game-room",
+        "shop",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "machine",
+        "game",
+        "prop"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "air",
+        "arcade",
+        "basketball",
+        "bright",
+        "cash",
+        "characters",
+        "claw",
+        "colorful",
+        "dance",
+        "game",
+        "hockey",
+        "interior",
+        "kenney",
+        "machine",
+        "mini",
+        "pinball",
+        "poly",
+        "prize",
+        "prop",
+        "register",
+        "room",
+        "shop",
+        "stylized",
+        "ticket",
+        "toy",
+        "vending"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-arcade/kenney-mini-arcade-ticket-machine.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 7396,
+        "sha256": "10e6a073f3249101e69214c82bbecda212fa52119771ff832096624ac4319b8a",
+        "transparent": true,
+        "sourceBundleSha256": "32759c77db9418d8dc9ce8869527372d430bbbeecf316f11c66e07bbfdd6199f",
+        "cacheKey": "d3a3b36e6db93a66698242bbe488dfa43c689dfaf8a0e95a26a1d255adf86642",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 2.170212,
+          "pan": [
+            0.014659,
+            0,
+            -0.014659
+          ],
+          "alphaBounds": {
+            "x": 160,
+            "y": 73,
+            "width": 192,
+            "height": 368,
+            "fill": 0.71875,
+            "centerOffset": {
+              "x": 0,
+              "y": 1,
+              "length": 1
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arcade/kenney-mini-arcade-ticket-machine.webp",
+        "packRelativePath": "previews/kenney-mini-arcade-ticket-machine.webp"
+      },
+      "packId": "kenney-mini-arcade",
+      "publicPath": "assets/kenney-mini-arcade/kenney-mini-arcade-ticket-machine/kenney-mini-arcade-ticket-machine.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-arcade-0cfad8169d4a/kenney-mini-arcade-ticket-machine.glb"
+    },
+    {
+      "id": "kenney-mini-arcade-vending-machine",
+      "name": "Vending Machine",
+      "description": "Mini arcade machine model (Vending Machine).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "vending-machine.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arcade/kenney-mini-arcade-vending-machine/kenney-mini-arcade-vending-machine.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-arcade",
+      "primaryBytes": 16228,
+      "totalBytes": 24934,
+      "primarySha256": "da92281856adbdc438f006c2381f586664d50890467d25ee3ee431e9502b2daa",
+      "bundleSha256": "797959b1d4d80ece23ed2326d08fcb456efcead0110593677c8cc91219db0ae0",
+      "bounds": {
+        "min": [
+          -0.25,
+          0,
+          -0.225
+        ],
+        "max": [
+          0.25,
+          0.75,
+          0.25
+        ],
+        "size": [
+          0.5,
+          0.75,
+          0.475
+        ],
+        "center": [
+          0,
+          0.375,
+          0.0125
+        ],
+        "diagonal": 1.018884
+      },
+      "triangleCount": 176,
+      "drawCallCount": 1,
+      "renderVertexCount": 528,
+      "uploadVertexCount": 280,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "arcade",
+        "interior",
+        "game-room",
+        "shop",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "machine",
+        "game",
+        "prop"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "air",
+        "arcade",
+        "basketball",
+        "bright",
+        "cash",
+        "characters",
+        "claw",
+        "colorful",
+        "dance",
+        "game",
+        "hockey",
+        "interior",
+        "kenney",
+        "machine",
+        "mini",
+        "pinball",
+        "poly",
+        "prize",
+        "prop",
+        "register",
+        "room",
+        "shop",
+        "stylized",
+        "ticket",
+        "toy",
+        "vending"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-arcade/kenney-mini-arcade-vending-machine.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 8748,
+        "sha256": "9c95a7514d25ba940fd7e6226a3e57fdc799fb67ab4a7fb698508e52c0e005d0",
+        "transparent": true,
+        "sourceBundleSha256": "797959b1d4d80ece23ed2326d08fcb456efcead0110593677c8cc91219db0ae0",
+        "cacheKey": "aff3535cf0448f3a453e1b8c677e7ca9cb7234aacb3e396ad39ff94c5898bbdb",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 2.055193,
+          "pan": [
+            0.018623,
+            -0.023685,
+            -0.001569
+          ],
+          "alphaBounds": {
+            "x": 121,
+            "y": 69,
+            "width": 270,
+            "height": 374,
+            "fill": 0.730469,
+            "centerOffset": {
+              "x": 0,
+              "y": 0,
+              "length": 0
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arcade/kenney-mini-arcade-vending-machine.webp",
+        "packRelativePath": "previews/kenney-mini-arcade-vending-machine.webp"
+      },
+      "packId": "kenney-mini-arcade",
+      "publicPath": "assets/kenney-mini-arcade/kenney-mini-arcade-vending-machine/kenney-mini-arcade-vending-machine.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-arcade-0cfad8169d4a/kenney-mini-arcade-vending-machine.glb"
+    },
+    {
+      "id": "kenney-mini-arcade-wall",
+      "name": "Wall",
+      "description": "Mini arcade wall model (Wall).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "wall.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arcade/kenney-mini-arcade-wall/kenney-mini-arcade-wall.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-arcade",
+      "primaryBytes": 5068,
+      "totalBytes": 13774,
+      "primarySha256": "8d146c79d115e47fbfbd92102a46252febc0c20f0e757a938c19401e25d29334",
+      "bundleSha256": "315b6538230661ebabeabbaba46e803beb60a0d840b4dbe1af5105982fc341f0",
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.3
+        ],
+        "max": [
+          0.5,
+          1,
+          0.3
+        ],
+        "size": [
+          1,
+          1,
+          0.6
+        ],
+        "center": [
+          0,
+          0.5,
+          0
+        ],
+        "diagonal": 1.536229
+      },
+      "triangleCount": 46,
+      "drawCallCount": 1,
+      "renderVertexCount": 138,
+      "uploadVertexCount": 68,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "arcade",
+        "interior",
+        "game-room",
+        "shop",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "wall",
+        "building",
+        "modular"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "air",
+        "arcade",
+        "basketball",
+        "bright",
+        "building",
+        "cash",
+        "characters",
+        "claw",
+        "colorful",
+        "dance",
+        "game",
+        "hockey",
+        "interior",
+        "kenney",
+        "machine",
+        "mini",
+        "modular",
+        "pinball",
+        "poly",
+        "prize",
+        "register",
+        "room",
+        "shop",
+        "stylized",
+        "ticket",
+        "toy",
+        "vending",
+        "wall"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-arcade/kenney-mini-arcade-wall.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 6910,
+        "sha256": "bdbf4020057c1612a629477d656519ff57795846543ea87e0369434b28e1fdf3",
+        "transparent": true,
+        "sourceBundleSha256": "315b6538230661ebabeabbaba46e803beb60a0d840b4dbe1af5105982fc341f0",
+        "cacheKey": "0133259505fefc3eb965702208434d1628a4adb50d822db8db69cdb3f77bb155",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 3.099738,
+          "pan": [
+            0.041333,
+            -0.059646,
+            0.001612
+          ],
+          "alphaBounds": {
+            "x": 106,
+            "y": 73,
+            "width": 301,
+            "height": 366,
+            "fill": 0.714844,
+            "centerOffset": {
+              "x": 0.5,
+              "y": 0,
+              "length": 0.5
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arcade/kenney-mini-arcade-wall.webp",
+        "packRelativePath": "previews/kenney-mini-arcade-wall.webp"
+      },
+      "packId": "kenney-mini-arcade",
+      "publicPath": "assets/kenney-mini-arcade/kenney-mini-arcade-wall/kenney-mini-arcade-wall.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-arcade-0cfad8169d4a/kenney-mini-arcade-wall.glb"
+    },
+    {
+      "id": "kenney-mini-arcade-wall-corner",
+      "name": "Wall Corner",
+      "description": "Mini arcade wall model (Wall Corner).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "wall-corner.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arcade/kenney-mini-arcade-wall-corner/kenney-mini-arcade-wall-corner.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-arcade",
+      "primaryBytes": 7624,
+      "totalBytes": 16330,
+      "primarySha256": "cf91e2fee5df5a51ef2b857c7d42505ac3b62fc15cb0954424434a0f01396caf",
+      "bundleSha256": "06aeac90fa7df2325d826d8c6a0806d4261916089c52150a426683108ee0a9c3",
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.3
+        ],
+        "max": [
+          0.3,
+          1,
+          0.5
+        ],
+        "size": [
+          0.8,
+          1,
+          0.8
+        ],
+        "center": [
+          -0.1,
+          0.5,
+          0.1
+        ],
+        "diagonal": 1.509967
+      },
+      "triangleCount": 70,
+      "drawCallCount": 1,
+      "renderVertexCount": 210,
+      "uploadVertexCount": 118,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "arcade",
+        "interior",
+        "game-room",
+        "shop",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "wall",
+        "building",
+        "modular"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "air",
+        "arcade",
+        "basketball",
+        "bright",
+        "building",
+        "cash",
+        "characters",
+        "claw",
+        "colorful",
+        "corner",
+        "dance",
+        "game",
+        "hockey",
+        "interior",
+        "kenney",
+        "machine",
+        "mini",
+        "modular",
+        "pinball",
+        "poly",
+        "prize",
+        "register",
+        "room",
+        "shop",
+        "stylized",
+        "ticket",
+        "toy",
+        "vending",
+        "wall"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-arcade/kenney-mini-arcade-wall-corner.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 5162,
+        "sha256": "cbd59a8eec993d874c9820180e0af5257c4fb6e798db8ecd1e8e6d388d621c81",
+        "transparent": true,
+        "sourceBundleSha256": "06aeac90fa7df2325d826d8c6a0806d4261916089c52150a426683108ee0a9c3",
+        "cacheKey": "c02dfae95fe2588877b0ffb9181602b2fb144b94ff5f0a93c02a5d58efcd3a66",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 3.099738,
+          "pan": [
+            0.021584,
+            -0.059646,
+            0.021361
+          ],
+          "alphaBounds": {
+            "x": 139,
+            "y": 73,
+            "width": 234,
+            "height": 366,
+            "fill": 0.714844,
+            "centerOffset": {
+              "x": 0,
+              "y": 0,
+              "length": 0
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arcade/kenney-mini-arcade-wall-corner.webp",
+        "packRelativePath": "previews/kenney-mini-arcade-wall-corner.webp"
+      },
+      "packId": "kenney-mini-arcade",
+      "publicPath": "assets/kenney-mini-arcade/kenney-mini-arcade-wall-corner/kenney-mini-arcade-wall-corner.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-arcade-0cfad8169d4a/kenney-mini-arcade-wall-corner.glb"
+    },
+    {
+      "id": "kenney-mini-arcade-wall-door-rotate",
+      "name": "Wall Door Rotate",
+      "description": "Mini arcade wall model (Wall Door Rotate).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "wall-door-rotate.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arcade/kenney-mini-arcade-wall-door-rotate/kenney-mini-arcade-wall-door-rotate.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-arcade",
+      "primaryBytes": 37888,
+      "totalBytes": 46594,
+      "primarySha256": "2452b96c97cdc02164ef5115f0fd9f7f8ae07e829b4a6adcd629871901821d91",
+      "bundleSha256": "9433fee956d9257986dc2ebab75c4a9f3979b89ef9818f65283bd8ad234a3dad",
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.3
+        ],
+        "max": [
+          0.5,
+          1,
+          0.3
+        ],
+        "size": [
+          1,
+          1,
+          0.6
+        ],
+        "center": [
+          0,
+          0.5,
+          0
+        ],
+        "diagonal": 1.536229
+      },
+      "triangleCount": 308,
+      "drawCallCount": 4,
+      "renderVertexCount": 924,
+      "uploadVertexCount": 500,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 3,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "arcade",
+        "interior",
+        "game-room",
+        "shop",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "wall",
+        "building",
+        "modular"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "air",
+        "arcade",
+        "basketball",
+        "bright",
+        "building",
+        "cash",
+        "characters",
+        "claw",
+        "colorful",
+        "dance",
+        "door",
+        "game",
+        "hockey",
+        "interior",
+        "kenney",
+        "machine",
+        "mini",
+        "modular",
+        "pinball",
+        "poly",
+        "prize",
+        "register",
+        "room",
+        "rotate",
+        "shop",
+        "stylized",
+        "ticket",
+        "toy",
+        "vending",
+        "wall"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-arcade/kenney-mini-arcade-wall-door-rotate.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 8020,
+        "sha256": "4efe4b123cab5634403d3af0467c0ccd6f583b6b4eeb19f9e4b1ffb222bbfe67",
+        "transparent": true,
+        "sourceBundleSha256": "9433fee956d9257986dc2ebab75c4a9f3979b89ef9818f65283bd8ad234a3dad",
+        "cacheKey": "83101edb734657d300ddda3cb95b82394fbb7d14d44c3d31115ebc462bc48319",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 3.099738,
+          "pan": [
+            0.041333,
+            -0.059646,
+            0.001612
+          ],
+          "alphaBounds": {
+            "x": 106,
+            "y": 73,
+            "width": 301,
+            "height": 366,
+            "fill": 0.714844,
+            "centerOffset": {
+              "x": 0.5,
+              "y": 0,
+              "length": 0.5
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arcade/kenney-mini-arcade-wall-door-rotate.webp",
+        "packRelativePath": "previews/kenney-mini-arcade-wall-door-rotate.webp"
+      },
+      "packId": "kenney-mini-arcade",
+      "publicPath": "assets/kenney-mini-arcade/kenney-mini-arcade-wall-door-rotate/kenney-mini-arcade-wall-door-rotate.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-arcade-0cfad8169d4a/kenney-mini-arcade-wall-door-rotate.glb"
+    },
+    {
+      "id": "kenney-mini-arcade-wall-window",
+      "name": "Wall Window",
+      "description": "Mini arcade wall model (Wall Window).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "wall-window.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arcade/kenney-mini-arcade-wall-window/kenney-mini-arcade-wall-window.glb",
+      "sourceUrl": "https://kenney.nl/assets/mini-arcade",
+      "primaryBytes": 15092,
+      "totalBytes": 23798,
+      "primarySha256": "f4fa49994e3057c6275d50f9c5926e5c4d6d90583e6996282cfe6e8e66496100",
+      "bundleSha256": "ff60297d03f5aa06b15657a1d6a32b52da2d49c250c21525f469028a2d14ef90",
+      "bounds": {
+        "min": [
+          -0.5,
+          0,
+          -0.3
+        ],
+        "max": [
+          0.5,
+          1,
+          0.3
+        ],
+        "size": [
+          1,
+          1,
+          0.6
+        ],
+        "center": [
+          0,
+          0.5,
+          0
+        ],
+        "diagonal": 1.536229
+      },
+      "triangleCount": 138,
+      "drawCallCount": 2,
+      "renderVertexCount": 414,
+      "uploadVertexCount": 240,
+      "materialCount": 2,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "mini",
+        "arcade",
+        "interior",
+        "game-room",
+        "shop",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "wall",
+        "building",
+        "modular"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "air",
+        "arcade",
+        "basketball",
+        "bright",
+        "building",
+        "cash",
+        "characters",
+        "claw",
+        "colorful",
+        "dance",
+        "game",
+        "hockey",
+        "interior",
+        "kenney",
+        "machine",
+        "mini",
+        "modular",
+        "pinball",
+        "poly",
+        "prize",
+        "register",
+        "room",
+        "shop",
+        "stylized",
+        "ticket",
+        "toy",
+        "vending",
+        "wall",
+        "window"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-mini-arcade/kenney-mini-arcade-wall-window.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 7850,
+        "sha256": "0d6a4159defeaa5c7d948be1e9cb3fcf735f4ca0c03f6e1376df0e899db57454",
+        "transparent": true,
+        "sourceBundleSha256": "ff60297d03f5aa06b15657a1d6a32b52da2d49c250c21525f469028a2d14ef90",
+        "cacheKey": "d1f4ac1d53cbe688f9d925f91a6d571de3020d1738e6c885f83f9f10e8d4794c",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 3.099738,
+          "pan": [
+            0.041333,
+            -0.059646,
+            0.001612
+          ],
+          "alphaBounds": {
+            "x": 106,
+            "y": 73,
+            "width": 301,
+            "height": 366,
+            "fill": 0.714844,
+            "centerOffset": {
+              "x": 0.5,
+              "y": 0,
+              "length": 0.5
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arcade/kenney-mini-arcade-wall-window.webp",
+        "packRelativePath": "previews/kenney-mini-arcade-wall-window.webp"
+      },
+      "packId": "kenney-mini-arcade",
+      "publicPath": "assets/kenney-mini-arcade/kenney-mini-arcade-wall-window/kenney-mini-arcade-wall-window.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-mini-arcade-0cfad8169d4a/kenney-mini-arcade-wall-window.glb"
+    }
+  ]
+}

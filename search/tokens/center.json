@@ -1,9 +1,11 @@
 {
   "version": 1,
   "token": "center",
-  "count": 31,
+  "count": 36,
   "assetIds": [
     "kenney-fantasy-town-kit-fountain-center",
+    "kenney-holiday-kit-cabin-doorway-center",
+    "kenney-holiday-kit-cabin-wall-roof-center",
     "kenney-new-platformer-pack-sprites-tiles-terrain-dirt-block-center",
     "kenney-new-platformer-pack-sprites-tiles-terrain-grass-block-center",
     "kenney-new-platformer-pack-sprites-tiles-terrain-purple-block-center",
@@ -33,6 +35,9 @@
     "kenney-platformer-art-deluxe-request-pack-tiles-metalcenter",
     "kenney-platformer-art-deluxe-request-pack-tiles-metalcentersticker",
     "kenney-platformer-art-deluxe-request-pack-tiles-metalcenterwarning",
+    "kenney-retro-urban-kit-road-asphalt-center",
+    "kenney-retro-urban-kit-road-dirt-center",
+    "kenney-space-kit-platform-center",
     "quaternius-cube-world-kit-environment-gltf-fence-center"
   ]
 }

@@ -1,0 +1,3754 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-24T10:20:46.895Z",
+  "pack": {
+    "id": "kenney-mini-skate",
+    "name": "Kenney Mini Skate",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://kenney.nl/assets/mini-skate",
+    "tags": [
+      "3d",
+      "kenney",
+      "mini",
+      "skate",
+      "skatepark",
+      "sports",
+      "ramp",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy"
+    ]
+  },
+  "assetIds": [
+    "kenney-mini-skate-bowl-corner-inner",
+    "kenney-mini-skate-bowl-corner-outer",
+    "kenney-mini-skate-bowl-side",
+    "kenney-mini-skate-character-skate-boy",
+    "kenney-mini-skate-character-skate-girl",
+    "kenney-mini-skate-floor-concrete",
+    "kenney-mini-skate-floor-wood",
+    "kenney-mini-skate-half-pipe",
+    "kenney-mini-skate-obstacle-box",
+    "kenney-mini-skate-obstacle-end",
+    "kenney-mini-skate-obstacle-middle",
+    "kenney-mini-skate-pallet",
+    "kenney-mini-skate-rail-curve",
+    "kenney-mini-skate-rail-high",
+    "kenney-mini-skate-rail-low",
+    "kenney-mini-skate-rail-slope",
+    "kenney-mini-skate-skateboard",
+    "kenney-mini-skate-steps",
+    "kenney-mini-skate-structure-platform",
+    "kenney-mini-skate-structure-wood"
+  ],
+  "assetsById": {
+    "kenney-mini-skate-bowl-corner-inner": {
+      "generatedAt": "2026-04-24T10:20:46.895Z",
+      "asset": {
+        "id": "kenney-mini-skate-bowl-corner-inner",
+        "name": "Bowl Corner Inner",
+        "description": "Mini skate bowl ramp model (Bowl Corner Inner).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-mini-skate/kenney-mini-skate-bowl-corner-inner/kenney-mini-skate-bowl-corner-inner.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-skate/kenney-mini-skate-bowl-corner-inner/kenney-mini-skate-bowl-corner-inner.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-mini-skate/kenney-mini-skate-bowl-corner-inner.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 7538,
+          "sha256": "a2d3271b6587834f1d3bae2cd593edc37ba8396068b0925689389c6fbf2f7b61",
+          "transparent": true,
+          "sourceBundleSha256": "f7253525e2016aaf40a74d134c6a2d31808fc7ec3486c4d42e8301c72927db3e",
+          "cacheKey": "27103d854c12c87c510af1a91bdfb097a1542a81b3919dfe2248c4664e8fc98b",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.345041,
+            "pan": [
+              0.029444,
+              -0.081788,
+              0.029444
+            ],
+            "alphaBounds": {
+              "x": 74,
+              "y": 91,
+              "width": 364,
+              "height": 329,
+              "fill": 0.710938,
+              "centerOffset": {
+                "x": 0,
+                "y": -0.5,
+                "length": 0.5
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-skate/kenney-mini-skate-bowl-corner-inner.webp",
+          "packRelativePath": "previews/kenney-mini-skate-bowl-corner-inner.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/mini-skate",
+        "tags": [
+          "3d",
+          "kenney",
+          "mini",
+          "skate",
+          "skatepark",
+          "sports",
+          "ramp",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy",
+          "bowl",
+          "modular"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.5,
+              0,
+              -0.5
+            ],
+            "max": [
+              0.5,
+              0.8,
+              0.5
+            ],
+            "size": [
+              1,
+              0.8,
+              1
+            ],
+            "center": [
+              0,
+              0.4,
+              0
+            ],
+            "diagonal": 1.624808
+          },
+          "triangleCount": 136,
+          "drawCallCount": 1,
+          "renderVertexCount": 408,
+          "uploadVertexCount": 248,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-mini-skate-bowl-corner-outer": {
+      "generatedAt": "2026-04-24T10:20:46.895Z",
+      "asset": {
+        "id": "kenney-mini-skate-bowl-corner-outer",
+        "name": "Bowl Corner Outer",
+        "description": "Mini skate bowl ramp model (Bowl Corner Outer).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-mini-skate/kenney-mini-skate-bowl-corner-outer/kenney-mini-skate-bowl-corner-outer.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-skate/kenney-mini-skate-bowl-corner-outer/kenney-mini-skate-bowl-corner-outer.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-mini-skate/kenney-mini-skate-bowl-corner-outer.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 7592,
+          "sha256": "f4f38a9c33ef8f83b43edf7e72abb849810ce27f25f0a535a2e5173815f759d4",
+          "transparent": true,
+          "sourceBundleSha256": "da6e22cd9174e0d8ef697ceafc3ddb2bc8878280b4dbae45a36d1729a42319f5",
+          "cacheKey": "f3e003202bbcf9703a3290354d05a4870f17acc13d6db16f1793d02a6ab23a87",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.025404,
+            "pan": [
+              0.032129,
+              -0.088523,
+              0.031607
+            ],
+            "alphaBounds": {
+              "x": 77,
+              "y": 74,
+              "width": 358,
+              "height": 364,
+              "fill": 0.710938,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-skate/kenney-mini-skate-bowl-corner-outer.webp",
+          "packRelativePath": "previews/kenney-mini-skate-bowl-corner-outer.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/mini-skate",
+        "tags": [
+          "3d",
+          "kenney",
+          "mini",
+          "skate",
+          "skatepark",
+          "sports",
+          "ramp",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy",
+          "bowl",
+          "modular"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.5,
+              0,
+              -0.5
+            ],
+            "max": [
+              0.5,
+              0.8,
+              0.5
+            ],
+            "size": [
+              1,
+              0.8,
+              1
+            ],
+            "center": [
+              0,
+              0.4,
+              0
+            ],
+            "diagonal": 1.624808
+          },
+          "triangleCount": 140,
+          "drawCallCount": 1,
+          "renderVertexCount": 420,
+          "uploadVertexCount": 246,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-mini-skate-bowl-side": {
+      "generatedAt": "2026-04-24T10:20:46.895Z",
+      "asset": {
+        "id": "kenney-mini-skate-bowl-side",
+        "name": "Bowl Side",
+        "description": "Mini skate bowl ramp model (Bowl Side).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-mini-skate/kenney-mini-skate-bowl-side/kenney-mini-skate-bowl-side.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-skate/kenney-mini-skate-bowl-side/kenney-mini-skate-bowl-side.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-mini-skate/kenney-mini-skate-bowl-side.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 7376,
+          "sha256": "f297ec489f0e34006b4e7907e7f42a37dbfe67e47ee0b93edf8033baff70a0da",
+          "transparent": true,
+          "sourceBundleSha256": "1378a053ac782ae68ef72b868f101c78c3bfbcf7a072e6179e1c412d907ac803",
+          "cacheKey": "627b6ccc5bb43920c4e85580c3720aeb3d8e12ce7332e2ca0056d6016d62189b",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.122039,
+            "pan": [
+              0.060748,
+              -0.086438,
+              0.001487
+            ],
+            "alphaBounds": {
+              "x": 72,
+              "y": 80,
+              "width": 368,
+              "height": 352,
+              "fill": 0.71875,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-skate/kenney-mini-skate-bowl-side.webp",
+          "packRelativePath": "previews/kenney-mini-skate-bowl-side.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/mini-skate",
+        "tags": [
+          "3d",
+          "kenney",
+          "mini",
+          "skate",
+          "skatepark",
+          "sports",
+          "ramp",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy",
+          "bowl",
+          "modular"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.5,
+              0,
+              -0.5
+            ],
+            "max": [
+              0.5,
+              0.8,
+              0.5
+            ],
+            "size": [
+              1,
+              0.8,
+              1
+            ],
+            "center": [
+              0,
+              0.4,
+              0
+            ],
+            "diagonal": 1.624808
+          },
+          "triangleCount": 44,
+          "drawCallCount": 1,
+          "renderVertexCount": 132,
+          "uploadVertexCount": 72,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-mini-skate-character-skate-boy": {
+      "generatedAt": "2026-04-24T10:20:46.895Z",
+      "asset": {
+        "id": "kenney-mini-skate-character-skate-boy",
+        "name": "Character Skate Boy",
+        "description": "Mini skate skater character model (Character Skate Boy).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-mini-skate/kenney-mini-skate-character-skate-boy/kenney-mini-skate-character-skate-boy.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-skate/kenney-mini-skate-character-skate-boy/kenney-mini-skate-character-skate-boy.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-mini-skate/kenney-mini-skate-character-skate-boy.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 10592,
+          "sha256": "0389912012f6e587edfcea0c226856daf537ce1e80059371c2faf2f514f441c9",
+          "transparent": true,
+          "sourceBundleSha256": "4a68e604fa68cd725b9f85f55d267808ec18520ce46e95db270b27fad067363b",
+          "cacheKey": "72af495bfb4be422314f8452055c717180321b6b1463ba817823c45036791827",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 1.758812,
+            "pan": [
+              0.018326,
+              0.003668,
+              -0.020967
+            ],
+            "alphaBounds": {
+              "x": 112,
+              "y": 72,
+              "width": 286,
+              "height": 369,
+              "fill": 0.720703,
+              "centerOffset": {
+                "x": -1,
+                "y": 0.5,
+                "length": 1.118034
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-skate/kenney-mini-skate-character-skate-boy.webp",
+          "packRelativePath": "previews/kenney-mini-skate-character-skate-boy.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/mini-skate",
+        "tags": [
+          "3d",
+          "kenney",
+          "mini",
+          "skate",
+          "skatepark",
+          "sports",
+          "ramp",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy",
+          "character",
+          "skater",
+          "npc",
+          "animated",
+          "rigged",
+          "skinned",
+          "skeletal-animation"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.390282,
+              0,
+              -0.18657
+            ],
+            "max": [
+              0.390282,
+              0.773273,
+              0.274087
+            ],
+            "size": [
+              0.780564,
+              0.773273,
+              0.460658
+            ],
+            "center": [
+              0,
+              0.386636,
+              0.043759
+            ],
+            "diagonal": 1.191401
+          },
+          "triangleCount": 419,
+          "drawCallCount": 2,
+          "renderVertexCount": 1257,
+          "uploadVertexCount": 742,
+          "meshCount": 2,
+          "primitiveCount": 2
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": true,
+        "animationCount": 29,
+        "animations": [
+          {
+            "name": "static",
+            "durationSec": 0.1,
+            "keyframes": 42,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "idle",
+            "durationSec": 1.333,
+            "keyframes": 160,
+            "targetPaths": [
+              "rotation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "walk",
+            "durationSec": 0.667,
+            "keyframes": 140,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "sprint",
+            "durationSec": 0.5,
+            "keyframes": 105,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "jump",
+            "durationSec": 0.5,
+            "keyframes": 79,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "fall",
+            "durationSec": 0.333,
+            "keyframes": 50,
+            "targetPaths": [
+              "rotation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "crouch",
+            "durationSec": 0.167,
+            "keyframes": 16,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "sit",
+            "durationSec": 0.167,
+            "keyframes": 10,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "drive",
+            "durationSec": 0.167,
+            "keyframes": 10,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "die",
+            "durationSec": 0.333,
+            "keyframes": 79,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "pick-up",
+            "durationSec": 0.333,
+            "keyframes": 40,
+            "targetPaths": [
+              "rotation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "emote-yes",
+            "durationSec": 0.667,
+            "keyframes": 80,
+            "targetPaths": [
+              "rotation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "emote-no",
+            "durationSec": 0.667,
+            "keyframes": 80,
+            "targetPaths": [
+              "rotation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "holding-right",
+            "durationSec": 0.167,
+            "keyframes": 4,
+            "targetPaths": [
+              "rotation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "holding-left",
+            "durationSec": 0.167,
+            "keyframes": 4,
+            "targetPaths": [
+              "rotation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "holding-both",
+            "durationSec": 0.167,
+            "keyframes": 4,
+            "targetPaths": [
+              "rotation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "holding-right-shoot",
+            "durationSec": 0.2,
+            "keyframes": 20,
+            "targetPaths": [
+              "rotation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "holding-left-shoot",
+            "durationSec": 0.2,
+            "keyframes": 20,
+            "targetPaths": [
+              "rotation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "holding-both-shoot",
+            "durationSec": 0.2,
+            "keyframes": 24,
+            "targetPaths": [
+              "rotation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "attack-melee-right",
+            "durationSec": 0.417,
+            "keyframes": 88,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "attack-melee-left",
+            "durationSec": 0.417,
+            "keyframes": 88,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "attack-kick-right",
+            "durationSec": 0.533,
+            "keyframes": 112,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "attack-kick-left",
+            "durationSec": 0.533,
+            "keyframes": 112,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "interact-right",
+            "durationSec": 0.667,
+            "keyframes": 55,
+            "targetPaths": [
+              "rotation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "interact-left",
+            "durationSec": 0.667,
+            "keyframes": 55,
+            "targetPaths": [
+              "rotation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "skate",
+            "durationSec": 0.517,
+            "keyframes": 112,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "skate-stand",
+            "durationSec": 0.5,
+            "keyframes": 66,
+            "targetPaths": [
+              "rotation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "skate-air",
+            "durationSec": 0.667,
+            "keyframes": 126,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "skate-grab",
+            "durationSec": 0.5,
+            "keyframes": 70,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          }
+        ],
+        "rig": {
+          "rigged": true,
+          "skinCount": 2,
+          "jointCountTotal": 14,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": true
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-mini-skate-character-skate-girl": {
+      "generatedAt": "2026-04-24T10:20:46.895Z",
+      "asset": {
+        "id": "kenney-mini-skate-character-skate-girl",
+        "name": "Character Skate Girl",
+        "description": "Mini skate skater character model (Character Skate Girl).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-mini-skate/kenney-mini-skate-character-skate-girl/kenney-mini-skate-character-skate-girl.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-skate/kenney-mini-skate-character-skate-girl/kenney-mini-skate-character-skate-girl.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-mini-skate/kenney-mini-skate-character-skate-girl.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 10980,
+          "sha256": "a771cfd733eba9920815bdfa1c27eed07f2f4b750959251f4e647dee202d9dda",
+          "transparent": true,
+          "sourceBundleSha256": "a6cbea0166d1515e8addc2704ef1e1bdac303f2e06d005b4c60634d4f324ca0c",
+          "cacheKey": "eb318654941be23afe4b2d2ba7cf6c9bd26c0ff19ef8b36e971298dab79ccabd",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 1.749746,
+            "pan": [
+              -0.022099,
+              -0.007336,
+              0.027381
+            ],
+            "alphaBounds": {
+              "x": 109,
+              "y": 71,
+              "width": 293,
+              "height": 369,
+              "fill": 0.720703,
+              "centerOffset": {
+                "x": -0.5,
+                "y": -0.5,
+                "length": 0.707107
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-skate/kenney-mini-skate-character-skate-girl.webp",
+          "packRelativePath": "previews/kenney-mini-skate-character-skate-girl.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/mini-skate",
+        "tags": [
+          "3d",
+          "kenney",
+          "mini",
+          "skate",
+          "skatepark",
+          "sports",
+          "ramp",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy",
+          "character",
+          "skater",
+          "npc",
+          "animated",
+          "rigged",
+          "skinned",
+          "skeletal-animation"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.390282,
+              0,
+              -0.323061
+            ],
+            "max": [
+              0.390282,
+              0.66445,
+              0.190489
+            ],
+            "size": [
+              0.780564,
+              0.66445,
+              0.51355
+            ],
+            "center": [
+              0,
+              0.332225,
+              -0.066286
+            ],
+            "diagonal": 1.14652
+          },
+          "triangleCount": 408,
+          "drawCallCount": 2,
+          "renderVertexCount": 1224,
+          "uploadVertexCount": 736,
+          "meshCount": 2,
+          "primitiveCount": 2
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": true,
+        "animationCount": 29,
+        "animations": [
+          {
+            "name": "static",
+            "durationSec": 0.1,
+            "keyframes": 42,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "idle",
+            "durationSec": 1.333,
+            "keyframes": 160,
+            "targetPaths": [
+              "rotation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "walk",
+            "durationSec": 0.667,
+            "keyframes": 140,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "sprint",
+            "durationSec": 0.5,
+            "keyframes": 105,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "jump",
+            "durationSec": 0.5,
+            "keyframes": 79,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "fall",
+            "durationSec": 0.333,
+            "keyframes": 50,
+            "targetPaths": [
+              "rotation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "crouch",
+            "durationSec": 0.167,
+            "keyframes": 16,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "sit",
+            "durationSec": 0.167,
+            "keyframes": 10,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "drive",
+            "durationSec": 0.167,
+            "keyframes": 10,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "die",
+            "durationSec": 0.333,
+            "keyframes": 79,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "pick-up",
+            "durationSec": 0.333,
+            "keyframes": 40,
+            "targetPaths": [
+              "rotation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "emote-yes",
+            "durationSec": 0.667,
+            "keyframes": 80,
+            "targetPaths": [
+              "rotation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "emote-no",
+            "durationSec": 0.667,
+            "keyframes": 80,
+            "targetPaths": [
+              "rotation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "holding-right",
+            "durationSec": 0.167,
+            "keyframes": 4,
+            "targetPaths": [
+              "rotation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "holding-left",
+            "durationSec": 0.167,
+            "keyframes": 4,
+            "targetPaths": [
+              "rotation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "holding-both",
+            "durationSec": 0.167,
+            "keyframes": 4,
+            "targetPaths": [
+              "rotation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "holding-right-shoot",
+            "durationSec": 0.2,
+            "keyframes": 20,
+            "targetPaths": [
+              "rotation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "holding-left-shoot",
+            "durationSec": 0.2,
+            "keyframes": 20,
+            "targetPaths": [
+              "rotation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "holding-both-shoot",
+            "durationSec": 0.2,
+            "keyframes": 24,
+            "targetPaths": [
+              "rotation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "attack-melee-right",
+            "durationSec": 0.417,
+            "keyframes": 88,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "attack-melee-left",
+            "durationSec": 0.417,
+            "keyframes": 88,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "attack-kick-right",
+            "durationSec": 0.533,
+            "keyframes": 112,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "attack-kick-left",
+            "durationSec": 0.533,
+            "keyframes": 112,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "interact-right",
+            "durationSec": 0.667,
+            "keyframes": 55,
+            "targetPaths": [
+              "rotation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "interact-left",
+            "durationSec": 0.667,
+            "keyframes": 55,
+            "targetPaths": [
+              "rotation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "skate",
+            "durationSec": 0.517,
+            "keyframes": 112,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "skate-stand",
+            "durationSec": 0.5,
+            "keyframes": 66,
+            "targetPaths": [
+              "rotation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "skate-air",
+            "durationSec": 0.667,
+            "keyframes": 126,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "skate-grab",
+            "durationSec": 0.5,
+            "keyframes": 70,
+            "targetPaths": [
+              "rotation",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          }
+        ],
+        "rig": {
+          "rigged": true,
+          "skinCount": 2,
+          "jointCountTotal": 14,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": true
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-mini-skate-floor-concrete": {
+      "generatedAt": "2026-04-24T10:20:46.895Z",
+      "asset": {
+        "id": "kenney-mini-skate-floor-concrete",
+        "name": "Floor Concrete",
+        "description": "Mini skate floor model (Floor Concrete).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-mini-skate/kenney-mini-skate-floor-concrete/kenney-mini-skate-floor-concrete.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-skate/kenney-mini-skate-floor-concrete/kenney-mini-skate-floor-concrete.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-mini-skate/kenney-mini-skate-floor-concrete.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 3792,
+          "sha256": "459a58023b42e05ffbcb2d9dad19998194efb1aa0202bee41e01ec644ae16fda",
+          "transparent": true,
+          "sourceBundleSha256": "674cd1995cb8de3baedd12b9dbf1084a19c0c452cecec891d5edf8b2f73c40c4",
+          "cacheKey": "ed1a9dd765ce586a1937c25e7981a9840fc0f6976039462314ca65b57408fb7b",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.114605,
+            "pan": [
+              0.020829,
+              -0.057404,
+              0.020503
+            ],
+            "alphaBounds": {
+              "x": 72,
+              "y": 172,
+              "width": 368,
+              "height": 168,
+              "fill": 0.71875,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-skate/kenney-mini-skate-floor-concrete.webp",
+          "packRelativePath": "previews/kenney-mini-skate-floor-concrete.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/mini-skate",
+        "tags": [
+          "3d",
+          "kenney",
+          "mini",
+          "skate",
+          "skatepark",
+          "sports",
+          "ramp",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy",
+          "floor",
+          "surface",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.5,
+              0,
+              -0.5
+            ],
+            "max": [
+              0.5,
+              0,
+              0.5
+            ],
+            "size": [
+              1,
+              0,
+              1
+            ],
+            "center": [
+              0,
+              0,
+              0
+            ],
+            "diagonal": 1.414214
+          },
+          "triangleCount": 2,
+          "drawCallCount": 1,
+          "renderVertexCount": 6,
+          "uploadVertexCount": 4,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-mini-skate-floor-wood": {
+      "generatedAt": "2026-04-24T10:20:46.895Z",
+      "asset": {
+        "id": "kenney-mini-skate-floor-wood",
+        "name": "Floor Wood",
+        "description": "Mini skate floor model (Floor Wood).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-mini-skate/kenney-mini-skate-floor-wood/kenney-mini-skate-floor-wood.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-skate/kenney-mini-skate-floor-wood/kenney-mini-skate-floor-wood.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-mini-skate/kenney-mini-skate-floor-wood.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 5670,
+          "sha256": "99291c1c96f86f945505fbef97e431b8ab2ffe572fd333b05c585730c2c3460c",
+          "transparent": true,
+          "sourceBundleSha256": "d308cb9648294b37336ba74739fd9108b0d1d47bf12ed481de2fa9729a28f8f0",
+          "cacheKey": "9ba9cf603575938610edf64734a50d12653b57aba87befe8bfb91663fd78db7a",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.107172,
+            "pan": [
+              0.023983,
+              -0.066618,
+              0.023983
+            ],
+            "alphaBounds": {
+              "x": 72,
+              "y": 172,
+              "width": 369,
+              "height": 168,
+              "fill": 0.720703,
+              "centerOffset": {
+                "x": 0.5,
+                "y": 0,
+                "length": 0.5
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-skate/kenney-mini-skate-floor-wood.webp",
+          "packRelativePath": "previews/kenney-mini-skate-floor-wood.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/mini-skate",
+        "tags": [
+          "3d",
+          "kenney",
+          "mini",
+          "skate",
+          "skatepark",
+          "sports",
+          "ramp",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy",
+          "floor",
+          "surface",
+          "tile"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.5,
+              0,
+              -0.5
+            ],
+            "max": [
+              0.5,
+              0.025,
+              0.5
+            ],
+            "size": [
+              1,
+              0.025,
+              1
+            ],
+            "center": [
+              0,
+              0.0125,
+              0
+            ],
+            "diagonal": 1.414435
+          },
+          "triangleCount": 32,
+          "drawCallCount": 1,
+          "renderVertexCount": 96,
+          "uploadVertexCount": 74,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-mini-skate-half-pipe": {
+      "generatedAt": "2026-04-24T10:20:46.895Z",
+      "asset": {
+        "id": "kenney-mini-skate-half-pipe",
+        "name": "Half Pipe",
+        "description": "Mini skate half-pipe model (Half Pipe).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-mini-skate/kenney-mini-skate-half-pipe/kenney-mini-skate-half-pipe.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-skate/kenney-mini-skate-half-pipe/kenney-mini-skate-half-pipe.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-mini-skate/kenney-mini-skate-half-pipe.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 7810,
+          "sha256": "c30dc12912bc63e91fb66cd9ee0d3ca1d9615ba5297e7a6ed556467b1d7f8c88",
+          "transparent": true,
+          "sourceBundleSha256": "aef4705502ada9b3cac2f8575d47f6999a937c9d91fb6dc8da2bdea4ff396123",
+          "cacheKey": "f74ee381b7a6872a1550842f50f894437176dd51ffec3f8dfb4c0795682f9bb7",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.122039,
+            "pan": [
+              0.060748,
+              -0.086438,
+              0.001487
+            ],
+            "alphaBounds": {
+              "x": 72,
+              "y": 80,
+              "width": 368,
+              "height": 352,
+              "fill": 0.71875,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-skate/kenney-mini-skate-half-pipe.webp",
+          "packRelativePath": "previews/kenney-mini-skate-half-pipe.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/mini-skate",
+        "tags": [
+          "3d",
+          "kenney",
+          "mini",
+          "skate",
+          "skatepark",
+          "sports",
+          "ramp",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy",
+          "half-pipe"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.5,
+              0,
+              -0.5
+            ],
+            "max": [
+              0.5,
+              0.8,
+              0.5
+            ],
+            "size": [
+              1,
+              0.8,
+              1
+            ],
+            "center": [
+              0,
+              0.4,
+              0
+            ],
+            "diagonal": 1.624808
+          },
+          "triangleCount": 44,
+          "drawCallCount": 1,
+          "renderVertexCount": 132,
+          "uploadVertexCount": 72,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-mini-skate-obstacle-box": {
+      "generatedAt": "2026-04-24T10:20:46.895Z",
+      "asset": {
+        "id": "kenney-mini-skate-obstacle-box",
+        "name": "Obstacle Box",
+        "description": "Mini skate obstacle model (Obstacle Box).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-mini-skate/kenney-mini-skate-obstacle-box/kenney-mini-skate-obstacle-box.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-skate/kenney-mini-skate-obstacle-box/kenney-mini-skate-obstacle-box.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-mini-skate/kenney-mini-skate-obstacle-box.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 5264,
+          "sha256": "4650743a60c855e9ff8adc2ec17ac260d38896edfb7706878635313f57637c1d",
+          "transparent": true,
+          "sourceBundleSha256": "da6837cf1c3a7599ecbbaf26b10d67b966059d63331346094537fa3f2084798d",
+          "cacheKey": "e9c8b6db615902a3e89232bb4ae25013e2715062ada22258e76c49e4a9974481",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.062571,
+            "pan": [
+              0.048639,
+              -0.135109,
+              0.048639
+            ],
+            "alphaBounds": {
+              "x": 71,
+              "y": 170,
+              "width": 370,
+              "height": 171,
+              "fill": 0.722656,
+              "centerOffset": {
+                "x": 0,
+                "y": -0.5,
+                "length": 0.5
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-skate/kenney-mini-skate-obstacle-box.webp",
+          "packRelativePath": "previews/kenney-mini-skate-obstacle-box.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/mini-skate",
+        "tags": [
+          "3d",
+          "kenney",
+          "mini",
+          "skate",
+          "skatepark",
+          "sports",
+          "ramp",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy",
+          "obstacle",
+          "modular"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.5,
+              -0.05,
+              -0.5
+            ],
+            "max": [
+              0.5,
+              0.15,
+              0.5
+            ],
+            "size": [
+              1,
+              0.2,
+              1
+            ],
+            "center": [
+              0,
+              0.05,
+              0
+            ],
+            "diagonal": 1.428286
+          },
+          "triangleCount": 28,
+          "drawCallCount": 1,
+          "renderVertexCount": 84,
+          "uploadVertexCount": 56,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-mini-skate-obstacle-end": {
+      "generatedAt": "2026-04-24T10:20:46.895Z",
+      "asset": {
+        "id": "kenney-mini-skate-obstacle-end",
+        "name": "Obstacle End",
+        "description": "Mini skate obstacle model (Obstacle End).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-mini-skate/kenney-mini-skate-obstacle-end/kenney-mini-skate-obstacle-end.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-skate/kenney-mini-skate-obstacle-end/kenney-mini-skate-obstacle-end.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-mini-skate/kenney-mini-skate-obstacle-end.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 5476,
+          "sha256": "9c99c6c719b6741d5928c53c4c52dedaca886e344e1f13914fb66a85857e7431",
+          "transparent": true,
+          "sourceBundleSha256": "dc2f55d83948a13531225e9c1e0e564b57386ed473a287980669fd2bc94e7c28",
+          "cacheKey": "1811f2698996499682e43cd9f03ac26606c1c9bc2baafa1bb7e5485a203b7282",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 1.864164,
+            "pan": [
+              0.103866,
+              -0.025391,
+              -0.085584
+            ],
+            "alphaBounds": {
+              "x": 75,
+              "y": 136,
+              "width": 362,
+              "height": 240,
+              "fill": 0.707031,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-skate/kenney-mini-skate-obstacle-end.webp",
+          "packRelativePath": "previews/kenney-mini-skate-obstacle-end.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/mini-skate",
+        "tags": [
+          "3d",
+          "kenney",
+          "mini",
+          "skate",
+          "skatepark",
+          "sports",
+          "ramp",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy",
+          "obstacle",
+          "modular"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -1,
+              0,
+              0
+            ],
+            "max": [
+              0,
+              0.3,
+              0.5
+            ],
+            "size": [
+              1,
+              0.3,
+              0.5
+            ],
+            "center": [
+              -0.5,
+              0.15,
+              0.25
+            ],
+            "diagonal": 1.157584
+          },
+          "triangleCount": 94,
+          "drawCallCount": 1,
+          "renderVertexCount": 282,
+          "uploadVertexCount": 172,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-mini-skate-obstacle-middle": {
+      "generatedAt": "2026-04-24T10:20:46.895Z",
+      "asset": {
+        "id": "kenney-mini-skate-obstacle-middle",
+        "name": "Obstacle Middle",
+        "description": "Mini skate obstacle model (Obstacle Middle).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-mini-skate/kenney-mini-skate-obstacle-middle/kenney-mini-skate-obstacle-middle.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-skate/kenney-mini-skate-obstacle-middle/kenney-mini-skate-obstacle-middle.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-mini-skate/kenney-mini-skate-obstacle-middle.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 9240,
+          "sha256": "fe2ff64c40fcf748e592e1906a8b25a8cd2872f95ab691199cf58141b710f3c8",
+          "transparent": true,
+          "sourceBundleSha256": "9075de2219a8cc6f67a10728fbb904810a740b71a8cc54ed956e2a636bb1db96",
+          "cacheKey": "f44d77a4907b11b92060ffa70f826b9f111cca8fe9b225ed45ac27b39c6d6507",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 2.973371,
+            "pan": [
+              0.042835,
+              -0.118987,
+              0.042835
+            ],
+            "alphaBounds": {
+              "x": 71,
+              "y": 115,
+              "width": 370,
+              "height": 283,
+              "fill": 0.722656,
+              "centerOffset": {
+                "x": 0,
+                "y": 0.5,
+                "length": 0.5
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-skate/kenney-mini-skate-obstacle-middle.webp",
+          "packRelativePath": "previews/kenney-mini-skate-obstacle-middle.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/mini-skate",
+        "tags": [
+          "3d",
+          "kenney",
+          "mini",
+          "skate",
+          "skatepark",
+          "sports",
+          "ramp",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy",
+          "obstacle",
+          "modular"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.5,
+              0,
+              -0.5
+            ],
+            "max": [
+              0.5,
+              0.55,
+              0.5
+            ],
+            "size": [
+              1,
+              0.55,
+              1
+            ],
+            "center": [
+              0,
+              0.275,
+              0
+            ],
+            "diagonal": 1.517399
+          },
+          "triangleCount": 136,
+          "drawCallCount": 1,
+          "renderVertexCount": 408,
+          "uploadVertexCount": 228,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-mini-skate-pallet": {
+      "generatedAt": "2026-04-24T10:20:46.895Z",
+      "asset": {
+        "id": "kenney-mini-skate-pallet",
+        "name": "Pallet",
+        "description": null,
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-mini-skate/kenney-mini-skate-pallet/kenney-mini-skate-pallet.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-skate/kenney-mini-skate-pallet/kenney-mini-skate-pallet.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-mini-skate/kenney-mini-skate-pallet.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8858,
+          "sha256": "c5468dd6e4ddae56808d1652d119b1dc848a94dcf29e5e709bbfc2922c0e092f",
+          "transparent": true,
+          "sourceBundleSha256": "192b83b8c46416a3ef5074d0637fda197bd057aca3e4c934269f55e3f069b002",
+          "cacheKey": "4eccbb2428565073b8159c09090fd04c61e11e94436f0b1c9390078704190afb",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 1.351609,
+            "pan": [
+              0.010889,
+              -0.030246,
+              0.010889
+            ],
+            "alphaBounds": {
+              "x": 72,
+              "y": 138,
+              "width": 368,
+              "height": 236,
+              "fill": 0.71875,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-skate/kenney-mini-skate-pallet.webp",
+          "packRelativePath": "previews/kenney-mini-skate-pallet.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/mini-skate",
+        "tags": [
+          "3d",
+          "kenney",
+          "mini",
+          "skate",
+          "skatepark",
+          "sports",
+          "ramp",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.211429,
+              0,
+              -0.211429
+            ],
+            "max": [
+              0.211429,
+              0.134,
+              0.211429
+            ],
+            "size": [
+              0.422857,
+              0.134,
+              0.422857
+            ],
+            "center": [
+              0,
+              0.067,
+              0
+            ],
+            "diagonal": 0.61284
+          },
+          "triangleCount": 108,
+          "drawCallCount": 1,
+          "renderVertexCount": 324,
+          "uploadVertexCount": 200,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-mini-skate-rail-curve": {
+      "generatedAt": "2026-04-24T10:20:46.895Z",
+      "asset": {
+        "id": "kenney-mini-skate-rail-curve",
+        "name": "Rail Curve",
+        "description": "Mini skate rail model (Rail Curve).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-mini-skate/kenney-mini-skate-rail-curve/kenney-mini-skate-rail-curve.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-skate/kenney-mini-skate-rail-curve/kenney-mini-skate-rail-curve.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-mini-skate/kenney-mini-skate-rail-curve.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 4448,
+          "sha256": "ed64852a14979530ec685bc83243f874e06cd5eec49582a089458c35739c86ba",
+          "transparent": true,
+          "sourceBundleSha256": "9a62ad78ef002391b1018f32d8af8ac3afab08fd47886ef53b00badf3a553e62",
+          "cacheKey": "f5705da24ef756bdd7d5c90013bbf0e15e3ac20763207db5dfe1a42564d53a9c",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 1.782535,
+            "pan": [
+              -0.013957,
+              0.03877,
+              -0.013957
+            ],
+            "alphaBounds": {
+              "x": 73,
+              "y": 194,
+              "width": 366,
+              "height": 121,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": -1.5,
+                "length": 1.5
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-skate/kenney-mini-skate-rail-curve.webp",
+          "packRelativePath": "previews/kenney-mini-skate-rail-curve.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/mini-skate",
+        "tags": [
+          "3d",
+          "kenney",
+          "mini",
+          "skate",
+          "skatepark",
+          "sports",
+          "ramp",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy",
+          "rail",
+          "grind-rail",
+          "obstacle"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.55,
+              0,
+              0.45
+            ],
+            "max": [
+              0,
+              0.25,
+              1
+            ],
+            "size": [
+              0.55,
+              0.25,
+              0.55
+            ],
+            "center": [
+              -0.275,
+              0.125,
+              0.725
+            ],
+            "diagonal": 0.817007
+          },
+          "triangleCount": 86,
+          "drawCallCount": 1,
+          "renderVertexCount": 258,
+          "uploadVertexCount": 136,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-mini-skate-rail-high": {
+      "generatedAt": "2026-04-24T10:20:46.895Z",
+      "asset": {
+        "id": "kenney-mini-skate-rail-high",
+        "name": "Rail High",
+        "description": "Mini skate rail model (Rail High).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-mini-skate/kenney-mini-skate-rail-high/kenney-mini-skate-rail-high.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-skate/kenney-mini-skate-rail-high/kenney-mini-skate-rail-high.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-mini-skate/kenney-mini-skate-rail-high.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8308,
+          "sha256": "9b565e480aec963f584032fa1c5d03a53b63ea97821859e6987c59b10a48a887",
+          "transparent": true,
+          "sourceBundleSha256": "131c26a85cdef9c40d0e01d699339cf4509b89223219ca730893dc7bc0d1e8f0",
+          "cacheKey": "ca785f911a86afa0d1379ba369ddb9d3a8d6963314efc378893338d0e4f1d140",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 1.835127,
+            "pan": [
+              -0.038078,
+              -0.021484,
+              0.053546
+            ],
+            "alphaBounds": {
+              "x": 74,
+              "y": 99,
+              "width": 365,
+              "height": 315,
+              "fill": 0.712891,
+              "centerOffset": {
+                "x": 0.5,
+                "y": 0.5,
+                "length": 0.707107
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-skate/kenney-mini-skate-rail-high.webp",
+          "packRelativePath": "previews/kenney-mini-skate-rail-high.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/mini-skate",
+        "tags": [
+          "3d",
+          "kenney",
+          "mini",
+          "skate",
+          "skatepark",
+          "sports",
+          "ramp",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy",
+          "rail",
+          "grind-rail",
+          "obstacle"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.075,
+              0,
+              -0.5
+            ],
+            "max": [
+              0.075,
+              0.45,
+              0.5
+            ],
+            "size": [
+              0.15,
+              0.45,
+              1
+            ],
+            "center": [
+              0,
+              0.225,
+              0
+            ],
+            "diagonal": 1.106797
+          },
+          "triangleCount": 90,
+          "drawCallCount": 1,
+          "renderVertexCount": 270,
+          "uploadVertexCount": 156,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-mini-skate-rail-low": {
+      "generatedAt": "2026-04-24T10:20:46.895Z",
+      "asset": {
+        "id": "kenney-mini-skate-rail-low",
+        "name": "Rail Low",
+        "description": "Mini skate rail model (Rail Low).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-mini-skate/kenney-mini-skate-rail-low/kenney-mini-skate-rail-low.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-skate/kenney-mini-skate-rail-low/kenney-mini-skate-rail-low.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-mini-skate/kenney-mini-skate-rail-low.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 7372,
+          "sha256": "4f53bfbaa8a3826649de59112aeb19a143cbcf738a889991b8a1d5a3d9040b92",
+          "transparent": true,
+          "sourceBundleSha256": "30ca9bc39df7bb41f02367fd0b203e401606da42c3666b86c7468b987da221f5",
+          "cacheKey": "bb929fc9b4a5b64864493457730fddf94c07a9f33d93d2ebcc4bae778e420c2b",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 1.800283,
+            "pan": [
+              -0.038504,
+              -0.019225,
+              0.052346
+            ],
+            "alphaBounds": {
+              "x": 75,
+              "y": 136,
+              "width": 363,
+              "height": 241,
+              "fill": 0.708984,
+              "centerOffset": {
+                "x": 0.5,
+                "y": 0.5,
+                "length": 0.707107
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-skate/kenney-mini-skate-rail-low.webp",
+          "packRelativePath": "previews/kenney-mini-skate-rail-low.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/mini-skate",
+        "tags": [
+          "3d",
+          "kenney",
+          "mini",
+          "skate",
+          "skatepark",
+          "sports",
+          "ramp",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy",
+          "rail",
+          "grind-rail",
+          "obstacle"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.075,
+              0,
+              -0.5
+            ],
+            "max": [
+              0.075,
+              0.25,
+              0.5
+            ],
+            "size": [
+              0.15,
+              0.25,
+              1
+            ],
+            "center": [
+              0,
+              0.125,
+              0
+            ],
+            "diagonal": 1.041633
+          },
+          "triangleCount": 90,
+          "drawCallCount": 1,
+          "renderVertexCount": 270,
+          "uploadVertexCount": 156,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-mini-skate-rail-slope": {
+      "generatedAt": "2026-04-24T10:20:46.895Z",
+      "asset": {
+        "id": "kenney-mini-skate-rail-slope",
+        "name": "Rail Slope",
+        "description": "Mini skate rail model (Rail Slope).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-mini-skate/kenney-mini-skate-rail-slope/kenney-mini-skate-rail-slope.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-skate/kenney-mini-skate-rail-slope/kenney-mini-skate-rail-slope.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-mini-skate/kenney-mini-skate-rail-slope.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8482,
+          "sha256": "a0e6d3b2b3e69c3d169f4cdc93105eb1150e0512a1589208297e62a90f1cbd6d",
+          "transparent": true,
+          "sourceBundleSha256": "1a96dae681103ad482ec353216b206ab25023b2e847a3bff1dae1e66a3f9da98",
+          "cacheKey": "e610c2696949974e9450c466f16c631dc246e9a6ff8c3296ba12a891c7a09421",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 1.782861,
+            "pan": [
+              -0.029675,
+              -0.023297,
+              0.046449
+            ],
+            "alphaBounds": {
+              "x": 73,
+              "y": 94,
+              "width": 366,
+              "height": 324,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-skate/kenney-mini-skate-rail-slope.webp",
+          "packRelativePath": "previews/kenney-mini-skate-rail-slope.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/mini-skate",
+        "tags": [
+          "3d",
+          "kenney",
+          "mini",
+          "skate",
+          "skatepark",
+          "sports",
+          "ramp",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy",
+          "rail",
+          "grind-rail",
+          "obstacle"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.075,
+              0,
+              -0.5
+            ],
+            "max": [
+              0.075,
+              0.45,
+              0.5
+            ],
+            "size": [
+              0.15,
+              0.45,
+              1
+            ],
+            "center": [
+              0,
+              0.225,
+              0
+            ],
+            "diagonal": 1.106797
+          },
+          "triangleCount": 90,
+          "drawCallCount": 1,
+          "renderVertexCount": 270,
+          "uploadVertexCount": 156,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-mini-skate-skateboard": {
+      "generatedAt": "2026-04-24T10:20:46.895Z",
+      "asset": {
+        "id": "kenney-mini-skate-skateboard",
+        "name": "Skateboard",
+        "description": "Mini skate skateboard model (Skateboard).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-mini-skate/kenney-mini-skate-skateboard/kenney-mini-skate-skateboard.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-skate/kenney-mini-skate-skateboard/kenney-mini-skate-skateboard.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-mini-skate/kenney-mini-skate-skateboard.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 6786,
+          "sha256": "8025d3dd5e6569b67d5fada4fd0bea577deb8ee8f0424bb8b87861db6a9e3a22",
+          "transparent": true,
+          "sourceBundleSha256": "c6f47bf7c0d822c82878376d454dae47a5ceeac320788daf9bee22753b40c75c",
+          "cacheKey": "63c1e093c0232081c34618eca1b0cc69b67256b052f7efa19774e3b1f88a2d1c",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 1.321175,
+            "pan": [
+              -0.008306,
+              -0.021815,
+              0.024013
+            ],
+            "alphaBounds": {
+              "x": 72,
+              "y": 142,
+              "width": 368,
+              "height": 228,
+              "fill": 0.71875,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-skate/kenney-mini-skate-skateboard.webp",
+          "packRelativePath": "previews/kenney-mini-skate-skateboard.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/mini-skate",
+        "tags": [
+          "3d",
+          "kenney",
+          "mini",
+          "skate",
+          "skatepark",
+          "sports",
+          "ramp",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy",
+          "skateboard",
+          "prop"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.15,
+              0,
+              -0.35
+            ],
+            "max": [
+              0.15,
+              0.136603,
+              0.35
+            ],
+            "size": [
+              0.3,
+              0.136603,
+              0.7
+            ],
+            "center": [
+              0,
+              0.068301,
+              0
+            ],
+            "diagonal": 0.773731
+          },
+          "triangleCount": 240,
+          "drawCallCount": 1,
+          "renderVertexCount": 720,
+          "uploadVertexCount": 372,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-mini-skate-steps": {
+      "generatedAt": "2026-04-24T10:20:46.895Z",
+      "asset": {
+        "id": "kenney-mini-skate-steps",
+        "name": "Steps",
+        "description": null,
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-mini-skate/kenney-mini-skate-steps/kenney-mini-skate-steps.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-skate/kenney-mini-skate-steps/kenney-mini-skate-steps.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-mini-skate/kenney-mini-skate-steps.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8948,
+          "sha256": "190f7f2424ddaf00a3c281fc2e14a448167d1f699c3d3245b21abf52cbb431ad",
+          "transparent": true,
+          "sourceBundleSha256": "614c9325a42145445f068b1d5258a1823bdae3728cdd0c3ae6f5a5ec4734d2cb",
+          "cacheKey": "cec3b90675712b34f05e52973fe21d4fbebd204607938e1c38a076fbc1030392",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.144339,
+            "pan": [
+              0.035048,
+              -0.068503,
+              0.014274
+            ],
+            "alphaBounds": {
+              "x": 72,
+              "y": 129,
+              "width": 368,
+              "height": 255,
+              "fill": 0.71875,
+              "centerOffset": {
+                "x": 0,
+                "y": 0.5,
+                "length": 0.5
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-skate/kenney-mini-skate-steps.webp",
+          "packRelativePath": "previews/kenney-mini-skate-steps.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/mini-skate",
+        "tags": [
+          "3d",
+          "kenney",
+          "mini",
+          "skate",
+          "skatepark",
+          "sports",
+          "ramp",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.5,
+              0,
+              -0.5
+            ],
+            "max": [
+              0.5,
+              0.4,
+              0.5
+            ],
+            "size": [
+              1,
+              0.4,
+              1
+            ],
+            "center": [
+              0,
+              0.2,
+              0
+            ],
+            "diagonal": 1.469694
+          },
+          "triangleCount": 84,
+          "drawCallCount": 1,
+          "renderVertexCount": 252,
+          "uploadVertexCount": 132,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-mini-skate-structure-platform": {
+      "generatedAt": "2026-04-24T10:20:46.895Z",
+      "asset": {
+        "id": "kenney-mini-skate-structure-platform",
+        "name": "Structure Platform",
+        "description": "Mini skate structure model (Structure Platform).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-mini-skate/kenney-mini-skate-structure-platform/kenney-mini-skate-structure-platform.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-skate/kenney-mini-skate-structure-platform/kenney-mini-skate-structure-platform.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-mini-skate/kenney-mini-skate-structure-platform.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 9306,
+          "sha256": "65e1db252e179d1bc79d1df789c44550141a769a7f2d6984496c6dc78191d571",
+          "transparent": true,
+          "sourceBundleSha256": "edd488e28b2b405b58ab9833efdb730fab708f44203556a4fe18aec818b98b30",
+          "cacheKey": "97d46f903d022358dc2be95c1e67e708097d2325f116289e00d32cade055ebf2",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 2.572662,
+            "pan": [
+              0.014105,
+              0.026558,
+              -0.033226
+            ],
+            "alphaBounds": {
+              "x": 76,
+              "y": 95,
+              "width": 361,
+              "height": 321,
+              "fill": 0.705078,
+              "centerOffset": {
+                "x": 0.5,
+                "y": -0.5,
+                "length": 0.707107
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-skate/kenney-mini-skate-structure-platform.webp",
+          "packRelativePath": "previews/kenney-mini-skate-structure-platform.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/mini-skate",
+        "tags": [
+          "3d",
+          "kenney",
+          "mini",
+          "skate",
+          "skatepark",
+          "sports",
+          "ramp",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy",
+          "structure",
+          "platform",
+          "wood"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.5,
+              0,
+              -0.5
+            ],
+            "max": [
+              0.5,
+              0.8,
+              0
+            ],
+            "size": [
+              1,
+              0.8,
+              0.5
+            ],
+            "center": [
+              0,
+              0.4,
+              -0.25
+            ],
+            "diagonal": 1.374773
+          },
+          "triangleCount": 108,
+          "drawCallCount": 1,
+          "renderVertexCount": 324,
+          "uploadVertexCount": 216,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-mini-skate-structure-wood": {
+      "generatedAt": "2026-04-24T10:20:46.895Z",
+      "asset": {
+        "id": "kenney-mini-skate-structure-wood",
+        "name": "Structure Wood",
+        "description": "Mini skate structure model (Structure Wood).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-mini-skate/kenney-mini-skate-structure-wood/kenney-mini-skate-structure-wood.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-skate/kenney-mini-skate-structure-wood/kenney-mini-skate-structure-wood.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-mini-skate/kenney-mini-skate-structure-wood.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 14636,
+          "sha256": "363ecf28ccfad4091ba5c3fa19935aea2b1ae3f17fc8c95d308480928f4c21b7",
+          "transparent": true,
+          "sourceBundleSha256": "fdcfc1c891fad525d54883c9abeafb3d846cb98573a1658075c8b13a6cff086a",
+          "cacheKey": "5c4a2d0d726ac37dd0af232fd968f4c3c2a1c1efb5bee764a57a4727c58b6488",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.315308,
+            "pan": [
+              0.028035,
+              -0.077876,
+              0.028035
+            ],
+            "alphaBounds": {
+              "x": 74,
+              "y": 101,
+              "width": 364,
+              "height": 311,
+              "fill": 0.710938,
+              "centerOffset": {
+                "x": 0,
+                "y": 0.5,
+                "length": 0.5
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-skate/kenney-mini-skate-structure-wood.webp",
+          "packRelativePath": "previews/kenney-mini-skate-structure-wood.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/mini-skate",
+        "tags": [
+          "3d",
+          "kenney",
+          "mini",
+          "skate",
+          "skatepark",
+          "sports",
+          "ramp",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy",
+          "structure",
+          "platform",
+          "wood"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.5,
+              0,
+              -0.5
+            ],
+            "max": [
+              0.5,
+              0.7,
+              0.5
+            ],
+            "size": [
+              1,
+              0.7,
+              1
+            ],
+            "center": [
+              0,
+              0.35,
+              0
+            ],
+            "diagonal": 1.577973
+          },
+          "triangleCount": 184,
+          "drawCallCount": 1,
+          "renderVertexCount": 552,
+          "uploadVertexCount": 368,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    }
+  }
+}

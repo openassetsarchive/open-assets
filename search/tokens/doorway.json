@@ -1,7 +1,7 @@
 {
   "version": 1,
   "token": "doorway",
-  "count": 26,
+  "count": 38,
   "assetIds": [
     "kenney-fantasy-town-kit-wall-doorway-base",
     "kenney-fantasy-town-kit-wall-doorway-round",
@@ -13,6 +13,16 @@
     "kenney-fantasy-town-kit-wall-wood-doorway-square",
     "kenney-fantasy-town-kit-wall-wood-doorway-square-wide",
     "kenney-fantasy-town-kit-wall-wood-doorway-square-wide-curved",
+    "kenney-furniture-kit-doorway",
+    "kenney-furniture-kit-doorwayfront",
+    "kenney-furniture-kit-doorwayopen",
+    "kenney-furniture-kit-walldoorway",
+    "kenney-furniture-kit-walldoorwaywide",
+    "kenney-holiday-kit-cabin-doorway",
+    "kenney-holiday-kit-cabin-doorway-center",
+    "kenney-holiday-kit-cabin-doorway-left",
+    "kenney-holiday-kit-cabin-doorway-right",
+    "kenney-holiday-kit-cabin-overhang-doorway",
     "kenney-isometric-miniature-farm-angle-woodwalldoorway-e",
     "kenney-isometric-miniature-farm-angle-woodwalldoorway-n",
     "kenney-isometric-miniature-farm-angle-woodwalldoorway-s",
@@ -28,6 +38,8 @@
     "kenney-isometric-miniature-library-isometric-walldoorway-e",
     "kenney-isometric-miniature-library-isometric-walldoorway-n",
     "kenney-isometric-miniature-library-isometric-walldoorway-s",
-    "kenney-isometric-miniature-library-isometric-walldoorway-w"
+    "kenney-isometric-miniature-library-isometric-walldoorway-w",
+    "kenney-survival-kit-fence-doorway",
+    "kenney-survival-kit-structure-metal-doorway"
   ]
 }

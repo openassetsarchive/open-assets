@@ -1,8 +1,11 @@
 {
   "version": 1,
   "tag": "level-piece",
-  "count": 8,
+  "count": 14,
   "assetIds": [
+    "kenney-mini-arena-stairs",
+    "kenney-mini-arena-stairs-corner",
+    "kenney-mini-arena-stairs-corner-inner",
     "kenney-platformer-kit-ladder",
     "kenney-platformer-kit-ladder-broken",
     "kenney-platformer-kit-ladder-long",
@@ -10,6 +13,9 @@
     "kenney-platformer-kit-platform",
     "kenney-platformer-kit-platform-fortified",
     "kenney-platformer-kit-platform-overhang",
-    "kenney-platformer-kit-platform-ramp"
+    "kenney-platformer-kit-platform-ramp",
+    "kenney-retro-fantasy-kit-stairs-corner",
+    "kenney-retro-fantasy-kit-stairs-stone",
+    "kenney-retro-fantasy-kit-stairs-wood"
   ]
 }

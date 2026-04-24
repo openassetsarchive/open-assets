@@ -1,10 +1,16 @@
 {
   "version": 1,
   "token": "glass",
-  "count": 19,
+  "count": 26,
   "assetIds": [
     "kenney-fantasy-town-kit-wall-window-glass",
     "kenney-fantasy-town-kit-wall-wood-window-glass",
+    "kenney-food-kit-glass",
+    "kenney-food-kit-glass-wine",
+    "kenney-food-kit-soda-glass",
+    "kenney-furniture-kit-tablecoffeeglass",
+    "kenney-furniture-kit-tablecoffeeglasssquare",
+    "kenney-furniture-kit-tableglass",
     "kenney-graveyard-kit-lantern-glass",
     "kenney-isometric-miniature-farm-angle-woodwallwindowglass-e",
     "kenney-isometric-miniature-farm-angle-woodwallwindowglass-n",
@@ -21,6 +27,7 @@
     "kenney-isometric-miniature-library-isometric-bookcaseglass-e",
     "kenney-isometric-miniature-library-isometric-bookcaseglass-n",
     "kenney-isometric-miniature-library-isometric-bookcaseglass-s",
-    "kenney-isometric-miniature-library-isometric-bookcaseglass-w"
+    "kenney-isometric-miniature-library-isometric-bookcaseglass-w",
+    "kenney-space-kit-hangar-roundglass"
   ]
 }

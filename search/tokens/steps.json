@@ -1,8 +1,10 @@
 {
   "version": 1,
   "token": "steps",
-  "count": 8,
+  "count": 16,
   "assetIds": [
+    "kenney-coaster-kit-path-steps",
+    "kenney-coaster-kit-queue-steps",
     "kenney-isometric-miniature-dungeon-angle-stonesteps-e",
     "kenney-isometric-miniature-dungeon-angle-stonesteps-n",
     "kenney-isometric-miniature-dungeon-angle-stonesteps-s",
@@ -10,6 +12,12 @@
     "kenney-isometric-miniature-dungeon-isometric-stonesteps-e",
     "kenney-isometric-miniature-dungeon-isometric-stonesteps-n",
     "kenney-isometric-miniature-dungeon-isometric-stonesteps-s",
-    "kenney-isometric-miniature-dungeon-isometric-stonesteps-w"
+    "kenney-isometric-miniature-dungeon-isometric-stonesteps-w",
+    "kenney-mini-skate-steps",
+    "kenney-retro-fantasy-kit-floor-steps",
+    "kenney-retro-fantasy-kit-floor-steps-corner-inner",
+    "kenney-retro-fantasy-kit-floor-steps-corner-outer",
+    "kenney-retro-urban-kit-wall-steps-type-a",
+    "kenney-retro-urban-kit-wall-steps-type-b"
   ]
 }

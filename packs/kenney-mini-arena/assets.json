@@ -1,0 +1,2504 @@
+[
+  {
+    "id": "kenney-mini-arena-banner",
+    "packId": "kenney-mini-arena",
+    "packName": "Kenney Mini Arena",
+    "license": "CC0",
+    "sourceUrl": "https://kenney.nl/assets/mini-arena",
+    "name": "Banner",
+    "description": "Mini arena banner model (Banner).",
+    "kind": "model",
+    "format": "glb",
+    "publicPath": "assets/kenney-mini-arena/kenney-mini-arena-banner/kenney-mini-arena-banner.glb",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arena/kenney-mini-arena-banner/kenney-mini-arena-banner.glb",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/kenney-mini-arena/kenney-mini-arena-banner.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6912,
+      "sha256": "fde3b43d0cf3602fce58ab9daa9c6c9b3b64387fae884527617a2e1ad750be7d",
+      "transparent": true,
+      "sourceBundleSha256": "393ccace309c65d24ca8737c3199236f8642c3df2644a718ec7fd3811d012729",
+      "cacheKey": "442f2d4ccd2baf651fdc5aeeccdc5158c39a7b5cd13360e638b09197b20185cb",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.194347,
+        "pan": [
+          -0.026914,
+          0.021676,
+          0.011307
+        ],
+        "alphaBounds": {
+          "x": 166,
+          "y": 70,
+          "width": 181,
+          "height": 372,
+          "fill": 0.726563,
+          "centerOffset": {
+            "x": 0.5,
+            "y": 0,
+            "length": 0.5
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arena/kenney-mini-arena-banner.webp",
+      "packRelativePath": "previews/kenney-mini-arena-banner.webp"
+    },
+    "bounds": {
+      "size": [
+        0.6,
+        1.025,
+        0.225
+      ],
+      "diagonal": 1.208822
+    },
+    "triangleCount": 228,
+    "drawCallCount": 1,
+    "renderVertexCount": 684,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "external",
+    "tags": [
+      "3d",
+      "kenney",
+      "mini",
+      "arena",
+      "combat",
+      "battle",
+      "dungeon",
+      "modular",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy",
+      "banner",
+      "decor"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "kenney-mini-arena-block",
+    "packId": "kenney-mini-arena",
+    "packName": "Kenney Mini Arena",
+    "license": "CC0",
+    "sourceUrl": "https://kenney.nl/assets/mini-arena",
+    "name": "Block",
+    "description": null,
+    "kind": "model",
+    "format": "glb",
+    "publicPath": "assets/kenney-mini-arena/kenney-mini-arena-block/kenney-mini-arena-block.glb",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arena/kenney-mini-arena-block/kenney-mini-arena-block.glb",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/kenney-mini-arena/kenney-mini-arena-block.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6650,
+      "sha256": "33dca02ff6e28a94293e8c3b7e1e68c205de07f90a90c2136526a93fd3ebbfb5",
+      "transparent": true,
+      "sourceBundleSha256": "4d97b0078198fb46e6a8f23ddd64cfb64929dabfc043972e31d927702c8c3cd6",
+      "cacheKey": "5ea4a5e60c238ff1707bcd43d79e71d9dab0e087a4a2d5a79a1139203cade344",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.25584,
+        "pan": [
+          0.027506,
+          -0.076405,
+          0.027506
+        ],
+        "alphaBounds": {
+          "x": 73,
+          "y": 120,
+          "width": 366,
+          "height": 272,
+          "fill": 0.714844,
+          "centerOffset": {
+            "x": 0,
+            "y": 0,
+            "length": 0
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arena/kenney-mini-arena-block.webp",
+      "packRelativePath": "previews/kenney-mini-arena-block.webp"
+    },
+    "bounds": {
+      "size": [
+        1,
+        0.5,
+        1
+      ],
+      "diagonal": 1.5
+    },
+    "triangleCount": 12,
+    "drawCallCount": 1,
+    "renderVertexCount": 36,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "external",
+    "tags": [
+      "3d",
+      "kenney",
+      "mini",
+      "arena",
+      "combat",
+      "battle",
+      "dungeon",
+      "modular",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "kenney-mini-arena-border-corner",
+    "packId": "kenney-mini-arena",
+    "packName": "Kenney Mini Arena",
+    "license": "CC0",
+    "sourceUrl": "https://kenney.nl/assets/mini-arena",
+    "name": "Border Corner",
+    "description": "Mini arena border model (Border Corner).",
+    "kind": "model",
+    "format": "glb",
+    "publicPath": "assets/kenney-mini-arena/kenney-mini-arena-border-corner/kenney-mini-arena-border-corner.glb",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arena/kenney-mini-arena-border-corner/kenney-mini-arena-border-corner.glb",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/kenney-mini-arena/kenney-mini-arena-border-corner.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6940,
+      "sha256": "03050130737c669f2e4804fa10f338b41ee7112dfb13caf68d11322af51e6357",
+      "transparent": true,
+      "sourceBundleSha256": "e5f6695da0a9558cf8da21e86b1569ca448e9a696c358d7c9c3d114e274a38d7",
+      "cacheKey": "b99f6d99bb95b7f0894c1cd598a84650399e0cf8d91671a7232efc57c13f3ad6",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.604672,
+        "pan": [
+          0.001705,
+          -0.004737,
+          0.001705
+        ],
+        "alphaBounds": {
+          "x": 73,
+          "y": 150,
+          "width": 366,
+          "height": 209,
+          "fill": 0.714844,
+          "centerOffset": {
+            "x": 0,
+            "y": -1.5,
+            "length": 1.5
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arena/kenney-mini-arena-border-corner.webp",
+      "packRelativePath": "previews/kenney-mini-arena-border-corner.webp"
+    },
+    "bounds": {
+      "size": [
+        0.8,
+        0.4,
+        0.8
+      ],
+      "diagonal": 1.2
+    },
+    "triangleCount": 122,
+    "drawCallCount": 1,
+    "renderVertexCount": 366,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "external",
+    "tags": [
+      "3d",
+      "kenney",
+      "mini",
+      "arena",
+      "combat",
+      "battle",
+      "dungeon",
+      "modular",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy",
+      "border",
+      "barrier"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "kenney-mini-arena-border-straight",
+    "packId": "kenney-mini-arena",
+    "packName": "Kenney Mini Arena",
+    "license": "CC0",
+    "sourceUrl": "https://kenney.nl/assets/mini-arena",
+    "name": "Border Straight",
+    "description": "Mini arena border model (Border Straight).",
+    "kind": "model",
+    "format": "glb",
+    "publicPath": "assets/kenney-mini-arena/kenney-mini-arena-border-straight/kenney-mini-arena-border-straight.glb",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arena/kenney-mini-arena-border-straight/kenney-mini-arena-border-straight.glb",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/kenney-mini-arena/kenney-mini-arena-border-straight.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8972,
+      "sha256": "2f9046d16122e6bb6525dd31d10877d95ec9c006ff6cf1a3d1a945ba79e53675",
+      "transparent": true,
+      "sourceBundleSha256": "6bbcc62aeb7b476ec046d493af633401b8f52d35e19e4e0090fe4fb9bb0b766b",
+      "cacheKey": "35fab4f1853aef62f54bc53bbe504bff502e1ff43d37e9b14b1914bb05d01580",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.613314,
+        "pan": [
+          0.04151,
+          -0.061765,
+          0.002961
+        ],
+        "alphaBounds": {
+          "x": 74,
+          "y": 120,
+          "width": 365,
+          "height": 271,
+          "fill": 0.712891,
+          "centerOffset": {
+            "x": 0.5,
+            "y": -0.5,
+            "length": 0.707107
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arena/kenney-mini-arena-border-straight.webp",
+      "packRelativePath": "previews/kenney-mini-arena-border-straight.webp"
+    },
+    "bounds": {
+      "size": [
+        1,
+        0.4,
+        0.6
+      ],
+      "diagonal": 1.232883
+    },
+    "triangleCount": 60,
+    "drawCallCount": 1,
+    "renderVertexCount": 180,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "external",
+    "tags": [
+      "3d",
+      "kenney",
+      "mini",
+      "arena",
+      "combat",
+      "battle",
+      "dungeon",
+      "modular",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy",
+      "border",
+      "barrier"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "kenney-mini-arena-bricks",
+    "packId": "kenney-mini-arena",
+    "packName": "Kenney Mini Arena",
+    "license": "CC0",
+    "sourceUrl": "https://kenney.nl/assets/mini-arena",
+    "name": "Bricks",
+    "description": null,
+    "kind": "model",
+    "format": "glb",
+    "publicPath": "assets/kenney-mini-arena/kenney-mini-arena-bricks/kenney-mini-arena-bricks.glb",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arena/kenney-mini-arena-bricks/kenney-mini-arena-bricks.glb",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/kenney-mini-arena/kenney-mini-arena-bricks.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8590,
+      "sha256": "7284b8816314c180aa39e9221f5524d1aa3cab98850762850dcf1655412b7a38",
+      "transparent": true,
+      "sourceBundleSha256": "0a8d4cbd9a61a88615b19219ac888a577f42f29a08dc43be7360bfaa438260fc",
+      "cacheKey": "8cb65458c0ff2abd5f41ef818b0128e0f3a8aa223a996a262e5a62d1b342a10d",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 1.813115,
+        "pan": [
+          0.038408,
+          -0.093532,
+          0.028934
+        ],
+        "alphaBounds": {
+          "x": 65,
+          "y": 92,
+          "width": 382,
+          "height": 329,
+          "fill": 0.746094,
+          "centerOffset": {
+            "x": 0,
+            "y": 0.5,
+            "length": 0.5
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arena/kenney-mini-arena-bricks.webp",
+      "packRelativePath": "previews/kenney-mini-arena-bricks.webp"
+    },
+    "bounds": {
+      "size": [
+        0.772003,
+        0.4125,
+        0.846923
+      ],
+      "diagonal": 1.217959
+    },
+    "triangleCount": 120,
+    "drawCallCount": 1,
+    "renderVertexCount": 360,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "external",
+    "tags": [
+      "3d",
+      "kenney",
+      "mini",
+      "arena",
+      "combat",
+      "battle",
+      "dungeon",
+      "modular",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "kenney-mini-arena-character-soldier",
+    "packId": "kenney-mini-arena",
+    "packName": "Kenney Mini Arena",
+    "license": "CC0",
+    "sourceUrl": "https://kenney.nl/assets/mini-arena",
+    "name": "Character Soldier",
+    "description": "Mini arena character model (Character Soldier).",
+    "kind": "model",
+    "format": "glb",
+    "publicPath": "assets/kenney-mini-arena/kenney-mini-arena-character-soldier/kenney-mini-arena-character-soldier.glb",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arena/kenney-mini-arena-character-soldier/kenney-mini-arena-character-soldier.glb",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/kenney-mini-arena/kenney-mini-arena-character-soldier.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9940,
+      "sha256": "38b5f3d632eae4d59e9020c0fe7655052d3450ef9238c3856cc965309974948e",
+      "transparent": true,
+      "sourceBundleSha256": "5a612a47298d62bd88ec9a4ce7c0be65dd8e232683543e6a5f5dc7b0832089be",
+      "cacheKey": "629fc99e038e0ef5e2b1ed9e8dd0f59f6b79a0275b193526978838cf71f0bf75",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.025304,
+        "pan": [
+          -0.031337,
+          -0.014738,
+          0.041949
+        ],
+        "alphaBounds": {
+          "x": 133,
+          "y": 72,
+          "width": 245,
+          "height": 369,
+          "fill": 0.720703,
+          "centerOffset": {
+            "x": -0.5,
+            "y": 0.5,
+            "length": 0.707107
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arena/kenney-mini-arena-character-soldier.webp",
+      "packRelativePath": "previews/kenney-mini-arena-character-soldier.webp"
+    },
+    "bounds": {
+      "size": [
+        0.780564,
+        0.836325,
+        0.52
+      ],
+      "diagonal": 1.25663
+    },
+    "triangleCount": 513,
+    "drawCallCount": 2,
+    "renderVertexCount": 1539,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": true,
+    "animationCount": 25,
+    "animations": [
+      {
+        "name": "static",
+        "durationSec": 0.1
+      },
+      {
+        "name": "idle",
+        "durationSec": 1.333
+      },
+      {
+        "name": "walk",
+        "durationSec": 0.667
+      },
+      {
+        "name": "sprint",
+        "durationSec": 0.5
+      },
+      {
+        "name": "jump",
+        "durationSec": 0.5
+      },
+      {
+        "name": "fall",
+        "durationSec": 0.333
+      },
+      {
+        "name": "crouch",
+        "durationSec": 0.167
+      },
+      {
+        "name": "sit",
+        "durationSec": 0.167
+      },
+      {
+        "name": "drive",
+        "durationSec": 0.167
+      },
+      {
+        "name": "die",
+        "durationSec": 0.333
+      },
+      {
+        "name": "pick-up",
+        "durationSec": 0.333
+      },
+      {
+        "name": "emote-yes",
+        "durationSec": 0.667
+      },
+      {
+        "name": "emote-no",
+        "durationSec": 0.667
+      },
+      {
+        "name": "holding-right",
+        "durationSec": 0.167
+      },
+      {
+        "name": "holding-left",
+        "durationSec": 0.167
+      },
+      {
+        "name": "holding-both",
+        "durationSec": 0.167
+      },
+      {
+        "name": "holding-right-shoot",
+        "durationSec": 0.2
+      },
+      {
+        "name": "holding-left-shoot",
+        "durationSec": 0.2
+      },
+      {
+        "name": "holding-both-shoot",
+        "durationSec": 0.2
+      },
+      {
+        "name": "attack-melee-right",
+        "durationSec": 0.417
+      },
+      {
+        "name": "attack-melee-left",
+        "durationSec": 0.417
+      },
+      {
+        "name": "attack-kick-right",
+        "durationSec": 0.533
+      },
+      {
+        "name": "attack-kick-left",
+        "durationSec": 0.533
+      },
+      {
+        "name": "interact-right",
+        "durationSec": 0.667
+      },
+      {
+        "name": "interact-left",
+        "durationSec": 0.667
+      }
+    ],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": true,
+    "skinCount": 2,
+    "jointCountTotal": 14,
+    "requiredExtensions": [],
+    "dependencyMode": "external",
+    "tags": [
+      "3d",
+      "kenney",
+      "mini",
+      "arena",
+      "combat",
+      "battle",
+      "dungeon",
+      "modular",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy",
+      "character",
+      "soldier",
+      "npc",
+      "animated",
+      "rigged",
+      "skinned",
+      "skeletal-animation"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "kenney-mini-arena-column",
+    "packId": "kenney-mini-arena",
+    "packName": "Kenney Mini Arena",
+    "license": "CC0",
+    "sourceUrl": "https://kenney.nl/assets/mini-arena",
+    "name": "Column",
+    "description": "Mini arena column model (Column).",
+    "kind": "model",
+    "format": "glb",
+    "publicPath": "assets/kenney-mini-arena/kenney-mini-arena-column/kenney-mini-arena-column.glb",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arena/kenney-mini-arena-column/kenney-mini-arena-column.glb",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/kenney-mini-arena/kenney-mini-arena-column.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7928,
+      "sha256": "c1df9f7d1267545bccf0a3d72b9720aed9a2a3a580ee96d2dbd071dad176bd0a",
+      "transparent": true,
+      "sourceBundleSha256": "73fbe35a9c0f2891fc102eb5f04449d3e7fd6f573cd0af3f1d796c8cc36a808e",
+      "cacheKey": "5a2865d0d550af31b25f6dde2dca961cfe7633d31f6deb0d88b3aa3168f602a3",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.740258,
+        "pan": [
+          0.009645,
+          -0.024202,
+          0.007781
+        ],
+        "alphaBounds": {
+          "x": 128,
+          "y": 71,
+          "width": 256,
+          "height": 370,
+          "fill": 0.722656,
+          "centerOffset": {
+            "x": 0,
+            "y": 0,
+            "length": 0
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arena/kenney-mini-arena-column.webp",
+      "packRelativePath": "previews/kenney-mini-arena-column.webp"
+    },
+    "bounds": {
+      "size": [
+        0.603125,
+        1,
+        0.6
+      ],
+      "diagonal": 1.31292
+    },
+    "triangleCount": 168,
+    "drawCallCount": 1,
+    "renderVertexCount": 504,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "external",
+    "tags": [
+      "3d",
+      "kenney",
+      "mini",
+      "arena",
+      "combat",
+      "battle",
+      "dungeon",
+      "modular",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy",
+      "column",
+      "support",
+      "ruin"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "kenney-mini-arena-column-damaged",
+    "packId": "kenney-mini-arena",
+    "packName": "Kenney Mini Arena",
+    "license": "CC0",
+    "sourceUrl": "https://kenney.nl/assets/mini-arena",
+    "name": "Column Damaged",
+    "description": "Mini arena column model (Column Damaged).",
+    "kind": "model",
+    "format": "glb",
+    "publicPath": "assets/kenney-mini-arena/kenney-mini-arena-column-damaged/kenney-mini-arena-column-damaged.glb",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arena/kenney-mini-arena-column-damaged/kenney-mini-arena-column-damaged.glb",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/kenney-mini-arena/kenney-mini-arena-column-damaged.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7922,
+      "sha256": "2bc2fa4faab9ca61a9b76ff2e6a694595e54ae8cb03eda460cdfad2382ac81a2",
+      "transparent": true,
+      "sourceBundleSha256": "d1a279739c4d7888125768164bc4f992d2676521230eb0701f50d26990d4d14f",
+      "cacheKey": "8055c81e2ba346fd1a21b7914f0116f94892987ccc73909fd329c30c101f3c01",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.074403,
+        "pan": [
+          0.023591,
+          -0.065529,
+          0.023591
+        ],
+        "alphaBounds": {
+          "x": 108,
+          "y": 72,
+          "width": 296,
+          "height": 366,
+          "fill": 0.714844,
+          "centerOffset": {
+            "x": 0,
+            "y": -1,
+            "length": 1
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arena/kenney-mini-arena-column-damaged.webp",
+      "packRelativePath": "previews/kenney-mini-arena-column-damaged.webp"
+    },
+    "bounds": {
+      "size": [
+        0.6,
+        0.715654,
+        0.6
+      ],
+      "diagonal": 1.110028
+    },
+    "triangleCount": 148,
+    "drawCallCount": 1,
+    "renderVertexCount": 444,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "external",
+    "tags": [
+      "3d",
+      "kenney",
+      "mini",
+      "arena",
+      "combat",
+      "battle",
+      "dungeon",
+      "modular",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy",
+      "column",
+      "support",
+      "ruin"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "kenney-mini-arena-floor",
+    "packId": "kenney-mini-arena",
+    "packName": "Kenney Mini Arena",
+    "license": "CC0",
+    "sourceUrl": "https://kenney.nl/assets/mini-arena",
+    "name": "Floor",
+    "description": "Mini arena floor model (Floor).",
+    "kind": "model",
+    "format": "glb",
+    "publicPath": "assets/kenney-mini-arena/kenney-mini-arena-floor/kenney-mini-arena-floor.glb",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arena/kenney-mini-arena-floor/kenney-mini-arena-floor.glb",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/kenney-mini-arena/kenney-mini-arena-floor.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 4724,
+      "sha256": "a907e331bc3b627cc3c42c72886ff5957632e88054ccd124053e4390f7078aaf",
+      "transparent": true,
+      "sourceBundleSha256": "83ecbce0c5b4857a23ea45c45f4cc0cd4de99f729059f2539d166bed23fc1a81",
+      "cacheKey": "859b2522cf48075ea7199e2b3cebfa6cd60fd23170496d4dcdd6ea8c3c79254a",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.114605,
+        "pan": [
+          0.020829,
+          -0.057404,
+          0.020503
+        ],
+        "alphaBounds": {
+          "x": 72,
+          "y": 172,
+          "width": 368,
+          "height": 168,
+          "fill": 0.71875,
+          "centerOffset": {
+            "x": 0,
+            "y": 0,
+            "length": 0
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arena/kenney-mini-arena-floor.webp",
+      "packRelativePath": "previews/kenney-mini-arena-floor.webp"
+    },
+    "bounds": {
+      "size": [
+        1,
+        0,
+        1
+      ],
+      "diagonal": 1.414214
+    },
+    "triangleCount": 2,
+    "drawCallCount": 1,
+    "renderVertexCount": 6,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "external",
+    "tags": [
+      "3d",
+      "kenney",
+      "mini",
+      "arena",
+      "combat",
+      "battle",
+      "dungeon",
+      "modular",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy",
+      "floor",
+      "tile"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "kenney-mini-arena-floor-detail",
+    "packId": "kenney-mini-arena",
+    "packName": "Kenney Mini Arena",
+    "license": "CC0",
+    "sourceUrl": "https://kenney.nl/assets/mini-arena",
+    "name": "Floor Detail",
+    "description": "Mini arena floor model (Floor Detail).",
+    "kind": "model",
+    "format": "glb",
+    "publicPath": "assets/kenney-mini-arena/kenney-mini-arena-floor-detail/kenney-mini-arena-floor-detail.glb",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arena/kenney-mini-arena-floor-detail/kenney-mini-arena-floor-detail.glb",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/kenney-mini-arena/kenney-mini-arena-floor-detail.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 5074,
+      "sha256": "3c6a149219879d96f764d8e240e9abc8addcdda05e639adff65a1f1416c90410",
+      "transparent": true,
+      "sourceBundleSha256": "c60ade0e241cafa15c12b67e824680595457a346f3427d7f83a7fba297a211c2",
+      "cacheKey": "5df4ff93d54b458a7143962e8a4857e26b00749cb027e779d78e4aaf938c3ac0",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.099738,
+        "pan": [
+          0.031174,
+          -0.08616,
+          0.030861
+        ],
+        "alphaBounds": {
+          "x": 72,
+          "y": 172,
+          "width": 368,
+          "height": 168,
+          "fill": 0.71875,
+          "centerOffset": {
+            "x": 0,
+            "y": 0,
+            "length": 0
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arena/kenney-mini-arena-floor-detail.webp",
+      "packRelativePath": "previews/kenney-mini-arena-floor-detail.webp"
+    },
+    "bounds": {
+      "size": [
+        1,
+        0.07,
+        1
+      ],
+      "diagonal": 1.415945
+    },
+    "triangleCount": 50,
+    "drawCallCount": 1,
+    "renderVertexCount": 150,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "external",
+    "tags": [
+      "3d",
+      "kenney",
+      "mini",
+      "arena",
+      "combat",
+      "battle",
+      "dungeon",
+      "modular",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy",
+      "floor",
+      "tile"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "kenney-mini-arena-stairs",
+    "packId": "kenney-mini-arena",
+    "packName": "Kenney Mini Arena",
+    "license": "CC0",
+    "sourceUrl": "https://kenney.nl/assets/mini-arena",
+    "name": "Stairs",
+    "description": "Mini arena stair model (Stairs).",
+    "kind": "model",
+    "format": "glb",
+    "publicPath": "assets/kenney-mini-arena/kenney-mini-arena-stairs/kenney-mini-arena-stairs.glb",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arena/kenney-mini-arena-stairs/kenney-mini-arena-stairs.glb",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/kenney-mini-arena/kenney-mini-arena-stairs.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7152,
+      "sha256": "84123ed1633e8bf5748b61fb32baf2d95111c7c5181688059442262e61d9026a",
+      "transparent": true,
+      "sourceBundleSha256": "7b6f1fa50a83deb3d7bb1b38ce07014f0c2938adb9769d2dfbea7664e68ca1b2",
+      "cacheKey": "09116bec7ef6a504cb839253bb40e8cfe6221aac24d07c76b3968b4ef7037f6d",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.166639,
+        "pan": [
+          0.039834,
+          -0.078535,
+          0.016711
+        ],
+        "alphaBounds": {
+          "x": 72,
+          "y": 116,
+          "width": 368,
+          "height": 280,
+          "fill": 0.71875,
+          "centerOffset": {
+            "x": 0,
+            "y": 0,
+            "length": 0
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arena/kenney-mini-arena-stairs.webp",
+      "packRelativePath": "previews/kenney-mini-arena-stairs.webp"
+    },
+    "bounds": {
+      "size": [
+        1,
+        0.5,
+        1
+      ],
+      "diagonal": 1.5
+    },
+    "triangleCount": 44,
+    "drawCallCount": 1,
+    "renderVertexCount": 132,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "external",
+    "tags": [
+      "3d",
+      "kenney",
+      "mini",
+      "arena",
+      "combat",
+      "battle",
+      "dungeon",
+      "modular",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy",
+      "stairs",
+      "level-piece"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "kenney-mini-arena-stairs-corner",
+    "packId": "kenney-mini-arena",
+    "packName": "Kenney Mini Arena",
+    "license": "CC0",
+    "sourceUrl": "https://kenney.nl/assets/mini-arena",
+    "name": "Stairs Corner",
+    "description": "Mini arena stair model (Stairs Corner).",
+    "kind": "model",
+    "format": "glb",
+    "publicPath": "assets/kenney-mini-arena/kenney-mini-arena-stairs-corner/kenney-mini-arena-stairs-corner.glb",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arena/kenney-mini-arena-stairs-corner/kenney-mini-arena-stairs-corner.glb",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/kenney-mini-arena/kenney-mini-arena-stairs-corner.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7236,
+      "sha256": "a1f924a52a601e4ffdcf75065dae291dbd4d76d1e3924639d4e9d81cb485e713",
+      "transparent": true,
+      "sourceBundleSha256": "bb3a2553b3a33484c07c4fd251131cb3f993f6203197ca1368444268b3c69222",
+      "cacheKey": "a7584235fccadb9888c2fe8cedea0fd44f1d83a4a383324d635cb21dbe4ac0d6",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.077438,
+        "pan": [
+          0.025214,
+          -0.070039,
+          0.025214
+        ],
+        "alphaBounds": {
+          "x": 71,
+          "y": 115,
+          "width": 370,
+          "height": 282,
+          "fill": 0.722656,
+          "centerOffset": {
+            "x": 0,
+            "y": 0,
+            "length": 0
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arena/kenney-mini-arena-stairs-corner.webp",
+      "packRelativePath": "previews/kenney-mini-arena-stairs-corner.webp"
+    },
+    "bounds": {
+      "size": [
+        1,
+        0.5,
+        1
+      ],
+      "diagonal": 1.5
+    },
+    "triangleCount": 84,
+    "drawCallCount": 1,
+    "renderVertexCount": 252,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "external",
+    "tags": [
+      "3d",
+      "kenney",
+      "mini",
+      "arena",
+      "combat",
+      "battle",
+      "dungeon",
+      "modular",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy",
+      "stairs",
+      "level-piece"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "kenney-mini-arena-stairs-corner-inner",
+    "packId": "kenney-mini-arena",
+    "packName": "Kenney Mini Arena",
+    "license": "CC0",
+    "sourceUrl": "https://kenney.nl/assets/mini-arena",
+    "name": "Stairs Corner Inner",
+    "description": "Mini arena stair model (Stairs Corner Inner).",
+    "kind": "model",
+    "format": "glb",
+    "publicPath": "assets/kenney-mini-arena/kenney-mini-arena-stairs-corner-inner/kenney-mini-arena-stairs-corner-inner.glb",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arena/kenney-mini-arena-stairs-corner-inner/kenney-mini-arena-stairs-corner-inner.glb",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/kenney-mini-arena/kenney-mini-arena-stairs-corner-inner.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7508,
+      "sha256": "2a9b3f82a37fccaffa6ec4afa87ce437085f82938c5d1ce4467b792da20e0749",
+      "transparent": true,
+      "sourceBundleSha256": "df5ce1378a7a85fb0359707f03bbd6925140ab4b4785fcb63033433174fa9a72",
+      "cacheKey": "1c1ecc793fbafde09cf175e754fd815de71b44b4b48d8027ac7a6069b8b17871",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.25584,
+        "pan": [
+          0.027506,
+          -0.076405,
+          0.027506
+        ],
+        "alphaBounds": {
+          "x": 73,
+          "y": 120,
+          "width": 366,
+          "height": 272,
+          "fill": 0.714844,
+          "centerOffset": {
+            "x": 0,
+            "y": 0,
+            "length": 0
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arena/kenney-mini-arena-stairs-corner-inner.webp",
+      "packRelativePath": "previews/kenney-mini-arena-stairs-corner-inner.webp"
+    },
+    "bounds": {
+      "size": [
+        1,
+        0.5,
+        1
+      ],
+      "diagonal": 1.5
+    },
+    "triangleCount": 72,
+    "drawCallCount": 1,
+    "renderVertexCount": 216,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "external",
+    "tags": [
+      "3d",
+      "kenney",
+      "mini",
+      "arena",
+      "combat",
+      "battle",
+      "dungeon",
+      "modular",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy",
+      "stairs",
+      "level-piece"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "kenney-mini-arena-statue",
+    "packId": "kenney-mini-arena",
+    "packName": "Kenney Mini Arena",
+    "license": "CC0",
+    "sourceUrl": "https://kenney.nl/assets/mini-arena",
+    "name": "Statue",
+    "description": "Mini arena statue model (Statue).",
+    "kind": "model",
+    "format": "glb",
+    "publicPath": "assets/kenney-mini-arena/kenney-mini-arena-statue/kenney-mini-arena-statue.glb",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arena/kenney-mini-arena-statue/kenney-mini-arena-statue.glb",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/kenney-mini-arena/kenney-mini-arena-statue.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8116,
+      "sha256": "e0b30c2c7edb29082d7975f35bab860bc8bdfd838c8c1bbf46e15d9c7323e824",
+      "transparent": true,
+      "sourceBundleSha256": "50ffbe6609e0dc3f322f7ccccc2c73324170fa76cadd1e217a1c4bb58d702224",
+      "cacheKey": "32702ba56450dda400f77c082e428c409b6874338dd864f0a087c7d8d4ae3386",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.39911,
+        "pan": [
+          0.020347,
+          -0.05652,
+          0.020347
+        ],
+        "alphaBounds": {
+          "x": 154,
+          "y": 73,
+          "width": 204,
+          "height": 366,
+          "fill": 0.714844,
+          "centerOffset": {
+            "x": 0,
+            "y": 0,
+            "length": 0
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arena/kenney-mini-arena-statue.webp",
+      "packRelativePath": "previews/kenney-mini-arena-statue.webp"
+    },
+    "bounds": {
+      "size": [
+        0.7,
+        1.336325,
+        0.7
+      ],
+      "diagonal": 1.663059
+    },
+    "triangleCount": 549,
+    "drawCallCount": 1,
+    "renderVertexCount": 1647,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "external",
+    "tags": [
+      "3d",
+      "kenney",
+      "mini",
+      "arena",
+      "combat",
+      "battle",
+      "dungeon",
+      "modular",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy",
+      "statue",
+      "decor",
+      "prop"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "kenney-mini-arena-tree",
+    "packId": "kenney-mini-arena",
+    "packName": "Kenney Mini Arena",
+    "license": "CC0",
+    "sourceUrl": "https://kenney.nl/assets/mini-arena",
+    "name": "Tree",
+    "description": null,
+    "kind": "model",
+    "format": "glb",
+    "publicPath": "assets/kenney-mini-arena/kenney-mini-arena-tree/kenney-mini-arena-tree.glb",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arena/kenney-mini-arena-tree/kenney-mini-arena-tree.glb",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/kenney-mini-arena/kenney-mini-arena-tree.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 5466,
+      "sha256": "a810d5241b23dbe12ed5d2959c2d562a3425d5e82f2e016c46b6aec007e5de9e",
+      "transparent": true,
+      "sourceBundleSha256": "6f2272b65d98b9d36273b2de4df8aae746d567deea880af2307c1161995c09a9",
+      "cacheKey": "130fdb814a82885a5d83cf046768c6b6293794caca71754b4181bcd8105a94e8",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 4.104332,
+        "pan": [
+          -0.016217,
+          0.045048,
+          -0.016217
+        ],
+        "alphaBounds": {
+          "x": 196,
+          "y": 77,
+          "width": 120,
+          "height": 359,
+          "fill": 0.701172,
+          "centerOffset": {
+            "x": 0,
+            "y": 0.5,
+            "length": 0.5
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arena/kenney-mini-arena-tree.webp",
+      "packRelativePath": "previews/kenney-mini-arena-tree.webp"
+    },
+    "bounds": {
+      "size": [
+        0.650015,
+        1.917172,
+        0.65114
+      ],
+      "diagonal": 2.126511
+    },
+    "triangleCount": 330,
+    "drawCallCount": 1,
+    "renderVertexCount": 990,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "external",
+    "tags": [
+      "3d",
+      "kenney",
+      "mini",
+      "arena",
+      "combat",
+      "battle",
+      "dungeon",
+      "modular",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "kenney-mini-arena-trophy",
+    "packId": "kenney-mini-arena",
+    "packName": "Kenney Mini Arena",
+    "license": "CC0",
+    "sourceUrl": "https://kenney.nl/assets/mini-arena",
+    "name": "Trophy",
+    "description": "Mini arena trophy model (Trophy).",
+    "kind": "model",
+    "format": "glb",
+    "publicPath": "assets/kenney-mini-arena/kenney-mini-arena-trophy/kenney-mini-arena-trophy.glb",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arena/kenney-mini-arena-trophy/kenney-mini-arena-trophy.glb",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/kenney-mini-arena/kenney-mini-arena-trophy.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9654,
+      "sha256": "989032bdbdc558493443dcca508538081e7be74c6976e092fb239874374b6bbb",
+      "transparent": true,
+      "sourceBundleSha256": "29c5a43649ab70f66056d429d7ad31a7a50f1fd5e4ae00d1d30a1ede9a844e1c",
+      "cacheKey": "eafe59569b4bf47c1a152a3e21ddb788d7a149e814098d7c393885b8374a76ff",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 1.309276,
+        "pan": [
+          0.004629,
+          -0.004013,
+          -0.00174
+        ],
+        "alphaBounds": {
+          "x": 88,
+          "y": 71,
+          "width": 334,
+          "height": 369,
+          "fill": 0.720703,
+          "centerOffset": {
+            "x": -1,
+            "y": -0.5,
+            "length": 1.118034
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arena/kenney-mini-arena-trophy.webp",
+      "packRelativePath": "previews/kenney-mini-arena-trophy.webp"
+    },
+    "bounds": {
+      "size": [
+        0.569321,
+        0.4774,
+        0.451521
+      ],
+      "diagonal": 0.869429
+    },
+    "triangleCount": 244,
+    "drawCallCount": 1,
+    "renderVertexCount": 732,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "external",
+    "tags": [
+      "3d",
+      "kenney",
+      "mini",
+      "arena",
+      "combat",
+      "battle",
+      "dungeon",
+      "modular",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy",
+      "trophy",
+      "reward",
+      "prop"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "kenney-mini-arena-wall",
+    "packId": "kenney-mini-arena",
+    "packName": "Kenney Mini Arena",
+    "license": "CC0",
+    "sourceUrl": "https://kenney.nl/assets/mini-arena",
+    "name": "Wall",
+    "description": "Mini arena wall model (Wall).",
+    "kind": "model",
+    "format": "glb",
+    "publicPath": "assets/kenney-mini-arena/kenney-mini-arena-wall/kenney-mini-arena-wall.glb",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arena/kenney-mini-arena-wall/kenney-mini-arena-wall.glb",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/kenney-mini-arena/kenney-mini-arena-wall.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7274,
+      "sha256": "6b1f45eedff1d11894b3e1193486dc6436bb3a8b86ade7831d0cc118dcd00c02",
+      "transparent": true,
+      "sourceBundleSha256": "88ce1f0d2d0f1272660d2b27de539ef06ca1ff881c0a4d1820dc70c22c2e0b26",
+      "cacheKey": "28f6ea5fbb9c148f487bc9a59ca04f1649f8609745ec9ecd1af62e28b5d0b83b",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.114605,
+        "pan": [
+          0.037996,
+          -0.055554,
+          0.002003
+        ],
+        "alphaBounds": {
+          "x": 96,
+          "y": 73,
+          "width": 319,
+          "height": 366,
+          "fill": 0.714844,
+          "centerOffset": {
+            "x": -0.5,
+            "y": 0,
+            "length": 0.5
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arena/kenney-mini-arena-wall.webp",
+      "packRelativePath": "previews/kenney-mini-arena-wall.webp"
+    },
+    "bounds": {
+      "size": [
+        1,
+        1,
+        0.6
+      ],
+      "diagonal": 1.536229
+    },
+    "triangleCount": 174,
+    "drawCallCount": 1,
+    "renderVertexCount": 522,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "external",
+    "tags": [
+      "3d",
+      "kenney",
+      "mini",
+      "arena",
+      "combat",
+      "battle",
+      "dungeon",
+      "modular",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy",
+      "wall",
+      "barrier"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "kenney-mini-arena-wall-corner",
+    "packId": "kenney-mini-arena",
+    "packName": "Kenney Mini Arena",
+    "license": "CC0",
+    "sourceUrl": "https://kenney.nl/assets/mini-arena",
+    "name": "Wall Corner",
+    "description": "Mini arena wall model (Wall Corner).",
+    "kind": "model",
+    "format": "glb",
+    "publicPath": "assets/kenney-mini-arena/kenney-mini-arena-wall-corner/kenney-mini-arena-wall-corner.glb",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arena/kenney-mini-arena-wall-corner/kenney-mini-arena-wall-corner.glb",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/kenney-mini-arena/kenney-mini-arena-wall-corner.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7914,
+      "sha256": "aa13428584d49a8194c32a0ba1572669b6507a251e4a2f0e776c4ba5104be6ad",
+      "transparent": true,
+      "sourceBundleSha256": "7377e9e40d822bf4df1162660c62783429a393488c38601e76c0427aa00ffc01",
+      "cacheKey": "5fca991d7660fff5c6e6fc12cd46730729ef07c537803fbf696d04615648501b",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 2.740258,
+        "pan": [
+          -0.024108,
+          0.066967,
+          -0.024108
+        ],
+        "alphaBounds": {
+          "x": 73,
+          "y": 98,
+          "width": 366,
+          "height": 313,
+          "fill": 0.714844,
+          "centerOffset": {
+            "x": 0,
+            "y": -1.5,
+            "length": 1.5
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arena/kenney-mini-arena-wall-corner.webp",
+      "packRelativePath": "previews/kenney-mini-arena-wall-corner.webp"
+    },
+    "bounds": {
+      "size": [
+        0.8,
+        1,
+        0.8
+      ],
+      "diagonal": 1.509967
+    },
+    "triangleCount": 226,
+    "drawCallCount": 1,
+    "renderVertexCount": 678,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "external",
+    "tags": [
+      "3d",
+      "kenney",
+      "mini",
+      "arena",
+      "combat",
+      "battle",
+      "dungeon",
+      "modular",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy",
+      "wall",
+      "barrier"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "kenney-mini-arena-wall-gate",
+    "packId": "kenney-mini-arena",
+    "packName": "Kenney Mini Arena",
+    "license": "CC0",
+    "sourceUrl": "https://kenney.nl/assets/mini-arena",
+    "name": "Wall Gate",
+    "description": "Mini arena wall model (Wall Gate).",
+    "kind": "model",
+    "format": "glb",
+    "publicPath": "assets/kenney-mini-arena/kenney-mini-arena-wall-gate/kenney-mini-arena-wall-gate.glb",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arena/kenney-mini-arena-wall-gate/kenney-mini-arena-wall-gate.glb",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/kenney-mini-arena/kenney-mini-arena-wall-gate.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8010,
+      "sha256": "25693d0503f564820e77f2fd332b6299cb2bd89980f650654ba28a98c53a8fb0",
+      "transparent": true,
+      "sourceBundleSha256": "8761d9859d7899d97e30d49e6390adc499c4e15a63c20a13269ff1b6b54b6639",
+      "cacheKey": "069a38340e06cccd010621976e219517fb710ba1f0475756c72855935e16806e",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 3.114605,
+        "pan": [
+          0.037996,
+          -0.055554,
+          0.002003
+        ],
+        "alphaBounds": {
+          "x": 96,
+          "y": 73,
+          "width": 319,
+          "height": 366,
+          "fill": 0.714844,
+          "centerOffset": {
+            "x": -0.5,
+            "y": 0,
+            "length": 0.5
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arena/kenney-mini-arena-wall-gate.webp",
+      "packRelativePath": "previews/kenney-mini-arena-wall-gate.webp"
+    },
+    "bounds": {
+      "size": [
+        1,
+        1,
+        0.6
+      ],
+      "diagonal": 1.536229
+    },
+    "triangleCount": 322,
+    "drawCallCount": 2,
+    "renderVertexCount": 966,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "external",
+    "tags": [
+      "3d",
+      "kenney",
+      "mini",
+      "arena",
+      "combat",
+      "battle",
+      "dungeon",
+      "modular",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy",
+      "wall",
+      "barrier"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "kenney-mini-arena-weapon-rack",
+    "packId": "kenney-mini-arena",
+    "packName": "Kenney Mini Arena",
+    "license": "CC0",
+    "sourceUrl": "https://kenney.nl/assets/mini-arena",
+    "name": "Weapon Rack",
+    "description": "Mini arena weapon model (Weapon Rack).",
+    "kind": "model",
+    "format": "glb",
+    "publicPath": "assets/kenney-mini-arena/kenney-mini-arena-weapon-rack/kenney-mini-arena-weapon-rack.glb",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arena/kenney-mini-arena-weapon-rack/kenney-mini-arena-weapon-rack.glb",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/kenney-mini-arena/kenney-mini-arena-weapon-rack.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 9080,
+      "sha256": "2b498b9f66d0d18c7bd6812649c78c5fd30d4e48da536ff05d4fa513c09f09d1",
+      "transparent": true,
+      "sourceBundleSha256": "b11b9cdbb4246d66c3246b3ca9f4a9e0a850157bbeac46544e1955392655557a",
+      "cacheKey": "7dbab943ba373bd7bd139912de8b2958c602407e09ac45433cbe2f64c0edeee7",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 1.541395,
+        "pan": [
+          0.036885,
+          -0.046524,
+          -0.003387
+        ],
+        "alphaBounds": {
+          "x": 89,
+          "y": 72,
+          "width": 332,
+          "height": 366,
+          "fill": 0.714844,
+          "centerOffset": {
+            "x": -1,
+            "y": -1,
+            "length": 1.414214
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arena/kenney-mini-arena-weapon-rack.webp",
+      "packRelativePath": "previews/kenney-mini-arena-weapon-rack.webp"
+    },
+    "bounds": {
+      "size": [
+        0.72,
+        0.466667,
+        0.3
+      ],
+      "diagonal": 0.908943
+    },
+    "triangleCount": 212,
+    "drawCallCount": 2,
+    "renderVertexCount": 636,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "external",
+    "tags": [
+      "3d",
+      "kenney",
+      "mini",
+      "arena",
+      "combat",
+      "battle",
+      "dungeon",
+      "modular",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy",
+      "weapon",
+      "prop"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "kenney-mini-arena-weapon-spear",
+    "packId": "kenney-mini-arena",
+    "packName": "Kenney Mini Arena",
+    "license": "CC0",
+    "sourceUrl": "https://kenney.nl/assets/mini-arena",
+    "name": "Weapon Spear",
+    "description": "Mini arena weapon model (Weapon Spear).",
+    "kind": "model",
+    "format": "glb",
+    "publicPath": "assets/kenney-mini-arena/kenney-mini-arena-weapon-spear/kenney-mini-arena-weapon-spear.glb",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arena/kenney-mini-arena-weapon-spear/kenney-mini-arena-weapon-spear.glb",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/kenney-mini-arena/kenney-mini-arena-weapon-spear.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 4048,
+      "sha256": "4239ab99fac9527f6a8e08dc26dbbb3a508ab0118a03f70a7b97c7722ee1d0c4",
+      "transparent": true,
+      "sourceBundleSha256": "42d29413186355dd9d8f12af318325fbdab95797654b237247e02139278d1109",
+      "cacheKey": "63afcdb3aa80eae0c7ec17de7b184741888a0cf3e86a23bb1149839fd13f1428",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 1.498579,
+        "pan": [
+          -0.007281,
+          0.02385,
+          -0.009891
+        ],
+        "alphaBounds": {
+          "x": 211,
+          "y": 79,
+          "width": 90,
+          "height": 355,
+          "fill": 0.693359,
+          "centerOffset": {
+            "x": 0,
+            "y": 0.5,
+            "length": 0.5
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arena/kenney-mini-arena-weapon-spear.webp",
+      "packRelativePath": "previews/kenney-mini-arena-weapon-spear.webp"
+    },
+    "bounds": {
+      "size": [
+        0.14628,
+        0.7,
+        0.119
+      ],
+      "diagonal": 0.724954
+    },
+    "triangleCount": 58,
+    "drawCallCount": 1,
+    "renderVertexCount": 174,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "external",
+    "tags": [
+      "3d",
+      "kenney",
+      "mini",
+      "arena",
+      "combat",
+      "battle",
+      "dungeon",
+      "modular",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy",
+      "weapon",
+      "prop"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  {
+    "id": "kenney-mini-arena-weapon-sword",
+    "packId": "kenney-mini-arena",
+    "packName": "Kenney Mini Arena",
+    "license": "CC0",
+    "sourceUrl": "https://kenney.nl/assets/mini-arena",
+    "name": "Weapon Sword",
+    "description": "Mini arena weapon model (Weapon Sword).",
+    "kind": "model",
+    "format": "glb",
+    "publicPath": "assets/kenney-mini-arena/kenney-mini-arena-weapon-sword/kenney-mini-arena-weapon-sword.glb",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-mini-arena/kenney-mini-arena-weapon-sword/kenney-mini-arena-weapon-sword.glb",
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/kenney-mini-arena/kenney-mini-arena-weapon-sword.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 3494,
+      "sha256": "150d69b859fbf98b49e2197acc44dc205737059ce31170b74597d69e78e1cc3e",
+      "transparent": true,
+      "sourceBundleSha256": "eea90bd9a3365d659bc6f304df0d90fd51b38bc95d253c3bebbaa56c672b960d",
+      "cacheKey": "30a8e545c42b66fee86987e32cd9fa759c49ef4eedc55f385ca5b63ab977f2dc",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 1.003774,
+        "pan": [
+          -0.004528,
+          0.022956,
+          -0.012
+        ],
+        "alphaBounds": {
+          "x": 193,
+          "y": 73,
+          "width": 126,
+          "height": 364,
+          "fill": 0.710938,
+          "centerOffset": {
+            "x": 0,
+            "y": -1,
+            "length": 1
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-mini-arena/kenney-mini-arena-weapon-sword.webp",
+      "packRelativePath": "previews/kenney-mini-arena-weapon-sword.webp"
+    },
+    "bounds": {
+      "size": [
+        0.208,
+        0.501,
+        0.06
+      ],
+      "diagonal": 0.54577
+    },
+    "triangleCount": 80,
+    "drawCallCount": 1,
+    "renderVertexCount": 240,
+    "materialCount": 1,
+    "textureCount": 1,
+    "imageWidth": null,
+    "imageHeight": null,
+    "animated": false,
+    "animationCount": 0,
+    "animations": [],
+    "frameCount": null,
+    "atlasFormat": null,
+    "rigged": false,
+    "skinCount": 0,
+    "jointCountTotal": 0,
+    "requiredExtensions": [],
+    "dependencyMode": "external",
+    "tags": [
+      "3d",
+      "kenney",
+      "mini",
+      "arena",
+      "combat",
+      "battle",
+      "dungeon",
+      "modular",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy",
+      "weapon",
+      "prop"
+    ],
+    "aliases": [],
+    "warningCount": 0,
+    "errorCount": 0
+  }
+]

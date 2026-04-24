@@ -1,8 +1,11 @@
 {
   "version": 1,
   "token": "level",
-  "count": 153,
+  "count": 159,
   "assetIds": [
+    "kenney-mini-arena-stairs",
+    "kenney-mini-arena-stairs-corner",
+    "kenney-mini-arena-stairs-corner-inner",
     "kenney-platformer-kit-arrow",
     "kenney-platformer-kit-arrows",
     "kenney-platformer-kit-barrel",
@@ -155,6 +158,9 @@
     "kenney-platformer-kit-tree-pine-small",
     "kenney-platformer-kit-tree-pine-snow",
     "kenney-platformer-kit-tree-pine-snow-small",
-    "kenney-platformer-kit-tree-snow"
+    "kenney-platformer-kit-tree-snow",
+    "kenney-retro-fantasy-kit-stairs-corner",
+    "kenney-retro-fantasy-kit-stairs-stone",
+    "kenney-retro-fantasy-kit-stairs-wood"
   ]
 }

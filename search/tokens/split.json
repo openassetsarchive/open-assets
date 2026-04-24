@@ -1,11 +1,20 @@
 {
   "version": 1,
   "token": "split",
-  "count": 4,
+  "count": 13,
   "assetIds": [
     "kenney-city-kit-roads-road-split",
     "kenney-city-kit-roads-road-split-barrier",
+    "kenney-coaster-kit-path-split",
+    "kenney-coaster-kit-queue-split",
     "kenney-platformer-art-deluxe-ice-expansion-tiles-treetrunksplitleft",
-    "kenney-platformer-art-deluxe-ice-expansion-tiles-treetrunksplitright"
+    "kenney-platformer-art-deluxe-ice-expansion-tiles-treetrunksplitright",
+    "kenney-space-kit-corridor-split",
+    "kenney-space-kit-pipe-split",
+    "kenney-space-kit-terrain-roadsplit",
+    "kenney-tower-defense-kit-3d-snow-tile-split",
+    "kenney-tower-defense-kit-3d-snow-tile-wide-split",
+    "kenney-tower-defense-kit-3d-tile-split",
+    "kenney-tower-defense-kit-3d-tile-wide-split"
   ]
 }
