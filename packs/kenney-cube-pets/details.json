@@ -1,0 +1,6271 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-24T09:11:01.698Z",
+  "pack": {
+    "id": "kenney-cube-pets",
+    "name": "Kenney Cube Pets",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://kenney.nl/assets/cube-pets",
+    "tags": [
+      "3d",
+      "kenney",
+      "pet",
+      "animal",
+      "dog",
+      "cat",
+      "cube",
+      "character",
+      "animated",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy"
+    ]
+  },
+  "assetIds": [
+    "kenney-cube-pets-animal-beaver",
+    "kenney-cube-pets-animal-bee",
+    "kenney-cube-pets-animal-bunny",
+    "kenney-cube-pets-animal-cat",
+    "kenney-cube-pets-animal-caterpillar",
+    "kenney-cube-pets-animal-chick",
+    "kenney-cube-pets-animal-cow",
+    "kenney-cube-pets-animal-crab",
+    "kenney-cube-pets-animal-deer",
+    "kenney-cube-pets-animal-dog",
+    "kenney-cube-pets-animal-elephant",
+    "kenney-cube-pets-animal-fish",
+    "kenney-cube-pets-animal-fox",
+    "kenney-cube-pets-animal-giraffe",
+    "kenney-cube-pets-animal-hog",
+    "kenney-cube-pets-animal-koala",
+    "kenney-cube-pets-animal-lion",
+    "kenney-cube-pets-animal-monkey",
+    "kenney-cube-pets-animal-panda",
+    "kenney-cube-pets-animal-parrot",
+    "kenney-cube-pets-animal-penguin",
+    "kenney-cube-pets-animal-pig",
+    "kenney-cube-pets-animal-polar",
+    "kenney-cube-pets-animal-tiger"
+  ],
+  "assetsById": {
+    "kenney-cube-pets-animal-beaver": {
+      "generatedAt": "2026-04-24T09:11:01.698Z",
+      "asset": {
+        "id": "kenney-cube-pets-animal-beaver",
+        "name": "Animal Beaver",
+        "description": "Animated cube pet character model (Animal Beaver).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-cube-pets/kenney-cube-pets-animal-beaver/kenney-cube-pets-animal-beaver.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-cube-pets/kenney-cube-pets-animal-beaver/kenney-cube-pets-animal-beaver.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-cube-pets/kenney-cube-pets-animal-beaver.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 9540,
+          "sha256": "1dbef3173172d613746b3cfeaef5257d7d75d457cc0c8734c16a4c59b8a600fa",
+          "transparent": true,
+          "sourceBundleSha256": "2ea788704b9050edf9342e8a2c5f32eadfae37c3f9c9dcca160b99f325274373",
+          "cacheKey": "5cab846daa21db1c614006d3e34676bf21a8808c9a9f4dbe2a932480ae165c2b",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 4.117747,
+            "pan": [
+              -0.020739,
+              -0.051795,
+              0.058032
+            ],
+            "alphaBounds": {
+              "x": 86,
+              "y": 72,
+              "width": 340,
+              "height": 367,
+              "fill": 0.716797,
+              "centerOffset": {
+                "x": 0,
+                "y": -0.5,
+                "length": 0.5
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-cube-pets/kenney-cube-pets-animal-beaver.webp",
+          "packRelativePath": "previews/kenney-cube-pets-animal-beaver.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/cube-pets",
+        "tags": [
+          "3d",
+          "kenney",
+          "pet",
+          "animal",
+          "dog",
+          "cat",
+          "cube",
+          "character",
+          "animated",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [
+          "cube animal",
+          "cube pet"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.625,
+              0,
+              -1.040328
+            ],
+            "max": [
+              0.625,
+              1.50125,
+              0.796605
+            ],
+            "size": [
+              1.25,
+              1.50125,
+              1.836933
+            ],
+            "center": [
+              0,
+              0.750625,
+              -0.121862
+            ],
+            "diagonal": 2.681525
+          },
+          "triangleCount": 670,
+          "drawCallCount": 6,
+          "renderVertexCount": 2010,
+          "uploadVertexCount": 1144,
+          "meshCount": 6,
+          "primitiveCount": 6
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": true,
+        "animationCount": 8,
+        "animations": [
+          {
+            "name": "static",
+            "durationSec": 0.1,
+            "keyframes": 42,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "idle",
+            "durationSec": 1,
+            "keyframes": 98,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "walk",
+            "durationSec": 0.5,
+            "keyframes": 133,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "run",
+            "durationSec": 0.25,
+            "keyframes": 84,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "eat",
+            "durationSec": 0.5,
+            "keyframes": 68,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "dance",
+            "durationSec": 0.5,
+            "keyframes": 81,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-positive",
+            "durationSec": 0.25,
+            "keyframes": 53,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-negative",
+            "durationSec": 0.25,
+            "keyframes": 54,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          }
+        ],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-cube-pets-animal-bee": {
+      "generatedAt": "2026-04-24T09:11:01.698Z",
+      "asset": {
+        "id": "kenney-cube-pets-animal-bee",
+        "name": "Animal Bee",
+        "description": "Animated cube pet character model (Animal Bee).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-cube-pets/kenney-cube-pets-animal-bee/kenney-cube-pets-animal-bee.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-cube-pets/kenney-cube-pets-animal-bee/kenney-cube-pets-animal-bee.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-cube-pets/kenney-cube-pets-animal-bee.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 9644,
+          "sha256": "342688722794d2dfa1fe3741d52ef675a37095f177601382aace0a3d1673760b",
+          "transparent": true,
+          "sourceBundleSha256": "c49e8290749a9bb4dfa7f28705b993dceb1bed3391a91f2a8dab1ad88ed43a25",
+          "cacheKey": "36a59b9c3b6be2541b37283150320f8a810db6d6f628a46d76d35ef920c84150",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 4.830526,
+            "pan": [
+              0.001869,
+              -0.026155,
+              0.016962
+            ],
+            "alphaBounds": {
+              "x": 128,
+              "y": 72,
+              "width": 255,
+              "height": 368,
+              "fill": 0.71875,
+              "centerOffset": {
+                "x": -0.5,
+                "y": 0,
+                "length": 0.5
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-cube-pets/kenney-cube-pets-animal-bee.webp",
+          "packRelativePath": "previews/kenney-cube-pets-animal-bee.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/cube-pets",
+        "tags": [
+          "3d",
+          "kenney",
+          "pet",
+          "animal",
+          "dog",
+          "cat",
+          "cube",
+          "character",
+          "animated",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [
+          "cube animal",
+          "cube pet"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.6675,
+              0,
+              -0.625
+            ],
+            "max": [
+              0.6675,
+              1.998828,
+              0.668058
+            ],
+            "size": [
+              1.335,
+              1.998828,
+              1.293058
+            ],
+            "center": [
+              0,
+              0.999414,
+              0.021529
+            ],
+            "diagonal": 2.729384
+          },
+          "triangleCount": 742,
+          "drawCallCount": 7,
+          "renderVertexCount": 2226,
+          "uploadVertexCount": 1132,
+          "meshCount": 7,
+          "primitiveCount": 7
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": true,
+        "animationCount": 8,
+        "animations": [
+          {
+            "name": "static",
+            "durationSec": 0.1,
+            "keyframes": 48,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "idle",
+            "durationSec": 1,
+            "keyframes": 132,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "walk",
+            "durationSec": 0.5,
+            "keyframes": 152,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "run",
+            "durationSec": 0.25,
+            "keyframes": 96,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "eat",
+            "durationSec": 0.5,
+            "keyframes": 87,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "dance",
+            "durationSec": 0.5,
+            "keyframes": 100,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-positive",
+            "durationSec": 0.25,
+            "keyframes": 66,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-negative",
+            "durationSec": 0.25,
+            "keyframes": 66,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          }
+        ],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-cube-pets-animal-bunny": {
+      "generatedAt": "2026-04-24T09:11:01.698Z",
+      "asset": {
+        "id": "kenney-cube-pets-animal-bunny",
+        "name": "Animal Bunny",
+        "description": "Animated cube pet character model (Animal Bunny).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-cube-pets/kenney-cube-pets-animal-bunny/kenney-cube-pets-animal-bunny.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-cube-pets/kenney-cube-pets-animal-bunny/kenney-cube-pets-animal-bunny.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-cube-pets/kenney-cube-pets-animal-bunny.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8928,
+          "sha256": "837c080deec35f9398f0d4ae5c1e74d8adbe9bdd6ee2f95b1c4431556158c879",
+          "transparent": true,
+          "sourceBundleSha256": "1bcdaad977f2cb4c36fd6184041ae99549d21e0ae4ed9e2e43c75fe8a3d07463",
+          "cacheKey": "186e61813c4ef63bd34135cb9d115e60b4e53891d4337a64981b1bad0741f6e2",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 4.657551,
+            "pan": [
+              0.017853,
+              -0.049592,
+              0.017853
+            ],
+            "alphaBounds": {
+              "x": 124,
+              "y": 72,
+              "width": 264,
+              "height": 368,
+              "fill": 0.71875,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-cube-pets/kenney-cube-pets-animal-bunny.webp",
+          "packRelativePath": "previews/kenney-cube-pets-animal-bunny.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/cube-pets",
+        "tags": [
+          "3d",
+          "kenney",
+          "pet",
+          "animal",
+          "dog",
+          "cat",
+          "cube",
+          "character",
+          "animated",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [
+          "cube animal",
+          "cube pet"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.625,
+              0,
+              -0.625
+            ],
+            "max": [
+              0.625,
+              2.010045,
+              0.704825
+            ],
+            "size": [
+              1.25,
+              2.010045,
+              1.329825
+            ],
+            "center": [
+              0,
+              1.005022,
+              0.039912
+            ],
+            "diagonal": 2.714998
+          },
+          "triangleCount": 575,
+          "drawCallCount": 5,
+          "renderVertexCount": 1725,
+          "uploadVertexCount": 1075,
+          "meshCount": 5,
+          "primitiveCount": 5
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": true,
+        "animationCount": 8,
+        "animations": [
+          {
+            "name": "static",
+            "durationSec": 0.1,
+            "keyframes": 36,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "idle",
+            "durationSec": 1,
+            "keyframes": 64,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "walk",
+            "durationSec": 0.5,
+            "keyframes": 114,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "run",
+            "durationSec": 0.25,
+            "keyframes": 72,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "eat",
+            "durationSec": 0.5,
+            "keyframes": 49,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "dance",
+            "durationSec": 0.5,
+            "keyframes": 62,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-positive",
+            "durationSec": 0.25,
+            "keyframes": 42,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-negative",
+            "durationSec": 0.25,
+            "keyframes": 42,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          }
+        ],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-cube-pets-animal-cat": {
+      "generatedAt": "2026-04-24T09:11:01.698Z",
+      "asset": {
+        "id": "kenney-cube-pets-animal-cat",
+        "name": "Animal Cat",
+        "description": "Animated cube pet character model (Animal Cat).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-cube-pets/kenney-cube-pets-animal-cat/kenney-cube-pets-animal-cat.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-cube-pets/kenney-cube-pets-animal-cat/kenney-cube-pets-animal-cat.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-cube-pets/kenney-cube-pets-animal-cat.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 7860,
+          "sha256": "a6d27c4457a37194045bc40e9baf0703d50eca5a41ac9ae4541782aad7b5def8",
+          "transparent": true,
+          "sourceBundleSha256": "d25f7fd1756feffc8b7dde5ec41cc785a6c05464671c4b173bf17f03457e4052",
+          "cacheKey": "99b482039df507113a83acec96b5948e916127cc94cb65457125888ae517e317",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 4.614817,
+            "pan": [
+              -0.095783,
+              -0.05859,
+              0.137967
+            ],
+            "alphaBounds": {
+              "x": 116,
+              "y": 73,
+              "width": 280,
+              "height": 366,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-cube-pets/kenney-cube-pets-animal-cat.webp",
+          "packRelativePath": "previews/kenney-cube-pets-animal-cat.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/cube-pets",
+        "tags": [
+          "3d",
+          "kenney",
+          "pet",
+          "animal",
+          "dog",
+          "cat",
+          "cube",
+          "character",
+          "animated",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [
+          "cube animal",
+          "cube pet"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.625,
+              0,
+              -1.103609
+            ],
+            "max": [
+              0.625,
+              1.709994,
+              0.702413
+            ],
+            "size": [
+              1.25,
+              1.709994,
+              1.806021
+            ],
+            "center": [
+              0,
+              0.854997,
+              -0.200598
+            ],
+            "diagonal": 2.783576
+          },
+          "triangleCount": 684,
+          "drawCallCount": 7,
+          "renderVertexCount": 2052,
+          "uploadVertexCount": 1204,
+          "meshCount": 7,
+          "primitiveCount": 7
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": true,
+        "animationCount": 8,
+        "animations": [
+          {
+            "name": "static",
+            "durationSec": 0.1,
+            "keyframes": 48,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "idle",
+            "durationSec": 1,
+            "keyframes": 104,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "walk",
+            "durationSec": 0.5,
+            "keyframes": 139,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "run",
+            "durationSec": 0.25,
+            "keyframes": 90,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "eat",
+            "durationSec": 0.5,
+            "keyframes": 74,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "dance",
+            "durationSec": 0.5,
+            "keyframes": 87,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-positive",
+            "durationSec": 0.25,
+            "keyframes": 59,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-negative",
+            "durationSec": 0.25,
+            "keyframes": 60,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          }
+        ],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-cube-pets-animal-caterpillar": {
+      "generatedAt": "2026-04-24T09:11:01.698Z",
+      "asset": {
+        "id": "kenney-cube-pets-animal-caterpillar",
+        "name": "Animal Caterpillar",
+        "description": "Animated cube pet character model (Animal Caterpillar).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-cube-pets/kenney-cube-pets-animal-caterpillar/kenney-cube-pets-animal-caterpillar.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-cube-pets/kenney-cube-pets-animal-caterpillar/kenney-cube-pets-animal-caterpillar.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-cube-pets/kenney-cube-pets-animal-caterpillar.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 10140,
+          "sha256": "6ce890581bacea1ffa20c270c6d892f2e2407de0fdc6ac53571574972c0f1ccd",
+          "transparent": true,
+          "sourceBundleSha256": "c65921f97bdea469c4894bfc0f3e4ec761aeb24dfce3939a75c80cecd63e5a06",
+          "cacheKey": "e4404e173c865dcf102548de93e9b005df1a9ab864b38530e856607a76a7e7cd",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.965982,
+            "pan": [
+              0.032567,
+              -0.089915,
+              0.032172
+            ],
+            "alphaBounds": {
+              "x": 98,
+              "y": 71,
+              "width": 316,
+              "height": 371,
+              "fill": 0.724609,
+              "centerOffset": {
+                "x": 0,
+                "y": 0.5,
+                "length": 0.5
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-cube-pets/kenney-cube-pets-animal-caterpillar.webp",
+          "packRelativePath": "previews/kenney-cube-pets-animal-caterpillar.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/cube-pets",
+        "tags": [
+          "3d",
+          "kenney",
+          "pet",
+          "animal",
+          "dog",
+          "cat",
+          "cube",
+          "character",
+          "animated",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [
+          "cube animal",
+          "cube pet"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.72225,
+              0,
+              -0.625
+            ],
+            "max": [
+              0.72225,
+              1.746606,
+              0.706973
+            ],
+            "size": [
+              1.4445,
+              1.746606,
+              1.331973
+            ],
+            "center": [
+              0,
+              0.873303,
+              0.040986
+            ],
+            "diagonal": 2.628947
+          },
+          "triangleCount": 578,
+          "drawCallCount": 5,
+          "renderVertexCount": 1734,
+          "uploadVertexCount": 1062,
+          "meshCount": 5,
+          "primitiveCount": 5
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": true,
+        "animationCount": 8,
+        "animations": [
+          {
+            "name": "static",
+            "durationSec": 0.1,
+            "keyframes": 36,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "idle",
+            "durationSec": 1,
+            "keyframes": 64,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "walk",
+            "durationSec": 0.5,
+            "keyframes": 114,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "run",
+            "durationSec": 0.25,
+            "keyframes": 72,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "eat",
+            "durationSec": 0.5,
+            "keyframes": 49,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "dance",
+            "durationSec": 0.5,
+            "keyframes": 62,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-positive",
+            "durationSec": 0.25,
+            "keyframes": 42,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-negative",
+            "durationSec": 0.25,
+            "keyframes": 42,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          }
+        ],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-cube-pets-animal-chick": {
+      "generatedAt": "2026-04-24T09:11:01.698Z",
+      "asset": {
+        "id": "kenney-cube-pets-animal-chick",
+        "name": "Animal Chick",
+        "description": "Animated cube pet character model (Animal Chick).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-cube-pets/kenney-cube-pets-animal-chick/kenney-cube-pets-animal-chick.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-cube-pets/kenney-cube-pets-animal-chick/kenney-cube-pets-animal-chick.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-cube-pets/kenney-cube-pets-animal-chick.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 9700,
+          "sha256": "71f0a31f1782680256cffa295ab32df249b58e01b42900e5ef458e33b81489f4",
+          "transparent": true,
+          "sourceBundleSha256": "f547e955d1d7827a1b2feb7be7ee244402e6b66ad82ae59d28ea15caa017d16f",
+          "cacheKey": "1eb6a7845d80a6ec2327d3375530960ca7533741dc40cf3ed824d0a9b1b83063",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.723845,
+            "pan": [
+              0.067106,
+              -0.027409,
+              -0.047372
+            ],
+            "alphaBounds": {
+              "x": 70,
+              "y": 83,
+              "width": 371,
+              "height": 347,
+              "fill": 0.724609,
+              "centerOffset": {
+                "x": -0.5,
+                "y": 0.5,
+                "length": 0.707107
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-cube-pets/kenney-cube-pets-animal-chick.webp",
+          "packRelativePath": "previews/kenney-cube-pets-animal-chick.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/cube-pets",
+        "tags": [
+          "3d",
+          "kenney",
+          "pet",
+          "animal",
+          "dog",
+          "cat",
+          "cube",
+          "character",
+          "animated",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [
+          "cube animal",
+          "cube pet"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -1.097994,
+              0,
+              -0.625
+            ],
+            "max": [
+              1.097994,
+              1.59425,
+              0.725
+            ],
+            "size": [
+              2.195987,
+              1.59425,
+              1.35
+            ],
+            "center": [
+              0,
+              0.797125,
+              0.05
+            ],
+            "diagonal": 3.030923
+          },
+          "triangleCount": 490,
+          "drawCallCount": 5,
+          "renderVertexCount": 1470,
+          "uploadVertexCount": 862,
+          "meshCount": 5,
+          "primitiveCount": 5
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": true,
+        "animationCount": 8,
+        "animations": [
+          {
+            "name": "static",
+            "durationSec": 0.1,
+            "keyframes": 36,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "idle",
+            "durationSec": 1,
+            "keyframes": 120,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "walk",
+            "durationSec": 0.5,
+            "keyframes": 114,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "run",
+            "durationSec": 0.25,
+            "keyframes": 72,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "eat",
+            "durationSec": 0.5,
+            "keyframes": 75,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "dance",
+            "durationSec": 0.5,
+            "keyframes": 88,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-positive",
+            "durationSec": 0.25,
+            "keyframes": 54,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-negative",
+            "durationSec": 0.25,
+            "keyframes": 54,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          }
+        ],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-cube-pets-animal-cow": {
+      "generatedAt": "2026-04-24T09:11:01.698Z",
+      "asset": {
+        "id": "kenney-cube-pets-animal-cow",
+        "name": "Animal Cow",
+        "description": "Animated cube pet character model (Animal Cow).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-cube-pets/kenney-cube-pets-animal-cow/kenney-cube-pets-animal-cow.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-cube-pets/kenney-cube-pets-animal-cow/kenney-cube-pets-animal-cow.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-cube-pets/kenney-cube-pets-animal-cow.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 9938,
+          "sha256": "a59d9abdda8ace57a181e4fc5b1c8044d67fef545badf31bc3f3b07a0542b12e",
+          "transparent": true,
+          "sourceBundleSha256": "76f1164849d6914d021f4c0122e4623034b38f5f42529aa2013133e846e5e45a",
+          "cacheKey": "067fb3b85c35481ba9aa943bad3070c8e0f0693e2f2342fb799cc8c23fac1c00",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.773553,
+            "pan": [
+              0.033026,
+              -0.062512,
+              0.011983
+            ],
+            "alphaBounds": {
+              "x": 82,
+              "y": 71,
+              "width": 347,
+              "height": 369,
+              "fill": 0.720703,
+              "centerOffset": {
+                "x": -0.5,
+                "y": -0.5,
+                "length": 0.707107
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-cube-pets/kenney-cube-pets-animal-cow.webp",
+          "packRelativePath": "previews/kenney-cube-pets-animal-cow.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/cube-pets",
+        "tags": [
+          "3d",
+          "kenney",
+          "pet",
+          "animal",
+          "dog",
+          "cat",
+          "cube",
+          "character",
+          "animated",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [
+          "cube animal",
+          "cube pet"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.769742,
+              0,
+              -0.625
+            ],
+            "max": [
+              0.769742,
+              1.612376,
+              0.835
+            ],
+            "size": [
+              1.539484,
+              1.612376,
+              1.46
+            ],
+            "center": [
+              0,
+              0.806188,
+              0.105
+            ],
+            "diagonal": 2.664839
+          },
+          "triangleCount": 578,
+          "drawCallCount": 6,
+          "renderVertexCount": 1734,
+          "uploadVertexCount": 726,
+          "meshCount": 6,
+          "primitiveCount": 6
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": true,
+        "animationCount": 8,
+        "animations": [
+          {
+            "name": "static",
+            "durationSec": 0.1,
+            "keyframes": 42,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "idle",
+            "durationSec": 1,
+            "keyframes": 70,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "walk",
+            "durationSec": 0.5,
+            "keyframes": 120,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "run",
+            "durationSec": 0.25,
+            "keyframes": 78,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "eat",
+            "durationSec": 0.5,
+            "keyframes": 55,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "dance",
+            "durationSec": 0.5,
+            "keyframes": 68,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-positive",
+            "durationSec": 0.25,
+            "keyframes": 48,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-negative",
+            "durationSec": 0.25,
+            "keyframes": 48,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          }
+        ],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-cube-pets-animal-crab": {
+      "generatedAt": "2026-04-24T09:11:01.698Z",
+      "asset": {
+        "id": "kenney-cube-pets-animal-crab",
+        "name": "Animal Crab",
+        "description": "Animated cube pet character model (Animal Crab).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-cube-pets/kenney-cube-pets-animal-crab/kenney-cube-pets-animal-crab.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-cube-pets/kenney-cube-pets-animal-crab/kenney-cube-pets-animal-crab.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-cube-pets/kenney-cube-pets-animal-crab.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 9184,
+          "sha256": "fe3731019a9bd638d2f518f2782831658d34e693e9ce16c6ec57a84982ff1081",
+          "transparent": true,
+          "sourceBundleSha256": "cd1331806a6579565a522c176b75acd63d66c5594113dc38edd9615ccb87a440",
+          "cacheKey": "fb96c1130a0c5fad730159c8197e042096b6d7f7ee69a55c48005ef688ad1c32",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 4.110113,
+            "pan": [
+              0.01676,
+              -0.034209,
+              0.00787
+            ],
+            "alphaBounds": {
+              "x": 69,
+              "y": 85,
+              "width": 373,
+              "height": 341,
+              "fill": 0.728516,
+              "centerOffset": {
+                "x": -0.5,
+                "y": -0.5,
+                "length": 0.707107
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-cube-pets/kenney-cube-pets-animal-crab.webp",
+          "packRelativePath": "previews/kenney-cube-pets-animal-crab.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/cube-pets",
+        "tags": [
+          "3d",
+          "kenney",
+          "pet",
+          "animal",
+          "dog",
+          "cat",
+          "cube",
+          "character",
+          "animated",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [
+          "cube animal",
+          "cube pet"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -1.167891,
+              0,
+              -0.673689
+            ],
+            "max": [
+              1.167891,
+              1.43125,
+              0.673689
+            ],
+            "size": [
+              2.335781,
+              1.43125,
+              1.347378
+            ],
+            "center": [
+              0,
+              0.715625,
+              0
+            ],
+            "diagonal": 3.052831
+          },
+          "triangleCount": 676,
+          "drawCallCount": 6,
+          "renderVertexCount": 2028,
+          "uploadVertexCount": 1218,
+          "meshCount": 6,
+          "primitiveCount": 6
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": true,
+        "animationCount": 8,
+        "animations": [
+          {
+            "name": "static",
+            "durationSec": 0.1,
+            "keyframes": 42,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "idle",
+            "durationSec": 1,
+            "keyframes": 70,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "walk",
+            "durationSec": 0.5,
+            "keyframes": 120,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "run",
+            "durationSec": 0.25,
+            "keyframes": 78,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "eat",
+            "durationSec": 0.5,
+            "keyframes": 55,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "dance",
+            "durationSec": 0.5,
+            "keyframes": 68,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-positive",
+            "durationSec": 0.25,
+            "keyframes": 48,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-negative",
+            "durationSec": 0.25,
+            "keyframes": 48,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          }
+        ],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-cube-pets-animal-deer": {
+      "generatedAt": "2026-04-24T09:11:01.698Z",
+      "asset": {
+        "id": "kenney-cube-pets-animal-deer",
+        "name": "Animal Deer",
+        "description": "Animated cube pet character model (Animal Deer).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-cube-pets/kenney-cube-pets-animal-deer/kenney-cube-pets-animal-deer.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-cube-pets/kenney-cube-pets-animal-deer/kenney-cube-pets-animal-deer.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-cube-pets/kenney-cube-pets-animal-deer.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 9744,
+          "sha256": "d7ba75a28a320cf7a3c5cdf5dc2bad5a3df836aab8c2fe65570a3251458631c5",
+          "transparent": true,
+          "sourceBundleSha256": "5b91de634f68c089e0472b028def4ab6291b1786cf92aa8b65aafa8b78b6ab99",
+          "cacheKey": "b4e0f729381feee779e8c51df8ad0f5aa505e6008da67da466e473946e636722",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 4.640707,
+            "pan": [
+              0.030738,
+              0.002341,
+              -0.032424
+            ],
+            "alphaBounds": {
+              "x": 119,
+              "y": 72,
+              "width": 274,
+              "height": 368,
+              "fill": 0.71875,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-cube-pets/kenney-cube-pets-animal-deer.webp",
+          "packRelativePath": "previews/kenney-cube-pets-animal-deer.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/cube-pets",
+        "tags": [
+          "3d",
+          "kenney",
+          "pet",
+          "animal",
+          "dog",
+          "cat",
+          "cube",
+          "character",
+          "animated",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [
+          "cube animal",
+          "cube pet"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.769742,
+              0,
+              -0.625
+            ],
+            "max": [
+              0.769742,
+              1.992786,
+              0.93465
+            ],
+            "size": [
+              1.539484,
+              1.992786,
+              1.55965
+            ],
+            "center": [
+              0,
+              0.996393,
+              0.154825
+            ],
+            "diagonal": 2.962046
+          },
+          "triangleCount": 760,
+          "drawCallCount": 5,
+          "renderVertexCount": 2280,
+          "uploadVertexCount": 1442,
+          "meshCount": 5,
+          "primitiveCount": 5
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": true,
+        "animationCount": 8,
+        "animations": [
+          {
+            "name": "static",
+            "durationSec": 0.1,
+            "keyframes": 36,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "idle",
+            "durationSec": 1,
+            "keyframes": 64,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "walk",
+            "durationSec": 0.5,
+            "keyframes": 114,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "run",
+            "durationSec": 0.25,
+            "keyframes": 72,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "eat",
+            "durationSec": 0.5,
+            "keyframes": 49,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "dance",
+            "durationSec": 0.5,
+            "keyframes": 62,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-positive",
+            "durationSec": 0.25,
+            "keyframes": 42,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-negative",
+            "durationSec": 0.25,
+            "keyframes": 42,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          }
+        ],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-cube-pets-animal-dog": {
+      "generatedAt": "2026-04-24T09:11:01.698Z",
+      "asset": {
+        "id": "kenney-cube-pets-animal-dog",
+        "name": "Animal Dog",
+        "description": "Animated cube pet character model (Animal Dog).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-cube-pets/kenney-cube-pets-animal-dog/kenney-cube-pets-animal-dog.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-cube-pets/kenney-cube-pets-animal-dog/kenney-cube-pets-animal-dog.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-cube-pets/kenney-cube-pets-animal-dog.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 10700,
+          "sha256": "fe73d8a1cacc8aee20bd8b03e41ed92cd38f72523ef40b67a98c1c58906da645",
+          "transparent": true,
+          "sourceBundleSha256": "44debb650e745c3d51f5a03e51333c43ee2f9944821ccf60425d5cd02277d1b0",
+          "cacheKey": "edae49ca394dd10ab56cf47a4e2cfcd643635ca47fc340fc73942a45b9894446",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.689761,
+            "pan": [
+              0.035545,
+              -0.057706,
+              0.006004
+            ],
+            "alphaBounds": {
+              "x": 79,
+              "y": 72,
+              "width": 354,
+              "height": 368,
+              "fill": 0.71875,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-cube-pets/kenney-cube-pets-animal-dog.webp",
+          "packRelativePath": "previews/kenney-cube-pets-animal-dog.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/cube-pets",
+        "tags": [
+          "3d",
+          "kenney",
+          "pet",
+          "animal",
+          "dog",
+          "cat",
+          "cube",
+          "character",
+          "animated",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [
+          "cube animal",
+          "cube pet"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.625,
+              0,
+              -0.625
+            ],
+            "max": [
+              0.635,
+              1.584437,
+              0.875517
+            ],
+            "size": [
+              1.26,
+              1.584437,
+              1.500517
+            ],
+            "center": [
+              0.005,
+              0.792218,
+              0.125259
+            ],
+            "diagonal": 2.51984
+          },
+          "triangleCount": 490,
+          "drawCallCount": 5,
+          "renderVertexCount": 1470,
+          "uploadVertexCount": 834,
+          "meshCount": 5,
+          "primitiveCount": 5
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": true,
+        "animationCount": 8,
+        "animations": [
+          {
+            "name": "static",
+            "durationSec": 0.1,
+            "keyframes": 36,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "idle",
+            "durationSec": 1,
+            "keyframes": 64,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "walk",
+            "durationSec": 0.5,
+            "keyframes": 114,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "run",
+            "durationSec": 0.25,
+            "keyframes": 72,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "eat",
+            "durationSec": 0.5,
+            "keyframes": 49,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "dance",
+            "durationSec": 0.5,
+            "keyframes": 62,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-positive",
+            "durationSec": 0.25,
+            "keyframes": 42,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-negative",
+            "durationSec": 0.25,
+            "keyframes": 42,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          }
+        ],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-cube-pets-animal-elephant": {
+      "generatedAt": "2026-04-24T09:11:01.698Z",
+      "asset": {
+        "id": "kenney-cube-pets-animal-elephant",
+        "name": "Animal Elephant",
+        "description": "Animated cube pet character model (Animal Elephant).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-cube-pets/kenney-cube-pets-animal-elephant/kenney-cube-pets-animal-elephant.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-cube-pets/kenney-cube-pets-animal-elephant/kenney-cube-pets-animal-elephant.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-cube-pets/kenney-cube-pets-animal-elephant.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 9556,
+          "sha256": "bbea17f7629de0467a3e6be48ac589c666ad64e18a3e9c057ecc083c090c19de",
+          "transparent": true,
+          "sourceBundleSha256": "f66fdb15a4df0cb9e28ddf1e82a73adc3ffe3b95c9b1ae3d714752c45792a762",
+          "cacheKey": "31c9d27b20af56c5ec0b6da021a610df2990e28f68e40510848702ea331744cf",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.664204,
+            "pan": [
+              0.028982,
+              0.026475,
+              -0.048043
+            ],
+            "alphaBounds": {
+              "x": 72,
+              "y": 72,
+              "width": 369,
+              "height": 369,
+              "fill": 0.720703,
+              "centerOffset": {
+                "x": 0.5,
+                "y": 0.5,
+                "length": 0.707107
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-cube-pets/kenney-cube-pets-animal-elephant.webp",
+          "packRelativePath": "previews/kenney-cube-pets-animal-elephant.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/cube-pets",
+        "tags": [
+          "3d",
+          "kenney",
+          "pet",
+          "animal",
+          "dog",
+          "cat",
+          "cube",
+          "character",
+          "animated",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [
+          "cube animal",
+          "cube pet"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.938926,
+              0,
+              -0.625
+            ],
+            "max": [
+              0.938926,
+              1.43125,
+              1.050211
+            ],
+            "size": [
+              1.877852,
+              1.43125,
+              1.675211
+            ],
+            "center": [
+              0,
+              0.715625,
+              0.212606
+            ],
+            "diagonal": 2.895019
+          },
+          "triangleCount": 676,
+          "drawCallCount": 6,
+          "renderVertexCount": 2028,
+          "uploadVertexCount": 1130,
+          "meshCount": 6,
+          "primitiveCount": 6
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": true,
+        "animationCount": 8,
+        "animations": [
+          {
+            "name": "static",
+            "durationSec": 0.1,
+            "keyframes": 42,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "idle",
+            "durationSec": 1,
+            "keyframes": 98,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "walk",
+            "durationSec": 0.5,
+            "keyframes": 133,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "run",
+            "durationSec": 0.25,
+            "keyframes": 84,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "eat",
+            "durationSec": 0.5,
+            "keyframes": 68,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "dance",
+            "durationSec": 0.5,
+            "keyframes": 81,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-positive",
+            "durationSec": 0.25,
+            "keyframes": 53,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-negative",
+            "durationSec": 0.25,
+            "keyframes": 54,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          }
+        ],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-cube-pets-animal-fish": {
+      "generatedAt": "2026-04-24T09:11:01.698Z",
+      "asset": {
+        "id": "kenney-cube-pets-animal-fish",
+        "name": "Animal Fish",
+        "description": "Animated cube pet character model (Animal Fish).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-cube-pets/kenney-cube-pets-animal-fish/kenney-cube-pets-animal-fish.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-cube-pets/kenney-cube-pets-animal-fish/kenney-cube-pets-animal-fish.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-cube-pets/kenney-cube-pets-animal-fish.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 10402,
+          "sha256": "8dad5d475a32aaa0d268c3993467d12cf1e6416bc4c289887b672ddc1ed10a7c",
+          "transparent": true,
+          "sourceBundleSha256": "bfcc70b1d9fb9895e7b35301b6abca14d7e0b6e3fa39ee978f121237325da26d",
+          "cacheKey": "b7532eb28f5bd0da5892b4a67be3037896c194981c8c8360f494bb7917c2ad61",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 4.032139,
+            "pan": [
+              0.047862,
+              -0.035405,
+              -0.02237
+            ],
+            "alphaBounds": {
+              "x": 86,
+              "y": 73,
+              "width": 339,
+              "height": 365,
+              "fill": 0.712891,
+              "centerOffset": {
+                "x": -0.5,
+                "y": -0.5,
+                "length": 0.707107
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-cube-pets/kenney-cube-pets-animal-fish.webp",
+          "packRelativePath": "previews/kenney-cube-pets-animal-fish.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/cube-pets",
+        "tags": [
+          "3d",
+          "kenney",
+          "pet",
+          "animal",
+          "dog",
+          "cat",
+          "cube",
+          "character",
+          "animated",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [
+          "cube animal",
+          "cube pet"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.941725,
+              0.10425,
+              -0.625
+            ],
+            "max": [
+              0.941725,
+              1.732182,
+              0.635
+            ],
+            "size": [
+              1.88345,
+              1.627932,
+              1.26
+            ],
+            "center": [
+              0,
+              0.918216,
+              0.005
+            ],
+            "diagonal": 2.790187
+          },
+          "triangleCount": 422,
+          "drawCallCount": 3,
+          "renderVertexCount": 1266,
+          "uploadVertexCount": 702,
+          "meshCount": 3,
+          "primitiveCount": 3
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": true,
+        "animationCount": 8,
+        "animations": [
+          {
+            "name": "static",
+            "durationSec": 0.1,
+            "keyframes": 24,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "idle",
+            "durationSec": 1,
+            "keyframes": 108,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "walk",
+            "durationSec": 0.5,
+            "keyframes": 76,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "run",
+            "durationSec": 0.25,
+            "keyframes": 48,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "eat",
+            "durationSec": 0.5,
+            "keyframes": 63,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "dance",
+            "durationSec": 0.5,
+            "keyframes": 76,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-positive",
+            "durationSec": 0.25,
+            "keyframes": 42,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-negative",
+            "durationSec": 0.25,
+            "keyframes": 42,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          }
+        ],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-cube-pets-animal-fox": {
+      "generatedAt": "2026-04-24T09:11:01.698Z",
+      "asset": {
+        "id": "kenney-cube-pets-animal-fox",
+        "name": "Animal Fox",
+        "description": "Animated cube pet character model (Animal Fox).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-cube-pets/kenney-cube-pets-animal-fox/kenney-cube-pets-animal-fox.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-cube-pets/kenney-cube-pets-animal-fox/kenney-cube-pets-animal-fox.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-cube-pets/kenney-cube-pets-animal-fox.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 11424,
+          "sha256": "bbc849f4046df64169d02d94397618817d9e3025c9bd64ef2e8156e8cac93ce3",
+          "transparent": true,
+          "sourceBundleSha256": "f6e30ba14c5a3ddafe019a5700296328f8cd09064f0f9b1ce719cd10eb1dcb07",
+          "cacheKey": "9f770effc72fc95f8f0cc04b7f7beacf7b7a38ff91dfaa66470ce9a3936fd5bc",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 4.088774,
+            "pan": [
+              -0.025309,
+              -0.136637,
+              0.123688
+            ],
+            "alphaBounds": {
+              "x": 76,
+              "y": 67,
+              "width": 361,
+              "height": 378,
+              "fill": 0.738281,
+              "centerOffset": {
+                "x": 0.5,
+                "y": 0,
+                "length": 0.5
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-cube-pets/kenney-cube-pets-animal-fox.webp",
+          "packRelativePath": "previews/kenney-cube-pets-animal-fox.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/cube-pets",
+        "tags": [
+          "3d",
+          "kenney",
+          "pet",
+          "animal",
+          "dog",
+          "cat",
+          "cube",
+          "character",
+          "animated",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [
+          "cube animal",
+          "cube pet"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.625,
+              0,
+              -1.373767
+            ],
+            "max": [
+              0.625,
+              1.686325,
+              0.93465
+            ],
+            "size": [
+              1.25,
+              1.686325,
+              2.308417
+            ],
+            "center": [
+              0,
+              0.843162,
+              -0.219558
+            ],
+            "diagonal": 3.120093
+          },
+          "triangleCount": 568,
+          "drawCallCount": 6,
+          "renderVertexCount": 1704,
+          "uploadVertexCount": 993,
+          "meshCount": 6,
+          "primitiveCount": 6
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": true,
+        "animationCount": 8,
+        "animations": [
+          {
+            "name": "static",
+            "durationSec": 0.1,
+            "keyframes": 42,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "idle",
+            "durationSec": 1,
+            "keyframes": 98,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "walk",
+            "durationSec": 0.5,
+            "keyframes": 133,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "run",
+            "durationSec": 0.25,
+            "keyframes": 84,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "eat",
+            "durationSec": 0.5,
+            "keyframes": 68,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "dance",
+            "durationSec": 0.5,
+            "keyframes": 81,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-positive",
+            "durationSec": 0.25,
+            "keyframes": 53,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-negative",
+            "durationSec": 0.25,
+            "keyframes": 54,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          }
+        ],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-cube-pets-animal-giraffe": {
+      "generatedAt": "2026-04-24T09:11:01.698Z",
+      "asset": {
+        "id": "kenney-cube-pets-animal-giraffe",
+        "name": "Animal Giraffe",
+        "description": "Animated cube pet character model (Animal Giraffe).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-cube-pets/kenney-cube-pets-animal-giraffe/kenney-cube-pets-animal-giraffe.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-cube-pets/kenney-cube-pets-animal-giraffe/kenney-cube-pets-animal-giraffe.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-cube-pets/kenney-cube-pets-animal-giraffe.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 11192,
+          "sha256": "7a7d633bd63aed61283e51906137827a2a9655de75a1a380d4b47bc37bba5a62",
+          "transparent": true,
+          "sourceBundleSha256": "3c7230ae4ba417667503ffd43b6319248eb186af363ff98e69056469429e4700",
+          "cacheKey": "bbbd292b4f674941e65300f51a4632129d79be491b4896407a9cb58c5e1820b2",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 4.010813,
+            "pan": [
+              0.003594,
+              -0.054362,
+              0.035546
+            ],
+            "alphaBounds": {
+              "x": 91,
+              "y": 72,
+              "width": 330,
+              "height": 368,
+              "fill": 0.71875,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-cube-pets/kenney-cube-pets-animal-giraffe.webp",
+          "packRelativePath": "previews/kenney-cube-pets-animal-giraffe.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/cube-pets",
+        "tags": [
+          "3d",
+          "kenney",
+          "pet",
+          "animal",
+          "dog",
+          "cat",
+          "cube",
+          "character",
+          "animated",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [
+          "cube animal",
+          "cube pet"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.768063,
+              0,
+              -0.625
+            ],
+            "max": [
+              0.78745,
+              1.713754,
+              0.791
+            ],
+            "size": [
+              1.555513,
+              1.713754,
+              1.416
+            ],
+            "center": [
+              0.009693,
+              0.856877,
+              0.083
+            ],
+            "diagonal": 2.713232
+          },
+          "triangleCount": 598,
+          "drawCallCount": 5,
+          "renderVertexCount": 1794,
+          "uploadVertexCount": 1094,
+          "meshCount": 5,
+          "primitiveCount": 5
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": true,
+        "animationCount": 8,
+        "animations": [
+          {
+            "name": "static",
+            "durationSec": 0.1,
+            "keyframes": 36,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "idle",
+            "durationSec": 1,
+            "keyframes": 64,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "walk",
+            "durationSec": 0.5,
+            "keyframes": 114,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "run",
+            "durationSec": 0.25,
+            "keyframes": 72,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "eat",
+            "durationSec": 0.5,
+            "keyframes": 49,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "dance",
+            "durationSec": 0.5,
+            "keyframes": 62,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-positive",
+            "durationSec": 0.25,
+            "keyframes": 42,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-negative",
+            "durationSec": 0.25,
+            "keyframes": 42,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          }
+        ],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-cube-pets-animal-hog": {
+      "generatedAt": "2026-04-24T09:11:01.698Z",
+      "asset": {
+        "id": "kenney-cube-pets-animal-hog",
+        "name": "Animal Hog",
+        "description": "Animated cube pet character model (Animal Hog).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-cube-pets/kenney-cube-pets-animal-hog/kenney-cube-pets-animal-hog.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-cube-pets/kenney-cube-pets-animal-hog/kenney-cube-pets-animal-hog.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-cube-pets/kenney-cube-pets-animal-hog.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 10798,
+          "sha256": "81de99dc4da723a7dfe8a1d3be662436526ed1796d2484f47cd46f9aa26ce914",
+          "transparent": true,
+          "sourceBundleSha256": "b1df6bf59743bb4149aed695e73a7ff4440c086aba5b83217ac490bc8e57b1a8",
+          "cacheKey": "37234125221273a93ddba8b48ca9b4e980d6cd5b9d7ab5de465193f972e076f9",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.820416,
+            "pan": [
+              0.01014,
+              -0.012466,
+              -0.001164
+            ],
+            "alphaBounds": {
+              "x": 74,
+              "y": 71,
+              "width": 363,
+              "height": 368,
+              "fill": 0.71875,
+              "centerOffset": {
+                "x": -0.5,
+                "y": -1,
+                "length": 1.118034
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-cube-pets/kenney-cube-pets-animal-hog.webp",
+          "packRelativePath": "previews/kenney-cube-pets-animal-hog.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/cube-pets",
+        "tags": [
+          "3d",
+          "kenney",
+          "pet",
+          "animal",
+          "dog",
+          "cat",
+          "cube",
+          "character",
+          "animated",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [
+          "cube animal",
+          "cube pet"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.675,
+              0,
+              -0.625
+            ],
+            "max": [
+              0.675,
+              1.5158,
+              0.875905
+            ],
+            "size": [
+              1.35,
+              1.5158,
+              1.500905
+            ],
+            "center": [
+              0,
+              0.7579,
+              0.125453
+            ],
+            "diagonal": 2.524454
+          },
+          "triangleCount": 706,
+          "drawCallCount": 5,
+          "renderVertexCount": 2118,
+          "uploadVertexCount": 1266,
+          "meshCount": 5,
+          "primitiveCount": 5
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": true,
+        "animationCount": 8,
+        "animations": [
+          {
+            "name": "static",
+            "durationSec": 0.1,
+            "keyframes": 36,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "idle",
+            "durationSec": 1,
+            "keyframes": 64,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "walk",
+            "durationSec": 0.5,
+            "keyframes": 114,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "run",
+            "durationSec": 0.25,
+            "keyframes": 72,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "eat",
+            "durationSec": 0.5,
+            "keyframes": 49,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "dance",
+            "durationSec": 0.5,
+            "keyframes": 62,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-positive",
+            "durationSec": 0.25,
+            "keyframes": 42,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-negative",
+            "durationSec": 0.25,
+            "keyframes": 42,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          }
+        ],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-cube-pets-animal-koala": {
+      "generatedAt": "2026-04-24T09:11:01.698Z",
+      "asset": {
+        "id": "kenney-cube-pets-animal-koala",
+        "name": "Animal Koala",
+        "description": "Animated cube pet character model (Animal Koala).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-cube-pets/kenney-cube-pets-animal-koala/kenney-cube-pets-animal-koala.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-cube-pets/kenney-cube-pets-animal-koala/kenney-cube-pets-animal-koala.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-cube-pets/kenney-cube-pets-animal-koala.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 7894,
+          "sha256": "ea7c363fba4dec5c038bff84fed9aafcd4e1ce2f622bef99af0a9bbc009156bd",
+          "transparent": true,
+          "sourceBundleSha256": "be7612ef4aa210f8e31d9364406010e5a75b5b703e7720edde6f0161901e3e71",
+          "cacheKey": "4274432964f029b3f127dfca46e1dc6dfdf2f94e8af4e16f98c869e098ee47ef",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.756847,
+            "pan": [
+              0.04888,
+              -0.025106,
+              -0.030804
+            ],
+            "alphaBounds": {
+              "x": 81,
+              "y": 72,
+              "width": 351,
+              "height": 369,
+              "fill": 0.720703,
+              "centerOffset": {
+                "x": 0.5,
+                "y": 0.5,
+                "length": 0.707107
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-cube-pets/kenney-cube-pets-animal-koala.webp",
+          "packRelativePath": "previews/kenney-cube-pets-animal-koala.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/cube-pets",
+        "tags": [
+          "3d",
+          "kenney",
+          "pet",
+          "animal",
+          "dog",
+          "cat",
+          "cube",
+          "character",
+          "animated",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [
+          "cube animal",
+          "cube pet"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.971338,
+              0,
+              -0.625
+            ],
+            "max": [
+              0.971338,
+              1.462815,
+              0.764
+            ],
+            "size": [
+              1.942675,
+              1.462815,
+              1.389
+            ],
+            "center": [
+              0,
+              0.731407,
+              0.0695
+            ],
+            "diagonal": 2.80056
+          },
+          "triangleCount": 594,
+          "drawCallCount": 5,
+          "renderVertexCount": 1782,
+          "uploadVertexCount": 1062,
+          "meshCount": 5,
+          "primitiveCount": 5
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": true,
+        "animationCount": 8,
+        "animations": [
+          {
+            "name": "static",
+            "durationSec": 0.1,
+            "keyframes": 36,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "idle",
+            "durationSec": 1,
+            "keyframes": 64,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "walk",
+            "durationSec": 0.5,
+            "keyframes": 114,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "run",
+            "durationSec": 0.25,
+            "keyframes": 72,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "eat",
+            "durationSec": 0.5,
+            "keyframes": 49,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "dance",
+            "durationSec": 0.5,
+            "keyframes": 62,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-positive",
+            "durationSec": 0.25,
+            "keyframes": 42,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-negative",
+            "durationSec": 0.25,
+            "keyframes": 42,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          }
+        ],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-cube-pets-animal-lion": {
+      "generatedAt": "2026-04-24T09:11:01.698Z",
+      "asset": {
+        "id": "kenney-cube-pets-animal-lion",
+        "name": "Animal Lion",
+        "description": "Animated cube pet character model (Animal Lion).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-cube-pets/kenney-cube-pets-animal-lion/kenney-cube-pets-animal-lion.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-cube-pets/kenney-cube-pets-animal-lion/kenney-cube-pets-animal-lion.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-cube-pets/kenney-cube-pets-animal-lion.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 10680,
+          "sha256": "a548f6e9db88ce70e49cfd48c16b03dcfb6694695d06fd0a5dda708bb7c5e0b4",
+          "transparent": true,
+          "sourceBundleSha256": "171fa9484c5e09ce381fcb286bbfd569a6181b48614a98d0a5a6a9618edf7e1c",
+          "cacheKey": "a3b55cc2126f22ac88b62bef5e624bd621adc6ed443a7840655493de5de15cf3",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 4.643627,
+            "pan": [
+              -0.107071,
+              -0.04686,
+              0.14081
+            ],
+            "alphaBounds": {
+              "x": 112,
+              "y": 71,
+              "width": 289,
+              "height": 368,
+              "fill": 0.71875,
+              "centerOffset": {
+                "x": 0.5,
+                "y": -1,
+                "length": 1.118034
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-cube-pets/kenney-cube-pets-animal-lion.webp",
+          "packRelativePath": "previews/kenney-cube-pets-animal-lion.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/cube-pets",
+        "tags": [
+          "3d",
+          "kenney",
+          "pet",
+          "animal",
+          "dog",
+          "cat",
+          "cube",
+          "character",
+          "animated",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [
+          "cube animal",
+          "cube pet"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.825,
+              0,
+              -1.103608
+            ],
+            "max": [
+              0.825,
+              1.745807,
+              0.795703
+            ],
+            "size": [
+              1.65,
+              1.745807,
+              1.899311
+            ],
+            "center": [
+              0,
+              0.872904,
+              -0.153953
+            ],
+            "diagonal": 3.062308
+          },
+          "triangleCount": 889,
+          "drawCallCount": 6,
+          "renderVertexCount": 2667,
+          "uploadVertexCount": 1597,
+          "meshCount": 6,
+          "primitiveCount": 6
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": true,
+        "animationCount": 8,
+        "animations": [
+          {
+            "name": "static",
+            "durationSec": 0.1,
+            "keyframes": 42,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "idle",
+            "durationSec": 1,
+            "keyframes": 98,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "walk",
+            "durationSec": 0.5,
+            "keyframes": 133,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "run",
+            "durationSec": 0.25,
+            "keyframes": 84,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "eat",
+            "durationSec": 0.5,
+            "keyframes": 68,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "dance",
+            "durationSec": 0.5,
+            "keyframes": 81,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-positive",
+            "durationSec": 0.25,
+            "keyframes": 53,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-negative",
+            "durationSec": 0.25,
+            "keyframes": 54,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          }
+        ],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-cube-pets-animal-monkey": {
+      "generatedAt": "2026-04-24T09:11:01.698Z",
+      "asset": {
+        "id": "kenney-cube-pets-animal-monkey",
+        "name": "Animal Monkey",
+        "description": "Animated cube pet character model (Animal Monkey).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-cube-pets/kenney-cube-pets-animal-monkey/kenney-cube-pets-animal-monkey.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-cube-pets/kenney-cube-pets-animal-monkey/kenney-cube-pets-animal-monkey.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-cube-pets/kenney-cube-pets-animal-monkey.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 10214,
+          "sha256": "8c2a091ebf851a0859cca1e61d4a29eb9ce87c3a935859d805f60f676a30c1d7",
+          "transparent": true,
+          "sourceBundleSha256": "13ef93ba32e27e9d52ed1bc92acb7e959c80adda9a9f4f069939d510751071d0",
+          "cacheKey": "0a7d58724a234efc53319204d6383aa64f92e2fdc6f8c888fcab7575d79f92e9",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 4.243754,
+            "pan": [
+              -0.062368,
+              -0.062881,
+              0.107642
+            ],
+            "alphaBounds": {
+              "x": 94,
+              "y": 66,
+              "width": 323,
+              "height": 380,
+              "fill": 0.742188,
+              "centerOffset": {
+                "x": -0.5,
+                "y": 0,
+                "length": 0.5
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-cube-pets/kenney-cube-pets-animal-monkey.webp",
+          "packRelativePath": "previews/kenney-cube-pets-animal-monkey.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/cube-pets",
+        "tags": [
+          "3d",
+          "kenney",
+          "pet",
+          "animal",
+          "dog",
+          "cat",
+          "cube",
+          "character",
+          "animated",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [
+          "cube animal",
+          "cube pet"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.991148,
+              0,
+              -1.080215
+            ],
+            "max": [
+              0.991149,
+              1.609994,
+              0.701413
+            ],
+            "size": [
+              1.982297,
+              1.609994,
+              1.781628
+            ],
+            "center": [
+              0,
+              0.804997,
+              -0.189401
+            ],
+            "diagonal": 3.113805
+          },
+          "triangleCount": 918,
+          "drawCallCount": 6,
+          "renderVertexCount": 2754,
+          "uploadVertexCount": 1626,
+          "meshCount": 6,
+          "primitiveCount": 6
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": true,
+        "animationCount": 8,
+        "animations": [
+          {
+            "name": "static",
+            "durationSec": 0.1,
+            "keyframes": 42,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "idle",
+            "durationSec": 1,
+            "keyframes": 98,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "walk",
+            "durationSec": 0.5,
+            "keyframes": 133,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "run",
+            "durationSec": 0.25,
+            "keyframes": 84,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "eat",
+            "durationSec": 0.5,
+            "keyframes": 68,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "dance",
+            "durationSec": 0.5,
+            "keyframes": 81,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-positive",
+            "durationSec": 0.25,
+            "keyframes": 53,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-negative",
+            "durationSec": 0.25,
+            "keyframes": 54,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          }
+        ],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-cube-pets-animal-panda": {
+      "generatedAt": "2026-04-24T09:11:01.698Z",
+      "asset": {
+        "id": "kenney-cube-pets-animal-panda",
+        "name": "Animal Panda",
+        "description": "Animated cube pet character model (Animal Panda).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-cube-pets/kenney-cube-pets-animal-panda/kenney-cube-pets-animal-panda.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-cube-pets/kenney-cube-pets-animal-panda/kenney-cube-pets-animal-panda.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-cube-pets/kenney-cube-pets-animal-panda.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 9670,
+          "sha256": "d7e23b5f2a496cca2dc65cfd6e4d67aef2daf530d06e680babda2c3ea1f7ca0b",
+          "transparent": true,
+          "sourceBundleSha256": "a801632184f38391f90bee625242e32310da56f0e7145e2c107071f285741dc6",
+          "cacheKey": "596dba6f0957d78bef58b7d9a56684761364561a72960e63e0ef94579b03e5c1",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.870927,
+            "pan": [
+              0.062843,
+              -0.002806,
+              -0.060823
+            ],
+            "alphaBounds": {
+              "x": 81,
+              "y": 71,
+              "width": 350,
+              "height": 370,
+              "fill": 0.722656,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-cube-pets/kenney-cube-pets-animal-panda.webp",
+          "packRelativePath": "previews/kenney-cube-pets-animal-panda.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/cube-pets",
+        "tags": [
+          "3d",
+          "kenney",
+          "pet",
+          "animal",
+          "dog",
+          "cat",
+          "cube",
+          "character",
+          "animated",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [
+          "cube animal",
+          "cube pet"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.671674,
+              0,
+              -0.625
+            ],
+            "max": [
+              0.671674,
+              1.50125,
+              0.814858
+            ],
+            "size": [
+              1.343347,
+              1.50125,
+              1.439858
+            ],
+            "center": [
+              0,
+              0.750625,
+              0.094929
+            ],
+            "diagonal": 2.476191
+          },
+          "triangleCount": 734,
+          "drawCallCount": 5,
+          "renderVertexCount": 2202,
+          "uploadVertexCount": 1097,
+          "meshCount": 5,
+          "primitiveCount": 5
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": true,
+        "animationCount": 8,
+        "animations": [
+          {
+            "name": "static",
+            "durationSec": 0.1,
+            "keyframes": 36,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "idle",
+            "durationSec": 1,
+            "keyframes": 64,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "walk",
+            "durationSec": 0.5,
+            "keyframes": 114,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "run",
+            "durationSec": 0.25,
+            "keyframes": 72,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "eat",
+            "durationSec": 0.5,
+            "keyframes": 49,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "dance",
+            "durationSec": 0.5,
+            "keyframes": 62,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-positive",
+            "durationSec": 0.25,
+            "keyframes": 42,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-negative",
+            "durationSec": 0.25,
+            "keyframes": 42,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          }
+        ],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-cube-pets-animal-parrot": {
+      "generatedAt": "2026-04-24T09:11:01.698Z",
+      "asset": {
+        "id": "kenney-cube-pets-animal-parrot",
+        "name": "Animal Parrot",
+        "description": "Animated cube pet character model (Animal Parrot).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-cube-pets/kenney-cube-pets-animal-parrot/kenney-cube-pets-animal-parrot.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-cube-pets/kenney-cube-pets-animal-parrot/kenney-cube-pets-animal-parrot.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-cube-pets/kenney-cube-pets-animal-parrot.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 10368,
+          "sha256": "b3c72bc4162d523f47cd9fd61d92becd62c7fa26e0e55a0d8528ad6c47413bd8",
+          "transparent": true,
+          "sourceBundleSha256": "671f820d99c42496ec8e2a0703eb4190ca15a1f733340d9e960741c3d9b904fa",
+          "cacheKey": "ecf42bf90739df02fbd2d5f8890f9e9fd3e4522aca2072d695104ca453f1fbaf",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.978904,
+            "pan": [
+              -0.022618,
+              -0.045647,
+              0.055483
+            ],
+            "alphaBounds": {
+              "x": 78,
+              "y": 72,
+              "width": 355,
+              "height": 368,
+              "fill": 0.71875,
+              "centerOffset": {
+                "x": -0.5,
+                "y": 0,
+                "length": 0.5
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-cube-pets/kenney-cube-pets-animal-parrot.webp",
+          "packRelativePath": "previews/kenney-cube-pets-animal-parrot.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/cube-pets",
+        "tags": [
+          "3d",
+          "kenney",
+          "pet",
+          "animal",
+          "dog",
+          "cat",
+          "cube",
+          "character",
+          "animated",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [
+          "cube animal",
+          "cube pet"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -1.097994,
+              0,
+              -1.093919
+            ],
+            "max": [
+              1.097994,
+              1.68125,
+              0.80835
+            ],
+            "size": [
+              2.195987,
+              1.68125,
+              1.902269
+            ],
+            "center": [
+              0,
+              0.840625,
+              -0.142784
+            ],
+            "diagonal": 3.356723
+          },
+          "triangleCount": 530,
+          "drawCallCount": 7,
+          "renderVertexCount": 1590,
+          "uploadVertexCount": 916,
+          "meshCount": 7,
+          "primitiveCount": 7
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": true,
+        "animationCount": 8,
+        "animations": [
+          {
+            "name": "static",
+            "durationSec": 0.1,
+            "keyframes": 48,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "idle",
+            "durationSec": 1,
+            "keyframes": 160,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "walk",
+            "durationSec": 0.5,
+            "keyframes": 139,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "run",
+            "durationSec": 0.25,
+            "keyframes": 90,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "eat",
+            "durationSec": 0.5,
+            "keyframes": 100,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "dance",
+            "durationSec": 0.5,
+            "keyframes": 113,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-positive",
+            "durationSec": 0.25,
+            "keyframes": 71,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-negative",
+            "durationSec": 0.25,
+            "keyframes": 72,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          }
+        ],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-cube-pets-animal-penguin": {
+      "generatedAt": "2026-04-24T09:11:01.698Z",
+      "asset": {
+        "id": "kenney-cube-pets-animal-penguin",
+        "name": "Animal Penguin",
+        "description": "Animated cube pet character model (Animal Penguin).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-cube-pets/kenney-cube-pets-animal-penguin/kenney-cube-pets-animal-penguin.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-cube-pets/kenney-cube-pets-animal-penguin/kenney-cube-pets-animal-penguin.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-cube-pets/kenney-cube-pets-animal-penguin.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 7790,
+          "sha256": "4252798bed28c137a8bdc68dee15635e514eefffc619cd478f340a348d3ff64b",
+          "transparent": true,
+          "sourceBundleSha256": "ae7c3c089eeae9e23750c9582e6d86291dcc81930d7da96d79c0539f88e3eabc",
+          "cacheKey": "babd87e1f393c95fc08dc90755a7967c108b7b14a97e2c1ee45440dd596b9bea",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.890907,
+            "pan": [
+              0.063795,
+              -0.030869,
+              -0.04157
+            ],
+            "alphaBounds": {
+              "x": 73,
+              "y": 90,
+              "width": 366,
+              "height": 332,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-cube-pets/kenney-cube-pets-animal-penguin.webp",
+          "packRelativePath": "previews/kenney-cube-pets-animal-penguin.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/cube-pets",
+        "tags": [
+          "3d",
+          "kenney",
+          "pet",
+          "animal",
+          "dog",
+          "cat",
+          "cube",
+          "character",
+          "animated",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [
+          "cube animal",
+          "cube pet"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -1.094764,
+              0,
+              -0.625
+            ],
+            "max": [
+              1.094764,
+              1.59425,
+              0.725
+            ],
+            "size": [
+              2.189528,
+              1.59425,
+              1.35
+            ],
+            "center": [
+              0,
+              0.797125,
+              0.05
+            ],
+            "diagonal": 3.026246
+          },
+          "triangleCount": 558,
+          "drawCallCount": 5,
+          "renderVertexCount": 1674,
+          "uploadVertexCount": 960,
+          "meshCount": 5,
+          "primitiveCount": 5
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": true,
+        "animationCount": 8,
+        "animations": [
+          {
+            "name": "static",
+            "durationSec": 0.1,
+            "keyframes": 36,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "idle",
+            "durationSec": 1,
+            "keyframes": 120,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "walk",
+            "durationSec": 0.5,
+            "keyframes": 114,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "run",
+            "durationSec": 0.25,
+            "keyframes": 72,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "eat",
+            "durationSec": 0.5,
+            "keyframes": 75,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "dance",
+            "durationSec": 0.5,
+            "keyframes": 88,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-positive",
+            "durationSec": 0.25,
+            "keyframes": 54,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-negative",
+            "durationSec": 0.25,
+            "keyframes": 54,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          }
+        ],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-cube-pets-animal-pig": {
+      "generatedAt": "2026-04-24T09:11:01.698Z",
+      "asset": {
+        "id": "kenney-cube-pets-animal-pig",
+        "name": "Animal Pig",
+        "description": "Animated cube pet character model (Animal Pig).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-cube-pets/kenney-cube-pets-animal-pig/kenney-cube-pets-animal-pig.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-cube-pets/kenney-cube-pets-animal-pig/kenney-cube-pets-animal-pig.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-cube-pets/kenney-cube-pets-animal-pig.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 9366,
+          "sha256": "fcd6385004542c758783938827eafc83232731663bb49923d9cef9e2d50a01b9",
+          "transparent": true,
+          "sourceBundleSha256": "2d910215ac7a4fd7d653119ffec52dca58dec82b233c723561db892e2a5af525",
+          "cacheKey": "e58d0c20d14a080a5e39defd9e3918efe326c80f5cc7a13713ed297ca90ad9e1",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.698963,
+            "pan": [
+              0.030033,
+              -0.067014,
+              0.018217
+            ],
+            "alphaBounds": {
+              "x": 79,
+              "y": 71,
+              "width": 355,
+              "height": 369,
+              "fill": 0.720703,
+              "centerOffset": {
+                "x": 0.5,
+                "y": -0.5,
+                "length": 0.707107
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-cube-pets/kenney-cube-pets-animal-pig.webp",
+          "packRelativePath": "previews/kenney-cube-pets-animal-pig.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/cube-pets",
+        "tags": [
+          "3d",
+          "kenney",
+          "pet",
+          "animal",
+          "dog",
+          "cat",
+          "cube",
+          "character",
+          "animated",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [
+          "cube animal",
+          "cube pet"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.625,
+              0,
+              -0.625
+            ],
+            "max": [
+              0.625,
+              1.584437,
+              0.835
+            ],
+            "size": [
+              1.25,
+              1.584437,
+              1.46
+            ],
+            "center": [
+              0,
+              0.792218,
+              0.105
+            ],
+            "diagonal": 2.490891
+          },
+          "triangleCount": 424,
+          "drawCallCount": 6,
+          "renderVertexCount": 1272,
+          "uploadVertexCount": 738,
+          "meshCount": 6,
+          "primitiveCount": 6
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": true,
+        "animationCount": 8,
+        "animations": [
+          {
+            "name": "static",
+            "durationSec": 0.1,
+            "keyframes": 42,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "idle",
+            "durationSec": 1,
+            "keyframes": 70,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "walk",
+            "durationSec": 0.5,
+            "keyframes": 120,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "run",
+            "durationSec": 0.25,
+            "keyframes": 78,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "eat",
+            "durationSec": 0.5,
+            "keyframes": 55,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "dance",
+            "durationSec": 0.5,
+            "keyframes": 68,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-positive",
+            "durationSec": 0.25,
+            "keyframes": 48,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-negative",
+            "durationSec": 0.25,
+            "keyframes": 48,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          }
+        ],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-cube-pets-animal-polar": {
+      "generatedAt": "2026-04-24T09:11:01.698Z",
+      "asset": {
+        "id": "kenney-cube-pets-animal-polar",
+        "name": "Animal Polar",
+        "description": "Animated cube pet character model (Animal Polar).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-cube-pets/kenney-cube-pets-animal-polar/kenney-cube-pets-animal-polar.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-cube-pets/kenney-cube-pets-animal-polar/kenney-cube-pets-animal-polar.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-cube-pets/kenney-cube-pets-animal-polar.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8038,
+          "sha256": "59ac60634e0e69f99c76fe3482b706933795567b716ecabef4a1c6ad9ab8d455",
+          "transparent": true,
+          "sourceBundleSha256": "33f33c6b7b8d865087b36cae8949f9472c4930b0e81c84398dd9aa787f50d994",
+          "cacheKey": "79d1cb4d7da83f9f3629db5dde8777a7769ca26f6dfb1f5f2e618b56555f12b9",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.731434,
+            "pan": [
+              0.053673,
+              -0.024693,
+              -0.035895
+            ],
+            "alphaBounds": {
+              "x": 88,
+              "y": 73,
+              "width": 335,
+              "height": 367,
+              "fill": 0.716797,
+              "centerOffset": {
+                "x": -0.5,
+                "y": 0.5,
+                "length": 0.707107
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-cube-pets/kenney-cube-pets-animal-polar.webp",
+          "packRelativePath": "previews/kenney-cube-pets-animal-polar.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/cube-pets",
+        "tags": [
+          "3d",
+          "kenney",
+          "pet",
+          "animal",
+          "dog",
+          "cat",
+          "cube",
+          "character",
+          "animated",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [
+          "cube animal",
+          "cube pet"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.625,
+              0,
+              -0.625
+            ],
+            "max": [
+              0.625,
+              1.50125,
+              0.87015
+            ],
+            "size": [
+              1.25,
+              1.50125,
+              1.49515
+            ],
+            "center": [
+              0,
+              0.750625,
+              0.122575
+            ],
+            "diagonal": 2.460026
+          },
+          "triangleCount": 522,
+          "drawCallCount": 5,
+          "renderVertexCount": 1566,
+          "uploadVertexCount": 405,
+          "meshCount": 5,
+          "primitiveCount": 5
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": true,
+        "animationCount": 8,
+        "animations": [
+          {
+            "name": "static",
+            "durationSec": 0.1,
+            "keyframes": 36,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "idle",
+            "durationSec": 1,
+            "keyframes": 64,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "walk",
+            "durationSec": 0.5,
+            "keyframes": 114,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "run",
+            "durationSec": 0.25,
+            "keyframes": 72,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "eat",
+            "durationSec": 0.5,
+            "keyframes": 49,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "dance",
+            "durationSec": 0.5,
+            "keyframes": 62,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-positive",
+            "durationSec": 0.25,
+            "keyframes": 42,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-negative",
+            "durationSec": 0.25,
+            "keyframes": 42,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          }
+        ],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-cube-pets-animal-tiger": {
+      "generatedAt": "2026-04-24T09:11:01.698Z",
+      "asset": {
+        "id": "kenney-cube-pets-animal-tiger",
+        "name": "Animal Tiger",
+        "description": "Animated cube pet character model (Animal Tiger).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-cube-pets/kenney-cube-pets-animal-tiger/kenney-cube-pets-animal-tiger.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-cube-pets/kenney-cube-pets-animal-tiger/kenney-cube-pets-animal-tiger.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-cube-pets/kenney-cube-pets-animal-tiger.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 11808,
+          "sha256": "20ee0e2384a1c96ce645790882b7472596cda4233f965f7d8f5abd9757b22059",
+          "transparent": true,
+          "sourceBundleSha256": "5586e86bbf485c223c2b87c2f1103a4ed7f4babe95d9efeebec4c18af2b68be4",
+          "cacheKey": "50be275adcc9a149556ed0ba6c94517ef973ef6fdf95fef5ffd68a136c1f5578",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 4.566417,
+            "pan": [
+              -0.081479,
+              -0.049091,
+              0.116825
+            ],
+            "alphaBounds": {
+              "x": 116,
+              "y": 71,
+              "width": 282,
+              "height": 368,
+              "fill": 0.71875,
+              "centerOffset": {
+                "x": 1,
+                "y": -1,
+                "length": 1.414214
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-cube-pets/kenney-cube-pets-animal-tiger.webp",
+          "packRelativePath": "previews/kenney-cube-pets-animal-tiger.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/cube-pets",
+        "tags": [
+          "3d",
+          "kenney",
+          "pet",
+          "animal",
+          "dog",
+          "cat",
+          "cube",
+          "character",
+          "animated",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [
+          "cube animal",
+          "cube pet"
+        ],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.675,
+              0,
+              -1.103608
+            ],
+            "max": [
+              0.675,
+              1.709994,
+              0.795703
+            ],
+            "size": [
+              1.35,
+              1.709994,
+              1.899311
+            ],
+            "center": [
+              0,
+              0.854997,
+              -0.153953
+            ],
+            "diagonal": 2.890323
+          },
+          "triangleCount": 951,
+          "drawCallCount": 6,
+          "renderVertexCount": 2853,
+          "uploadVertexCount": 1577,
+          "meshCount": 6,
+          "primitiveCount": 6
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": true,
+        "animationCount": 8,
+        "animations": [
+          {
+            "name": "static",
+            "durationSec": 0.1,
+            "keyframes": 42,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "idle",
+            "durationSec": 1,
+            "keyframes": 98,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "walk",
+            "durationSec": 0.5,
+            "keyframes": 133,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "run",
+            "durationSec": 0.25,
+            "keyframes": 84,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "eat",
+            "durationSec": 0.5,
+            "keyframes": 68,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "dance",
+            "durationSec": 0.5,
+            "keyframes": 81,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-positive",
+            "durationSec": 0.25,
+            "keyframes": 53,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          },
+          {
+            "name": "gesture-negative",
+            "durationSec": 0.25,
+            "keyframes": 54,
+            "targetPaths": [
+              "rotation",
+              "scale",
+              "translation"
+            ],
+            "interpolations": [
+              "LINEAR"
+            ]
+          }
+        ],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    }
+  }
+}

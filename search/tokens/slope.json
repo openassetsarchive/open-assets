@@ -1,8 +1,12 @@
 {
   "version": 1,
   "token": "slope",
-  "count": 20,
+  "count": 40,
   "assetIds": [
+    "kenney-fantasy-town-kit-road-edge-slope",
+    "kenney-fantasy-town-kit-road-slope",
+    "kenney-fantasy-town-kit-wall-slope",
+    "kenney-fantasy-town-kit-wall-wood-slope",
     "kenney-isometric-miniature-farm-angle-plankshighslope-e",
     "kenney-isometric-miniature-farm-angle-plankshighslope-n",
     "kenney-isometric-miniature-farm-angle-plankshighslope-s",
@@ -22,6 +26,22 @@
     "kenney-isometric-roads-water-png-slopee",
     "kenney-isometric-roads-water-png-slopen",
     "kenney-isometric-roads-water-png-slopes",
-    "kenney-isometric-roads-water-png-slopew"
+    "kenney-isometric-roads-water-png-slopew",
+    "kenney-platformer-kit-block-grass-large-slope",
+    "kenney-platformer-kit-block-grass-large-slope-narrow",
+    "kenney-platformer-kit-block-grass-large-slope-steep",
+    "kenney-platformer-kit-block-grass-large-slope-steep-narrow",
+    "kenney-platformer-kit-block-grass-overhang-large-slope",
+    "kenney-platformer-kit-block-grass-overhang-large-slope-narrow",
+    "kenney-platformer-kit-block-grass-overhang-large-slope-steep",
+    "kenney-platformer-kit-block-grass-overhang-large-slope-steep-narrow",
+    "kenney-platformer-kit-block-snow-large-slope",
+    "kenney-platformer-kit-block-snow-large-slope-narrow",
+    "kenney-platformer-kit-block-snow-large-slope-steep",
+    "kenney-platformer-kit-block-snow-large-slope-steep-narrow",
+    "kenney-platformer-kit-block-snow-overhang-large-slope",
+    "kenney-platformer-kit-block-snow-overhang-large-slope-narrow",
+    "kenney-platformer-kit-block-snow-overhang-large-slope-steep",
+    "kenney-platformer-kit-block-snow-overhang-large-slope-steep-narrow"
   ]
 }

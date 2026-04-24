@@ -1,7 +1,7 @@
 {
   "version": 1,
   "token": "hexagon",
-  "count": 99,
+  "count": 107,
   "assetIds": [
     "kenney-hexagon-tiles-spritesheet-aliens",
     "kenney-hexagon-tiles-spritesheet-complete",
@@ -101,6 +101,14 @@
     "kenney-hexagon-tiles-tiles-treegreen-low",
     "kenney-hexagon-tiles-tiles-treegreen-mid",
     "kenney-hexagon-tiles-tiles-wavelava",
-    "kenney-hexagon-tiles-tiles-wavewater"
+    "kenney-hexagon-tiles-tiles-wavewater",
+    "kenney-platformer-kit-block-grass-hexagon",
+    "kenney-platformer-kit-block-grass-low-hexagon",
+    "kenney-platformer-kit-block-grass-overhang-hexagon",
+    "kenney-platformer-kit-block-grass-overhang-low-hexagon",
+    "kenney-platformer-kit-block-snow-hexagon",
+    "kenney-platformer-kit-block-snow-low-hexagon",
+    "kenney-platformer-kit-block-snow-overhang-hexagon",
+    "kenney-platformer-kit-block-snow-overhang-low-hexagon"
   ]
 }

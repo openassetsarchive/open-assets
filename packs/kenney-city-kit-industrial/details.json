@@ -1,0 +1,3790 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-24T09:11:01.301Z",
+  "pack": {
+    "id": "kenney-city-kit-industrial",
+    "name": "Kenney City Kit Industrial",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://kenney.nl/assets/city-kit-industrial",
+    "tags": [
+      "3d",
+      "kenney",
+      "city",
+      "building",
+      "factory",
+      "warehouse",
+      "industrial",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy"
+    ]
+  },
+  "assetIds": [
+    "kenney-city-kit-industrial-building-a",
+    "kenney-city-kit-industrial-building-b",
+    "kenney-city-kit-industrial-building-c",
+    "kenney-city-kit-industrial-building-d",
+    "kenney-city-kit-industrial-building-e",
+    "kenney-city-kit-industrial-building-f",
+    "kenney-city-kit-industrial-building-g",
+    "kenney-city-kit-industrial-building-h",
+    "kenney-city-kit-industrial-building-i",
+    "kenney-city-kit-industrial-building-j",
+    "kenney-city-kit-industrial-building-k",
+    "kenney-city-kit-industrial-building-l",
+    "kenney-city-kit-industrial-building-m",
+    "kenney-city-kit-industrial-building-n",
+    "kenney-city-kit-industrial-building-o",
+    "kenney-city-kit-industrial-building-p",
+    "kenney-city-kit-industrial-building-q",
+    "kenney-city-kit-industrial-building-r",
+    "kenney-city-kit-industrial-building-s",
+    "kenney-city-kit-industrial-building-t",
+    "kenney-city-kit-industrial-chimney-basic",
+    "kenney-city-kit-industrial-chimney-large",
+    "kenney-city-kit-industrial-chimney-medium",
+    "kenney-city-kit-industrial-chimney-small",
+    "kenney-city-kit-industrial-detail-tank"
+  ],
+  "assetsById": {
+    "kenney-city-kit-industrial-building-a": {
+      "generatedAt": "2026-04-24T09:11:01.301Z",
+      "asset": {
+        "id": "kenney-city-kit-industrial-building-a",
+        "name": "Building A",
+        "description": "Industrial city building model (Building A).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-city-kit-industrial/kenney-city-kit-industrial-building-a/kenney-city-kit-industrial-building-a.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-city-kit-industrial/kenney-city-kit-industrial-building-a/kenney-city-kit-industrial-building-a.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-city-kit-industrial/kenney-city-kit-industrial-building-a.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 9444,
+          "sha256": "c92a676e52ea3ca8b5c06238eb0019c089a56797cd487949e07fd40a299f7a30",
+          "transparent": true,
+          "sourceBundleSha256": "a0ace64847be730e540bdf55c675821c7cedc3fe984dfd30a86e7e407b79eb0c",
+          "cacheKey": "8602b465061b59a29db1d41c3de25e65fc708686442c32b4c8b6fa2e88bd847c",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 5.408768,
+            "pan": [
+              0.126338,
+              -0.212142,
+              0.026404
+            ],
+            "alphaBounds": {
+              "x": 74,
+              "y": 93,
+              "width": 364,
+              "height": 326,
+              "fill": 0.710938,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-city-kit-industrial/kenney-city-kit-industrial-building-a.webp",
+          "packRelativePath": "previews/kenney-city-kit-industrial-building-a.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/city-kit-industrial",
+        "tags": [
+          "3d",
+          "kenney",
+          "city",
+          "building",
+          "factory",
+          "warehouse",
+          "industrial",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -1.041066,
+              0,
+              -0.621
+            ],
+            "max": [
+              1.042522,
+              1.47,
+              0.621
+            ],
+            "size": [
+              2.083588,
+              1.47,
+              1.242
+            ],
+            "center": [
+              0.000728,
+              0.735,
+              0
+            ],
+            "diagonal": 2.836336
+          },
+          "triangleCount": 2046,
+          "drawCallCount": 1,
+          "renderVertexCount": 6138,
+          "uploadVertexCount": 3390,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-city-kit-industrial-building-b": {
+      "generatedAt": "2026-04-24T09:11:01.301Z",
+      "asset": {
+        "id": "kenney-city-kit-industrial-building-b",
+        "name": "Building B",
+        "description": "Industrial city building model (Building B).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-city-kit-industrial/kenney-city-kit-industrial-building-b/kenney-city-kit-industrial-building-b.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-city-kit-industrial/kenney-city-kit-industrial-building-b/kenney-city-kit-industrial-building-b.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-city-kit-industrial/kenney-city-kit-industrial-building-b.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 9952,
+          "sha256": "8ceb25a765607ec34bee2be3542562fcb2e1ca35073cfb9c435075f23d5109c3",
+          "transparent": true,
+          "sourceBundleSha256": "f1741df9d4192ad7a1772988e2836a4078213d25d0f47b210323afae842cf547",
+          "cacheKey": "a9fd40c4ea91426ce8b7eb614a4588b9e4c809e7cb564a1086659d1393789094",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 5.251466,
+            "pan": [
+              0.169807,
+              -0.278751,
+              0.030894
+            ],
+            "alphaBounds": {
+              "x": 75,
+              "y": 100,
+              "width": 363,
+              "height": 312,
+              "fill": 0.708984,
+              "centerOffset": {
+                "x": 0.5,
+                "y": 0,
+                "length": 0.5
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-city-kit-industrial/kenney-city-kit-industrial-building-b.webp",
+          "packRelativePath": "previews/kenney-city-kit-industrial-building-b.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/city-kit-industrial",
+        "tags": [
+          "3d",
+          "kenney",
+          "city",
+          "building",
+          "factory",
+          "warehouse",
+          "industrial",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -1.041066,
+              0,
+              -0.639
+            ],
+            "max": [
+              1.042522,
+              1.47,
+              0.623
+            ],
+            "size": [
+              2.083588,
+              1.47,
+              1.262
+            ],
+            "center": [
+              0.000728,
+              0.735,
+              -0.008
+            ],
+            "diagonal": 2.845151
+          },
+          "triangleCount": 2422,
+          "drawCallCount": 1,
+          "renderVertexCount": 7266,
+          "uploadVertexCount": 4066,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-city-kit-industrial-building-c": {
+      "generatedAt": "2026-04-24T09:11:01.301Z",
+      "asset": {
+        "id": "kenney-city-kit-industrial-building-c",
+        "name": "Building C",
+        "description": "Industrial city building model (Building C).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-city-kit-industrial/kenney-city-kit-industrial-building-c/kenney-city-kit-industrial-building-c.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-city-kit-industrial/kenney-city-kit-industrial-building-c/kenney-city-kit-industrial-building-c.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-city-kit-industrial/kenney-city-kit-industrial-building-c.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 10696,
+          "sha256": "6306ffcd7e4af0cabf17f083618dea0699312803980a2d15847b2551ebddbf42",
+          "transparent": true,
+          "sourceBundleSha256": "93d6bcea9eb7068eda9b88c497f992fbf432f67421eae308c981bb3cddb05e03",
+          "cacheKey": "a78110fedc242f4cafa13bd7d71e9b256b5c669ce1c0ec5f9579c450505a009d",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 5.484437,
+            "pan": [
+              0.12732,
+              -0.242142,
+              0.047022
+            ],
+            "alphaBounds": {
+              "x": 71,
+              "y": 118,
+              "width": 370,
+              "height": 278,
+              "fill": 0.722656,
+              "centerOffset": {
+                "x": 0,
+                "y": 1,
+                "length": 1
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-city-kit-industrial/kenney-city-kit-industrial-building-c.webp",
+          "packRelativePath": "previews/kenney-city-kit-industrial-building-c.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/city-kit-industrial",
+        "tags": [
+          "3d",
+          "kenney",
+          "city",
+          "building",
+          "factory",
+          "warehouse",
+          "industrial",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.841794,
+              0,
+              -0.911
+            ],
+            "max": [
+              1.034141,
+              1.25,
+              1.197021
+            ],
+            "size": [
+              1.875935,
+              1.25,
+              2.108021
+            ],
+            "center": [
+              0.096173,
+              0.625,
+              0.143011
+            ],
+            "diagonal": 3.086322
+          },
+          "triangleCount": 1780,
+          "drawCallCount": 1,
+          "renderVertexCount": 5340,
+          "uploadVertexCount": 3062,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-city-kit-industrial-building-d": {
+      "generatedAt": "2026-04-24T09:11:01.301Z",
+      "asset": {
+        "id": "kenney-city-kit-industrial-building-d",
+        "name": "Building D",
+        "description": "Industrial city building model (Building D).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-city-kit-industrial/kenney-city-kit-industrial-building-d/kenney-city-kit-industrial-building-d.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-city-kit-industrial/kenney-city-kit-industrial-building-d/kenney-city-kit-industrial-building-d.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-city-kit-industrial/kenney-city-kit-industrial-building-d.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 9332,
+          "sha256": "22b572f06a0d3a8a968e69d7094288f1f26bd12498a11e2c7386303eb6de6b65",
+          "transparent": true,
+          "sourceBundleSha256": "3b81c18ac965a2a132b6573c8bf5927d21070257928bfe2c524e50ec9253c63d",
+          "cacheKey": "a897823c96a85f53d1ed07e986df1b84dbc25311164449a77cffbc0680fb6909",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 4.035538,
+            "pan": [
+              0.007894,
+              -0.156353,
+              0.104681
+            ],
+            "alphaBounds": {
+              "x": 96,
+              "y": 73,
+              "width": 320,
+              "height": 366,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-city-kit-industrial/kenney-city-kit-industrial-building-d.webp",
+          "packRelativePath": "previews/kenney-city-kit-industrial-building-d.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/city-kit-industrial",
+        "tags": [
+          "3d",
+          "kenney",
+          "city",
+          "building",
+          "factory",
+          "warehouse",
+          "industrial",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.441794,
+              0,
+              -0.8
+            ],
+            "max": [
+              0.441794,
+              1.414552,
+              0.62
+            ],
+            "size": [
+              0.883588,
+              1.414552,
+              1.42
+            ],
+            "center": [
+              0,
+              0.707276,
+              -0.09
+            ],
+            "diagonal": 2.190453
+          },
+          "triangleCount": 1158,
+          "drawCallCount": 1,
+          "renderVertexCount": 3474,
+          "uploadVertexCount": 1906,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-city-kit-industrial-building-e": {
+      "generatedAt": "2026-04-24T09:11:01.301Z",
+      "asset": {
+        "id": "kenney-city-kit-industrial-building-e",
+        "name": "Building E",
+        "description": "Industrial city building model (Building E).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-city-kit-industrial/kenney-city-kit-industrial-building-e/kenney-city-kit-industrial-building-e.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-city-kit-industrial/kenney-city-kit-industrial-building-e/kenney-city-kit-industrial-building-e.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-city-kit-industrial/kenney-city-kit-industrial-building-e.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 10660,
+          "sha256": "7b02582286fbfc300262074f0f037745b75f3afc7bf11d114d666df70aadfc1c",
+          "transparent": true,
+          "sourceBundleSha256": "11d6c21b26b95347d7bc4cfa662ab3b065e40cd1a0a354f82a37208e100b5e0e",
+          "cacheKey": "404ce0713e048006422c2dc117043033127a6294f64991b2116f2d91bedae3c7",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 4.458407,
+            "pan": [
+              0.045626,
+              -0.120085,
+              0.040836
+            ],
+            "alphaBounds": {
+              "x": 72,
+              "y": 71,
+              "width": 369,
+              "height": 369,
+              "fill": 0.720703,
+              "centerOffset": {
+                "x": 0.5,
+                "y": -0.5,
+                "length": 0.707107
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-city-kit-industrial/kenney-city-kit-industrial-building-e.webp",
+          "packRelativePath": "previews/kenney-city-kit-industrial-building-e.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/city-kit-industrial",
+        "tags": [
+          "3d",
+          "kenney",
+          "city",
+          "building",
+          "factory",
+          "warehouse",
+          "industrial",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.841794,
+              0,
+              -0.396
+            ],
+            "max": [
+              0.841794,
+              1.65,
+              0.894
+            ],
+            "size": [
+              1.683588,
+              1.65,
+              1.29
+            ],
+            "center": [
+              0,
+              0.825,
+              0.249
+            ],
+            "diagonal": 2.687205
+          },
+          "triangleCount": 1484,
+          "drawCallCount": 1,
+          "renderVertexCount": 4452,
+          "uploadVertexCount": 2462,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-city-kit-industrial-building-f": {
+      "generatedAt": "2026-04-24T09:11:01.301Z",
+      "asset": {
+        "id": "kenney-city-kit-industrial-building-f",
+        "name": "Building F",
+        "description": "Industrial city building model (Building F).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-city-kit-industrial/kenney-city-kit-industrial-building-f/kenney-city-kit-industrial-building-f.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-city-kit-industrial/kenney-city-kit-industrial-building-f/kenney-city-kit-industrial-building-f.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-city-kit-industrial/kenney-city-kit-industrial-building-f.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8580,
+          "sha256": "41857ddce268fa56c74e3ee8640959a34ddc81fe2bd41256b1e551bc05edbed7",
+          "transparent": true,
+          "sourceBundleSha256": "28fbab037477b681755e934f048757acf883541264d132e4fe35f47c46007b1a",
+          "cacheKey": "532b1ec09ee42109ba1a4228e4d1564e5ed75a4b95a4272db9dbfd6467fc0dd5",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 5.274996,
+            "pan": [
+              0.047529,
+              -0.043694,
+              -0.016069
+            ],
+            "alphaBounds": {
+              "x": 102,
+              "y": 66,
+              "width": 309,
+              "height": 379,
+              "fill": 0.740234,
+              "centerOffset": {
+                "x": 0.5,
+                "y": -0.5,
+                "length": 0.707107
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-city-kit-industrial/kenney-city-kit-industrial-building-f.webp",
+          "packRelativePath": "previews/kenney-city-kit-industrial-building-f.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/city-kit-industrial",
+        "tags": [
+          "3d",
+          "kenney",
+          "city",
+          "building",
+          "factory",
+          "warehouse",
+          "industrial",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -1.348206,
+              0,
+              -0.386
+            ],
+            "max": [
+              0.441794,
+              1.925,
+              0.894
+            ],
+            "size": [
+              1.79,
+              1.925,
+              1.28
+            ],
+            "center": [
+              -0.453206,
+              0.9625,
+              0.254
+            ],
+            "diagonal": 2.923718
+          },
+          "triangleCount": 1552,
+          "drawCallCount": 1,
+          "renderVertexCount": 4656,
+          "uploadVertexCount": 2568,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-city-kit-industrial-building-g": {
+      "generatedAt": "2026-04-24T09:11:01.301Z",
+      "asset": {
+        "id": "kenney-city-kit-industrial-building-g",
+        "name": "Building G",
+        "description": "Industrial city building model (Building G).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-city-kit-industrial/kenney-city-kit-industrial-building-g/kenney-city-kit-industrial-building-g.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-city-kit-industrial/kenney-city-kit-industrial-building-g/kenney-city-kit-industrial-building-g.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-city-kit-industrial/kenney-city-kit-industrial-building-g.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8954,
+          "sha256": "1d79ec408a1ab50f902c995e6b6912f1115eb71d1a4c3c6a15ecc770acdcc2de",
+          "transparent": true,
+          "sourceBundleSha256": "ff484f5395b27eaee837c2a4a58f89129d53a4ae37aa71e90fd24df11a480453",
+          "cacheKey": "ab0903fa57c812e8b7bff8fd1cc53796ba27173163979a05b1a4e9ce2766d396",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 4.598531,
+            "pan": [
+              0.007535,
+              -0.063169,
+              0.037947
+            ],
+            "alphaBounds": {
+              "x": 70,
+              "y": 97,
+              "width": 373,
+              "height": 318,
+              "fill": 0.728516,
+              "centerOffset": {
+                "x": 0.5,
+                "y": 0,
+                "length": 0.5
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-city-kit-industrial/kenney-city-kit-industrial-building-g.webp",
+          "packRelativePath": "previews/kenney-city-kit-industrial-building-g.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/city-kit-industrial",
+        "tags": [
+          "3d",
+          "kenney",
+          "city",
+          "building",
+          "factory",
+          "warehouse",
+          "industrial",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.839069,
+              0,
+              -0.641794
+            ],
+            "max": [
+              0.839069,
+              1.28,
+              0.641794
+            ],
+            "size": [
+              1.678138,
+              1.28,
+              1.283588
+            ],
+            "center": [
+              0,
+              0.64,
+              0
+            ],
+            "diagonal": 2.470252
+          },
+          "triangleCount": 1242,
+          "drawCallCount": 1,
+          "renderVertexCount": 3726,
+          "uploadVertexCount": 2024,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-city-kit-industrial-building-h": {
+      "generatedAt": "2026-04-24T09:11:01.301Z",
+      "asset": {
+        "id": "kenney-city-kit-industrial-building-h",
+        "name": "Building H",
+        "description": "Industrial city building model (Building H).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-city-kit-industrial/kenney-city-kit-industrial-building-h/kenney-city-kit-industrial-building-h.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-city-kit-industrial/kenney-city-kit-industrial-building-h/kenney-city-kit-industrial-building-h.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-city-kit-industrial/kenney-city-kit-industrial-building-h.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 7850,
+          "sha256": "c5f769ee5f3f844de0c5eb2c837f197830b5aecb583a94499ab30d682401f182",
+          "transparent": true,
+          "sourceBundleSha256": "d2a5a53d7dcaccff5592f108a3fe5b339944ab4f10056f9ddc0e50b7d4456101",
+          "cacheKey": "931bed01ddface858e9e755651acad25464b799c5fa63f542ccd7f3dd16c13ff",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.96928,
+            "pan": [
+              0.079688,
+              -0.163856,
+              0.038288
+            ],
+            "alphaBounds": {
+              "x": 71,
+              "y": 125,
+              "width": 369,
+              "height": 260,
+              "fill": 0.720703,
+              "centerOffset": {
+                "x": -0.5,
+                "y": -1,
+                "length": 1.118034
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-city-kit-industrial/kenney-city-kit-industrial-building-h.webp",
+          "packRelativePath": "previews/kenney-city-kit-industrial-building-h.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/city-kit-industrial",
+        "tags": [
+          "3d",
+          "kenney",
+          "city",
+          "building",
+          "factory",
+          "warehouse",
+          "industrial",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -1.241794,
+              0,
+              -0.376
+            ],
+            "max": [
+              0.079932,
+              0.733541,
+              0.934
+            ],
+            "size": [
+              1.321726,
+              0.733541,
+              1.31
+            ],
+            "center": [
+              -0.580931,
+              0.366771,
+              0.279
+            ],
+            "diagonal": 2.000285
+          },
+          "triangleCount": 698,
+          "drawCallCount": 1,
+          "renderVertexCount": 2094,
+          "uploadVertexCount": 1190,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-city-kit-industrial-building-i": {
+      "generatedAt": "2026-04-24T09:11:01.301Z",
+      "asset": {
+        "id": "kenney-city-kit-industrial-building-i",
+        "name": "Building I",
+        "description": "Industrial city building model (Building I).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-city-kit-industrial/kenney-city-kit-industrial-building-i/kenney-city-kit-industrial-building-i.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-city-kit-industrial/kenney-city-kit-industrial-building-i/kenney-city-kit-industrial-building-i.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-city-kit-industrial/kenney-city-kit-industrial-building-i.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 7548,
+          "sha256": "6dee077905df43ca85a967d804a3f7a796aa45134a905c51b56c4df2a5d18bc2",
+          "transparent": true,
+          "sourceBundleSha256": "e58eb9c5cbe3fb7e7a4a6deda904ccbff8fc4319a69699573a7bb9c65fd11655",
+          "cacheKey": "6f97bc6096034a5251c11cb50f71b3033942d57854125f2e2ec8d8fcf82df12e",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.495452,
+            "pan": [
+              0.055039,
+              -0.125876,
+              0.035591
+            ],
+            "alphaBounds": {
+              "x": 73,
+              "y": 111,
+              "width": 366,
+              "height": 290,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-city-kit-industrial/kenney-city-kit-industrial-building-i.webp",
+          "packRelativePath": "previews/kenney-city-kit-industrial-building-i.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/city-kit-industrial",
+        "tags": [
+          "3d",
+          "kenney",
+          "city",
+          "building",
+          "factory",
+          "warehouse",
+          "industrial",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.948206,
+              0,
+              -0.376
+            ],
+            "max": [
+              0.079932,
+              0.733541,
+              0.924
+            ],
+            "size": [
+              1.028138,
+              0.733541,
+              1.3
+            ],
+            "center": [
+              -0.434137,
+              0.366771,
+              0.274
+            ],
+            "diagonal": 1.812498
+          },
+          "triangleCount": 798,
+          "drawCallCount": 1,
+          "renderVertexCount": 2394,
+          "uploadVertexCount": 1390,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-city-kit-industrial-building-j": {
+      "generatedAt": "2026-04-24T09:11:01.301Z",
+      "asset": {
+        "id": "kenney-city-kit-industrial-building-j",
+        "name": "Building J",
+        "description": "Industrial city building model (Building J).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-city-kit-industrial/kenney-city-kit-industrial-building-j/kenney-city-kit-industrial-building-j.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-city-kit-industrial/kenney-city-kit-industrial-building-j/kenney-city-kit-industrial-building-j.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-city-kit-industrial/kenney-city-kit-industrial-building-j.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8280,
+          "sha256": "afbae2e33a593cdb182c0658bf73bfddfb83c35bab5a7c0cb9155371ec3ea2d6",
+          "transparent": true,
+          "sourceBundleSha256": "1e6a610bdac093c8b3e90e5435db97940fa45ffddddc0a7ec2bed9b00dd1c7f1",
+          "cacheKey": "e9bda3aa6d109506c2c95b112c2fd6766d0c497eb34afd5d6b7bd03945f04bb4",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.465254,
+            "pan": [
+              0.060569,
+              -0.141381,
+              0.041226
+            ],
+            "alphaBounds": {
+              "x": 73,
+              "y": 101,
+              "width": 366,
+              "height": 311,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": 0.5,
+                "length": 0.5
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-city-kit-industrial/kenney-city-kit-industrial-building-j.webp",
+          "packRelativePath": "previews/kenney-city-kit-industrial-building-j.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/city-kit-industrial",
+        "tags": [
+          "3d",
+          "kenney",
+          "city",
+          "building",
+          "factory",
+          "warehouse",
+          "industrial",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.948206,
+              0,
+              -0.376
+            ],
+            "max": [
+              0.078416,
+              0.861146,
+              0.924
+            ],
+            "size": [
+              1.026622,
+              0.861146,
+              1.3
+            ],
+            "center": [
+              -0.434895,
+              0.430573,
+              0.274
+            ],
+            "diagonal": 1.866956
+          },
+          "triangleCount": 886,
+          "drawCallCount": 1,
+          "renderVertexCount": 2658,
+          "uploadVertexCount": 1524,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-city-kit-industrial-building-k": {
+      "generatedAt": "2026-04-24T09:11:01.301Z",
+      "asset": {
+        "id": "kenney-city-kit-industrial-building-k",
+        "name": "Building K",
+        "description": "Industrial city building model (Building K).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-city-kit-industrial/kenney-city-kit-industrial-building-k/kenney-city-kit-industrial-building-k.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-city-kit-industrial/kenney-city-kit-industrial-building-k/kenney-city-kit-industrial-building-k.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-city-kit-industrial/kenney-city-kit-industrial-building-k.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8168,
+          "sha256": "1d1e5fa1895ae5e2c8af9c349e4918a807d88c1ed061d7db443ed7f05835de09",
+          "transparent": true,
+          "sourceBundleSha256": "0525b51e27fa1eec3be668e8ddac0873338dee4ed9a1dc85abd83cf565f11724",
+          "cacheKey": "36fc1cfb2f973416d7fe297318fc6016a65c5b7a2432df48076db59ba6d28cbf",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.510706,
+            "pan": [
+              0.035931,
+              -0.085559,
+              0.025671
+            ],
+            "alphaBounds": {
+              "x": 74,
+              "y": 102,
+              "width": 365,
+              "height": 308,
+              "fill": 0.712891,
+              "centerOffset": {
+                "x": 0.5,
+                "y": 0,
+                "length": 0.5
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-city-kit-industrial/kenney-city-kit-industrial-building-k.webp",
+          "packRelativePath": "previews/kenney-city-kit-industrial-building-k.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/city-kit-industrial",
+        "tags": [
+          "3d",
+          "kenney",
+          "city",
+          "building",
+          "factory",
+          "warehouse",
+          "industrial",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.65143,
+              0,
+              -0.463588
+            ],
+            "max": [
+              0.65143,
+              0.772741,
+              0.45
+            ],
+            "size": [
+              1.302859,
+              0.772741,
+              0.913588
+            ],
+            "center": [
+              0,
+              0.386371,
+              -0.006794
+            ],
+            "diagonal": 1.768959
+          },
+          "triangleCount": 702,
+          "drawCallCount": 1,
+          "renderVertexCount": 2106,
+          "uploadVertexCount": 1228,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-city-kit-industrial-building-l": {
+      "generatedAt": "2026-04-24T09:11:01.301Z",
+      "asset": {
+        "id": "kenney-city-kit-industrial-building-l",
+        "name": "Building L",
+        "description": "Industrial city building model (Building L).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-city-kit-industrial/kenney-city-kit-industrial-building-l/kenney-city-kit-industrial-building-l.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-city-kit-industrial/kenney-city-kit-industrial-building-l/kenney-city-kit-industrial-building-l.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-city-kit-industrial/kenney-city-kit-industrial-building-l.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 11800,
+          "sha256": "6078610f5f021b6f0eb4de0271b28191d5af58872e8221af68956200699591c4",
+          "transparent": true,
+          "sourceBundleSha256": "2ced262015df0830f3c18e32200f7d2aac21ff8b0401a044df34ad2c11549353",
+          "cacheKey": "f814daeb3185dd94ae6fd42805550f50b11be7dbffe388e53935bfe688b51235",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 4.936862,
+            "pan": [
+              0.241785,
+              -0.270056,
+              -0.047344
+            ],
+            "alphaBounds": {
+              "x": 72,
+              "y": 65,
+              "width": 369,
+              "height": 382,
+              "fill": 0.746094,
+              "centerOffset": {
+                "x": 0.5,
+                "y": 0,
+                "length": 0.5
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-city-kit-industrial/kenney-city-kit-industrial-building-l.webp",
+          "packRelativePath": "previews/kenney-city-kit-industrial-building-l.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/city-kit-industrial",
+        "tags": [
+          "3d",
+          "kenney",
+          "city",
+          "building",
+          "factory",
+          "warehouse",
+          "industrial",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -1.463588,
+              0,
+              -0.711
+            ],
+            "max": [
+              0.62,
+              1.925,
+              1.159
+            ],
+            "size": [
+              2.083588,
+              1.925,
+              1.87
+            ],
+            "center": [
+              -0.421794,
+              0.9625,
+              0.224
+            ],
+            "diagonal": 3.397626
+          },
+          "triangleCount": 1904,
+          "drawCallCount": 1,
+          "renderVertexCount": 5712,
+          "uploadVertexCount": 3098,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-city-kit-industrial-building-m": {
+      "generatedAt": "2026-04-24T09:11:01.301Z",
+      "asset": {
+        "id": "kenney-city-kit-industrial-building-m",
+        "name": "Building M",
+        "description": "Industrial city building model (Building M).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-city-kit-industrial/kenney-city-kit-industrial-building-m/kenney-city-kit-industrial-building-m.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-city-kit-industrial/kenney-city-kit-industrial-building-m/kenney-city-kit-industrial-building-m.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-city-kit-industrial/kenney-city-kit-industrial-building-m.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 11396,
+          "sha256": "2705cd031920470f4664536c3cc14f44c26534448244da823f4e44ff597ffa75",
+          "transparent": true,
+          "sourceBundleSha256": "e03456257abd0476253ebc217b39338ff793e3807b68ad7f4479df704481cbec",
+          "cacheKey": "c5b811768a8d4760624b2166360d0ffc7db921086e0eb65814b2ca78800d8f58",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 4.422888,
+            "pan": [
+              0.057203,
+              -0.215177,
+              0.097725
+            ],
+            "alphaBounds": {
+              "x": 70,
+              "y": 67,
+              "width": 372,
+              "height": 376,
+              "fill": 0.734375,
+              "centerOffset": {
+                "x": 0,
+                "y": -1,
+                "length": 1
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-city-kit-industrial/kenney-city-kit-industrial-building-m.webp",
+          "packRelativePath": "previews/kenney-city-kit-industrial-building-m.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/city-kit-industrial",
+        "tags": [
+          "3d",
+          "kenney",
+          "city",
+          "building",
+          "factory",
+          "warehouse",
+          "industrial",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.658138,
+              0,
+              -0.85
+            ],
+            "max": [
+              0.658138,
+              1.519007,
+              0.85
+            ],
+            "size": [
+              1.316276,
+              1.519007,
+              1.7
+            ],
+            "center": [
+              0,
+              0.759503,
+              0
+            ],
+            "diagonal": 2.632482
+          },
+          "triangleCount": 1706,
+          "drawCallCount": 1,
+          "renderVertexCount": 5118,
+          "uploadVertexCount": 2634,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-city-kit-industrial-building-n": {
+      "generatedAt": "2026-04-24T09:11:01.301Z",
+      "asset": {
+        "id": "kenney-city-kit-industrial-building-n",
+        "name": "Building N",
+        "description": "Industrial city building model (Building N).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-city-kit-industrial/kenney-city-kit-industrial-building-n/kenney-city-kit-industrial-building-n.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-city-kit-industrial/kenney-city-kit-industrial-building-n/kenney-city-kit-industrial-building-n.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-city-kit-industrial/kenney-city-kit-industrial-building-n.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 7546,
+          "sha256": "8d244c59aa88cd03e356e1e953c8d3acb0f400098f8133d8e2b76365835cd073",
+          "transparent": true,
+          "sourceBundleSha256": "6f60d37df93b34aecafe0160565cc0e5b8de8714b5803fafd982429749ff4267",
+          "cacheKey": "8bc89e0f117e3a4304f8f80c223a28f77a77ecc7253cda8629d575bd11e825dc",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 4.733872,
+            "pan": [
+              0.036928,
+              -0.174968,
+              0.089049
+            ],
+            "alphaBounds": {
+              "x": 124,
+              "y": 73,
+              "width": 263,
+              "height": 367,
+              "fill": 0.716797,
+              "centerOffset": {
+                "x": -0.5,
+                "y": 0.5,
+                "length": 0.707107
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-city-kit-industrial/kenney-city-kit-industrial-building-n.webp",
+          "packRelativePath": "previews/kenney-city-kit-industrial-building-n.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/city-kit-industrial",
+        "tags": [
+          "3d",
+          "kenney",
+          "city",
+          "building",
+          "factory",
+          "warehouse",
+          "industrial",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.94,
+              0,
+              -0.15
+            ],
+            "max": [
+              0.036622,
+              1.904556,
+              1.27
+            ],
+            "size": [
+              0.976622,
+              1.904556,
+              1.42
+            ],
+            "center": [
+              -0.451689,
+              0.952278,
+              0.56
+            ],
+            "diagonal": 2.568564
+          },
+          "triangleCount": 1266,
+          "drawCallCount": 1,
+          "renderVertexCount": 3798,
+          "uploadVertexCount": 2070,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-city-kit-industrial-building-o": {
+      "generatedAt": "2026-04-24T09:11:01.301Z",
+      "asset": {
+        "id": "kenney-city-kit-industrial-building-o",
+        "name": "Building O",
+        "description": "Industrial city building model (Building O).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-city-kit-industrial/kenney-city-kit-industrial-building-o/kenney-city-kit-industrial-building-o.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-city-kit-industrial/kenney-city-kit-industrial-building-o/kenney-city-kit-industrial-building-o.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-city-kit-industrial/kenney-city-kit-industrial-building-o.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 9468,
+          "sha256": "c9670e0898740bf60e6e25ea75039ed990b0ff783e75d5013ca991f9143fdc6f",
+          "transparent": true,
+          "sourceBundleSha256": "7ac976f16272b02f5a7a735aac281f7cfb499446d9c120b6a8d98ed65a234b8c",
+          "cacheKey": "efc24699470192deaf011f10fc21932c2111ad00496496c1d6e595c0994771c4",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 3.39792,
+            "pan": [
+              0.028829,
+              -0.104484,
+              0.046399
+            ],
+            "alphaBounds": {
+              "x": 71,
+              "y": 84,
+              "width": 369,
+              "height": 345,
+              "fill": 0.720703,
+              "centerOffset": {
+                "x": -0.5,
+                "y": 0.5,
+                "length": 0.707107
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-city-kit-industrial/kenney-city-kit-industrial-building-o.webp",
+          "packRelativePath": "previews/kenney-city-kit-industrial-building-o.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/city-kit-industrial",
+        "tags": [
+          "3d",
+          "kenney",
+          "city",
+          "building",
+          "factory",
+          "warehouse",
+          "industrial",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.883588,
+              0,
+              0
+            ],
+            "max": [
+              0,
+              0.918,
+              1.24
+            ],
+            "size": [
+              0.883588,
+              0.918,
+              1.24
+            ],
+            "center": [
+              -0.441794,
+              0.459,
+              0.62
+            ],
+            "diagonal": 1.777935
+          },
+          "triangleCount": 868,
+          "drawCallCount": 1,
+          "renderVertexCount": 2604,
+          "uploadVertexCount": 1438,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-city-kit-industrial-building-p": {
+      "generatedAt": "2026-04-24T09:11:01.301Z",
+      "asset": {
+        "id": "kenney-city-kit-industrial-building-p",
+        "name": "Building P",
+        "description": "Industrial city building model (Building P).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-city-kit-industrial/kenney-city-kit-industrial-building-p/kenney-city-kit-industrial-building-p.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-city-kit-industrial/kenney-city-kit-industrial-building-p/kenney-city-kit-industrial-building-p.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-city-kit-industrial/kenney-city-kit-industrial-building-p.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8690,
+          "sha256": "0eca784c7f624c56d15afb6bf50701423783c628161db9617ec9f43ed8c0dd40",
+          "transparent": true,
+          "sourceBundleSha256": "becab9a203a88be236d557aa60ce68b6a84a0ca2a2855d18dda8fb5d2b89f9d8",
+          "cacheKey": "add7df7777ced2c8ace9b92bcae9fa01319baa46f6731a8e999f0de9cdfce659",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 4.077095,
+            "pan": [
+              0.087286,
+              -0.16949,
+              0.034747
+            ],
+            "alphaBounds": {
+              "x": 73,
+              "y": 126,
+              "width": 366,
+              "height": 261,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": 0.5,
+                "length": 0.5
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-city-kit-industrial/kenney-city-kit-industrial-building-p.webp",
+          "packRelativePath": "previews/kenney-city-kit-industrial-building-p.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/city-kit-industrial",
+        "tags": [
+          "3d",
+          "kenney",
+          "city",
+          "building",
+          "factory",
+          "warehouse",
+          "industrial",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.841794,
+              0,
+              -0.496
+            ],
+            "max": [
+              0.841794,
+              0.714552,
+              0.496
+            ],
+            "size": [
+              1.683588,
+              0.714552,
+              0.992
+            ],
+            "center": [
+              0,
+              0.357276,
+              0
+            ],
+            "diagonal": 2.080653
+          },
+          "triangleCount": 1162,
+          "drawCallCount": 1,
+          "renderVertexCount": 3486,
+          "uploadVertexCount": 1968,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-city-kit-industrial-building-q": {
+      "generatedAt": "2026-04-24T09:11:01.301Z",
+      "asset": {
+        "id": "kenney-city-kit-industrial-building-q",
+        "name": "Building Q",
+        "description": "Industrial city building model (Building Q).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-city-kit-industrial/kenney-city-kit-industrial-building-q/kenney-city-kit-industrial-building-q.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-city-kit-industrial/kenney-city-kit-industrial-building-q/kenney-city-kit-industrial-building-q.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-city-kit-industrial/kenney-city-kit-industrial-building-q.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 10072,
+          "sha256": "117973dc160d501b25bb770b9926fcd074cd899ad684394f4ec600afaaca0041",
+          "transparent": true,
+          "sourceBundleSha256": "8b94a10a61db30c7aa742d778151b8dbff1e959d9b97af4e7757740c794ff934",
+          "cacheKey": "f196cf2f3b7fe87f3a31a01b692e3051564fd2b5ef4c45a5f00073b07a724979",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 5.864152,
+            "pan": [
+              0.087243,
+              -0.20355,
+              0.059313
+            ],
+            "alphaBounds": {
+              "x": 68,
+              "y": 126,
+              "width": 376,
+              "height": 262,
+              "fill": 0.734375,
+              "centerOffset": {
+                "x": 0,
+                "y": 1,
+                "length": 1
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-city-kit-industrial/kenney-city-kit-industrial-building-q.webp",
+          "packRelativePath": "previews/kenney-city-kit-industrial-building-q.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/city-kit-industrial",
+        "tags": [
+          "3d",
+          "kenney",
+          "city",
+          "building",
+          "factory",
+          "warehouse",
+          "industrial",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -1.298206,
+              0,
+              -0.873891
+            ],
+            "max": [
+              0.841794,
+              0.88,
+              0.896
+            ],
+            "size": [
+              2.14,
+              0.88,
+              1.769892
+            ],
+            "center": [
+              -0.228206,
+              0.44,
+              0.011054
+            ],
+            "diagonal": 2.913163
+          },
+          "triangleCount": 2062,
+          "drawCallCount": 1,
+          "renderVertexCount": 6186,
+          "uploadVertexCount": 3470,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-city-kit-industrial-building-r": {
+      "generatedAt": "2026-04-24T09:11:01.301Z",
+      "asset": {
+        "id": "kenney-city-kit-industrial-building-r",
+        "name": "Building R",
+        "description": "Industrial city building model (Building R).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-city-kit-industrial/kenney-city-kit-industrial-building-r/kenney-city-kit-industrial-building-r.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-city-kit-industrial/kenney-city-kit-industrial-building-r/kenney-city-kit-industrial-building-r.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-city-kit-industrial/kenney-city-kit-industrial-building-r.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 9564,
+          "sha256": "70eba333f55a5610dfa4b087c95761500d548767e0a466b2290b2c13c1aebee0",
+          "transparent": true,
+          "sourceBundleSha256": "3f4669d1ee10ca10dfba23c13b4c245f850ee7371c45db9d90a97dee60f8e228",
+          "cacheKey": "4dadde95ce20496c7979b1c498fa01c5ff5eafd4c90745168aaeaedec31a2c37",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 5.316931,
+            "pan": [
+              0.148133,
+              -0.379323,
+              0.12498
+            ],
+            "alphaBounds": {
+              "x": 71,
+              "y": 111,
+              "width": 369,
+              "height": 289,
+              "fill": 0.720703,
+              "centerOffset": {
+                "x": -0.5,
+                "y": -0.5,
+                "length": 0.707107
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-city-kit-industrial/kenney-city-kit-industrial-building-r.webp",
+          "packRelativePath": "previews/kenney-city-kit-industrial-building-r.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/city-kit-industrial",
+        "tags": [
+          "3d",
+          "kenney",
+          "city",
+          "building",
+          "factory",
+          "warehouse",
+          "industrial",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -1.241794,
+              0,
+              -0.636
+            ],
+            "max": [
+              1.241794,
+              1.393,
+              0.636
+            ],
+            "size": [
+              2.483588,
+              1.393,
+              1.272
+            ],
+            "center": [
+              0,
+              0.6965,
+              0
+            ],
+            "diagonal": 3.118757
+          },
+          "triangleCount": 1838,
+          "drawCallCount": 1,
+          "renderVertexCount": 5514,
+          "uploadVertexCount": 3162,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-city-kit-industrial-building-s": {
+      "generatedAt": "2026-04-24T09:11:01.301Z",
+      "asset": {
+        "id": "kenney-city-kit-industrial-building-s",
+        "name": "Building S",
+        "description": "Industrial city building model (Building S).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-city-kit-industrial/kenney-city-kit-industrial-building-s/kenney-city-kit-industrial-building-s.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-city-kit-industrial/kenney-city-kit-industrial-building-s/kenney-city-kit-industrial-building-s.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-city-kit-industrial/kenney-city-kit-industrial-building-s.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 7172,
+          "sha256": "f0bf30055932104b3e8d92c7fc60c92837008325cdcb197bdd546ece41a2e9e4",
+          "transparent": true,
+          "sourceBundleSha256": "1fe7a8e6bfd50f9c974c6da96fb17b9d0ac8859d23baf27bc39f140c1fb9dfd8",
+          "cacheKey": "f4f8d004d58b19ab79f92437aab9123d2be91c499e684f2ebe6e5def615fce1b",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 4.538552,
+            "pan": [
+              0.130674,
+              -0.181821,
+              0.000238
+            ],
+            "alphaBounds": {
+              "x": 67,
+              "y": 122,
+              "width": 379,
+              "height": 268,
+              "fill": 0.740234,
+              "centerOffset": {
+                "x": 0.5,
+                "y": 0,
+                "length": 0.5
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-city-kit-industrial/kenney-city-kit-industrial-building-s.webp",
+          "packRelativePath": "previews/kenney-city-kit-industrial-building-s.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/city-kit-industrial",
+        "tags": [
+          "3d",
+          "kenney",
+          "city",
+          "building",
+          "factory",
+          "warehouse",
+          "industrial",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -1.07,
+              0,
+              -0.458138
+            ],
+            "max": [
+              1.05,
+              0.836791,
+              0.458138
+            ],
+            "size": [
+              2.12,
+              0.836791,
+              0.916276
+            ],
+            "center": [
+              -0.01,
+              0.418396,
+              0
+            ],
+            "diagonal": 2.456457
+          },
+          "triangleCount": 876,
+          "drawCallCount": 1,
+          "renderVertexCount": 2628,
+          "uploadVertexCount": 1534,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-city-kit-industrial-building-t": {
+      "generatedAt": "2026-04-24T09:11:01.301Z",
+      "asset": {
+        "id": "kenney-city-kit-industrial-building-t",
+        "name": "Building T",
+        "description": "Industrial city building model (Building T).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-city-kit-industrial/kenney-city-kit-industrial-building-t/kenney-city-kit-industrial-building-t.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-city-kit-industrial/kenney-city-kit-industrial-building-t/kenney-city-kit-industrial-building-t.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-city-kit-industrial/kenney-city-kit-industrial-building-t.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 8860,
+          "sha256": "f610d9087340b5b06dcc0a008922c800bea0abb626912fb951d873b3018e5b28",
+          "transparent": true,
+          "sourceBundleSha256": "a18fc7985a8b4c464a08a63bae11ae0101171dc5f749e2b64670f8cf3db1e24a",
+          "cacheKey": "13cb0e58e0184f863e51410b2885d24cb14c6a6fac7b602f76ade303c239452e",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 4.709382,
+            "pan": [
+              0.035114,
+              -0.137664,
+              0.064004
+            ],
+            "alphaBounds": {
+              "x": 73,
+              "y": 131,
+              "width": 366,
+              "height": 250,
+              "fill": 0.714844,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-city-kit-industrial/kenney-city-kit-industrial-building-t.webp",
+          "packRelativePath": "previews/kenney-city-kit-industrial-building-t.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/city-kit-industrial",
+        "tags": [
+          "3d",
+          "kenney",
+          "city",
+          "building",
+          "factory",
+          "warehouse",
+          "industrial",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.860863,
+              0,
+              -0.695
+            ],
+            "max": [
+              0.860863,
+              1.014552,
+              0.695
+            ],
+            "size": [
+              1.721726,
+              1.014552,
+              1.39
+            ],
+            "center": [
+              0,
+              0.507276,
+              0
+            ],
+            "diagonal": 2.434288
+          },
+          "triangleCount": 1586,
+          "drawCallCount": 1,
+          "renderVertexCount": 4758,
+          "uploadVertexCount": 2668,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-city-kit-industrial-chimney-basic": {
+      "generatedAt": "2026-04-24T09:11:01.301Z",
+      "asset": {
+        "id": "kenney-city-kit-industrial-chimney-basic",
+        "name": "Chimney Basic",
+        "description": "Industrial chimney detail model (Chimney Basic).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-city-kit-industrial/kenney-city-kit-industrial-chimney-basic/kenney-city-kit-industrial-chimney-basic.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-city-kit-industrial/kenney-city-kit-industrial-chimney-basic/kenney-city-kit-industrial-chimney-basic.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-city-kit-industrial/kenney-city-kit-industrial-chimney-basic.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 2898,
+          "sha256": "8ce228be68909d0f5c08caeaab1eb3b578fb139ba696abc64cbaef35522079f2",
+          "transparent": true,
+          "sourceBundleSha256": "0745ff2da6c907a766f3e8caaff78b62e1a286c1c747cbacd0d5a785087afd1b",
+          "cacheKey": "8070f96b02b85b115688ffbc6a03346c773c92205d6ce7cd591aca827411907c",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 2.140826,
+            "pan": [
+              -0.009305,
+              0.025847,
+              -0.009305
+            ],
+            "alphaBounds": {
+              "x": 221,
+              "y": 71,
+              "width": 70,
+              "height": 371,
+              "fill": 0.724609,
+              "centerOffset": {
+                "x": 0,
+                "y": 0.5,
+                "length": 0.5
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-city-kit-industrial/kenney-city-kit-industrial-chimney-basic.webp",
+          "packRelativePath": "previews/kenney-city-kit-industrial-chimney-basic.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/city-kit-industrial",
+        "tags": [
+          "3d",
+          "kenney",
+          "city",
+          "building",
+          "factory",
+          "warehouse",
+          "industrial",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy",
+          "chimney",
+          "roof-detail"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.1,
+              0,
+              -0.1
+            ],
+            "max": [
+              0.1,
+              1,
+              0.1
+            ],
+            "size": [
+              0.2,
+              1,
+              0.2
+            ],
+            "center": [
+              0,
+              0.5,
+              0
+            ],
+            "diagonal": 1.03923
+          },
+          "triangleCount": 92,
+          "drawCallCount": 1,
+          "renderVertexCount": 276,
+          "uploadVertexCount": 128,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-city-kit-industrial-chimney-large": {
+      "generatedAt": "2026-04-24T09:11:01.301Z",
+      "asset": {
+        "id": "kenney-city-kit-industrial-chimney-large",
+        "name": "Chimney Large",
+        "description": "Industrial chimney detail model (Chimney Large).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-city-kit-industrial/kenney-city-kit-industrial-chimney-large/kenney-city-kit-industrial-chimney-large.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-city-kit-industrial/kenney-city-kit-industrial-chimney-large/kenney-city-kit-industrial-chimney-large.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-city-kit-industrial/kenney-city-kit-industrial-chimney-large.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 4960,
+          "sha256": "f1c0c124f1ca882fba5443f48588e2bd984e3cc82576d0b995b8df8d7d07ff20",
+          "transparent": true,
+          "sourceBundleSha256": "140f8e2f9ff40b1f78f1ea2bb97ea3cd4aa50615ae40590a18ac8407ba76890c",
+          "cacheKey": "14b8cbcc2b47a107f06e3b208cef56437ff60549b07c7f25c4bab47e37696504",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 4.255055,
+            "pan": [
+              0.007909,
+              -0.02197,
+              0.007909
+            ],
+            "alphaBounds": {
+              "x": 167,
+              "y": 72,
+              "width": 178,
+              "height": 368,
+              "fill": 0.71875,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-city-kit-industrial/kenney-city-kit-industrial-chimney-large.webp",
+          "packRelativePath": "previews/kenney-city-kit-industrial-chimney-large.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/city-kit-industrial",
+        "tags": [
+          "3d",
+          "kenney",
+          "city",
+          "building",
+          "factory",
+          "warehouse",
+          "industrial",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy",
+          "chimney",
+          "roof-detail"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.5,
+              0,
+              -0.5
+            ],
+            "max": [
+              0.5,
+              1.7,
+              0.5
+            ],
+            "size": [
+              1,
+              1.7,
+              1
+            ],
+            "center": [
+              0,
+              0.85,
+              0
+            ],
+            "diagonal": 2.211334
+          },
+          "triangleCount": 212,
+          "drawCallCount": 1,
+          "renderVertexCount": 636,
+          "uploadVertexCount": 384,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-city-kit-industrial-chimney-medium": {
+      "generatedAt": "2026-04-24T09:11:01.301Z",
+      "asset": {
+        "id": "kenney-city-kit-industrial-chimney-medium",
+        "name": "Chimney Medium",
+        "description": "Industrial chimney detail model (Chimney Medium).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-city-kit-industrial/kenney-city-kit-industrial-chimney-medium/kenney-city-kit-industrial-chimney-medium.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-city-kit-industrial/kenney-city-kit-industrial-chimney-medium/kenney-city-kit-industrial-chimney-medium.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-city-kit-industrial/kenney-city-kit-industrial-chimney-medium.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 3884,
+          "sha256": "68ade3c667efef657e2faf43631113a8ec1d25d6339c22dd2ed7ff4225fde3c0",
+          "transparent": true,
+          "sourceBundleSha256": "fca5725bf8c6c98579db9e7877663fc1be677d62e38944946e9a85dc5223bf15",
+          "cacheKey": "77fc205d5112432cf4d873edea2da381b98ebe4427c656920ec90d1fc2cf3987",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 4.121091,
+            "pan": [
+              -0.015469,
+              0.042971,
+              -0.015469
+            ],
+            "alphaBounds": {
+              "x": 215,
+              "y": 68,
+              "width": 82,
+              "height": 376,
+              "fill": 0.734375,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-city-kit-industrial/kenney-city-kit-industrial-chimney-medium.webp",
+          "packRelativePath": "previews/kenney-city-kit-industrial-chimney-medium.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/city-kit-industrial",
+        "tags": [
+          "3d",
+          "kenney",
+          "city",
+          "building",
+          "factory",
+          "warehouse",
+          "industrial",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy",
+          "chimney",
+          "roof-detail"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.225,
+              0,
+              -0.225
+            ],
+            "max": [
+              0.225,
+              1.925,
+              0.225
+            ],
+            "size": [
+              0.45,
+              1.925,
+              0.45
+            ],
+            "center": [
+              0,
+              0.9625,
+              0
+            ],
+            "diagonal": 2.027468
+          },
+          "triangleCount": 168,
+          "drawCallCount": 1,
+          "renderVertexCount": 504,
+          "uploadVertexCount": 256,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-city-kit-industrial-chimney-small": {
+      "generatedAt": "2026-04-24T09:11:01.301Z",
+      "asset": {
+        "id": "kenney-city-kit-industrial-chimney-small",
+        "name": "Chimney Small",
+        "description": "Industrial chimney detail model (Chimney Small).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-city-kit-industrial/kenney-city-kit-industrial-chimney-small/kenney-city-kit-industrial-chimney-small.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-city-kit-industrial/kenney-city-kit-industrial-chimney-small/kenney-city-kit-industrial-chimney-small.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-city-kit-industrial/kenney-city-kit-industrial-chimney-small.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 3968,
+          "sha256": "8845162afef9ba04357c32c6cdffc68f46c952b8cfeb97855631bf028ce96330",
+          "transparent": true,
+          "sourceBundleSha256": "c0b9f7fc31c5648ac6e585a11cdc4f26a74196d0c56d4e736f24fbc317f8e3ea",
+          "cacheKey": "939a3d3dafe1b5a45def4c8a60da12c04c74e08754079c651d1d8e92fb96c97e",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 1.759631,
+            "pan": [
+              -0.001903,
+              0.005287,
+              -0.001903
+            ],
+            "alphaBounds": {
+              "x": 191,
+              "y": 73,
+              "width": 130,
+              "height": 368,
+              "fill": 0.71875,
+              "centerOffset": {
+                "x": 0,
+                "y": 1,
+                "length": 1
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-city-kit-industrial/kenney-city-kit-industrial-chimney-small.webp",
+          "packRelativePath": "previews/kenney-city-kit-industrial-chimney-small.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/city-kit-industrial",
+        "tags": [
+          "3d",
+          "kenney",
+          "city",
+          "building",
+          "factory",
+          "warehouse",
+          "industrial",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy",
+          "chimney",
+          "roof-detail"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.15,
+              0,
+              -0.15
+            ],
+            "max": [
+              0.15,
+              0.75,
+              0.15
+            ],
+            "size": [
+              0.3,
+              0.75,
+              0.3
+            ],
+            "center": [
+              0,
+              0.375,
+              0
+            ],
+            "diagonal": 0.861684
+          },
+          "triangleCount": 124,
+          "drawCallCount": 1,
+          "renderVertexCount": 372,
+          "uploadVertexCount": 176,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    },
+    "kenney-city-kit-industrial-detail-tank": {
+      "generatedAt": "2026-04-24T09:11:01.301Z",
+      "asset": {
+        "id": "kenney-city-kit-industrial-detail-tank",
+        "name": "Detail Tank",
+        "description": "Industrial tank detail prop model (Detail Tank).",
+        "kind": "model",
+        "format": "glb",
+        "publicPath": "assets/kenney-city-kit-industrial/kenney-city-kit-industrial-detail-tank/kenney-city-kit-industrial-detail-tank.glb",
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-city-kit-industrial/kenney-city-kit-industrial-detail-tank/kenney-city-kit-industrial-detail-tank.glb",
+        "preview": {
+          "type": "rendered-thumbnail",
+          "relativePath": "previews/kenney-city-kit-industrial/kenney-city-kit-industrial-detail-tank.webp",
+          "width": 512,
+          "height": 512,
+          "format": "webp",
+          "mimeType": "image/webp",
+          "bytes": 9844,
+          "sha256": "e2a0fa5a69e02ed47752a87bed2625b57d476eeb6e5baf79a740184023bfd612",
+          "transparent": true,
+          "sourceBundleSha256": "8e3d71f1f335a02ad7c3c4e7ccd1adb131a4443ab9d7652566e8c34d9576aa30",
+          "cacheKey": "99cdd80768fa04daf3ae11649d76ca2ce9ef68a54cd5c5fac2acd574a2369f38",
+          "renderer": {
+            "name": "open-assets-gltf-preview",
+            "version": 2,
+            "three": "0.184.0",
+            "playwright": "1.59.1"
+          },
+          "camera": {
+            "preset": "front-top-quarter",
+            "direction": [
+              1.25,
+              0.9,
+              1.25
+            ],
+            "fovDeg": 35,
+            "targetFill": 0.72,
+            "fit": "alpha-bounds",
+            "distance": 1.615283,
+            "pan": [
+              0.089791,
+              -0.077153,
+              -0.03424
+            ],
+            "alphaBounds": {
+              "x": 77,
+              "y": 97,
+              "width": 358,
+              "height": 318,
+              "fill": 0.699219,
+              "centerOffset": {
+                "x": 0,
+                "y": 0,
+                "length": 0
+              }
+            }
+          },
+          "sampledAnimation": null,
+          "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-city-kit-industrial/kenney-city-kit-industrial-detail-tank.webp",
+          "packRelativePath": "previews/kenney-city-kit-industrial-detail-tank.webp"
+        },
+        "sourceUrl": "https://kenney.nl/assets/city-kit-industrial",
+        "tags": [
+          "3d",
+          "kenney",
+          "city",
+          "building",
+          "factory",
+          "warehouse",
+          "industrial",
+          "low-poly",
+          "stylized",
+          "bright",
+          "colorful",
+          "toy",
+          "tank",
+          "detail",
+          "prop"
+        ],
+        "aliases": [],
+        "geometry": {
+          "bounds": {
+            "min": [
+              -0.424,
+              0,
+              -0.257648
+            ],
+            "max": [
+              0.424,
+              0.415296,
+              0.257648
+            ],
+            "size": [
+              0.848,
+              0.415296,
+              0.515296
+            ],
+            "center": [
+              0,
+              0.207648,
+              0
+            ],
+            "diagonal": 1.075688
+          },
+          "triangleCount": 236,
+          "drawCallCount": 1,
+          "renderVertexCount": 708,
+          "uploadVertexCount": 420,
+          "meshCount": 1,
+          "primitiveCount": 1
+        },
+        "materials": {
+          "count": 1,
+          "alphaModes": [
+            "OPAQUE"
+          ],
+          "doubleSidedCount": 1
+        },
+        "textures": {
+          "count": 1,
+          "embeddedCount": 0,
+          "externalCount": 1,
+          "maxResolution": [
+            512,
+            512
+          ]
+        },
+        "image": null,
+        "atlas": null,
+        "animated": false,
+        "animationCount": 0,
+        "animations": [],
+        "rig": {
+          "rigged": false,
+          "skinCount": 0,
+          "jointCountTotal": 0,
+          "skeletonRoots": [],
+          "hasInverseBindMatrices": false
+        },
+        "compatibility": {
+          "requiredExtensions": [],
+          "usedExtensions": [
+            "KHR_texture_transform"
+          ],
+          "dependencyMode": "external"
+        },
+        "quality": {
+          "warningCount": 0,
+          "errorCount": 0
+        }
+      }
+    }
+  }
+}

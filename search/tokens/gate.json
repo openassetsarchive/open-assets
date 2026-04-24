@@ -1,8 +1,13 @@
 {
   "version": 1,
   "token": "gate",
-  "count": 50,
+  "count": 56,
   "assetIds": [
+    "kenney-fantasy-town-kit-fence-gate",
+    "kenney-fantasy-town-kit-hedge-gate",
+    "kenney-fantasy-town-kit-hedge-large-gate",
+    "kenney-graveyard-kit-fence-gate",
+    "kenney-graveyard-kit-iron-fence-border-gate",
     "kenney-isometric-miniature-dungeon-angle-stonewallgate-e",
     "kenney-isometric-miniature-dungeon-angle-stonewallgate-n",
     "kenney-isometric-miniature-dungeon-angle-stonewallgate-s",
@@ -51,6 +56,7 @@
     "kenney-isometric-miniature-farm-isometric-woodwallgateopen-n",
     "kenney-isometric-miniature-farm-isometric-woodwallgateopen-s",
     "kenney-isometric-miniature-farm-isometric-woodwallgateopen-w",
+    "kenney-pirate-kit-castle-gate",
     "kenney-platformer-art-deluxe-buildings-expansion-tiles-fencegate",
     "quaternius-sushi-restaurant-kit-environment-gltf-environment-toriigate"
   ]

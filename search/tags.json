@@ -4,6 +4,10 @@
     "count": 7141
   },
   {
+    "tag": "3d",
+    "count": 752
+  },
+  {
     "tag": "abstract",
     "count": 33
   },
@@ -24,8 +28,16 @@
     "count": 65
   },
   {
+    "tag": "altar",
+    "count": 2
+  },
+  {
     "tag": "ambulance",
-    "count": 16
+    "count": 17
+  },
+  {
+    "tag": "ammo",
+    "count": 6
   },
   {
     "tag": "angle",
@@ -33,15 +45,19 @@
   },
   {
     "tag": "animal",
-    "count": 9
+    "count": 33
   },
   {
     "tag": "animated",
-    "count": 205
+    "count": 267
   },
   {
     "tag": "arcade",
-    "count": 1431
+    "count": 1471
+  },
+  {
+    "tag": "architecture",
+    "count": 111
   },
   {
     "tag": "asphalt",
@@ -64,6 +80,14 @@
     "count": 104
   },
   {
+    "tag": "attachment",
+    "count": 7
+  },
+  {
+    "tag": "avatar",
+    "count": 18
+  },
+  {
     "tag": "back-tile",
     "count": 18
   },
@@ -80,8 +104,16 @@
     "count": 22
   },
   {
+    "tag": "banner",
+    "count": 2
+  },
+  {
     "tag": "barrel",
-    "count": 3
+    "count": 7
+  },
+  {
+    "tag": "barrier",
+    "count": 43
   },
   {
     "tag": "base-pack",
@@ -96,8 +128,12 @@
     "count": 107
   },
   {
+    "tag": "blaster",
+    "count": 40
+  },
+  {
     "tag": "block",
-    "count": 33
+    "count": 111
   },
   {
     "tag": "blocks",
@@ -105,11 +141,31 @@
   },
   {
     "tag": "blocky",
-    "count": 107
+    "count": 125
   },
   {
     "tag": "blue",
     "count": 121
+  },
+  {
+    "tag": "boat",
+    "count": 72
+  },
+  {
+    "tag": "bomb",
+    "count": 1
+  },
+  {
+    "tag": "bounce",
+    "count": 1
+  },
+  {
+    "tag": "boundary",
+    "count": 9
+  },
+  {
+    "tag": "box",
+    "count": 1
   },
   {
     "tag": "brick-breaker",
@@ -117,11 +173,11 @@
   },
   {
     "tag": "bridge",
-    "count": 12
+    "count": 14
   },
   {
     "tag": "bright",
-    "count": 1431
+    "count": 2183
   },
   {
     "tag": "brown",
@@ -129,7 +185,7 @@
   },
   {
     "tag": "building",
-    "count": 124
+    "count": 389
   },
   {
     "tag": "buildings-expansion",
@@ -145,11 +201,15 @@
   },
   {
     "tag": "button",
-    "count": 20
+    "count": 22
   },
   {
     "tag": "cactus",
     "count": 3
+  },
+  {
+    "tag": "candle",
+    "count": 2
   },
   {
     "tag": "candy",
@@ -160,40 +220,100 @@
     "count": 96
   },
   {
+    "tag": "cannon",
+    "count": 3
+  },
+  {
     "tag": "car",
-    "count": 601
+    "count": 651
+  },
+  {
+    "tag": "cargo",
+    "count": 4
   },
   {
     "tag": "cars",
     "count": 50
   },
   {
+    "tag": "cart",
+    "count": 2
+  },
+  {
+    "tag": "castle",
+    "count": 4
+  },
+  {
+    "tag": "cat",
+    "count": 24
+  },
+  {
+    "tag": "cemetery",
+    "count": 91
+  },
+  {
     "tag": "character",
-    "count": 694
+    "count": 818
+  },
+  {
+    "tag": "chest",
+    "count": 1
+  },
+  {
+    "tag": "chimney",
+    "count": 4
   },
   {
     "tag": "city",
-    "count": 141
+    "count": 279
   },
   {
     "tag": "civilian",
-    "count": 497
+    "count": 498
+  },
+  {
+    "tag": "climb",
+    "count": 3
+  },
+  {
+    "tag": "coffin",
+    "count": 2
   },
   {
     "tag": "coin",
-    "count": 41
+    "count": 44
+  },
+  {
+    "tag": "collectible",
+    "count": 7
+  },
+  {
+    "tag": "colorful",
+    "count": 752
   },
   {
     "tag": "complete",
     "count": 1
   },
   {
+    "tag": "component",
+    "count": 8
+  },
+  {
     "tag": "conifer",
     "count": 4
   },
   {
+    "tag": "construction",
+    "count": 3
+  },
+  {
     "tag": "consumable",
     "count": 36
+  },
+  {
+    "tag": "container",
+    "count": 8
   },
   {
     "tag": "corner",
@@ -201,11 +321,15 @@
   },
   {
     "tag": "crate",
-    "count": 4
+    "count": 13
+  },
+  {
+    "tag": "crypt",
+    "count": 9
   },
   {
     "tag": "cube",
-    "count": 107
+    "count": 131
   },
   {
     "tag": "cursor",
@@ -216,12 +340,24 @@
     "count": 9
   },
   {
+    "tag": "debris",
+    "count": 14
+  },
+  {
+    "tag": "decor",
+    "count": 2
+  },
+  {
     "tag": "decoration",
-    "count": 15
+    "count": 25
   },
   {
     "tag": "defense",
     "count": 233
+  },
+  {
+    "tag": "delivery",
+    "count": 2
   },
   {
     "tag": "deluxe",
@@ -229,7 +365,7 @@
   },
   {
     "tag": "detail",
-    "count": 43
+    "count": 44
   },
   {
     "tag": "dirt",
@@ -240,12 +376,28 @@
     "count": 90
   },
   {
+    "tag": "dock",
+    "count": 9
+  },
+  {
+    "tag": "dog",
+    "count": 24
+  },
+  {
+    "tag": "door",
+    "count": 4
+  },
+  {
+    "tag": "driveway",
+    "count": 2
+  },
+  {
     "tag": "dungeon",
     "count": 744
   },
   {
     "tag": "effect",
-    "count": 85
+    "count": 86
   },
   {
     "tag": "element",
@@ -261,7 +413,7 @@
   },
   {
     "tag": "emergency",
-    "count": 32
+    "count": 35
   },
   {
     "tag": "endcap",
@@ -300,24 +452,64 @@
     "count": 172
   },
   {
+    "tag": "factory",
+    "count": 25
+  },
+  {
+    "tag": "fantasy",
+    "count": 167
+  },
+  {
     "tag": "farm",
-    "count": 456
+    "count": 459
   },
   {
     "tag": "female",
     "count": 34
   },
   {
+    "tag": "fence",
+    "count": 33
+  },
+  {
+    "tag": "firetruck",
+    "count": 1
+  },
+  {
+    "tag": "flag",
+    "count": 8
+  },
+  {
     "tag": "flower",
     "count": 9
   },
   {
+    "tag": "flowers",
+    "count": 2
+  },
+  {
+    "tag": "foam-blaster",
+    "count": 18
+  },
+  {
+    "tag": "foam-dart",
+    "count": 4
+  },
+  {
     "tag": "foliage",
-    "count": 68
+    "count": 76
   },
   {
     "tag": "food",
     "count": 231
+  },
+  {
+    "tag": "fort",
+    "count": 13
+  },
+  {
+    "tag": "fountain",
+    "count": 10
   },
   {
     "tag": "fps",
@@ -332,8 +524,12 @@
     "count": 16
   },
   {
+    "tag": "garden",
+    "count": 12
+  },
+  {
     "tag": "gem",
-    "count": 48
+    "count": 49
   },
   {
     "tag": "ghibli",
@@ -341,11 +537,27 @@
   },
   {
     "tag": "grass",
-    "count": 20
+    "count": 67
+  },
+  {
+    "tag": "grave",
+    "count": 11
+  },
+  {
+    "tag": "gravestone",
+    "count": 9
+  },
+  {
+    "tag": "graveyard",
+    "count": 91
   },
   {
     "tag": "green",
     "count": 155
+  },
+  {
+    "tag": "grenade",
+    "count": 2
   },
   {
     "tag": "grey",
@@ -356,12 +568,24 @@
     "count": 16
   },
   {
+    "tag": "halloween",
+    "count": 91
+  },
+  {
     "tag": "hand",
     "count": 2
   },
   {
     "tag": "hazard",
-    "count": 3
+    "count": 9
+  },
+  {
+    "tag": "health",
+    "count": 1
+  },
+  {
+    "tag": "hedge",
+    "count": 8
   },
   {
     "tag": "hex-grid",
@@ -376,8 +600,24 @@
     "count": 99
   },
   {
+    "tag": "highway",
+    "count": 3
+  },
+  {
     "tag": "hill",
     "count": 24
+  },
+  {
+    "tag": "home",
+    "count": 21
+  },
+  {
+    "tag": "horror",
+    "count": 91
+  },
+  {
+    "tag": "house",
+    "count": 40
   },
   {
     "tag": "hud",
@@ -401,7 +641,11 @@
   },
   {
     "tag": "industrial",
-    "count": 114
+    "count": 139
+  },
+  {
+    "tag": "infrastructure",
+    "count": 72
   },
   {
     "tag": "interior",
@@ -410,6 +654,10 @@
   {
     "tag": "intersection",
     "count": 5
+  },
+  {
+    "tag": "island",
+    "count": 72
   },
   {
     "tag": "isometric",
@@ -424,28 +672,84 @@
     "count": 83
   },
   {
+    "tag": "kart",
+    "count": 5
+  },
+  {
     "tag": "kenney",
-    "count": 7141
+    "count": 7893
+  },
+  {
+    "tag": "key",
+    "count": 1
   },
   {
     "tag": "kit",
     "count": 462
   },
   {
+    "tag": "ladder",
+    "count": 3
+  },
+  {
+    "tag": "lamp",
+    "count": 6
+  },
+  {
+    "tag": "landmark",
+    "count": 3
+  },
+  {
     "tag": "landscape",
-    "count": 170
+    "count": 194
+  },
+  {
+    "tag": "lantern",
+    "count": 3
   },
   {
     "tag": "laser",
     "count": 48
   },
   {
+    "tag": "level",
+    "count": 153
+  },
+  {
+    "tag": "level-detail",
+    "count": 1
+  },
+  {
+    "tag": "level-exit",
+    "count": 4
+  },
+  {
+    "tag": "level-piece",
+    "count": 8
+  },
+  {
+    "tag": "lever",
+    "count": 1
+  },
+  {
     "tag": "library",
     "count": 288
   },
   {
+    "tag": "light",
+    "count": 8
+  },
+  {
+    "tag": "lightpost",
+    "count": 3
+  },
+  {
     "tag": "limb",
     "count": 45
+  },
+  {
+    "tag": "lock",
+    "count": 1
   },
   {
     "tag": "lot",
@@ -453,15 +757,47 @@
   },
   {
     "tag": "low-poly",
-    "count": 530
+    "count": 1282
+  },
+  {
+    "tag": "magazine",
+    "count": 2
   },
   {
     "tag": "male",
     "count": 168
   },
   {
+    "tag": "market",
+    "count": 7
+  },
+  {
+    "tag": "mast",
+    "count": 2
+  },
+  {
+    "tag": "mausoleum",
+    "count": 9
+  },
+  {
+    "tag": "mechanism",
+    "count": 7
+  },
+  {
+    "tag": "medical",
+    "count": 1
+  },
+  {
+    "tag": "medieval",
+    "count": 167
+  },
+  {
     "tag": "meteor",
     "count": 24
+  },
+  {
+    "tag": "mill",
+    "count": 3
   },
   {
     "tag": "mine",
@@ -476,12 +812,24 @@
     "count": 40
   },
   {
+    "tag": "modular",
+    "count": 392
+  },
+  {
+    "tag": "monster",
+    "count": 91
+  },
+  {
     "tag": "motorcycle",
     "count": 5
   },
   {
+    "tag": "moving-platform",
+    "count": 3
+  },
+  {
     "tag": "mushroom",
-    "count": 52
+    "count": 53
   },
   {
     "tag": "mushroom-expansion",
@@ -489,7 +837,11 @@
   },
   {
     "tag": "nature",
-    "count": 68
+    "count": 110
+  },
+  {
+    "tag": "npc",
+    "count": 18
   },
   {
     "tag": "object",
@@ -498,6 +850,10 @@
   {
     "tag": "obstacle",
     "count": 67
+  },
+  {
+    "tag": "oopi",
+    "count": 203
   },
   {
     "tag": "p1-walk",
@@ -514,6 +870,10 @@
   {
     "tag": "paddle",
     "count": 15
+  },
+  {
+    "tag": "palm",
+    "count": 4
   },
   {
     "tag": "part",
@@ -537,11 +897,19 @@
   },
   {
     "tag": "path",
-    "count": 41
+    "count": 68
+  },
+  {
+    "tag": "pavement",
+    "count": 4
   },
   {
     "tag": "pebble",
     "count": 11
+  },
+  {
+    "tag": "pet",
+    "count": 24
   },
   {
     "tag": "pick-up-1",
@@ -549,23 +917,27 @@
   },
   {
     "tag": "pickup",
-    "count": 144
+    "count": 150
   },
   {
     "tag": "piece",
     "count": 48
   },
   {
+    "tag": "pillar",
+    "count": 2
+  },
+  {
     "tag": "pine",
-    "count": 14
+    "count": 18
   },
   {
     "tag": "pipe",
-    "count": 89
+    "count": 90
   },
   {
     "tag": "pirate",
-    "count": 72
+    "count": 144
   },
   {
     "tag": "pixel",
@@ -573,11 +945,19 @@
   },
   {
     "tag": "plant",
-    "count": 45
+    "count": 46
+  },
+  {
+    "tag": "planter",
+    "count": 1
+  },
+  {
+    "tag": "platform",
+    "count": 94
   },
   {
     "tag": "platformer",
-    "count": 2078
+    "count": 2231
   },
   {
     "tag": "platformer-tile",
@@ -585,7 +965,7 @@
   },
   {
     "tag": "player",
-    "count": 175
+    "count": 198
   },
   {
     "tag": "pointer",
@@ -593,7 +973,7 @@
   },
   {
     "tag": "police",
-    "count": 16
+    "count": 17
   },
   {
     "tag": "pose",
@@ -604,20 +984,32 @@
     "count": 32
   },
   {
+    "tag": "practice",
+    "count": 5
+  },
+  {
     "tag": "projectile",
-    "count": 101
+    "count": 105
   },
   {
     "tag": "prop",
-    "count": 330
+    "count": 461
+  },
+  {
+    "tag": "pumpkin",
+    "count": 4
   },
   {
     "tag": "puzzle",
-    "count": 896
+    "count": 901
   },
   {
     "tag": "quaternius",
     "count": 530
+  },
+  {
+    "tag": "race-car",
+    "count": 2
   },
   {
     "tag": "racer",
@@ -625,7 +1017,7 @@
   },
   {
     "tag": "racing",
-    "count": 427
+    "count": 477
   },
   {
     "tag": "red",
@@ -644,6 +1036,10 @@
     "count": 99
   },
   {
+    "tag": "residential",
+    "count": 40
+  },
+  {
     "tag": "restaurant",
     "count": 117
   },
@@ -657,7 +1053,11 @@
   },
   {
     "tag": "road",
-    "count": 409
+    "count": 494
+  },
+  {
+    "tag": "road-detail",
+    "count": 9
   },
   {
     "tag": "roads",
@@ -665,7 +1065,7 @@
   },
   {
     "tag": "rock",
-    "count": 39
+    "count": 51
   },
   {
     "tag": "rocket",
@@ -676,16 +1076,36 @@
     "count": 31
   },
   {
+    "tag": "roof",
+    "count": 26
+  },
+  {
+    "tag": "roof-detail",
+    "count": 4
+  },
+  {
+    "tag": "rowboat",
+    "count": 2
+  },
+  {
     "tag": "sand",
-    "count": 104
+    "count": 108
   },
   {
     "tag": "sand-road",
     "count": 90
   },
   {
+    "tag": "saw",
+    "count": 1
+  },
+  {
     "tag": "sci-fi",
     "count": 92
+  },
+  {
+    "tag": "scope",
+    "count": 3
   },
   {
     "tag": "sedan-1",
@@ -708,16 +1128,40 @@
     "count": 3
   },
   {
+    "tag": "service",
+    "count": 2
+  },
+  {
     "tag": "ship",
-    "count": 54
+    "count": 126
   },
   {
     "tag": "ship-part",
-    "count": 192
+    "count": 194
   },
   {
     "tag": "shooter",
     "count": 652
+  },
+  {
+    "tag": "shop",
+    "count": 5
+  },
+  {
+    "tag": "side-view",
+    "count": 153
+  },
+  {
+    "tag": "sight",
+    "count": 3
+  },
+  {
+    "tag": "sign",
+    "count": 4
+  },
+  {
+    "tag": "silencer",
+    "count": 2
   },
   {
     "tag": "silver",
@@ -726,6 +1170,14 @@
   {
     "tag": "slope",
     "count": 12
+  },
+  {
+    "tag": "smoke",
+    "count": 1
+  },
+  {
+    "tag": "snow",
+    "count": 39
   },
   {
     "tag": "soldier",
@@ -740,28 +1192,84 @@
     "count": 12
   },
   {
+    "tag": "spikes",
+    "count": 4
+  },
+  {
+    "tag": "spooky",
+    "count": 91
+  },
+  {
+    "tag": "sport",
+    "count": 4
+  },
+  {
     "tag": "sports",
     "count": 203
+  },
+  {
+    "tag": "sports-car",
+    "count": 2
+  },
+  {
+    "tag": "spring",
+    "count": 1
   },
   {
     "tag": "sprites-x2",
     "count": 278
   },
   {
+    "tag": "stairs",
+    "count": 13
+  },
+  {
+    "tag": "stall",
+    "count": 5
+  },
+  {
+    "tag": "star",
+    "count": 1
+  },
+  {
     "tag": "station",
     "count": 31
   },
   {
+    "tag": "stone",
+    "count": 1
+  },
+  {
+    "tag": "street",
+    "count": 81
+  },
+  {
+    "tag": "street-light",
+    "count": 6
+  },
+  {
     "tag": "structure",
-    "count": 56
+    "count": 65
   },
   {
     "tag": "stylized",
-    "count": 2820
+    "count": 3572
+  },
+  {
+    "tag": "suburban",
+    "count": 40
+  },
+  {
+    "tag": "support",
+    "count": 2
   },
   {
     "tag": "sushi",
     "count": 117
+  },
+  {
+    "tag": "switch",
+    "count": 3
   },
   {
     "tag": "tabletop",
@@ -769,19 +1277,27 @@
   },
   {
     "tag": "tank",
-    "count": 89
+    "count": 90
+  },
+  {
+    "tag": "target",
+    "count": 40
   },
   {
     "tag": "taxi",
-    "count": 16
+    "count": 17
   },
   {
     "tag": "terrain",
-    "count": 122
+    "count": 289
+  },
+  {
+    "tag": "throwable",
+    "count": 2
   },
   {
     "tag": "tile",
-    "count": 2982
+    "count": 2993
   },
   {
     "tag": "tilemap",
@@ -829,7 +1345,7 @@
   },
   {
     "tag": "tool",
-    "count": 16
+    "count": 18
   },
   {
     "tag": "top",
@@ -841,7 +1357,7 @@
   },
   {
     "tag": "tower",
-    "count": 233
+    "count": 242
   },
   {
     "tag": "tower-defense",
@@ -860,20 +1376,72 @@
     "count": 55
   },
   {
+    "tag": "town",
+    "count": 279
+  },
+  {
+    "tag": "town-square",
+    "count": 10
+  },
+  {
     "tag": "toy",
-    "count": 1431
+    "count": 2183
+  },
+  {
+    "tag": "toy-weapon",
+    "count": 18
   },
   {
     "tag": "track",
     "count": 7
   },
   {
-    "tag": "tree",
+    "tag": "tractor",
+    "count": 3
+  },
+  {
+    "tag": "traffic",
+    "count": 60
+  },
+  {
+    "tag": "traffic-cone",
+    "count": 2
+  },
+  {
+    "tag": "transport",
     "count": 50
+  },
+  {
+    "tag": "transportation",
+    "count": 50
+  },
+  {
+    "tag": "trap",
+    "count": 5
+  },
+  {
+    "tag": "treasure",
+    "count": 1
+  },
+  {
+    "tag": "tree",
+    "count": 73
+  },
+  {
+    "tag": "tropical",
+    "count": 72
+  },
+  {
+    "tag": "truck",
+    "count": 4
   },
   {
     "tag": "truck-1",
     "count": 80
+  },
+  {
+    "tag": "trunk",
+    "count": 2
   },
   {
     "tag": "turret",
@@ -888,8 +1456,12 @@
     "count": 107
   },
   {
+    "tag": "urn",
+    "count": 2
+  },
+  {
     "tag": "utility",
-    "count": 17
+    "count": 24
   },
   {
     "tag": "variant",
@@ -897,7 +1469,15 @@
   },
   {
     "tag": "vehicle",
-    "count": 1065
+    "count": 1125
+  },
+  {
+    "tag": "vehicle-part",
+    "count": 22
+  },
+  {
+    "tag": "village",
+    "count": 167
   },
   {
     "tag": "voxel",
@@ -912,8 +1492,20 @@
     "count": 3
   },
   {
+    "tag": "walkway",
+    "count": 5
+  },
+  {
+    "tag": "wall",
+    "count": 179
+  },
+  {
+    "tag": "warehouse",
+    "count": 25
+  },
+  {
     "tag": "water",
-    "count": 67
+    "count": 77
   },
   {
     "tag": "waterfall",
@@ -925,11 +1517,27 @@
   },
   {
     "tag": "weapon",
-    "count": 31
+    "count": 74
+  },
+  {
+    "tag": "wheel",
+    "count": 8
   },
   {
     "tag": "white",
     "count": 14
+  },
+  {
+    "tag": "wood",
+    "count": 30
+  },
+  {
+    "tag": "wreckage",
+    "count": 14
+  },
+  {
+    "tag": "yard",
+    "count": 11
   },
   {
     "tag": "yellow",

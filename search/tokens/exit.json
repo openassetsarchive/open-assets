@@ -1,8 +1,10 @@
 {
   "version": 1,
   "token": "exit",
-  "count": 8,
+  "count": 14,
   "assetIds": [
+    "kenney-city-kit-roads-road-side-exit",
+    "kenney-city-kit-roads-road-side-exit-barrier",
     "kenney-isometric-roads-png-exite",
     "kenney-isometric-roads-png-exitn",
     "kenney-isometric-roads-png-exits",
@@ -10,6 +12,10 @@
     "kenney-new-platformer-pack-sprites-tiles-sign-exit",
     "kenney-new-platformer-pack-spritesheets-spritesheet-tiles",
     "kenney-platformer-art-deluxe-base-pack-tiles-signexit",
-    "kenney-platformer-art-deluxe-base-pack-tiles-tiles-spritesheet"
+    "kenney-platformer-art-deluxe-base-pack-tiles-tiles-spritesheet",
+    "kenney-platformer-kit-door-large-open",
+    "kenney-platformer-kit-door-open",
+    "kenney-platformer-kit-door-rotate",
+    "kenney-platformer-kit-door-rotate-large"
   ]
 }

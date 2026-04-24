@@ -4,12 +4,28 @@
     "count": 24
   },
   {
+    "tag": "3d",
+    "count": 11
+  },
+  {
+    "tag": "animal",
+    "count": 1
+  },
+  {
     "tag": "animated",
-    "count": 2
+    "count": 4
   },
   {
     "tag": "arcade",
-    "count": 8
+    "count": 9
+  },
+  {
+    "tag": "avatar",
+    "count": 1
+  },
+  {
+    "tag": "blaster",
+    "count": 1
   },
   {
     "tag": "blocks",
@@ -17,6 +33,10 @@
   },
   {
     "tag": "blocky",
+    "count": 2
+  },
+  {
+    "tag": "boat",
     "count": 1
   },
   {
@@ -25,23 +45,39 @@
   },
   {
     "tag": "bright",
-    "count": 8
+    "count": 19
+  },
+  {
+    "tag": "building",
+    "count": 3
   },
   {
     "tag": "car",
+    "count": 2
+  },
+  {
+    "tag": "cat",
+    "count": 1
+  },
+  {
+    "tag": "cemetery",
     "count": 1
   },
   {
     "tag": "character",
-    "count": 1
+    "count": 4
   },
   {
     "tag": "city",
-    "count": 1
+    "count": 4
+  },
+  {
+    "tag": "colorful",
+    "count": 11
   },
   {
     "tag": "cube",
-    "count": 1
+    "count": 2
   },
   {
     "tag": "defense",
@@ -52,11 +88,23 @@
     "count": 1
   },
   {
+    "tag": "dog",
+    "count": 1
+  },
+  {
     "tag": "dungeon",
     "count": 1
   },
   {
     "tag": "environment",
+    "count": 1
+  },
+  {
+    "tag": "factory",
+    "count": 1
+  },
+  {
+    "tag": "fantasy",
     "count": 1
   },
   {
@@ -80,6 +128,14 @@
     "count": 1
   },
   {
+    "tag": "graveyard",
+    "count": 1
+  },
+  {
+    "tag": "halloween",
+    "count": 1
+  },
+  {
     "tag": "hex-grid",
     "count": 1
   },
@@ -92,7 +148,23 @@
     "count": 1
   },
   {
+    "tag": "horror",
+    "count": 1
+  },
+  {
+    "tag": "house",
+    "count": 1
+  },
+  {
     "tag": "industrial",
+    "count": 2
+  },
+  {
+    "tag": "infrastructure",
+    "count": 1
+  },
+  {
+    "tag": "island",
     "count": 1
   },
   {
@@ -101,7 +173,7 @@
   },
   {
     "tag": "kenney",
-    "count": 24
+    "count": 35
   },
   {
     "tag": "kit",
@@ -112,24 +184,48 @@
     "count": 1
   },
   {
+    "tag": "level",
+    "count": 1
+  },
+  {
     "tag": "library",
     "count": 1
   },
   {
     "tag": "low-poly",
-    "count": 6
+    "count": 17
+  },
+  {
+    "tag": "medieval",
+    "count": 1
   },
   {
     "tag": "miniature",
     "count": 3
   },
   {
+    "tag": "modular",
+    "count": 3
+  },
+  {
+    "tag": "monster",
+    "count": 1
+  },
+  {
     "tag": "nature",
     "count": 1
   },
   {
-    "tag": "pirate",
+    "tag": "oopi",
+    "count": 2
+  },
+  {
+    "tag": "pet",
     "count": 1
+  },
+  {
+    "tag": "pirate",
+    "count": 2
   },
   {
     "tag": "pixel",
@@ -137,7 +233,7 @@
   },
   {
     "tag": "platformer",
-    "count": 6
+    "count": 7
   },
   {
     "tag": "puzzle",
@@ -149,7 +245,7 @@
   },
   {
     "tag": "racing",
-    "count": 1
+    "count": 2
   },
   {
     "tag": "remastered",
@@ -160,12 +256,16 @@
     "count": 3
   },
   {
+    "tag": "residential",
+    "count": 1
+  },
+  {
     "tag": "restaurant",
     "count": 1
   },
   {
     "tag": "road",
-    "count": 2
+    "count": 3
   },
   {
     "tag": "roads",
@@ -176,20 +276,40 @@
     "count": 1
   },
   {
+    "tag": "ship",
+    "count": 1
+  },
+  {
     "tag": "shooter",
     "count": 3
+  },
+  {
+    "tag": "side-view",
+    "count": 1
   },
   {
     "tag": "space",
     "count": 3
   },
   {
+    "tag": "spooky",
+    "count": 1
+  },
+  {
     "tag": "sports",
     "count": 1
   },
   {
+    "tag": "street",
+    "count": 1
+  },
+  {
     "tag": "stylized",
-    "count": 10
+    "count": 21
+  },
+  {
+    "tag": "suburban",
+    "count": 1
   },
   {
     "tag": "sushi",
@@ -201,6 +321,14 @@
   },
   {
     "tag": "tank",
+    "count": 1
+  },
+  {
+    "tag": "target",
+    "count": 1
+  },
+  {
+    "tag": "terrain",
     "count": 1
   },
   {
@@ -220,19 +348,51 @@
     "count": 1
   },
   {
+    "tag": "town",
+    "count": 3
+  },
+  {
     "tag": "toy",
-    "count": 8
+    "count": 19
+  },
+  {
+    "tag": "transport",
+    "count": 1
+  },
+  {
+    "tag": "transportation",
+    "count": 1
+  },
+  {
+    "tag": "tropical",
+    "count": 1
   },
   {
     "tag": "vehicle",
-    "count": 2
+    "count": 3
+  },
+  {
+    "tag": "village",
+    "count": 1
   },
   {
     "tag": "voxel",
     "count": 1
   },
   {
+    "tag": "wall",
+    "count": 1
+  },
+  {
+    "tag": "warehouse",
+    "count": 1
+  },
+  {
     "tag": "water",
+    "count": 1
+  },
+  {
+    "tag": "weapon",
     "count": 1
   }
 ]

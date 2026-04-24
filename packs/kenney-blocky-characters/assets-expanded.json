@@ -1,0 +1,2504 @@
+[
+  {
+    "id": "kenney-blocky-characters-character-a",
+    "name": "Character A",
+    "description": "Animated blocky character model (Character A).",
+    "kind": "model",
+    "format": "glb",
+    "relativePath": "character-a.glb",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blocky-characters/kenney-blocky-characters-character-a/kenney-blocky-characters-character-a.glb",
+    "sourceUrl": "https://kenney.nl/assets/blocky-characters",
+    "primaryBytes": 113596,
+    "totalBytes": 133767,
+    "primarySha256": "8ee5dae167ec589863f6bba222467eb90ace8be357a4c5abfcab289290181616",
+    "bundleSha256": "41500ec8515811e513d9feded6218d475edd8caca54fd51e80b79571de31030c",
+    "bounds": {
+      "min": [
+        -0.8,
+        0,
+        -0.4
+      ],
+      "max": [
+        0.8,
+        2.7,
+        0.4
+      ],
+      "size": [
+        1.6,
+        2.7,
+        0.8
+      ],
+      "center": [
+        0,
+        1.35,
+        0
+      ],
+      "diagonal": 3.238827
+    },
+    "triangleCount": 72,
+    "drawCallCount": 6,
+    "renderVertexCount": 216,
+    "uploadVertexCount": 143,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 27,
+    "skinCount": 0,
+    "tags": [
+      "3d",
+      "kenney",
+      "character",
+      "blocky",
+      "avatar",
+      "animated",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy",
+      "npc",
+      "player"
+    ],
+    "aliases": [
+      "blocky person",
+      "blocky avatar"
+    ],
+    "searchTokens": [
+      "animated",
+      "avatar",
+      "avatars",
+      "blocky",
+      "bright",
+      "character",
+      "characters",
+      "colorful",
+      "game",
+      "kenney",
+      "npc",
+      "people",
+      "person",
+      "player",
+      "poly",
+      "stylized",
+      "toy"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/kenney-blocky-characters/kenney-blocky-characters-character-a.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8122,
+      "sha256": "0ad5f01f0f04e6ec480bc2bbeab5072a5b74b076e7d63993995c449789b644a4",
+      "transparent": true,
+      "sourceBundleSha256": "41500ec8515811e513d9feded6218d475edd8caca54fd51e80b79571de31030c",
+      "cacheKey": "2883215615274fa296a16cd491f0e882d288340efdce7c7584c22be01554060e",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.224913,
+        "pan": [
+          0.049661,
+          0.063198,
+          -0.095163
+        ],
+        "alphaBounds": {
+          "x": 159,
+          "y": 71,
+          "width": 194,
+          "height": 370,
+          "fill": 0.722656,
+          "centerOffset": {
+            "x": 0,
+            "y": 0,
+            "length": 0
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blocky-characters/kenney-blocky-characters-character-a.webp",
+      "packRelativePath": "previews/kenney-blocky-characters-character-a.webp"
+    },
+    "packId": "kenney-blocky-characters",
+    "publicPath": "assets/kenney-blocky-characters/kenney-blocky-characters-character-a/kenney-blocky-characters-character-a.glb",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blocky-characters-63240e5d0986/kenney-blocky-characters-character-a.glb"
+  },
+  {
+    "id": "kenney-blocky-characters-character-b",
+    "name": "Character B",
+    "description": "Animated blocky character model (Character B).",
+    "kind": "model",
+    "format": "glb",
+    "relativePath": "character-b.glb",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blocky-characters/kenney-blocky-characters-character-b/kenney-blocky-characters-character-b.glb",
+    "sourceUrl": "https://kenney.nl/assets/blocky-characters",
+    "primaryBytes": 113596,
+    "totalBytes": 129202,
+    "primarySha256": "30ed390a741a1b285f587544819aa8a02c8f7f270e552ed742eb84785034f62a",
+    "bundleSha256": "549d6f8f295887479c4631f150e99f3d19b23753de79688b5bfee8fc78700137",
+    "bounds": {
+      "min": [
+        -0.8,
+        0,
+        -0.4
+      ],
+      "max": [
+        0.8,
+        2.7,
+        0.4
+      ],
+      "size": [
+        1.6,
+        2.7,
+        0.8
+      ],
+      "center": [
+        0,
+        1.35,
+        0
+      ],
+      "diagonal": 3.238827
+    },
+    "triangleCount": 72,
+    "drawCallCount": 6,
+    "renderVertexCount": 216,
+    "uploadVertexCount": 143,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 27,
+    "skinCount": 0,
+    "tags": [
+      "3d",
+      "kenney",
+      "character",
+      "blocky",
+      "avatar",
+      "animated",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy",
+      "npc",
+      "player"
+    ],
+    "aliases": [
+      "blocky person",
+      "blocky avatar"
+    ],
+    "searchTokens": [
+      "animated",
+      "avatar",
+      "avatars",
+      "blocky",
+      "bright",
+      "character",
+      "characters",
+      "colorful",
+      "game",
+      "kenney",
+      "npc",
+      "people",
+      "person",
+      "player",
+      "poly",
+      "stylized",
+      "toy"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/kenney-blocky-characters/kenney-blocky-characters-character-b.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6052,
+      "sha256": "614023a1172455b3485bdea0ea2457f447bd94da48d8f3e33b69f4964d98df69",
+      "transparent": true,
+      "sourceBundleSha256": "549d6f8f295887479c4631f150e99f3d19b23753de79688b5bfee8fc78700137",
+      "cacheKey": "a88993cad0da3e9c75f5f72240052146412a85e47c0053626ff322e5587cd96a",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.224913,
+        "pan": [
+          0.049661,
+          0.063198,
+          -0.095163
+        ],
+        "alphaBounds": {
+          "x": 159,
+          "y": 71,
+          "width": 194,
+          "height": 370,
+          "fill": 0.722656,
+          "centerOffset": {
+            "x": 0,
+            "y": 0,
+            "length": 0
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blocky-characters/kenney-blocky-characters-character-b.webp",
+      "packRelativePath": "previews/kenney-blocky-characters-character-b.webp"
+    },
+    "packId": "kenney-blocky-characters",
+    "publicPath": "assets/kenney-blocky-characters/kenney-blocky-characters-character-b/kenney-blocky-characters-character-b.glb",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blocky-characters-63240e5d0986/kenney-blocky-characters-character-b.glb"
+  },
+  {
+    "id": "kenney-blocky-characters-character-c",
+    "name": "Character C",
+    "description": "Animated blocky character model (Character C).",
+    "kind": "model",
+    "format": "glb",
+    "relativePath": "character-c.glb",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blocky-characters/kenney-blocky-characters-character-c/kenney-blocky-characters-character-c.glb",
+    "sourceUrl": "https://kenney.nl/assets/blocky-characters",
+    "primaryBytes": 113580,
+    "totalBytes": 126409,
+    "primarySha256": "ad2425ba0da5d9adff791b949bd62389ddcb09963ff89265930eab0d6484398c",
+    "bundleSha256": "fbc282dc482780d4931b5bc23bb18795b6d6ece3bb8b33346eed59feb7336e53",
+    "bounds": {
+      "min": [
+        -0.8,
+        0,
+        -0.4
+      ],
+      "max": [
+        0.8,
+        2.7,
+        0.4
+      ],
+      "size": [
+        1.6,
+        2.7,
+        0.8
+      ],
+      "center": [
+        0,
+        1.35,
+        0
+      ],
+      "diagonal": 3.238827
+    },
+    "triangleCount": 72,
+    "drawCallCount": 6,
+    "renderVertexCount": 216,
+    "uploadVertexCount": 143,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 27,
+    "skinCount": 0,
+    "tags": [
+      "3d",
+      "kenney",
+      "character",
+      "blocky",
+      "avatar",
+      "animated",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy",
+      "npc",
+      "player"
+    ],
+    "aliases": [
+      "blocky person",
+      "blocky avatar"
+    ],
+    "searchTokens": [
+      "animated",
+      "avatar",
+      "avatars",
+      "blocky",
+      "bright",
+      "character",
+      "characters",
+      "colorful",
+      "game",
+      "kenney",
+      "npc",
+      "people",
+      "person",
+      "player",
+      "poly",
+      "stylized",
+      "toy"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/kenney-blocky-characters/kenney-blocky-characters-character-c.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7226,
+      "sha256": "994bdac9ee11ac2b2091ddd5f03fb043e258ebd1e87226df9f4f5e33243a437b",
+      "transparent": true,
+      "sourceBundleSha256": "fbc282dc482780d4931b5bc23bb18795b6d6ece3bb8b33346eed59feb7336e53",
+      "cacheKey": "6dd481af4e380f91d9b73704cd25e2eaec658b7679b2f622c44bb7628056a3f2",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.224913,
+        "pan": [
+          0.049661,
+          0.063198,
+          -0.095163
+        ],
+        "alphaBounds": {
+          "x": 159,
+          "y": 71,
+          "width": 194,
+          "height": 370,
+          "fill": 0.722656,
+          "centerOffset": {
+            "x": 0,
+            "y": 0,
+            "length": 0
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blocky-characters/kenney-blocky-characters-character-c.webp",
+      "packRelativePath": "previews/kenney-blocky-characters-character-c.webp"
+    },
+    "packId": "kenney-blocky-characters",
+    "publicPath": "assets/kenney-blocky-characters/kenney-blocky-characters-character-c/kenney-blocky-characters-character-c.glb",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blocky-characters-63240e5d0986/kenney-blocky-characters-character-c.glb"
+  },
+  {
+    "id": "kenney-blocky-characters-character-d",
+    "name": "Character D",
+    "description": "Animated blocky character model (Character D).",
+    "kind": "model",
+    "format": "glb",
+    "relativePath": "character-d.glb",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blocky-characters/kenney-blocky-characters-character-d/kenney-blocky-characters-character-d.glb",
+    "sourceUrl": "https://kenney.nl/assets/blocky-characters",
+    "primaryBytes": 113596,
+    "totalBytes": 126747,
+    "primarySha256": "bd7cbf0d45e58f6809e3249a84502ce629ac53bfa13bc39fb0a83d171faf84bf",
+    "bundleSha256": "5ca0a1225d836d0a6551e42d05f3bcb33fed0ed69c690da132c0ef92b3cba792",
+    "bounds": {
+      "min": [
+        -0.8,
+        0,
+        -0.4
+      ],
+      "max": [
+        0.8,
+        2.7,
+        0.4
+      ],
+      "size": [
+        1.6,
+        2.7,
+        0.8
+      ],
+      "center": [
+        0,
+        1.35,
+        0
+      ],
+      "diagonal": 3.238827
+    },
+    "triangleCount": 72,
+    "drawCallCount": 6,
+    "renderVertexCount": 216,
+    "uploadVertexCount": 143,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 27,
+    "skinCount": 0,
+    "tags": [
+      "3d",
+      "kenney",
+      "character",
+      "blocky",
+      "avatar",
+      "animated",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy",
+      "npc",
+      "player"
+    ],
+    "aliases": [
+      "blocky person",
+      "blocky avatar"
+    ],
+    "searchTokens": [
+      "animated",
+      "avatar",
+      "avatars",
+      "blocky",
+      "bright",
+      "character",
+      "characters",
+      "colorful",
+      "game",
+      "kenney",
+      "npc",
+      "people",
+      "person",
+      "player",
+      "poly",
+      "stylized",
+      "toy"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/kenney-blocky-characters/kenney-blocky-characters-character-d.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 10530,
+      "sha256": "4fc9c72700bf5937bf87ecb7728e771c26493ea336cb6699f218c9cf6027a15a",
+      "transparent": true,
+      "sourceBundleSha256": "5ca0a1225d836d0a6551e42d05f3bcb33fed0ed69c690da132c0ef92b3cba792",
+      "cacheKey": "9cb2ae6881df4b05dd30532d877f9d4299da5f5a187bf29bde8b3e3d7c2e1fc0",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.224913,
+        "pan": [
+          0.049661,
+          0.063198,
+          -0.095163
+        ],
+        "alphaBounds": {
+          "x": 159,
+          "y": 71,
+          "width": 194,
+          "height": 370,
+          "fill": 0.722656,
+          "centerOffset": {
+            "x": 0,
+            "y": 0,
+            "length": 0
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blocky-characters/kenney-blocky-characters-character-d.webp",
+      "packRelativePath": "previews/kenney-blocky-characters-character-d.webp"
+    },
+    "packId": "kenney-blocky-characters",
+    "publicPath": "assets/kenney-blocky-characters/kenney-blocky-characters-character-d/kenney-blocky-characters-character-d.glb",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blocky-characters-63240e5d0986/kenney-blocky-characters-character-d.glb"
+  },
+  {
+    "id": "kenney-blocky-characters-character-e",
+    "name": "Character E",
+    "description": "Animated blocky character model (Character E).",
+    "kind": "model",
+    "format": "glb",
+    "relativePath": "character-e.glb",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blocky-characters/kenney-blocky-characters-character-e/kenney-blocky-characters-character-e.glb",
+    "sourceUrl": "https://kenney.nl/assets/blocky-characters",
+    "primaryBytes": 113596,
+    "totalBytes": 128105,
+    "primarySha256": "9a12684981bc7763aebeceaffed82abfcc458d27b1ed3e169b92bebcc4870675",
+    "bundleSha256": "e10803519adf2d2936673ca3a8c9db804f67e8c2428c787b2b02d13ba8c3c595",
+    "bounds": {
+      "min": [
+        -0.8,
+        0,
+        -0.4
+      ],
+      "max": [
+        0.8,
+        2.7,
+        0.4
+      ],
+      "size": [
+        1.6,
+        2.7,
+        0.8
+      ],
+      "center": [
+        0,
+        1.35,
+        0
+      ],
+      "diagonal": 3.238827
+    },
+    "triangleCount": 72,
+    "drawCallCount": 6,
+    "renderVertexCount": 216,
+    "uploadVertexCount": 143,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 27,
+    "skinCount": 0,
+    "tags": [
+      "3d",
+      "kenney",
+      "character",
+      "blocky",
+      "avatar",
+      "animated",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy",
+      "npc",
+      "player"
+    ],
+    "aliases": [
+      "blocky person",
+      "blocky avatar"
+    ],
+    "searchTokens": [
+      "animated",
+      "avatar",
+      "avatars",
+      "blocky",
+      "bright",
+      "character",
+      "characters",
+      "colorful",
+      "game",
+      "kenney",
+      "npc",
+      "people",
+      "person",
+      "player",
+      "poly",
+      "stylized",
+      "toy"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/kenney-blocky-characters/kenney-blocky-characters-character-e.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7300,
+      "sha256": "1278764617ffe9cba6fb2f564d8aad8eb1e3daf563f90e90076239acbd119a80",
+      "transparent": true,
+      "sourceBundleSha256": "e10803519adf2d2936673ca3a8c9db804f67e8c2428c787b2b02d13ba8c3c595",
+      "cacheKey": "0090e0c104a6a70e267f0f691745355664cadf748ab01808c6729cd6e3cbe41e",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.224913,
+        "pan": [
+          0.049661,
+          0.063198,
+          -0.095163
+        ],
+        "alphaBounds": {
+          "x": 159,
+          "y": 71,
+          "width": 194,
+          "height": 370,
+          "fill": 0.722656,
+          "centerOffset": {
+            "x": 0,
+            "y": 0,
+            "length": 0
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blocky-characters/kenney-blocky-characters-character-e.webp",
+      "packRelativePath": "previews/kenney-blocky-characters-character-e.webp"
+    },
+    "packId": "kenney-blocky-characters",
+    "publicPath": "assets/kenney-blocky-characters/kenney-blocky-characters-character-e/kenney-blocky-characters-character-e.glb",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blocky-characters-63240e5d0986/kenney-blocky-characters-character-e.glb"
+  },
+  {
+    "id": "kenney-blocky-characters-character-f",
+    "name": "Character F",
+    "description": "Animated blocky character model (Character F).",
+    "kind": "model",
+    "format": "glb",
+    "relativePath": "character-f.glb",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blocky-characters/kenney-blocky-characters-character-f/kenney-blocky-characters-character-f.glb",
+    "sourceUrl": "https://kenney.nl/assets/blocky-characters",
+    "primaryBytes": 113592,
+    "totalBytes": 129478,
+    "primarySha256": "04223c1c6cdce5da6fe9c9729a24e1aa9c765dec93af952379112f7da24a828a",
+    "bundleSha256": "e24ccf52d4f0e24d09e991b37ab6ebb8023368a2c73082178769b192a76b463b",
+    "bounds": {
+      "min": [
+        -0.8,
+        0,
+        -0.4
+      ],
+      "max": [
+        0.8,
+        2.7,
+        0.4
+      ],
+      "size": [
+        1.6,
+        2.7,
+        0.8
+      ],
+      "center": [
+        0,
+        1.35,
+        0
+      ],
+      "diagonal": 3.238827
+    },
+    "triangleCount": 72,
+    "drawCallCount": 6,
+    "renderVertexCount": 216,
+    "uploadVertexCount": 143,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 27,
+    "skinCount": 0,
+    "tags": [
+      "3d",
+      "kenney",
+      "character",
+      "blocky",
+      "avatar",
+      "animated",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy",
+      "npc",
+      "player"
+    ],
+    "aliases": [
+      "blocky person",
+      "blocky avatar"
+    ],
+    "searchTokens": [
+      "animated",
+      "avatar",
+      "avatars",
+      "blocky",
+      "bright",
+      "character",
+      "characters",
+      "colorful",
+      "game",
+      "kenney",
+      "npc",
+      "people",
+      "person",
+      "player",
+      "poly",
+      "stylized",
+      "toy"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/kenney-blocky-characters/kenney-blocky-characters-character-f.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6888,
+      "sha256": "385173d2f051cf3ae2d10114a58e17c458cbd761fe558074bbce3ae2729619c3",
+      "transparent": true,
+      "sourceBundleSha256": "e24ccf52d4f0e24d09e991b37ab6ebb8023368a2c73082178769b192a76b463b",
+      "cacheKey": "b6150296e8a8e93e6ff73ab4974a71f69c548125d9e0bd333bbf2b9fb788396d",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.224913,
+        "pan": [
+          0.049661,
+          0.063198,
+          -0.095163
+        ],
+        "alphaBounds": {
+          "x": 159,
+          "y": 71,
+          "width": 194,
+          "height": 370,
+          "fill": 0.722656,
+          "centerOffset": {
+            "x": 0,
+            "y": 0,
+            "length": 0
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blocky-characters/kenney-blocky-characters-character-f.webp",
+      "packRelativePath": "previews/kenney-blocky-characters-character-f.webp"
+    },
+    "packId": "kenney-blocky-characters",
+    "publicPath": "assets/kenney-blocky-characters/kenney-blocky-characters-character-f/kenney-blocky-characters-character-f.glb",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blocky-characters-63240e5d0986/kenney-blocky-characters-character-f.glb"
+  },
+  {
+    "id": "kenney-blocky-characters-character-g",
+    "name": "Character G",
+    "description": "Animated blocky character model (Character G).",
+    "kind": "model",
+    "format": "glb",
+    "relativePath": "character-g.glb",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blocky-characters/kenney-blocky-characters-character-g/kenney-blocky-characters-character-g.glb",
+    "sourceUrl": "https://kenney.nl/assets/blocky-characters",
+    "primaryBytes": 113596,
+    "totalBytes": 129665,
+    "primarySha256": "e3249ffc0aaa55eba973696ba4b36a204b35a10574b373e9945b56d918e8c9fd",
+    "bundleSha256": "f723d4f76a27d8931954c7b7afc848107e08de9959775881abac1d026d8a8821",
+    "bounds": {
+      "min": [
+        -0.8,
+        0,
+        -0.4
+      ],
+      "max": [
+        0.8,
+        2.7,
+        0.4
+      ],
+      "size": [
+        1.6,
+        2.7,
+        0.8
+      ],
+      "center": [
+        0,
+        1.35,
+        0
+      ],
+      "diagonal": 3.238827
+    },
+    "triangleCount": 72,
+    "drawCallCount": 6,
+    "renderVertexCount": 216,
+    "uploadVertexCount": 143,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 27,
+    "skinCount": 0,
+    "tags": [
+      "3d",
+      "kenney",
+      "character",
+      "blocky",
+      "avatar",
+      "animated",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy",
+      "npc",
+      "player"
+    ],
+    "aliases": [
+      "blocky person",
+      "blocky avatar"
+    ],
+    "searchTokens": [
+      "animated",
+      "avatar",
+      "avatars",
+      "blocky",
+      "bright",
+      "character",
+      "characters",
+      "colorful",
+      "game",
+      "kenney",
+      "npc",
+      "people",
+      "person",
+      "player",
+      "poly",
+      "stylized",
+      "toy"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/kenney-blocky-characters/kenney-blocky-characters-character-g.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8194,
+      "sha256": "ad6c57f99f7f98162a61255c4d523c0a9fc2a467ebcf48cdc51b0ffa1fd8c5a5",
+      "transparent": true,
+      "sourceBundleSha256": "f723d4f76a27d8931954c7b7afc848107e08de9959775881abac1d026d8a8821",
+      "cacheKey": "92720f14d1126c8b0664a5e46895b5253cf2877211332f92198a9743d9da2631",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.224913,
+        "pan": [
+          0.049661,
+          0.063198,
+          -0.095163
+        ],
+        "alphaBounds": {
+          "x": 159,
+          "y": 71,
+          "width": 194,
+          "height": 370,
+          "fill": 0.722656,
+          "centerOffset": {
+            "x": 0,
+            "y": 0,
+            "length": 0
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blocky-characters/kenney-blocky-characters-character-g.webp",
+      "packRelativePath": "previews/kenney-blocky-characters-character-g.webp"
+    },
+    "packId": "kenney-blocky-characters",
+    "publicPath": "assets/kenney-blocky-characters/kenney-blocky-characters-character-g/kenney-blocky-characters-character-g.glb",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blocky-characters-63240e5d0986/kenney-blocky-characters-character-g.glb"
+  },
+  {
+    "id": "kenney-blocky-characters-character-h",
+    "name": "Character H",
+    "description": "Animated blocky character model (Character H).",
+    "kind": "model",
+    "format": "glb",
+    "relativePath": "character-h.glb",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blocky-characters/kenney-blocky-characters-character-h/kenney-blocky-characters-character-h.glb",
+    "sourceUrl": "https://kenney.nl/assets/blocky-characters",
+    "primaryBytes": 113596,
+    "totalBytes": 129811,
+    "primarySha256": "f62fcf774dc6d61d64a3616803bc3a71176e1aee252020dd3ef680ef0a95d588",
+    "bundleSha256": "43bff731402973e0b03b6df3ec50e75ccd5c5a12f10a14b90561caa4fbd1af35",
+    "bounds": {
+      "min": [
+        -0.8,
+        0,
+        -0.4
+      ],
+      "max": [
+        0.8,
+        2.7,
+        0.4
+      ],
+      "size": [
+        1.6,
+        2.7,
+        0.8
+      ],
+      "center": [
+        0,
+        1.35,
+        0
+      ],
+      "diagonal": 3.238827
+    },
+    "triangleCount": 72,
+    "drawCallCount": 6,
+    "renderVertexCount": 216,
+    "uploadVertexCount": 143,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 27,
+    "skinCount": 0,
+    "tags": [
+      "3d",
+      "kenney",
+      "character",
+      "blocky",
+      "avatar",
+      "animated",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy",
+      "npc",
+      "player"
+    ],
+    "aliases": [
+      "blocky person",
+      "blocky avatar"
+    ],
+    "searchTokens": [
+      "animated",
+      "avatar",
+      "avatars",
+      "blocky",
+      "bright",
+      "character",
+      "characters",
+      "colorful",
+      "game",
+      "kenney",
+      "npc",
+      "people",
+      "person",
+      "player",
+      "poly",
+      "stylized",
+      "toy"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/kenney-blocky-characters/kenney-blocky-characters-character-h.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7496,
+      "sha256": "4f2b94d52ed32f7170838e9c8dae8ce2e8c608ae88c2d29ceb895287c84ba0eb",
+      "transparent": true,
+      "sourceBundleSha256": "43bff731402973e0b03b6df3ec50e75ccd5c5a12f10a14b90561caa4fbd1af35",
+      "cacheKey": "89042a177113550f235e88adce6b3022219898216f40c9524c33afb250f2665f",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.224913,
+        "pan": [
+          0.049661,
+          0.063198,
+          -0.095163
+        ],
+        "alphaBounds": {
+          "x": 159,
+          "y": 71,
+          "width": 194,
+          "height": 370,
+          "fill": 0.722656,
+          "centerOffset": {
+            "x": 0,
+            "y": 0,
+            "length": 0
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blocky-characters/kenney-blocky-characters-character-h.webp",
+      "packRelativePath": "previews/kenney-blocky-characters-character-h.webp"
+    },
+    "packId": "kenney-blocky-characters",
+    "publicPath": "assets/kenney-blocky-characters/kenney-blocky-characters-character-h/kenney-blocky-characters-character-h.glb",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blocky-characters-63240e5d0986/kenney-blocky-characters-character-h.glb"
+  },
+  {
+    "id": "kenney-blocky-characters-character-i",
+    "name": "Character I",
+    "description": "Animated blocky character model (Character I).",
+    "kind": "model",
+    "format": "glb",
+    "relativePath": "character-i.glb",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blocky-characters/kenney-blocky-characters-character-i/kenney-blocky-characters-character-i.glb",
+    "sourceUrl": "https://kenney.nl/assets/blocky-characters",
+    "primaryBytes": 113532,
+    "totalBytes": 128028,
+    "primarySha256": "2b566d3b6261faa3e151b352396d823a285834f039ff6476db248ec6da902fe8",
+    "bundleSha256": "913a42bc34a34120e824a0f251e45942dd4774bcb4d6d6fe8eba9a08f7abd6eb",
+    "bounds": {
+      "min": [
+        -0.8,
+        0,
+        -0.4
+      ],
+      "max": [
+        0.8,
+        2.7,
+        0.4
+      ],
+      "size": [
+        1.6,
+        2.7,
+        0.8
+      ],
+      "center": [
+        0,
+        1.35,
+        0
+      ],
+      "diagonal": 3.238827
+    },
+    "triangleCount": 72,
+    "drawCallCount": 6,
+    "renderVertexCount": 216,
+    "uploadVertexCount": 143,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 27,
+    "skinCount": 0,
+    "tags": [
+      "3d",
+      "kenney",
+      "character",
+      "blocky",
+      "avatar",
+      "animated",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy",
+      "npc",
+      "player"
+    ],
+    "aliases": [
+      "blocky person",
+      "blocky avatar"
+    ],
+    "searchTokens": [
+      "animated",
+      "avatar",
+      "avatars",
+      "blocky",
+      "bright",
+      "character",
+      "characters",
+      "colorful",
+      "game",
+      "kenney",
+      "npc",
+      "people",
+      "person",
+      "player",
+      "poly",
+      "stylized",
+      "toy"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/kenney-blocky-characters/kenney-blocky-characters-character-i.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7988,
+      "sha256": "5d77f1e1a7b8af80f215a8ce8468500591092c645503a489ba07b586e8732798",
+      "transparent": true,
+      "sourceBundleSha256": "913a42bc34a34120e824a0f251e45942dd4774bcb4d6d6fe8eba9a08f7abd6eb",
+      "cacheKey": "2d588ba750b1d45cfdac99ad3cabfa6c876d4714332697e59ab43362ae0791f1",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.224913,
+        "pan": [
+          0.049661,
+          0.063198,
+          -0.095163
+        ],
+        "alphaBounds": {
+          "x": 159,
+          "y": 71,
+          "width": 194,
+          "height": 370,
+          "fill": 0.722656,
+          "centerOffset": {
+            "x": 0,
+            "y": 0,
+            "length": 0
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blocky-characters/kenney-blocky-characters-character-i.webp",
+      "packRelativePath": "previews/kenney-blocky-characters-character-i.webp"
+    },
+    "packId": "kenney-blocky-characters",
+    "publicPath": "assets/kenney-blocky-characters/kenney-blocky-characters-character-i/kenney-blocky-characters-character-i.glb",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blocky-characters-63240e5d0986/kenney-blocky-characters-character-i.glb"
+  },
+  {
+    "id": "kenney-blocky-characters-character-j",
+    "name": "Character J",
+    "description": "Animated blocky character model (Character J).",
+    "kind": "model",
+    "format": "glb",
+    "relativePath": "character-j.glb",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blocky-characters/kenney-blocky-characters-character-j/kenney-blocky-characters-character-j.glb",
+    "sourceUrl": "https://kenney.nl/assets/blocky-characters",
+    "primaryBytes": 113584,
+    "totalBytes": 131160,
+    "primarySha256": "5bae1cabb44a719fba8e18a8c519f45c92531bc02a2a1324cd316ffa5903e311",
+    "bundleSha256": "b53986d9e20397a4a8cd402c5818bcd730de03af52fbd30863bf0a7d416fd5b1",
+    "bounds": {
+      "min": [
+        -0.8,
+        0,
+        -0.4
+      ],
+      "max": [
+        0.8,
+        2.7,
+        0.4
+      ],
+      "size": [
+        1.6,
+        2.7,
+        0.8
+      ],
+      "center": [
+        0,
+        1.35,
+        0
+      ],
+      "diagonal": 3.238827
+    },
+    "triangleCount": 72,
+    "drawCallCount": 6,
+    "renderVertexCount": 216,
+    "uploadVertexCount": 143,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 27,
+    "skinCount": 0,
+    "tags": [
+      "3d",
+      "kenney",
+      "character",
+      "blocky",
+      "avatar",
+      "animated",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy",
+      "npc",
+      "player"
+    ],
+    "aliases": [
+      "blocky person",
+      "blocky avatar"
+    ],
+    "searchTokens": [
+      "animated",
+      "avatar",
+      "avatars",
+      "blocky",
+      "bright",
+      "character",
+      "characters",
+      "colorful",
+      "game",
+      "kenney",
+      "npc",
+      "people",
+      "person",
+      "player",
+      "poly",
+      "stylized",
+      "toy"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/kenney-blocky-characters/kenney-blocky-characters-character-j.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7922,
+      "sha256": "ad69868cf30c53a0827722574722e98961a50d393b4e2455625cb8b9b18aa20a",
+      "transparent": true,
+      "sourceBundleSha256": "b53986d9e20397a4a8cd402c5818bcd730de03af52fbd30863bf0a7d416fd5b1",
+      "cacheKey": "44037a3d9d8f6b48796c6c5dc5ebdbfe759386d38ed3f3fdcc8a4821da3a0c2c",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.224913,
+        "pan": [
+          0.049661,
+          0.063198,
+          -0.095163
+        ],
+        "alphaBounds": {
+          "x": 159,
+          "y": 71,
+          "width": 194,
+          "height": 370,
+          "fill": 0.722656,
+          "centerOffset": {
+            "x": 0,
+            "y": 0,
+            "length": 0
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blocky-characters/kenney-blocky-characters-character-j.webp",
+      "packRelativePath": "previews/kenney-blocky-characters-character-j.webp"
+    },
+    "packId": "kenney-blocky-characters",
+    "publicPath": "assets/kenney-blocky-characters/kenney-blocky-characters-character-j/kenney-blocky-characters-character-j.glb",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blocky-characters-63240e5d0986/kenney-blocky-characters-character-j.glb"
+  },
+  {
+    "id": "kenney-blocky-characters-character-k",
+    "name": "Character K",
+    "description": "Animated blocky character model (Character K).",
+    "kind": "model",
+    "format": "glb",
+    "relativePath": "character-k.glb",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blocky-characters/kenney-blocky-characters-character-k/kenney-blocky-characters-character-k.glb",
+    "sourceUrl": "https://kenney.nl/assets/blocky-characters",
+    "primaryBytes": 113596,
+    "totalBytes": 131033,
+    "primarySha256": "1b0f9b218eda8444e68e988b1b87786ca058928a6c091bc3e44986363fefbc3b",
+    "bundleSha256": "e2de9b1b7c74d2f3bbd89a0f9f4a1796973bdbf57f8e11dea49aca1b8a2ad4ba",
+    "bounds": {
+      "min": [
+        -0.8,
+        0,
+        -0.4
+      ],
+      "max": [
+        0.8,
+        2.7,
+        0.4
+      ],
+      "size": [
+        1.6,
+        2.7,
+        0.8
+      ],
+      "center": [
+        0,
+        1.35,
+        0
+      ],
+      "diagonal": 3.238827
+    },
+    "triangleCount": 72,
+    "drawCallCount": 6,
+    "renderVertexCount": 216,
+    "uploadVertexCount": 143,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 27,
+    "skinCount": 0,
+    "tags": [
+      "3d",
+      "kenney",
+      "character",
+      "blocky",
+      "avatar",
+      "animated",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy",
+      "npc",
+      "player"
+    ],
+    "aliases": [
+      "blocky person",
+      "blocky avatar"
+    ],
+    "searchTokens": [
+      "animated",
+      "avatar",
+      "avatars",
+      "blocky",
+      "bright",
+      "character",
+      "characters",
+      "colorful",
+      "game",
+      "kenney",
+      "npc",
+      "people",
+      "person",
+      "player",
+      "poly",
+      "stylized",
+      "toy"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/kenney-blocky-characters/kenney-blocky-characters-character-k.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7114,
+      "sha256": "953295c509b345091252d7fb7f2d63ccaaa81f316e2971acae3fbab704b0cba4",
+      "transparent": true,
+      "sourceBundleSha256": "e2de9b1b7c74d2f3bbd89a0f9f4a1796973bdbf57f8e11dea49aca1b8a2ad4ba",
+      "cacheKey": "3a3e0f679de8c83a431a9d90fc6a92df6389b17b7ee0cd364ef6e6e811986dd2",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.224913,
+        "pan": [
+          0.049661,
+          0.063198,
+          -0.095163
+        ],
+        "alphaBounds": {
+          "x": 159,
+          "y": 71,
+          "width": 194,
+          "height": 370,
+          "fill": 0.722656,
+          "centerOffset": {
+            "x": 0,
+            "y": 0,
+            "length": 0
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blocky-characters/kenney-blocky-characters-character-k.webp",
+      "packRelativePath": "previews/kenney-blocky-characters-character-k.webp"
+    },
+    "packId": "kenney-blocky-characters",
+    "publicPath": "assets/kenney-blocky-characters/kenney-blocky-characters-character-k/kenney-blocky-characters-character-k.glb",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blocky-characters-63240e5d0986/kenney-blocky-characters-character-k.glb"
+  },
+  {
+    "id": "kenney-blocky-characters-character-l",
+    "name": "Character L",
+    "description": "Animated blocky character model (Character L).",
+    "kind": "model",
+    "format": "glb",
+    "relativePath": "character-l.glb",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blocky-characters/kenney-blocky-characters-character-l/kenney-blocky-characters-character-l.glb",
+    "sourceUrl": "https://kenney.nl/assets/blocky-characters",
+    "primaryBytes": 113596,
+    "totalBytes": 136360,
+    "primarySha256": "ac3d350aba9311cf522f6b5ef56e1838fd8cd6bd3fb61795db4416dd2cc73a3d",
+    "bundleSha256": "cd359033ee2936dfee0478eba0a7a4d924c827c17b2a5e9ffb5e244858c93f34",
+    "bounds": {
+      "min": [
+        -0.8,
+        0,
+        -0.4
+      ],
+      "max": [
+        0.8,
+        2.7,
+        0.4
+      ],
+      "size": [
+        1.6,
+        2.7,
+        0.8
+      ],
+      "center": [
+        0,
+        1.35,
+        0
+      ],
+      "diagonal": 3.238827
+    },
+    "triangleCount": 72,
+    "drawCallCount": 6,
+    "renderVertexCount": 216,
+    "uploadVertexCount": 143,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 27,
+    "skinCount": 0,
+    "tags": [
+      "3d",
+      "kenney",
+      "character",
+      "blocky",
+      "avatar",
+      "animated",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy",
+      "npc",
+      "player"
+    ],
+    "aliases": [
+      "blocky person",
+      "blocky avatar"
+    ],
+    "searchTokens": [
+      "animated",
+      "avatar",
+      "avatars",
+      "blocky",
+      "bright",
+      "character",
+      "characters",
+      "colorful",
+      "game",
+      "kenney",
+      "npc",
+      "people",
+      "person",
+      "player",
+      "poly",
+      "stylized",
+      "toy"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/kenney-blocky-characters/kenney-blocky-characters-character-l.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7958,
+      "sha256": "363df06491a6eac431dbc0bb41e6f5168909c1c354ca7f4c79cf249cc3b6c13e",
+      "transparent": true,
+      "sourceBundleSha256": "cd359033ee2936dfee0478eba0a7a4d924c827c17b2a5e9ffb5e244858c93f34",
+      "cacheKey": "91f5a4e69dcc3d7e214236b04f1a7f5992b1447906e5e25749a0c04ceff3a550",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.224913,
+        "pan": [
+          0.049661,
+          0.063198,
+          -0.095163
+        ],
+        "alphaBounds": {
+          "x": 159,
+          "y": 71,
+          "width": 194,
+          "height": 370,
+          "fill": 0.722656,
+          "centerOffset": {
+            "x": 0,
+            "y": 0,
+            "length": 0
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blocky-characters/kenney-blocky-characters-character-l.webp",
+      "packRelativePath": "previews/kenney-blocky-characters-character-l.webp"
+    },
+    "packId": "kenney-blocky-characters",
+    "publicPath": "assets/kenney-blocky-characters/kenney-blocky-characters-character-l/kenney-blocky-characters-character-l.glb",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blocky-characters-63240e5d0986/kenney-blocky-characters-character-l.glb"
+  },
+  {
+    "id": "kenney-blocky-characters-character-m",
+    "name": "Character M",
+    "description": "Animated blocky character model (Character M).",
+    "kind": "model",
+    "format": "glb",
+    "relativePath": "character-m.glb",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blocky-characters/kenney-blocky-characters-character-m/kenney-blocky-characters-character-m.glb",
+    "sourceUrl": "https://kenney.nl/assets/blocky-characters",
+    "primaryBytes": 113596,
+    "totalBytes": 132939,
+    "primarySha256": "5289ed1e5f79a93c28d1bb0e4b8afda6fce298ab53a04fb2cc1f8f77cf661ccc",
+    "bundleSha256": "ea5f65c9fd928ee6b3a530bfe1af67eda980a96addea54444aadd8f7eb8a7347",
+    "bounds": {
+      "min": [
+        -0.8,
+        0,
+        -0.4
+      ],
+      "max": [
+        0.8,
+        2.7,
+        0.4
+      ],
+      "size": [
+        1.6,
+        2.7,
+        0.8
+      ],
+      "center": [
+        0,
+        1.35,
+        0
+      ],
+      "diagonal": 3.238827
+    },
+    "triangleCount": 72,
+    "drawCallCount": 6,
+    "renderVertexCount": 216,
+    "uploadVertexCount": 143,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 27,
+    "skinCount": 0,
+    "tags": [
+      "3d",
+      "kenney",
+      "character",
+      "blocky",
+      "avatar",
+      "animated",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy",
+      "npc",
+      "player"
+    ],
+    "aliases": [
+      "blocky person",
+      "blocky avatar"
+    ],
+    "searchTokens": [
+      "animated",
+      "avatar",
+      "avatars",
+      "blocky",
+      "bright",
+      "character",
+      "characters",
+      "colorful",
+      "game",
+      "kenney",
+      "npc",
+      "people",
+      "person",
+      "player",
+      "poly",
+      "stylized",
+      "toy"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/kenney-blocky-characters/kenney-blocky-characters-character-m.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7606,
+      "sha256": "bb2653dc875c75e03170c6dbabbb0b9ca2eed4c1c3b9fe1be8ca218dc903b9cb",
+      "transparent": true,
+      "sourceBundleSha256": "ea5f65c9fd928ee6b3a530bfe1af67eda980a96addea54444aadd8f7eb8a7347",
+      "cacheKey": "c632b23204218e5d2c1551ae247bf6071aab8bbe95edbd903acbb20a74705a86",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.224913,
+        "pan": [
+          0.049661,
+          0.063198,
+          -0.095163
+        ],
+        "alphaBounds": {
+          "x": 159,
+          "y": 71,
+          "width": 194,
+          "height": 370,
+          "fill": 0.722656,
+          "centerOffset": {
+            "x": 0,
+            "y": 0,
+            "length": 0
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blocky-characters/kenney-blocky-characters-character-m.webp",
+      "packRelativePath": "previews/kenney-blocky-characters-character-m.webp"
+    },
+    "packId": "kenney-blocky-characters",
+    "publicPath": "assets/kenney-blocky-characters/kenney-blocky-characters-character-m/kenney-blocky-characters-character-m.glb",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blocky-characters-63240e5d0986/kenney-blocky-characters-character-m.glb"
+  },
+  {
+    "id": "kenney-blocky-characters-character-n",
+    "name": "Character N",
+    "description": "Animated blocky character model (Character N).",
+    "kind": "model",
+    "format": "glb",
+    "relativePath": "character-n.glb",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blocky-characters/kenney-blocky-characters-character-n/kenney-blocky-characters-character-n.glb",
+    "sourceUrl": "https://kenney.nl/assets/blocky-characters",
+    "primaryBytes": 113596,
+    "totalBytes": 130420,
+    "primarySha256": "1ea5a0cb0c65f51d6a1b40caa15a27f625365d341f33392a2bd926b0bf695394",
+    "bundleSha256": "3077d6accd326193b79181898a36cb2ee9f27559393020bd6b1afe137380d494",
+    "bounds": {
+      "min": [
+        -0.8,
+        0,
+        -0.4
+      ],
+      "max": [
+        0.8,
+        2.7,
+        0.4
+      ],
+      "size": [
+        1.6,
+        2.7,
+        0.8
+      ],
+      "center": [
+        0,
+        1.35,
+        0
+      ],
+      "diagonal": 3.238827
+    },
+    "triangleCount": 72,
+    "drawCallCount": 6,
+    "renderVertexCount": 216,
+    "uploadVertexCount": 143,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 27,
+    "skinCount": 0,
+    "tags": [
+      "3d",
+      "kenney",
+      "character",
+      "blocky",
+      "avatar",
+      "animated",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy",
+      "npc",
+      "player"
+    ],
+    "aliases": [
+      "blocky person",
+      "blocky avatar"
+    ],
+    "searchTokens": [
+      "animated",
+      "avatar",
+      "avatars",
+      "blocky",
+      "bright",
+      "character",
+      "characters",
+      "colorful",
+      "game",
+      "kenney",
+      "npc",
+      "people",
+      "person",
+      "player",
+      "poly",
+      "stylized",
+      "toy"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/kenney-blocky-characters/kenney-blocky-characters-character-n.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8626,
+      "sha256": "7c5505aa196c726541e4d78a7de16017aa2a72fe48505192581c43f50f2ce220",
+      "transparent": true,
+      "sourceBundleSha256": "3077d6accd326193b79181898a36cb2ee9f27559393020bd6b1afe137380d494",
+      "cacheKey": "3890d63fbe20af73b5f11d0d486995c4acb3dd2ceeeb9f672e021c9fa3a3a390",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.224913,
+        "pan": [
+          0.049661,
+          0.063198,
+          -0.095163
+        ],
+        "alphaBounds": {
+          "x": 159,
+          "y": 71,
+          "width": 194,
+          "height": 370,
+          "fill": 0.722656,
+          "centerOffset": {
+            "x": 0,
+            "y": 0,
+            "length": 0
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blocky-characters/kenney-blocky-characters-character-n.webp",
+      "packRelativePath": "previews/kenney-blocky-characters-character-n.webp"
+    },
+    "packId": "kenney-blocky-characters",
+    "publicPath": "assets/kenney-blocky-characters/kenney-blocky-characters-character-n/kenney-blocky-characters-character-n.glb",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blocky-characters-63240e5d0986/kenney-blocky-characters-character-n.glb"
+  },
+  {
+    "id": "kenney-blocky-characters-character-o",
+    "name": "Character O",
+    "description": "Animated blocky character model (Character O).",
+    "kind": "model",
+    "format": "glb",
+    "relativePath": "character-o.glb",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blocky-characters/kenney-blocky-characters-character-o/kenney-blocky-characters-character-o.glb",
+    "sourceUrl": "https://kenney.nl/assets/blocky-characters",
+    "primaryBytes": 113596,
+    "totalBytes": 134660,
+    "primarySha256": "a5033b736d13be3434fbf31e8b222d1e3767e532baa5f10ae8ba7cb1b059c148",
+    "bundleSha256": "50e9c352de04bacc3495629635b97ad1a0f0acbd48d1136e90de1ed0a16339aa",
+    "bounds": {
+      "min": [
+        -0.8,
+        0,
+        -0.4
+      ],
+      "max": [
+        0.8,
+        2.7,
+        0.4
+      ],
+      "size": [
+        1.6,
+        2.7,
+        0.8
+      ],
+      "center": [
+        0,
+        1.35,
+        0
+      ],
+      "diagonal": 3.238827
+    },
+    "triangleCount": 72,
+    "drawCallCount": 6,
+    "renderVertexCount": 216,
+    "uploadVertexCount": 143,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 27,
+    "skinCount": 0,
+    "tags": [
+      "3d",
+      "kenney",
+      "character",
+      "blocky",
+      "avatar",
+      "animated",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy",
+      "npc",
+      "player"
+    ],
+    "aliases": [
+      "blocky person",
+      "blocky avatar"
+    ],
+    "searchTokens": [
+      "animated",
+      "avatar",
+      "avatars",
+      "blocky",
+      "bright",
+      "character",
+      "characters",
+      "colorful",
+      "game",
+      "kenney",
+      "npc",
+      "people",
+      "person",
+      "player",
+      "poly",
+      "stylized",
+      "toy"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/kenney-blocky-characters/kenney-blocky-characters-character-o.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 7566,
+      "sha256": "2fef07fea00dbd4028579e092966ebc2e5134fad959e19db1752abe18d79071b",
+      "transparent": true,
+      "sourceBundleSha256": "50e9c352de04bacc3495629635b97ad1a0f0acbd48d1136e90de1ed0a16339aa",
+      "cacheKey": "66206a2a7385476fb59048fc4c2e1d6a2c6ba252c94e1c6a1df4c3b82c8044dc",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.224913,
+        "pan": [
+          0.049661,
+          0.063198,
+          -0.095163
+        ],
+        "alphaBounds": {
+          "x": 159,
+          "y": 71,
+          "width": 194,
+          "height": 370,
+          "fill": 0.722656,
+          "centerOffset": {
+            "x": 0,
+            "y": 0,
+            "length": 0
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blocky-characters/kenney-blocky-characters-character-o.webp",
+      "packRelativePath": "previews/kenney-blocky-characters-character-o.webp"
+    },
+    "packId": "kenney-blocky-characters",
+    "publicPath": "assets/kenney-blocky-characters/kenney-blocky-characters-character-o/kenney-blocky-characters-character-o.glb",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blocky-characters-63240e5d0986/kenney-blocky-characters-character-o.glb"
+  },
+  {
+    "id": "kenney-blocky-characters-character-p",
+    "name": "Character P",
+    "description": "Animated blocky character model (Character P).",
+    "kind": "model",
+    "format": "glb",
+    "relativePath": "character-p.glb",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blocky-characters/kenney-blocky-characters-character-p/kenney-blocky-characters-character-p.glb",
+    "sourceUrl": "https://kenney.nl/assets/blocky-characters",
+    "primaryBytes": 113584,
+    "totalBytes": 131584,
+    "primarySha256": "50e18edd3003eeeca60c215a12f2c8230f9d12bc07e656eb06c3727ab0dba6cd",
+    "bundleSha256": "e82b39641aec0d55bf0de0c408e83271e6a1befa94a20095357b2ae9abb9139a",
+    "bounds": {
+      "min": [
+        -0.8,
+        0,
+        -0.4
+      ],
+      "max": [
+        0.8,
+        2.7,
+        0.4
+      ],
+      "size": [
+        1.6,
+        2.7,
+        0.8
+      ],
+      "center": [
+        0,
+        1.35,
+        0
+      ],
+      "diagonal": 3.238827
+    },
+    "triangleCount": 72,
+    "drawCallCount": 6,
+    "renderVertexCount": 216,
+    "uploadVertexCount": 143,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 27,
+    "skinCount": 0,
+    "tags": [
+      "3d",
+      "kenney",
+      "character",
+      "blocky",
+      "avatar",
+      "animated",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy",
+      "npc",
+      "player"
+    ],
+    "aliases": [
+      "blocky person",
+      "blocky avatar"
+    ],
+    "searchTokens": [
+      "animated",
+      "avatar",
+      "avatars",
+      "blocky",
+      "bright",
+      "character",
+      "characters",
+      "colorful",
+      "game",
+      "kenney",
+      "npc",
+      "people",
+      "person",
+      "player",
+      "poly",
+      "stylized",
+      "toy"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/kenney-blocky-characters/kenney-blocky-characters-character-p.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 8442,
+      "sha256": "ed436faf6cdde809eecfae5a91c5168b10990a6992410d3292de6746fe4e0fbe",
+      "transparent": true,
+      "sourceBundleSha256": "e82b39641aec0d55bf0de0c408e83271e6a1befa94a20095357b2ae9abb9139a",
+      "cacheKey": "0388a88091ea759279abe393915cd3f00c4897fd69897243ad306fced3851cbd",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.224913,
+        "pan": [
+          0.049661,
+          0.063198,
+          -0.095163
+        ],
+        "alphaBounds": {
+          "x": 159,
+          "y": 71,
+          "width": 194,
+          "height": 370,
+          "fill": 0.722656,
+          "centerOffset": {
+            "x": 0,
+            "y": 0,
+            "length": 0
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blocky-characters/kenney-blocky-characters-character-p.webp",
+      "packRelativePath": "previews/kenney-blocky-characters-character-p.webp"
+    },
+    "packId": "kenney-blocky-characters",
+    "publicPath": "assets/kenney-blocky-characters/kenney-blocky-characters-character-p/kenney-blocky-characters-character-p.glb",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blocky-characters-63240e5d0986/kenney-blocky-characters-character-p.glb"
+  },
+  {
+    "id": "kenney-blocky-characters-character-q",
+    "name": "Character Q",
+    "description": "Animated blocky character model (Character Q).",
+    "kind": "model",
+    "format": "glb",
+    "relativePath": "character-q.glb",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blocky-characters/kenney-blocky-characters-character-q/kenney-blocky-characters-character-q.glb",
+    "sourceUrl": "https://kenney.nl/assets/blocky-characters",
+    "primaryBytes": 113596,
+    "totalBytes": 129698,
+    "primarySha256": "9193d03bc9ee1cfb080a1d561522f45806fe0b522b9807ef2b7c451b77547999",
+    "bundleSha256": "fd18efbf8fb70bd452f7a176d7791de031e9c3cc3343d12a79cb587066808ff5",
+    "bounds": {
+      "min": [
+        -0.8,
+        0,
+        -0.4
+      ],
+      "max": [
+        0.8,
+        2.7,
+        0.4
+      ],
+      "size": [
+        1.6,
+        2.7,
+        0.8
+      ],
+      "center": [
+        0,
+        1.35,
+        0
+      ],
+      "diagonal": 3.238827
+    },
+    "triangleCount": 72,
+    "drawCallCount": 6,
+    "renderVertexCount": 216,
+    "uploadVertexCount": 143,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 27,
+    "skinCount": 0,
+    "tags": [
+      "3d",
+      "kenney",
+      "character",
+      "blocky",
+      "avatar",
+      "animated",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy",
+      "npc",
+      "player"
+    ],
+    "aliases": [
+      "blocky person",
+      "blocky avatar"
+    ],
+    "searchTokens": [
+      "animated",
+      "avatar",
+      "avatars",
+      "blocky",
+      "bright",
+      "character",
+      "characters",
+      "colorful",
+      "game",
+      "kenney",
+      "npc",
+      "people",
+      "person",
+      "player",
+      "poly",
+      "stylized",
+      "toy"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/kenney-blocky-characters/kenney-blocky-characters-character-q.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 6290,
+      "sha256": "806b7e08907c3671d84815101bd5fff2779d3ad6452da3bfec03aaa88d5ff5cf",
+      "transparent": true,
+      "sourceBundleSha256": "fd18efbf8fb70bd452f7a176d7791de031e9c3cc3343d12a79cb587066808ff5",
+      "cacheKey": "f98c23b7437aa27ab207c126cc68d9e3d0e690cff34d01500f14ad23e8657a8b",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.224913,
+        "pan": [
+          0.049661,
+          0.063198,
+          -0.095163
+        ],
+        "alphaBounds": {
+          "x": 159,
+          "y": 71,
+          "width": 194,
+          "height": 370,
+          "fill": 0.722656,
+          "centerOffset": {
+            "x": 0,
+            "y": 0,
+            "length": 0
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blocky-characters/kenney-blocky-characters-character-q.webp",
+      "packRelativePath": "previews/kenney-blocky-characters-character-q.webp"
+    },
+    "packId": "kenney-blocky-characters",
+    "publicPath": "assets/kenney-blocky-characters/kenney-blocky-characters-character-q/kenney-blocky-characters-character-q.glb",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blocky-characters-63240e5d0986/kenney-blocky-characters-character-q.glb"
+  },
+  {
+    "id": "kenney-blocky-characters-character-r",
+    "name": "Character R",
+    "description": "Animated blocky character model (Character R).",
+    "kind": "model",
+    "format": "glb",
+    "relativePath": "character-r.glb",
+    "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blocky-characters/kenney-blocky-characters-character-r/kenney-blocky-characters-character-r.glb",
+    "sourceUrl": "https://kenney.nl/assets/blocky-characters",
+    "primaryBytes": 113596,
+    "totalBytes": 127505,
+    "primarySha256": "b880654e0bcf4cfda119750d1ae0842ccfb73ae22f7844ab95015122b746808a",
+    "bundleSha256": "729f5f568aedc5bfca77738a4e7fd9d5ce70cf2089ab512dd174ef5e8b5e9fc1",
+    "bounds": {
+      "min": [
+        -0.8,
+        0,
+        -0.4
+      ],
+      "max": [
+        0.8,
+        2.7,
+        0.4
+      ],
+      "size": [
+        1.6,
+        2.7,
+        0.8
+      ],
+      "center": [
+        0,
+        1.35,
+        0
+      ],
+      "diagonal": 3.238827
+    },
+    "triangleCount": 72,
+    "drawCallCount": 6,
+    "renderVertexCount": 216,
+    "uploadVertexCount": 143,
+    "materialCount": 1,
+    "textureCount": 1,
+    "animationCount": 27,
+    "skinCount": 0,
+    "tags": [
+      "3d",
+      "kenney",
+      "character",
+      "blocky",
+      "avatar",
+      "animated",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy",
+      "npc",
+      "player"
+    ],
+    "aliases": [
+      "blocky person",
+      "blocky avatar"
+    ],
+    "searchTokens": [
+      "animated",
+      "avatar",
+      "avatars",
+      "blocky",
+      "bright",
+      "character",
+      "characters",
+      "colorful",
+      "game",
+      "kenney",
+      "npc",
+      "people",
+      "person",
+      "player",
+      "poly",
+      "stylized",
+      "toy"
+    ],
+    "warningCount": 0,
+    "errorCount": 0,
+    "preview": {
+      "type": "rendered-thumbnail",
+      "relativePath": "previews/kenney-blocky-characters/kenney-blocky-characters-character-r.webp",
+      "width": 512,
+      "height": 512,
+      "format": "webp",
+      "mimeType": "image/webp",
+      "bytes": 5830,
+      "sha256": "4449f1f6383399150b2c69a8104443268bbeae3277cdaeef3982ace73e1a8328",
+      "transparent": true,
+      "sourceBundleSha256": "729f5f568aedc5bfca77738a4e7fd9d5ce70cf2089ab512dd174ef5e8b5e9fc1",
+      "cacheKey": "3f02a2a5753dbea524e57b1faf4e2e157882f9ae83155b246ef82fcbc0b8fd77",
+      "renderer": {
+        "name": "open-assets-gltf-preview",
+        "version": 2,
+        "three": "0.184.0",
+        "playwright": "1.59.1"
+      },
+      "camera": {
+        "preset": "front-top-quarter",
+        "direction": [
+          1.25,
+          0.9,
+          1.25
+        ],
+        "fovDeg": 35,
+        "targetFill": 0.72,
+        "fit": "alpha-bounds",
+        "distance": 6.224913,
+        "pan": [
+          0.049661,
+          0.063198,
+          -0.095163
+        ],
+        "alphaBounds": {
+          "x": 159,
+          "y": 71,
+          "width": 194,
+          "height": 370,
+          "fill": 0.722656,
+          "centerOffset": {
+            "x": 0,
+            "y": 0,
+            "length": 0
+          }
+        }
+      },
+      "sampledAnimation": null,
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blocky-characters/kenney-blocky-characters-character-r.webp",
+      "packRelativePath": "previews/kenney-blocky-characters-character-r.webp"
+    },
+    "packId": "kenney-blocky-characters",
+    "publicPath": "assets/kenney-blocky-characters/kenney-blocky-characters-character-r/kenney-blocky-characters-character-r.glb",
+    "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blocky-characters-63240e5d0986/kenney-blocky-characters-character-r.glb"
+  }
+]

@@ -1,7 +1,7 @@
 {
   "version": 1,
   "token": "strong",
-  "count": 9,
+  "count": 11,
   "assetIds": [
     "kenney-new-platformer-pack-sprites-tiles-block-strong-coin",
     "kenney-new-platformer-pack-sprites-tiles-block-strong-coin-active",
@@ -11,6 +11,8 @@
     "kenney-new-platformer-pack-sprites-tiles-block-strong-empty-active",
     "kenney-new-platformer-pack-sprites-tiles-block-strong-exclamation",
     "kenney-new-platformer-pack-sprites-tiles-block-strong-exclamation-active",
-    "kenney-new-platformer-pack-spritesheets-spritesheet-tiles"
+    "kenney-new-platformer-pack-spritesheets-spritesheet-tiles",
+    "kenney-platformer-kit-crate-item-strong",
+    "kenney-platformer-kit-crate-strong"
   ]
 }

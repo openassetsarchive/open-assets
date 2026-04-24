@@ -1,8 +1,11 @@
 {
   "version": 1,
   "token": "sign",
-  "count": 20,
+  "count": 24,
   "assetIds": [
+    "kenney-city-kit-roads-sign-highway",
+    "kenney-city-kit-roads-sign-highway-detailed",
+    "kenney-city-kit-roads-sign-highway-wide",
     "kenney-new-platformer-pack-sprites-tiles-sign",
     "kenney-new-platformer-pack-sprites-tiles-sign-exit",
     "kenney-new-platformer-pack-sprites-tiles-sign-left",
@@ -19,6 +22,7 @@
     "kenney-platformer-art-deluxe-buildings-expansion-tiles-signhangingbed",
     "kenney-platformer-art-deluxe-buildings-expansion-tiles-signhangingcoin",
     "kenney-platformer-art-deluxe-buildings-expansion-tiles-signhangingcup",
+    "kenney-platformer-kit-sign",
     "quaternius-sushi-restaurant-kit-decoration-gltf-decoration-sign",
     "quaternius-sushi-restaurant-kit-decoration-gltf-decoration-sign-2",
     "quaternius-sushi-restaurant-kit-decoration-gltf-decoration-sign-3",

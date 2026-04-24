@@ -1,8 +1,17 @@
 {
   "version": 1,
   "token": "half",
-  "count": 100,
+  "count": 111,
   "assetIds": [
+    "kenney-city-kit-roads-road-straight-barrier-half",
+    "kenney-city-kit-roads-road-straight-half",
+    "kenney-fantasy-town-kit-planks-half",
+    "kenney-fantasy-town-kit-wall-block-half",
+    "kenney-fantasy-town-kit-wall-corner-diagonal-half",
+    "kenney-fantasy-town-kit-wall-half",
+    "kenney-fantasy-town-kit-wall-wood-block-half",
+    "kenney-fantasy-town-kit-wall-wood-corner-diagonal-half",
+    "kenney-fantasy-town-kit-wall-wood-half",
     "kenney-isometric-miniature-dungeon-angle-stonewallhalf-e",
     "kenney-isometric-miniature-dungeon-angle-stonewallhalf-n",
     "kenney-isometric-miniature-dungeon-angle-stonewallhalf-s",
@@ -102,6 +111,8 @@
     "kenney-platformer-art-deluxe-request-pack-tiles-metalhalf",
     "kenney-platformer-art-deluxe-request-pack-tiles-metalhalfleft",
     "kenney-platformer-art-deluxe-request-pack-tiles-metalhalfmid",
-    "kenney-platformer-art-deluxe-request-pack-tiles-metalhalfright"
+    "kenney-platformer-art-deluxe-request-pack-tiles-metalhalfright",
+    "kenney-platformer-kit-block-grass-curve-half",
+    "kenney-platformer-kit-block-snow-curve-half"
   ]
 }

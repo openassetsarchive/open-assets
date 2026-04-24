@@ -1,0 +1,5962 @@
+{
+  "version": 1,
+  "pack": {
+    "id": "kenney-blaster-kit",
+    "name": "Kenney Blaster Kit",
+    "description": "Bright, toy-like low-poly 3D foam blasters, targets, crates, attachments, projectiles, and throwable props from Kenney.",
+    "creator": "Kenney",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+    "publicBaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64",
+    "tags": [
+      "3d",
+      "kenney",
+      "blaster",
+      "weapon",
+      "target",
+      "low-poly",
+      "stylized",
+      "bright",
+      "colorful",
+      "toy",
+      "arcade"
+    ],
+    "generatedAt": "2026-04-24T09:11:00.880Z",
+    "assetCount": 40,
+    "discoveredCount": 40,
+    "failedCount": 0,
+    "sourceRoot": "/Users/me/dev/open-assets/packs/kenney_blaster-kit_2.1/Models/GLB format"
+  },
+  "assets": [
+    {
+      "id": "kenney-blaster-kit-blaster-a",
+      "name": "Blaster A",
+      "description": "Toy foam blaster model (Blaster A).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "blaster-a.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blaster-kit/kenney-blaster-kit-blaster-a/kenney-blaster-kit-blaster-a.glb",
+      "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+      "primaryBytes": 44992,
+      "totalBytes": 55215,
+      "primarySha256": "d6d6fe0ec5baf21d7717449220799d45b95d2d663ace7b22612b255dc1a8b308",
+      "bundleSha256": "6f71d2c71d8179561d3c4dc4b5ffa187a902a9df79d6380d0f60c1d43aed4659",
+      "bounds": {
+        "min": [
+          -0.0919,
+          -0.302951,
+          -0.37
+        ],
+        "max": [
+          0.0919,
+          0.152951,
+          0.43
+        ],
+        "size": [
+          0.1838,
+          0.455902,
+          0.8
+        ],
+        "center": [
+          0,
+          -0.075,
+          0.03
+        ],
+        "diagonal": 0.938951
+      },
+      "triangleCount": 470,
+      "drawCallCount": 2,
+      "renderVertexCount": 1410,
+      "uploadVertexCount": 820,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "blaster",
+        "weapon",
+        "target",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "arcade",
+        "foam-blaster",
+        "toy-weapon"
+      ],
+      "aliases": [
+        "dart blaster",
+        "toy gun"
+      ],
+      "searchTokens": [
+        "animated",
+        "arcade",
+        "attachments",
+        "blaster",
+        "bright",
+        "clips",
+        "colorful",
+        "crates",
+        "dart",
+        "foam",
+        "grenades",
+        "gun",
+        "kenney",
+        "kit",
+        "poly",
+        "practice",
+        "projectiles",
+        "props",
+        "scopes",
+        "shooter",
+        "silencers",
+        "stylized",
+        "target",
+        "toy",
+        "weapon"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-blaster-kit/kenney-blaster-kit-blaster-a.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 8842,
+        "sha256": "d5c97a9d89285e4749e997b4533ec1d88c9331b1d3cc1e50c3ce28428a87428d",
+        "transparent": true,
+        "sourceBundleSha256": "6f71d2c71d8179561d3c4dc4b5ffa187a902a9df79d6380d0f60c1d43aed4659",
+        "cacheKey": "59a88ffbf00339f0bffbdea01144385f12cbaa7b02c8057ba54a2418d4267e7c",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.509914,
+          "pan": [
+            -0.036868,
+            0.007853,
+            0.031214
+          ],
+          "alphaBounds": {
+            "x": 73,
+            "y": 116,
+            "width": 365,
+            "height": 280,
+            "fill": 0.712891,
+            "centerOffset": {
+              "x": -0.5,
+              "y": 0,
+              "length": 0.5
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blaster-kit/kenney-blaster-kit-blaster-a.webp",
+        "packRelativePath": "previews/kenney-blaster-kit-blaster-a.webp"
+      },
+      "packId": "kenney-blaster-kit",
+      "publicPath": "assets/kenney-blaster-kit/kenney-blaster-kit-blaster-a/kenney-blaster-kit-blaster-a.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64/kenney-blaster-kit-blaster-a.glb"
+    },
+    {
+      "id": "kenney-blaster-kit-blaster-b",
+      "name": "Blaster B",
+      "description": "Toy foam blaster model (Blaster B).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "blaster-b.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blaster-kit/kenney-blaster-kit-blaster-b/kenney-blaster-kit-blaster-b.glb",
+      "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+      "primaryBytes": 34380,
+      "totalBytes": 44603,
+      "primarySha256": "7df4457ed864bc0714fc33059ac56d198304092093b1e78dc407b6c829945a4f",
+      "bundleSha256": "d299aa0b81b8470e5036f2114f10a8409db5410761826a0296756da67fc7f576",
+      "bounds": {
+        "min": [
+          -0.0775,
+          -0.19708,
+          -0.2601
+        ],
+        "max": [
+          0.0775,
+          0.113402,
+          0.16
+        ],
+        "size": [
+          0.155,
+          0.310482,
+          0.4201
+        ],
+        "center": [
+          0,
+          -0.041839,
+          -0.05005
+        ],
+        "diagonal": 0.544893
+      },
+      "triangleCount": 368,
+      "drawCallCount": 1,
+      "renderVertexCount": 1104,
+      "uploadVertexCount": 632,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "blaster",
+        "weapon",
+        "target",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "arcade",
+        "foam-blaster",
+        "toy-weapon"
+      ],
+      "aliases": [
+        "dart blaster",
+        "toy gun"
+      ],
+      "searchTokens": [
+        "animated",
+        "arcade",
+        "attachments",
+        "blaster",
+        "bright",
+        "clips",
+        "colorful",
+        "crates",
+        "dart",
+        "foam",
+        "grenades",
+        "gun",
+        "kenney",
+        "kit",
+        "poly",
+        "practice",
+        "projectiles",
+        "props",
+        "scopes",
+        "shooter",
+        "silencers",
+        "stylized",
+        "target",
+        "toy",
+        "weapon"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-blaster-kit/kenney-blaster-kit-blaster-b.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 10254,
+        "sha256": "386e77b9d2f30305770aa93e0a8b7e1f1b5355ad800759bf0aba85a3346346cd",
+        "transparent": true,
+        "sourceBundleSha256": "d299aa0b81b8470e5036f2114f10a8409db5410761826a0296756da67fc7f576",
+        "cacheKey": "c639754425390f408e38a293774c225de1f5cb392cfe0c5c9ee500c6e3b42f1b",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.829489,
+          "pan": [
+            -0.008202,
+            -0.020729,
+            0.023128
+          ],
+          "alphaBounds": {
+            "x": 76,
+            "y": 73,
+            "width": 360,
+            "height": 367,
+            "fill": 0.716797,
+            "centerOffset": {
+              "x": 0,
+              "y": 0.5,
+              "length": 0.5
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blaster-kit/kenney-blaster-kit-blaster-b.webp",
+        "packRelativePath": "previews/kenney-blaster-kit-blaster-b.webp"
+      },
+      "packId": "kenney-blaster-kit",
+      "publicPath": "assets/kenney-blaster-kit/kenney-blaster-kit-blaster-b/kenney-blaster-kit-blaster-b.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64/kenney-blaster-kit-blaster-b.glb"
+    },
+    {
+      "id": "kenney-blaster-kit-blaster-c",
+      "name": "Blaster C",
+      "description": "Toy foam blaster model (Blaster C).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "blaster-c.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blaster-kit/kenney-blaster-kit-blaster-c/kenney-blaster-kit-blaster-c.glb",
+      "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+      "primaryBytes": 36232,
+      "totalBytes": 46455,
+      "primarySha256": "1c4c53f201597b2845c3d71717e0c465af1c21d8f8c30c0e1b4358dc33133d35",
+      "bundleSha256": "307428d144600918efbe9ddfe15813cd63d7466842dcc739f2613c0eb168e798",
+      "bounds": {
+        "min": [
+          -0.0825,
+          -0.166898,
+          -0.237675
+        ],
+        "max": [
+          0.0825,
+          0.170997,
+          0.237675
+        ],
+        "size": [
+          0.165,
+          0.337895,
+          0.47535
+        ],
+        "center": [
+          0,
+          0.002049,
+          0
+        ],
+        "diagonal": 0.606099
+      },
+      "triangleCount": 388,
+      "drawCallCount": 1,
+      "renderVertexCount": 1164,
+      "uploadVertexCount": 668,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "blaster",
+        "weapon",
+        "target",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "arcade",
+        "foam-blaster",
+        "toy-weapon"
+      ],
+      "aliases": [
+        "dart blaster",
+        "toy gun"
+      ],
+      "searchTokens": [
+        "animated",
+        "arcade",
+        "attachments",
+        "blaster",
+        "bright",
+        "clips",
+        "colorful",
+        "crates",
+        "dart",
+        "foam",
+        "grenades",
+        "gun",
+        "kenney",
+        "kit",
+        "poly",
+        "practice",
+        "projectiles",
+        "props",
+        "scopes",
+        "shooter",
+        "silencers",
+        "stylized",
+        "target",
+        "toy",
+        "weapon"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-blaster-kit/kenney-blaster-kit-blaster-c.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 10784,
+        "sha256": "bf86d9c4fa63d4047f077800ebf9e22b7d1b87da1aa4e7194b56e4ecb8726fa8",
+        "transparent": true,
+        "sourceBundleSha256": "307428d144600918efbe9ddfe15813cd63d7466842dcc739f2613c0eb168e798",
+        "cacheKey": "8ef6c362d82bc8722644b18e853a3f7928894b9326224e6e034453541fddd29b",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.927539,
+          "pan": [
+            -0.013671,
+            -0.022339,
+            0.029755
+          ],
+          "alphaBounds": {
+            "x": 78,
+            "y": 74,
+            "width": 356,
+            "height": 366,
+            "fill": 0.714844,
+            "centerOffset": {
+              "x": 0,
+              "y": 1,
+              "length": 1
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blaster-kit/kenney-blaster-kit-blaster-c.webp",
+        "packRelativePath": "previews/kenney-blaster-kit-blaster-c.webp"
+      },
+      "packId": "kenney-blaster-kit",
+      "publicPath": "assets/kenney-blaster-kit/kenney-blaster-kit-blaster-c/kenney-blaster-kit-blaster-c.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64/kenney-blaster-kit-blaster-c.glb"
+    },
+    {
+      "id": "kenney-blaster-kit-blaster-d",
+      "name": "Blaster D",
+      "description": "Toy foam blaster model (Blaster D).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "blaster-d.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blaster-kit/kenney-blaster-kit-blaster-d/kenney-blaster-kit-blaster-d.glb",
+      "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+      "primaryBytes": 45072,
+      "totalBytes": 55295,
+      "primarySha256": "c05bf6af6cded1bc76e32e455507f5d1a21cd58503ce66de33ca39e597b28280",
+      "bundleSha256": "9745783ca6f47b0134d0cf37b15f7e286502b3cd0dd8289090731257e5b95b4b",
+      "bounds": {
+        "min": [
+          -0.0825,
+          -0.18595,
+          -0.453943
+        ],
+        "max": [
+          0.0825,
+          0.18595,
+          0.453943
+        ],
+        "size": [
+          0.165,
+          0.3719,
+          0.907885
+        ],
+        "center": [
+          0,
+          0,
+          0
+        ],
+        "diagonal": 0.994882
+      },
+      "triangleCount": 486,
+      "drawCallCount": 2,
+      "renderVertexCount": 1458,
+      "uploadVertexCount": 818,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "blaster",
+        "weapon",
+        "target",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "arcade",
+        "foam-blaster",
+        "toy-weapon"
+      ],
+      "aliases": [
+        "dart blaster",
+        "toy gun"
+      ],
+      "searchTokens": [
+        "animated",
+        "arcade",
+        "attachments",
+        "blaster",
+        "bright",
+        "clips",
+        "colorful",
+        "crates",
+        "dart",
+        "foam",
+        "grenades",
+        "gun",
+        "kenney",
+        "kit",
+        "poly",
+        "practice",
+        "projectiles",
+        "props",
+        "scopes",
+        "shooter",
+        "silencers",
+        "stylized",
+        "target",
+        "toy",
+        "weapon"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-blaster-kit/kenney-blaster-kit-blaster-d.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 9028,
+        "sha256": "a2c4809aa14f6a823045fbb26e2043271f1c2b0d683943da4d3a75148fef743f",
+        "transparent": true,
+        "sourceBundleSha256": "9745783ca6f47b0134d0cf37b15f7e286502b3cd0dd8289090731257e5b95b4b",
+        "cacheKey": "c461b4912f93f863656884d4df4c91a3e5449a35f0fb6eddcb9f87d25bccd1a6",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.618632,
+          "pan": [
+            -0.045519,
+            0.00107,
+            0.044749
+          ],
+          "alphaBounds": {
+            "x": 76,
+            "y": 130,
+            "width": 361,
+            "height": 252,
+            "fill": 0.705078,
+            "centerOffset": {
+              "x": 0.5,
+              "y": 0,
+              "length": 0.5
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blaster-kit/kenney-blaster-kit-blaster-d.webp",
+        "packRelativePath": "previews/kenney-blaster-kit-blaster-d.webp"
+      },
+      "packId": "kenney-blaster-kit",
+      "publicPath": "assets/kenney-blaster-kit/kenney-blaster-kit-blaster-d/kenney-blaster-kit-blaster-d.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64/kenney-blaster-kit-blaster-d.glb"
+    },
+    {
+      "id": "kenney-blaster-kit-blaster-e",
+      "name": "Blaster E",
+      "description": "Toy foam blaster model (Blaster E).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "blaster-e.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blaster-kit/kenney-blaster-kit-blaster-e/kenney-blaster-kit-blaster-e.glb",
+      "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+      "primaryBytes": 75444,
+      "totalBytes": 85667,
+      "primarySha256": "df3e35c9286d7bfe8bde2ff7231ef40ff89b1e7caa52fbf80ea685cb601de3ca",
+      "bundleSha256": "67b8cd2775eddb2e097457ba5e5e075d0d40f98b7b253708350cf3877148e957",
+      "bounds": {
+        "min": [
+          -0.1282,
+          -0.215,
+          0
+        ],
+        "max": [
+          0.0382,
+          0.19,
+          1.39
+        ],
+        "size": [
+          0.1664,
+          0.405,
+          1.39
+        ],
+        "center": [
+          -0.045,
+          -0.0125,
+          0.695
+        ],
+        "diagonal": 1.457331
+      },
+      "triangleCount": 802,
+      "drawCallCount": 3,
+      "renderVertexCount": 2406,
+      "uploadVertexCount": 1386,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "blaster",
+        "weapon",
+        "target",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "arcade",
+        "foam-blaster",
+        "toy-weapon"
+      ],
+      "aliases": [
+        "dart blaster",
+        "toy gun"
+      ],
+      "searchTokens": [
+        "animated",
+        "arcade",
+        "attachments",
+        "blaster",
+        "bright",
+        "clips",
+        "colorful",
+        "crates",
+        "dart",
+        "foam",
+        "grenades",
+        "gun",
+        "kenney",
+        "kit",
+        "poly",
+        "practice",
+        "projectiles",
+        "props",
+        "scopes",
+        "shooter",
+        "silencers",
+        "stylized",
+        "target",
+        "toy",
+        "weapon"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-blaster-kit/kenney-blaster-kit-blaster-e.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 9386,
+        "sha256": "43d648edb204f794a6f894d0d28c3df1e7ba4949b6e7727cc8f9cd27cb021a5b",
+        "transparent": true,
+        "sourceBundleSha256": "67b8cd2775eddb2e097457ba5e5e075d0d40f98b7b253708350cf3877148e957",
+        "cacheKey": "7f217113d5bd28c801c9f77cef86323898adad0be9448022324a231a82dbd80b",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 2.365165,
+          "pan": [
+            -0.047011,
+            -0.046981,
+            0.080838
+          ],
+          "alphaBounds": {
+            "x": 75,
+            "y": 153,
+            "width": 363,
+            "height": 206,
+            "fill": 0.708984,
+            "centerOffset": {
+              "x": 0.5,
+              "y": 0,
+              "length": 0.5
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blaster-kit/kenney-blaster-kit-blaster-e.webp",
+        "packRelativePath": "previews/kenney-blaster-kit-blaster-e.webp"
+      },
+      "packId": "kenney-blaster-kit",
+      "publicPath": "assets/kenney-blaster-kit/kenney-blaster-kit-blaster-e/kenney-blaster-kit-blaster-e.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64/kenney-blaster-kit-blaster-e.glb"
+    },
+    {
+      "id": "kenney-blaster-kit-blaster-f",
+      "name": "Blaster F",
+      "description": "Toy foam blaster model (Blaster F).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "blaster-f.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blaster-kit/kenney-blaster-kit-blaster-f/kenney-blaster-kit-blaster-f.glb",
+      "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+      "primaryBytes": 72460,
+      "totalBytes": 82683,
+      "primarySha256": "ea389c88b7d90ede2763e1f2b5834b9fbaaaa56b8a51ebdf21f61ec46d716320",
+      "bundleSha256": "31933d51c084498fcc4df5ac84c0d3f03f9f8b504e0581bfeaf8fc251d3193ea",
+      "bounds": {
+        "min": [
+          -0.085,
+          -0.2225,
+          -0.655
+        ],
+        "max": [
+          0.085,
+          0.2225,
+          0.655
+        ],
+        "size": [
+          0.17,
+          0.445,
+          1.31
+        ],
+        "center": [
+          0,
+          0,
+          0
+        ],
+        "diagonal": 1.393924
+      },
+      "triangleCount": 768,
+      "drawCallCount": 3,
+      "renderVertexCount": 2304,
+      "uploadVertexCount": 1328,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "blaster",
+        "weapon",
+        "target",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "arcade",
+        "foam-blaster",
+        "toy-weapon"
+      ],
+      "aliases": [
+        "dart blaster",
+        "toy gun"
+      ],
+      "searchTokens": [
+        "animated",
+        "arcade",
+        "attachments",
+        "blaster",
+        "bright",
+        "clips",
+        "colorful",
+        "crates",
+        "dart",
+        "foam",
+        "grenades",
+        "gun",
+        "kenney",
+        "kit",
+        "poly",
+        "practice",
+        "projectiles",
+        "props",
+        "scopes",
+        "shooter",
+        "silencers",
+        "stylized",
+        "target",
+        "toy",
+        "weapon"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-blaster-kit/kenney-blaster-kit-blaster-f.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 8096,
+        "sha256": "a27cb61eb1459f7ac807df5076d40b8802e763409752630d71caa4d958a24566",
+        "transparent": true,
+        "sourceBundleSha256": "31933d51c084498fcc4df5ac84c0d3f03f9f8b504e0581bfeaf8fc251d3193ea",
+        "cacheKey": "2e65c949799f636fdf9b034449bc53d0e3ce953f5d356b788f398a2e2df36341",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 2.236648,
+          "pan": [
+            -0.046742,
+            -0.032906,
+            0.070434
+          ],
+          "alphaBounds": {
+            "x": 74,
+            "y": 153,
+            "width": 364,
+            "height": 206,
+            "fill": 0.710938,
+            "centerOffset": {
+              "x": 0,
+              "y": 0,
+              "length": 0
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blaster-kit/kenney-blaster-kit-blaster-f.webp",
+        "packRelativePath": "previews/kenney-blaster-kit-blaster-f.webp"
+      },
+      "packId": "kenney-blaster-kit",
+      "publicPath": "assets/kenney-blaster-kit/kenney-blaster-kit-blaster-f/kenney-blaster-kit-blaster-f.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64/kenney-blaster-kit-blaster-f.glb"
+    },
+    {
+      "id": "kenney-blaster-kit-blaster-g",
+      "name": "Blaster G",
+      "description": "Toy foam blaster model (Blaster G).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "blaster-g.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blaster-kit/kenney-blaster-kit-blaster-g/kenney-blaster-kit-blaster-g.glb",
+      "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+      "primaryBytes": 56240,
+      "totalBytes": 66463,
+      "primarySha256": "1798d7ff656116d04df516dffceceea3be174598a384a48d632b0ef1adf204cd",
+      "bundleSha256": "f2b5c6580b583e8f21ccfcea7d01b1433c458ba800e9ded31abef70e9a92216f",
+      "bounds": {
+        "min": [
+          -0.1,
+          -0.178948,
+          -0.34811
+        ],
+        "max": [
+          0.1,
+          0.178948,
+          0.43776
+        ],
+        "size": [
+          0.2,
+          0.357895,
+          0.78587
+        ],
+        "center": [
+          0,
+          0,
+          0.044825
+        ],
+        "diagonal": 0.886386
+      },
+      "triangleCount": 618,
+      "drawCallCount": 1,
+      "renderVertexCount": 1854,
+      "uploadVertexCount": 1056,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "blaster",
+        "weapon",
+        "target",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "arcade",
+        "foam-blaster",
+        "toy-weapon"
+      ],
+      "aliases": [
+        "dart blaster",
+        "toy gun"
+      ],
+      "searchTokens": [
+        "animated",
+        "arcade",
+        "attachments",
+        "blaster",
+        "bright",
+        "clips",
+        "colorful",
+        "crates",
+        "dart",
+        "foam",
+        "grenades",
+        "gun",
+        "kenney",
+        "kit",
+        "poly",
+        "practice",
+        "projectiles",
+        "props",
+        "scopes",
+        "shooter",
+        "silencers",
+        "stylized",
+        "target",
+        "toy",
+        "weapon"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-blaster-kit/kenney-blaster-kit-blaster-g.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 10416,
+        "sha256": "bc0964808042b880c1f654fc0b1a2d50816d39a4a9dd6ed4a0ddd07121f81c93",
+        "transparent": true,
+        "sourceBundleSha256": "f2b5c6580b583e8f21ccfcea7d01b1433c458ba800e9ded31abef70e9a92216f",
+        "cacheKey": "944cc26cee97274c44156f9074bd0c6a16f42547146078a2ed0be435bd519847",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.478681,
+          "pan": [
+            -0.02133,
+            -0.017095,
+            0.033638
+          ],
+          "alphaBounds": {
+            "x": 73,
+            "y": 121,
+            "width": 366,
+            "height": 270,
+            "fill": 0.714844,
+            "centerOffset": {
+              "x": 0,
+              "y": 0,
+              "length": 0
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blaster-kit/kenney-blaster-kit-blaster-g.webp",
+        "packRelativePath": "previews/kenney-blaster-kit-blaster-g.webp"
+      },
+      "packId": "kenney-blaster-kit",
+      "publicPath": "assets/kenney-blaster-kit/kenney-blaster-kit-blaster-g/kenney-blaster-kit-blaster-g.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64/kenney-blaster-kit-blaster-g.glb"
+    },
+    {
+      "id": "kenney-blaster-kit-blaster-h",
+      "name": "Blaster H",
+      "description": "Toy foam blaster model (Blaster H).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "blaster-h.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blaster-kit/kenney-blaster-kit-blaster-h/kenney-blaster-kit-blaster-h.glb",
+      "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+      "primaryBytes": 28380,
+      "totalBytes": 38603,
+      "primarySha256": "f124a4ffd990a248e801aa451ab7ec4abde71a18c121b571f9bb52206609b36b",
+      "bundleSha256": "98abd3d752514689d263358a92788876af08f90cc2eb7d0d718be1c19ad80078",
+      "bounds": {
+        "min": [
+          -0.0825,
+          -0.137253,
+          -0.324
+        ],
+        "max": [
+          0.0825,
+          0.137253,
+          0.324
+        ],
+        "size": [
+          0.165,
+          0.274506,
+          0.648
+        ],
+        "center": [
+          0,
+          0,
+          0
+        ],
+        "diagonal": 0.722829
+      },
+      "triangleCount": 296,
+      "drawCallCount": 1,
+      "renderVertexCount": 888,
+      "uploadVertexCount": 516,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "blaster",
+        "weapon",
+        "target",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "arcade",
+        "foam-blaster",
+        "toy-weapon"
+      ],
+      "aliases": [
+        "dart blaster",
+        "toy gun"
+      ],
+      "searchTokens": [
+        "animated",
+        "arcade",
+        "attachments",
+        "blaster",
+        "bright",
+        "clips",
+        "colorful",
+        "crates",
+        "dart",
+        "foam",
+        "grenades",
+        "gun",
+        "kenney",
+        "kit",
+        "poly",
+        "practice",
+        "projectiles",
+        "props",
+        "scopes",
+        "shooter",
+        "silencers",
+        "stylized",
+        "target",
+        "toy",
+        "weapon"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-blaster-kit/kenney-blaster-kit-blaster-h.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 9030,
+        "sha256": "3210cfd7a19fd14ee7bfc0ce936e3cacd9e4648bb5ebeae9561ecb152d534cb2",
+        "transparent": true,
+        "sourceBundleSha256": "98abd3d752514689d263358a92788876af08f90cc2eb7d0d718be1c19ad80078",
+        "cacheKey": "df0d9872ce332d9c6c00742e6b49c014e6a5c3ae619f01153ad598c62602e612",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.200452,
+          "pan": [
+            -0.01456,
+            -0.026997,
+            0.033998
+          ],
+          "alphaBounds": {
+            "x": 74,
+            "y": 118,
+            "width": 364,
+            "height": 277,
+            "fill": 0.710938,
+            "centerOffset": {
+              "x": 0,
+              "y": 0.5,
+              "length": 0.5
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blaster-kit/kenney-blaster-kit-blaster-h.webp",
+        "packRelativePath": "previews/kenney-blaster-kit-blaster-h.webp"
+      },
+      "packId": "kenney-blaster-kit",
+      "publicPath": "assets/kenney-blaster-kit/kenney-blaster-kit-blaster-h/kenney-blaster-kit-blaster-h.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64/kenney-blaster-kit-blaster-h.glb"
+    },
+    {
+      "id": "kenney-blaster-kit-blaster-i",
+      "name": "Blaster I",
+      "description": "Toy foam blaster model (Blaster I).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "blaster-i.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blaster-kit/kenney-blaster-kit-blaster-i/kenney-blaster-kit-blaster-i.glb",
+      "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+      "primaryBytes": 38604,
+      "totalBytes": 48827,
+      "primarySha256": "d78880a941fed7785df22c5846f553b7b7560a7b9f307d2993892b0103f7d514",
+      "bundleSha256": "54b1251b6b3f8b26a514cca1242c0ba85ac57c4d92b4ad2d0735fb663e848f82",
+      "bounds": {
+        "min": [
+          -0.0825,
+          -0.16,
+          -0.26
+        ],
+        "max": [
+          0.0825,
+          0.16,
+          0.26
+        ],
+        "size": [
+          0.165,
+          0.32,
+          0.52
+        ],
+        "center": [
+          0,
+          0,
+          0
+        ],
+        "diagonal": 0.632475
+      },
+      "triangleCount": 416,
+      "drawCallCount": 1,
+      "renderVertexCount": 1248,
+      "uploadVertexCount": 714,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "blaster",
+        "weapon",
+        "target",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "arcade",
+        "foam-blaster",
+        "toy-weapon"
+      ],
+      "aliases": [
+        "dart blaster",
+        "toy gun"
+      ],
+      "searchTokens": [
+        "animated",
+        "arcade",
+        "attachments",
+        "blaster",
+        "bright",
+        "clips",
+        "colorful",
+        "crates",
+        "dart",
+        "foam",
+        "grenades",
+        "gun",
+        "kenney",
+        "kit",
+        "poly",
+        "practice",
+        "projectiles",
+        "props",
+        "scopes",
+        "shooter",
+        "silencers",
+        "stylized",
+        "target",
+        "toy",
+        "weapon"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-blaster-kit/kenney-blaster-kit-blaster-i.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 8746,
+        "sha256": "da52f41a6a80ead9e02cdf33b18789b02f0b57715e28569164d5d58c3e899b6a",
+        "transparent": true,
+        "sourceBundleSha256": "54b1251b6b3f8b26a514cca1242c0ba85ac57c4d92b4ad2d0735fb663e848f82",
+        "cacheKey": "9ce95167eb90130826df746a1f8a64ec2e988d5a9f481acae3767f86432c098b",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.05392,
+          "pan": [
+            -0.028322,
+            0.022189,
+            0.012346
+          ],
+          "alphaBounds": {
+            "x": 74,
+            "y": 120,
+            "width": 364,
+            "height": 272,
+            "fill": 0.710938,
+            "centerOffset": {
+              "x": 0,
+              "y": 0,
+              "length": 0
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blaster-kit/kenney-blaster-kit-blaster-i.webp",
+        "packRelativePath": "previews/kenney-blaster-kit-blaster-i.webp"
+      },
+      "packId": "kenney-blaster-kit",
+      "publicPath": "assets/kenney-blaster-kit/kenney-blaster-kit-blaster-i/kenney-blaster-kit-blaster-i.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64/kenney-blaster-kit-blaster-i.glb"
+    },
+    {
+      "id": "kenney-blaster-kit-blaster-j",
+      "name": "Blaster J",
+      "description": "Toy foam blaster model (Blaster J).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "blaster-j.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blaster-kit/kenney-blaster-kit-blaster-j/kenney-blaster-kit-blaster-j.glb",
+      "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+      "primaryBytes": 50632,
+      "totalBytes": 60855,
+      "primarySha256": "d0d077820b8b840e0f41947dcb4d05960d94ede7431ae3c5e137847771a2f6a1",
+      "bundleSha256": "234cd5cc1fd94e54e8df5f3a5f8dffd96c10b09d7cdb007d651313a925512c08",
+      "bounds": {
+        "min": [
+          -0.0775,
+          -0.177951,
+          -0.305
+        ],
+        "max": [
+          0.0775,
+          0.183949,
+          0.305
+        ],
+        "size": [
+          0.155,
+          0.3619,
+          0.61
+        ],
+        "center": [
+          0,
+          0.002999,
+          0
+        ],
+        "diagonal": 0.726014
+      },
+      "triangleCount": 548,
+      "drawCallCount": 2,
+      "renderVertexCount": 1644,
+      "uploadVertexCount": 926,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "blaster",
+        "weapon",
+        "target",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "arcade",
+        "foam-blaster",
+        "toy-weapon"
+      ],
+      "aliases": [
+        "dart blaster",
+        "toy gun"
+      ],
+      "searchTokens": [
+        "animated",
+        "arcade",
+        "attachments",
+        "blaster",
+        "bright",
+        "clips",
+        "colorful",
+        "crates",
+        "dart",
+        "foam",
+        "grenades",
+        "gun",
+        "kenney",
+        "kit",
+        "poly",
+        "practice",
+        "projectiles",
+        "props",
+        "scopes",
+        "shooter",
+        "silencers",
+        "stylized",
+        "target",
+        "toy",
+        "weapon"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-blaster-kit/kenney-blaster-kit-blaster-j.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 9888,
+        "sha256": "7cf4bb21f992f912112b436da45a18c2e6888faac163e1776dd34ea05bf06404",
+        "transparent": true,
+        "sourceBundleSha256": "234cd5cc1fd94e54e8df5f3a5f8dffd96c10b09d7cdb007d651313a925512c08",
+        "cacheKey": "4a2e48ddafd1b3767780c8f3cce586b8bd5e1ca068d9bfbdb1f6886d3f28431d",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.215075,
+          "pan": [
+            -0.028017,
+            0.003583,
+            0.025437
+          ],
+          "alphaBounds": {
+            "x": 74,
+            "y": 115,
+            "width": 364,
+            "height": 284,
+            "fill": 0.710938,
+            "centerOffset": {
+              "x": 0,
+              "y": 1,
+              "length": 1
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blaster-kit/kenney-blaster-kit-blaster-j.webp",
+        "packRelativePath": "previews/kenney-blaster-kit-blaster-j.webp"
+      },
+      "packId": "kenney-blaster-kit",
+      "publicPath": "assets/kenney-blaster-kit/kenney-blaster-kit-blaster-j/kenney-blaster-kit-blaster-j.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64/kenney-blaster-kit-blaster-j.glb"
+    },
+    {
+      "id": "kenney-blaster-kit-blaster-k",
+      "name": "Blaster K",
+      "description": "Toy foam blaster model (Blaster K).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "blaster-k.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blaster-kit/kenney-blaster-kit-blaster-k/kenney-blaster-kit-blaster-k.glb",
+      "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+      "primaryBytes": 35676,
+      "totalBytes": 45899,
+      "primarySha256": "f8df17fe6377c6cff52c8ce59d10a5a182f5ba7de4ff291843f3238698471036",
+      "bundleSha256": "63e639590a2f891eed5020b77c98688095b12110e157ba260ad07160c3f6ff98",
+      "bounds": {
+        "min": [
+          -0.0775,
+          -0.166898,
+          -0.230175
+        ],
+        "max": [
+          0.0775,
+          0.166898,
+          0.230175
+        ],
+        "size": [
+          0.155,
+          0.333797,
+          0.46035
+        ],
+        "center": [
+          0,
+          0,
+          0
+        ],
+        "diagonal": 0.589379
+      },
+      "triangleCount": 392,
+      "drawCallCount": 1,
+      "renderVertexCount": 1176,
+      "uploadVertexCount": 656,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "blaster",
+        "weapon",
+        "target",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "arcade",
+        "foam-blaster",
+        "toy-weapon"
+      ],
+      "aliases": [
+        "dart blaster",
+        "toy gun"
+      ],
+      "searchTokens": [
+        "animated",
+        "arcade",
+        "attachments",
+        "blaster",
+        "bright",
+        "clips",
+        "colorful",
+        "crates",
+        "dart",
+        "foam",
+        "grenades",
+        "gun",
+        "kenney",
+        "kit",
+        "poly",
+        "practice",
+        "projectiles",
+        "props",
+        "scopes",
+        "shooter",
+        "silencers",
+        "stylized",
+        "target",
+        "toy",
+        "weapon"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-blaster-kit/kenney-blaster-kit-blaster-k.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 11732,
+        "sha256": "0426a684d347fa9c910e28a47e527b36577ec7a5f6b7d66f1b42176fe93141e9",
+        "transparent": true,
+        "sourceBundleSha256": "63e639590a2f891eed5020b77c98688095b12110e157ba260ad07160c3f6ff98",
+        "cacheKey": "db68a7d8dd910d1fc8fb399d30f0d6df7e57f15c7367434b41413c16027b0d1a",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.890249,
+          "pan": [
+            -0.010388,
+            -0.024443,
+            0.027987
+          ],
+          "alphaBounds": {
+            "x": 76,
+            "y": 71,
+            "width": 359,
+            "height": 370,
+            "fill": 0.722656,
+            "centerOffset": {
+              "x": -0.5,
+              "y": 0,
+              "length": 0.5
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blaster-kit/kenney-blaster-kit-blaster-k.webp",
+        "packRelativePath": "previews/kenney-blaster-kit-blaster-k.webp"
+      },
+      "packId": "kenney-blaster-kit",
+      "publicPath": "assets/kenney-blaster-kit/kenney-blaster-kit-blaster-k/kenney-blaster-kit-blaster-k.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64/kenney-blaster-kit-blaster-k.glb"
+    },
+    {
+      "id": "kenney-blaster-kit-blaster-l",
+      "name": "Blaster L",
+      "description": "Toy foam blaster model (Blaster L).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "blaster-l.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blaster-kit/kenney-blaster-kit-blaster-l/kenney-blaster-kit-blaster-l.glb",
+      "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+      "primaryBytes": 41848,
+      "totalBytes": 52071,
+      "primarySha256": "2739ae04bcb1e396b599cbf4af774df73b7708512bde2a054b2918d1161f16df",
+      "bundleSha256": "29c491982bcf22b9f9085c671b6f1cb874b4d80f0d32cfcebd6cf4bb3dd98b7e",
+      "bounds": {
+        "min": [
+          -0.1219,
+          -0.163948,
+          -0.275175
+        ],
+        "max": [
+          0.1219,
+          0.163948,
+          0.275175
+        ],
+        "size": [
+          0.2438,
+          0.327895,
+          0.55035
+        ],
+        "center": [
+          0,
+          0,
+          0
+        ],
+        "diagonal": 0.685448
+      },
+      "triangleCount": 450,
+      "drawCallCount": 1,
+      "renderVertexCount": 1350,
+      "uploadVertexCount": 778,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "blaster",
+        "weapon",
+        "target",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "arcade",
+        "foam-blaster",
+        "toy-weapon"
+      ],
+      "aliases": [
+        "dart blaster",
+        "toy gun"
+      ],
+      "searchTokens": [
+        "animated",
+        "arcade",
+        "attachments",
+        "blaster",
+        "bright",
+        "clips",
+        "colorful",
+        "crates",
+        "dart",
+        "foam",
+        "grenades",
+        "gun",
+        "kenney",
+        "kit",
+        "poly",
+        "practice",
+        "projectiles",
+        "props",
+        "scopes",
+        "shooter",
+        "silencers",
+        "stylized",
+        "target",
+        "toy",
+        "weapon"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-blaster-kit/kenney-blaster-kit-blaster-l.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 8740,
+        "sha256": "b36fa7e46cd63d657b94f1da4cdd871320af1454f4193c7cb3d41230b9f0e361",
+        "transparent": true,
+        "sourceBundleSha256": "29c491982bcf22b9f9085c671b6f1cb874b4d80f0d32cfcebd6cf4bb3dd98b7e",
+        "cacheKey": "d071a4a3c3256f9c60dfb300782d838e43ff8a95e30dcfc15d0aaf0e86520326",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.178204,
+          "pan": [
+            0.00819,
+            -0.02845,
+            0.012294
+          ],
+          "alphaBounds": {
+            "x": 73,
+            "y": 112,
+            "width": 365,
+            "height": 289,
+            "fill": 0.712891,
+            "centerOffset": {
+              "x": -0.5,
+              "y": 0.5,
+              "length": 0.707107
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blaster-kit/kenney-blaster-kit-blaster-l.webp",
+        "packRelativePath": "previews/kenney-blaster-kit-blaster-l.webp"
+      },
+      "packId": "kenney-blaster-kit",
+      "publicPath": "assets/kenney-blaster-kit/kenney-blaster-kit-blaster-l/kenney-blaster-kit-blaster-l.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64/kenney-blaster-kit-blaster-l.glb"
+    },
+    {
+      "id": "kenney-blaster-kit-blaster-m",
+      "name": "Blaster M",
+      "description": "Toy foam blaster model (Blaster M).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "blaster-m.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blaster-kit/kenney-blaster-kit-blaster-m/kenney-blaster-kit-blaster-m.glb",
+      "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+      "primaryBytes": 41532,
+      "totalBytes": 51755,
+      "primarySha256": "ff3f1196f2e9acabbdc44143dc3b93f79f4c5e8176e54514479bd2b788477c80",
+      "bundleSha256": "951747d29f8860711a01995473b1704715381f24ba43194093657c43a0bb7bb4",
+      "bounds": {
+        "min": [
+          -0.0825,
+          -0.168722,
+          -0.31005
+        ],
+        "max": [
+          0.0825,
+          0.168722,
+          0.31005
+        ],
+        "size": [
+          0.165,
+          0.337443,
+          0.6201
+        ],
+        "center": [
+          0,
+          0,
+          0
+        ],
+        "diagonal": 0.724994
+      },
+      "triangleCount": 440,
+      "drawCallCount": 1,
+      "renderVertexCount": 1320,
+      "uploadVertexCount": 772,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "blaster",
+        "weapon",
+        "target",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "arcade",
+        "foam-blaster",
+        "toy-weapon"
+      ],
+      "aliases": [
+        "dart blaster",
+        "toy gun"
+      ],
+      "searchTokens": [
+        "animated",
+        "arcade",
+        "attachments",
+        "blaster",
+        "bright",
+        "clips",
+        "colorful",
+        "crates",
+        "dart",
+        "foam",
+        "grenades",
+        "gun",
+        "kenney",
+        "kit",
+        "poly",
+        "practice",
+        "projectiles",
+        "props",
+        "scopes",
+        "shooter",
+        "silencers",
+        "stylized",
+        "target",
+        "toy",
+        "weapon"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-blaster-kit/kenney-blaster-kit-blaster-m.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 10160,
+        "sha256": "d7cda63668889d9a9f7401391e9cdc126e6738d7b1b6fd6de2da786d040d4ff0",
+        "transparent": true,
+        "sourceBundleSha256": "951747d29f8860711a01995473b1704715381f24ba43194093657c43a0bb7bb4",
+        "cacheKey": "d27b87532135dd6ba0b0da68123b433a23c214fe93be774ae3e36544a557325f",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.159569,
+          "pan": [
+            -0.020447,
+            -0.009831,
+            0.027525
+          ],
+          "alphaBounds": {
+            "x": 74,
+            "y": 94,
+            "width": 365,
+            "height": 324,
+            "fill": 0.712891,
+            "centerOffset": {
+              "x": 0.5,
+              "y": 0,
+              "length": 0.5
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blaster-kit/kenney-blaster-kit-blaster-m.webp",
+        "packRelativePath": "previews/kenney-blaster-kit-blaster-m.webp"
+      },
+      "packId": "kenney-blaster-kit",
+      "publicPath": "assets/kenney-blaster-kit/kenney-blaster-kit-blaster-m/kenney-blaster-kit-blaster-m.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64/kenney-blaster-kit-blaster-m.glb"
+    },
+    {
+      "id": "kenney-blaster-kit-blaster-n",
+      "name": "Blaster N",
+      "description": "Toy foam blaster model (Blaster N).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "blaster-n.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blaster-kit/kenney-blaster-kit-blaster-n/kenney-blaster-kit-blaster-n.glb",
+      "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+      "primaryBytes": 38376,
+      "totalBytes": 48599,
+      "primarySha256": "e3faa048f8a90fe57fe838a7f86609bd91815358a1ac3a8dd26432f8010590f6",
+      "bundleSha256": "72e7c4d653435f3c21d2417ff52921c25c8e5095dcb4c6b005ad4e998ddb68e6",
+      "bounds": {
+        "min": [
+          -0.085,
+          -0.165,
+          -0.32005
+        ],
+        "max": [
+          0.085,
+          0.165,
+          0.32005
+        ],
+        "size": [
+          0.17,
+          0.33,
+          0.6401
+        ],
+        "center": [
+          0,
+          0,
+          0
+        ],
+        "diagonal": 0.739951
+      },
+      "triangleCount": 410,
+      "drawCallCount": 1,
+      "renderVertexCount": 1230,
+      "uploadVertexCount": 710,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "blaster",
+        "weapon",
+        "target",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "arcade",
+        "foam-blaster",
+        "toy-weapon"
+      ],
+      "aliases": [
+        "dart blaster",
+        "toy gun"
+      ],
+      "searchTokens": [
+        "animated",
+        "arcade",
+        "attachments",
+        "blaster",
+        "bright",
+        "clips",
+        "colorful",
+        "crates",
+        "dart",
+        "foam",
+        "grenades",
+        "gun",
+        "kenney",
+        "kit",
+        "poly",
+        "practice",
+        "projectiles",
+        "props",
+        "scopes",
+        "shooter",
+        "silencers",
+        "stylized",
+        "target",
+        "toy",
+        "weapon"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-blaster-kit/kenney-blaster-kit-blaster-n.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 8760,
+        "sha256": "4f9242d494cec27840dc1fc507d5a01d46bdcc1cab0f73bb987d1c711b3157bf",
+        "transparent": true,
+        "sourceBundleSha256": "72e7c4d653435f3c21d2417ff52921c25c8e5095dcb4c6b005ad4e998ddb68e6",
+        "cacheKey": "e09f91626827978f35e67aa63333b749b0dec7aebf7db21d066673d86aabadb9",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.226707,
+          "pan": [
+            -0.017819,
+            -0.00285,
+            0.019871
+          ],
+          "alphaBounds": {
+            "x": 73,
+            "y": 121,
+            "width": 366,
+            "height": 270,
+            "fill": 0.714844,
+            "centerOffset": {
+              "x": 0,
+              "y": 0,
+              "length": 0
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blaster-kit/kenney-blaster-kit-blaster-n.webp",
+        "packRelativePath": "previews/kenney-blaster-kit-blaster-n.webp"
+      },
+      "packId": "kenney-blaster-kit",
+      "publicPath": "assets/kenney-blaster-kit/kenney-blaster-kit-blaster-n/kenney-blaster-kit-blaster-n.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64/kenney-blaster-kit-blaster-n.glb"
+    },
+    {
+      "id": "kenney-blaster-kit-blaster-o",
+      "name": "Blaster O",
+      "description": "Toy foam blaster model (Blaster O).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "blaster-o.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blaster-kit/kenney-blaster-kit-blaster-o/kenney-blaster-kit-blaster-o.glb",
+      "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+      "primaryBytes": 59396,
+      "totalBytes": 69619,
+      "primarySha256": "52da12866542e6d9948af535e8070f5cc924783ffefa32222762ee17e2bb7e98",
+      "bundleSha256": "a7df289a79ca14b0e8f33ab8efda66b9cbad3f721d1e8eb35d93cf261dd24e2e",
+      "bounds": {
+        "min": [
+          -0.1225,
+          -0.152895,
+          -0.195
+        ],
+        "max": [
+          0.1225,
+          0.180902,
+          0.285
+        ],
+        "size": [
+          0.245,
+          0.333797,
+          0.48
+        ],
+        "center": [
+          0,
+          0.014003,
+          0.045
+        ],
+        "diagonal": 0.633913
+      },
+      "triangleCount": 664,
+      "drawCallCount": 1,
+      "renderVertexCount": 1992,
+      "uploadVertexCount": 1116,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "blaster",
+        "weapon",
+        "target",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "arcade",
+        "foam-blaster",
+        "toy-weapon"
+      ],
+      "aliases": [
+        "dart blaster",
+        "toy gun"
+      ],
+      "searchTokens": [
+        "animated",
+        "arcade",
+        "attachments",
+        "blaster",
+        "bright",
+        "clips",
+        "colorful",
+        "crates",
+        "dart",
+        "foam",
+        "grenades",
+        "gun",
+        "kenney",
+        "kit",
+        "poly",
+        "practice",
+        "projectiles",
+        "props",
+        "scopes",
+        "shooter",
+        "silencers",
+        "stylized",
+        "target",
+        "toy",
+        "weapon"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-blaster-kit/kenney-blaster-kit-blaster-o.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 9652,
+        "sha256": "b5038435610a258adce0f0dbd84abfd9d9aae113a58bdbafda767f96a864fc80",
+        "transparent": true,
+        "sourceBundleSha256": "a7df289a79ca14b0e8f33ab8efda66b9cbad3f721d1e8eb35d93cf261dd24e2e",
+        "cacheKey": "985bcb79e257ea06fef8a8f6d303f7a7e1c60cb745c66d3b0a87bb6aae7ab84c",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.027597,
+          "pan": [
+            -0.009318,
+            -0.003948,
+            0.01216
+          ],
+          "alphaBounds": {
+            "x": 72,
+            "y": 105,
+            "width": 369,
+            "height": 302,
+            "fill": 0.720703,
+            "centerOffset": {
+              "x": 0.5,
+              "y": 0,
+              "length": 0.5
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blaster-kit/kenney-blaster-kit-blaster-o.webp",
+        "packRelativePath": "previews/kenney-blaster-kit-blaster-o.webp"
+      },
+      "packId": "kenney-blaster-kit",
+      "publicPath": "assets/kenney-blaster-kit/kenney-blaster-kit-blaster-o/kenney-blaster-kit-blaster-o.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64/kenney-blaster-kit-blaster-o.glb"
+    },
+    {
+      "id": "kenney-blaster-kit-blaster-p",
+      "name": "Blaster P",
+      "description": "Toy foam blaster model (Blaster P).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "blaster-p.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blaster-kit/kenney-blaster-kit-blaster-p/kenney-blaster-kit-blaster-p.glb",
+      "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+      "primaryBytes": 80460,
+      "totalBytes": 90683,
+      "primarySha256": "2ffc94c6d8f12d45410012b13169988b70929c7e6ae7d4f868a188265210e49a",
+      "bundleSha256": "15cc2b9836ec1a3663e602819d17a57c382d7b9ba7883531dd89874e18391f10",
+      "bounds": {
+        "min": [
+          -0.08,
+          -0.185451,
+          -0.43104
+        ],
+        "max": [
+          0.08,
+          0.185451,
+          0.43104
+        ],
+        "size": [
+          0.16,
+          0.370902,
+          0.86208
+        ],
+        "center": [
+          0,
+          0,
+          0
+        ],
+        "diagonal": 0.952024
+      },
+      "triangleCount": 882,
+      "drawCallCount": 2,
+      "renderVertexCount": 2646,
+      "uploadVertexCount": 1506,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "blaster",
+        "weapon",
+        "target",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "arcade",
+        "foam-blaster",
+        "toy-weapon"
+      ],
+      "aliases": [
+        "dart blaster",
+        "toy gun"
+      ],
+      "searchTokens": [
+        "animated",
+        "arcade",
+        "attachments",
+        "blaster",
+        "bright",
+        "clips",
+        "colorful",
+        "crates",
+        "dart",
+        "foam",
+        "grenades",
+        "gun",
+        "kenney",
+        "kit",
+        "poly",
+        "practice",
+        "projectiles",
+        "props",
+        "scopes",
+        "shooter",
+        "silencers",
+        "stylized",
+        "target",
+        "toy",
+        "weapon"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-blaster-kit/kenney-blaster-kit-blaster-p.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 9806,
+        "sha256": "0ee7165a4fa111d256caea9384dbd7aa1be71ad2335f35bbbf7a361b2e59645a",
+        "transparent": true,
+        "sourceBundleSha256": "15cc2b9836ec1a3663e602819d17a57c382d7b9ba7883531dd89874e18391f10",
+        "cacheKey": "58c2433c01ca58fc08aa4108933af74d5979f0f896ff934fb086545321c147ba",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.536968,
+          "pan": [
+            -0.038469,
+            -0.02819,
+            0.058765
+          ],
+          "alphaBounds": {
+            "x": 76,
+            "y": 138,
+            "width": 361,
+            "height": 236,
+            "fill": 0.705078,
+            "centerOffset": {
+              "x": 0.5,
+              "y": 0,
+              "length": 0.5
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blaster-kit/kenney-blaster-kit-blaster-p.webp",
+        "packRelativePath": "previews/kenney-blaster-kit-blaster-p.webp"
+      },
+      "packId": "kenney-blaster-kit",
+      "publicPath": "assets/kenney-blaster-kit/kenney-blaster-kit-blaster-p/kenney-blaster-kit-blaster-p.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64/kenney-blaster-kit-blaster-p.glb"
+    },
+    {
+      "id": "kenney-blaster-kit-blaster-q",
+      "name": "Blaster Q",
+      "description": "Toy foam blaster model (Blaster Q).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "blaster-q.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blaster-kit/kenney-blaster-kit-blaster-q/kenney-blaster-kit-blaster-q.glb",
+      "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+      "primaryBytes": 55856,
+      "totalBytes": 66079,
+      "primarySha256": "e2062bf76cf9ea7690acbb5ae18c9d92be5f7623ec3a2f4b363eb926d1017522",
+      "bundleSha256": "e284df192eb47fa1e855113dea3492057c39026939aa14694ca4249a532c35e7",
+      "bounds": {
+        "min": [
+          -0.085,
+          -0.161898,
+          -0.355175
+        ],
+        "max": [
+          0.085,
+          0.161898,
+          0.355175
+        ],
+        "size": [
+          0.17,
+          0.323797,
+          0.71035
+        ],
+        "center": [
+          0,
+          0,
+          0
+        ],
+        "diagonal": 0.798963
+      },
+      "triangleCount": 602,
+      "drawCallCount": 1,
+      "renderVertexCount": 1806,
+      "uploadVertexCount": 1050,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "blaster",
+        "weapon",
+        "target",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "arcade",
+        "foam-blaster",
+        "toy-weapon"
+      ],
+      "aliases": [
+        "dart blaster",
+        "toy gun"
+      ],
+      "searchTokens": [
+        "animated",
+        "arcade",
+        "attachments",
+        "blaster",
+        "bright",
+        "clips",
+        "colorful",
+        "crates",
+        "dart",
+        "foam",
+        "grenades",
+        "gun",
+        "kenney",
+        "kit",
+        "poly",
+        "practice",
+        "projectiles",
+        "props",
+        "scopes",
+        "shooter",
+        "silencers",
+        "stylized",
+        "target",
+        "toy",
+        "weapon"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-blaster-kit/kenney-blaster-kit-blaster-q.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 8906,
+        "sha256": "a43ffa4ee0626017614420f61c1f3cb867d1f8a9a150708a5214f1b105cf610c",
+        "transparent": true,
+        "sourceBundleSha256": "e284df192eb47fa1e855113dea3492057c39026939aa14694ca4249a532c35e7",
+        "cacheKey": "97409d019b5fbe2f7acd14df19104ae7aca6d07eda53f89cb9d3a20d8e2aac94",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.295332,
+          "pan": [
+            -0.00644,
+            -0.027757,
+            0.026424
+          ],
+          "alphaBounds": {
+            "x": 73,
+            "y": 102,
+            "width": 367,
+            "height": 308,
+            "fill": 0.716797,
+            "centerOffset": {
+              "x": 0.5,
+              "y": 0,
+              "length": 0.5
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blaster-kit/kenney-blaster-kit-blaster-q.webp",
+        "packRelativePath": "previews/kenney-blaster-kit-blaster-q.webp"
+      },
+      "packId": "kenney-blaster-kit",
+      "publicPath": "assets/kenney-blaster-kit/kenney-blaster-kit-blaster-q/kenney-blaster-kit-blaster-q.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64/kenney-blaster-kit-blaster-q.glb"
+    },
+    {
+      "id": "kenney-blaster-kit-blaster-r",
+      "name": "Blaster R",
+      "description": "Toy foam blaster model (Blaster R).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "blaster-r.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blaster-kit/kenney-blaster-kit-blaster-r/kenney-blaster-kit-blaster-r.glb",
+      "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+      "primaryBytes": 48920,
+      "totalBytes": 59143,
+      "primarySha256": "ab0b5f51ecff405238727626d558414750a9946d5e255cd1dc8bf81eebe1f1e2",
+      "bundleSha256": "ac1aea57c73d8ff562a466f09898b81ce01adb99a989bbfbf789cfc1d86a6698",
+      "bounds": {
+        "min": [
+          -0.09,
+          -0.1625,
+          -0.42
+        ],
+        "max": [
+          0.09,
+          0.238402,
+          0.26341
+        ],
+        "size": [
+          0.18,
+          0.400902,
+          0.68341
+        ],
+        "center": [
+          0,
+          0.037951,
+          -0.078295
+        ],
+        "diagonal": 0.812509
+      },
+      "triangleCount": 524,
+      "drawCallCount": 2,
+      "renderVertexCount": 1572,
+      "uploadVertexCount": 894,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "blaster",
+        "weapon",
+        "target",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "arcade",
+        "foam-blaster",
+        "toy-weapon"
+      ],
+      "aliases": [
+        "dart blaster",
+        "toy gun"
+      ],
+      "searchTokens": [
+        "animated",
+        "arcade",
+        "attachments",
+        "blaster",
+        "bright",
+        "clips",
+        "colorful",
+        "crates",
+        "dart",
+        "foam",
+        "grenades",
+        "gun",
+        "kenney",
+        "kit",
+        "poly",
+        "practice",
+        "projectiles",
+        "props",
+        "scopes",
+        "shooter",
+        "silencers",
+        "stylized",
+        "target",
+        "toy",
+        "weapon"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-blaster-kit/kenney-blaster-kit-blaster-r.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 9004,
+        "sha256": "89e4a6c22ee4c23ecbc990c4ca67b3c59565c42f15e32e28826318cc282bf2e1",
+        "transparent": true,
+        "sourceBundleSha256": "ac1aea57c73d8ff562a466f09898b81ce01adb99a989bbfbf789cfc1d86a6698",
+        "cacheKey": "e331f0d2c63118e38e86c9ea942a2b32de9b90dbac8acce936ab52468485d5e5",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 1.341457,
+          "pan": [
+            -0.02076,
+            -0.002209,
+            0.02235
+          ],
+          "alphaBounds": {
+            "x": 73,
+            "y": 135,
+            "width": 366,
+            "height": 242,
+            "fill": 0.714844,
+            "centerOffset": {
+              "x": 0,
+              "y": 0,
+              "length": 0
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blaster-kit/kenney-blaster-kit-blaster-r.webp",
+        "packRelativePath": "previews/kenney-blaster-kit-blaster-r.webp"
+      },
+      "packId": "kenney-blaster-kit",
+      "publicPath": "assets/kenney-blaster-kit/kenney-blaster-kit-blaster-r/kenney-blaster-kit-blaster-r.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64/kenney-blaster-kit-blaster-r.glb"
+    },
+    {
+      "id": "kenney-blaster-kit-bullet-foam",
+      "name": "Bullet Foam",
+      "description": "Foam dart projectile model (Bullet Foam).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "bullet-foam.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blaster-kit/kenney-blaster-kit-bullet-foam/kenney-blaster-kit-bullet-foam.glb",
+      "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+      "primaryBytes": 4112,
+      "totalBytes": 14335,
+      "primarySha256": "af03c14f053f64c9d351643ec3d5d0a05210e1234fcd2534f7dac3deab7fa515",
+      "bundleSha256": "77f22f32a0a37d603ece4a8a7cededcdf446087b4e14fffae16e473aab215cc7",
+      "bounds": {
+        "min": [
+          -0.01,
+          0,
+          -0.01
+        ],
+        "max": [
+          0.01,
+          0.05,
+          0.01
+        ],
+        "size": [
+          0.02,
+          0.05,
+          0.02
+        ],
+        "center": [
+          0,
+          0.025,
+          0
+        ],
+        "diagonal": 0.057446
+      },
+      "triangleCount": 28,
+      "drawCallCount": 1,
+      "renderVertexCount": 84,
+      "uploadVertexCount": 48,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "blaster",
+        "weapon",
+        "target",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "arcade",
+        "projectile",
+        "ammo",
+        "foam-dart"
+      ],
+      "aliases": [
+        "dart",
+        "foam bullet"
+      ],
+      "searchTokens": [
+        "ammo",
+        "animated",
+        "arcade",
+        "attachments",
+        "blaster",
+        "bright",
+        "bullet",
+        "clips",
+        "colorful",
+        "crates",
+        "dart",
+        "foam",
+        "grenades",
+        "gun",
+        "kenney",
+        "kit",
+        "poly",
+        "practice",
+        "projectile",
+        "projectiles",
+        "props",
+        "scopes",
+        "shooter",
+        "silencers",
+        "stylized",
+        "target",
+        "toy",
+        "weapon"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-blaster-kit/kenney-blaster-kit-bullet-foam.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 4580,
+        "sha256": "7fc944cd9f1e756559ab037a2f303bcbb171d32472783f5d972a4c66e8adc9ae",
+        "transparent": true,
+        "sourceBundleSha256": "77f22f32a0a37d603ece4a8a7cededcdf446087b4e14fffae16e473aab215cc7",
+        "cacheKey": "a9e97b7ecf6965b95efaf6854217e3b4cb287544d73cff0a14ec467570b8461c",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.119632,
+          "pan": [
+            -0.000169,
+            0.00047,
+            -0.000169
+          ],
+          "alphaBounds": {
+            "x": 176,
+            "y": 72,
+            "width": 160,
+            "height": 369,
+            "fill": 0.720703,
+            "centerOffset": {
+              "x": 0,
+              "y": 0.5,
+              "length": 0.5
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blaster-kit/kenney-blaster-kit-bullet-foam.webp",
+        "packRelativePath": "previews/kenney-blaster-kit-bullet-foam.webp"
+      },
+      "packId": "kenney-blaster-kit",
+      "publicPath": "assets/kenney-blaster-kit/kenney-blaster-kit-bullet-foam/kenney-blaster-kit-bullet-foam.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64/kenney-blaster-kit-bullet-foam.glb"
+    },
+    {
+      "id": "kenney-blaster-kit-bullet-foam-thick",
+      "name": "Bullet Foam Thick",
+      "description": "Foam dart projectile model (Bullet Foam Thick).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "bullet-foam-thick.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blaster-kit/kenney-blaster-kit-bullet-foam-thick/kenney-blaster-kit-bullet-foam-thick.glb",
+      "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+      "primaryBytes": 4124,
+      "totalBytes": 14347,
+      "primarySha256": "ac12699af02e969be9860794d20f1750505273128864a27bff9393d7d6d3786f",
+      "bundleSha256": "68beaf33116d0e9a81070f38858a0e6ef30f2b8b2b8ae1d518aaa1dd7e31f5d5",
+      "bounds": {
+        "min": [
+          -0.015,
+          0,
+          -0.015
+        ],
+        "max": [
+          0.015,
+          0.05,
+          0.015
+        ],
+        "size": [
+          0.03,
+          0.05,
+          0.03
+        ],
+        "center": [
+          0,
+          0.025,
+          0
+        ],
+        "diagonal": 0.065574
+      },
+      "triangleCount": 28,
+      "drawCallCount": 1,
+      "renderVertexCount": 84,
+      "uploadVertexCount": 48,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "blaster",
+        "weapon",
+        "target",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "arcade",
+        "projectile",
+        "ammo",
+        "foam-dart"
+      ],
+      "aliases": [
+        "dart",
+        "foam bullet"
+      ],
+      "searchTokens": [
+        "ammo",
+        "animated",
+        "arcade",
+        "attachments",
+        "blaster",
+        "bright",
+        "bullet",
+        "clips",
+        "colorful",
+        "crates",
+        "dart",
+        "foam",
+        "grenades",
+        "gun",
+        "kenney",
+        "kit",
+        "poly",
+        "practice",
+        "projectile",
+        "projectiles",
+        "props",
+        "scopes",
+        "shooter",
+        "silencers",
+        "stylized",
+        "target",
+        "thick",
+        "toy",
+        "weapon"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-blaster-kit/kenney-blaster-kit-bullet-foam-thick.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 5532,
+        "sha256": "cb62cc862c63e6fd1be67f1bc71c32a327eeb3fe72a22ab56d980efc772fc9a5",
+        "transparent": true,
+        "sourceBundleSha256": "68beaf33116d0e9a81070f38858a0e6ef30f2b8b2b8ae1d518aaa1dd7e31f5d5",
+        "cacheKey": "05051d9afec9005d74cad67b72df604558686bb241665d928c91fde23a62591f",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.130085,
+          "pan": [
+            0.000254,
+            -0.000705,
+            0.000254
+          ],
+          "alphaBounds": {
+            "x": 147,
+            "y": 71,
+            "width": 218,
+            "height": 368,
+            "fill": 0.71875,
+            "centerOffset": {
+              "x": 0,
+              "y": -1,
+              "length": 1
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blaster-kit/kenney-blaster-kit-bullet-foam-thick.webp",
+        "packRelativePath": "previews/kenney-blaster-kit-bullet-foam-thick.webp"
+      },
+      "packId": "kenney-blaster-kit",
+      "publicPath": "assets/kenney-blaster-kit/kenney-blaster-kit-bullet-foam-thick/kenney-blaster-kit-bullet-foam-thick.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64/kenney-blaster-kit-bullet-foam-thick.glb"
+    },
+    {
+      "id": "kenney-blaster-kit-bullet-foam-tip",
+      "name": "Bullet Foam Tip",
+      "description": "Foam dart projectile model (Bullet Foam Tip).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "bullet-foam-tip.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blaster-kit/kenney-blaster-kit-bullet-foam-tip/kenney-blaster-kit-bullet-foam-tip.glb",
+      "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+      "primaryBytes": 5744,
+      "totalBytes": 15967,
+      "primarySha256": "e3f99099d6ec946f053c23cba0f83f6d5b674f217e4f46325659f4dfa6747d3a",
+      "bundleSha256": "0ccff224db30bbe498cb4232bd6810e8c82392f5019d628a25cc3641908648dc",
+      "bounds": {
+        "min": [
+          -0.01,
+          0,
+          -0.01
+        ],
+        "max": [
+          0.01,
+          0.06,
+          0.01
+        ],
+        "size": [
+          0.02,
+          0.06,
+          0.02
+        ],
+        "center": [
+          0,
+          0.03,
+          0
+        ],
+        "diagonal": 0.066332
+      },
+      "triangleCount": 44,
+      "drawCallCount": 1,
+      "renderVertexCount": 132,
+      "uploadVertexCount": 80,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "blaster",
+        "weapon",
+        "target",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "arcade",
+        "projectile",
+        "ammo",
+        "foam-dart"
+      ],
+      "aliases": [
+        "dart",
+        "foam bullet"
+      ],
+      "searchTokens": [
+        "ammo",
+        "animated",
+        "arcade",
+        "attachments",
+        "blaster",
+        "bright",
+        "bullet",
+        "clips",
+        "colorful",
+        "crates",
+        "dart",
+        "foam",
+        "grenades",
+        "gun",
+        "kenney",
+        "kit",
+        "poly",
+        "practice",
+        "projectile",
+        "projectiles",
+        "props",
+        "scopes",
+        "shooter",
+        "silencers",
+        "stylized",
+        "target",
+        "tip",
+        "toy",
+        "weapon"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-blaster-kit/kenney-blaster-kit-bullet-foam-tip.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 4652,
+        "sha256": "87c5e55024fb685be0c2310f0ddae8ccda222eea60758110bdbbb11f316b609c",
+        "transparent": true,
+        "sourceBundleSha256": "0ccff224db30bbe498cb4232bd6810e8c82392f5019d628a25cc3641908648dc",
+        "cacheKey": "90f9cde7fcb4266db9cba0d2ae4a3236d4ab64710851758d580fa1be0f795bb4",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.137635,
+          "pan": [
+            -0.000228,
+            0.000634,
+            -0.000228
+          ],
+          "alphaBounds": {
+            "x": 189,
+            "y": 72,
+            "width": 134,
+            "height": 369,
+            "fill": 0.720703,
+            "centerOffset": {
+              "x": 0,
+              "y": 0.5,
+              "length": 0.5
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blaster-kit/kenney-blaster-kit-bullet-foam-tip.webp",
+        "packRelativePath": "previews/kenney-blaster-kit-bullet-foam-tip.webp"
+      },
+      "packId": "kenney-blaster-kit",
+      "publicPath": "assets/kenney-blaster-kit/kenney-blaster-kit-bullet-foam-tip/kenney-blaster-kit-bullet-foam-tip.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64/kenney-blaster-kit-bullet-foam-tip.glb"
+    },
+    {
+      "id": "kenney-blaster-kit-bullet-foam-tip-thick",
+      "name": "Bullet Foam Tip Thick",
+      "description": "Foam dart projectile model (Bullet Foam Tip Thick).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "bullet-foam-tip-thick.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blaster-kit/kenney-blaster-kit-bullet-foam-tip-thick/kenney-blaster-kit-bullet-foam-tip-thick.glb",
+      "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+      "primaryBytes": 5756,
+      "totalBytes": 15979,
+      "primarySha256": "27cedf72c41ff00ca1034eca4fb71b9d6e096f538f86f1f0221f9aa4350b6b58",
+      "bundleSha256": "6bead99161ee450673f2b6ffcb765673ac634ad681943ecb90a053dc11dcd73c",
+      "bounds": {
+        "min": [
+          -0.015,
+          0,
+          -0.015
+        ],
+        "max": [
+          0.015,
+          0.05,
+          0.015
+        ],
+        "size": [
+          0.03,
+          0.05,
+          0.03
+        ],
+        "center": [
+          0,
+          0.025,
+          0
+        ],
+        "diagonal": 0.065574
+      },
+      "triangleCount": 44,
+      "drawCallCount": 1,
+      "renderVertexCount": 132,
+      "uploadVertexCount": 80,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "blaster",
+        "weapon",
+        "target",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "arcade",
+        "projectile",
+        "ammo",
+        "foam-dart"
+      ],
+      "aliases": [
+        "dart",
+        "foam bullet"
+      ],
+      "searchTokens": [
+        "ammo",
+        "animated",
+        "arcade",
+        "attachments",
+        "blaster",
+        "bright",
+        "bullet",
+        "clips",
+        "colorful",
+        "crates",
+        "dart",
+        "foam",
+        "grenades",
+        "gun",
+        "kenney",
+        "kit",
+        "poly",
+        "practice",
+        "projectile",
+        "projectiles",
+        "props",
+        "scopes",
+        "shooter",
+        "silencers",
+        "stylized",
+        "target",
+        "thick",
+        "tip",
+        "toy",
+        "weapon"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-blaster-kit/kenney-blaster-kit-bullet-foam-tip-thick.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 5768,
+        "sha256": "4996bc0d7a0ea3dda3b31211f0d65c76c9be3a4c984f8061f9d84a8478d50b40",
+        "transparent": true,
+        "sourceBundleSha256": "6bead99161ee450673f2b6ffcb765673ac634ad681943ecb90a053dc11dcd73c",
+        "cacheKey": "0670a92f14a7a00b41f8c49048c1a6ee34b5dca2972f127bb6eeea90759e729c",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.128343,
+          "pan": [
+            0.000381,
+            -0.001057,
+            0.000381
+          ],
+          "alphaBounds": {
+            "x": 151,
+            "y": 72,
+            "width": 210,
+            "height": 367,
+            "fill": 0.716797,
+            "centerOffset": {
+              "x": 0,
+              "y": -0.5,
+              "length": 0.5
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blaster-kit/kenney-blaster-kit-bullet-foam-tip-thick.webp",
+        "packRelativePath": "previews/kenney-blaster-kit-bullet-foam-tip-thick.webp"
+      },
+      "packId": "kenney-blaster-kit",
+      "publicPath": "assets/kenney-blaster-kit/kenney-blaster-kit-bullet-foam-tip-thick/kenney-blaster-kit-bullet-foam-tip-thick.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64/kenney-blaster-kit-bullet-foam-tip-thick.glb"
+    },
+    {
+      "id": "kenney-blaster-kit-clip-large",
+      "name": "Clip Large",
+      "description": "Blaster magazine attachment model (Clip Large).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "clip-large.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blaster-kit/kenney-blaster-kit-clip-large/kenney-blaster-kit-clip-large.glb",
+      "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+      "primaryBytes": 7808,
+      "totalBytes": 18031,
+      "primarySha256": "47dff38cf9636abf15cf518324f1612d9409e6b1066d99da249047219e41379e",
+      "bundleSha256": "9af9d458e772429874d2f570aed1658f4122d81190dec9a507ec259936bec8a6",
+      "bounds": {
+        "min": [
+          -0.03,
+          0,
+          -0.075
+        ],
+        "max": [
+          0.03,
+          0.255793,
+          0.075
+        ],
+        "size": [
+          0.06,
+          0.255793,
+          0.15
+        ],
+        "center": [
+          0,
+          0.127896,
+          0
+        ],
+        "diagonal": 0.302539
+      },
+      "triangleCount": 76,
+      "drawCallCount": 1,
+      "renderVertexCount": 228,
+      "uploadVertexCount": 122,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "blaster",
+        "weapon",
+        "target",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "arcade",
+        "attachment",
+        "magazine",
+        "ammo"
+      ],
+      "aliases": [
+        "magazine"
+      ],
+      "searchTokens": [
+        "ammo",
+        "animated",
+        "arcade",
+        "attachment",
+        "attachments",
+        "blaster",
+        "bright",
+        "clip",
+        "clips",
+        "colorful",
+        "crates",
+        "dart",
+        "foam",
+        "grenades",
+        "gun",
+        "kenney",
+        "kit",
+        "large",
+        "magazine",
+        "poly",
+        "practice",
+        "projectiles",
+        "props",
+        "scopes",
+        "shooter",
+        "silencers",
+        "stylized",
+        "target",
+        "toy",
+        "weapon"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-blaster-kit/kenney-blaster-kit-clip-large.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 5656,
+        "sha256": "ecb904d23b701299f3294f86ec3c53ee130ffe3013477701ee0871bdd46ed789",
+        "transparent": true,
+        "sourceBundleSha256": "9af9d458e772429874d2f570aed1658f4122d81190dec9a507ec259936bec8a6",
+        "cacheKey": "e6cbc0d1e917c9020f91e3a169c29708869e446f213fae4f7321e4f99007ca27",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.619445,
+          "pan": [
+            -0.001,
+            -0.004247,
+            0.004058
+          ],
+          "alphaBounds": {
+            "x": 150,
+            "y": 72,
+            "width": 212,
+            "height": 368,
+            "fill": 0.71875,
+            "centerOffset": {
+              "x": 0,
+              "y": 0,
+              "length": 0
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blaster-kit/kenney-blaster-kit-clip-large.webp",
+        "packRelativePath": "previews/kenney-blaster-kit-clip-large.webp"
+      },
+      "packId": "kenney-blaster-kit",
+      "publicPath": "assets/kenney-blaster-kit/kenney-blaster-kit-clip-large/kenney-blaster-kit-clip-large.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64/kenney-blaster-kit-clip-large.glb"
+    },
+    {
+      "id": "kenney-blaster-kit-clip-small",
+      "name": "Clip Small",
+      "description": "Blaster magazine attachment model (Clip Small).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "clip-small.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blaster-kit/kenney-blaster-kit-clip-small/kenney-blaster-kit-clip-small.glb",
+      "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+      "primaryBytes": 7808,
+      "totalBytes": 18031,
+      "primarySha256": "3501c4c2a1671379643219fc1ea581c9162da0986363cf0f7b1a214c647b5c37",
+      "bundleSha256": "3a57368f24fba09f395595702a2fb7df58f9f0cfd300600b8be02f98a8796cd1",
+      "bounds": {
+        "min": [
+          -0.03,
+          0,
+          -0.075
+        ],
+        "max": [
+          0.03,
+          0.155793,
+          0.075
+        ],
+        "size": [
+          0.06,
+          0.155793,
+          0.15
+        ],
+        "center": [
+          0,
+          0.077896,
+          0
+        ],
+        "diagonal": 0.224436
+      },
+      "triangleCount": 76,
+      "drawCallCount": 1,
+      "renderVertexCount": 228,
+      "uploadVertexCount": 122,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "blaster",
+        "weapon",
+        "target",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "arcade",
+        "attachment",
+        "magazine",
+        "ammo"
+      ],
+      "aliases": [
+        "magazine"
+      ],
+      "searchTokens": [
+        "ammo",
+        "animated",
+        "arcade",
+        "attachment",
+        "attachments",
+        "blaster",
+        "bright",
+        "clip",
+        "clips",
+        "colorful",
+        "crates",
+        "dart",
+        "foam",
+        "grenades",
+        "gun",
+        "kenney",
+        "kit",
+        "magazine",
+        "poly",
+        "practice",
+        "projectiles",
+        "props",
+        "scopes",
+        "shooter",
+        "silencers",
+        "small",
+        "stylized",
+        "target",
+        "toy",
+        "weapon"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-blaster-kit/kenney-blaster-kit-clip-small.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 6938,
+        "sha256": "994ebc2bc37288f469cb5568e8fb39f84ee738d521aba7e60b37a8226b8e08c3",
+        "transparent": true,
+        "sourceBundleSha256": "3a57368f24fba09f395595702a2fb7df58f9f0cfd300600b8be02f98a8796cd1",
+        "cacheKey": "f4fc9b23469a2cfc42431000a601b1dc3c6bccc20ec247ec6a35f4ea11516258",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.420706,
+          "pan": [
+            -0.000583,
+            -0.008834,
+            0.006943
+          ],
+          "alphaBounds": {
+            "x": 103,
+            "y": 72,
+            "width": 306,
+            "height": 369,
+            "fill": 0.720703,
+            "centerOffset": {
+              "x": 0,
+              "y": 0.5,
+              "length": 0.5
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blaster-kit/kenney-blaster-kit-clip-small.webp",
+        "packRelativePath": "previews/kenney-blaster-kit-clip-small.webp"
+      },
+      "packId": "kenney-blaster-kit",
+      "publicPath": "assets/kenney-blaster-kit/kenney-blaster-kit-clip-small/kenney-blaster-kit-clip-small.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64/kenney-blaster-kit-clip-small.glb"
+    },
+    {
+      "id": "kenney-blaster-kit-crate-medium",
+      "name": "Crate Medium",
+      "description": "Animated blaster crate prop model (Crate Medium).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "crate-medium.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blaster-kit/kenney-blaster-kit-crate-medium/kenney-blaster-kit-crate-medium.glb",
+      "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+      "primaryBytes": 59344,
+      "totalBytes": 69567,
+      "primarySha256": "187c32592fedaecbbb84152102bbf536f733cbc0c2cfee60828fb18a4803619c",
+      "bundleSha256": "a758d1492b44c6e0d458f9b139048c81c0c6fed805eb7896e83ec9103b7d066c",
+      "bounds": {
+        "min": [
+          -0.279508,
+          -0.02,
+          -0.5
+        ],
+        "max": [
+          0.27,
+          0.35,
+          0.5
+        ],
+        "size": [
+          0.549508,
+          0.37,
+          1
+        ],
+        "center": [
+          -0.004754,
+          0.165,
+          0
+        ],
+        "diagonal": 1.199524
+      },
+      "triangleCount": 628,
+      "drawCallCount": 2,
+      "renderVertexCount": 1884,
+      "uploadVertexCount": 1020,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 3,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "blaster",
+        "weapon",
+        "target",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "arcade",
+        "crate",
+        "container",
+        "prop",
+        "animated"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "animated",
+        "arcade",
+        "attachments",
+        "blaster",
+        "bright",
+        "clips",
+        "colorful",
+        "container",
+        "crate",
+        "crates",
+        "dart",
+        "foam",
+        "grenades",
+        "gun",
+        "kenney",
+        "kit",
+        "medium",
+        "poly",
+        "practice",
+        "projectiles",
+        "prop",
+        "props",
+        "scopes",
+        "shooter",
+        "silencers",
+        "stylized",
+        "target",
+        "toy",
+        "weapon"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-blaster-kit/kenney-blaster-kit-crate-medium.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 7500,
+        "sha256": "3f959f16cae4ed4f0788d35d618a93994b4367311897f7c3f8fbb50e07528196",
+        "transparent": true,
+        "sourceBundleSha256": "a758d1492b44c6e0d458f9b139048c81c0c6fed805eb7896e83ec9103b7d066c",
+        "cacheKey": "2a88d684c608d1c9b9fa1caaf8b81e69466c185f11c162cf57ab5d34090f4327",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 2.311331,
+          "pan": [
+            -0.002755,
+            -0.053669,
+            0.041397
+          ],
+          "alphaBounds": {
+            "x": 73,
+            "y": 125,
+            "width": 366,
+            "height": 262,
+            "fill": 0.714844,
+            "centerOffset": {
+              "x": 0,
+              "y": 0,
+              "length": 0
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blaster-kit/kenney-blaster-kit-crate-medium.webp",
+        "packRelativePath": "previews/kenney-blaster-kit-crate-medium.webp"
+      },
+      "packId": "kenney-blaster-kit",
+      "publicPath": "assets/kenney-blaster-kit/kenney-blaster-kit-crate-medium/kenney-blaster-kit-crate-medium.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64/kenney-blaster-kit-crate-medium.glb"
+    },
+    {
+      "id": "kenney-blaster-kit-crate-small",
+      "name": "Crate Small",
+      "description": "Animated blaster crate prop model (Crate Small).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "crate-small.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blaster-kit/kenney-blaster-kit-crate-small/kenney-blaster-kit-crate-small.glb",
+      "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+      "primaryBytes": 59020,
+      "totalBytes": 69243,
+      "primarySha256": "00ed47c02a5016c11ce5ea0bd54888d120f3a112c5eab79dc4bd4ab878ceb805",
+      "bundleSha256": "65e495bbd85d986f950e6191d73893b1158f3cd97b4575db3ab829f4ed101751",
+      "bounds": {
+        "min": [
+          -0.279508,
+          -0.02,
+          -0.4
+        ],
+        "max": [
+          0.27,
+          0.35,
+          0.4
+        ],
+        "size": [
+          0.549508,
+          0.37,
+          0.8
+        ],
+        "center": [
+          -0.004754,
+          0.165,
+          0
+        ],
+        "diagonal": 1.038681
+      },
+      "triangleCount": 628,
+      "drawCallCount": 2,
+      "renderVertexCount": 1884,
+      "uploadVertexCount": 1012,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 3,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "blaster",
+        "weapon",
+        "target",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "arcade",
+        "crate",
+        "container",
+        "prop",
+        "animated"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "animated",
+        "arcade",
+        "attachments",
+        "blaster",
+        "bright",
+        "clips",
+        "colorful",
+        "container",
+        "crate",
+        "crates",
+        "dart",
+        "foam",
+        "grenades",
+        "gun",
+        "kenney",
+        "kit",
+        "poly",
+        "practice",
+        "projectiles",
+        "prop",
+        "props",
+        "scopes",
+        "shooter",
+        "silencers",
+        "small",
+        "stylized",
+        "target",
+        "toy",
+        "weapon"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-blaster-kit/kenney-blaster-kit-crate-small.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 7790,
+        "sha256": "8de9f38c4099fc64c73ec74bb16649148ed6a8c466ed6ade0478dcc0f919d2ea",
+        "transparent": true,
+        "sourceBundleSha256": "65e495bbd85d986f950e6191d73893b1158f3cd97b4575db3ab829f4ed101751",
+        "cacheKey": "a64f6e9d299cde99761e9f4e989288d0f84e919fbc86001b23086b65cc0cf4de",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 2.007025,
+          "pan": [
+            0.004754,
+            -0.046642,
+            0.028828
+          ],
+          "alphaBounds": {
+            "x": 74,
+            "y": 117,
+            "width": 364,
+            "height": 277,
+            "fill": 0.710938,
+            "centerOffset": {
+              "x": 0,
+              "y": -0.5,
+              "length": 0.5
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blaster-kit/kenney-blaster-kit-crate-small.webp",
+        "packRelativePath": "previews/kenney-blaster-kit-crate-small.webp"
+      },
+      "packId": "kenney-blaster-kit",
+      "publicPath": "assets/kenney-blaster-kit/kenney-blaster-kit-crate-small/kenney-blaster-kit-crate-small.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64/kenney-blaster-kit-crate-small.glb"
+    },
+    {
+      "id": "kenney-blaster-kit-crate-wide",
+      "name": "Crate Wide",
+      "description": "Animated blaster crate prop model (Crate Wide).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "crate-wide.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blaster-kit/kenney-blaster-kit-crate-wide/kenney-blaster-kit-crate-wide.glb",
+      "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+      "primaryBytes": 59404,
+      "totalBytes": 69627,
+      "primarySha256": "0a17a51b274d238c09ade21674b70742bd5f1703f7b0e8974b6d0b2b92a58c8b",
+      "bundleSha256": "a708e9c860cc5a9d730d47e9ee5ef45c760d2f1dbb131d34035bd0b32c3194a9",
+      "bounds": {
+        "min": [
+          -0.279508,
+          -0.02,
+          -0.6
+        ],
+        "max": [
+          0.27,
+          0.35,
+          0.6
+        ],
+        "size": [
+          0.549508,
+          0.37,
+          1.2
+        ],
+        "center": [
+          -0.004754,
+          0.165,
+          0
+        ],
+        "diagonal": 1.370715
+      },
+      "triangleCount": 628,
+      "drawCallCount": 2,
+      "renderVertexCount": 1884,
+      "uploadVertexCount": 1020,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 3,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "blaster",
+        "weapon",
+        "target",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "arcade",
+        "crate",
+        "container",
+        "prop",
+        "animated"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "animated",
+        "arcade",
+        "attachments",
+        "blaster",
+        "bright",
+        "clips",
+        "colorful",
+        "container",
+        "crate",
+        "crates",
+        "dart",
+        "foam",
+        "grenades",
+        "gun",
+        "kenney",
+        "kit",
+        "poly",
+        "practice",
+        "projectiles",
+        "prop",
+        "props",
+        "scopes",
+        "shooter",
+        "silencers",
+        "stylized",
+        "target",
+        "toy",
+        "weapon",
+        "wide"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-blaster-kit/kenney-blaster-kit-crate-wide.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 8154,
+        "sha256": "d945139236029256bcb171dc5b357dcc3ab136b9281c0d9fdde67638c6783a90",
+        "transparent": true,
+        "sourceBundleSha256": "a708e9c860cc5a9d730d47e9ee5ef45c760d2f1dbb131d34035bd0b32c3194a9",
+        "cacheKey": "35b9f834a2df45176c7bf083de5cfd8d9b4ca8b3520394e61730a63a34639dde",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 2.568992,
+          "pan": [
+            -0.011839,
+            -0.063442,
+            0.057518
+          ],
+          "alphaBounds": {
+            "x": 70,
+            "y": 127,
+            "width": 374,
+            "height": 256,
+            "fill": 0.730469,
+            "centerOffset": {
+              "x": 1,
+              "y": -1,
+              "length": 1.414214
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blaster-kit/kenney-blaster-kit-crate-wide.webp",
+        "packRelativePath": "previews/kenney-blaster-kit-crate-wide.webp"
+      },
+      "packId": "kenney-blaster-kit",
+      "publicPath": "assets/kenney-blaster-kit/kenney-blaster-kit-crate-wide/kenney-blaster-kit-crate-wide.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64/kenney-blaster-kit-crate-wide.glb"
+    },
+    {
+      "id": "kenney-blaster-kit-grenade-a",
+      "name": "Grenade A",
+      "description": "Toy throwable grenade model (Grenade A).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "grenade-a.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blaster-kit/kenney-blaster-kit-grenade-a/kenney-blaster-kit-grenade-a.glb",
+      "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+      "primaryBytes": 19280,
+      "totalBytes": 29503,
+      "primarySha256": "8b67f9500005efee816f3fe72eb00bcded0282f7a9916f4436bf923877d8a89f",
+      "bundleSha256": "59e76e39580416f6b0a147004f9c3ea110c52a4931f115908553f02a0a193fd9",
+      "bounds": {
+        "min": [
+          -0.098922,
+          0,
+          -0.089972
+        ],
+        "max": [
+          0.069972,
+          0.237708,
+          0.069972
+        ],
+        "size": [
+          0.168894,
+          0.237708,
+          0.159944
+        ],
+        "center": [
+          -0.014475,
+          0.118854,
+          -0.01
+        ],
+        "diagonal": 0.332584
+      },
+      "triangleCount": 200,
+      "drawCallCount": 1,
+      "renderVertexCount": 600,
+      "uploadVertexCount": 340,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "blaster",
+        "weapon",
+        "target",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "arcade",
+        "throwable",
+        "grenade",
+        "prop"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "animated",
+        "arcade",
+        "attachments",
+        "blaster",
+        "bright",
+        "clips",
+        "colorful",
+        "crates",
+        "dart",
+        "foam",
+        "grenade",
+        "grenades",
+        "gun",
+        "kenney",
+        "kit",
+        "poly",
+        "practice",
+        "projectiles",
+        "prop",
+        "props",
+        "scopes",
+        "shooter",
+        "silencers",
+        "stylized",
+        "target",
+        "throwable",
+        "toy",
+        "weapon"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-blaster-kit/kenney-blaster-kit-grenade-a.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 7572,
+        "sha256": "585256cbb7e960c6af8ef93c3aa9878f04e1f2d638111156070b1244d9362c45",
+        "transparent": true,
+        "sourceBundleSha256": "59e76e39580416f6b0a147004f9c3ea110c52a4931f115908553f02a0a193fd9",
+        "cacheKey": "1dffb4e59da8bff7d8221f4acfecafbaf0acde46c77728ff9446cd1a192abf37",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.608781,
+          "pan": [
+            0.009157,
+            -0.013126,
+            0.000293
+          ],
+          "alphaBounds": {
+            "x": 149,
+            "y": 73,
+            "width": 214,
+            "height": 365,
+            "fill": 0.712891,
+            "centerOffset": {
+              "x": 0,
+              "y": -0.5,
+              "length": 0.5
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blaster-kit/kenney-blaster-kit-grenade-a.webp",
+        "packRelativePath": "previews/kenney-blaster-kit-grenade-a.webp"
+      },
+      "packId": "kenney-blaster-kit",
+      "publicPath": "assets/kenney-blaster-kit/kenney-blaster-kit-grenade-a/kenney-blaster-kit-grenade-a.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64/kenney-blaster-kit-grenade-a.glb"
+    },
+    {
+      "id": "kenney-blaster-kit-grenade-b",
+      "name": "Grenade B",
+      "description": "Toy throwable grenade model (Grenade B).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "grenade-b.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blaster-kit/kenney-blaster-kit-grenade-b/kenney-blaster-kit-grenade-b.glb",
+      "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+      "primaryBytes": 16216,
+      "totalBytes": 26439,
+      "primarySha256": "d36dfabf6c8b5d40ffead1d421934b4aae126f0e55a500d78f1b7d3ddaa4c7cc",
+      "bundleSha256": "4e91d1fa7b0f5a0711776b694e73276f27f0c818f002eae0b9b4c89e3fd73ee5",
+      "bounds": {
+        "min": [
+          -0.09,
+          0,
+          -0.112851
+        ],
+        "max": [
+          0.09,
+          0.21105,
+          0.09
+        ],
+        "size": [
+          0.18,
+          0.21105,
+          0.202851
+        ],
+        "center": [
+          0,
+          0.105525,
+          -0.011425
+        ],
+        "diagonal": 0.343643
+      },
+      "triangleCount": 154,
+      "drawCallCount": 1,
+      "renderVertexCount": 462,
+      "uploadVertexCount": 282,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "blaster",
+        "weapon",
+        "target",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "arcade",
+        "throwable",
+        "grenade",
+        "prop"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "animated",
+        "arcade",
+        "attachments",
+        "blaster",
+        "bright",
+        "clips",
+        "colorful",
+        "crates",
+        "dart",
+        "foam",
+        "grenade",
+        "grenades",
+        "gun",
+        "kenney",
+        "kit",
+        "poly",
+        "practice",
+        "projectiles",
+        "prop",
+        "props",
+        "scopes",
+        "shooter",
+        "silencers",
+        "stylized",
+        "target",
+        "throwable",
+        "toy",
+        "weapon"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-blaster-kit/kenney-blaster-kit-grenade-b.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 5142,
+        "sha256": "03263d58f0d4fb2613a166d093c6fa29f26a283f536bdf2992e2f7772a6dfac5",
+        "transparent": true,
+        "sourceBundleSha256": "4e91d1fa7b0f5a0711776b694e73276f27f0c818f002eae0b9b4c89e3fd73ee5",
+        "cacheKey": "a01f99504b511e9e5b6131f594cef675377c3bff520be24a51364b82e74f5133",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.500063,
+          "pan": [
+            -0.004081,
+            -0.003967,
+            0.006937
+          ],
+          "alphaBounds": {
+            "x": 111,
+            "y": 72,
+            "width": 289,
+            "height": 369,
+            "fill": 0.720703,
+            "centerOffset": {
+              "x": -0.5,
+              "y": 0.5,
+              "length": 0.707107
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blaster-kit/kenney-blaster-kit-grenade-b.webp",
+        "packRelativePath": "previews/kenney-blaster-kit-grenade-b.webp"
+      },
+      "packId": "kenney-blaster-kit",
+      "publicPath": "assets/kenney-blaster-kit/kenney-blaster-kit-grenade-b/kenney-blaster-kit-grenade-b.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64/kenney-blaster-kit-grenade-b.glb"
+    },
+    {
+      "id": "kenney-blaster-kit-scope-large-a",
+      "name": "Scope Large A",
+      "description": "Blaster scope attachment model (Scope Large A).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "scope-large-a.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blaster-kit/kenney-blaster-kit-scope-large-a/kenney-blaster-kit-scope-large-a.glb",
+      "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+      "primaryBytes": 19476,
+      "totalBytes": 29699,
+      "primarySha256": "bf83b1cff0bc56b9a11f2956c8c8eb23ef66624dd357e8f3eeb63d0481323928",
+      "bundleSha256": "4e4bc8178975750fcf1f198789fbf307457d6e9554d6c973ad325765047104f2",
+      "bounds": {
+        "min": [
+          -0.05,
+          0,
+          -0.22
+        ],
+        "max": [
+          0.06,
+          0.11,
+          0.22
+        ],
+        "size": [
+          0.11,
+          0.11,
+          0.44
+        ],
+        "center": [
+          0.005,
+          0.055,
+          0
+        ],
+        "diagonal": 0.46669
+      },
+      "triangleCount": 196,
+      "drawCallCount": 1,
+      "renderVertexCount": 588,
+      "uploadVertexCount": 344,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "blaster",
+        "weapon",
+        "target",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "arcade",
+        "attachment",
+        "scope",
+        "sight"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "animated",
+        "arcade",
+        "attachment",
+        "attachments",
+        "blaster",
+        "bright",
+        "clips",
+        "colorful",
+        "crates",
+        "dart",
+        "foam",
+        "grenades",
+        "gun",
+        "kenney",
+        "kit",
+        "large",
+        "poly",
+        "practice",
+        "projectiles",
+        "props",
+        "scope",
+        "scopes",
+        "shooter",
+        "sight",
+        "silencers",
+        "stylized",
+        "target",
+        "toy",
+        "weapon"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-blaster-kit/kenney-blaster-kit-scope-large-a.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 6142,
+        "sha256": "b93f9d0862f3f50e90ee2dae8d1e8e07c0a81422254db75bb639e2d9b778434a",
+        "transparent": true,
+        "sourceBundleSha256": "4e4bc8178975750fcf1f198789fbf307457d6e9554d6c973ad325765047104f2",
+        "cacheKey": "0196b445b6a7cf364834f894085efc14aa2aa20cc723d8047ec9b741cc5b6e76",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.830453,
+          "pan": [
+            -0.015069,
+            -0.008604,
+            0.021264
+          ],
+          "alphaBounds": {
+            "x": 75,
+            "y": 145,
+            "width": 363,
+            "height": 222,
+            "fill": 0.708984,
+            "centerOffset": {
+              "x": 0.5,
+              "y": 0,
+              "length": 0.5
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blaster-kit/kenney-blaster-kit-scope-large-a.webp",
+        "packRelativePath": "previews/kenney-blaster-kit-scope-large-a.webp"
+      },
+      "packId": "kenney-blaster-kit",
+      "publicPath": "assets/kenney-blaster-kit/kenney-blaster-kit-scope-large-a/kenney-blaster-kit-scope-large-a.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64/kenney-blaster-kit-scope-large-a.glb"
+    },
+    {
+      "id": "kenney-blaster-kit-scope-large-b",
+      "name": "Scope Large B",
+      "description": "Blaster scope attachment model (Scope Large B).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "scope-large-b.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blaster-kit/kenney-blaster-kit-scope-large-b/kenney-blaster-kit-scope-large-b.glb",
+      "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+      "primaryBytes": 21932,
+      "totalBytes": 32155,
+      "primarySha256": "0d612ce9f4d5c4bc196df8eadd38e875d80d42021a2af14ef0c18826a023dc8f",
+      "bundleSha256": "f87af136f6b3ec0694c0597e61de1f22812478755a8810280a43eeb1e55c9e28",
+      "bounds": {
+        "min": [
+          -0.05,
+          0,
+          -0.22
+        ],
+        "max": [
+          0.06,
+          0.1117,
+          0.22
+        ],
+        "size": [
+          0.11,
+          0.1117,
+          0.44
+        ],
+        "center": [
+          0.005,
+          0.05585,
+          0
+        ],
+        "diagonal": 0.467094
+      },
+      "triangleCount": 224,
+      "drawCallCount": 1,
+      "renderVertexCount": 672,
+      "uploadVertexCount": 392,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "blaster",
+        "weapon",
+        "target",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "arcade",
+        "attachment",
+        "scope",
+        "sight"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "animated",
+        "arcade",
+        "attachment",
+        "attachments",
+        "blaster",
+        "bright",
+        "clips",
+        "colorful",
+        "crates",
+        "dart",
+        "foam",
+        "grenades",
+        "gun",
+        "kenney",
+        "kit",
+        "large",
+        "poly",
+        "practice",
+        "projectiles",
+        "props",
+        "scope",
+        "scopes",
+        "shooter",
+        "sight",
+        "silencers",
+        "stylized",
+        "target",
+        "toy",
+        "weapon"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-blaster-kit/kenney-blaster-kit-scope-large-b.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 6282,
+        "sha256": "85ec39355acd115d2c73c84f3b26cc65db75a32f4b7d003f594975f511bddbf7",
+        "transparent": true,
+        "sourceBundleSha256": "f87af136f6b3ec0694c0597e61de1f22812478755a8810280a43eeb1e55c9e28",
+        "cacheKey": "65e5bf67f98ff1dd6d2ef7b2f8243fa994a73a9c2bd93d22f782410ccc22d224",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.830453,
+          "pan": [
+            -0.015649,
+            -0.006992,
+            0.020684
+          ],
+          "alphaBounds": {
+            "x": 75,
+            "y": 147,
+            "width": 363,
+            "height": 218,
+            "fill": 0.708984,
+            "centerOffset": {
+              "x": 0.5,
+              "y": 0,
+              "length": 0.5
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blaster-kit/kenney-blaster-kit-scope-large-b.webp",
+        "packRelativePath": "previews/kenney-blaster-kit-scope-large-b.webp"
+      },
+      "packId": "kenney-blaster-kit",
+      "publicPath": "assets/kenney-blaster-kit/kenney-blaster-kit-scope-large-b/kenney-blaster-kit-scope-large-b.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64/kenney-blaster-kit-scope-large-b.glb"
+    },
+    {
+      "id": "kenney-blaster-kit-scope-small",
+      "name": "Scope Small",
+      "description": "Blaster scope attachment model (Scope Small).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "scope-small.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blaster-kit/kenney-blaster-kit-scope-small/kenney-blaster-kit-scope-small.glb",
+      "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+      "primaryBytes": 19480,
+      "totalBytes": 29703,
+      "primarySha256": "e7fed68bd5477b214e5af2c29aca55481bffa9b0fd9db5be4cfb1c2bf3a52a65",
+      "bundleSha256": "f0cd40e0463de1195668b8c58e18ead522a96f4c12d09a79e94548951dd025fd",
+      "bounds": {
+        "min": [
+          -0.05,
+          0,
+          -0.22
+        ],
+        "max": [
+          0.06,
+          0.11,
+          0.06
+        ],
+        "size": [
+          0.11,
+          0.11,
+          0.28
+        ],
+        "center": [
+          0.005,
+          0.055,
+          -0.08
+        ],
+        "diagonal": 0.320312
+      },
+      "triangleCount": 200,
+      "drawCallCount": 1,
+      "renderVertexCount": 600,
+      "uploadVertexCount": 344,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "blaster",
+        "weapon",
+        "target",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "arcade",
+        "attachment",
+        "scope",
+        "sight"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "animated",
+        "arcade",
+        "attachment",
+        "attachments",
+        "blaster",
+        "bright",
+        "clips",
+        "colorful",
+        "crates",
+        "dart",
+        "foam",
+        "grenades",
+        "gun",
+        "kenney",
+        "kit",
+        "poly",
+        "practice",
+        "projectiles",
+        "props",
+        "scope",
+        "scopes",
+        "shooter",
+        "sight",
+        "silencers",
+        "small",
+        "stylized",
+        "target",
+        "toy",
+        "weapon"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-blaster-kit/kenney-blaster-kit-scope-small.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 6468,
+        "sha256": "0ec9ea947b7b912f9d505a8a6ace0b326b8a936629a23835086792789306954c",
+        "transparent": true,
+        "sourceBundleSha256": "f0cd40e0463de1195668b8c58e18ead522a96f4c12d09a79e94548951dd025fd",
+        "cacheKey": "0d6510f1d009f59209dc171080584ce9c6a9cc8ee52f608cea8dc5bea0ffe375",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.574,
+          "pan": [
+            -0.009303,
+            -0.000987,
+            0.010013
+          ],
+          "alphaBounds": {
+            "x": 73,
+            "y": 135,
+            "width": 365,
+            "height": 242,
+            "fill": 0.712891,
+            "centerOffset": {
+              "x": -0.5,
+              "y": 0,
+              "length": 0.5
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blaster-kit/kenney-blaster-kit-scope-small.webp",
+        "packRelativePath": "previews/kenney-blaster-kit-scope-small.webp"
+      },
+      "packId": "kenney-blaster-kit",
+      "publicPath": "assets/kenney-blaster-kit/kenney-blaster-kit-scope-small/kenney-blaster-kit-scope-small.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64/kenney-blaster-kit-scope-small.glb"
+    },
+    {
+      "id": "kenney-blaster-kit-silencer-larger",
+      "name": "Silencer Larger",
+      "description": "Blaster barrel attachment model (Silencer Larger).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "silencer-larger.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blaster-kit/kenney-blaster-kit-silencer-larger/kenney-blaster-kit-silencer-larger.glb",
+      "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+      "primaryBytes": 11412,
+      "totalBytes": 21635,
+      "primarySha256": "21532245b41bd9e5fa1b3768d1880a80b948b5dc2755b8a63d4216931d8a1689",
+      "bundleSha256": "3fb9d6993e397d3ac82f2f514f6072dc703991a7cf0fec718842dc9a57eb96e5",
+      "bounds": {
+        "min": [
+          -0.057314,
+          -0.057314,
+          -0.283
+        ],
+        "max": [
+          0.057314,
+          0.057314,
+          0
+        ],
+        "size": [
+          0.114629,
+          0.114629,
+          0.283
+        ],
+        "center": [
+          0,
+          0,
+          -0.1415
+        ],
+        "diagonal": 0.326142
+      },
+      "triangleCount": 120,
+      "drawCallCount": 1,
+      "renderVertexCount": 360,
+      "uploadVertexCount": 192,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "blaster",
+        "weapon",
+        "target",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "arcade",
+        "attachment",
+        "silencer",
+        "barrel"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "animated",
+        "arcade",
+        "attachment",
+        "attachments",
+        "barrel",
+        "blaster",
+        "bright",
+        "clips",
+        "colorful",
+        "crates",
+        "dart",
+        "foam",
+        "grenades",
+        "gun",
+        "kenney",
+        "kit",
+        "larger",
+        "poly",
+        "practice",
+        "projectiles",
+        "props",
+        "scopes",
+        "shooter",
+        "silencer",
+        "silencers",
+        "stylized",
+        "target",
+        "toy",
+        "weapon"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-blaster-kit/kenney-blaster-kit-silencer-larger.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 5056,
+        "sha256": "bbab22e3b176664e8fb5ef36c4ef2553e2e59b882ccf26000f6bcfc44b86a18c",
+        "transparent": true,
+        "sourceBundleSha256": "3fb9d6993e397d3ac82f2f514f6072dc703991a7cf0fec718842dc9a57eb96e5",
+        "cacheKey": "652f0b3f1bb23c19153bb33f7cd6e347ba75d9de03b7e7429df7b06ae1c230db",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.563715,
+          "pan": [
+            -0.004422,
+            0.000711,
+            0.00391
+          ],
+          "alphaBounds": {
+            "x": 72,
+            "y": 142,
+            "width": 368,
+            "height": 228,
+            "fill": 0.71875,
+            "centerOffset": {
+              "x": 0,
+              "y": 0,
+              "length": 0
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blaster-kit/kenney-blaster-kit-silencer-larger.webp",
+        "packRelativePath": "previews/kenney-blaster-kit-silencer-larger.webp"
+      },
+      "packId": "kenney-blaster-kit",
+      "publicPath": "assets/kenney-blaster-kit/kenney-blaster-kit-silencer-larger/kenney-blaster-kit-silencer-larger.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64/kenney-blaster-kit-silencer-larger.glb"
+    },
+    {
+      "id": "kenney-blaster-kit-silencer-small",
+      "name": "Silencer Small",
+      "description": "Blaster barrel attachment model (Silencer Small).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "silencer-small.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blaster-kit/kenney-blaster-kit-silencer-small/kenney-blaster-kit-silencer-small.glb",
+      "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+      "primaryBytes": 8960,
+      "totalBytes": 19183,
+      "primarySha256": "ebfc350c024eda0e8a26f79bccea4d7a12fba792d008496739f5a693dbbf15db",
+      "bundleSha256": "aa3a6ee8fad556204a45453492c2d04a5b0c0a00227745d6ab996b5c4189d0d9",
+      "bounds": {
+        "min": [
+          -0.05148,
+          -0.05148,
+          -0.244
+        ],
+        "max": [
+          0.05148,
+          0.05148,
+          0
+        ],
+        "size": [
+          0.10296,
+          0.10296,
+          0.244
+        ],
+        "center": [
+          0,
+          0,
+          -0.122
+        ],
+        "diagonal": 0.284143
+      },
+      "triangleCount": 92,
+      "drawCallCount": 1,
+      "renderVertexCount": 276,
+      "uploadVertexCount": 144,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "blaster",
+        "weapon",
+        "target",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "arcade",
+        "attachment",
+        "silencer",
+        "barrel"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "animated",
+        "arcade",
+        "attachment",
+        "attachments",
+        "barrel",
+        "blaster",
+        "bright",
+        "clips",
+        "colorful",
+        "crates",
+        "dart",
+        "foam",
+        "grenades",
+        "gun",
+        "kenney",
+        "kit",
+        "poly",
+        "practice",
+        "projectiles",
+        "props",
+        "scopes",
+        "shooter",
+        "silencer",
+        "silencers",
+        "small",
+        "stylized",
+        "target",
+        "toy",
+        "weapon"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-blaster-kit/kenney-blaster-kit-silencer-small.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 4264,
+        "sha256": "f0f9ca4d4ba982a2969d4c00b47b5086d648b17c837b814d86344187f064fed0",
+        "transparent": true,
+        "sourceBundleSha256": "aa3a6ee8fad556204a45453492c2d04a5b0c0a00227745d6ab996b5c4189d0d9",
+        "cacheKey": "a4079f6b3cf58441ccada0dab3173083a4a8a730d99421f1c78d79fd745d5e94",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.522362,
+          "pan": [
+            -0.0025,
+            0.003153,
+            0.00023
+          ],
+          "alphaBounds": {
+            "x": 78,
+            "y": 141,
+            "width": 357,
+            "height": 230,
+            "fill": 0.697266,
+            "centerOffset": {
+              "x": 0.5,
+              "y": 0,
+              "length": 0.5
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blaster-kit/kenney-blaster-kit-silencer-small.webp",
+        "packRelativePath": "previews/kenney-blaster-kit-silencer-small.webp"
+      },
+      "packId": "kenney-blaster-kit",
+      "publicPath": "assets/kenney-blaster-kit/kenney-blaster-kit-silencer-small/kenney-blaster-kit-silencer-small.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64/kenney-blaster-kit-silencer-small.glb"
+    },
+    {
+      "id": "kenney-blaster-kit-smoke",
+      "name": "Smoke",
+      "description": "Stylized smoke effect model (Smoke).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "smoke.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blaster-kit/kenney-blaster-kit-smoke/kenney-blaster-kit-smoke.glb",
+      "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+      "primaryBytes": 12520,
+      "totalBytes": 22743,
+      "primarySha256": "6dbf3e971ce419dbbcdee5fccfaa0c059a0333058484cc0949f490d0e21a8b86",
+      "bundleSha256": "7acf07eca97c7f5f585f7c742e3996bd0a01feed4a331aa118b8e06eb27801fc",
+      "bounds": {
+        "min": [
+          -0.138517,
+          -0.085217,
+          -0.138517
+        ],
+        "max": [
+          0.138517,
+          0.085217,
+          0.138517
+        ],
+        "size": [
+          0.277034,
+          0.170434,
+          0.277034
+        ],
+        "center": [
+          0,
+          0,
+          0
+        ],
+        "diagonal": 0.427251
+      },
+      "triangleCount": 380,
+      "drawCallCount": 1,
+      "renderVertexCount": 1140,
+      "uploadVertexCount": 200,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "blaster",
+        "weapon",
+        "target",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "arcade",
+        "effect",
+        "smoke",
+        "prop"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "animated",
+        "arcade",
+        "attachments",
+        "blaster",
+        "bright",
+        "clips",
+        "colorful",
+        "crates",
+        "dart",
+        "effect",
+        "foam",
+        "grenades",
+        "gun",
+        "kenney",
+        "kit",
+        "poly",
+        "practice",
+        "projectiles",
+        "prop",
+        "props",
+        "scopes",
+        "shooter",
+        "silencers",
+        "smoke",
+        "stylized",
+        "target",
+        "toy",
+        "weapon"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-blaster-kit/kenney-blaster-kit-smoke.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 6222,
+        "sha256": "eaffc9f7f1bbfa37c511fd5ae1b1d5b1b4503ba7d80e86eb958e4550555ed455",
+        "transparent": true,
+        "sourceBundleSha256": "7acf07eca97c7f5f585f7c742e3996bd0a01feed4a331aa118b8e06eb27801fc",
+        "cacheKey": "ece7193495393369bd96d6ea4a0759189625f55c2512ddab680036f50601f19d",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.559875,
+          "pan": [
+            0.002812,
+            -0.007811,
+            0.002812
+          ],
+          "alphaBounds": {
+            "x": 71,
+            "y": 102,
+            "width": 370,
+            "height": 308,
+            "fill": 0.722656,
+            "centerOffset": {
+              "x": 0,
+              "y": 0,
+              "length": 0
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blaster-kit/kenney-blaster-kit-smoke.webp",
+        "packRelativePath": "previews/kenney-blaster-kit-smoke.webp"
+      },
+      "packId": "kenney-blaster-kit",
+      "publicPath": "assets/kenney-blaster-kit/kenney-blaster-kit-smoke/kenney-blaster-kit-smoke.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64/kenney-blaster-kit-smoke.glb"
+    },
+    {
+      "id": "kenney-blaster-kit-target-detail",
+      "name": "Target Detail",
+      "description": "Target practice prop model (Target Detail).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "target-detail.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blaster-kit/kenney-blaster-kit-target-detail/kenney-blaster-kit-target-detail.glb",
+      "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+      "primaryBytes": 15168,
+      "totalBytes": 25391,
+      "primarySha256": "639c45fbdde41d9e8c6bc3d11fa23afe622225728a389215f7fa8fd5d858f88f",
+      "bundleSha256": "f03fdbf946e1edc0eed8f05590da590185370b0005601f7bca5692639112a3b9",
+      "bounds": {
+        "min": [
+          -0.13,
+          0,
+          0
+        ],
+        "max": [
+          0,
+          0.36,
+          0.36
+        ],
+        "size": [
+          0.13,
+          0.36,
+          0.36
+        ],
+        "center": [
+          -0.065,
+          0.18,
+          0.18
+        ],
+        "diagonal": 0.525452
+      },
+      "triangleCount": 164,
+      "drawCallCount": 1,
+      "renderVertexCount": 492,
+      "uploadVertexCount": 260,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "blaster",
+        "weapon",
+        "target",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "arcade",
+        "practice",
+        "prop"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "animated",
+        "arcade",
+        "attachments",
+        "blaster",
+        "bright",
+        "clips",
+        "colorful",
+        "crates",
+        "dart",
+        "detail",
+        "foam",
+        "grenades",
+        "gun",
+        "kenney",
+        "kit",
+        "poly",
+        "practice",
+        "projectiles",
+        "prop",
+        "props",
+        "scopes",
+        "shooter",
+        "silencers",
+        "stylized",
+        "target",
+        "toy",
+        "weapon"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-blaster-kit/kenney-blaster-kit-target-detail.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 7112,
+        "sha256": "43edae8c66c2b4e52d5074b2189ff064640914d8b67c29e04cad07d895480f18",
+        "transparent": true,
+        "sourceBundleSha256": "f03fdbf946e1edc0eed8f05590da590185370b0005601f7bca5692639112a3b9",
+        "cacheKey": "033bd9101cf8d148c9e996915ff69efa8f6d83b5995ef948ce02445265d9c307",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.842532,
+          "pan": [
+            -0.012289,
+            0.004652,
+            0.008939
+          ],
+          "alphaBounds": {
+            "x": 86,
+            "y": 72,
+            "width": 340,
+            "height": 368,
+            "fill": 0.71875,
+            "centerOffset": {
+              "x": 0,
+              "y": 0,
+              "length": 0
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blaster-kit/kenney-blaster-kit-target-detail.webp",
+        "packRelativePath": "previews/kenney-blaster-kit-target-detail.webp"
+      },
+      "packId": "kenney-blaster-kit",
+      "publicPath": "assets/kenney-blaster-kit/kenney-blaster-kit-target-detail/kenney-blaster-kit-target-detail.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64/kenney-blaster-kit-target-detail.glb"
+    },
+    {
+      "id": "kenney-blaster-kit-target-fragment-large",
+      "name": "Target Fragment Large",
+      "description": "Target practice prop model (Target Fragment Large).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "target-fragment-large.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blaster-kit/kenney-blaster-kit-target-fragment-large/kenney-blaster-kit-target-fragment-large.glb",
+      "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+      "primaryBytes": 4600,
+      "totalBytes": 14823,
+      "primarySha256": "e6292ccc645c678b40863eeb5d17e19c7d8831f06eec7cc5b87898daec5227ea",
+      "bundleSha256": "6ae89068fcd1c934e67212dc1af09833644f285ef73abab7e29fca2a804bfa28",
+      "bounds": {
+        "min": [
+          -0.025,
+          -0.085,
+          -0.060104
+        ],
+        "max": [
+          0.025,
+          0.085,
+          0.060104
+        ],
+        "size": [
+          0.05,
+          0.17,
+          0.120208
+        ],
+        "center": [
+          0,
+          0,
+          0
+        ],
+        "diagonal": 0.214126
+      },
+      "triangleCount": 32,
+      "drawCallCount": 1,
+      "renderVertexCount": 96,
+      "uploadVertexCount": 56,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "blaster",
+        "weapon",
+        "target",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "arcade",
+        "practice",
+        "prop"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "animated",
+        "arcade",
+        "attachments",
+        "blaster",
+        "bright",
+        "clips",
+        "colorful",
+        "crates",
+        "dart",
+        "foam",
+        "fragment",
+        "grenades",
+        "gun",
+        "kenney",
+        "kit",
+        "large",
+        "poly",
+        "practice",
+        "projectiles",
+        "prop",
+        "props",
+        "scopes",
+        "shooter",
+        "silencers",
+        "stylized",
+        "target",
+        "toy",
+        "weapon"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-blaster-kit/kenney-blaster-kit-target-fragment-large.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 7110,
+        "sha256": "87e166321159725d7f3fd374fbd83f91ffa9a98fb903eed2a581266d3b6d5031",
+        "transparent": true,
+        "sourceBundleSha256": "6ae89068fcd1c934e67212dc1af09833644f285ef73abab7e29fca2a804bfa28",
+        "cacheKey": "99db6b43dd09e02d2d3cd20598847945944ea07124d0417538b7d37ed6e6d48e",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.363941,
+          "pan": [
+            -0.004578,
+            0.004793,
+            0.001127
+          ],
+          "alphaBounds": {
+            "x": 111,
+            "y": 69,
+            "width": 290,
+            "height": 374,
+            "fill": 0.730469,
+            "centerOffset": {
+              "x": 0,
+              "y": 0,
+              "length": 0
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blaster-kit/kenney-blaster-kit-target-fragment-large.webp",
+        "packRelativePath": "previews/kenney-blaster-kit-target-fragment-large.webp"
+      },
+      "packId": "kenney-blaster-kit",
+      "publicPath": "assets/kenney-blaster-kit/kenney-blaster-kit-target-fragment-large/kenney-blaster-kit-target-fragment-large.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64/kenney-blaster-kit-target-fragment-large.glb"
+    },
+    {
+      "id": "kenney-blaster-kit-target-fragment-small",
+      "name": "Target Fragment Small",
+      "description": "Target practice prop model (Target Fragment Small).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "target-fragment-small.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blaster-kit/kenney-blaster-kit-target-fragment-small/kenney-blaster-kit-target-fragment-small.glb",
+      "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+      "primaryBytes": 2996,
+      "totalBytes": 13219,
+      "primarySha256": "7bf18ac45f838c27956b8f32163a72914b1514fa4f593c38d17478a1631a9118",
+      "bundleSha256": "f32e8152ca1c2926113f69679c346a5ff3968517d849cde2829a29aa757a61cf",
+      "bounds": {
+        "min": [
+          -0.025,
+          -0.02706,
+          -0.030052
+        ],
+        "max": [
+          0.025,
+          0.02706,
+          0.030052
+        ],
+        "size": [
+          0.05,
+          0.05412,
+          0.060104
+        ],
+        "center": [
+          0,
+          0,
+          0
+        ],
+        "diagonal": 0.095086
+      },
+      "triangleCount": 12,
+      "drawCallCount": 1,
+      "renderVertexCount": 36,
+      "uploadVertexCount": 24,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "blaster",
+        "weapon",
+        "target",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "arcade",
+        "practice",
+        "prop"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "animated",
+        "arcade",
+        "attachments",
+        "blaster",
+        "bright",
+        "clips",
+        "colorful",
+        "crates",
+        "dart",
+        "foam",
+        "fragment",
+        "grenades",
+        "gun",
+        "kenney",
+        "kit",
+        "poly",
+        "practice",
+        "projectiles",
+        "prop",
+        "props",
+        "scopes",
+        "shooter",
+        "silencers",
+        "small",
+        "stylized",
+        "target",
+        "toy",
+        "weapon"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-blaster-kit/kenney-blaster-kit-target-fragment-small.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 6664,
+        "sha256": "312c3e4dcf14de8c2ec40959af346a1e4295666dfbc94b29cb1fa00f6ed83f57",
+        "transparent": true,
+        "sourceBundleSha256": "f32e8152ca1c2926113f69679c346a5ff3968517d849cde2829a29aa757a61cf",
+        "cacheKey": "9931ddc137ab532944c30958c1ca0f4a95c43eff88851d860da759a8a9a006f5",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.178712,
+          "pan": [
+            -0.000416,
+            -0.000506,
+            0.00078
+          ],
+          "alphaBounds": {
+            "x": 73,
+            "y": 110,
+            "width": 367,
+            "height": 293,
+            "fill": 0.716797,
+            "centerOffset": {
+              "x": 0.5,
+              "y": 0.5,
+              "length": 0.707107
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blaster-kit/kenney-blaster-kit-target-fragment-small.webp",
+        "packRelativePath": "previews/kenney-blaster-kit-target-fragment-small.webp"
+      },
+      "packId": "kenney-blaster-kit",
+      "publicPath": "assets/kenney-blaster-kit/kenney-blaster-kit-target-fragment-small/kenney-blaster-kit-target-fragment-small.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64/kenney-blaster-kit-target-fragment-small.glb"
+    },
+    {
+      "id": "kenney-blaster-kit-target-large",
+      "name": "Target Large",
+      "description": "Target practice prop model (Target Large).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "target-large.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blaster-kit/kenney-blaster-kit-target-large/kenney-blaster-kit-target-large.glb",
+      "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+      "primaryBytes": 7568,
+      "totalBytes": 17791,
+      "primarySha256": "e55c0b3652823909268ffeda38f08f53e900ea259ff5834a3e35e386a9220e88",
+      "bundleSha256": "96c79679b032686ee9c2acb32e8c34e1e843a596b001f1d18ee6e577f4fd6867",
+      "bounds": {
+        "min": [
+          -0.05,
+          -0.17,
+          -0.17
+        ],
+        "max": [
+          0.05,
+          0.17,
+          0.17
+        ],
+        "size": [
+          0.1,
+          0.34,
+          0.34
+        ],
+        "center": [
+          0,
+          0,
+          0
+        ],
+        "diagonal": 0.491121
+      },
+      "triangleCount": 84,
+      "drawCallCount": 1,
+      "renderVertexCount": 252,
+      "uploadVertexCount": 116,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "blaster",
+        "weapon",
+        "target",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "arcade",
+        "practice",
+        "prop"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "animated",
+        "arcade",
+        "attachments",
+        "blaster",
+        "bright",
+        "clips",
+        "colorful",
+        "crates",
+        "dart",
+        "foam",
+        "grenades",
+        "gun",
+        "kenney",
+        "kit",
+        "large",
+        "poly",
+        "practice",
+        "projectiles",
+        "prop",
+        "props",
+        "scopes",
+        "shooter",
+        "silencers",
+        "stylized",
+        "target",
+        "toy",
+        "weapon"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-blaster-kit/kenney-blaster-kit-target-large.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 7052,
+        "sha256": "fe80c2e9d52cfa6bde2564c8d840f1dfa26b4f417f5a1b6133bd1107b404adc7",
+        "transparent": true,
+        "sourceBundleSha256": "96c79679b032686ee9c2acb32e8c34e1e843a596b001f1d18ee6e577f4fd6867",
+        "cacheKey": "d1232b242bbde3ca88f6a5af52629ed11ee7dac1419acd02753b6657cd579cfe",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.779929,
+          "pan": [
+            -0.011088,
+            0.001997,
+            0.00965
+          ],
+          "alphaBounds": {
+            "x": 93,
+            "y": 73,
+            "width": 325,
+            "height": 366,
+            "fill": 0.714844,
+            "centerOffset": {
+              "x": -0.5,
+              "y": 0,
+              "length": 0.5
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blaster-kit/kenney-blaster-kit-target-large.webp",
+        "packRelativePath": "previews/kenney-blaster-kit-target-large.webp"
+      },
+      "packId": "kenney-blaster-kit",
+      "publicPath": "assets/kenney-blaster-kit/kenney-blaster-kit-target-large/kenney-blaster-kit-target-large.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64/kenney-blaster-kit-target-large.glb"
+    },
+    {
+      "id": "kenney-blaster-kit-target-small",
+      "name": "Target Small",
+      "description": "Target practice prop model (Target Small).",
+      "kind": "model",
+      "format": "glb",
+      "relativePath": "target-small.glb",
+      "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/assets/kenney-blaster-kit/kenney-blaster-kit-target-small/kenney-blaster-kit-target-small.glb",
+      "sourceUrl": "https://kenney.nl/assets/blaster-kit",
+      "primaryBytes": 7592,
+      "totalBytes": 17815,
+      "primarySha256": "6f2e8fe26b13c8fdeecaab2c4a3309ec3243e17ce4a22c40951b14e0c14833dc",
+      "bundleSha256": "55796fe2b6a5decf6b7b468e4d81831db2dc64d43cf06c3b80f8910fd7dfd3ac",
+      "bounds": {
+        "min": [
+          -0.05,
+          -0.1,
+          -0.1
+        ],
+        "max": [
+          0.05,
+          0.1,
+          0.1
+        ],
+        "size": [
+          0.1,
+          0.2,
+          0.2
+        ],
+        "center": [
+          0,
+          0,
+          0
+        ],
+        "diagonal": 0.3
+      },
+      "triangleCount": 76,
+      "drawCallCount": 1,
+      "renderVertexCount": 228,
+      "uploadVertexCount": 117,
+      "materialCount": 1,
+      "textureCount": 1,
+      "animationCount": 0,
+      "skinCount": 0,
+      "tags": [
+        "3d",
+        "kenney",
+        "blaster",
+        "weapon",
+        "target",
+        "low-poly",
+        "stylized",
+        "bright",
+        "colorful",
+        "toy",
+        "arcade",
+        "practice",
+        "prop"
+      ],
+      "aliases": [],
+      "searchTokens": [
+        "animated",
+        "arcade",
+        "attachments",
+        "blaster",
+        "bright",
+        "clips",
+        "colorful",
+        "crates",
+        "dart",
+        "foam",
+        "grenades",
+        "gun",
+        "kenney",
+        "kit",
+        "poly",
+        "practice",
+        "projectiles",
+        "prop",
+        "props",
+        "scopes",
+        "shooter",
+        "silencers",
+        "small",
+        "stylized",
+        "target",
+        "toy",
+        "weapon"
+      ],
+      "warningCount": 0,
+      "errorCount": 0,
+      "preview": {
+        "type": "rendered-thumbnail",
+        "relativePath": "previews/kenney-blaster-kit/kenney-blaster-kit-target-small.webp",
+        "width": 512,
+        "height": 512,
+        "format": "webp",
+        "mimeType": "image/webp",
+        "bytes": 7006,
+        "sha256": "ba05904a81261f3cb6e2033e4181d7c949d6216275a10d3ce69254724ddcc126",
+        "transparent": true,
+        "sourceBundleSha256": "55796fe2b6a5decf6b7b468e4d81831db2dc64d43cf06c3b80f8910fd7dfd3ac",
+        "cacheKey": "8c46b1c6fbd824c4b9192b290711b8ffc8d150dbd88c3ea9f01b6845dd29c870",
+        "renderer": {
+          "name": "open-assets-gltf-preview",
+          "version": 2,
+          "three": "0.184.0",
+          "playwright": "1.59.1"
+        },
+        "camera": {
+          "preset": "front-top-quarter",
+          "direction": [
+            1.25,
+            0.9,
+            1.25
+          ],
+          "fovDeg": 35,
+          "targetFill": 0.72,
+          "fit": "alpha-bounds",
+          "distance": 0.502918,
+          "pan": [
+            -0.003371,
+            -0.00383,
+            0.006129
+          ],
+          "alphaBounds": {
+            "x": 85,
+            "y": 74,
+            "width": 343,
+            "height": 364,
+            "fill": 0.710938,
+            "centerOffset": {
+              "x": 0.5,
+              "y": 0,
+              "length": 0.5
+            }
+          }
+        },
+        "sampledAnimation": null,
+        "publicUrl": "https://raw.githubusercontent.com/openassetsarchive/open-assets/main/previews/kenney-blaster-kit/kenney-blaster-kit-target-small.webp",
+        "packRelativePath": "previews/kenney-blaster-kit-target-small.webp"
+      },
+      "packId": "kenney-blaster-kit",
+      "publicPath": "assets/kenney-blaster-kit/kenney-blaster-kit-target-small/kenney-blaster-kit-target-small.glb",
+      "releaseUrl": "https://github.com/openassetsarchive/open-assets/releases/download/pack-kenney-blaster-kit-005a0da1dc64/kenney-blaster-kit-target-small.glb"
+    }
+  ]
+}
